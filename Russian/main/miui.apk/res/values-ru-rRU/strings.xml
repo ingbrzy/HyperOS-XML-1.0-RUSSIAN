@@ -381,7 +381,7 @@
     <string name="error_title">Ошибка синхронизации</string>
     <string name="error_unauthorized">Синхронизация отключена из-за большого количества попыток входа в систему.</string>
     <string name="evening">PM</string>
-    <string name="experience_new_system_app">Ознакомьтесь с новыми функциями!</string>
+    <string name="experience_new_system_app">Попробуйте новые функции!</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>

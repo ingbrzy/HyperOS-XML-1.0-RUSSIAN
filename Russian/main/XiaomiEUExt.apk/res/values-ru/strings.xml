@@ -82,6 +82,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -142,6 +143,7 @@
     <string name="no_apps">Ничего нет</string>
     <string name="no_icons">Нет значков</string>
     <string name="noon">Полдень</string>
+    <string name="other_ime">Другие клавиатуры</string>
     <string name="reset">Сброс</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>

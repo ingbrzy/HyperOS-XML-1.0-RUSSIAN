@@ -2027,6 +2027,10 @@ mm"</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
     <string name="miuix_indexer_collect">Подборки</string>
     <string name="miuix_indexer_selected">Выбрано: %s</string>
+    <string name="miuix_item_view_role_description">Вкладка</string>
+    <string name="miuix_navigator_content_switch_description">Показать боковую панель</string>
+    <string name="miuix_navigator_multiple_choice">Выбрать</string>
+    <string name="miuix_navigator_navigator_switch_description">Скрыть боковую панель</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -2306,6 +2310,7 @@ mm"</string>
     <string name="osu_opening_provider">Открытие %1$s</string>
     <string name="osu_sign_up_complete">Регистрация завершена. Подключение…</string>
     <string name="osu_sign_up_failed">Не удалось завершить регистрацию. Нажмите для повтора.</string>
+    <string name="other_ime">Другие клавиатуры</string>
     <string name="other_networks_no_internet">"Сеть не подключена к Интернету"</string>
     <string name="overlay_display_devices_title">Эмуляция вторичных экранов</string>
     <string name="owner_name">"Владелец"</string>
@@ -3928,6 +3933,7 @@ mm"</string>
     <string name="wifi_p2p_failed_message">Не удалось запустить Wi-Fi Direct.</string>
     <string name="wifi_p2p_frequency_conflict_message">При подключении к устройству %1$s телефон будет временно отключаться от сети Wi-Fi</string>
     <string name="wifi_p2p_from_message">От:</string>
+    <string name="wifi_p2p_invitation_seconds_remaining">{0,plural, =1{Осталась # сек.}one{Осталась # сек.}few{Осталось # сек.}many{Осталось # сек.}other{Осталось # сек.}}</string>
     <string name="wifi_p2p_invitation_sent_title">Приглашение отправлено</string>
     <string name="wifi_p2p_invitation_to_connect_title">Приглашение к подключению</string>
     <string name="wifi_p2p_show_pin_message">PIN-код:</string>

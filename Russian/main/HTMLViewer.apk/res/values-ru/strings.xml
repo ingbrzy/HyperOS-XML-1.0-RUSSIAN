@@ -35,6 +35,13 @@
     <string name="app_name_which_call">Приложение: %s</string>
     <string name="app_version_which_call">Версия приложения: %s</string>
     <string name="autoconnect">Подключаться автоматически</string>
+    <string name="call_notification_answer_action">Ответить</string>
+    <string name="call_notification_answer_video_action">Видео</string>
+    <string name="call_notification_decline_action">Отклонить</string>
+    <string name="call_notification_hang_up_action">Завершить</string>
+    <string name="call_notification_incoming_text">Входящий вызов</string>
+    <string name="call_notification_ongoing_text">Текущий вызов</string>
+    <string name="call_notification_screening_text">Фильтрация входящего вызова</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="copyright">Авторские права</string>
@@ -83,6 +90,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
