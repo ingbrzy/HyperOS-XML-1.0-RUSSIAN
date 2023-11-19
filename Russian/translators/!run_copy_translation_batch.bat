@@ -45,8 +45,8 @@ call run_copy_translation.bat %1 MediaFeature
 call run_copy_translation.bat %1 MediaProvider
 call run_copy_translation.bat %1 MiBrowserGlobal
 call run_copy_translation.bat %1 MiCloudSync
+call run_copy_translation.bat %1 MiConnectService
 call run_copy_translation.bat %1 MiDrive
-call run_copy_translation.bat %1 MiFitness
 call run_copy_translation.bat %1 MiGalleryLockscreen
 call run_copy_translation.bat %1 MiLinkService
 call run_copy_translation.bat %1 MiMover
@@ -78,6 +78,8 @@ call run_copy_translation.bat %1 MiuiSystemUI
 call run_copy_translation.bat %1 MiuiSystemUIPlugin
 call run_copy_translation.bat %1 MiuiVideoGlobal
 call run_copy_translation.bat %1 MiuiWallpaper
+call run_copy_translation.bat %1 MiuiWifiDialog
+call run_copy_translation.bat %1 miuix
 call run_copy_translation.bat %1 MiuixEditor
 call run_copy_translation.bat %1 Mms
 call run_copy_translation.bat %1 MtpService
@@ -125,6 +127,7 @@ call run_copy_translation.bat %1 XiaomiAccount
 call run_copy_translation.bat %1 XiaomiEUExt
 call run_copy_translation.bat %1 XiaomiServiceFramework
 call run_copy_translation.bat %1 XiaomiSimActivateService
+call run_copy_translation.bat %1 XmsCore
 
 ;
 call run_copy_translation.bat %1 framework-ext-res -rRU

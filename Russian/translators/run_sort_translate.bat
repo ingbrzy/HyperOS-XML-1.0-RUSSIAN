@@ -1,7 +1,7 @@
 cls
 
 SET _run=D:\Android\XMLCompare\
-SET _dst=D:\Android\Github\MA-XML-14-RUSSIAN\Russian\translators\
+SET _dst=D:\Android\Github\HyperOS-XML-1.0-RUSSIAN\Russian\translators\
 
 del %_dst%result.xml
 %_run%XMLCompare /xliff /s %_dst%empty.xml /d %_dst%translate.xml /n 4
