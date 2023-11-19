@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
+        <item>:::1839:::%1$s : Проблема с подключением к сети Verizon Wi-Fi. (Ошибка 16384)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
+        <item>:::1839:::%1$s : Проблема с подключением к сети Verizon Wi-Fi. (Ошибка 16385)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32756_carrier_overrides">
+        <item>:::1839:::</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
+        <item>:::1839:::%1$s : Подключение к Verizon Wi-Fi Access вне зоны действия сети Verizon недоступно. (Ошибка 32760)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32761_carrier_overrides">
+        <item>:::1839:::%1$s : Вы не зарегистрированы в Verizon Wi-Fi Access. Позвоните 800-922-0204. (Ошибка 32761)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32762_carrier_overrides">
+        <item>:::1839:::%1$s : Проблема с аккаунтом Verizon Wi-Fi Access. Позвоните 800-922-0204. (Ошибка 32762)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32763_carrier_overrides">
+        <item>:::1839:::%1$s : Подключение к сети Verizon Wi-Fi Access уже установлено. (Ошибка 32763)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32764_carrier_overrides">
+        <item>:::1839:::%1$s : Проблема с подключением к сети Verizon Wi-Fi Access. Позвоните 800-922-0204. (Ошибка 32764)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32765_carrier_overrides">
+        <item>:::1839:::%1$s : Проблема с аккаунтом Verizon Wi-Fi Access. Позвоните 800-922-0204. (Ошибка 32765)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32766_carrier_overrides">
+        <item>:::1839:::%1$s : Verizon Wi-Fi Access недоступен в вашем регионе. Попробуйте позже или в другом месте. (Ошибка 32766)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
+        <item>:::1839:::%1$s : Проблема с подключением к сети Verizon Wi-Fi Access. Попробуйте позже или в другом месте. (Ошибка 32767)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
+        <item>:::1839:::%1$s : Проблема с подключением к сети Verizon Wi-Fi. (Ошибка Unknown)</item>
+    </string-array>
+</resources>

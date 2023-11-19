@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="bookshelf__general_shared__main_categories">
+        <item>Книжная полка</item>
+        <item>Библиотека</item>
+        <item>Книжная полка</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Белый</item>
+        <item>Жёлтый</item>
+        <item>Серый</item>
+        <item>Коричневый</item>
+        <item>Зелёный</item>
+        <item>Синий</item>
+    </string-array>
+    <string-array name="nf_ad_feedback_reason">
+         <item>Не интересует</item>
+         <item>Надоедливая</item>
+         <item>Низкое качество</item>
+         <item>Неуместное фото</item>
+         <item>Мошенническая информация</item>
+    </string-array>
+    <string-array name="nf_feedback_reason">
+        <item>Откровенный контент</item>
+        <item>Ложные сведения</item>
+        <item>Устаревшие новости</item>
+        <item>Экстремизм</item>
+        <item>Скрытая реклама</item>
+        <item>Не нравится</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Переход по страницам</item>
+        <item>Переход по вкладкам</item>
+        <item>Нет действий</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>По умолчанию</item>
+        <item>Особая</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Телефон</item>
+        <item>Планшет</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>По вертикали</item>
+        <item>По горизонтали</item>
+    </string-array>
+    <string-array name="pref_security_do_not_track_keys">
+        <item>Включено</item>
+        <item>В режиме инкогнито</item>
+        <item>Отключено</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Очень маленький</item>
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Крупный</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Компьютер</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_web_permissions">
+        <item>Запретить</item>
+        <item>Спрашивать</item>
+        <item>Разрешить</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>Запретить</item>
+        <item>Спрашивать</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>Запретить</item>
+        <item>Разрешить</item>
+    </string-array>
+    <string-array name="protection_name">
+        <item>Авто</item>
+        <item>Нет</item>
+        <item>Новый пользователь</item>
+    </string-array>
+    <string-array name="setting_home_page_show_list">
+        <item>Веб-сайты</item>
+        <item>Игры Mint</item>
+    </string-array>
+    <string-array name="setting_swipe_up_target">
+        <item>Поиск</item>
+        <item>Новости</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Удалить</item>
+        <item>Нет, спасибо</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>ОК</item>
+        <item>Подписаться</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Сообщение от браузера</item>
+        <item>Следите за Олимпиадой с Mi</item>
+    </string-array>
+    <string-array name="speed_result_tips">
+        <item>Очень низкая скорость соединения. Возможно вы находитесь в зоне с плохим покрытием.</item>
+        <item>Низкая скорость соединения.</item>
+        <item>Проблем с сетью не обнаружено.</item>
+        <item>Высокая скорость соединения. Вы можете смотреть фильмы онлайн!</item>
+        <item>Очень высокая скорость соединения. Исследуйте интернет на головокружительной скорости!</item>
+    </string-array>
+    <string-array name="user_guide_info_array">
+        <item>Загрузка видео и фото из соцсетей</item>
+        <item>Сохранение изображений и видео из статусов WhatsApp</item>
+        <item>Управление файлами на устройстве и их скрытие</item>
+    </string-array>
+    <string-array name="user_guide_title_array">
+        <item>Загрузка видео</item>
+        <item>Статусы WhatsApp</item>
+        <item>Приватные файлы</item>
+    </string-array>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_call">Вызов: %s</string>
+    <string name="action_text">Отправка SMS на номер %s</string>
+    <string name="app_name">Теги</string>
+    <string name="button_done">Готово</string>
+    <string name="call_notification_answer_action">Ответить</string>
+    <string name="call_notification_answer_video_action">Видео</string>
+    <string name="call_notification_decline_action">Отклонить</string>
+    <string name="call_notification_hang_up_action">Завершить</string>
+    <string name="call_notification_incoming_text">Входящий вызов</string>
+    <string name="call_notification_ongoing_text">Текущий вызов</string>
+    <string name="call_notification_screening_text">Фильтрация входящего вызова</string>
+    <string name="call_phone_permission_denied">Разрешите приложению осуществлять вызовы. Разрешение можно изменить в настройках.</string>
+    <string name="empty_tag_prompt">Этот тег пуст.</string>
+    <string name="external_storage_permission_denied">Разрешите приложению доступ к файлам на внешней памяти. Разрешение можно изменить в настройках.</string>
+    <string name="import_vcard">Импорт ^1</string>
+    <string name="mime_display_name">Данные из тега малого радиуса действия</string>
+    <string name="tag_empty">Пустой тег</string>
+    <string name="tag_unknown">Неизвестный тип тега</string>
+    <string name="title_existing_tag">Тег</string>
+    <string name="title_scanned_tag">Добавлен новый тег</string>
+    <string name="vcard_title">Контактная информация для ^1</string>
+</resources>

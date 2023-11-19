@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Оболочка</string>
+    <string name="bugreport_add_details_to_zip_failed">Не удалось добавить данные отчёта об ошибке в ZIP-файл</string>
+    <string name="bugreport_confirm">Отчёты об ошибках содержат данные различных системных журналов и могут включать конфиденциальную информацию (например, данные о местоположении). Открывайте к ним доступ только надёжным пользователям и приложениям.</string>
+    <string name="bugreport_confirm_dont_repeat">Больше не показывать</string>
+    <string name="bugreport_finished_pending_screenshot_text">Нажмите, чтобы отправить отчёт об ошибке сразу, или подождите, пока будет сохранён скриншот.</string>
+    <string name="bugreport_finished_text">Нажмите, чтобы отправить отчёт об ошибке.</string>
+    <string name="bugreport_finished_title">Отчёт об ошибке #%d сохранён</string>
+    <string name="bugreport_in_progress_title">Создание отчёта об ошибке #%d…</string>
+    <string name="bugreport_info_action">Детали</string>
+    <string name="bugreport_info_description">Описание ошибки</string>
+    <string name="bugreport_info_dialog_title">Данные отчёта об ошибке #%d</string>
+    <string name="bugreport_info_name">Название файла</string>
+    <string name="bugreport_info_title">Название ошибки</string>
+    <string name="bugreport_intent_chooser_title">Поделиться отчётом об ошибке</string>
+    <string name="bugreport_notification_channel">Отчёты об ошибках</string>
+    <string name="bugreport_screenshot_action">Сделать скриншот</string>
+    <string name="bugreport_screenshot_failed">Не удалось сделать скриншот</string>
+    <string name="bugreport_screenshot_taken">Скриншот сделан</string>
+    <string name="bugreport_storage_title">Отчёты об ошибках</string>
+    <string name="bugreport_unnamed">без названия</string>
+    <string name="bugreport_unreadable_text">Не удалось открыть отчёт об ошибке</string>
+    <string name="bugreport_updating_title">Добавление данных в отчёт об ошибке</string>
+    <string name="bugreport_updating_wait">Подождите…</string>
+    <string name="call_notification_answer_action">Ответить</string>
+    <string name="call_notification_answer_video_action">Видео</string>
+    <string name="call_notification_decline_action">Отклонить</string>
+    <string name="call_notification_hang_up_action">Завершить</string>
+    <string name="call_notification_incoming_text">Входящий вызов</string>
+    <string name="call_notification_ongoing_text">Текущий вызов</string>
+    <string name="call_notification_screening_text">Фильтрация входящего вызова</string>
+    <string name="save">Сохранить</string>
+</resources>
