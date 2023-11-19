@@ -85,16 +85,4 @@
         <item>Ю</item>
         <item>Я</item>
     </string-array>
-<!-- ### FROM SOURCE -->
-    <string-array name="dock_location_entries">
-        <item>left</item>
-        <item>right</item>
-    </string-array>
-<!-- ### FROM SOURCE -->
-    <string-array name="freeform_support_multi_task">
-        <item>com.miui.notes</item>
-        <item>com.android.email</item>
-        <item>com.android.browser</item>
-        <item>cn.wps.moffice_eng</item>
-    </string-array>
 </resources>

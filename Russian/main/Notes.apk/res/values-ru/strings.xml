@@ -456,6 +456,10 @@
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
     <string name="miuix_indexer_collect">Подборки</string>
     <string name="miuix_indexer_selected">Выбрано: %s</string>
+    <string name="miuix_item_view_role_description">Вкладка</string>
+    <string name="miuix_navigator_content_switch_description">Показать боковую панель</string>
+    <string name="miuix_navigator_multiple_choice">Выбрать</string>
+    <string name="miuix_navigator_navigator_switch_description">Скрыть боковую панель</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -1007,6 +1011,8 @@
     <string name="toolbar_theme_description">Выбор темы</string>
     <string name="toolbar_undo_description">Отменить</string>
     <string name="toolbar_voice_description">Голос</string>
+    <string name="toolbar_voice_done_description">Остановить</string>
+    <string name="toolbar_voice_mark_description">Отметить</string>
     <string name="trash_folder_name">Корзина</string>
     <string name="trash_folder_reminder">Заметки будут навсегда удалены через 30 дней</string>
     <string name="trash_folder_reminder_new">Заметки будут храниться в корзине %d д., затем будут удалены навсегда.</string>

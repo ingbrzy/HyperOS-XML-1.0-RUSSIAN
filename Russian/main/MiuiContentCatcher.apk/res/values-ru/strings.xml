@@ -82,6 +82,7 @@
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
+    <string name="hide_password_talkback">Скрыть пароль</string>
     <string name="invalid_package_signature">Неверная подпись приложения</string>
     <string name="login_mi_account_alert">Внимание</string>
     <string name="login_mi_account_summary">Менеджер паролей синхронизирует пароли с Xiaomi аккаунтом. Войти?</string>
@@ -171,6 +172,7 @@
     <string name="settings_clear_data_confirmation_description">В случае удаления пароля, вам придется ввести его заново при входе в систему.
 Удалить пароль?</string>
     <string name="settings_clear_data_confirmation_title">Удаление паролей</string>
+    <string name="show_password_talkback">Показать пароль</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>

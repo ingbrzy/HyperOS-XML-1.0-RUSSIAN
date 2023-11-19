@@ -546,7 +546,7 @@ ID:%s
     <string name="input_new_pwd">Введите новый пароль</string>
     <string name="installing_apk">Установка…</string>
     <string name="insufficient_space">"Недостаточно места во внутренней памяти устройства"</string>
-    <string name="introduction">Вступление</string>
+    <string name="introduction">Введение</string>
     <string name="is_scanning">Проверка памяти…</string>
     <string name="isornot_your_mi_account">Это ваш Xiaomi аккаунт?</string>
     <string name="just_a_second">Подождите…</string>

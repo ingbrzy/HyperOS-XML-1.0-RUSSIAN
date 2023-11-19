@@ -207,6 +207,7 @@ ID: %s
     <string name="download_title_sorted_by_date">Сортировка по дате</string>
     <string name="download_title_sorted_by_size">Сортировка по размеру</string>
     <string name="download_wait_connect">Ожидание подключения</string>
+    <string name="download_waiting">Ожидание…</string>
     <string name="download_when_network_connected">Загружать, используя мобильный интернет</string>
     <string name="downloaded">Загрузка завершена</string>
     <string name="downloaded_empty">Нет загрузок</string>
@@ -292,6 +293,7 @@ ID: %s
     <string name="install_failed">Не удалось установить %1$s</string>
     <string name="installing">Установка…</string>
     <string name="insufficient_space">Недостаточно места</string>
+    <string name="introduction">Введение</string>
     <string name="invalid_address">Неверный путь к файлу</string>
     <string name="jump_rank_hint">Посмотрите рейтинг загрузок &gt;</string>
     <string name="jump_rank_hint2">Посмотрите популярные загрузки</string>
@@ -337,6 +339,10 @@ ID: %s
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
     <string name="miuix_indexer_collect">Подборки</string>
     <string name="miuix_indexer_selected">Выбрано: %s</string>
+    <string name="miuix_item_view_role_description">Вкладка</string>
+    <string name="miuix_navigator_content_switch_description">Показать боковую панель</string>
+    <string name="miuix_navigator_multiple_choice">Выбрать</string>
+    <string name="miuix_navigator_navigator_switch_description">Скрыть боковую панель</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>

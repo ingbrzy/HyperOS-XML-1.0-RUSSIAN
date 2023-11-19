@@ -1203,6 +1203,10 @@
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
     <string name="miuix_indexer_collect">Подборки</string>
     <string name="miuix_indexer_selected">Выбрано: %s</string>
+    <string name="miuix_item_view_role_description">Вкладка</string>
+    <string name="miuix_navigator_content_switch_description">Показать боковую панель</string>
+    <string name="miuix_navigator_multiple_choice">Выбрать</string>
+    <string name="miuix_navigator_navigator_switch_description">Скрыть боковую панель</string>
     <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Потяните для обновления</string>
     <string name="miuix_sb_tracking_progress_labe_refreshed">Обновлено</string>
     <string name="miuix_sb_tracking_progress_labe_refreshing">Обновление</string>
