@@ -453,6 +453,7 @@
     <string name="add_user_failed">Ошибка создания нового пользователя</string>
     <string name="adjust_button_width">Выбор ширины кнопки</string>
     <string name="afternoon">После полудня</string>
+    <string name="air_quality_index_abbreviation">ИКВ</string>
     <string name="airplane_mode">Режим полёта</string>
     <string name="alarm_template">в %1$s</string>
     <string name="alarm_template_far">в %1$s</string>
@@ -487,6 +488,8 @@
     <string name="appops_mic_overlay">Приложение отображается поверх других приложений и использует микрофон</string>
     <string name="appops_microphone">Приложение использует микрофон</string>
     <string name="appops_overlay">Приложение отображается поверх других приложений</string>
+    <string name="aqi_format">ИКВ %s</string>
+    <string name="aqi_format_desc">Индекс качества воздуха: %s</string>
     <string name="as_important">Важное</string>
     <string name="as_unimportant">Неважное</string>
     <string name="ask_me_later_bubbles">Спросить позже</string>
@@ -495,6 +498,7 @@
     <string name="aspect_ok">ОК</string>
     <string name="aspect_title">Полноэкранный режим</string>
     <string name="assistant_attention_content_description">"Ассистент готов слушать"</string>
+    <string name="atmosphere_pressure_unit">гПа</string>
     <string name="audio_effect_custom">Настроить</string>
     <string name="audio_effect_info">Улучшение звука</string>
     <string name="audio_effect_settings">Тип наушников</string>
@@ -742,28 +746,6 @@
     <string name="bt_le_audio_broadcast_dialog_title">Остановить трансляцию %1$s?</string>
     <string name="bt_le_audio_broadcast_dialog_unknown_name">"Неизвестно"</string>
     <string name="btn_camera">Добавить данные лица</string>
-    <string name="bubble_accessibility_action_add_back">Вернуть</string>
-    <string name="bubble_accessibility_action_move">Перемещение</string>
-    <string name="bubble_accessibility_action_move_bottom_left">Переместить в нижний левый</string>
-    <string name="bubble_accessibility_action_move_bottom_right">Переместить в нижний правый</string>
-    <string name="bubble_accessibility_action_move_top_left">Переместить в верхний левый</string>
-    <string name="bubble_accessibility_action_move_top_right">Переместить в верхний правый</string>
-    <string name="bubble_content_description_single">%1$s от %2$s</string>
-    <string name="bubble_content_description_stack">%1$s от %2$s и %3$d</string>
-    <string name="bubble_dismiss_text">Отклонить</string>
-    <string name="bubble_overflow_button_content_description">Переполнено</string>
-    <string name="bubble_overflow_empty_subtitle">Здесь будут отображаться недавние и отклоненные \"пузыри\"</string>
-    <string name="bubble_overflow_empty_title">Ничего нет</string>
-    <string name="bubbles_app_settings">Настройки %1$s</string>
-    <string name="bubbles_deep_link_button_description">Открыть %1$s</string>
-    <string name="bubbles_dont_bubble_conversation">Не показывать \"пузырь\" для диалога</string>
-    <string name="bubbles_prompt">Разрешить \"пузыри\" от %1$s?</string>
-    <string name="bubbles_settings_button_description">Настройки \"пузырей\" для %1$s</string>
-    <string name="bubbles_user_education_description">Новые диалоги будут отображаться в виде плавающих значков или \"пузырей\". Нажмите на \"пузырь\", чтобы открыть или перетащите в другое место.</string>
-    <string name="bubbles_user_education_got_it">Понятно</string>
-    <string name="bubbles_user_education_manage">Настройка отображения \"пузырей\" для приложения</string>
-    <string name="bubbles_user_education_manage_title">Управление \"пузырями\"</string>
-    <string name="bubbles_user_education_title">Использование \"пузырей\"</string>
     <string name="bugreport_in_power">Отчёт об ошибке</string>
     <string name="bugreport_in_power_summary">Показывать в меню кнопки \"Питание\" кнопку для отправки отчёта об ошибке</string>
     <string name="build_number_clip_data_label">Номер сборки</string>
@@ -824,6 +806,8 @@
     <string name="choose_clock_title_middle">По центру</string>
     <string name="choose_clock_title_vertical">Вертикально</string>
     <string name="choose_profile">Выберите профиль</string>
+    <string name="classic_calendar_day_of_week_format">EE</string>
+    <string name="classic_calendar_month_of_year_format">MMM</string>
     <string name="clear_adb_keys">Отзыв разрешений отладки по USB</string>
     <string name="clear_all_notifications_text">Очистить все</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
@@ -1520,6 +1504,8 @@
     <string name="how_to_use_drawer">Как открыть боковое меню</string>
     <string name="how_to_use_drawer_summary">Проведите вправо в верхней части экрана</string>
     <string name="how_to_use_fsg">Выполняйте эти действия с помощью жестов:</string>
+    <string name="humidity_format">Влажность %s</string>
+    <string name="humidity_format_with_unit">%s</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="ime_security_warning">%1$s может записывать все, что вы вводите, включая пароли, номера кредитных карт и прочие личные данные.</string>
     <string name="ime_security_warning_global">Методы ввода могут собирать весь вводимый вами текст, включая такие личные данные, как пароли и номера кредитных карт. Использовать %1$s?</string>
@@ -1560,6 +1546,7 @@
     <string name="input_lockscreen_pin_hint_text">Введите PIN-код</string>
     <string name="input_password_after_boot_msg">После перезагрузки требуется ввод пароля</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Переключение между пространствами во время вызова недоступно</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_desktop_mode_active">Переключение между пространствами в режиме рабочей станции недоступно</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_active">Переключение между пространствами в режиме гибернации недоступно</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_endurance_battery_zero_active">Переключение между пространствами недоступно из-за низкого заряда батареи</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Переход во второе пространство запрещён родительским контролем</string>
@@ -1692,6 +1679,7 @@
     <string name="keyguard_charging_normal_and_level_tip">Зарядка %d%%</string>
     <string name="keyguard_charging_quick_and_level_tip">Быстрая зарядка %d%%</string>
     <string name="keyguard_charging_super_quick_and_level_tip">Ускоренная зарядка %d%%</string>
+    <string name="keyguard_editor_super_save_mode_toast">Изменение экрана блокировки при включенном режиме ультраэкономии заряда недоступно</string>
     <string name="keyguard_enter_password">Введите пароль</string>
     <string name="keyguard_enter_pattern">Введите графический ключ</string>
     <string name="keyguard_enter_pin">Введите PIN-код</string>
@@ -1715,6 +1703,7 @@
     <string name="keyguard_left_smarthome">Mi Home</string>
     <string name="keyguard_left_torch">Фонарик</string>
     <string name="keyguard_left_view_lock_wallpaper">Карусель обоев</string>
+    <string name="keyguard_loading_to_editor_tips">Открытие редактора экрана блокировки…</string>
     <string name="keyguard_low_battery">Батарея разряжена</string>
     <string name="keyguard_missing_sim_instructions">Вставьте SIM карту</string>
     <string name="keyguard_missing_sim_instructions_long">SIM карта отсутствует или не читается. Вставьте SIM карту.</string>
@@ -2065,6 +2054,8 @@ d MMMM"</string>
     <string name="missed_call">Пропущенный вызов</string>
     <string name="miui_clock_city_name_local">Местное время</string>
     <string name="miui_clock_city_name_second">Вторые часы</string>
+    <string name="miui_clock_time_format_12">hh:mm</string>
+    <string name="miui_clock_time_format_24">HH:mm</string>
     <string name="miui_guide_dialog_button_negative_text">Настройки</string>
     <string name="miui_guide_dialog_button_positive_text">Понятно</string>
     <string name="miui_guide_dialog_message">Звуки мультимедиа (музыка, видео и т.д.) будут по-прежнему воспроизводиться в режиме \"Без звука\". Для изменения перейдите в Настройки.</string>
@@ -2073,6 +2064,7 @@ d MMMM"</string>
     <string name="miui_keyboard_shortcut_system_dock">Показать панель приложения</string>
     <string name="miui_keyboard_shortcut_system_quickly_recent">Переключение между недавними приложениями</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Разблокировано Bluetooth устройством</string>
+    <string name="miui_lock_empty" />
     <string name="miui_lock_screen_date">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
@@ -2083,6 +2075,12 @@ dd.MM"</string>
 dd.MM"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 dd.MM"</string>
+    <string name="miui_magazine_c_clock_style1_week">EEEE</string>
+    <string name="miui_magazine_c_clock_style2_date">d.M EE</string>
+    <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd MMM</string>
+    <string name="miui_magazine_clock_date">d.M</string>
+    <string name="miui_magazine_clock_date_content_description">dd.MM</string>
+    <string name="miui_magazine_clock_week">EEE</string>
     <string name="miui_notification_menu_aggregate_feedback">Отзыв</string>
     <string name="miui_notification_menu_allow">Разрешить</string>
     <string name="miui_notification_menu_feedback_success">Благодарим за отзыв!</string>
@@ -2098,12 +2096,17 @@ dd.MM"</string>
     <string name="miui_notification_slide_menu_msg_ongoing">Отключить постоянные уведомления для \"%1$s\"?</string>
     <string name="miui_notification_slide_menu_ongoing">Отключить постоянные уведомления</string>
     <string name="miui_restart_button_description">Перезагрузка для улучшения отображения</string>
+    <string name="miui_rhombus_clock_date">dd MMMM</string>
+    <string name="miui_rhombus_clock_week">EEE</string>
+    <string name="miui_rhombus_clock_week_full">EEEE</string>
     <string name="miui_ringer_count_down">Таймер</string>
     <string name="miui_ringer_standard">Без звука</string>
     <string name="miui_ringer_standard_description">Отключить звук для входящих вызовов и уведомлений</string>
     <string name="miui_ringer_total">Не беспокоить</string>
     <string name="miui_ringer_total_description">Отключить звук и вибрацию для всего, кроме будильника</string>
     <string name="miui_screen_rotation_freeze_message">Ориентация экрана зафиксирована в альбомном режиме</string>
+    <string name="miui_smart_frame_clock_date">d.M</string>
+    <string name="miui_smart_frame_clock_week">EEE</string>
     <string name="miui_snooze_always_float">Не скрывать</string>
     <string name="miui_snooze_cancel">Отмена</string>
     <string name="miui_snooze_default_time">На %d мин.</string>
@@ -2345,6 +2348,9 @@ mm"</string>
     <string name="multi_face_list">Данные лица</string>
     <string name="multi_face_name_prefix">"Данные лица "</string>
     <string name="multi_face_number_reach_limit">Нельзя добавить данные более чем для 2 лиц</string>
+    <string name="multiwin_closewindow">Закрыть окно</string>
+    <string name="multiwin_newwindow">Новое окно</string>
+    <string name="multiwin_windowcontrol">Панель управления окном</string>
     <string name="music_controls_no_title">Без названия</string>
     <string name="nav_bar">Панель навигации</string>
     <string name="nav_bar_default">(по умолчанию)</string>
@@ -2365,6 +2371,10 @@ mm"</string>
     <string name="no_auto_saver_action">Нет, спасибо</string>
     <string name="no_bubbles">Запретить</string>
     <string name="no_conversations_text">Ваши недавние диалоги будут отображаться здесь</string>
+    <string name="no_data_placeholder_single_line_string">-</string>
+    <string name="no_data_placeholder_string">--</string>
+    <string name="no_data_placeholder_string_with_percent_sign">--%</string>
+    <string name="no_data_placeholder_string_with_temperature_unit">--°</string>
     <string name="no_multi_window_app">Нет приложений, поддерживающих разделение экрана</string>
     <string name="no_notification_tips">Нет уведомлений</string>
     <string name="no_shortcut">%1$s не поддерживает функции диалогов</string>
@@ -2373,6 +2383,7 @@ mm"</string>
     <string name="no_weather_description">Получить информацию о погоде &gt;</string>
     <string name="non_carrier_network_unavailable">Нет других доступных сетей</string>
     <string name="noon">Полдень</string>
+    <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_default_data_content_description">Не настроено для использования данных</string>
     <string name="not_grant_admin">Не предоставлять права администратора</string>
     <string name="not_set">Не задано</string>
@@ -2489,6 +2500,7 @@ mm"</string>
     <string name="notification_section_header_gentle">Без звука</string>
     <string name="notification_section_header_incoming">Новые</string>
     <string name="notification_silence_title">Без звука</string>
+    <string name="notification_status_bar">Уведомления и строка состояния</string>
     <string name="notification_storage_float">Внешний накопитель</string>
     <string name="notification_summary_message_format">%1$s: %2$s</string>
     <string name="notification_tap_again">Нажмите ещё раз для открытия</string>
@@ -2730,7 +2742,13 @@ mm"</string>
     <string name="quick_controls_subtitle">Добавьте элементы управления для подключённых устройств</string>
     <string name="quick_controls_title">Управление устройствами</string>
     <string name="quick_settings">Быстрые настройки</string>
+    <string name="quick_settings_airplane_state_change_message_off">Режим полёта отключён</string>
+    <string name="quick_settings_airplane_state_change_message_on">Режим полёта включён</string>
+    <string name="quick_settings_auto_rotate_state_change_message_off">Автоповорот отключён</string>
+    <string name="quick_settings_auto_rotate_state_change_message_on">Автоповорот включён</string>
     <string name="quick_settings_autobrightness_label">Автояркость</string>
+    <string name="quick_settings_autobrightness_state_change_message_off">Автояркость отключена</string>
+    <string name="quick_settings_autobrightness_state_change_message_on">Автояркость включена</string>
     <string name="quick_settings_batterysaver_label">Экономия заряда</string>
     <string name="quick_settings_bluetooth_connected_tip">Подключено по Bluetooth</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Нет подключённых устройств</string>
@@ -2747,6 +2765,8 @@ mm"</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">АВТО</string>
     <string name="quick_settings_brightness_dialog_title">Яркость</string>
     <string name="quick_settings_brightness_label">Яркость</string>
+    <string name="quick_settings_bt_state_change_message_off">Bluetooth отключён</string>
+    <string name="quick_settings_bt_state_change_message_on">Bluetooth включён</string>
     <string name="quick_settings_camera_label">Доступ к камере</string>
     <string name="quick_settings_camera_mic_available">Доступен</string>
     <string name="quick_settings_camera_mic_blocked">Заблокирован</string>
@@ -2770,6 +2790,8 @@ mm"</string>
     <string name="quick_settings_cellular_detail_remaining_data">Остаток трафика</string>
     <string name="quick_settings_cellular_detail_title">Интернет</string>
     <string name="quick_settings_cellular_detail_unable_change">Изменение во время вызова невозможно</string>
+    <string name="quick_settings_cellular_state_change_message_off">Мобильный интернет отключён</string>
+    <string name="quick_settings_cellular_state_change_message_on">Мобильный интернет включён</string>
     <string name="quick_settings_close_user_panel">Закрыть</string>
     <string name="quick_settings_color_correction_label">Коррекция цвета</string>
     <string name="quick_settings_color_space_label">Коррекция цвета</string>
@@ -2809,6 +2831,8 @@ mm"</string>
     <string name="quick_settings_dnd_label">Не беспокоить</string>
     <string name="quick_settings_dnd_none_label">Полная тишина</string>
     <string name="quick_settings_dnd_priority_label">Только важные</string>
+    <string name="quick_settings_dnd_state_change_message_off">Режим \"Не беспокоить\" отключён</string>
+    <string name="quick_settings_dnd_state_change_message_on">Режим \"Не беспокоить\" включён</string>
     <string name="quick_settings_done">Готово</string>
     <string name="quick_settings_drivemode_label">Режим вождения</string>
     <string name="quick_settings_dual_location_label">Двойной GPS</string>
@@ -2817,6 +2841,8 @@ mm"</string>
     <string name="quick_settings_financed_disclosure_named_management">Устройство предоставлено %s</string>
     <string name="quick_settings_flashlight_camera_in_use">Камера используется</string>
     <string name="quick_settings_flashlight_label">Фонарик</string>
+    <string name="quick_settings_flashlight_state_change_message_off">Фонарик отключён</string>
+    <string name="quick_settings_flashlight_state_change_message_on">Фонарик включён</string>
     <string name="quick_settings_font_scaling_label">"Размер шрифта"</string>
     <string name="quick_settings_googlehome_label">Google Home</string>
     <string name="quick_settings_googlepay_label">Google Pay</string>
@@ -2826,6 +2852,8 @@ mm"</string>
     <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Включена экономия трафика</string>
     <string name="quick_settings_hotspot_secondary_label_num_devices">"{count,plural, =1{# устройство}one{# устройство}few{# устройства}many{# устройств}other{# устройства}}"</string>
     <string name="quick_settings_hotspot_secondary_label_transient">Включение…</string>
+    <string name="quick_settings_hotspot_state_change_message_off">Точка доступа отключена</string>
+    <string name="quick_settings_hotspot_state_change_message_on">Точка доступа включена</string>
     <string name="quick_settings_ime_label">Способ ввода</string>
     <string name="quick_settings_intelligent_dual_sim_accelerate_summary">Использовать мобильный интернет второй SIM-карты для увеличения скорости соединения</string>
     <string name="quick_settings_intelligent_dual_sim_accelerate_title">Умная двойная SIM-карта</string>
@@ -2833,6 +2861,8 @@ mm"</string>
     <string name="quick_settings_inversion_label">Инверсия цвета</string>
     <string name="quick_settings_location_label">Геолокация</string>
     <string name="quick_settings_location_off_label">Геолокация откл.</string>
+    <string name="quick_settings_location_state_change_message_off">Геолокация отключена</string>
+    <string name="quick_settings_location_state_change_message_on">Геолокация включена</string>
     <string name="quick_settings_low_battery_toast_text">Фонарик недоступен. Низкий заряд батареи.</string>
     <string name="quick_settings_media_device_label">Режим медиа</string>
     <string name="quick_settings_mic_label">Доступ к микрофону</string>
@@ -2844,20 +2874,30 @@ mm"</string>
     <string name="quick_settings_more_settings">Настройки</string>
     <string name="quick_settings_more_user_settings">Управление пользователями</string>
     <string name="quick_settings_mute_label">Без звука</string>
+    <string name="quick_settings_mute_state_change_message_off">Режим \"Без звука\" отключён</string>
+    <string name="quick_settings_mute_state_change_message_on">Режим \"Без звука\" включён</string>
     <string name="quick_settings_networks_available">Сети доступны</string>
     <string name="quick_settings_networks_unavailable">Сети недоступны</string>
     <string name="quick_settings_nfc_label">NFC</string>
     <string name="quick_settings_nfc_off">NFC отключён</string>
     <string name="quick_settings_nfc_on">NFC включён</string>
+    <string name="quick_settings_nfc_state_change_message_off">NFC отключён</string>
+    <string name="quick_settings_nfc_state_change_message_on">NFC включён</string>
     <string name="quick_settings_night_display_label">Ночной режим</string>
     <string name="quick_settings_night_secondary_label_on_at">С %s</string>
     <string name="quick_settings_night_secondary_label_on_at_sunset">На закате</string>
     <string name="quick_settings_night_secondary_label_until_sunrise">До восхода</string>
+    <string name="quick_settings_night_state_change_message_off">Тёмный режим отключён</string>
+    <string name="quick_settings_night_state_change_message_on">Тёмный режим включён</string>
     <string name="quick_settings_nightmode_label">Тёмный режим</string>
     <string name="quick_settings_notifications_label">Уведомления</string>
     <string name="quick_settings_onehanded_label">Режим управления одной рукой</string>
+    <string name="quick_settings_paper_state_change_message_off">Режим чтения отключён</string>
+   <string name="quick_settings_paper_state_change_message_on">Режим чтения включён</string>
     <string name="quick_settings_papermode_label">Режим чтения</string>
     <string name="quick_settings_powermode_label">Производительность</string>
+    <string name="quick_settings_powersaver_state_change_message_off">Экономия заряда отключена</string>
+    <string name="quick_settings_powersaver_state_change_message_on">Экономия заряда включена</string>
     <string name="quick_settings_quietmode_label">Не беспокоить</string>
     <string name="quick_settings_reset_confirmation_button">Скрыть</string>
     <string name="quick_settings_reset_confirmation_message">Этот параметр появится при его следующем включении.</string>
@@ -2865,6 +2905,8 @@ mm"</string>
     <string name="quick_settings_rotation_locked_label">Автоповорот откл.</string>
     <string name="quick_settings_rotation_locked_landscape_label">Альбомная</string>
     <string name="quick_settings_rotation_locked_portrait_label">Книжная</string>
+    <string name="quick_settings_rotation_state_change_message_off">Автоповорот включён</string>
+    <string name="quick_settings_rotation_state_change_message_on">Автоповорот отключён</string>
     <string name="quick_settings_rotation_unlocked_label">Автоповорот</string>
     <string name="quick_settings_rotationlock_label">Запрет автоповорота</string>
     <string name="quick_settings_rssi_emergency_only">Только экстренные вызовы</string>
@@ -2884,10 +2926,14 @@ mm"</string>
     <string name="quick_settings_secondary_label_until">До %s</string>
     <string name="quick_settings_settings_label">Настройки</string>
     <string name="quick_settings_sim_disabled">" (Отключена)"</string>
+    <string name="quick_settings_state_change_message_off">%1$s откл.</string>
+    <string name="quick_settings_state_change_message_on">%1$s вкл.</string>
     <string name="quick_settings_state_saved">Сохранённые</string>
     <string name="quick_settings_state_wifi_select_nearby_ap">Выбор сети Wi-Fi поблизости</string>
     <string name="quick_settings_state_wlan_select_nearby_ap">Выбор сети Wi-Fi поблизости</string>
     <string name="quick_settings_sync_label">Синхронизация</string>
+    <string name="quick_settings_sync_state_change_message_off">Синхронизация отключена</string>
+    <string name="quick_settings_sync_state_change_message_on">Синхронизация включена</string>
     <string name="quick_settings_tethering_label">Режим модема</string>
     <string name="quick_settings_time_label">Время</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Чтобы добавить элемент, перетащите его в верхнюю часть панели</string>
@@ -2896,6 +2942,8 @@ mm"</string>
     <string name="quick_settings_user_new_user">Новый пользователь</string>
     <string name="quick_settings_user_title">Пользователь</string>
     <string name="quick_settings_vibrate_label">Вибрация</string>
+    <string name="quick_settings_vibrate_state_change_message_off">Вибрация отключена</string>
+    <string name="quick_settings_vibrate_state_change_message_on">Вибрация включена</string>
     <string name="quick_settings_vowifi_label">Wi-Fi вызов</string>
     <string name="quick_settings_vowifi_sim1_label">Wi-Fi вызов SIM1</string>
     <string name="quick_settings_vowifi_sim2_label">Wi-Fi вызов SIM2</string>
@@ -2914,8 +2962,12 @@ mm"</string>
     <string name="quick_settings_wifi_off_label">Wi-Fi откл.</string>
     <string name="quick_settings_wifi_on_label">Wi-Fi вкл.</string>
     <string name="quick_settings_wifi_secondary_label_transient">Включение…</string>
+    <string name="quick_settings_wifi_state_change_message_off">Wi-Fi откл.</string>
+    <string name="quick_settings_wifi_state_change_message_on">Wi-Fi вкл.</string>
     <string name="quick_settings_wireless_label">Обратная беспроводная зарядка</string>
     <string name="quick_settings_wlan_is_off">Wi-Fi отключен</string>
+    <string name="quick_settings_wlan_state_change_message_off">Wi-Fi откл.</string>
+    <string name="quick_settings_wlan_state_change_message_on">Wi-Fi вкл.</string>
     <string name="quick_settings_work_mode_label">Рабочий режим</string>
     <string name="quick_step_accessibility_toggle_overview">Обзор переключателей</string>
     <string name="rapid_charge_mode_tip">Быстрая зарядка</string>
@@ -3194,6 +3246,7 @@ mm"</string>
     <string name="show_touches_summary">Визуализировать касания и жесты</string>
     <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Нажмите и удерживайте кнопки &lt;font color=#e6e6e6>[Питание]&lt;/font> и &lt;font color=#e6e6e6>[Громкость +]&lt;/font> пока не увидите &lt;img src=\"\">.</Data></string>
     <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Выберите &lt;font color=#e6e6e6>[Wipe Data]&lt;/font> и нажмите &lt;font color=#e6e6e6>[Reboot]&lt;/font>.</Data></string>
+    <string name="sim_lock_bouncer_hint_msg">SIM-карта заблокирована. Замените её или введите пароль для разблокировки.</string>
     <string name="sim_state_locked_dialog_title">Неверная SIM-карта</string>
     <string name="sim_state_locked_puk_dialog_message">Неверный ввод PUK-кода (попытки: %d). SIM-карта теперь недействительна. Замените эту SIM-карту на другую.</string>
     <string name="simulate_color_space">Имитация аномалии</string>
@@ -3242,6 +3295,7 @@ mm"</string>
     <string name="solar_term_white_dews">Белые росы</string>
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
+    <string name="somatosensory_temperature_format">Ощущается как %s°</string>
     <string name="sos_status_bar_summary">Нажмите для выхода</string>
     <string name="sos_status_bar_title">SOS</string>
     <string name="sound_settings">"Звук и вибрация"</string>
@@ -3332,6 +3386,8 @@ d MMMM"</string>
     <string name="stream_voice_call">Вызов</string>
     <string name="strict_mode">Строгий режим</string>
     <string name="strict_mode_summary">Мигать экраном во время длительных операций в основном потоке</string>
+    <string name="strong_toast_charging">Зарядка</string>
+    <string name="strong_toast_quick_charging">Быстрая зарядка</string>
     <string name="structure_face_data_delete_fail">Ошибка удаления данных. Повторите попытку.</string>
     <string name="structure_face_data_input_down">Опустите голову</string>
     <string name="structure_face_data_input_error_away_screen">Отодвиньте телефон дальше от лица</string>
@@ -3407,6 +3463,7 @@ d MMMM"</string>
     <string name="task_access_locked_app_msg">Включена защита приложений</string>
     <string name="telephony_monitor_switch">Монитор телефонии</string>
     <string name="telephony_monitor_switch_summary">Обнаружив проблему в работе модема или телефонной связи, монитор телефонии будет собирать журналы и предлагать пользователю отправить информацию об ошибке.</string>
+    <string name="temperature_unit">°</string>
     <string name="tether_settings_title_all">Модем и точка доступа</string>
     <string name="tether_settings_title_bluetooth">Bluetooth-модем</string>
     <string name="tether_settings_title_usb">USB-модем</string>
@@ -3415,6 +3472,7 @@ d MMMM"</string>
     <string name="tethering_hardware_offload">Аппаратное ускорение модема</string>
     <string name="tethering_hardware_offload_summary">Использовать аппаратное ускорение модема, если доступно</string>
     <string name="tethering_settings_not_available">Этот пользователь не может изменять настройки режима модема</string>
+    <string name="text_slash">/</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>
@@ -3562,6 +3620,7 @@ d MMMM"</string>
     <string name="tv_notification_panel_no_notifications">Нет уведомлений</string>
     <string name="tv_notification_panel_title">Уведомления</string>
     <string name="two_weeks_timestamp">2 недели назад</string>
+    <string name="ultraviolet_rays_abbreviation">УФИ</string>
     <string name="un_important_notifications">Неважные уведомления</string>
     <string name="unimportant_desc">Все неважные уведомления будут появляться в отдельной папке.</string>
     <string name="unimportant_title">Неважное</string>
@@ -3686,6 +3745,8 @@ d MMMM"</string>
     <string name="using_camera">Приложение использует камеру</string>
     <string name="using_camera_and_microphone">Приложение использует микрофон и камеру</string>
     <string name="using_microphone">Приложение использует микрофон</string>
+    <string name="uvi_format">УФИ %1$s %2$s</string>
+    <string name="uvi_format_desc">УФ-индекс: %1$s, %2$s</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="verify_apps_over_usb_summary">Выполнять проверку безопасности приложений при установке через ADB/ADT</string>
@@ -3769,6 +3830,7 @@ d MMMM"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Шестнадцатеричный</string>
     <string name="wapi_yes">Да</string>
+    <string name="weather_no_data">Нет данных</string>
     <string name="weather_publish_time">Обновлено %1$s</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>

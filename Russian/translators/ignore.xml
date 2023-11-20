@@ -2409,6 +2409,9 @@
     <string name="esim_inactive_notification_channel_for_global">eSimInActiveNotificationForGlobal</string>
     <string name="esim_is_activating_notification_channel_for_o2">eSimIsActivatingNotificationForO2</string>
     <string name="event_lunar_month">月</string>
+    <string name="event_track_content_type_audio">audio</string>
+    <string name="event_track_content_type_empty">nothing</string>
+    <string name="event_track_content_type_video">video</string>
     <string name="ex_voice_assist">@string/voice_assist</string>
     <string name="exception_network_error_check_network">网络无法连接</string>
     <string name="exception_network_error_retry">网络出错，请稍后再试</string>
@@ -2571,6 +2574,10 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="focus_content">focusContent</string>
+    <string name="focus_desc">focusDesc</string>
+    <string name="focus_sub_title">focusSubtitle</string>
+    <string name="focus_title">focusTitle</string>
     <string name="folder_drafts_name_cn0">草稿</string>
     <string name="folder_drafts_name_cn1">草稿箱</string>
     <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>
@@ -3434,7 +3441,9 @@
     <string name="miui_pointer_speed">@string/pointer_speed</string>
     <string name="miui_privacy_policy_url" formatted="false">https://www.miui.com/res/doc/privacy.html?region=%s&amp;lang=%s</string>
     <string name="miui_quick_settings_tiles_default">vowifi1,vowifi2,cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit</string>
+    <string name="miui_quick_settings_tiles_default_international">cell,wifi,bt,airplane,mute,flashlight,screenshot,batterysaver,night,rotation,controls,custom(com.miui.screenrecorder/.service.QuickService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),hotspot,settings,wallet,scanner,custom(com.google.android.gms/.nearby.sharing.SharingTileService),quietmode,edit</string>
     <string name="miui_quick_settings_tiles_default_pad">vowifi1,vowifi2,cell,wifi,rotation,airplane,mute,screenshot,bt,autobrightness,screenlock,custom(com.miui.screenrecorder/.service.QuickService),night,papermode,quietmode,batterysaver,extremebatterysaver,gps,flashlight,scanner,custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,freeformhang,vibrate,hotspot,sync,custom(com.google.android.gms/.nearby.sharing.SharingTileService),screenbutton,wirelesspower,nfc,custom(com.android.camera/com.xiaomi.camera.videocast.VideoCastTileService),dolbyatomssound,pcmode,edit</string>
+    <string name="miui_quick_settings_tiles_default_pad_international">cell,wifi,bt,airplane,mute,flashlight,screenshot,batterysaver,night,rotation,controls,custom(com.miui.screenrecorder/.service.QuickService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),hotspot,dtmdtm,settings,wallet,scanner,custom(com.google.android.gms/.nearby.sharing.SharingTileService),quietmode,edit</string>
     <string name="miui_quick_settings_tiles_stock">vowifi1,vowifi2,cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,powermode,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit,drivemode,workmode</string>
     <string name="miui_quick_settings_tiles_stock_pad">vowifi1,vowifi2,cell,wifi,rotation,airplane,mute,screenshot,bt,autobrightness,screenlock,night,papermode,quietmode,batterysaver,extremebatterysaver,gps,flashlight,scanner,powermode,freeformhang,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,dolbyatomssound,pcmode,edit ,drivemode,workmode</string>
     <string name="miui_ringer_count_down_time">%s</string>
