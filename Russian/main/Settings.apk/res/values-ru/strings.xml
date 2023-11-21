@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="AUDIO_SWITCH_FEATURE">v1</string>
     <string name="Accounts_settings_title">Аккаунты</string>
     <string name="Intelligentpickfree">Распознавание речи</string>
     <string name="MiSans_title">MiSans</string>
@@ -521,6 +522,9 @@
     <string name="activity_not_found">Приложение не установлено на устройстве</string>
     <string name="activity_picker_label">Выбор действия</string>
     <string name="activity_title_power_manager">Экономия заряда;Энергосбережение;Экономия батареи</string>
+    <string name="activity_title_root_acquired">Разрешить Root-доступ</string>
+    <string name="activity_title_root_manager">Root-доступ</string>
+    <string name="activity_title_root_note">О Root-доступе</string>
     <string name="ad_service">Рекламные сервисы</string>
     <string name="adapt_embedded">Разделение экрана доступно</string>
     <string name="adaptive_battery_main_switch_title">Адаптивное использование батареи</string>
@@ -530,6 +534,7 @@
     <string name="adaptive_connectivity_switch_off">Откл.</string>
     <string name="adaptive_connectivity_switch_on">Вкл.</string>
     <string name="adaptive_connectivity_title">Адаптивная связь</string>
+    <string name="adaptive_sampling_rate">Адаптивный (по умолчанию)</string>
     <string name="adaptive_sleep_camera_lock_summary">Чтобы функция \"Внимание к экрану\" работала, камера должна быть разблокирована</string>
     <string name="adaptive_sleep_contextual_slice_summary">Держать экран включённым, если вы смотрите на него</string>
     <string name="adaptive_sleep_contextual_slice_title">Включение функции \"Внимание к экрану\"</string>
@@ -649,6 +654,7 @@
     <string name="advanced_security_title">Дополнительно</string>
     <string name="advanced_settings">Дополнительно</string>
     <string name="advanced_settings_summary">Включить дополнительные настройки</string>
+    <string name="after_sale_service">Гарантийное обслуживание</string>
     <string name="afternoon">После полудня</string>
     <string name="aggregate_rule_group_disabled">Не группировать</string>
     <string name="aggregate_rule_group_enabled">Группировать</string>
@@ -759,6 +765,8 @@
     <string name="animation_off">Без анимации</string>
     <string name="animator_duration_scale_title">Длительность анимации</string>
     <string name="another_migration_already_in_progress">Другая операция переноса уже выполняется.</string>
+    <string name="answer_call_account">Отвечать на все вызовы c этого аккаунта</string>
+    <string name="answer_call_account_summary">При входящем вызове на любое устройство, подключённое к текущему аккаунту, наушники будут автоматически переключаться на это устройство для принятия вызова</string>
     <string name="anti_spam">Антиспам</string>
     <string name="aod_and_lock_screen_settings_title">Активный экран и блокировка</string>
     <string name="aod_close_color_inversion">Эта функция не работает с инверсией цвета. Сначала отключите инверсию цвета.</string>
@@ -816,6 +824,8 @@
     <string name="app_battery_usage_summary">"Настройка расхода заряда батареи для приложений"</string>
     <string name="app_battery_usage_title">"Расход заряда батареи приложениями"</string>
     <string name="app_bluetooth_device_blacklist">Чёрный список Bluetooth-устройств</string>
+    <string name="app_cache_optimization">Оптимизация кэша приложений</string>
+    <string name="app_cache_optimization_summary">После включения этой функции перезагрузите устройство, чтобы она вступила в силу</string>
     <string name="app_cellular_data_usage">Трафик приложений</string>
     <string name="app_data_sharing_updates_summary">"Проверить приложения, которые изменили подход к передаче данных о вашем местоположении"</string>
     <string name="app_data_sharing_updates_title">"Обновление сведений о передаче данных о местоположении"</string>
@@ -940,6 +950,7 @@
     <string name="applications_settings_header">Настройки приложения</string>
     <string name="applications_settings_summary">Управление приложениями, настройка клавиш быстрого запуска</string>
     <string name="applications_settings_title">Приложения</string>
+    <string name="applications_settings_title_new">Управление приложениями</string>
     <string name="apply">Применить</string>
     <string name="apply_fingerprint_to">Использование отпечатка</string>
     <string name="apply_fingerprint_to_category_title">Применение отпечатка</string>
@@ -967,11 +978,13 @@
     <string name="assist_footer">Приложения-помощники могут использовать информацию на экране. Для большего удобства некоторые из них поддерживают запуск других приложений и голосовой ввод.</string>
     <string name="assist_gesture_title">Жест для вызова помощника</string>
     <string name="assistance_category_title">Спец. возможности</string>
+    <string name="assistant_add_fail">Не готов. Повторите позже.</string>
     <string name="assistant_corner_gesture_summary">Свайп вверх из нижнего угла для вызова Цифрового помощника</string>
     <string name="assistant_corner_gesture_title">Жест вызова помощника</string>
     <string name="assistant_gesture_category_title">Цифровой помощник</string>
     <string name="assistant_long_press_home_gesture_summary">Для вызова Цифрового помощника нажмите и удерживайте кнопку \"Домой\"</string>
     <string name="assistant_long_press_home_gesture_title">Вызов Ассистента</string>
+    <string name="assistant_operate_timeout">Таймаут запроса. Попробуйте снова.</string>
     <string name="assistant_security_warning">Ассистент сможет получать данные о программах в вашей системе, в том числе сведения с экрана и из приложений.</string>
     <string name="assistant_security_warning_agree">Разрешить</string>
     <string name="assistant_security_warning_disagree">Запретить</string>
@@ -998,6 +1011,7 @@
     <string name="audio_not_synced">Аудио не синхронизировано</string>
     <string name="audio_profile_settings_title">Профили аудио</string>
     <string name="audio_record_proc_title">Шумоподавление</string>
+    <string name="audio_share_abs_volume_message">Регулировка громкости недоступна при общем доступе к аудио</string>
     <string name="audio_share_cancel">Отмена</string>
     <string name="audio_share_confirm">Передать</string>
     <string name="audio_synced">Аудио синхронизировано</string>
@@ -1102,6 +1116,7 @@
     <string name="autofill_reset_developer_options">Восстановить значения по умолчанию</string>
     <string name="autofill_reset_developer_options_complete">Автозаполнение параметров разработчика сброшено</string>
     <string name="automatic_brightness">Автояркость</string>
+    <string name="automatic_brightness_close_for_virtual_light_sensor">Для авторегулировки яркости отключите разблокировку по лицу</string>
     <string name="automatic_storage_manager_activation_warning">Память устройства теперь управляется менеджером хранилища</string>
     <string name="automatic_storage_manager_days_title">Удалять фото и видео</string>
     <string name="automatic_storage_manager_deactivation_warning">Отключить менеджер хранилища?</string>
@@ -1115,6 +1130,7 @@
     <string name="automatic_storage_manager_text">Чтобы освободить место, менеджер хранилища удаляет с устройства фото и видео, для которых есть резервные копии.</string>
     <string name="automatic_system_heap_dump_summary">Автоматически создавать дамп системы Android, когда процесс занимает слишком много памяти</string>
     <string name="automatic_system_heap_dump_title">Автоматически создавать системные дампы</string>
+    <string name="autoui_search_hint">Поиск приложений</string>
     <string name="available_size">%s доступно</string>
     <string name="available_via_app">Доступно через %1$s</string>
     <string name="available_via_carrier">Доступно через %1$s</string>
@@ -1167,6 +1183,7 @@
     <string name="background_traffic">Фоновый: %s</string>
     <string name="backtouch_enable_title">Регулировка громкости на задней панели</string>
     <string name="backup_at_once">Резервное копирование</string>
+    <string name="backup_calling_enable_dialog_incompatible_nw_type">Чтобы включить VoLTE выберите предпочтительный тип сети с LTE, NR или Global</string>
     <string name="backup_calling_setting_summary">Если вы в роуминге или сеть %1$s недоступна, для вызовов через %1$s используйте SIM-карту с мобильным интернетом.</string>
     <string name="backup_calling_settings_title">Резервный способ связи</string>
     <string name="backup_configure_account_default_summary">Не найдены аккаунты с резервными копиями данных</string>
@@ -1406,6 +1423,7 @@
     <string name="battery_tip_high_usage_summary">Просмотр приложений с повышенным расходом заряда.</string>
     <string name="battery_tip_high_usage_title">Повышенный расход заряда батареи</string>
     <string name="battery_tip_incompatible_charging_content_description">"Подробнее об использовании несовместимых зарядных устройств"</string>
+    <string name="battery_tip_incompatible_charging_message">Батарея заряжается медленно или совсем не заряжается. Проверьте кабель и зарядное устройство.</string>
     <string name="battery_tip_incompatible_charging_title">"Проблема с зарядным устройством"</string>
     <string name="battery_tip_limited_temporarily_dialog_msg">В определённых условиях, например при высокой температуре окружающей среды и продолжительной зарядке, система может установить ограничение %1$s для уровня заряда, чтобы продлить срок службы батареи.\n\nКогда условия нормализуются, телефон будет заряжаться как обычно.</string>
     <string name="battery_tip_limited_temporarily_dialog_resume_charge">Продолжить зарядку</string>
@@ -1491,6 +1509,7 @@
     <string name="bcast_source_metadata">Метаданные</string>
     <string name="bcast_update_code_summary">Добавьте здесь код трансляции и нажмите \"Обновить\"</string>
     <string name="bcast_update_code_title">Обновление кода трансляции</string>
+    <string name="bear_mismatch">Оператор будет скрыт из-за несоответствия сети</string>
     <string name="bearer">Канал</string>
     <string name="beauty_camera">Эффекты для видеовызовов</string>
     <string name="beauty_camera_summary">Использовать эффекты для видеовызовов WeChat</string>
@@ -1542,6 +1561,7 @@
     <string name="biometrics_unlock_title">Вы можете разблокировать телефон с помощью лица или отпечатка. В целях безопасности необходимо установить запасной способ разблокировки.</string>
     <string name="blank_screen_no_device">Нет устройств</string>
     <string name="blank_screen_no_record">Нет записей</string>
+    <string name="ble_audio_title_V2">Bluetooth LE Audio</string>
     <string name="ble_scan_notify_text">Для более точной геолокации, системные приложения и сервисы продолжат искать находящиеся поблизости Bluetooth-устройства. Можно отключить эту функцию в LINK_BEGINнастройках сканированияLINK_END.</string>
     <string name="blob_expires_text">Истекает: %s</string>
     <string name="blob_id_text">ID общих данных: %d</string>
@@ -1551,7 +1571,8 @@
     <string name="block_list_diaglog_ok">ОК</string>
     <string name="block_list_dialog_content">Это действие отключит \"%s\" от этого устройства и добавит его в чёрный список</string>
     <string name="block_list_dialog_title">Отключить сейчас?</string>
-    <string name="block_list_no_device">В черном списке нет устройств</string>
+    <string name="block_list_no_device">В чёрном списке нет устройств</string>
+    <string name="block_list_no_device_icon">Ничего нет</string>
     <string name="block_list_remove_dialog_content">Устройство \"%s\" сможет подключаться к этой точке доступа</string>
     <string name="block_list_remove_dialog_title">Внимание</string>
     <string name="block_list_summary">Устройства, которым запрещено подключение к этой точке доступа</string>
@@ -1591,6 +1612,7 @@
     <string name="bluetooth_audio_routing_title">"Аудиовыход"</string>
     <string name="bluetooth_audio_share_feature_notice_summary">Передать аудио на другие подключённые устройства?</string>
     <string name="bluetooth_audio_share_feature_notice_title">Передача аудио</string>
+    <string name="bluetooth_auracast_source_opend_summary">"Код подключения: "</string>
     <string name="bluetooth_battery_level">Заряд: %1$s</string>
     <string name="bluetooth_battery_level_untethered">Заряд Л: %1$s, П: %2$s</string>
     <string name="bluetooth_bc_profile_summary_connected">Подключено к серверу BA</string>
@@ -1599,6 +1621,10 @@
     <string name="bluetooth_blacklist_cancel_remove_device">Отмена</string>
     <string name="bluetooth_blacklist_remove_device">Удалить</string>
     <string name="bluetooth_broadcast">Трансляция</string>
+    <string name="bluetooth_broadcast_audio">Трансляция аудио</string>
+    <string name="bluetooth_broadcast_audio_dialog_title">Начало трансляции</string>
+    <string name="bluetooth_broadcast_audio_onlysource">Трансляция аудио с этого устройства</string>
+    <string name="bluetooth_broadcast_code">"Пароль: "</string>
     <string name="bluetooth_broadcast_dialog_broadcast_app">Транслировать \"%1$s\"</string>
     <string name="bluetooth_broadcast_dialog_broadcast_message">Транслируйте медиаконтент на ближайшие устройства или подключайтесь к трансляциям других пользователей.</string>
     <string name="bluetooth_broadcast_dialog_find_message">Подключайтесь к трансляциям рядом с вами.</string>
@@ -1628,6 +1654,7 @@
     <string name="bluetooth_connect_access_dialog_title">Подключиться к устройству Bluetooth?</string>
     <string name="bluetooth_connect_access_notification_content">Устройство запрашивает разрешение на подключение. Нажмите для подробностей.</string>
     <string name="bluetooth_connect_access_notification_title">Доступно устройство Bluetooth</string>
+    <string name="bluetooth_connect_battery_state">%1$s %2$s</string>
     <string name="bluetooth_connect_failed">Не удалось подключиться. Повторите попытку.</string>
     <string name="bluetooth_connect_settings">Соединение</string>
     <string name="bluetooth_connect_specific_profiles_title">Подключить к…</string>
@@ -1659,8 +1686,17 @@
     <string name="bluetooth_device_advanced_profile_header_title">Использование</string>
     <string name="bluetooth_device_advanced_rename_device">Переименовать</string>
     <string name="bluetooth_device_advanced_title">Тип подключения</string>
+    <string name="bluetooth_device_audio_share_connecting">Подключение…</string>
+    <string name="bluetooth_device_audio_share_message">Трансляция аудио с устройства с помощью этой пары наушников</string>
     <string name="bluetooth_device_blacklist_summary">Управление заблокированными Bluetooth-устройствами</string>
     <string name="bluetooth_device_blacklist_tital">Чёрный список</string>
+    <string name="bluetooth_device_button_accept">ОК</string>
+    <string name="bluetooth_device_button_accept_permission">Принять</string>
+    <string name="bluetooth_device_button_audio_share_success">Понятно</string>
+    <string name="bluetooth_device_button_cancel">Отмена</string>
+    <string name="bluetooth_device_button_enable_audio_share">Транслировать</string>
+    <string name="bluetooth_device_button_reject_permission">Отмена</string>
+    <string name="bluetooth_device_button_replace_current_device">Переключить устройство</string>
     <string name="bluetooth_device_context_connect">Подключить</string>
     <string name="bluetooth_device_context_connect_advanced">Параметры</string>
     <string name="bluetooth_device_context_disconnect">Отключить</string>
@@ -1679,6 +1715,9 @@
     <string name="bluetooth_device_name_summary">Видимо для других устройств как “^1”</string>
     <string name="bluetooth_device_nearby_title">Устройства поблизости</string>
     <string name="bluetooth_device_searchable">Видимость</string>
+    <string name="bluetooth_device_title_audio_share">Слушать вместе с %1$s</string>
+    <string name="bluetooth_device_title_audio_share_fail">Не удалось подключиться к %1$s. Повторите попытку.</string>
+    <string name="bluetooth_device_title_audio_share_success">Включено прослушивание с %1$s</string>
     <string name="bluetooth_devices">Bluetooth-устройства</string>
     <string name="bluetooth_devices_card_off_summary">Нажмите, чтобы включить</string>
     <string name="bluetooth_devices_card_off_title">Bluetooth отключён</string>
@@ -2136,6 +2175,8 @@
     <string name="bt_audiorepair_working">Исправление заикания звука…</string>
     <string name="bt_dialog_remember_choice">Запомнить</string>
     <string name="bt_dialog_settings">Настройки</string>
+    <string name="bt_half_close_switch_summary">Автоматическое включение Bluetooth на следующий день для подключения устройств, если Bluetooth был отключён</string>
+    <string name="bt_half_close_switch_title">Автовключение Bluetooth</string>
     <string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_filter_map_title">"Фильтрация по MAP в snoop-логах Bluetooth HCI"</string>
     <string name="bt_hci_snoop_log_filter_pbap_title">"Фильтрация по PBAP в snoop-логах Bluetooth HCI"</string>
@@ -2166,6 +2207,7 @@
     <string name="bt_leaudio_open_dialog_title">Внимание</string>
     <string name="bt_leaudio_pre_title">LC3</string>
     <string name="bt_leaudio_summary">Высокое качество звука</string>
+    <string name="bt_leaudio_summary_V2">Звук высокого качества с уменьшенной задержкой и низким расходом заряда</string>
     <string name="bt_leaudio_support_multi_dialog_summary">После включения LC3 некоторые функции будут недоступны. Включить LC3?</string>
     <string name="bt_lhdc_declaration">Если Bluetooth-устройство поддерживает LHDC, он будет подключен по умолчанию. LHDC позволяет воспроизводить звук высокого качества и снижает задержки во время игр, но увеличивает расход заряда. Возможны проблемы во время воспроизведения из-за аппаратных ограничений Bluetooth.</string>
     <string name="bt_lhdc_dialog_summary">"LHDC позволяет воспроизводить звук высокого качества и снижает задержки во время игр, но увеличивает расход заряда.
@@ -2193,23 +2235,22 @@
     <string name="bt_trace_log">Журнал трассировки Bluetooth</string>
     <string name="bt_trace_log_summary">Включить журнал трассировки Bluetooth</string>
     <string name="btn_back">Назад</string>
-    <string name="bubble_app_setting_all">\"Пузыри\" включены для всех диалогов</string>
-    <string name="bubble_app_setting_bubble_conversation">Включить \"пузыри\" для этого диалога</string>
-    <string name="bubble_app_setting_excluded_conversation_title">\"Пузыри\" включены для всех диалогов, за исключением</string>
-    <string name="bubble_app_setting_none">\"Пузыри\" отключены для всех диалогов</string>
-    <string name="bubble_app_setting_selected">\"Пузыри\" включены для выбранных диалогов</string>
+    <string name="bubble_app_setting_all">Разрешить всплывающие чаты для всех диалогов</string>
+    <string name="bubble_app_setting_bubble_conversation">Включить всплывающие чаты для этого диалога</string>
+    <string name="bubble_app_setting_excluded_conversation_title">Для этих диалогов всплывающие чаты появляться не будут</string>
+    <string name="bubble_app_setting_none">Запретить всплывающие чаты</string>
+    <string name="bubble_app_setting_selected">Разрешить всплывающие чаты для выбранных диалогов</string>
     <string name="bubble_app_setting_selected_conversation_title">Диалоги</string>
-    <string name="bubble_app_setting_unbubble_conversation">Отключить \"пузыри\" для этого диалога</string>
-    <string name="bubbles_app_toggle_summary">Разрешить приложению %1$s отображать некоторые уведомления в виде \"пузырей\"</string>
-    <string name="bubbles_app_toggle_title">Пузыри</string>
-    <string name="bubbles_conversation_app_link">Настройки \"пузырей\"</string>
+    <string name="bubble_app_setting_unbubble_conversation">Отключить всплывающие чаты для этого диалога</string>
+    <string name="bubbles_app_toggle_title">Всплывающие чаты</string>
+    <string name="bubbles_conversation_app_link">Настройки всплывающих чатов</string>
     <string name="bubbles_conversation_toggle_summary">Показывать плавающий значок поверх приложений</string>
-    <string name="bubbles_conversation_toggle_title">Включить \"пузыри\" для этого диалога</string>
+    <string name="bubbles_conversation_toggle_title">Показывать всплывающий чат</string>
     <string name="bubbles_feature_disabled_button_approve">Включить</string>
     <string name="bubbles_feature_disabled_button_cancel">Отмена</string>
-    <string name="bubbles_feature_disabled_dialog_text">"Включение \"пузырей\" для этого приложения включит их и для других приложений, это общая функция для всех приложений."</string>
-    <string name="bubbles_feature_disabled_dialog_title">Включить \"пузыри\"?</string>
-    <string name="bubbles_feature_education">Уведомления и другой контент будут отображаться в виде \"пузырей\". Коснитесь \"пузыря\" для просмотра или смахните вниз, чтобы закрыть.</string>
+    <string name="bubbles_feature_disabled_dialog_text">"Если включить всплывающие чаты для этого приложения, они также будут включены на уровне устройства.\n\nЭто отразится на других приложениях и диалогах, которые могут показывать всплывающие чаты."</string>
+    <string name="bubbles_feature_disabled_dialog_title">Включить всплывающие чаты на устройстве?</string>
+    <string name="bubbles_feature_education">Уведомления и другой контент будут отображаться в виде всплывающих чатов. Коснитесь всплывающего чата для просмотра или смахните вниз, чтобы закрыть.</string>
     <string name="bug_report_handler_picker_footer_text">Выбор приложения обработки отчётов об ошибке</string>
     <string name="bug_report_handler_title">Обработчик отчётов об ошибке</string>
     <string name="bug_report_settings">Отчёт</string>
@@ -2368,6 +2409,7 @@
     <string name="carrier_wifi_network_title">Сеть W+</string>
     <string name="carrier_wifi_offload_summary">Разрешить Google Fi использовать сети W+ для улучшения скорости и покрытия</string>
     <string name="carrier_wifi_offload_title">Подключения к сети W+</string>
+    <string name="category_clone">Клон</string>
     <string name="category_name_appearance">Оформление</string>
     <string name="category_name_brightness">Яркость</string>
     <string name="category_name_color">Цвет</string>
@@ -2397,6 +2439,7 @@
     <string name="cellular_data_summary">Разрешить передачу данных по моб. сети</string>
     <string name="cellular_data_title">Мобильный интернет</string>
     <string name="cellular_data_usage">Мобильный трафик</string>
+    <string name="cellular_network_title">Отладка сотовой сети</string>
     <string name="celsius_temperature_unit">"Градусы Цельсия (°C)"</string>
     <string name="cert_not_installed">Сертификат не установлен</string>
     <string name="certificate_management_app">Приложение для управления сертификатами</string>
@@ -2479,6 +2522,7 @@
     <string name="cloned_app_created_toast_summary">"Копия приложения \"%1$s\" успешно создана."</string>
     <string name="cloned_app_creation_summary">"Подождите…"</string>
     <string name="cloned_app_creation_toast_summary">"Создание копии приложения \"%1$s\"…"</string>
+    <string name="cloned_app_info_label">Клон % 1$s</string>
     <string name="cloned_apps_dashboard_title">"Клонирование приложений"</string>
     <string name="cloned_apps_summary">"Клонировано: %1$s; доступно для клон-ия: %2$d"</string>
     <string name="close">Закрыть</string>
@@ -2496,6 +2540,7 @@
     <string name="close_privacy_thumbnail_blur_title">Приложения без размытия миниатюры</string>
     <string name="close_sheet">Закрыть таблицу</string>
     <string name="close_slave_wifi_hint">Отключитесь от дополнительной сети Wi-Fi перед трансляцией</string>
+    <string name="close_volume_key_launch_camera">Откл.</string>
     <string name="closed_beta">Стабильная (внутренняя)</string>
     <string name="cloud_backup_section_title">Резервное копирование в Xiaomi Cloud</string>
     <string name="cloud_backup_settings_section_title">Настройки резервного копирования</string>
@@ -2510,6 +2555,7 @@
     <string name="codec_low_latency_video_summary">Минимальная задержка звука в играх и видео при синхронизации</string>
     <string name="codec_low_latency_zmi_summary">Минимальная задержка звука и улучшение звуковых эффектов в играх</string>
     <string name="codec_low_latency_zmi_title">Минимальная задержка в играх</string>
+    <string name="collapsed">Свёрнуто</string>
     <string name="collect_diagnosis_log">Сбор журнала диагностики</string>
     <string name="color_black">Чёрный</string>
     <string name="color_blue">Синий</string>
@@ -2629,9 +2675,14 @@
     <string name="config_backup_settings_intent" />
     <string name="config_backup_settings_label" />
     <string name="config_battery_prediction_authority" />
+    <string name="config_bt_slice_extra_intent" />
+    <string name="config_bt_slice_extra_pending_intent" />
+    <string name="config_bt_slice_intent_action" />
+    <string name="config_bt_slice_pending_intent_action" />
     <string name="config_charging_function_name">Зарядка</string>
     <string name="config_contextual_card_feedback_email" />
     <string name="config_face_enroll" />
+    <string name="config_face_enroll_guidance_page" />
     <string name="config_grayscale_settings_intent" />
     <string name="config_list_label">Настроенные сети</string>
     <string name="config_rat_2g">2G</string>
@@ -2639,7 +2690,9 @@
     <string name="config_rat_4g">4G</string>
     <string name="config_rat_unknown" />
     <string name="config_settingsintelligence_log_action" />
+    <string name="config_styles_and_wallpaper_picker_action" />
     <string name="config_styles_and_wallpaper_picker_class" />
+    <string name="config_wallpaper_picker_action" />
     <string name="configure">Настройка</string>
     <string name="configure_apps">Настроить приложения</string>
     <string name="configure_input_method">Настройка методов ввода</string>
@@ -2690,6 +2743,8 @@
     <string name="connected_device_previously_connected_title">Ранее подключённые устройства</string>
     <string name="connected_device_saved_title">Сохранённые устройства</string>
     <string name="connected_device_see_all_summary">Будет включён Bluetooth</string>
+    <string name="connected_devices_confirm">Сохранить</string>
+    <string name="connected_devices_create">Добавить</string>
     <string name="connected_devices_dashboard_android_auto_no_driving_mode_summary">Bluetooth, Android Auto, NFC</string>
     <string name="connected_devices_dashboard_android_auto_no_nfc_no_driving_mode">Bluetooth, Android Auto</string>
     <string name="connected_devices_dashboard_android_auto_no_nfc_summary">Bluetooth, Android Auto, режим вождения</string>
@@ -2700,6 +2755,7 @@
     <string name="connected_devices_dashboard_no_nfc_summary">Bluetooth, режим вождения</string>
     <string name="connected_devices_dashboard_summary">Bluetooth, трансляция, NFC</string>
     <string name="connected_devices_dashboard_title">Подключённые устройства</string>
+    <string name="connected_devices_dialog_content">Выбранные устройства будут отключены и добавлены в чёрный список</string>
     <string name="connected_to_metered_access_point">Подключено к сети с тарификацией</string>
     <string name="connected_tws_device_saved_title">Сохранённые наушники</string>
     <string name="connected_via_app">Подключено через %1$s.</string>
@@ -2923,11 +2979,13 @@
     <string name="dark_mode_contrast_hint">Автоматическая регулировка цвета и уменьшение контраста при уменьшении яркости</string>
     <string name="dark_mode_day_night_mode_summary">Включение тёмного режима на закате и отключение на рассвете. Для более точной работы включите службы геолокации.</string>
     <string name="dark_mode_day_night_mode_title">От заката до рассвета</string>
+    <string name="dark_mode_display_enable_summary">Переключение на пользовательский интерфейс с тёмными цветами</string>
     <string name="dark_mode_font_background_title">Автонастройка текста и фона</string>
     <string name="dark_mode_power_save_alert_dialog_confirm">Понятно</string>
     <string name="dark_mode_power_save_alert_dialog_message">"При отключении системной оптимизации и включении Экономии заряда, будет автоматически включён Тёмный режим.
 Чтобы отключить Тёмный режим, отключите Экономию заряда или включите системную оптимизацию в меню Для разработчиков."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Тёмный режим</string>
+    <string name="dark_mode_settings">Настройки тёмного режима</string>
     <string name="dark_mode_time_settings">Расписание тёмного режима</string>
     <string name="dark_theme_main_switch_title">Использовать тёмную тему</string>
     <string name="dark_theme_slice_subtitle">Помогает продлить время работы батареи</string>
@@ -3113,8 +3171,28 @@
     <string name="date_and_time_settings_summary">Установка даты, времени, часового пояса и формата</string>
     <string name="date_and_time_settings_title">Дата и время</string>
     <string name="date_and_time_settings_title_setup_wizard">Установить дату и время</string>
+    <string name="date_input_headline">Введённая дата</string>
+    <string name="date_input_headline_description">Введённая дата: %1$s</string>
+    <string name="date_input_invalid_for_pattern">Дата не соответствует шаблону: %1$s</string>
+    <string name="date_input_invalid_not_allowed">Недопустимая дата: %1$s</string>
+    <string name="date_input_invalid_year_range">Дата вне диапазона %1$s - %2$s</string>
+    <string name="date_input_label">Дата</string>
+    <string name="date_input_no_input_description">Нет</string>
+    <string name="date_input_title">Выбор даты</string>
+    <string name="date_picker_headline">Выбранная дата</string>
+    <string name="date_picker_headline_description">Текущий выбор: %1$s</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
+    <string name="date_picker_navigate_to_year_description">Переход к году: %1$s</string>
+    <string name="date_picker_no_selection_description">Нет</string>
+    <string name="date_picker_switch_to_calendar_mode">Режим ввода календаря</string>
+    <string name="date_picker_switch_to_day_selection">Проведите, чтобы выбрать год, или коснитесь, чтобы выбрать день</string>
+    <string name="date_picker_switch_to_input_mode">Режим ввода текста</string>
+    <string name="date_picker_switch_to_next_month">Следующий месяц</string>
+    <string name="date_picker_switch_to_previous_month">Предыдущий месяц</string>
+    <string name="date_picker_switch_to_year_selection">Выбор года</string>
     <string name="date_picker_title">Выбор даты</string>
+    <string name="date_picker_today_description">Сегодня</string>
+    <string name="date_picker_year_picker_pane_title">Виден выбор года</string>
     <string name="date_time_24hour">24-часовой формат</string>
     <string name="date_time_24hour_auto">Региональные настройки</string>
     <string name="date_time_24hour_title">24-часовой формат</string>
@@ -3173,6 +3251,7 @@
     <string name="default_email_app_title">"{count,plural, =1{Почтовый клиент}one{Почтовые клиенты}few{Почтовые клиенты}many{Почтовые клиенты}other{Почтовые клиенты}}"</string>
     <string name="default_emergency_app">Экстренные оповещения</string>
     <string name="default_error_message">Неверный ввод</string>
+    <string name="default_font_title_global">По умолчанию</string>
     <string name="default_for_calls">По умолчанию для вызовов</string>
     <string name="default_for_calls_and_sms">По умолчанию для вызовов и SMS</string>
     <string name="default_for_mobile_data">По умолчанию для мобильного интернета</string>
@@ -3235,7 +3314,8 @@
     <string name="desc_notice_device_locale_settings_change">"Региональные настройки и другие параметры устройства будут изменены."</string>
     <string name="desc_notice_of_language_picker">"Выбрать язык для отдельных приложений можно в их настройках."</string>
     <string name="desc_regional_pref_footer_learn_more">"Узнайте больше о языковых настройках"</string>
-    <string name="desc_unavailable_locale">"Это язык нельзя использовать как системный, но вы разрешили сообщать приложениям и сайтам, что вы предпочитаете его."</string>
+    <string name="desc_unavailable_locale">"Этот язык нельзя использовать как системный, но вы разрешили сообщать приложениям и сайтам, что вы предпочитаете его."</string>
+    <string name="desktop_mode">Режим рабочего стола</string>
     <string name="detail_app_button">Сведения</string>
     <string name="detail_question">Подробности</string>
     <string name="detailed_wifi_logging_disabled">Подробное ведение журнала Wi-Fi отключено</string>
@@ -3340,6 +3420,7 @@ ID: %s
 Отправьте этот код руководителю."</string>
     <string name="dial_application_title">Вызов</string>
     <string name="dial_pad_tones_title">Звук набора номера</string>
+    <string name="dialog">Диалог</string>
     <string name="dialog_background_check_message">"Повышенный расход батареи, приложение %1$s часто выводит устройство из спящего режима.
 
 Чтобы устранить эту проблему, запретите приложению %1$s работать в фоновом режиме."</string>
@@ -3468,6 +3549,7 @@ ID: %s
     <string name="display_order_text">Упорядочить по:</string>
     <string name="display_prompt_confirm">Понятно</string>
     <string name="display_settings">Экран</string>
+    <string name="display_settings_new">Экран и яркость</string>
     <string name="display_settings_title">Экран</string>
     <string name="display_summary">Устройство переходит в спящий режим после %1$s бездействия</string>
     <string name="display_summary_example">Устройство переходит в спящий режим через 10 минут бездействия</string>
@@ -3671,6 +3753,8 @@ ID: %s
     <string name="eab_provisioned_switch_string">EAB/Presence обеспечение</string>
     <string name="early_morning">Утро</string>
     <string name="easymode_hint">Отключить простой режим</string>
+    <string name="easymode_hint_summary">Нажмите для отключения</string>
+    <string name="easymode_hint_title">Включён простой режим</string>
     <string name="edge_mode_back">Вернуться</string>
     <string name="edge_mode_back_summary">Дважды нажмите на край экрана для возврата</string>
     <string name="edge_mode_clean">Очистить память</string>
@@ -3948,6 +4032,7 @@ ID: %s
     <string name="expand_button_title">Дополнительные</string>
     <string name="expand_card_action">Дополнительные карточки</string>
     <string name="expandable_under_keyguard_title">Доступ с экрана блокировки</string>
+    <string name="expanded">Развёрнуто</string>
     <string name="experimental_category_title">Экспериментальные функции</string>
     <string name="experimental_preference">(экспериментальная настройка)</string>
     <string name="expert_detail_content_description">Подробности</string>
@@ -3981,6 +4066,7 @@ ID: %s
     <string name="eye_gaze_dialog_message">После включения функции \"Отслеживание взгляда\", устройство не будет блокироваться, когда вы смотрите на экран. Данные вашего лица не будут анализироваться и храниться на устройстве или загружаться в облако. Включить?</string>
     <string name="eye_gaze_dialog_title">Уведомление безопасности</string>
     <string name="eye_gaze_summary">Устройство не будет блокироваться, когда вы смотрите на экран</string>
+    <string name="eye_gaze_summary_fold_device">Устройство не будет блокироваться, когда вы смотрите на внешний экран</string>
     <string name="eye_gaze_title">Отслеживание взгляда</string>
     <string name="face_add_max">Максимальное количество лиц, которые можно добавить: %d</string>
     <string name="face_data_apply_for_category_title">Разблокировка</string>
@@ -4015,6 +4101,7 @@ ID: %s
     <string name="face_intro_error_unknown">Не удалось добавить данные лица</string>
     <string name="face_lock_screen_setup_skip_dialog_text">Включите блокировку экрана, это поможет защитить данные в случае потери или кражи устройства. Для разблокировки по лицу необходимо задать PIN-код, графический ключ или пароль. Нажмите \"Отмена\" и выберите способ защиты.</string>
     <string name="face_password_unlock">Пароли и защита</string>
+    <string name="face_password_unlock_new">Пароли и защита</string>
     <string name="face_unlock">Разблокировка по лицу</string>
     <string name="face_unlock_be_on_the_screen">Держите устройство напротив лица</string>
     <string name="face_unlock_by_notification_screen_on_msg">Разрешить разблокировку по лицу, когда экран включается при уведомлениях. Возможен повышенный расход батареи.</string>
@@ -4160,6 +4247,7 @@ ID: %s
     <string name="fingerprint_enroll_button_add">Добавить ещё</string>
     <string name="fingerprint_enroll_button_next">Далее</string>
     <string name="fingerprint_face_password_unlock">Пароли и защита</string>
+    <string name="fingerprint_face_password_unlock_new">Пароли и защита</string>
     <string name="fingerprint_first_open_screen_password_face_tittle">Биометрия (настройте защиту устройства)</string>
     <string name="fingerprint_first_open_screen_password_tittle">Биометрия (настройте защиту устройства)</string>
     <string name="fingerprint_for_keyguard_disabled">Использование отпечатков отключено из соображений безопасности.</string>
@@ -4240,11 +4328,13 @@ ID: %s
     <string name="flash_drive_backup_restore">USB-накопитель</string>
     <string name="flash_drive_backup_restore_summary">Подключите USB-накопитель</string>
     <string name="flash_notifications_about_title">"Об уведомлениях со вспышкой"</string>
+    <string name="flash_notifications_description">О функции</string>
     <string name="flash_notifications_intro">"Вспышка камеры или экран замигают, когда придет уведомление или зазвучит будильник."</string>
     <string name="flash_notifications_intro_without_camera_flash">"Экран замигает, когда придет уведомление или зазвучит будильник."</string>
     <string name="flash_notifications_keywords">"вспышка, световой сигнал, мигать, слабослышащий, потеря слуха"</string>
     <string name="flash_notifications_note">"Используйте уведомление со вспышкой осторожно, если вы чувствительны к свету."</string>
     <string name="flash_notifications_preview">"Посмотреть"</string>
+    <string name="flash_notifications_summary">Использовать вспышку камеры или подсветку экрана при уведомлениях или вызовах</string>
     <string name="flash_notifications_summary_off">"Выключено"</string>
     <string name="flash_notifications_summary_on_camera">"Вкл. (вспышка камеры)"</string>
     <string name="flash_notifications_summary_on_camera_and_screen">"Вкл. (вспышка камеры и подсветка экрана)"</string>
@@ -4285,6 +4375,8 @@ ID: %s
     <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
+    <string name="focus_summary">Настройка формата уведомлений для выделения важной информации</string>
+    <string name="focus_title">Индикация уведомлений</string>
     <string name="fold_application_mode_name">Макеты приложений</string>
     <string name="fold_game_adaptation">Макеты игр</string>
     <string name="fold_rule_default">По умолчанию</string>
@@ -4408,15 +4500,15 @@ ID: %s
     <string name="freeform_guide_free_drag_summary">Перетаскивание текста, изображений или файлов между окнами поддерживаемых приложений</string>
     <string name="freeform_guide_free_drag_title">Перетаскивание между окнами</string>
     <string name="freeform_guide_move_summary">Используйте заголовок плавающего окна для перемещения</string>
-    <string name="freeform_guide_move_title">Перемещение</string>
+    <string name="freeform_guide_move_title">Перемещение окна</string>
     <string name="freeform_guide_move_to_small_freeform_window_summary">Перетащите плавающее окно в угол экрана</string>
-    <string name="freeform_guide_move_to_small_freeform_window_title">Сворачивание</string>
+    <string name="freeform_guide_move_to_small_freeform_window_title">Сворачивание окна</string>
     <string name="freeform_guide_multi_window">Многозадачность</string>
     <string name="freeform_guide_multiple_window_summary">"Нажмите и удерживайте значок приложения в панели, чтобы открыть новое окно.
 *Функция работает в приложениях Заметки, Почта, Браузер и WPS."</string>
     <string name="freeform_guide_multiple_window_title">Открытие нескольких окон</string>
     <string name="freeform_guide_notification_drop_down_summary">Потяните панель действий уведомления вниз</string>
-    <string name="freeform_guide_notification_drop_down_title">Открытие</string>
+    <string name="freeform_guide_notification_drop_down_title">Открытие окна</string>
     <string name="freeform_guide_settings">Плавающие окна</string>
     <string name="freeform_guide_slide_to_small_freeform_summary">"Проведите от нижней части экрана к правому верхнему углу.
 Функция работает при использовании жестов в качестве экранной навигации."</string>
@@ -4424,12 +4516,18 @@ ID: %s
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Перетащите угол, чтобы свернуть приложение</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Перетащите нижнюю часть окна к верхнему краю экрана.
 Функция работает при использовании жестов в качестве экранной навигации."</string>
-    <string name="freeform_guide_slide_to_small_freeform_title">Жест для плавающего окна</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Сворачивание окна</string>
     <string name="freeform_guide_slide_up_to_close_summary">Проведите вверх от панели действий плавающего окна</string>
-    <string name="freeform_guide_slide_up_to_close_title">Закрытие</string>
+    <string name="freeform_guide_slide_up_to_close_title">Закрытие окна</string>
+    <string name="freeform_guide_split_screen_combination_fold">Комбинации разделения экрана</string>
+    <string name="freeform_guide_split_screen_combination_pad">Комбинации разделения экрана</string>
+    <string name="freeform_guide_split_screen_combination_summary_fold">Используйте панель приложений на внутреннем экране для создания ярлыков комбинаций разделения экрана</string>
+    <string name="freeform_guide_split_screen_combination_summary_pad">Используйте панель приложений для создания ярлыков комбинаций разделения экрана</string>
     <string name="freeform_guide_to_sidehide_summary">Быстро перетащите приложение к краю экрана, чтобы скрыть его</string>
     <string name="freeform_guide_to_sidehide_title">Скрытие</string>
     <string name="freeform_guide_vedio_description">Нажмите на приложение на боковой панели, чтобы открыть его в плавающем окне</string>
+    <string name="freeform_recommend_open_switch_summary">Рекомендации по открытию приложений в режиме разделения экрана или плавающих окон, в зависимости от сценария использования</string>
+    <string name="freeform_recommend_open_switch_title">Умные рекомендации</string>
     <string name="freeform_vedio_description">"Варианты открытия плавающего окна:
 	
 • Потяните вниз панель действий плавающего окна.
@@ -4514,11 +4612,13 @@ ID: %s
     <string name="gesture_summary_notifications">"Проведите по главному экрану тремя пальцами вниз."</string>
     <string name="gesture_summary_recent_apps">"Проведите тремя пальцами вверх, задержите их и отпустите."</string>
     <string name="gesture_summary_switch_apps">"Проведите по экрану четырьмя пальцами влево или вправо."</string>
+    <string name="gesture_supported_title">Доступные жесты</string>
     <string name="gesture_title_go_back">"Назад"</string>
     <string name="gesture_title_go_home">"Возврат на главный экран"</string>
     <string name="gesture_title_notifications">"Просмотр уведомлений и Быстрых настроек"</string>
     <string name="gesture_title_recent_apps">"Просмотр последних приложений"</string>
     <string name="gesture_title_switch_apps">"Переключение приложений"</string>
+    <string name="gesture_to_split_screen">Жесты</string>
     <string name="gesture_wakeup_summary">Включение и выключение экрана заблокированного устройства двойным касанием. Работает только со стандартными темами.</string>
     <string name="gesture_wakeup_title">Двойное касание</string>
     <string name="getConfiguredNetworks">Конфигурация сетей</string>
@@ -4611,6 +4711,8 @@ ID: %s
     <string name="guest_reset_guest_dialog_title">Сбросить гостевой сеанс?</string>
     <string name="guest_resetting">Сброс гостевого сеанса…</string>
     <string name="guide_button_text">Понятно</string>
+    <string name="guide_summary_1">Трансляция аудио на устройства поблизости</string>
+    <string name="guide_summary_2">Прослушивание общих трансляций</string>
     <string name="guide_text_center">"Проведите вверх по центру.
 Область разблокировки экрана будет по центру."</string>
     <string name="guide_text_left">"Проведите вверх из левого нижнего угла.
@@ -4658,7 +4760,9 @@ ID: %s
     <string name="gxzw_quick_open_enable_title">Ярлыки отпечатка</string>
     <string name="gxzw_quick_open_fast_summary">Проведите по значку отпечатка для запуска ярлыка при разблокировке.</string>
     <string name="gxzw_quick_open_fast_title">Быстрый свайп</string>
-    <string name="gxzw_quick_open_slow_summary">Нажмите и удерживайте значок отпечатка для контекстного меню. Проведите для запуска ярлыка.</string>
+    <string name="gxzw_quick_open_select_summary">· После появления ярлыков проведите пальцем до нужного ярлыка</string>
+    <string name="gxzw_quick_open_show_summary">· После разблокировки устройства удерживайте значок отпечатка для контекстного меню</string>
+    <string name="gxzw_quick_open_slow_summary">Нажмите и удерживайте значок отпечатка для контекстного меню. Проведите пальцем до нужного ярлыка.</string>
     <string name="gxzw_quick_open_slow_title">Нажатие и удержание</string>
     <string name="gxzw_quick_open_title">Ярлыки</string>
     <string name="gxzw_vibrate_summary">Если не выбрана анимация отпечатка, вибрация срабатывать не будет</string>
@@ -4679,6 +4783,7 @@ ID: %s
     <string name="haptic_agent_completion_01_content_description">Завершенная задача</string>
     <string name="haptic_cursor_movement_07_content_description">Регулировка яркости</string>
     <string name="haptic_descripthion_for_max_level">Сильный</string>
+    <string name="haptic_descripthion_for_medium_level">Средний</string>
     <string name="haptic_descripthion_for_middle_level">Средний</string>
     <string name="haptic_descripthion_for_min_level">Слабый</string>
     <string name="haptic_experience">Демонстрация</string>
@@ -4733,6 +4838,8 @@ ID: %s
     <string name="headphone_assisted_summary">Передача звука с микрофона устройства на подключённые по Bluetooth наушники</string>
     <string name="headphone_assisted_title">Ушные мониторы</string>
     <string name="headset_aac">AAC</string>
+    <string name="headset_adaptive_hearing_summary">Автонастройка звука в зависимости от формы вашего уха и окружающей среды</string>
+    <string name="headset_adaptive_hearing_title">Адаптивный звук</string>
     <string name="headset_ambient_sound">Окружающие звуки</string>
     <string name="headset_aptx-adapter">Qualcomm® aptX™ Adaptive</string>
     <string name="headset_aptx_adapter">Qualcomm® aptX™ Adaptive</string>
@@ -4796,6 +4903,7 @@ ID: %s
     <string name="help_uri_default" />
     <string name="help_uri_display" />
     <string name="help_uri_interruptions" />
+    <string name="help_uri_long_background_tasks" />
     <string name="help_uri_manage_external_storage" />
     <string name="help_uri_media_management_apps" />
     <string name="help_uri_nfc_and_payment_settings" />
@@ -4839,22 +4947,27 @@ ID: %s
     <string name="help_url_dark_theme" />
     <string name="help_url_data_saver" />
     <string name="help_url_data_usage" />
+    <string name="help_url_development_memtag" />
     <string name="help_url_display_size" />
+    <string name="help_url_dock_defender" />
     <string name="help_url_double_tap_screen" />
     <string name="help_url_dreams" />
     <string name="help_url_encryption" />
     <string name="help_url_face" />
     <string name="help_url_fingerprint" />
+    <string name="help_url_flash_notifications" />
     <string name="help_url_font_size" />
     <string name="help_url_gestures" />
     <string name="help_url_icc_lock" />
     <string name="help_url_imsi_protection" />
+    <string name="help_url_incompatible_charging" />
     <string name="help_url_insecure_vpn" />
     <string name="help_url_install_certificate" />
     <string name="help_url_location_access" />
     <string name="help_url_lockscreen" />
     <string name="help_url_magnification" />
     <string name="help_url_manage_storage" />
+    <string name="help_url_memtag" />
     <string name="help_url_more_networks" />
     <string name="help_url_network_dashboard" />
     <string name="help_url_nfc_payment" />
@@ -4916,6 +5029,10 @@ ID: %s
     <string name="homepage_condition_footer_content_description">Свернуть</string>
     <string name="homepage_personal_settings">Рекомендации</string>
     <string name="hourly_battery_usage_chart">"Диаграмма расхода заряда батареи по часам"</string>
+    <string name="hover_mode_guide_text">Когда на внутреннем экране отображается вызов или идёт воспроизводение видео, вы можете использовать режим наведения на нижней половине экрана</string>
+    <string name="hover_mode_name">Режим наведения</string>
+    <string name="hover_mode_no_support_apps">Нет поддерживаемых приложений</string>
+    <string name="hover_mode_support_apps">Поддерживаемые приложения</string>
     <string name="how_adjust_font_size">Как настроить шрифт?</string>
     <string name="how_backup_content">"Способы резервного копирования:
 
@@ -4993,7 +5110,7 @@ ID: %s
     <string name="important_conversation_behavior_summary">Приоритетные диалоги будут отображаться в верхней части шторки уведомлений. Можно задать для них отображение в виде всплывающих уведомлений и прерывание режима \"Не беспокоить\".</string>
     <string name="important_conversations">Приоритетные диалоги</string>
     <string name="important_conversations_summary">Показывать приоритетные диалоги вверху</string>
-    <string name="important_conversations_summary_bubbles">Показывать приоритетные диалоги вверху и отображать в виде \"пузырей\"</string>
+    <string name="important_conversations_summary_bubbles">Показывать в верхней части списка диалогов и в виде всплывающих чатов:</string>
     <string name="ims_reg_status_not_registered">Не зарегистрирована</string>
     <string name="ims_reg_status_registered">Зарегистрирована</string>
     <string name="ims_reg_title">Состояние регистрации IMS</string>
@@ -5017,6 +5134,7 @@ ID: %s
     <string name="ingress_rate_limit_no_limit_entry">Без ограничений</string>
     <string name="ingress_rate_limit_summary">Ограничить пропускную способность входящего трафика. Эта настройка применяется ко всем сетям, подключенным к интернету.</string>
     <string name="ingress_rate_limit_title">Ограничение скорости загрузки</string>
+    <string name="inner_screen_and_resolution_title">Размер и разрешение внутреннего экрана</string>
     <string name="input_assistance">Инструменты</string>
     <string name="input_device_category">Устройство ввода</string>
     <string name="input_method">Способ ввода</string>
@@ -5025,8 +5143,8 @@ ID: %s
     <string name="input_method_category">Способ ввода</string>
     <string name="input_method_clipboard_settings">Настройки буфера обмена</string>
     <string name="input_method_cloud_data_title">Облачный буфер обмена</string>
-    <string name="input_method_cloud_paste_mode_bubble_des">Вы увидите всплывающий \"пузырь\". Нажмите на него, чтобы вставить скопированный текст.</string>
-    <string name="input_method_cloud_paste_mode_bubble_title">Пузырь</string>
+    <string name="input_method_cloud_paste_mode_bubble_des">Вы увидите всплывающий всплывающий чат. Нажмите на него, чтобы вставить скопированный текст.</string>
+    <string name="input_method_cloud_paste_mode_bubble_title">Всплывающий чат</string>
     <string name="input_method_cloud_paste_mode_no_des">Никакие уведомления не будут отображаться. Нажмите на значок, чтобы открыть буфер обмена.</string>
     <string name="input_method_cloud_paste_mode_no_title">Нет</string>
     <string name="input_method_cloud_paste_mode_red_point_des">Вы увидите красную точку в нижней части клавиатуры. Нажмите на значок, чтобы открыть буфер обмена.</string>
@@ -5203,6 +5321,7 @@ ID: %s
     <string name="keyboard_shortcuts_helper_summary">Список быстрых клавиш</string>
     <string name="keyboard_skin_follow_system_enable">Использовать тёмный режим вместе с системой</string>
     <string name="keyguard_advance_setting_title">Расширенные настройки</string>
+    <string name="keyguard_multi_window_tip">Отображение этой страницы в режиме разделения недоступно. Вы можете вернуться к полноэкранной версии.</string>
     <string name="keyguard_notification_status_title">Уведомления</string>
     <string name="keyguard_security_setting_others">Прочее</string>
     <string name="keyguard_security_setting_privacy_policy">Политика конфиденциальности</string>
@@ -5311,6 +5430,7 @@ ID: %s
     <string name="keywords_media_controls">Медиа</string>
     <string name="keywords_media_management_apps">медиа, файл, управление, менеджер, управлять, редактировать, редактор, приложение, программа</string>
     <string name="keywords_media_vibration">виброотклик, вибрация, чувствительность, медиаконтент</string>
+    <string name="keywords_memtag">MTE, Memory Tagging Extension</string>
     <string name="keywords_model_and_hardware">серийный номер, версия аппаратного обеспечения</string>
     <string name="keywords_more_default_sms_app">сообщение, обмен сообщениями, текст, SMS</string>
     <string name="keywords_more_mobile_networks">сотовая сеть, мобильный интернет, сотовый оператор, беспроводная сеть, передача данных, 4G, 3G, 2G, LTE</string>
@@ -5484,6 +5604,8 @@ ID: %s
     <string name="layout_size_small_text">Очень мелкий</string>
     <string name="le_audio_title">LE Audio</string>
     <string name="learn_more">Подробнее</string>
+    <string name="leave_loclscreen_summary">Экран автоматически выключится при удалении от устройства на определённое расстояние</string>
+    <string name="leave_loclscreen_title">Выключение экрана</string>
     <string name="led_colors_summary">Уведомления</string>
     <string name="led_frequence_summary">Задать интервал</string>
     <string name="led_pulse_summary">Индикатор будет мигать при получении новых уведомлений</string>
@@ -5494,6 +5616,8 @@ ID: %s
     <string name="left_right_hand_switch_summary">Перестановка левой и правой части клавиатуры одним касанием</string>
     <string name="left_shoulder_key">Левый</string>
     <string name="left_to_right_slide">Свайп вправо</string>
+    <string name="leftright_waving_summary">Регулировка воспроизведения и переключение между композициями</string>
+    <string name="leftright_waving_title">Горизонтальная волна</string>
     <string name="legacy_control_center_desc">Свайп вниз - стандартная шторка с переключателями и уведомлениями</string>
     <string name="legacy_control_center_title">Старый стиль</string>
     <string name="legacy_navigation_summary">Кнопки навигации внизу экрана (Назад, Домой, Недавние приложения)</string>
@@ -5511,6 +5635,10 @@ ID: %s
     <string name="lights_title">Световой индикатор</string>
     <string name="line_breaking_summary">Исправить разрывы строк абзаца</string>
     <string name="line_breaking_title">Оптимизация текста</string>
+    <string name="link_locale_picker_footer_learn_more">https://support.google.com/android?p=per_language_app_settings</string>
+    <string name="link_to_windows_setting_off">Откл.</string>
+    <string name="link_to_windows_setting_on">Вкл.</string>
+    <string name="link_to_windows_settings_title">Ссылка на Windows</string>
     <string name="link_turbo_prompt">Статистика на этой странице показывает только объем данных, использованный для увеличения скорости соединения Wi-Fi. Эта статистика не отражает фактическое использование мобильных данных.</string>
     <string name="link_turbo_settings_all_app_display_loading">Подождите…</string>
     <string name="link_turbo_settings_all_app_reach_max">Можно выбрать не более 15 приложений</string>
@@ -5523,6 +5651,9 @@ ID: %s
     <string name="lite_font_weight_title">Толщина шрифта</string>
     <string name="live_caption_summary">Автоматически добавлять субтитры</string>
     <string name="live_caption_title">Автоматические субтитры</string>
+    <string name="load_error">Ошибка загрузки</string>
+    <string name="load_esim_info">Получение информации eSIM…</string>
+    <string name="load_esim_info_error">Не удалось загрузить информацию eSIM. Повторите попытку позже.</string>
     <string name="load_networks_progress">Поиск…</string>
     <string name="loading">Подождите…</string>
     <string name="loading_injected_setting_summary">Загрузка…</string>
@@ -5658,6 +5789,7 @@ ID: %s
     <string name="lock_last_pin_attempt_before_wipe_device">Если вы неправильно введете PIN-код, все данные на устройстве будут удалены.</string>
     <string name="lock_last_pin_attempt_before_wipe_profile">Если вы неправильно введете PIN-код, рабочий профиль и его данные будут удалены.</string>
     <string name="lock_last_pin_attempt_before_wipe_user">Если вы неправильно введете PIN-код, этот пользователь будет удалён.</string>
+    <string name="lock_password_checking">Проверка…</string>
     <string name="lock_profile_wipe_attempts">Попробуйте ещё раз. Попытка %1$d из %2$d.</string>
     <string name="lock_profile_wipe_content">У вас больше нет попыток. Рабочий профиль и связанные с ним данные будут удалены с устройства.</string>
     <string name="lock_profile_wipe_dismiss">Закрыть</string>
@@ -5993,6 +6125,10 @@ ID: %s
     <string name="low_dc_light_title">Устранение мерцания при низкой освещенности</string>
     <string name="low_label">Низкая</string>
     <string name="low_storage_summary">Заканчивается свободное место. Занято: %1$s, свободно: %2$s</string>
+    <string name="lyra_account_ap_summary">Разрешить планшетам и ПК поблизости, связанных с вашим аккаунтом Xiaomi, включать точку доступа на этом устройстве и подключаться к ней</string>
+    <string name="lyra_account_ap_title">Помощь в работе с сетями</string>
+    <string name="lyra_auto_connect_summary">Автоматическое включение точки доступа и подключение к ней устройств поблизости, если они не подключены к сети</string>
+    <string name="lyra_auto_connect_title">Автовключение точки доступа</string>
     <string name="macaddr_label">MAC-адрес:</string>
     <string name="magic_list_empty_text">Нет приложений, поддерживающих разделение экрана</string>
     <string name="magic_list_empty_text_pad">Нет приложений, поддерживающих разделение экрана</string>
@@ -6205,6 +6341,9 @@ ID: %s
     <string name="media_output_switch_error_text">Не удалось переключиться. Нажмите, чтобы повторить попытку.</string>
     <string name="media_output_switching">Переключение…</string>
     <string name="media_output_title">Воспроизвести на</string>
+    <string name="media_transfer_default_device_name">Подключённое устройство</string>
+    <string name="media_transfer_dock_speaker_device_name">Колонка с док-станцией</string>
+    <string name="media_transfer_external_device_name">Внешнее устройство</string>
     <string name="media_transfer_this_device_name">Это устройство</string>
     <string name="media_transfer_this_phone">Это устройство</string>
     <string name="media_transfer_wired_device_name">Проводное аудиоустройство</string>
@@ -6310,6 +6449,13 @@ ID: %s
     <string name="mi_upi_settings">Аккаунт Mi Pay</string>
     <string name="mi_wallet">Mi Кошелёк</string>
     <string name="mi_wallet_desc">Mi Кошелёк</string>
+    <string name="mibi_cta_CANCEL">Отмена</string>
+    <string name="mibi_cta_CheckBox">Больше на показывать</string>
+    <string name="mibi_cta_OK">ОК</string>
+    <string name="mibi_cta_description">"Для использования модема требуется подписка. Если нет подписки, свяжитесь с My au.
+%s"</string>
+    <string name="mibi_cta_title">Модем</string>
+    <string name="mibi_privacy_manage_user_license">Web</string>
     <string name="mic_toggle_description">Для приложений и сервисов. Даже если эта функция отключена, данные микрофона могут передаваться при звонке на номер экстренной службы.</string>
     <string name="mic_toggle_title">Доступ к микрофону</string>
     <string name="micloud_service_summary">Синхронизация списка приложений, резервное копирование настроек системы и рабочего стола</string>
@@ -6515,15 +6661,21 @@ ID: %s
     <string name="miui_allow_light">Световой индикатор</string>
     <string name="miui_allow_music">Мультимедиа</string>
     <string name="miui_allow_vibrate">Вибрация</string>
-    <string name="miui_bubbles_notification">\"Пузыри\" для диалогов</string>
+    <string name="miui_bubbles_notification">Всплывающий чат для диалогов</string>
     <string name="miui_bubbles_notification_status_opened">Вкл.</string>
     <string name="miui_data_usage_menu_metered">Мобильная точка доступа</string>
+    <string name="miui_desktop_mode_settings">Рабочая станция</string>
     <string name="miui_device_control_description">Показать приложения, поддерживающие управление устройствами умного дома</string>
     <string name="miui_experience_optimization">Включить оптимизацию MIUI</string>
+    <string name="miui_face_data_input_dialog_cancel_btn_for_sensor_light_virtual">Отмена</string>
+    <string name="miui_face_data_input_dialog_message_for_sensor_light_virtual">Для лучшей работы разблокировки по лицу не используйте авторегулировку яркости</string>
+    <string name="miui_face_data_input_dialog_ok_btn_for_sensor_light_virtual">ОК</string>
+    <string name="miui_face_data_input_dialog_title_for_sensor_light_virtual">Разблокировка по лицу</string>
     <string name="miui_face_enroll_risk_warning_btn_cancel">Отмена</string>
     <string name="miui_face_enroll_risk_warning_title_text">Внимание</string>
     <string name="miui_face_enroll_risk_warning_title_text_cn">Заявление о безопасности</string>
     <string name="miui_face_enroll_success">Теперь можно использовать разблокировку по лицу</string>
+    <string name="miui_face_unlock_open_toast_for_sensor_light_virtual">Авторегулировка яркости отключена</string>
     <string name="miui_input_method_attention">Внимание</string>
     <string name="miui_input_method_settings">Настройки метода ввода</string>
     <string name="miui_lab_ai_cloud_closed">Предзагрузка пока недоступна</string>
@@ -6592,6 +6744,7 @@ ID: %s
     <string name="miui_sos_exit_dialog_title">Отключение функции</string>
     <string name="miui_sos_exit_emergency_title">Отключение</string>
     <string name="miui_sos_exit_send_location_title">Трансляция вашей геопозиции экстренным контактам в режиме реального времени</string>
+    <string name="miui_sos_focus_notification_ticker">Функция \"Экстренная помощь\" активирована</string>
     <string name="miui_sos_green_guard_summary">Отслеживание геопозиции в режиме реального времени</string>
     <string name="miui_sos_green_guard_title">Семейный защитник</string>
     <string name="miui_sos_hospital_card">Медицинская карта</string>
@@ -6624,6 +6777,18 @@ ID: %s
     <string name="miui_sos_statusbar_title">Функция \"Экстренная помощь\" активна</string>
     <string name="miui_sos_unknow_contract">Неизвестный контакт</string>
     <string name="miui_special_feature">Специальные функции</string>
+    <string name="miui_tof_screen_on_close_switch_dialog_msg">Для нормальной работы этой функции включите \"%s\" в настройках</string>
+    <string name="miui_tof_screen_on_close_switch_dialog_positive">Настройки</string>
+    <string name="miui_tof_screen_on_close_switch_dialog_title">Включите \"%s\"</string>
+    <string name="miui_tof_screen_on_close_tip_dialog_msg">\"%1$s\" включено. Чтобы после распознавания лица устройство не отображало сразу рабочий стол или содержимое приложения, рекомендуется оставить включенным \"%2$s\".</string>
+    <string name="miui_tof_screen_on_close_tip_dialog_negative">Отключить</string>
+    <string name="miui_tof_screen_on_close_tip_dialog_positive">Оставить</string>
+    <string name="miui_tof_screen_on_close_tip_dialog_title">Уведомление о конфиденциальности</string>
+    <string name="miui_tof_screen_on_msg">Когда устройство обнаружит рядом человека, экран включится и будет сделана попытка распознать лицо для разблокировки.</string>
+    <string name="miui_tof_screen_on_open_dialog_msg">Включите \"%s\", чтобы после распознавания лица устройство не отображало сразу рабочий стол или содержимое приложения</string>
+    <string name="miui_tof_screen_on_open_dialog_title">Включите \"%s\"</string>
+    <string name="miui_tof_screen_on_success_toast">Включена функция \"Распознавание лица при приближении\". Для обеспечения конфиденциальности также включите функцию \"Оставаться на экране блокировки после разблокировки\".</string>
+    <string name="miui_tof_screen_on_title">Распознавание лица при приближении</string>
     <string name="miui_touch_filtered_touchassistant_warning">Сенсорный помощник перекрывает диалог разрешений. Переместите Сенсорный помощник или отключите эту функцию.</string>
     <string name="miui_touch_filtered_warning">Если приложение блокирует диалог разрешений, переместите мешающий объект или закройте приложение.</string>
     <string name="miui_type_style_summary">Стиль ввода при включенной программе чтения с экрана</string>
@@ -6678,6 +6843,7 @@ ID: %s
     <string name="mobile_data_settings_summary_auto_switch">Устройство автоматически переключится на этого оператора в зоне действия его сети</string>
     <string name="mobile_data_settings_summary_dds_roaming_unavailable">Мобильный интернет недоступен во время вызова с использованием другой SIM-карты</string>
     <string name="mobile_data_settings_summary_default_data_unavailable">Устройство автоматически переключится на этого оператора после завершения вызова, для использования мобильного интернета</string>
+    <string name="mobile_data_settings_summary_on_smart_dds_unavailable">Недоступно во время вызова, когда включёно умное переключение DDS</string>
     <string name="mobile_data_settings_summary_unavailable">Нет доступных SIM-карт</string>
     <string name="mobile_data_settings_title">Мобильный интернет</string>
     <string name="mobile_data_temp_connection_active">"Временное подключение"</string>
@@ -6733,9 +6899,13 @@ ID: %s
     <string name="model_summary">Модель: %1$s</string>
     <string name="modern_control_center_desc">Свайп вниз слева - уведомления. Свайп вниз справа - центр управления.</string>
     <string name="modern_control_center_title">Новый стиль</string>
+    <string name="modifier_keys_alt">Alt</string>
     <string name="modifier_keys_cancel">"Отмена"</string>
+    <string name="modifier_keys_caps_lock">Caps lock</string>
+    <string name="modifier_keys_ctrl">Ctrl</string>
     <string name="modifier_keys_default_summary">"По умолчанию"</string>
     <string name="modifier_keys_done">"ОК"</string>
+    <string name="modifier_keys_meta">Действие клавиши</string>
     <string name="modifier_keys_picker_summary">"Выберите новую клавишу для %1$s:"</string>
     <string name="modifier_keys_picker_title">"Выбор клавиши-модификатора"</string>
     <string name="modifier_keys_reset">"Сбросить"</string>
@@ -6790,12 +6960,14 @@ ID: %s
     <string name="month_september_shortest">Сен</string>
     <string name="more">Ещё</string>
     <string name="more_account_settings_title">Другие аккаунты</string>
+    <string name="more_connection">Прочие подключения</string>
     <string name="more_dangerous_option_hint">Включена функция с высоким риском \"%1$s\". Нажмите для изменения настроек.</string>
     <string name="more_dark_mode_settings">Параметры тёмного режима</string>
     <string name="more_font_pref_title">Другие шрифты</string>
     <string name="more_installed_services_title">Загруженные сервисы</string>
     <string name="more_security_privacy_settings">"Дополнительные настройки"</string>
     <string name="more_settings_button">Доп. настройки</string>
+    <string name="more_volume_settings">Регулировка громкости</string>
     <string name="morning">Утро</string>
     <string name="move_app">Переместить</string>
     <string name="move_app_failed_dlg_text">Не удалось переместить приложение. %1$s</string>
@@ -6906,6 +7078,8 @@ ID: %s
     <string name="multi_face_list">Управление данными</string>
     <string name="multi_face_name_prefix">"Данные лица "</string>
     <string name="multi_face_number_reach_limit">Нельзя добавить данные больше, чем для 2 лиц</string>
+    <string name="multi_music_coexistence_summary">Не изменять громкость мультимедиа при входящих уведомлениях или при воспроизведении звука из другого источника</string>
+    <string name="multi_music_coexistence_title">Несколько источников звука</string>
     <string name="multi_network_acceleration_app_settings">Ускорение сети для приложений</string>
     <string name="multi_network_acceleration_summery">Подключаться одновременно к нескольким сетям Wi-Fi для увеличения скорости</string>
     <string name="multi_touch_points_category_title">Мультитач</string>
@@ -6928,13 +7102,17 @@ ID: %s
     <string name="mvno_match_data">Значение MVNO</string>
     <string name="mvno_type">Тип MVNO</string>
     <string name="my_device">Устройство</string>
+    <string name="my_device_camera_params">Характеристики камеры</string>
     <string name="my_device_disclaimer">Примечание: информация об оборудовании, включая процессор, емкость аккумулятора, камеру, размер и разрешение экрана, предоставлена лабораториями, дизайнерами и поставщиками Xiaomi.</string>
+    <string name="my_device_front_camera">Фронтальная камера</string>
+    <string name="my_device_guarantee">Гарантийный срок</string>
     <string name="my_device_info_account_preference_title">Аккаунт</string>
     <string name="my_device_info_basic_info_category_title">Основная информация</string>
     <string name="my_device_info_device_details_category_title">Сведения об устройстве</string>
     <string name="my_device_info_device_identifiers_category_title">Идентификаторы устройства</string>
     <string name="my_device_info_device_name_preference_title">Имя устройства</string>
     <string name="my_device_info_legal_category_title">Правовые и нормативные требования</string>
+    <string name="my_device_real_camera">Задняя камера</string>
     <string name="n_cacrts">Сертификатов ЦС: %d</string>
     <string name="natural_haptic">Реалистичный виброотклик</string>
     <string name="natural_haptic_summary">Новые шаблоны виброотклика привносят дополнительное измерение во все, что вы видите и к чему прикасаетесь на экране</string>
@@ -6970,6 +7148,8 @@ ID: %s
     <string name="navigation_type_radio_text_full_screen">Жесты</string>
     <string name="navigation_type_radio_text_virtual_key">Кнопки</string>
     <string name="navigation_type_settings">Способ навигации</string>
+    <string name="near_loclscreen_summary">Экран автоматически включится при приближении к устройству. Уведомления будут скрыты.</string>
+    <string name="near_loclscreen_title">Включение экрана</string>
     <string name="nearby_wifi">ДОСТУПНЫЕ СЕТИ</string>
     <string name="need_reboot_now">Требуется перезагрузка</string>
     <string name="netcheck_title">Диагностика сети</string>
@@ -7001,6 +7181,7 @@ ID: %s
     <string name="network_connection_connect_failure">Ошибка подключения</string>
     <string name="network_connection_connect_successful">Подключено</string>
     <string name="network_connection_connecting_message">Подключение к устройству…</string>
+    <string name="network_connection_error">Ошибка подключения к сети</string>
     <string name="network_connection_errorstate_dialog_message">Произошла ошибка. Приложение отменило запрос на выбор устройства.</string>
     <string name="network_connection_request_dialog_showall">Показать все</string>
     <string name="network_connection_request_dialog_summary">Приложение %1$s хочет использовать временную сеть Wi-Fi для подключения к вашему устройству</string>
@@ -7060,6 +7241,7 @@ ID: %s
     <string name="new_password_to_new_fingerprint_dialog_negative_msg">Отмена</string>
     <string name="new_password_to_new_fingerprint_dialog_positive_msg">Добавить</string>
     <string name="new_password_to_new_fingerprint_dialog_tittle">Добавление отпечатка</string>
+    <string name="next">Далее</string>
     <string name="next_button_label">Далее</string>
     <string name="next_label">Далее</string>
     <string name="next_page_content_description">Далее</string>
@@ -7232,6 +7414,7 @@ ID: %s
     <string name="not_allowed">SIM-карта не поддерживает подключение к этой сети.</string>
     <string name="not_allowed_by_ent">Запрещено в вашей организации</string>
     <string name="not_battery_optimizing">Экономия заряда отключена</string>
+    <string name="not_connected_to_wifi">Не подключено к Wi-Fi</string>
     <string name="not_default_data_content_description">Не настроено для использования данных</string>
     <string name="not_enabled">Выкл.</string>
     <string name="not_encrypted_summary">Шифрование не включено</string>
@@ -7249,6 +7432,7 @@ ID: %s
     <string name="notch_style_status_bar_inside">Скрыть без перемещения строки состояния</string>
     <string name="notch_style_status_bar_outside">Скрыть и переместить строку состояния</string>
     <string name="notes_privacy_password_role_instruction">Ваши скрытые заметки будут храниться здесь</string>
+    <string name="notice_broadcast_audio_stopped">Трансляция аудио остановлена</string>
     <string name="notice_header" />
     <string name="notif_listener_excluded_app_screen_title">Приложения, показываемые на устройстве</string>
     <string name="notif_listener_excluded_app_summary">Изменение настроек для приложений, отправляющих уведомления</string>
@@ -7276,6 +7460,7 @@ ID: %s
     <string name="notification_access_detail_switch">Разрешить доступ</string>
     <string name="notification_alert_title">Оповещения</string>
     <string name="notification_animation_style">Настройка анимации</string>
+    <string name="notification_app_permissions">Разрешения для уведомлений</string>
     <string name="notification_app_settings_button">Настройки уведомлений</string>
     <string name="notification_app_switch_label">Все уведомления %1$s</string>
     <string name="notification_assistant_security_warning_summary">"В Android 12 доступны улучшенные уведомления. Эта функция упорядочивает все ваши уведомления и подсказывает ответы и действия.
@@ -7289,8 +7474,8 @@ ID: %s
     <string name="notification_block_title">Блокировка</string>
     <string name="notification_breathing_light_color_title">Цвет для уведомлений</string>
     <string name="notification_breathing_light_freq_title">Частота мерцания для уведомлений</string>
-    <string name="notification_bubbles_developer_setting_summary">Отображать уведомления в виде \"пузырей\"</string>
-    <string name="notification_bubbles_title">Пузыри</string>
+    <string name="notification_bubbles_developer_setting_summary">Отображать в виде всплывающих чатов</string>
+    <string name="notification_bubbles_title">Всплывающие чаты</string>
     <string name="notification_center">Уведомления</string>
     <string name="notification_channel_badge_title">Показывать значок уведомления</string>
     <string name="notification_channel_sound_title">Звук</string>
@@ -7305,6 +7490,7 @@ ID: %s
     <string name="notification_content_block_summary">Не показывать уведомления в шторке или на связанных устройствах</string>
     <string name="notification_content_block_title">Включить уведомления</string>
     <string name="notification_control_center">Уведомления и центр управления</string>
+    <string name="notification_control_center_new">Уведомления и строка состояния</string>
     <string name="notification_conversation_add_to_home">Добавить на рабочий стол</string>
     <string name="notification_conversation_important">Приоритет</string>
     <string name="notification_conversation_summary">%1$s • %2$s</string>
@@ -7391,7 +7577,7 @@ ID: %s
     <string name="notification_reboot_title_hm">Требуется перезагрузка</string>
     <string name="notification_remind">Уведомления</string>
     <string name="notification_ringtone_title">Звук уведомления по умолчанию</string>
-    <string name="notification_screen_summary">История уведомлений, \"пузыри\", недавно отправленные</string>
+    <string name="notification_screen_summary">История уведомлений, всплывающие чаты, недавно отправленные</string>
     <string name="notification_settings">Уведомления</string>
     <string name="notification_settings_work_profile">Доступ к уведомлениям недоступен приложениям в рабочем профиле.</string>
     <string name="notification_shade_shortcut_title">Ярлык шторки уведомлений</string>
@@ -7400,6 +7586,8 @@ ID: %s
     <string name="notification_sound_default">Звук уведомления по умолчанию</string>
     <string name="notification_sound_dialog_title">Звук уведомлений по умолчанию</string>
     <string name="notification_sound_title">Уведомление</string>
+    <string name="notification_status_bar">Строка состояния</string>
+    <string name="notification_style_settings">Стиль уведомлений</string>
     <string name="notification_style_title">Стиль уведомлений</string>
     <string name="notification_suggestion_summary">Скрыть или показать содержание уведомлений</string>
     <string name="notification_suggestion_title">Уведомления на заблокированном экране</string>
@@ -7416,9 +7604,9 @@ ID: %s
     <string name="notification_volume_disabled_summary">"Недоступно в беззвучном режиме"</string>
     <string name="notification_volume_option_title">Громкость уведомлений</string>
     <string name="notification_volume_title">Уведомление</string>
-    <string name="notifications_bubble_setting_description">Разрешить приложениям показывать \"пузыри\". Некоторые диалоги будут отображаться в виде плавающих значков поверх других приложений.</string>
-    <string name="notifications_bubble_setting_on_summary">Вкл. / Диалоги могут отображаться в виде плавающих значков</string>
-    <string name="notifications_bubble_setting_title">Показывать \"пузыри\"</string>
+    <string name="notifications_bubble_setting_description">Некоторые диалоги будут появляться поверх всех окон в виде плавающих значков</string>
+    <string name="notifications_bubble_setting_on_summary">Вкл. / Диалоги могут появляться в виде плавающих значков</string>
+    <string name="notifications_bubble_setting_title">Всплывающие чаты</string>
     <string name="notifications_categories_off">"{count,plural, =1{# категория отключена}one{# категория отключена}few{# категории отключено}many{# категорий отключено}other{# категории отключено}}"</string>
     <string name="notifications_disabled">Откл.</string>
     <string name="notifications_enabled">Вкл.</string>
@@ -7510,6 +7698,7 @@ ID: %s
     <string name="operation_guide_title">Руководство</string>
     <string name="operator_warning">Статистика оператора связи может отличаться от статистики устройства</string>
     <string name="optimization_cancel">Отмена</string>
+    <string name="os_version">Версия OS</string>
     <string name="osu_completing_sign_up">Завершение регистрации…</string>
     <string name="osu_connect_failed">Не удалось подключиться</string>
     <string name="osu_opening_provider">Открытие %1$s…</string>
@@ -7541,6 +7730,7 @@ OTG отключается автоматически через 10 минут �
     <string name="other_sound_settings">Другие звуки</string>
     <string name="other_sound_settings_title">Дополнительные настройки</string>
     <string name="other_user_category_title">"Другие пользователи"</string>
+    <string name="outer_screen_and_resolution_title">Размер и разрешение внешнего экрана</string>
     <string name="overlay_display_devices_title">Эмуляция вторичных экранов</string>
     <string name="overlay_option_device_default">По умолчанию</string>
     <string name="overlay_settings">Поверх других приложений</string>
@@ -7647,6 +7837,8 @@ OTG отключается автоматически через 10 минут �
     <string name="page_layout_small_title">XS</string>
     <string name="page_tab_title_summary">Все</string>
     <string name="page_tab_title_support">Поддержка</string>
+    <string name="palm_circle_summary">Принять или завершить вызов, перенаправленный на планшет</string>
+    <string name="palm_circle_title">Рисование круга</string>
     <string name="paper_color_title">Цвета</string>
     <string name="paper_mode_auto_twilight_summary">Автоматически включать режим чтения после захода солнца</string>
     <string name="paper_mode_auto_twilight_title">После заката</string>
@@ -7676,6 +7868,7 @@ OTG отключается автоматически через 10 минут �
     <string name="passpoint_r1_privacy_dialog_yes">Принимаю</string>
     <string name="passwordIncorrect">Неверный пароль</string>
     <string name="password_and_security">Пароли и защита</string>
+    <string name="password_check_fail">Неверный код</string>
     <string name="password_entrance_title">Защита устройства</string>
     <string name="password_guard">Защита</string>
     <string name="password_security_settings_title">Пароли и защита</string>
@@ -7685,6 +7878,7 @@ OTG отключается автоматически через 10 минут �
     <string name="password_unlock">Пароли и защита</string>
     <string name="password_unlock_title">Защита устройства</string>
     <string name="payment_summary">По умолчанию: %1$s</string>
+    <string name="pc_install_manager">Установить через USB</string>
     <string name="peak_refresh_rate_summary">Автоматически увеличивать частоту обновления экрана с 60 до %1$s Гц для некоторого контента. Увеличивает расход батареи.</string>
     <string name="peak_refresh_rate_title">Плавный экран</string>
     <string name="peek_notification_icon_title">Значки уведомлений</string>
@@ -7960,6 +8154,8 @@ OTG отключается автоматически через 10 минут �
     <string name="preferred_network_offload_title">Способ разгрузки сети</string>
     <string name="preferred_network_type_summary">LTE (рекомендуется)</string>
     <string name="preferred_network_type_title">Предпочтительный тип сети</string>
+    <string name="preferred_nw_incompatible_ciwlan_nw_mode_dialog_body">Чтобы выбрать тип сети без LTE, NR или Global, отключите VoLTE</string>
+    <string name="preferred_nw_incompatible_ciwlan_nw_mode_dialog_title">Несовместимый тип сети</string>
     <string name="preferred_sms_settings">Это приложение будет установлено по умолчанию для создания и чтения сообщений</string>
     <string name="preferred_sms_title">Приложение сообщений по умолчанию</string>
     <string name="preferred_sms_warning_message">Использование \"%1$s\" по умолчанию для сообщений может увеличить мобильный трафик или подвергнуть опасности ваши личные данные.</string>
@@ -8021,6 +8217,7 @@ OTG отключается автоматически через 10 минут �
     <string name="priority_title">Приоритет</string>
     <string name="privacy_advanced_settings">Дополнительные настройки конфиденциальности</string>
     <string name="privacy_advanced_settings_summary">Автозаполнение, отслеживание действий и прочее</string>
+    <string name="privacy_and_security">Приватность и безопасность</string>
     <string name="privacy_authorize_cloud_msg">Для обеспечения безопасности вашего аккаунта выполните вход на i.mi.com, если вы хотите отозвать разрешения для сервисов Xiaomi Cloud (включая синхронизацию и резервное копирование)</string>
     <string name="privacy_authorize_dialog_agree">Принимаю</string>
     <string name="privacy_authorize_dialog_exit">Выход</string>
@@ -8053,6 +8250,8 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_gallery">Приватный альбом</string>
     <string name="privacy_header">"Конфиденциальность"</string>
     <string name="privacy_header_text_less_than_half">Слишком мало. Перетащите дальше.</string>
+    <string name="privacy_input_mode">Безопасный ввод</string>
+    <string name="privacy_input_mode_img_detail">Работает с клавиатурами, авторизованными Xiaomi</string>
     <string name="privacy_lab_settings">Лаборатория защиты приватности</string>
     <string name="privacy_mms">Приватные сообщения</string>
     <string name="privacy_mode_dialog_message">Скрыть сообщения, заметки, настройки и входящие вызовы?</string>
@@ -8323,6 +8522,7 @@ UT-интерфейс: %5$s"</string>
     <string name="reduce_bright_colors_shortcut_title">Быстрый запуск дополнительного уменьшения яркости</string>
     <string name="reduce_bright_colors_switch_title">Дополнительно уменьшить яркость экрана</string>
     <string name="refresh_group">Обновить группу</string>
+    <string name="regional_pref_footer_learn_more_link">https://support.google.com/android?p=regional_preferences</string>
     <string name="regional_preferences_main_page_sub_title">"Приложения используют эти параметры для персонализации."</string>
     <string name="regional_preferences_option_page_sub_title">"Приложения по возможности будут использовать ваши региональные настройки."</string>
     <string name="regional_preferences_summary">"Укажите предпочтительные единицы измерения и форматы отображения чисел"</string>
@@ -8585,6 +8785,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_title">Выбор приложений</string>
     <string name="screen_dark_mode_smart_dark_summary">Применить тёмный режим к сторонним приложениям. Некоторые приложения могут иметь проблемы с отображением.</string>
     <string name="screen_dark_mode_smart_dark_title">Глобальный тёмный режим</string>
+    <string name="screen_dark_mode_time_summary">Включение тёмного режима в запланированное время после выключения экрана</string>
     <string name="screen_dark_mode_time_title">Расписание тёмного режима</string>
     <string name="screen_effect">Цветовая схема</string>
     <string name="screen_effect_adapt_color_summary">Настройка цветов в зависимости от текущего освещения</string>
@@ -8622,6 +8823,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_flash_color_cyan">"Голубой"</string>
     <string name="screen_flash_color_green">"Зеленый"</string>
     <string name="screen_flash_color_magenta">"Пурпурный"</string>
+    <string name="screen_flash_color_none">Откл.</string>
     <string name="screen_flash_color_orange">"Оранжевый"</string>
     <string name="screen_flash_color_red">"Красный"</string>
     <string name="screen_flash_color_rose">"Розовый"</string>
@@ -8871,6 +9073,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_applications_settings">Все приложения</string>
     <string name="search_back_key">Назад;Кнопка назад;Клавиша назад</string>
     <string name="search_bar_account_avatar_content_description" />
+    <string name="search_bar_search">Поиск</string>
     <string name="search_battery_indicator">Индикатор батареи</string>
     <string name="search_bluetooth_device_searchable">Доступность;Видимость;Имя Bluetooth</string>
     <string name="search_bluetooth_enable">Bluetooth;Включить Bluetooth;Bluetooth включён</string>
@@ -9098,6 +9301,7 @@ UT-интерфейс: %5$s"</string>
     <string name="security_password_category_name">Защита устройства</string>
     <string name="security_passwords_title">Конфиденциальность</string>
     <string name="security_patch">Обновление безопасности</string>
+    <string name="security_patch_subtitle">"Обновление безопасности Android: "</string>
     <string name="security_privacy_settings_title">Конфиденциальность</string>
     <string name="security_relative">Разрешения безопасности</string>
     <string name="security_settings_activeunlock_biometric_setup">"Настроить"</string>
@@ -9156,6 +9360,8 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_face_enroll_introduction_agree">Принимаю</string>
     <string name="security_settings_face_enroll_introduction_cancel">Отмена</string>
     <string name="security_settings_face_enroll_introduction_consent_message">Использование лица ребенка для разблокировки может быть менее безопасным, чем использование надежного шаблона или PIN-кода.</string>
+    <string name="security_settings_face_enroll_introduction_consent_message_0">Разрешите ребенку использовать распознавание по лицу для разблокировки устройства</string>
+    <string name="security_settings_face_enroll_introduction_consent_message_0_class3">Разрешите ребенку использовать распознавание по лицу для разблокировки устройства или подтверждения личности, например для входа в приложения или подтверждения платежей</string>
     <string name="security_settings_face_enroll_introduction_control_consent_message" />
     <string name="security_settings_face_enroll_introduction_control_consent_title" />
     <string name="security_settings_face_enroll_introduction_control_message" />
@@ -9169,6 +9375,7 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_face_enroll_introduction_how_title" />
     <string name="security_settings_face_enroll_introduction_info_consent_gaze" />
     <string name="security_settings_face_enroll_introduction_info_consent_glasses" />
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" />
     <string name="security_settings_face_enroll_introduction_info_consent_looking" />
     <string name="security_settings_face_enroll_introduction_info_gaze" />
     <string name="security_settings_face_enroll_introduction_info_glasses" />
@@ -9176,6 +9383,7 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_face_enroll_introduction_info_looking" />
     <string name="security_settings_face_enroll_introduction_info_title" />
     <string name="security_settings_face_enroll_introduction_message">Используйте распознавание по лицу для разблокировки, подтверждения платежей и входа в приложения</string>
+    <string name="security_settings_face_enroll_introduction_message_class3">Используйте распознавание по лицу для разблокировки устройства или подтверждения личности, например для входа в приложения или подтверждения платежей</string>
     <string name="security_settings_face_enroll_introduction_message_setup">Используйте распознавание по лицу для разблокировки, подтверждения платежей и входа в приложения</string>
     <string name="security_settings_face_enroll_introduction_message_unlock_disabled">"Разблокируйте устройство и используйте распознавание по лицу для подтверждения платежей.
 
@@ -9195,24 +9403,45 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_face_profile_preference_title">Разблокировка по лицу для рабочего профиля</string>
     <string name="security_settings_face_settings_context_subtitle">Используйте разблокировку устройства по лицу</string>
     <string name="security_settings_face_settings_enroll">Настройка разблокировки по лицу</string>
-    <string name="security_settings_face_settings_footer">"Используйте разблокировку по лицу для входа в приложения и подтверждения платежей.
+    <string name="security_settings_face_settings_footer">"Используйте разблокировку по лицу для входа в приложения или подтверждения платежей.
 
 Внимание:
 Можно использовать только одно лицо. Чтобы добавить другое лицо, нужно удалить текущее.
 Посмотрев на устройство, вы можете случайно разблокировать его.
 
-Устройство может быть разблокировано, если кто-то поднесет его к вашему лицу.
+Устройство может быть разблокировано, если поднести его к лицу.
 
-Телефон также может разблокировать человек, очень похожий на вас (например, ваш близнец)."</string>
-    <string name="security_settings_face_settings_footer_attention_not_supported">"Используйте разблокировку по лицу для входа в приложения и подтверждения платежей.
+Устройство также может разблокировать человек, очень похожий на вас (например, ваш близнец)."</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"Используйте разблокировку по лицу для входа в приложения или подтверждения платежей.
 
 Внимание:
 Можно использовать только одно лицо. Чтобы добавить другое лицо, нужно удалить текущее.
+
 Посмотрев на устройство, вы можете случайно разблокировать его.
 
-Устройство может быть разблокировано, если кто-то поднесет его к вашему лицу.
+Устройство может быть разблокировано, если поднести его к лицу.
 
-Телефон также может разблокировать человек, очень похожий на вас (например, ваш близнец)."</string>
+Устройство также может разблокировать человек, очень похожий на вас (например, ваш близнец)."</string>
+    <string name="security_settings_face_settings_footer_class3">"Используйте разблокировку по лицу для входа в приложения или подтверждения платежей.
+
+Внимание:
+Можно использовать только одно лицо. Чтобы добавить другое лицо, нужно удалить текущее.
+
+Посмотрев на устройство, вы можете случайно разблокировать его.
+
+Устройство может быть разблокировано, если поднести его к лицу, даже если глаза закрыты.
+
+Устройство также может разблокировать человек, очень похожий на вас (например, ваш близнец)."</string>
+    <string name="security_settings_face_settings_footer_class3_attention_not_supported">"Используйте разблокировку по лицу для входа в приложения или подтверждения платежей.
+
+Внимание:
+Можно использовать только одно лицо. Чтобы добавить другое лицо, нужно удалить текущее.
+
+Посмотрев на устройство, вы можете случайно разблокировать его.
+
+Устройство может быть разблокировано, если поднести его к лицу, даже если глаза закрыты.
+
+Устройство также может разблокировать человек, очень похожий на вас (например, ваш близнец)."</string>
     <string name="security_settings_face_settings_preferences_category">Если разблокировка по лицу включена</string>
     <string name="security_settings_face_settings_remove_dialog_details">Данные лица будут удалены навсегда. После этого для разблокировки устройства и аутентификации в приложениях вам потребуется PIN-код, графический ключ или пароль.</string>
     <string name="security_settings_face_settings_remove_dialog_details_convenience">Данные лица будут удалены навсегда.\n\n После этого для разблокировки устройства будет требоваться PIN-код, пароль или графический ключ.</string>
@@ -9259,11 +9488,14 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_title">Найдите сканер</string>
     <string name="security_settings_fingerprint_enroll_finish_message">Теперь можно использовать отпечаток для разблокировки или подтверждения личности в приложении.</string>
     <string name="security_settings_fingerprint_enroll_finish_title">Отпечаток добавлен</string>
+    <string name="security_settings_fingerprint_enroll_finish_v2_add_fingerprint_message">"Теперь можно использовать отпечаток для разблокировки или подтверждения личности, например для входа в приложения или подтверждения платежей.
+
+Add another fingerprint so it’s easier to unlock when you hold your phone in different ways."</string>
     <string name="security_settings_fingerprint_enroll_finish_v2_message">Теперь можно использовать отпечаток для разблокировки или подтверждения личности в приложении или при платежах</string>
     <string name="security_settings_fingerprint_enroll_introduction_agree">Принимаю</string>
     <string name="security_settings_fingerprint_enroll_introduction_cancel">Отмена</string>
     <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Пропустить</string>
-    <string name="security_settings_fingerprint_enroll_introduction_consent_message">Разрешите ребенку использовать отпечаток для разблокировки устройства и подтверждения личности, например для входа в приложения, одобрения покупок и т.д.</string>
+    <string name="security_settings_fingerprint_enroll_introduction_consent_message">Разрешите ребенку использовать отпечаток для разблокировки устройства и подтверждения личности, например для входа в приложения или подтверждения платежей и т.д.</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue">Продолжить</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Добавить отпечаток</string>
     <string name="security_settings_fingerprint_enroll_introduction_footer_message_1">Данные отпечатков защищены и хранятся только на вашем устройстве. Их всегда можно удалить в настройках.</string>
@@ -9284,8 +9516,8 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_fingerprint_enroll_introduction_no_thanks">Нет</string>
     <string name="security_settings_fingerprint_enroll_introduction_title">Добавьте отпечаток</string>
     <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Сканер отпечатков</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v2_message">Используйте отпечаток, чтобы разблокировать устройство или подтвердить свою личность, например для входа в приложения или одобрения платежей</string>
-    <string name="security_settings_fingerprint_enroll_introduction_v3_message">Используйте отпечаток, чтобы разблокировать %s или подтвердить свою личность, например для входа в приложения или одобрения платежей</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v2_message">Используйте отпечаток, чтобы разблокировать устройство или подтвердить свою личность, например для входа в приложения или подтверждения платежей</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v3_message">Используйте отпечаток, чтобы разблокировать %s или подтвердить свою личность, например для входа в приложения или подтверждения платежей</string>
     <string name="security_settings_fingerprint_enroll_lift_touch_again">Поднимите палец и снова приложите его к сканеру</string>
     <string name="security_settings_fingerprint_enroll_repeat_message">Немного перемещайте палец, чтобы получить полный отпечаток</string>
     <string name="security_settings_fingerprint_enroll_repeat_title">Нажмите ещё раз</string>
@@ -9334,6 +9566,7 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_require_screen_on_to_auth_keywords">"Экран, разблокировка"</string>
     <string name="security_settings_require_screen_on_to_auth_title">"Разблокировать даже при выключенном экране"</string>
     <string name="security_settings_sfps_animation_a11y_label">"Процент выполнения: %d"</string>
+    <string name="security_settings_sfps_enroll_find_sensor_message">Сканер отпечатков пальцев находится на кнопке питания. Это плоская кнопка рядом с приподнятой кнопкой громкости сбоку устройства</string>
     <string name="security_settings_sfps_enroll_find_sensor_title">"Прикоснитесь к кнопке питания, не нажимая ее"</string>
     <string name="security_settings_sfps_enroll_finger_center_title">"Приложите центральную часть подушечки пальца к сканеру отпечатков"</string>
     <string name="security_settings_sfps_enroll_fingertip_title">"Приложите кончик пальца к сканеру отпечатков"</string>
@@ -9373,6 +9606,7 @@ UT-интерфейс: %5$s"</string>
     <string name="select_application">Выберите приложение</string>
     <string name="select_automatically">Автовыбор сети</string>
     <string name="select_device_admin_msg">Приложения администратора</string>
+    <string name="select_gpo_version_title">Выберите версию GPO</string>
     <string name="select_invalid_bug_report_handler_toast_text">Этот выбор больше не действителен. Повторите попытку</string>
     <string name="select_logd_level">Уровень журнала</string>
     <string name="select_logd_size_dialog_title">Буфер журнала</string>
@@ -9409,6 +9643,7 @@ UT-интерфейс: %5$s"</string>
     <string name="separate_keyboard_summary_fold">Разделение клавиатуры перегородкой в центре для более удобного набора текста двумя руками</string>
     <string name="separate_keyboard_summary_pad">Разделение клавиатуры перегородкой в центре для более быстрого и удобного набора текста</string>
     <string name="separate_ring_volume_option_title">"Громкость звонка"</string>
+    <string name="separator">ꚙ</string>
     <string name="service_background_processes">%1$s свободно</string>
     <string name="service_foreground_processes">%1$s занято</string>
     <string name="service_manage">Настройки</string>
@@ -9814,8 +10049,11 @@ UT-интерфейс: %5$s"</string>
     <string name="sms_preference_title">SMS</string>
     <string name="sms_received_sound_dialog_title">Выберите звук уведомления</string>
     <string name="sms_received_sound_title">Входящее SMS</string>
+    <string name="snackbar_dismiss">Отклонить</string>
     <string name="snooze_options_title">Разрешить откладывать уведомления</string>
     <string name="softbank_apn_lock_toast">APN заблокирован. Редактирование невозможно.</string>
+    <string name="software_cursor_trigger_hints_enabled_title">Подсказки области жестов</string>
+    <string name="software_cursor_trigger_keyboard_shift_enabled_title">Смещение области жестов над клавиатурой</string>
     <string name="software_version">Версия ПО</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
@@ -9908,6 +10146,8 @@ UT-интерфейс: %5$s"</string>
     <string name="sos_privacy_policy_revoke_title_reject">Внимание</string>
     <string name="sos_privacy_revoke_failed_dialog_content">Ошибка сервера. Повторите попытку позже.</string>
     <string name="sos_privacy_revoke_failed_dialog_title">Не удалось отозвать согласие</string>
+    <string name="sound_assist_key_summary">Раздельная регулировка звука для каждого приложения при одновременном воспроизведении</string>
+    <string name="sound_assist_key_title">Раздельная регулировка</string>
     <string name="sound_assist_summary">Настройки параметров звука</string>
     <string name="sound_assist_title">Звуковой помощник</string>
     <string name="sound_category_call_ringtone_vibrate_title">Мелодии и звуки уведомлений</string>
@@ -9963,6 +10203,7 @@ UT-интерфейс: %5$s"</string>
     <string name="spellchecker_switch_title">Включить проверку орфографии</string>
     <string name="spellcheckers_settings_for_work_title">Настройки проверки орфографии</string>
     <string name="spellcheckers_settings_title">Проверка орфографии</string>
+    <string name="split_operation_guide_title">Как использовать Разделение экрана</string>
     <string name="split_screen">Разделение экрана</string>
     <string name="ssid_label">"SSID: "</string>
     <string name="ssl_ca_cert_dialog_title">"{count,plural, =1{Одобрите или удалите сертификат}one{Одобрите или удалите сертификаты}few{Одобрите или удалите сертификаты}many{Одобрите или удалите сертификаты}other{Одобрите или удалите сертификаты}}"</string>
@@ -10172,6 +10413,9 @@ UT-интерфейс: %5$s"</string>
     <string name="storage_wizard_init_v2_external_action">"Форматировать"</string>
     <string name="storage_wizard_init_v2_external_summary">"Хранить фото, видео, музыку и файлы для использования на других устройствах. Подробнее о том, &lt;ahref=https://support.google.com/android/answer/12153449&gt;как настроить SD-карту&lt;/a&gt;…"</string>
     <string name="storage_wizard_init_v2_external_title">"Форматирование SD-карты как съемного накопителя"</string>
+    <string name="storage_wizard_init_v2_internal_action">Форматировать</string>
+    <string name="storage_wizard_init_v2_internal_summary">"Хранить фото, видео, музыку и файлы только для использования на этом устройстве. Подробнее о том, &lt;ahref=https://support.google.com/android/answer/12153449&gt;как настроить SD-карту&lt;/a&gt;…"</string>
+    <string name="storage_wizard_init_v2_internal_title">Форматирование SD-карты как внутреннего хранилища</string>
     <string name="storage_wizard_init_v2_later">"Настроить позже"</string>
     <string name="storage_wizard_init_v2_or">"Или"</string>
     <string name="storage_wizard_init_v2_title">"Как будет использоваться ^1?"</string>
@@ -10387,8 +10631,10 @@ UT-интерфейс: %5$s"</string>
     <string name="subscreen_title">Задний экран</string>
     <string name="subscription_available">Доступна</string>
     <string name="sud_back_button_label">Назад</string>
+    <string name="sud_default_device_name">Устройство</string>
     <string name="sud_more_button_label">Ещё</string>
     <string name="sud_next_button_label">Далее</string>
+    <string name="sud_skip_button_label">Пропустить</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Совместимы с полноэкранным режимом</string>
     <string name="suggested_app_locales_title">Рекомендуемые языки</string>
     <string name="suggested_fingerprint_lock_settings_summary" />
@@ -10401,6 +10647,7 @@ UT-интерфейс: %5$s"</string>
     <string name="suggestion_button_text">ОК</string>
     <string name="suggestion_for_phone_recycled">Добавить другой номер</string>
     <string name="suggestion_remove">Убрать</string>
+    <string name="suggestions_available">Рекомендации ниже</string>
     <string name="suggestions_more_title">Ещё +%1$d</string>
     <string name="suggestions_summary">+%1$d</string>
     <string name="suggestions_title">Рекомендации</string>
@@ -10408,6 +10655,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sum_carrier_select">Выберите оператора связи</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_empty" />
+    <string name="summary_quick_control_all_devices">Показывать в Центре управления элементы управления для ТВ, колонок и авто поблизости</string>
     <string name="summary_range_verbal_combination">с %1$s по %2$s</string>
     <string name="summary_two_lines_placeholder">" 
  "</string>
@@ -10417,10 +10665,12 @@ UT-интерфейс: %5$s"</string>
     <string name="sunday_shortest">Вс</string>
     <string name="sunlight_low_power_notification">Не удалось включить Дневной режим. Низкий заряд батареи.</string>
     <string name="sunlight_mode">Дневной режим</string>
-    <string name="sunlight_mode_summary">Регулировать яркость экрана при ярком окружающем освещении</string>
+    <string name="sunlight_mode_boost_summary">Увеличение диапазона яркости и авторегулировка яркости в условиях яркого освещения. Устройство может нагреваться и быстрее расходовать заряд.</string>
+    <string name="sunlight_mode_summary">Регулировка яркости экрана в условиях яркого освещения</string>
     <string name="supl_not_set">&lt;Не настроено&gt;</string>
     <string name="supplicant_state_label">Статус подключения:</string>
     <string name="support_summary">Справочные статьи, поддержка по телефону и в чате</string>
+    <string name="supported_app_title">Поддерживаемые приложения</string>
     <string name="sure_sync_now">Синхронизировать объекты?</string>
     <string name="surround_sound_all_desc">Усиление глубины звука для наушников и динамиков</string>
     <string name="surround_sound_only_headset_desc">Усиление глубины звука для наушников</string>
@@ -10447,6 +10697,7 @@ UT-интерфейс: %5$s"</string>
     <string name="switch_off_text">Откл.</string>
     <string name="switch_on_text">Вкл.</string>
     <string name="switch_power_sound">Звук зарядки</string>
+    <string name="switch_role">Переключить</string>
     <string name="switch_screen_button_order">Поменять кнопки местами</string>
     <string name="switch_screen_button_order_desc">Поменять местами \"Назад\" и \"Меню\"</string>
     <string name="switch_select_to_speak_on">Выберите для разговора</string>
@@ -10507,16 +10758,20 @@ UT-интерфейс: %5$s"</string>
     <string name="system_package">Системные обновления нельзя установить на внешнем носителе.</string>
     <string name="system_print_service_help">О печати</string>
     <string name="system_shortcut_wake">Запуск кнопкой</string>
+    <string name="system_sound_effect_settings">Системные звуки</string>
     <string name="system_storage">Системная память</string>
     <string name="system_touch">Виброотклик</string>
     <string name="system_ui_settings">Показать SystemUI Tuner</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="system_update_settings_list_item_title">Обновления системы</string>
+    <string name="tab">Вкладка</string>
     <string name="tab_text">Вкладка</string>
     <string name="tablet_screen_application_adaptation_title">Настройка макетов для планшетов</string>
     <string name="tablet_screen_settings_title">Функции для планшетов</string>
     <string name="tablet_screen_special_function_title">Функции для планшетов</string>
     <string name="take_call_on_title">Ответить с помощью</string>
+    <string name="talkback_ocr_summary">Распознавать текст на изображениях и читать его вслух</string>
+    <string name="talkback_ocr_title">Распознавание текста</string>
     <string name="talkback_summary">Инструмент для озвучивания данных с экрана для людей с нарушениями зрения</string>
     <string name="talkback_title">Talkback</string>
     <string name="talkback_watermark_enable">Водяной знак TalkBack</string>
@@ -10688,6 +10943,8 @@ UT-интерфейс: %5$s"</string>
     <string name="theme_customization_icon_shape_title">Форма значков</string>
     <string name="theme_settings_title">Темы</string>
     <string name="thememanager_not_found">Не удалось открыть Темы. Убедитесь, что приложение установлено.</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_fold">Проведите горизонтально тремя пальцами по внутреннему экрану, чтобы использовать разделение экрана</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_pad">Проведите горизонтально тремя пальцами, чтобы использовать разделение экрана</string>
     <string name="three_gesture_down">Проведите тремя пальцами вниз</string>
     <string name="three_gesture_horizontal">Проведите %d пальцами горизонтально</string>
     <string name="three_gesture_long_press">Нажмите %d пальцами и удерживайте</string>
@@ -10702,9 +10959,17 @@ UT-интерфейс: %5$s"</string>
     <string name="time_format_entries_1">%d-часовой</string>
     <string name="time_format_entries_2">%d-часовой</string>
     <string name="time_format_entries_3">Автоматически</string>
+    <string name="time_picker_am">AM</string>
     <string name="time_picker_dialog_title">Настройка времени</string>
+    <string name="time_picker_hour_24h_suffix">%1$d ч.</string>
+    <string name="time_picker_hour_selection">Часы</string>
+    <string name="time_picker_hour_suffix">%1$d ч.</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
+    <string name="time_picker_minute_selection">Минуты</string>
+    <string name="time_picker_minute_suffix">%1$d мин.</string>
+    <string name="time_picker_period_toggle_description">Выберите AM или PM</string>
+    <string name="time_picker_pm">PM</string>
     <string name="time_picker_title">Время</string>
     <string name="time_spent_in_app_pref_title">Время экрана</string>
     <string name="time_unit_just_now">Только что</string>
@@ -10731,22 +10996,36 @@ UT-интерфейс: %5$s"</string>
     <string name="title_layout_v2">Размер текста и масштаб</string>
     <string name="title_miui_music_mute_by_user">Режим \"Без звука\"</string>
     <string name="title_of_auto_launch_manage">Автозапуск</string>
+    <string name="title_quick_control_all_devices">Показывать элементы управления для устройств поблизости</string>
     <string name="title_regional_pref_footer">"Если в приложении нельзя выбрать регион, будут использоваться настройки по умолчанию."</string>
+    <string name="title_show_notification_icon">Показывать значки уведомлений</string>
+    <string name="title_smart_device_control">Управление умными устройствами</string>
     <string name="title_special_features_health_global">Частота пульса</string>
     <string name="title_unavailable_locale">"%s недоступен"</string>
+    <string name="title_wordless_mode">Не показывать ярлыки значков</string>
     <string name="to_close">Отключить</string>
     <string name="to_switch_networks_disconnect_ethernet">Чтобы переключиться между сетями, отключите кабель Ethernet</string>
     <string name="toast_allows_restricted_settings_successfully">Приложению \"%s\" разрешён доступ к настройкам.</string>
+    <string name="toast_ap_works_wifi_display_disable">Отключите точку доступа перед трансляцией</string>
     <string name="toast_apply_font_fail">Не удалось установить шрифт</string>
     <string name="toast_disconnect_earphone">Отсоедините наушники и повторите попытку</string>
     <string name="toast_lockscreen_glogin_empty_password">Введите пароль</string>
     <string name="toast_need_login">Войдите в Xiaomi аккаунт</string>
     <string name="toast_sta_ap_works_wifi_display_disable">Передача недоступна, если установлено Wi-Fi соединение и включена точка доступа</string>
     <string name="today">Сегодня</string>
+    <string name="tof_gesture_cue_tone_summary">Воспроизводить звук подтверждения при обнаружении ладони</string>
+    <string name="tof_gesture_cue_tone_title">Звук подтверждения</string>
+    <string name="tofgesture_description_summary" formatted="false">Когда устройство находится в альбомном режиме, держите руку на расстоянии от %d до %d см. от камеры и выполняйте жесты после появления значка руки в верхней части экрана.</string>
+    <string name="tofgesture_enable_title">Бесконтактные жесты (Beta)</string>
+    <string name="tofgesture_settings">Бесконтактные жесты (Beta)</string>
     <string name="toggle_auto_speaker_preference_summary">Переключаться на динамик, когда вы отодвигаете устройство от уха во время разговора. Функция работает только когда включён TalkBack.</string>
     <string name="toggle_auto_speaker_preference_title">Автопереключение на динамик</string>
     <string name="toggle_collapse_after_clicked_title">Скрывать после касания</string>
+    <string name="toggle_disable_ciwlan_call_dialog_title">Отключить %s?</string>
+    <string name="toggle_disable_ciwlan_call_might_drop_dialog_body">Отключение %s может привести к обрыву текущего вызова</string>
+    <string name="toggle_disable_ciwlan_call_will_drop_dialog_body">Отключение %s приведет к обрыву текущего вызова</string>
     <string name="tomorrow">Завтра</string>
+    <string name="tooltip_long_press_label">Показать подсказку</string>
     <string name="top_to_bottom_slide">Свайп вниз</string>
     <string name="total">Не беспокоить</string>
     <string name="total_info">Все звуки и вибрация отключены, кроме будильников</string>
@@ -10800,6 +11079,7 @@ UT-интерфейс: %5$s"</string>
     <string name="transfer_esim_to_another_device_title">"Перенести eSIM на другое устройство"</string>
     <string name="transition_animation_scale_title">Анимация переходов</string>
     <string name="transparent_human_voice">Голос</string>
+    <string name="transparent_human_voice_plus">Голос+</string>
     <string name="transparent_navigation_bar">Прозрачная панель навигации</string>
     <string name="transparent_navigation_bar_summary">Сделать цвет фона панели навигации прозрачным по умолчанию</string>
     <string name="transparent_normal">Стандартный</string>
@@ -11041,6 +11321,8 @@ UT-интерфейс: %5$s"</string>
     <string name="update_progress_for_updates">Обновление (%s)</string>
     <string name="update_sourceinfo_btn_txt">Обновить информацию об источнике</string>
     <string name="updating_settings">Обновление настроек…</string>
+    <string name="updown_waving_summary">Регулировка громкости мультимедиа, переключение между короткими видеороликами и перелистывание страниц в документах</string>
+    <string name="updown_waving_title">Вертикальная волна</string>
     <string name="uplmn_list_setting_add_plmn">Новая PLMN</string>
     <string name="uplmn_settings_summary">Определение предпочтительных PLMN в порядке приоритета</string>
     <string name="uplmn_settings_title">Управляемая пользователем PLMN</string>
@@ -11257,6 +11539,7 @@ UT-интерфейс: %5$s"</string>
     <string name="use_privacy_password_immediate">Попробовать</string>
     <string name="use_system_language_to_select_input_method_subtypes">Языки системы</string>
     <string name="use_system_preference">Выбор системы</string>
+    <string name="use_system_preference_not_default">Использовать системные настройки</string>
     <string name="use_this_wlan">Использовать</string>
     <string name="use_wifi_hotsopt_main_switch_title">Использовать точку доступа Wi-Fi</string>
     <string name="user_account_title">Аккаунт для контента</string>
@@ -11382,6 +11665,10 @@ UT-интерфейс: %5$s"</string>
     <string name="uwb_settings_title">Сверхширокополосная связь (СШП)</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+    <string name="valid_net_access">Просмотр учетных данных доступа к сети</string>
+    <string name="valid_net_ok">ОК</string>
+    <string name="valid_net_result_fail">Не удалось получить информацию. Повторите попытку позже.</string>
+    <string name="valid_net_result_title">Результат</string>
     <string name="var_font_switch_dialog_summary">Для изменения этого параметра необходима перезагрузка устройства</string>
     <string name="var_font_switch_dialog_title">Перезагрузить устройство?</string>
     <string name="var_font_switch_title">Регулируемый шрифт</string>
@@ -11403,6 +11690,8 @@ UT-интерфейс: %5$s"</string>
     <string name="vibrate_when_ringing_title">Вибрация при вызовах</string>
     <string name="video_calling_settings_title">Настройки видеовызова</string>
     <string name="video_tool_box_title">Инструменты для видео</string>
+    <string name="view_face_privacy_policy"><Data>Прежде чем продолжить, прочтите &lt;a href =\"https://privacy.mi.com/Facial-recognition/%1$s/\">Заявление о конфиденциальности \"Данные лица и блокировка экрана\"&lt;/a>.</Data></string>
+    <string name="view_fingerprint_privacy_policy"><Data>Прежде чем продолжить, прочтите &lt;a href =\"https://privacy.mi.com/setting-fingerprint/%1$s/\">Заявление о конфиденциальности \"Отпечатки и блокировка экрана\"&lt;/a>.</Data></string>
     <string name="view_saved_network">Выберите сохранённую сеть для просмотра</string>
     <string name="vip_list">Входящие вызовы</string>
     <string name="vip_service_settings">Мои сервисы</string>
@@ -11482,9 +11771,11 @@ UT-интерфейс: %5$s"</string>
     <string name="volume_category_title">Громкость</string>
     <string name="volume_connectivity_panel_title">Громкость</string>
     <string name="volume_hifi_description">Настройки Hi-Fi</string>
+    <string name="volume_key_launch_camera">Запуск камеры</string>
     <string name="volume_key_launch_camera_0" />
     <string name="volume_key_launch_camera_1" />
     <string name="volume_key_launch_camera_2" />
+    <string name="volume_key_launch_camera_and_take_photo">Сделать фото</string>
     <string name="volume_label">Громкость</string>
     <string name="volume_launch_camera_summary">Запуск камеры двойным нажатием кнопки \"Уменьшение громкости\"</string>
     <string name="volume_media_description">Музыка, видео, игры и медиафайлы</string>
@@ -11940,6 +12231,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_failed_connect_message">Не удалось подключиться к сети.</string>
     <string name="wifi_failed_forget_message">Не удалось удалить сеть.</string>
     <string name="wifi_failed_save_message">Не удалось сохранить сеть.</string>
+    <string name="wifi_fast_repair_summary">Устранение проблем с сетью Wi-Fi</string>
+    <string name="wifi_fast_repair_title">Восстановление работы Wi-Fi</string>
     <string name="wifi_forget">Удалить</string>
     <string name="wifi_forget_dialog_message">Все пароли для этой сети будут удалены.</string>
     <string name="wifi_forget_dialog_title">Удалить сеть?</string>
@@ -12114,6 +12407,19 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_region_title">Регион Wi-Fi</string>
     <string name="wifi_remembered">Сохранено</string>
     <string name="wifi_remembered_disabled_auto_connect">Сохранено, без автоподключения</string>
+    <string name="wifi_repair_action_btn">Восстановить</string>
+    <string name="wifi_repair_btn_confirm">Подтвердить</string>
+    <string name="wifi_repair_btn_no">Нет</string>
+    <string name="wifi_repair_btn_yes">Да</string>
+    <string name="wifi_repair_confirm_desc">"Сталкивались ли вы с какой-либо из этих проблем?
+%1$d. Не удается включить Wi-Fi
+%2$d. Сеть Wi-Fi работает медленно
+%3$d. Не работают другие функции Wi-Fi."</string>
+    <string name="wifi_repair_fail_desc">Произошла ошибка, из-за которой функциональность Wi-Fi не была восстановлена</string>
+    <string name="wifi_repair_fail_title">Не удалось восстановить</string>
+    <string name="wifi_repair_ongoing">Восстановление… Не покидайте эту страницу.</string>
+    <string name="wifi_repair_pass_desc">Проверьте, устранена ли проблема, если нет, напишите нам</string>
+    <string name="wifi_repair_pass_title">Успешно восстановлено</string>
     <string name="wifi_require_sim_card_to_connect">Для подключения требуется SIM-карта</string>
     <string name="wifi_require_specific_sim_card_to_connect">Для подключения требуется SIM-карта оператора \"%s\"</string>
     <string name="wifi_required_info_text">Для завершения настройки необходим доступ к Wi-Fi. После настройки вы сможете переключаться между мобильным интернетом и Wi-Fi.</string>
@@ -12375,6 +12681,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_wps_onstart_pin">Введите код %1$s на вашем роутере. Настройка может занять до двух минут.</string>
     <string name="wifi_wps_overlap_error">Обнаружен другой сеанс WPS. Подождите немного и повторите попытку.</string>
     <string name="wifi_wps_setup_title">Безопасная настройка Wi-Fi</string>
+    <string name="wificall_switch_summary">Устройство будет переключаться между Wi-Fi и VoLTE при плохом качестве соединения</string>
+    <string name="wificall_switch_title">Вызовы через Wi-Fi</string>
     <string name="wifitrackerlib_admin_restricted_network">Запрещено вашей организацией</string>
     <string name="wifitrackerlib_auto_connect_disable">Без автоподключения</string>
     <string name="wifitrackerlib_available_via_app">Доступно через %1$s</string>

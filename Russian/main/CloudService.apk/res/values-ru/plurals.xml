@@ -39,9 +39,9 @@
         <item quantity="one">Недостаточно места. Не синхронизировано %d фото.</item>
     </plurals>
     <plurals name="dirty_blocklist_count">
-        <item quantity="other">%d записей черного списка</item>
-        <item quantity="one">%d запись черного списка</item>
-        <item quantity="few">%d записи черного списка</item>
+        <item quantity="other">%d записей чёрного списка</item>
+        <item quantity="one">%d запись чёрного списка</item>
+        <item quantity="few">%d записи чёрного списка</item>
     </plurals>
     <plurals name="dirty_browser_count">
         <item quantity="other">%d объектов браузера</item>

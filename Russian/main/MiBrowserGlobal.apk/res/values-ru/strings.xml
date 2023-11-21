@@ -2317,7 +2317,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pref_privacy_performance_id_reset">Сброс Performance ID</string>
     <string name="pref_privacy_performance_id_will_reset">Ваш Performance ID будет сброшен</string>
     <string name="pref_privacy_policy">Политика конфиденциальности</string>
-    <string name="pref_privacy_security_title">Конфиденциальность и безопасность</string>
+    <string name="pref_privacy_security_title">Приватность и безопасность</string>
     <string name="pref_rate_app">Оценить</string>
     <string name="pref_save_bandwidth_mode_title">Экономия трафика</string>
     <string name="pref_security_accept_cookies">Разрешить cookies</string>
@@ -2419,7 +2419,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="privacy_improve_performance_desc">Разрешить Xiaomi собирать и анализировать пользовательские данные для улучшения продуктов и сервисов</string>
     <string name="privacy_local_app_discovery">Исследуйте приложения на устройстве</string>
     <string name="privacy_message">Перед использованием Браузера примите &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Условия использования&lt;/a>&lt;/font> и &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Политику конфиденциальности&lt;/a>&lt;/font>.</string>
-    <string name="privacy_message_main_tips_first">Для работы базовых сервисов, приложению Браузер необходимо разрешение на сбор некоторой личной информации. Как обрабатывается собранная информация, можно узнать в нашей Политике конфиденциальности. Согласие с Политикой конфиденциальности Браузера можно отзвать в любое время в Настройки - Конфиденциальность и безопасность. Перед использованием Браузера прочтите и примите наше Пользовательское соглашение и Политику конфиденциальности.</string>
+    <string name="privacy_message_main_tips_first">Для работы базовых сервисов, приложению Браузер необходимо разрешение на сбор некоторой личной информации. Как обрабатывается собранная информация, можно узнать в нашей Политике конфиденциальности. Согласие с Политикой конфиденциальности Браузера можно отзвать в любое время в Настройки > Приватность и безопасность. Перед использованием Браузера прочтите и примите наше Пользовательское соглашение и Политику конфиденциальности.</string>
     <string name="privacy_message_main_tips_second">Для поиска приложений на этом устройстве, Браузеру необходим доступ к информации об установленных приложениях. Информация не будет никуда передаваться.</string>
     <string name="privacy_message_welcome">Добро пожаловать в Браузер! Приложение предоставляет следующие возможности:</string>
     <string name="privacy_message_welcome_tip_first">- Быстрый и безопасный просмотр веб-страниц</string>
@@ -3155,7 +3155,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="user_defined_webpage_title">Добавить на главную</string>
     <string name="user_experience_agree">Присоединиться</string>
     <string name="user_experience_content">"Программа улучшения качества помогает нам целенаправленно улучшать наши продукты и услуги, а также внедрять новые функции и услуги, которые могут быть вам полезны. Мы начнем собирать и анализировать соответствующие данные (например, данные об использовании продукта) после того, как вы присоединитесь к ней. Нажимая \"Присоединиться\" ниже, вы соглашаетесь со всеми условиями участия в &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Программе улучшения качества&lt;/a>&lt;/font>.
-Вы в любое время можете отказаться от участия в программе в разделе Настройки > Пароли и защита > Конфиденциальность."</string>
+Вы в любое время можете отказаться от участия в программе в разделе Настройки > Приватность и безопасность."</string>
     <string name="user_experience_disagree">Отклонить</string>
     <string name="user_experience_title">Программа улучшения качества</string>
     <string name="user_guide_color_mode_info">Доступны светлая и тёмная темы</string>

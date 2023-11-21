@@ -565,9 +565,9 @@
     </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Настройки приложения</item>
-        <item>Белый на черном</item>
+        <item>Белый на чёрном</item>
         <item>Чёрный на белом</item>
-        <item>Жёлтый на черном</item>
+        <item>Жёлтый на чёрном</item>
         <item>Жёлтый на синем</item>
         <item>Специальный</item>
     </string-array>

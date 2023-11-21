@@ -189,8 +189,8 @@
     <string name="cd_check_box_checked">Проверено</string>
     <string name="cd_check_box_middle">Выбор раздела</string>
     <string name="cd_check_box_unchecked">Не проверено</string>
-    <string name="cd_list_item_collapse">Свернуто</string>
-    <string name="cd_list_item_expanded">Развернуто</string>
+    <string name="cd_list_item_collapse">Свёрнуто</string>
+    <string name="cd_list_item_expanded">Развёрнуто</string>
     <string name="cd_percent">Процент</string>
     <string name="cd_scanning">Сканирование</string>
     <string name="cd_settings">Настройки</string>

@@ -381,7 +381,7 @@
     <string name="permission_contact_describe_bluetooth_summary">Для предоставления доступа к контактам другим совместимым устройствам, подключённых к этому устройству. Доступ будет предоставляться только при включенном Bluetooth или редактировании контактов при включенном Bluetooth.</string>
     <string name="permission_contact_describe_desktop_summary">Для использования функции экстренного контакта на рабочем столе в Простом режиме и отображения уведомлений чатов;</string>
     <string name="permission_contact_describe_message_summary">Для отображения соответствующей контактной информации SMS и MMS.</string>
-    <string name="permission_contact_introduction">Для обеспечения функциональности черного списка и вызова экстренных контактов</string>
+    <string name="permission_contact_introduction">Для обеспечения функциональности чёрного списка и вызова экстренных контактов</string>
     <string name="permission_device">Доступ к информации об устройстве</string>
     <string name="permission_device_desktop_summary">Для доступа к информации об устройстве (например, название оператора связи);</string>
     <string name="permission_device_fast_pairing_summary">Для доступа к статусу устройства и передачи его на носимые устройства;</string>

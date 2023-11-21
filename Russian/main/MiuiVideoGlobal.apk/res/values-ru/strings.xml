@@ -1336,7 +1336,7 @@ ID: %s
     <string name="notice_message_title">Уведомления</string>
     <string name="notice_title">Сообщения</string>
     <string name="notification_bar">Шторка уведомлений</string>
-    <string name="notification_bar_player_subtitle">Отображать свернутое окно плеера в шторке уведомлений</string>
+    <string name="notification_bar_player_subtitle">Отображать свёрнутое окно плеера в шторке уведомлений</string>
     <string name="notification_bar_player_title">Сворачивание окна</string>
     <string name="notification_last_played_status">История воспроизведения</string>
     <string name="notification_open_tip">Включите для уведомлений</string>

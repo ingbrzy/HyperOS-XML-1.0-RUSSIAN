@@ -199,7 +199,7 @@
     <string name="confirm_restore_positive">Восстановить</string>
     <string name="confirm_restore_title">Восстановление сообщений</string>
     <string name="confirm_send_mms">Один из контактов получателей содержит адрес Email. Это сообщение будет отправлено как MMS, за которое может взиматься дополнительная плата оператором.</string>
-    <string name="confirm_upload_sms">Выгрузка сообщений для улучшения работы черного списка</string>
+    <string name="confirm_upload_sms">Выгрузка сообщений для улучшения работы чёрного списка</string>
     <string name="contact_card_unknown_contact">Неизвестный контакт</string>
     <string name="contact_not_exists">"Этого человека нет в списке ваших контактов."</string>
     <string name="context_menu_add_calendar">Добавить в календарь</string>

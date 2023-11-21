@@ -86,7 +86,7 @@
         <item>Я</item>
     </string-array>
     <string-array name="color_mode_labels">
-        <item>Черно-белая</item>
+        <item>Чёрно-белая</item>
         <item>Цветная</item>
     </string-array>
     <string-array name="duplex_mode_labels">

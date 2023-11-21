@@ -58,7 +58,7 @@
     <string name="doc_photo_crop_toast">Стертые заметки появятся после обрезки снова. Продолжить?</string>
     <string name="doc_photo_doc_photo_title">Редактирование</string>
     <string name="doc_photo_enhance_bin">Ч/Б</string>
-    <string name="doc_photo_enhance_bin_desc">Черно-белая копия</string>
+    <string name="doc_photo_enhance_bin_desc">Чёрно-белая копия</string>
     <string name="doc_photo_enhance_color">Улучшенный</string>
     <string name="doc_photo_enhance_color_desc">Улучшенное цветное сканирование</string>
     <string name="doc_photo_enhance_crop">Обрезать</string>

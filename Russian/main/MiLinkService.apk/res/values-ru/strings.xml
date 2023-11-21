@@ -737,7 +737,7 @@
     <string name="screen_projection_characteristics_off_screen_title">Трансляция с выключенным экраном</string>
     <string name="screen_projection_characteristics_privacy_protect_summary">Запрет отображения всплывающих уведомлений, входящих вызовов и другой личной информации на внешнем мониторе.</string>
     <string name="screen_projection_characteristics_privacy_protect_title">Скрытие личной информации</string>
-    <string name="screen_projection_characteristics_small_window_summary">Свернутое окно во время трансляции дает возможность пользоваться другими функциями и приложениями на телефоне.</string>
+    <string name="screen_projection_characteristics_small_window_summary">Свёрнутое окно во время трансляции дает возможность пользоваться другими функциями и приложениями на телефоне.</string>
     <string name="screen_projection_characteristics_small_window_title">Сворачивание окна</string>
     <string name="screen_projection_example_document_summary">Используйте устройство для показа презентаций на внешнем мониторе и переключения между слайдами, а также для просмотра заметок. Попробуйте эту функцию в Проводник &gt; Документы.</string>
     <string name="screen_projection_example_document_title">Документы</string>

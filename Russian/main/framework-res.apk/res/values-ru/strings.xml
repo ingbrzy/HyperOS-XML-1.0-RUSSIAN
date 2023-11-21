@@ -935,8 +935,8 @@
     <string name="keyguard_accessibility_slide_area">Область слайдера</string>
     <string name="keyguard_accessibility_slide_unlock">Разблокировка слайдером</string>
     <string name="keyguard_accessibility_status">Статус</string>
-    <string name="keyguard_accessibility_unlock_area_collapsed">Область разблокировки свернута</string>
-    <string name="keyguard_accessibility_unlock_area_expanded">Область разблокировки развернута</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Область разблокировки свёрнута</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Область разблокировки развёрнута</string>
     <string name="keyguard_accessibility_user_selector">Выбор аккаунта</string>
     <string name="keyguard_accessibility_widget">Виджет \"%1$s\"</string>
     <string name="keyguard_accessibility_widget_changed">%1$s. Виджет %2$d из %3$d.</string>
@@ -1767,7 +1767,7 @@
     <string name="permlab_requestPasswordComplexity">Получение уровня сложности блокировки</string>
     <string name="permlab_route_media_output">Перенаправление вывода мультимедиа</string>
     <string name="permlab_runInBackground">Работа в фоновом режиме</string>
-    <string name="permlab_schedule_exact_alarm">"Настройка выполнения действий в определенное время"</string>
+    <string name="permlab_schedule_exact_alarm">"Настройка выполнения действий в определённое время"</string>
     <string name="permlab_sdcardRead">Чтение содержимого общего хранилища</string>
     <string name="permlab_sdcardWrite">Изменение содержимого общего хранилища</string>
     <string name="permlab_sendSms">Отправка и просмотр SMS-сообщений</string>

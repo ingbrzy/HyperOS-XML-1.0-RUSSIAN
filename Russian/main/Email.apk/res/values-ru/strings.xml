@@ -325,7 +325,7 @@
     <string name="bContact_list_search_hint">Поиск заблокированных контактов</string>
     <string name="b_contacts">Чёрный список</string>
     <string name="b_contacts_remove">Удалить</string>
-    <string name="b_contacts_remove_tips">Удалить этот адрес из черного списка?</string>
+    <string name="b_contacts_remove_tips">Удалить этот адрес из чёрного списка?</string>
     <string name="back">Назад</string>
     <string name="bank_card_detail">Данные кредитной карты</string>
     <string name="battery_saver">Экономия заряда</string>
@@ -796,7 +796,7 @@
     <string name="general_preference_text_zoom_small">Нормальный</string>
     <string name="general_preference_text_zoom_tiny">Мелкий</string>
     <string name="general_preference_trash_contact">Фильтрация спама</string>
-    <string name="general_preference_trash_contact_sum">Фильтрация писем от отправителей из черного списка</string>
+    <string name="general_preference_trash_contact_sum">Фильтрация писем от отправителей из чёрного списка</string>
     <string name="generic_attachment_problem">Не удалось прикрепить файл</string>
     <string name="get_database_exception">Очистите данные приложения в Настройки > Системные приложения и повторите попытку.</string>
     <string name="get_oauth_code">Получить код</string>

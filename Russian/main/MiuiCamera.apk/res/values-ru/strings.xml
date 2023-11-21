@@ -89,7 +89,7 @@
     <string name="accessibility_doc4_content_page_selected_text_format">Выбранный текст: %s</string>
     <string name="accessibility_doc4_content_page_unselected_report">Нажмите, чтобы выделить текст</string>
     <string name="accessibility_doc4_entrance_tip">Распознавание текста</string>
-    <string name="accessibility_document_blackwhite_button">Сканирование документов. Черное и белое.</string>
+    <string name="accessibility_document_blackwhite_button">Сканирование документов. Чёрное и белое.</string>
     <string name="accessibility_document_origin_button">Сканирование документов. Оригинал.</string>
     <string name="accessibility_document_strengthen_button">Сканирование документов. Улучшенное.</string>
     <string name="accessibility_double_click_to_exit">Нажмите дважды для выхода</string>
@@ -2279,7 +2279,7 @@
     <string name="super_eis_pro_disabled_hint">Стабилизация видео PRO отключена</string>
     <string name="super_macro_mode">Супермакро</string>
     <string name="super_moon">Суперлуна</string>
-    <string name="super_moon_black_cat">Черная кошка</string>
+    <string name="super_moon_black_cat">Чёрная кошка</string>
     <string name="super_moon_branch_bird">Соловей</string>
     <string name="super_moon_cable_car">Фуникулер</string>
     <string name="super_moon_climb">Восхождение</string>
@@ -2504,7 +2504,7 @@
     <string name="video_effect_entry_bygone">Ретро</string>
     <string name="video_effect_entry_central">Центр</string>
     <string name="video_effect_entry_color_retention">Цветовой фокус</string>
-    <string name="video_effect_entry_color_retention_describe">Этот портретный фильтр показывает людей в цвете, делая фон черно-белым.</string>
+    <string name="video_effect_entry_color_retention_describe">Этот портретный фильтр показывает людей в цвете, делая фон чёрно-белым.</string>
     <string name="video_effect_entry_fantasy">Фантазия</string>
     <string name="video_effect_entry_film">Плёнка</string>
     <string name="video_effect_entry_forest">Лес</string>

@@ -3320,7 +3320,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_wapi_user_certificate">Пользовательский сертификат</string>
     <string name="wifi_whitelist_roaming">SSID Bridging - быстрая передача</string>
     <string name="wifi_whitelist_roaming_summary">Разрешить роуминг между разными SSID AP WPA/WPA2-PSK с одинаковым MAC-адресом шлюза</string>
-    <string name="wificall_switch_summary">Ваше устройство будет переключаться между Wi-Fi и VoLTE при плохом качестве соединения</string>
+    <string name="wificall_switch_summary">Устройство будет переключаться между Wi-Fi и VoLTE при плохом качестве соединения</string>
     <string name="wificall_switch_title">Вызовы через Wi-Fi</string>
     <string name="wifitrackerlib_auto_connect_disable">Без автоподключения</string>
     <string name="wifitrackerlib_available_via_app">Доступно через %1$s</string>
