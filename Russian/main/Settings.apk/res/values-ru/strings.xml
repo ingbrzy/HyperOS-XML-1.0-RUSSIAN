@@ -4495,11 +4495,11 @@ ID: %s
     <string name="free_wifi_user_agreement_title">Предупреждение</string>
     <string name="free_wifi_wiwide_provider">WiWide</string>
     <string name="free_xiaomi_wifi_connect_summary">Подключиться к сети \"%1$s\"</string>
-    <string name="freeform_guide_drop_down_to_fullscreen_summary">Потяните панель действий плавающего окна вниз</string>
-    <string name="freeform_guide_drop_down_to_fullscreen_title">Полноэкранный режим</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_summary">Зажмите панель действий плавающего окна и потяните вниз</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_title">Возврат в полноэкранный режим</string>
     <string name="freeform_guide_free_drag_summary">Перетаскивание текста, изображений или файлов между окнами поддерживаемых приложений</string>
     <string name="freeform_guide_free_drag_title">Перетаскивание между окнами</string>
-    <string name="freeform_guide_move_summary">Используйте заголовок плавающего окна для перемещения</string>
+    <string name="freeform_guide_move_summary">Зажмите панель действий плавающего окна для перемещения</string>
     <string name="freeform_guide_move_title">Перемещение окна</string>
     <string name="freeform_guide_move_to_small_freeform_window_summary">Перетащите плавающее окно в угол экрана</string>
     <string name="freeform_guide_move_to_small_freeform_window_title">Сворачивание окна</string>
@@ -4507,16 +4507,16 @@ ID: %s
     <string name="freeform_guide_multiple_window_summary">"Нажмите и удерживайте значок приложения в панели, чтобы открыть новое окно.
 *Функция работает в приложениях Заметки, Почта, Браузер и WPS."</string>
     <string name="freeform_guide_multiple_window_title">Открытие нескольких окон</string>
-    <string name="freeform_guide_notification_drop_down_summary">Потяните панель действий уведомления вниз</string>
-    <string name="freeform_guide_notification_drop_down_title">Открытие окна</string>
+    <string name="freeform_guide_notification_drop_down_summary">Зажмите панель действий уведомления и потяните вниз</string>
+    <string name="freeform_guide_notification_drop_down_title">Открытие плавающего окна</string>
     <string name="freeform_guide_settings">Плавающие окна</string>
     <string name="freeform_guide_slide_to_small_freeform_summary">"Проведите от нижней части экрана к правому верхнему углу.
-Функция работает при использовании жестов в качестве экранной навигации."</string>
+Функция работает при использовании жестов в качестве системной навигации."</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Перетащите угол, чтобы свернуть приложение</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Перетащите угол, чтобы свернуть приложение</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Перетащите нижнюю часть окна к верхнему краю экрана.
-Функция работает при использовании жестов в качестве экранной навигации."</string>
-    <string name="freeform_guide_slide_to_small_freeform_title">Сворачивание окна</string>
+Функция работает при использовании жестов в качестве системной навигации."</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Сворачивание приложения</string>
     <string name="freeform_guide_slide_up_to_close_summary">Проведите вверх от панели действий плавающего окна</string>
     <string name="freeform_guide_slide_up_to_close_title">Закрытие окна</string>
     <string name="freeform_guide_split_screen_combination_fold">Комбинации разделения экрана</string>
@@ -4529,10 +4529,9 @@ ID: %s
     <string name="freeform_recommend_open_switch_summary">Рекомендации по открытию приложений в режиме разделения экрана или плавающих окон, в зависимости от сценария использования</string>
     <string name="freeform_recommend_open_switch_title">Умные рекомендации</string>
     <string name="freeform_vedio_description">"Варианты открытия плавающего окна:
-	
-• Потяните вниз панель действий плавающего окна.
-• Нажмите кнопку \"Плавающие окна\" в Недавних и выберите приложение.
-• Зажмите миниатюру приложения в Недавних и нажмите значок \"Плавающего окна\"."</string>
+· Потяните вниз панель действий плавающего окна.
+· Нажмите кнопку \"Плавающие окна\" в Недавних и выберите приложение.
+· Зажмите миниатюру приложения в Недавних и нажмите значок \"Плавающего окна\"."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Коснитесь приложения на боковой панели для открытия в плавающем окне.
 · Перетащите приложение в центр экрана для открытия в плавающем окне, либо к краю для разделения экрана."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Перетащите приложение из панели в центр экрана для открытия в плавающем окне, либо к краю для разделения экрана.</string>
