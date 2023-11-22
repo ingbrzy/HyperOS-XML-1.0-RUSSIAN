@@ -54,6 +54,7 @@
     <string name="activity_title_video">Видео</string>
     <string name="activity_title_white_list">Исключения</string>
     <string name="ad_description" formatted="false">%s | Версия %s | %s | %s</string>
+    <string name="ad_flag_text">Реклама</string>
     <string name="ad_install_success_dialog_lunch">Открыть</string>
     <string name="ad_install_success_dialog_title">Установка %1$s завершена. Открыть его?</string>
     <string name="afternoon">После полудня</string>
@@ -625,6 +626,7 @@
     <string name="last_check_canceled">Предыдущая проверка была отменена</string>
     <string name="load_only_under_wlan">Загружать только по Wi-Fi</string>
     <string name="location_not_found">Файл не найден</string>
+    <string name="lock_device_toast">Устройство заблокировано. Разблокируйте, чтобы использовать Очистку.</string>
     <string name="login_immediately">Войти</string>
     <string name="long_click_dialog_summary">Удерживайте объект для добавления его в исключения.</string>
     <string name="long_click_dialog_title">Внимание</string>
@@ -732,6 +734,9 @@
     <string name="msg_update_error_code_unknown_error">Серверы заняты. Подождите немного и повторите попытку.</string>
     <string name="name_debuglog_dir">Журнал отладки BSP</string>
     <string name="name_optimizer">Политику конфиденциальности</string>
+    <string name="native_body">Тело</string>
+    <string name="native_headline">Заголовок</string>
+    <string name="native_media_view">Просмотр медиа</string>
     <string name="nb_clear_set">Очистка памяти, управление батареей и антиспамом из шторки уведомлений</string>
     <string name="network_not_available">Не удалось подключиться к сети</string>
     <string name="news_change">Изменить</string>
@@ -950,6 +955,7 @@
     <string name="size_peta_byte">ПБ</string>
     <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ТБ</string>
+    <string name="skip_ad">Пропустить</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>
@@ -1171,6 +1177,7 @@
     <string name="video_clean_wechat_clean_title">Очистка WeChat</string>
     <string name="virus_scan">Антивирус</string>
     <string name="vungle_ad_name">Реклама Vungle</string>
+    <string name="watermark_label_prefix">"AdMob - "</string>
     <string name="wechat_chat_data_type_cache">Кэш WeChat</string>
     <string name="wechat_chat_data_type_cache_desc">Вы сможете восстановить эти файлы после подключения к интернету.</string>
     <string name="wechat_chat_data_type_chat">История чата</string>
@@ -1258,7 +1265,10 @@
     <string name="yandex_ads_internal_instream_ad_position">%1$d из %2$d</string>
     <string name="yandex_ads_internal_instream_advertiser_social">Социальная реклама</string>
     <string name="yandex_ads_internal_instream_advertiser_yandex">Реклама</string>
+    <string name="yandex_ads_internal_instream_call_to_action">Перейти ➔</string>
     <string name="yandex_ads_internal_instream_skip">Пропустить</string>
+    <string name="yandex_ads_internal_instream_sponsored_social">СОЦИАЛЬНАЯ РЕКЛАМА</string>
+    <string name="yandex_ads_internal_instream_sponsored_yandex">РЕКЛАМА</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_close">Закрыть</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">Досмотреть</string>
     <string name="yandex_ads_internal_rewarded_close_verification_text">Если закрыть рекламу до окончания таймера, награда за просмотр не будет начислена</string>

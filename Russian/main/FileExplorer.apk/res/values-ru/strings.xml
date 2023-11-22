@@ -46,6 +46,7 @@
     <string name="app_all_purpose">"Добро пожаловать в Проводник!
 Это приложение можно использовать для управления файлами на устройстве.
 "</string>
+    <string name="app_all_purpose_global">Добро пожаловать в Проводник! Это приложение можно использовать для управления файлами на устройстве.</string>
     <string name="app_all_purpose_pad">Добро пожаловать в Проводник! Это приложение можно использовать для управления файлами на устройстве.</string>
     <string name="app_function">Управление файлами на устройстве</string>
     <string name="app_name">Проводник</string>
@@ -77,6 +78,13 @@
     <string name="by_size">Размер</string>
     <string name="by_type">Тип</string>
     <string name="byteShort">" Б"</string>
+    <string name="call_notification_answer_action">Ответить</string>
+    <string name="call_notification_answer_video_action">Видео</string>
+    <string name="call_notification_decline_action">Отклонить</string>
+    <string name="call_notification_hang_up_action">Завершить</string>
+    <string name="call_notification_incoming_text">Входящий вызов</string>
+    <string name="call_notification_ongoing_text">Текущий вызов</string>
+    <string name="call_notification_screening_text">Фильтрация входящего вызова</string>
     <string name="can_not_send_with_too_many">Слишком много объектов для отправки</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_error">Ошибка удаления. Повторите попытку.</string>
@@ -250,6 +258,9 @@
     <string name="dialog_type_video">Видео</string>
     <string name="disk_available">Свободно: </string>
     <string name="disk_total">Всего: </string>
+    <string name="display_all_dirs">Все папки</string>
+    <string name="display_hide_sys_dirs">Скрытые системные папки</string>
+    <string name="display_mode">Отображение</string>
     <string name="display_setting">Отображение</string>
     <string name="doc_all">Все</string>
     <string name="doc_epub">EPUB</string>
@@ -357,6 +368,7 @@
     <string name="ftp_anonymous_login">Анонимный вход</string>
     <string name="ftp_anonymous_warning_msg">Функции анонимизации могут представлять угрозу безопасности. Продолжить использование?</string>
     <string name="ftp_anonymous_warning_title">Внимание</string>
+    <string name="ftp_invalid_username">Имя пользователя не может содержать спецсимволы. Введите другое имя.</string>
     <string name="ftp_invalid_username_or_password">Неверное имя пользователя или пароль.</string>
     <string name="ftp_open_port_error">"Не удалось открыть порт. Проверьте подключение к сети или сбросьте номер порта."</string>
     <string name="ftp_password_hint">Пароль</string>
@@ -364,6 +376,7 @@
     <string name="ftp_transfer_secure">БЕЗОПАСНОСТЬ</string>
     <string name="ftp_username_and_passworld">Вход</string>
     <string name="ftp_username_hint">Имя пользователя</string>
+    <string name="func_settings">Настройки функции</string>
     <string name="function_file_operation">Для отображения и редактирования файлов</string>
     <string name="function_set_private">Для просмотра и шифрования файлов</string>
     <string name="function_use_imei">Для доступа к IMEI и шифрования файлов</string>
@@ -415,6 +428,7 @@
     <string name="instruction_pre_pad">Управление файлами на этом устройстве с помощью ПК</string>
     <string name="instruction_pre_phone">Управление файлами на этом устройстве с помощью ПК</string>
     <string name="internal_storage">Хранилище</string>
+    <string name="internal_storage_device">Устройство</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="just_now">Только что</string>
     <string name="kilobyteShort">" КБ"</string>
@@ -508,6 +522,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -515,6 +530,10 @@
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
     <string name="miuix_indexer_collect">Подборки</string>
     <string name="miuix_indexer_selected">Выбрано: %s</string>
+    <string name="miuix_item_view_role_description">Вкладка</string>
+    <string name="miuix_navigator_content_switch_description">Показать боковую панель</string>
+    <string name="miuix_navigator_multiple_choice">Выбрать</string>
+    <string name="miuix_navigator_navigator_switch_description">Скрыть боковую панель</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -603,6 +622,8 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
     <string name="name_empty">Введите имя</string>
+    <string name="navigator_label_all_files">Все файлы</string>
+    <string name="navigator_label_external_devices">Внешние устройства</string>
     <string name="need_open_content">Для использования этой функции разрешите Проводнику доступ к фото и файлам</string>
     <string name="need_open_permission">Предоставьте разрешения</string>
     <string name="need_read_storage_permission">Для нормальной работы разрешите Проводнику доступ к хранилищу</string>
@@ -747,6 +768,10 @@
     <string name="permission_account_title_pad">Доступ к аккаунтам</string>
     <string name="permission_denial">Нет доступа к файлам. Разрешите Проводнику доступ к файлам в разделе Настройки.</string>
     <string name="permission_description">Сведения о разрешениях</string>
+    <string name="permission_group_description_phone">При установке файла в качестве приватного это приложение получит доступ к IMEI вашего устройства для распознавания, хранения и разблокировки.</string>
+    <string name="permission_group_description_storage_space">Доступ к файлам и добавление в хранилище</string>
+    <string name="permission_group_name_phone">Устройство</string>
+    <string name="permission_group_name_storage_space">Хранилище</string>
     <string name="permission_required">Нет доступа к файлам. Разрешите Проводнику доступ к файлам в разделе Настройки.​</string>
     <string name="permission_storage_desc_pad">Сохранение фото и документов на устройстве</string>
     <string name="permission_storage_title">Доступ к хранилищу</string>
@@ -770,6 +795,7 @@
     <string name="pick_folder">Выберите папку</string>
     <string name="pkgname_zsxq">Планета знаний</string>
     <string name="port_range">Номер порта должен быть между 1024 и 65535</string>
+    <string name="positive_order">Переслать</string>
     <string name="pre_privacy_recall">Отзыв согласия</string>
     <string name="pref_permission_allowed">Предоставлено</string>
     <string name="pref_permission_manage_key_storage">Доступ к фото и файлам на устройстве</string>
@@ -801,6 +827,9 @@
     <string name="qq_title">Доступ ограничен</string>
     <string name="query_quota_exception">Ошибка сервера. Повторите попытку позже.</string>
     <string name="query_quota_searching">Подождите…</string>
+    <string name="recent_file_by_source">Источник файла</string>
+    <string name="recent_file_sort_by_date">Дата</string>
+    <string name="recent_file_sort_type">Сортировка</string>
     <string name="recent_hide_camera_and_screenshots">Не показывать файлы галереи и скриншоты в Недавних</string>
     <string name="recent_hide_cloud_drive_files">Не показывать файлы Mi Drive в недавних</string>
     <string name="refresh_fail">Ошибка обновления</string>
@@ -825,6 +854,7 @@
     <string name="request_timeout">Тайм-аут сетевого запроса</string>
     <string name="reset_password">Смена пароля</string>
     <string name="restoring">Восстановление…</string>
+    <string name="reverse_order">Обратный порядок</string>
     <string name="rlv_last_refreshing_time">Обновлено %1$s</string>
     <string name="rlv_loading_more">Подождите…</string>
     <string name="rlv_pull_to_refresh">Потяните вниз для обновления</string>
@@ -838,6 +868,7 @@
     <string name="search_app_more">Ещё</string>
     <string name="search_category">Категории поиска</string>
     <string name="search_category_folder">Папки</string>
+    <string name="search_category_type">Поиск по категории</string>
     <string name="search_description">Поиск среди всех файлов на устройстве</string>
     <string name="search_empty_view_hint">Ничего не найдено</string>
     <string name="search_error_hint">Поиск</string>
@@ -853,6 +884,7 @@
     <string name="search_more_category">Ещё</string>
     <string name="search_result">Результаты</string>
     <string name="search_result_more">Ещё</string>
+    <string name="search_text_hint">Поиск файлов</string>
     <string name="search_title">Поиск</string>
     <string name="search_title_hint">Поиск</string>
     <string name="select_dest_folder">Выберите папку</string>
@@ -904,8 +936,10 @@
     <string name="sort_hint_name">Сортировка по имени</string>
     <string name="sort_hint_time">Сортировка по времени</string>
     <string name="sort_hint_type">Сортировка по расширению</string>
+    <string name="sort_mode">Порядок сортировки</string>
     <string name="sort_size_asc">От меньшего к большему</string>
     <string name="sort_size_desc">От большего к меньшему</string>
+    <string name="sort_type">Фильтр</string>
     <string name="start_all">Все файлы</string>
     <string name="start_doc">Документы</string>
     <string name="start_phone">Устройство</string>
@@ -1030,7 +1064,10 @@
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="video_data_consume_dialog_confirm">OК</string>
     <string name="video_data_consume_dialog_title">Использовать мобильный интернет?</string>
+    <string name="view_mode_grid">Сетка</string>
+    <string name="view_mode_list">Список</string>
     <string name="view_type">Просмотр</string>
+    <string name="view_type_mode">Просмотр</string>
     <string name="web_sso_login_fail">Необходимо выполнить вход повторно</string>
     <string name="web_sso_login_message">Авторизация…</string>
     <string name="webview_reload">Повторить</string>

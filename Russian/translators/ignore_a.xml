@@ -5,11 +5,13 @@
     <string-array name="ArrayLangCodes"></string-array>
     <string-array name="ArrayLangCodesNew"></string-array>
     <array name="BLE_MMA_FEATURE_VERSION" />
+    <string-array name="DeviceNameOfCustomThemeByHwid"></string-array>
     <array name="IS_SUPPORT_SPLIT" />
     <array name="LC3_CG_FEATURE_VERSION" />
     <string-array name="MILLET_WHITE_LIST"></string-array>
     <string-array name="MediaControlView_playback_speeds"></string-array>
     <string-array name="PERSIST_PACKAGES"></string-array>
+    <string-array name="PreCustomThemeConfig"></string-array>
     <array name="SUPPORT_V2_FEATURE" />
     <array name="TARGET_PRODUCT" />
     <array name="TIME_STAMP" />
@@ -398,6 +400,7 @@
     <array name="config_defaultNotificationVibeWaveform" />
     <string-array name="config_defaultPinnerServiceFiles"></string-array>
     <array name="config_default_vm_number" />
+    <array name="config_deviceOrientSensorReversedFoldedDeviceStates" />
     <array name="config_deviceSpecificSystemServices" />
     <array name="config_deviceStatesAvailableForAppRequests" />
     <array name="config_deviceStatesOnWhichToSleep" />
@@ -1076,6 +1079,8 @@
     <string-array name="mibi_nopassword_pay_threshold_values"></string-array>
     <string-array name="middle_device_cpu_list"></string-array>
     <string-array name="middle_device_gpu_list"></string-array>
+    <string-array name="middle_devices"></string-array>
+    <array name="middle_platforms" />
     <string-array name="minute_items"></string-array>
     <string-array name="minute_spinner"></string-array>
     <array name="miplay_detail_background_blend_colors"></array>
@@ -1092,6 +1097,7 @@
     <string-array name="miui_first_use_dexopt_list"></string-array>
     <string-array name="miui_home_branch_region"></string-array>
     <string-array name="miui_lite_fancy_icon_app"></string-array>
+    <string-array name="miui_lock_solar_terms"></string-array>
     <string-array name="miui_main_update_mirror_support"></string-array>
     <string-array name="miui_nature_sound_array"></string-array>
     <integer-array name="miui_penengine_ball_pen_default_size_item"></integer-array>
@@ -1162,6 +1168,8 @@
     <string-array name="no_ems_support_sim_operators"></string-array>
     <string-array name="non_preemption_list"></string-array>
     <array name="non_removable_euicc_slots" />
+    <integer-array name="not_alarm_repeat_type_no_workdays_values"></integer-array>
+    <integer-array name="not_alarm_repeat_type_values"></integer-array>
     <string-array name="not_show_uninstall_icon_array"></string-array>
     <array name="notch_battery_indicator_style_icons"></array>
     <string-array name="notch_battery_indicator_style_values"></string-array>
@@ -1329,6 +1337,8 @@
     <array name="preloaded_freeform_multi_window_drawables"></array>
     <string-array name="press_key_entries"></string-array>
     <string-array name="press_key_entry_values"></string-array>
+    <array name="primary_devices" />
+    <array name="primary_platforms" />
     <string-array name="priority_storage_value"></string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm"></string-array>
     <string-array name="privacy_dialog_runtime_permission"></string-array>
@@ -1526,6 +1536,7 @@
     <string-array name="special_text_wroted_array"></string-array>
     <array name="speed_result_images"></array>
     <string-array name="spinner_list"></string-array>
+    <string-array name="spinner_view_mode"></string-array>
     <string-array name="split_screen_force_not_resize_pkg_list"></string-array>
     <string-array name="st_antispam_callwait_setting"></string-array>
     <string-array name="st_antispam_choose_methods_black"></string-array>
@@ -1829,4 +1840,7 @@
     <string-array name="zen_mode_contacts_values"></string-array>
     <string-array name="zen_mode_conversations_entries"></string-array>
     <string-array name="zen_mode_conversations_values"></string-array>
+<!-- ### FROM SOURCE -->
+    <string-array name="disable_sa_sa_combination_dppd"></string-array>
+    <string-array name="service_component_keep_alive"></string-array>
 </resources>

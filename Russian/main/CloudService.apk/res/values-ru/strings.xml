@@ -75,6 +75,7 @@
     <string name="cloud_storage_common_functions_text">Часто используемые</string>
     <string name="cloud_storage_default_title">Облачное хранилище</string>
     <string name="cloud_storage_full_upgrade_default_text">Недостаточно места. Не удалось выполнить синхронизацию.</string>
+    <string name="cloud_storage_info_type_creation">Mi Canvas</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Семья</string>
@@ -96,6 +97,11 @@
     <string name="connect_wlan_china">Подключение к Wi-Fi</string>
     <string name="contact_alert_sync_data_merge_dialog_msg">При включении синхронизации, контакты в облаке будут объединены с контактами с этого устройства. Включить синхронизацию?</string>
     <string name="copy">Копировать</string>
+    <string name="creation_dialog_message">Просмотрите данные Mi Canvas на планшете</string>
+    <string name="creation_dialog_positive_btn">ОК</string>
+    <string name="creation_dialog_title">Внимание</string>
+    <string name="creation_sync_settings_only_in_wifi">Синхронизировать только по Wi-Fi</string>
+    <string name="creation_sync_settings_only_in_wifi_summary">Рекомендуется для экономии мобильного интернета</string>
     <string name="cta_notification_content_text">Разрешите %s подключение к интернету для восстановления данных</string>
     <string name="cta_notification_content_title">Не удалось восстановить данные из %s</string>
     <string name="customize_notification_btn_text">Обновить</string>
@@ -207,6 +213,7 @@
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="gallery_auto_sync_fail_noti_content">Недостаточно места в облаке. Измените тарифный план для синхронизации фото и видео.</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">Недостаточно места в облачном хранилище. Не удалось сохранить фото.</string>
     <string name="gallery_data_transfer_ddl">Крайний срок: %s</string>
     <string name="gallery_data_transfer_summary">Файлы галереи больше не будут синхронизироваться с Xiaomi Cloud. Рекомендуется перенести все синхронизированные фото и видео из Xiaomi Cloud в Google Фото и использовать его сервисы для резервного копирования файлов.</string>
     <string name="gallery_data_transfer_title">Перенос в Google Фото</string>

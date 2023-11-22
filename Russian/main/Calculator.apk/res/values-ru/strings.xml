@@ -219,6 +219,7 @@
     <string name="fat">Избыточный вес</string>
     <string name="father">Отец</string>
     <string name="female">Пол: женский</string>
+    <string name="finance_interest">Процентная ставка (%s)</string>
     <string name="float_window">Свернуть</string>
     <string name="float_window_guide_text">Нажмите, чтобы свернуть калькулятор</string>
     <string name="fmt_date_long_month_day">d MMMM</string>

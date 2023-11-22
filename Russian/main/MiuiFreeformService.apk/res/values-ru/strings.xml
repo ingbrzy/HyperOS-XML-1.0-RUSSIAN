@@ -86,6 +86,7 @@
     <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
+    <string name="fold_screen_settings">Функции для складных устройств</string>
     <string name="freeform_demo_back">Назад</string>
     <string name="freeform_demo_final_over">Готово</string>
     <string name="freeform_demo_final_restart">Начать сначала</string>
@@ -221,6 +222,7 @@
     <string name="miui_bubbles_notification_status_opened">Вкл.</string>
     <string name="miui_desktop_mode_settings">Рабочая станция</string>
     <string name="miui_desktop_mode_settings_title">Рабочая станция</string>
+    <string name="miui_desktop_mode_video_description">Нажмите на значок приложения в панели, чтобы открыть в плавающем окне. Включить или выключить режим рабочей станции можно в Центре управления.</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>

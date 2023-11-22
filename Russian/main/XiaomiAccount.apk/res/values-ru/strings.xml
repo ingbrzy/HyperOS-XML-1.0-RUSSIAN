@@ -258,6 +258,7 @@ ID:%s
     <string name="download_file">Загрузка %s…</string>
     <string name="dropdown_menu">Выпадающее меню</string>
     <string name="early_morning">Утро</string>
+    <string name="empty_device_list">Ничего нет</string>
     <string name="empty_device_list_notice">Нет устройств</string>
     <string name="enable">Настройки</string>
     <string name="ep_unsupported">Устройство не поддерживает вход в аккаунт Xiaomi</string>
@@ -1166,6 +1167,8 @@ ID:%s
     <string name="user_agreement_must_permission_msg">Обязательные разрешения (для основных функций и сервисов приложения)</string>
     <string name="user_agreement_network_permission_msg">Для нормальной работы приложению необходимы подключение к интернету и следующие разрешения:</string>
     <string name="user_agreement_permission_summary_msg">Xiaomi аккаунт позволяет получить доступ ко всем сервисам Xiaomi. Для нормальной работы приложению необходимы подключение к интернету и следующие разрешения:</string>
+    <string name="user_agreement_read_phone_permission_desc">Для входа с использованием номера телефона</string>
+    <string name="user_agreement_read_phone_permission_title">Чтение телефонных номеров</string>
     <string name="user_agreement_use_account_msg">Xiaomi аккаунт позволяет получить доступ ко всем сервисам Xiaomi</string>
     <string name="user_agreement_wifi_permission_title">Включение и отключение Wi-Fi</string>
     <string name="user_agreement_wlan_permission_desc">Для проверки среды авторизации на наличие проблем с безопасностью</string>
