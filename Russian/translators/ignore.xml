@@ -3629,6 +3629,7 @@
     <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="new_copy_address">最新复制的网址</string>
     <string name="new_copy_content">最新复制的内容</string>
+    <string name="new_default_folder_title_tools_path">com.miui.home:string/new_default_folder_title_tools</string>
     <string name="new_years_day">元旦</string>
     <string name="new_years_day_tradition">元旦</string>
     <string name="news_comment_error">加载失败</string>

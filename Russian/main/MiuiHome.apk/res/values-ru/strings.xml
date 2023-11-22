@@ -486,6 +486,7 @@
 Упрощённые вызовы.
 Повышенная безопасность."</string>
     <string name="key_shortcut_settings_title">Ярлыки кнопок</string>
+    <string name="keyguard_multi_window_tip">Эта страница может быть отображена только в полноэкранном режиме</string>
     <string name="launcher_global_search_mode_title">Поиск на рабочем столе</string>
     <string name="launcher_global_search_provider_title">Поставщик поиска</string>
     <string name="launcher_icon_management">Управление ярлыками</string>
@@ -573,6 +574,7 @@
     <string name="midnight">Ночь</string>
     <string name="minus_one_screen">Лента виджетов</string>
     <string name="miui_screen_config_title">Настройки рабочего стола</string>
+    <string name="miui_setting_config_title">Настройки рабочего стола</string>
     <string name="miui_widget_menu_replace_text">Сменить</string>
     <string name="miui_widget_toast_for_not_support_by_pa">Лента виджетов не поддерживает виджеты такого размера</string>
     <string name="miuix_access_state_desc">Выбрано</string>
@@ -743,7 +745,11 @@
     <string name="navigation_type_title_synonyms_4">Кнопки</string>
     <string name="navigation_type_virtual_key">Кнопки</string>
     <string name="network_error">Не удалось подключиться к сети. Повторите попытку.</string>
+    <string name="new_default_folder_title_tools">Системные приложения</string>
     <string name="new_feature_title">Что нового?</string>
+    <string name="new_open_personal_assistant_settings_simplified">Лента виджетов</string>
+    <string name="new_privacy_thumbnail_blur_summary">Размывать миниатюры приложений в Недавних</string>
+    <string name="new_recents_config_title">Другое</string>
     <string name="night">Вечер</string>
     <string name="no_detail_page">Нет страницы с подробной информацией</string>
     <string name="no_space_toast">Нет свободного места</string>
@@ -752,6 +758,7 @@
     <string name="noon">Полдень</string>
     <string name="normal_wallpaper">Обои</string>
     <string name="not_set">Не задано</string>
+    <string name="not_support_adding">Добавление этого элемента пока не поддерживается</string>
     <string name="notification_channel_alerts">Предупреждения</string>
     <string name="notification_installed">Установка завершена</string>
     <string name="notification_open_button">Открыть</string>
@@ -910,6 +917,9 @@
     <string name="send">Отправить</string>
     <string name="server_error">Ошибка сервера. Повторите попытку позже.</string>
     <string name="service_double_attention">Расширенные функции поиска предоставляются Branch Metrics Inc. Для работы этой функции требуется передача в Branch Metrics Inc ваших поисковых запросов, идентификатора Google Ads и IP-адреса. Перед использованием этой функции прочтите и примите <a href="http://url1"><font color="#B3000000">Условия и положения конечного пользователя</font></a> и <a href="http://url2"><font color="#B3000000">Политику конфиденциальности Branch Discovery</font></a>.</string>
+    <string name="setting_close">Откл.</string>
+    <string name="setting_no_word">Везде</string>
+    <string name="setting_only_widget_no_word">На виджетах</string>
     <string name="setting_wallpaper_tip">Переместите или измените размер</string>
     <string name="settings">Настройки</string>
     <string name="settings_shortcut">Настройки</string>
@@ -964,6 +974,7 @@
     <string name="sort_by_not_defined">По порядку</string>
     <string name="split_screen_position_top">Разделение сверху</string>
     <string name="start_activity_failed">Не удалось запустить рабочий стол</string>
+    <string name="start_new_window">Новое окно</string>
     <string name="starting_preset_app">Запуск…</string>
     <string name="status_bar_recent_memory_giga">%1$s ГБ</string>
     <string name="status_bar_recent_memory_info1">Доступно %1$s из %2$s</string>

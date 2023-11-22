@@ -769,6 +769,7 @@
     <array name="device_support_video_24_wallpaper" />
     <string-array name="device_use_camera_one"></string-array>
     <string-array name="devices_support_multi_freeform"></string-array>
+    <string-array name="dfs_app_tracking"></string-array>
     <string-array name="di_zhi"></string-array>
     <array name="dial_string_replace" />
     <array name="dialog_delete_finish_res"></array>
@@ -776,6 +777,7 @@
     <string-array name="dirac_equalizer_preset_names"></string-array>
     <string-array name="dirac_equalizer_preset_values"></string-array>
     <string-array name="disable_apptitmer_device_list"></string-array>
+    <string-array name="disable_sa_sa_combination_dppd"></string-array>
     <string-array name="disable_trim_apps"></string-array>
     <array name="disallowed_apps_managed_device" />
     <array name="disallowed_apps_managed_profile" />
@@ -1463,6 +1465,7 @@
     <integer-array name="senders_with_attachment_lengths"></integer-array>
     <string-array name="sensor_disable_white_list"></string-array>
     <string-array name="service_black_list"></string-array>
+    <string-array name="service_component_keep_alive"></string-array>
     <array name="set_default_step"></array>
     <string-array name="set_video_wallpaper_three_items"></string-array>
     <string-array name="set_video_wallpaper_three_items_with_incall"></string-array>
@@ -1840,7 +1843,4 @@
     <string-array name="zen_mode_contacts_values"></string-array>
     <string-array name="zen_mode_conversations_entries"></string-array>
     <string-array name="zen_mode_conversations_values"></string-array>
-<!-- ### FROM SOURCE -->
-    <string-array name="disable_sa_sa_combination_dppd"></string-array>
-    <string-array name="service_component_keep_alive"></string-array>
 </resources>

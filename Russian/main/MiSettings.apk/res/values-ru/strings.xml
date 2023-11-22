@@ -47,8 +47,10 @@
     <string name="anti_flicker_mode">Устранение мерцания</string>
     <string name="anti_flicker_mode_categroy">Режимы</string>
     <string name="anti_flicker_mode_summary">Устранение мерцания при низкой освещенности для снижения нагрузки на глаза</string>
+    <string name="anti_flicker_mode_summary_new">Устранение мерцания при низкой освещенности для снижения нагрузки на глаза</string>
     <string name="anti_flicker_title">Устранение мерцания</string>
     <string name="app_name">Настройки</string>
+    <string name="app_use">Время экрана приложения</string>
     <string name="application_sound">Звук уведомления для приложения</string>
     <string name="apply_ringtone">Применить</string>
     <string name="arctic_fox">Песец</string>
@@ -385,6 +387,8 @@
     <string name="masked_palm_civet">Гималайская цивета</string>
     <string name="max_fps_string">До %s Гц</string>
     <string name="medium_tree_finch">Большой древесный вьюрок</string>
+    <string name="mi_transfer_banner_summary">Поддерживаются устройства различных брендов</string>
+    <string name="mi_transfer_banner_title">Перенос файлов со старого устройства</string>
     <string name="midnight">Ночь</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>

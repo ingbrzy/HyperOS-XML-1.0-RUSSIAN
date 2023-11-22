@@ -302,7 +302,7 @@
     <string name="operation_guide_title">Руководство</string>
     <string name="other_advanced_settings">Доп. настройки</string>
     <string name="other_operations_title">Другие руководства</string>
-    <string name="pin_toast">Сдвиньте вверх и нажмите, чтобы открепить это приложение</string>
+    <string name="pin_toast">Проведите вверх от нижнего края экрана и задержите, чтобы открепить это приложение</string>
     <string name="pin_toast_nav">Нажмите и удерживайте кнопки Назад и Недавние, чтобы открепить это приложение</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="saturday">Суббота</string>
