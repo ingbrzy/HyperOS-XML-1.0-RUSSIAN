@@ -376,7 +376,7 @@
     <string name="enable_freeform_support">Разрешить создание окон произвольной формы</string>
     <string name="enable_freeform_support_summary">Включить поддержку экспериментальных окон произвольной формы</string>
     <string name="enable_gpu_debug_layers">Включить отладочные слои GPU</string>
-    <string name="enable_gpu_debug_layers_summary">Разрешить загрузку отладочных слоев GPU для приложений отладки</string>
+    <string name="enable_gpu_debug_layers_summary">Разрешить загрузку отладочных слоёв GPU для приложений отладки</string>
     <string name="enable_opengl_traces_title">Трассировка OpenGL</string>
     <string name="enable_terminal_summary">Включить приложение, которое предлагает терминальный доступ к локальной оболочке</string>
     <string name="enable_terminal_title">Локальный терминал</string>
@@ -889,8 +889,8 @@
     <string name="shared_data_title">Общие данные</string>
     <string name="show_all_anrs">Показывать все ANR</string>
     <string name="show_all_anrs_summary">Показывать диалог \"Приложение не отвечает\" для всех приложений</string>
-    <string name="show_hw_layers_updates">Обновления слоев</string>
-    <string name="show_hw_layers_updates_summary">Выделять обновление аппаратных слоев зелёным цветом</string>
+    <string name="show_hw_layers_updates">Обновления слоёв</string>
+    <string name="show_hw_layers_updates_summary">Выделять обновление аппаратных слоёв зелёным цветом</string>
     <string name="show_hw_screen_updates">Показывать отрисовку</string>
     <string name="show_hw_screen_updates_summary">Подсвечивать области экрана при отрисовке</string>
     <string name="show_non_rect_clip">Отладка операций усечения</string>

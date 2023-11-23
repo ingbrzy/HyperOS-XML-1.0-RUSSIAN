@@ -411,7 +411,7 @@
     <string name="enable_freeform_support">Разрешить создание окон произвольной формы</string>
     <string name="enable_freeform_support_summary">Включить экспериментальную функцию создания окон произвольной формы</string>
     <string name="enable_gpu_debug_layers">Включить отладочные слои GPU</string>
-    <string name="enable_gpu_debug_layers_summary">Разрешить загрузку отладочных слоев GPU для приложений отладки</string>
+    <string name="enable_gpu_debug_layers_summary">Разрешить загрузку отладочных слоёв GPU для приложений отладки</string>
     <string name="enable_opengl_traces_title">Вкл. трассировку OpenGL</string>
     <string name="enable_terminal_summary">Разрешить терминальный доступ к локальной оболочке</string>
     <string name="enable_terminal_title">Локальный терминальный доступ</string>

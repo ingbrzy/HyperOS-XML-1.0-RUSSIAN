@@ -382,7 +382,7 @@
     <string name="enable_freeform_support">Разрешить создание окон произвольной формы</string>
     <string name="enable_freeform_support_summary">Включить поддержку экспериментальных окон произвольной формы</string>
     <string name="enable_gpu_debug_layers">Включить отладочные слои GPU</string>
-    <string name="enable_gpu_debug_layers_summary">Разрешить загрузку отладочных слоев GPU для приложений отладки</string>
+    <string name="enable_gpu_debug_layers_summary">Разрешить загрузку отладочных слоёв GPU для приложений отладки</string>
     <string name="enable_opengl_traces_title">Трассировка OpenGL</string>
     <string name="enable_terminal_summary">Включить приложение, которое предлагает терминальный доступ к локальной оболочке</string>
     <string name="enable_terminal_title">Локальный терминал</string>
@@ -689,7 +689,7 @@
     <string name="show_battery_percentage_summary">Показывать процент заряда батареи внутри значка в строке состояния, когда устройство не заряжается</string>
     <string name="show_brightness">Добавить яркость в Быстрые настройки</string>
     <string name="show_demo_mode">Перейти в деморежим</string>
-    <string name="show_hw_layers_updates">Показывать обновления аппаратных слоев</string>
+    <string name="show_hw_layers_updates">Показывать обновления аппаратных слоёв</string>
     <string name="show_hw_layers_updates_summary">Выделять аппаратные уровни зелёным при обновлении</string>
     <string name="show_hw_screen_updates">Показывать отрисовку</string>
     <string name="show_hw_screen_updates_summary">Подсвечивать области экрана при отрисовке</string>

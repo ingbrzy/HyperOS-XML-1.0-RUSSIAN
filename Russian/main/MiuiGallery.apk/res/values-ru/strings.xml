@@ -2181,7 +2181,7 @@ ID: %s
     <string name="photo_editor_crop_size_fullscreen">Весь экран</string>
     <string name="photo_editor_crop_size_movie" formatted="false">%1.2f:%d</string>
     <string name="photo_editor_crop_size_origin">Исходный</string>
-    <string name="photo_editor_doodle">Эскиз</string>
+    <string name="photo_editor_doodle">Дудл</string>
     <string name="photo_editor_filter">Эффекты</string>
     <string name="photo_editor_font_default">Mi Lanting (стандартный)</string>
     <string name="photo_editor_frame">Рамка</string>

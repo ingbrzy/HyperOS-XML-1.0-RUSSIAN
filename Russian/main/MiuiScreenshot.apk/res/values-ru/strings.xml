@@ -249,7 +249,7 @@
     <string name="pc_redmi_device_model_name">Ноутбук Redmi</string>
     <string name="pc_xiaomi_device_model_name">Ноутбук Xiaomi</string>
     <string name="photo_editor_beauty_compare">Оригинал</string>
-    <string name="photo_editor_doodle">Эскиз</string>
+    <string name="photo_editor_doodle">Дудл</string>
     <string name="photo_editor_font_default">Mi Lanting (стандартный)</string>
     <string name="photo_editor_label">Редактирование</string>
     <string name="photo_editor_long_crop">Обрезка</string>

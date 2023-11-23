@@ -59,6 +59,7 @@
     <string-array name="account_settings_message_load_pop3_entries"></string-array>
     <string-array name="account_settings_message_load_pop3_values"></string-array>
     <array name="account_xiaomi"></array>
+    <array name="activity_dot_black_list" />
     <string-array name="ad_address_list_ignore"></string-array>
     <string-array name="add_wifi_security"></string-array>
     <string-array name="add_wifi_security_with_sae"></string-array>
@@ -215,6 +216,7 @@
     <string-array name="bookmarks_vodafone_uk"></string-array>
     <array name="bookshelf_recommend_detail_background"></array>
     <array name="boot_msg_text" />
+    <array name="bottom_caption_insets_black_list" />
     <array name="bouncer_pin_shapes"></array>
     <string-array name="broadcast_locales"></string-array>
     <string-array name="bt_hci_snoop_log_filters_values"></string-array>
@@ -466,6 +468,8 @@
     <array name="config_face_help_msgs_defer_until_timeout" />
     <integer-array name="config_face_help_msgs_when_fingerprint_enrolled"></integer-array>
     <array name="config_fillBuiltInDisplayCutoutArray"></array>
+    <string-array name="config_focused_notif_package_names"></string-array>
+    <string-array name="config_focused_notif_package_names_for_test"></string-array>
     <array name="config_foldedDeviceStates" />
     <array name="config_fontManagerServiceCerts" />
     <string-array name="config_forbidenLongScreenshot"></string-array>
@@ -479,11 +483,13 @@
     <integer-array name="config_hbm_nit_levels"></integer-array>
     <array name="config_healthConnectMigrationKnownSigners" />
     <array name="config_healthConnectRestoreKnownSigners" />
+    <string-array name="config_hidden_custom_actions_whitelist"></string-array>
     <array name="config_hideWhenDisabled_packageNames" />
     <array name="config_highAmbientBrightnessThresholdsOfFixedRefreshRate" />
     <array name="config_highDisplayBrightnessThresholdsOfFixedRefreshRate" />
     <array name="config_highRefreshRateBlacklist" />
     <array name="config_hightGrayBrightnessLevels" />
+    <string-array name="config_historicalFoldingPackages"></string-array>
     <array name="config_integrityRuleProviderPackages" />
     <array name="config_jitzygoteBootImagePinnerServiceFiles" />
     <array name="config_keep_warming_services" />
@@ -515,6 +521,7 @@
     <integer-array name="config_maxBrightnessRemapIn"></integer-array>
     <integer-array name="config_maxBrightnessRemapOut"></integer-array>
     <array name="config_max_dbv_diff_for_spec_apps"></array>
+    <string-array name="config_media_whitelist"></string-array>
     <array name="config_minBrightnessCurvesNits" />
     <array name="config_minimumBrightnessCurveLux"></array>
     <array name="config_minimumBrightnessCurveNits"></array>
@@ -592,6 +599,7 @@
     <string-array name="config_screen_resolution_summaries_strings"></string-array>
     <integer-array name="config_scrollBarrierVibePattern"></integer-array>
     <array name="config_secondaryBuiltInDisplayWaterfallCutout"></array>
+    <string-array name="config_seekBarDisabledPackages"></string-array>
     <array name="config_serialPorts" />
     <string-array name="config_serviceStateLocationAllowedPackages"></string-array>
     <array name="config_settableAutoRotationDeviceStatesDescriptions" />
@@ -675,6 +683,7 @@
     <string-array name="contact_infotype_entries"></string-array>
     <string-array name="contact_infotype_entries"></string-array>
     <string-array name="contact_values"></string-array>
+    <array name="control_center_detail_background_blend_colors"></array>
     <array name="control_center_edit_button_blend_colors"></array>
     <string-array name="control_center_independent_tiles_mobile"></string-array>
     <string-array name="control_center_independent_tiles_wifi"></string-array>
@@ -790,6 +799,7 @@
     <string-array name="document_default_extensions"></string-array>
     <string-array name="domestic_roaming_mplmns"></string-array>
     <string-array name="doodle_color_selector_array"></string-array>
+    <string-array name="dot_black_list"></string-array>
     <string-array name="double_click_mode_entries"></string-array>
     <string-array name="double_key_mode_values"></string-array>
     <string-array name="double_tone_entries"></string-array>
@@ -1184,7 +1194,10 @@
     <string-array name="notifi_importance_summaries"></string-array>
     <string-array name="notifi_importance_values"></string-array>
     <string-array name="notification_adv_time_values"></string-array>
+    <array name="notification_element_blend_colors"></array>
     <string-array name="notification_list"></string-array>
+    <array name="notification_modal_cancel_btn_blend_colors"></array>
+    <array name="notification_modal_ok_btn_blend_color"></array>
     <string-array name="notification_shade_shortcut_values"></string-array>
     <string-array name="notification_style_values"></string-array>
     <string-array name="number_key_entries"></string-array>
@@ -1664,6 +1677,7 @@
     <string-array name="tips"></string-array>
     <string-array name="tmpfs_pkg_list"></string-array>
     <array name="toggle_slider_icon_blend_colors"></array>
+    <string-array name="top_caption_insets_black_list"></string-array>
     <string-array name="top_game_list"></string-array>
     <string-array name="top_video_list"></string-array>
     <string-array name="track_frame_time_values"></string-array>
@@ -1835,6 +1849,7 @@
     <string-array name="wind_power"></string-array>
     <string-array name="wind_power_setting_unit_values"></string-array>
     <string-array name="window_animation_scale_values"></string-array>
+    <array name="window_background_blend_colors"></array>
     <string-array name="window_tracing_whitelist"></string-array>
     <string-array name="work_data_titles"></string-array>
     <string-array name="xiaoai_tips"></string-array>

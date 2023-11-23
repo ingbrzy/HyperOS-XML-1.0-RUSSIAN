@@ -2815,6 +2815,10 @@
     <string name="keyguard_widget_24_hours_format">kkmm</string>
     <string name="keyword_recommend">推荐您</string>
     <string name="keywords_adb_wireless">adb, debug, dev</string>
+    <string name="kg_font_mi_sans_light">sans-serif-light</string>
+    <string name="kg_font_mi_sans_medium">sans-serif-medium</string>
+    <string name="kg_font_mi_sans_normal">sans-serif-normal</string>
+    <string name="kg_font_mi_sans_regular">sans-serif-regular</string>
     <string name="kg_text_message_separator">" — "</string>
     <string name="knock_long_press_horizontal_slid_def_function">change_brightness</string>
     <string name="knock_slide_shape_def_function">partial_screen_shot</string>

@@ -3829,7 +3829,7 @@ ID: %s
     <string name="enable_gnss_raw_meas_full_tracking">Полные измерения GNSS</string>
     <string name="enable_gnss_raw_meas_full_tracking_summary">Отслеживать все группировки GNSS и частоты без дежурного цикла</string>
     <string name="enable_gpu_debug_layers">Отладочный слой GPU</string>
-    <string name="enable_gpu_debug_layers_summary">Разрешить загрузку отладочных слоев GPU для приложений отладки</string>
+    <string name="enable_gpu_debug_layers_summary">Разрешить загрузку отладочных слоёв GPU для приложений отладки</string>
     <string name="enable_guest_calling">"Открыть гостю доступ к звонкам"</string>
     <string name="enable_guest_calling_summary">"Гость получит доступ к журналу звонков"</string>
     <string name="enable_local_backup">Включить</string>
@@ -8079,7 +8079,7 @@ OTG отключается автоматически через 10 минут �
     <string name="pref_manage_bg_network">Управление фоновыми подключениями</string>
     <string name="pref_new_installed_preconfig_title">Настройки новых приложений</string>
     <string name="pref_operational_key">Кнопки навигации</string>
-    <string name="pref_show_lunar_calendar_title">Традиционный китайский календарь на экране блокировки</string>
+    <string name="pref_show_lunar_calendar_title">Китайский традиционный календарь на экране блокировки</string>
     <string name="pref_title_network_details">Сведения о сети</string>
     <string name="pref_title_update_notification">Виджет в панели уведомлений</string>
     <string name="pref_volume_launch_camera_summary">Двойное нажатие \"Уменьшение громкости\"</string>
@@ -9782,8 +9782,8 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="show_fc_summary">Показывать информацию о критических ошибках приложений</string>
     <string name="show_first_crash_dialog">Диалог сбоя</string>
     <string name="show_first_crash_dialog_summary">Показывать диалог каждый раз при сбое приложения</string>
-    <string name="show_hw_layers_updates">Обновления слоев</string>
-    <string name="show_hw_layers_updates_summary">Выделять обновление аппаратных слоев зелёным цветом</string>
+    <string name="show_hw_layers_updates">Обновления слоёв</string>
+    <string name="show_hw_layers_updates_summary">Выделять обновление аппаратных слоёв зелёным цветом</string>
     <string name="show_hw_screen_updates">Показывать отрисовку</string>
     <string name="show_hw_screen_updates_summary">Подсвечивать области экрана при отрисовке</string>
     <string name="show_ime">Виртуальная клавиатура</string>

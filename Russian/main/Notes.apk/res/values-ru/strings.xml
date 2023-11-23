@@ -180,11 +180,11 @@
     <string name="doodle_brush_pen">Ручка</string>
     <string name="doodle_brush_pencil">Карандаш</string>
     <string name="doodle_brush_watercolor">Кисть</string>
-    <string name="doodle_feature">Эскизы</string>
+    <string name="doodle_feature">Дудлы</string>
     <string name="doodle_guide_brush_config_hint">Нажмите ещё раз, чтобы настроить ширину штриха и прозрачность</string>
     <string name="doodle_guide_dialog_confirm">ОК</string>
     <string name="doodle_guide_dialog_skip">Пропустить</string>
-    <string name="doodle_guide_dialog_title">Эскизы</string>
+    <string name="doodle_guide_dialog_title">Зарисовки</string>
     <string name="doodle_guide_quick_shape_hint" formatted="false">Нажмите и удерживайте эскиз в течение %d - %d секунд для автоматической настройки штрихов</string>
     <string name="doodle_palette">Цветовая палитра</string>
     <string name="doodle_save_progress_text">Сохранение…</string>
@@ -618,11 +618,11 @@
     <string name="pc_note_dual_screen_dialog_content">Похоже, вы сейчас редактируете заметки на устройстве. Чтобы избежать конфликтов при правках, закройте приложение Заметки на устройстве.</string>
     <string name="pc_note_edit_blank_view_tips">Перетащите сюда изображение для создания заметки</string>
     <string name="pc_note_edit_create_time">"Создано: "</string>
-    <string name="pc_note_edit_insert_doodle_by_phone">Создайте эскиз</string>
+    <string name="pc_note_edit_insert_doodle_by_phone">Создайте дудл</string>
     <string name="pc_note_edit_insert_picture_from_pc">Выберите изображение на ПК</string>
     <string name="pc_note_edit_insert_picture_from_phone">Выберите изображение на устройстве</string>
     <string name="pc_note_edit_last_modified_time">"Изменено: "</string>
-    <string name="pc_note_edit_lock_dialog_doodle_by_phone">Создание эскиза…</string>
+    <string name="pc_note_edit_lock_dialog_doodle_by_phone">Создание дудла…</string>
     <string name="pc_note_edit_lock_dialog_take_photo_by_phone">Съёмка…</string>
     <string name="pc_note_edit_take_photo_by_phone">Сделайте фото</string>
     <string name="pc_note_edit_text_format_body">Текст заметки</string>
@@ -1029,7 +1029,7 @@
     <string name="warn_cannot_add_new_bullet">Не удалось добавить новый маркированный список, заметка слишком длинная</string>
     <string name="warn_cannot_add_new_checkbox">Не удалось добавить новый флажок, заметка слишком длинная</string>
     <string name="warn_cannot_add_new_content">Не удалось добавить новый контент, заметка слишком длинная</string>
-    <string name="warn_cannot_add_new_doodle">Не удалось добавить новый эскиз, заметка слишком длинная</string>
+    <string name="warn_cannot_add_new_doodle">Не удалось добавить новый дудл, заметка слишком длинная</string>
     <string name="warn_cannot_add_new_element">Не удалось добавить новый элемент, заметка слишком длинная</string>
     <string name="warn_cannot_add_new_link_card">Не удалось добавить новую ссылку, заметка слишком длинная</string>
     <string name="warn_cannot_add_new_picture">Не удалось добавить новое изображение, заметка слишком длинная</string>
