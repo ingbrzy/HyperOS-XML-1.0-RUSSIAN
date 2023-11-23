@@ -990,6 +990,9 @@
     <string-array name="keyguard_whitelist"></string-array>
     <string-array name="keyguard_wireless_strong_charge_67w"></string-array>
     <string-array name="keyword_recommend_unit"></string-array>
+    <array name="kg_color_editor_default_colors"></array>
+    <array name="kg_color_editor_default_progress_colors"></array>
+    <array name="kg_hue_gradient_colors"></array>
     <array name="kg_wrong_puk_code_message_list" />
     <string-array name="kids_arrays"></string-array>
     <string-array name="kingsoft_language_entries"></string-array>
