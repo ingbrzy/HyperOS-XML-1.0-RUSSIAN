@@ -141,6 +141,11 @@
     <string name="RuacMmi">"Отклонение нежелательных звонков"</string>
     <string name="SetupCallDefault">"Ответить?"</string>
     <string name="ThreeWCMmi">"Вызов с участием трех абонентов"</string>
+    <string name="UVI_level_0">Слабый</string>
+    <string name="UVI_level_1">Умеренный</string>
+    <string name="UVI_level_2">Сильный</string>
+    <string name="UVI_level_3">Очень сильный</string>
+    <string name="UVI_level_4">Серьёзный</string>
     <string name="VideoView_error_button">"ОК"</string>
     <string name="VideoView_error_text_invalid_progressive_playback">"Это видео не предназначено для потокового воспроизведения на данном устройстве."</string>
     <string name="VideoView_error_text_unknown">"Не удалось воспроизвести видео."</string>
@@ -391,6 +396,7 @@
     <string name="aerr_restart">"Перезапустить приложение"</string>
     <string name="aerr_wait">"Подождать"</string>
     <string name="afternoon">После полудня</string>
+    <string name="air_quality_index_abbreviation">ИКВ</string>
     <string name="airplane_mode">Режим полета</string>
     <string name="alarms_and_reminders_footer_title">"Разрешите приложению устанавливать будильники и планировать действия по времени. Это позволит приложению работать в фоновом режиме, но может увеличить расход батареи.
 
@@ -462,7 +468,10 @@
     <string name="app_suspended_title">"Приложение недоступно"</string>
     <string name="app_suspended_unsuspend_message">"Возобновить работу приложения"</string>
     <string name="app_upgrading_toast">"Обновление приложения \"%1$s\"…"</string>
+    <string name="aqi_format">ИКВ %s</string>
+    <string name="aqi_format_desc">Индекс качества воздуха: %s</string>
     <string name="as_app_forced_to_restricted_bucket">"Приложение \"%1$s\" помещено в категорию с ограниченным доступом."</string>
+    <string name="atmosphere_pressure_unit">гПа</string>
     <string name="auto_connect_disable">Без автоподключения</string>
     <string name="auto_data_switch_content">"Этот параметр можно в любой момент изменить в настройках."</string>
     <string name="auto_data_switch_title">"Используется мобильный интернет %s"</string>
@@ -1394,6 +1403,21 @@ ID: %s
     <string name="foreground_service_apps_in_background">"Несколько приложений (%1$d) расходуют заряд"</string>
     <string name="foreground_service_multiple_separator">"%1$s, %2$s"</string>
     <string name="foreground_service_tap_for_details">"Нажмите, чтобы проверить энергопотребление и трафик"</string>
+    <string name="format_day_desc">День месяца: %s</string>
+    <string name="format_day_week_desc">День месяца: %1$s, %2$s</string>
+    <string name="format_full_day_of_week">EEEE</string>
+    <string name="format_full_month_of_year">MMMM</string>
+    <string name="format_hour_minute">%1$s:%2$s</string>
+    <string name="format_lunar_calendar_month_day_desc">Дата по традиционному китайскому календарю: %s</string>
+    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, дата по традиционному китайскому календарю: %3$s, праздники: %4$s</string>
+    <string name="format_month_day_style1">d.MMM</string>
+    <string name="format_month_day_style2">d.M</string>
+    <string name="format_month_day_week">EEE, dd MMM</string>
+    <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, дата по традиционному китайскому календарю: %4$s</string>
+    <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, праздники: %4$s</string>
+    <string name="format_solar_lunar_calendar_month_day_desc">Праздники: %1$s, дата по традиционному китайскому календарю: %2$s</string>
+    <string name="format_week_day_style1">EE d</string>
+    <string name="format_week_day_style1_desc">%1$s, день месяца: %2$s</string>
     <string name="forward_intent_to_owner">"Это приложение используется в личном профиле"</string>
     <string name="forward_intent_to_work">"Вы перешли в рабочий профиль"</string>
     <string name="fp_power_button_bp_message">"Вы нажали кнопку питания. Обычно это приводит к отключению экрана.\n\nЧтобы отсканировать отпечаток пальца, слегка прикоснитесь к кнопке."</string>
@@ -1491,6 +1515,15 @@ ID: %s
     <string name="harmful_app_warning_uninstall">"УДАЛИТЬ"</string>
     <string name="hdcp_checking_dialog_title">Поведение проверки HDCP</string>
     <string name="hdcp_checking_title">Проверка HDCP</string>
+    <string name="health_chart_calories_unit">ккал</string>
+    <string name="health_chart_sleep_time_format">%1$s ч. %2$s мин.</string>
+    <string name="health_chart_sleep_time_good">достаточно</string>
+    <string name="health_chart_sleep_time_low">недостаточно</string>
+    <string name="health_chart_sleep_time_normal">хорошее</string>
+    <string name="health_chart_sleep_time_very_good">отличное</string>
+    <string name="health_chart_step_count_unit">Шаги</string>
+    <string name="health_no_data">Нет данных</string>
+    <string name="health_sleep_desc">Длительность: %1$s, качество сна: %2$s</string>
     <string name="hearing_aids_feature_name">"Слуховые аппараты"</string>
     <string name="heavy_weight_notification">"Приложение %1$s запущено"</string>
     <string name="heavy_weight_notification_detail">"Нажмите, чтобы вернуться в игру."</string>
@@ -1517,6 +1550,7 @@ ID: %s
     <string name="httpErrorTooManyRequests">"Обрабатывается слишком много запросов. Повторите попытку позднее."</string>
     <string name="httpErrorUnsupportedAuthScheme">"Схема аутентификации сайта не поддерживается."</string>
     <string name="httpErrorUnsupportedScheme">"Протокол не поддерживается."</string>
+    <string name="humidity_format">Влажность: %s</string>
     <string name="hybrid_provider">Предоставлено %1$s</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="imProtocolAim">"AIM"</string>
@@ -2025,6 +2059,17 @@ dd.MM"</string>
 dd.MM"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 dd.MM"</string>
+    <string name="miui_magazine_c_clock_style1_week">EEEE</string>
+    <string name="miui_magazine_c_clock_style2_date">d.M EE</string>
+    <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd MMM</string>
+    <string name="miui_magazine_clock_date">d.M</string>
+    <string name="miui_magazine_clock_date_content_description">dd.MM</string>
+    <string name="miui_magazine_clock_week">EEE</string>
+    <string name="miui_rhombus_clock_date">dd MMMM</string>
+    <string name="miui_rhombus_clock_week">EEE</string>
+    <string name="miui_rhombus_clock_week_full">EEEE</string>
+    <string name="miui_smart_frame_clock_date">d.M</string>
+    <string name="miui_smart_frame_clock_week">EEE</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
@@ -2232,6 +2277,10 @@ mm"</string>
     <string name="no">"Отмена"</string>
     <string name="noApplications">"Действие не поддерживается ни в одном приложении."</string>
     <string name="no_application">Нет</string>
+    <string name="no_data_placeholder_single_line_string">-</string>
+    <string name="no_data_placeholder_string">--</string>
+    <string name="no_data_placeholder_string_with_percent_sign">--%</string>
+    <string name="no_data_placeholder_string_with_temperature_unit">--°</string>
     <string name="no_file_chosen">"Не выбран файл"</string>
     <string name="no_matches">"Нет совпадений"</string>
     <string name="no_network">Не удалось подключиться к сети</string>
@@ -2239,6 +2288,7 @@ mm"</string>
     <string name="no_recent_tasks">"Список недавно использованных приложений пуст."</string>
     <string name="noon">Полдень</string>
     <string name="noon">"полдень"</string>
+    <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_checked">"не отмечено"</string>
     <string name="not_default_data_content_description">Не настроено для использования данных</string>
     <string name="not_grant_admin">Не предоставлять права администратора</string>
@@ -3134,6 +3184,7 @@ mm"</string>
     <string name="radio_info_nr_available">Доступность NR:</string>
     <string name="radio_info_nr_frequency">Частота NR:</string>
     <string name="radio_info_nr_state">Состояние NR:</string>
+    <string name="rain_probability_desc">Вероятность осадков: %s</string>
     <string name="range_end">Конец диапазона</string>
     <string name="range_start">Начало диапазона</string>
     <string name="rating_label">"{rating,plural, =1{Одна звезда из {max}}one{# звезда из {max}}few{# звезды из {max}}many{# звезд из {max}}other{# звезды из {max}}}"</string>
@@ -3477,6 +3528,7 @@ mm"</string>
     <string name="solar_term_white_dews">Белые росы</string>
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
+    <string name="somatosensory_temperature_format">Ощущается как %s°</string>
     <string name="speed_label_fast">Быстрая</string>
     <string name="speed_label_medium">Средняя</string>
     <string name="speed_label_okay">ОК</string>
@@ -3520,6 +3572,11 @@ mm"</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="sunrise_time_format">Восход %s</string>
+    <string name="sunrise_time_format_desc">Время восхода: %s</string>
+    <string name="sunrise_time_format_tomorrow_desc">"Восход завтра: %s"</string>
+    <string name="sunset_time_format">Закат %s</string>
+    <string name="sunset_time_format_desc">Время заката: %s</string>
     <string name="supervised_user_creation_label">"Создать контролируемый профиль"</string>
     <string name="support_abc_action_bar_home_description">Перейти на главную</string>
     <string name="support_abc_action_bar_up_description">Перейти вверх</string>
@@ -3544,6 +3601,7 @@ mm"</string>
     <string name="taking_remote_bugreport_notification_title">"Подготовка отчета об ошибке"</string>
     <string name="tap_to_renew_subscription_and_connect">Нажмите для продления подписки и подключения</string>
     <string name="tap_to_stop_stack_sampling">Нажмите, чтобы остановить создание образцов стека</string>
+    <string name="temperature_unit">°</string>
     <string name="template_percent">%1$d%%.</string>
     <string name="test_harness_mode_notification_message">"Чтобы отключить тестовый режим, сбросьте настройки до заводских."</string>
     <string name="test_harness_mode_notification_title">"Тестовый режим включен"</string>
@@ -3556,6 +3614,7 @@ mm"</string>
     <string name="tethering_hardware_offload_summary">Использовать аппаратное ускорение модема, если доступно</string>
     <string name="tethering_settings_not_available">Этот пользователь не может изменять настройки режима модема</string>
     <string name="textSelectionCABTitle">"Выбор текста"</string>
+    <string name="text_slash">/</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>
@@ -3672,6 +3731,7 @@ mm"</string>
     <string name="twilight_service">"Сервис для определения наступления сумерек"</string>
     <string name="ui_translation_accessibility_translated_text">"Сообщение \"%1$s\" переведено."</string>
     <string name="ui_translation_accessibility_translation_finished">"Сообщение переведено на %2$s. Язык оригинала: %1$s."</string>
+    <string name="ultraviolet_rays_abbreviation">УФИ</string>
     <string name="undo">"Отменить"</string>
     <string name="unknown">Неизвестно</string>
     <string name="unknownName">"Неизвестно"</string>
@@ -3766,6 +3826,8 @@ mm"</string>
     <string name="user_switch_to_user">Переключиться на %s</string>
     <string name="user_switched">"Выбран аккаунт пользователя %1$s."</string>
     <string name="user_switching_message">"Смена профиля на \"%1$s\"…"</string>
+    <string name="uvi_format">УФИ %1$s %2$s</string>
+    <string name="uvi_format_desc">УФ-индекс: %1$s, %2$s</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="validity_period">"Срок действия:"</string>
@@ -3835,6 +3897,7 @@ mm"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Шестнадцатеричный</string>
     <string name="wapi_yes">Да</string>
+    <string name="weather_no_data">Нет данных</string>
     <string name="web_sso_login_fail">Необходимо выполнить вход повторно</string>
     <string name="web_sso_login_message">Авторизация…</string>
     <string name="webpage_unresponsive">"Страница не отвечает.\n\nЗакрыть ее?"</string>
@@ -4122,6 +4185,19 @@ mm"</string>
     <string name="wifitrackerlib_wifi_standard_unknown">Неизвестно</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Без тарификации</string>
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi без автоподключения</string>
+    <string name="wind_direction_0">Северный</string>
+    <string name="wind_direction_1">Северо-восточный</string>
+    <string name="wind_direction_1_f">Северо-восточный</string>
+    <string name="wind_direction_2">Восточный</string>
+    <string name="wind_direction_3">Северо-западный</string>
+    <string name="wind_direction_3_f">Северо-западный</string>
+    <string name="wind_direction_4">Южный</string>
+    <string name="wind_direction_5">Юго-западный</string>
+    <string name="wind_direction_5_f">Юго-западный</string>
+    <string name="wind_direction_6">Западный</string>
+    <string name="wind_direction_7">Северо-западный</string>
+    <string name="wind_direction_7_f">Северо-западный</string>
+    <string name="wind_format">%1$s | Скорость %2$s</string>
     <string name="window_animation_scale_title">Анимация окон</string>
     <string name="window_blurs">Разрешить размытие на оконном уровне</string>
     <string name="window_magnification_prompt_content">"Теперь можно увеличивать часть экрана."</string>

@@ -77,6 +77,10 @@
         <item quantity="other">Обновление %1$d тем</item>
         <item quantity="one">Обновление %1$d темы</item>
     </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Атмосферное давление: %s гПа</item>
+        <item quantity="one">Атмосферное давление: %s гПа</item>
+    </plurals>
     <plurals name="de_author_fans_amount">
         <item quantity="other">%1$d поклонников</item>
         <item quantity="one">%1$d поклонник</item>
@@ -131,6 +135,57 @@
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Сожжено: %1$s ккал</item>
+        <item quantity="one">Сожжено: %1$s ккал</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Цель: %1$s ккал</item>
+        <item quantity="one">Цель: %1$s ккал</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s ккал</item>
+        <item quantity="one">%1$s/%2$s ккал</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Время активности: %1$s мин.</item>
+        <item quantity="one">Время активности: %1$s мин.</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Цель: %1$s мин.</item>
+        <item quantity="one">Цель: %1$s мин.</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s мин.</item>
+        <item quantity="one">%1$s/%2$s мин.</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Время в движении: %1$s ч.</item>
+        <item quantity="one">Время в движении: %1$s ч.</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Цель: %1$s ч.</item>
+        <item quantity="one">Цель: %1$s ч.</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s ч.</item>
+        <item quantity="one">%1$s/%2$s ч.</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Пройдено: %1$s шагов</item>
+        <item quantity="one">Пройдено: %1$s шаг</item>
+        <item quantity="few">Пройдено: %1$s шага</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Цель: %1$s шагов</item>
+        <item quantity="one">Цель: %1$s шаг</item>
+        <item quantity="few">Цель: %1$s шага</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s шагов</item>
+        <item quantity="one">%1$s/%2$s шаг</item>
+        <item quantity="few">%1$s/%2$s шага</item>
     </plurals>
     <plurals name="icon_batch_has_update_text">
         <item quantity="other">Доступно обновление для %1$d иконок</item>
@@ -252,5 +307,10 @@
         <item quantity="other">%1$s | %2$d объектов</item>
         <item quantity="one">%1$s | %2$d объект</item>
         <item quantity="few">%1$s | %2$d объекта</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Температура: %1$s градусов, %2$s</item>
+        <item quantity="one">Температура: %1$s градус, %2$s</item>
+        <item quantity="few">Температура: %1$s градуса, %2$s</item>
     </plurals>
 </resources>

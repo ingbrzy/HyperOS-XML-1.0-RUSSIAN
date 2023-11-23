@@ -39,6 +39,10 @@
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">%d мин. назад</item>
     </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Атмосферное давление: %s гПа</item>
+        <item quantity="one">Атмосферное давление: %s гПа</item>
+    </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d дней назад</item>
         <item quantity="one">%1$d день назад</item>
