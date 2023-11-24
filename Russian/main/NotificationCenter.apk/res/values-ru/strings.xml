@@ -79,6 +79,9 @@
     <string name="feedback_tip_title">Обратная связь</string>
     <string name="float_notification_snooze_strategy">Временное скрытие</string>
     <string name="float_notification_snooze_summary">Проведите вверх по всплывающему уведомлению, чтобы временно скрыть его</string>
+    <string name="float_notification_snooze_summary_1_min">Проведите вверх по всплывающему уведомлению, чтобы скрыть последующие уведомления на %d мин.</string>
+    <string name="float_notification_snooze_summary_always_float">Всегда показывать всплывающие уведомления</string>
+    <string name="float_notification_snooze_summary_until_unlock">Проведите вверх по всплывающему уведомлению, чтобы скрыть последующие уведомления до блокировки устройства</string>
     <string name="float_notifications">Всплывающие уведомления</string>
     <string name="float_notifications_short">Всплывающие</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
@@ -147,6 +150,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>

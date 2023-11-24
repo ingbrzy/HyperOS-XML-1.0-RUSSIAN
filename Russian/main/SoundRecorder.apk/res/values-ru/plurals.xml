@@ -104,6 +104,11 @@
         <item quantity="one">Не удалось восстановить %d запись из-за неизвестной ошибки.</item>
         <item quantity="few">Не удалось восстановить %d записи из-за неизвестной ошибки.</item>
     </plurals>
+    <plurals name="search_all_records_hint">
+        <item quantity="other">%d записей</item>
+        <item quantity="one">%d запись</item>
+        <item quantity="few">%d записи</item>
+    </plurals>
     <plurals name="search_alll_records_hint">
         <item quantity="other">Поиск среди %d записей</item>
         <item quantity="one">Поиск в %d записи</item>

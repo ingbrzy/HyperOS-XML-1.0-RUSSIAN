@@ -58,6 +58,7 @@
 добавлено в чёрный список"</string>
     <string name="add_to_block_by_tag_failed">"Не удалось добавить сообщения, содержащие \"%s\", в чёрный список.
 Повторите попытку."</string>
+    <string name="add_to_block_cta_failed">Предоставьте Безопасности необходимые разрешения для возможности добавления в чёрный список-лист</string>
     <string name="add_to_browser_favorite_failed">Не удалось добавить</string>
     <string name="add_to_browser_favorite_success">Успешно добавлено</string>
     <string name="add_video">Добавить видео</string>
@@ -588,6 +589,10 @@
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
     <string name="miuix_indexer_collect">Подборки</string>
     <string name="miuix_indexer_selected">Выбрано: %s</string>
+    <string name="miuix_item_view_role_description">Вкладка</string>
+    <string name="miuix_navigator_content_switch_description">Показать боковую панель</string>
+    <string name="miuix_navigator_multiple_choice">Выбрать</string>
+    <string name="miuix_navigator_navigator_switch_description">Скрыть боковую панель</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>

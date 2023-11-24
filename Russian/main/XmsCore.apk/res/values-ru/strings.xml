@@ -28,8 +28,12 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="actionbar_button_up_description">Назад</string>
+    <string name="after_reset_need_restore_system_app">Был выполнен сброс настроек на заводские. Подключитесь к сети для восстановления системных приложений и нормальной работы устройства.</string>
     <string name="afternoon">После полудня</string>
+    <string name="app_disable_description_content">Отключение этого приложения может привести к некорректной работе некоторых функций системы</string>
+    <string name="app_disable_description_title">Отключить System SDK?</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
+    <string name="click_to_restore">Восстановление системных приложений для нормальной работы устройства после сброса настроек на заводские. Нажмите, чтобы начать.</string>
     <string name="close">Закрыть</string>
     <string name="com_android_deskclock">Часы</string>
     <string name="com_android_download_ui">Загрузки</string>
