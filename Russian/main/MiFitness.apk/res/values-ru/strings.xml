@@ -178,7 +178,7 @@
     <string name="access_thirdparty_unbind_tips">Данные ваших тренировок не будут синхронизированы с приложением.</string>
     <string name="access_thirdparty_wechat">WeChat</string>
     <string name="access_thirdparty_wechat_bound">Вы можете просматривать данные о своих шагах в WeChat.</string>
-    <string name="access_thirdparty_wechat_help_1">Чтобы поделиться данными с WeChat, сохраните приведенный ниже QR-код, отсканируйте его в WeChat и нажмите \"Привязать устройство\".</string>
+    <string name="access_thirdparty_wechat_help_1">Чтобы поделиться данными с WeChat, сохраните приведённый ниже QR-код, отсканируйте его в WeChat и нажмите \"Привязать устройство\".</string>
     <string name="access_thirdparty_wechat_help_2">Чтобы отсканировать QR-код, нажмите Сканировать в WeChat, выберите значок альбома в правом нижнем углу и нажмите на изображение QR-кода.</string>
     <string name="access_thirdparty_wechat_save_qr">Сохранить</string>
     <string name="access_unbind_dialog_msg">Данные о ваших шагах не будут больше синхронизироваться с WeChat</string>

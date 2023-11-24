@@ -61,6 +61,8 @@
     <string name="HIPS_Perm_Read_MMS_Desc">Чтение MMS</string>
     <string name="HIPS_Perm_Read_SMS">Чтение SMS</string>
     <string name="HIPS_Perm_Read_SMS_Desc">Чтение SMS</string>
+    <string name="HIPS_Perm_Receive_SMS">Получение SMS и MMS</string>
+    <string name="HIPS_Perm_Receive_SMS_desc">Получение сообщений</string>
     <string name="HIPS_Perm_SendMMS">Отправка MMS</string>
     <string name="HIPS_Perm_SendMMS_Desc">Отправка MMS напрямую</string>
     <string name="HIPS_Perm_SendSMS">Отправка SMS</string>
@@ -107,6 +109,8 @@
     <string name="HIPS_Perm_process_nfc_Desc">Использование NFC</string>
     <string name="HIPS_Perm_process_outgoing_calls">Доступ к телефону</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">Мониторинг и завершение вызовов</string>
+    <string name="HIPS_Perm_read_Calendar">Доступ к календарю</string>
+    <string name="HIPS_Perm_read_Calendar_Desc">Просмотр мероприятий в календаре</string>
     <string name="HIPS_Perm_read_clipboard">Чтение буфера обмена</string>
     <string name="HIPS_Perm_read_clipboard_Desc">Чтение буфера обмена</string>
     <string name="HIPS_Perm_read_notification_sms">Сервисные SMS</string>
@@ -247,6 +251,19 @@
     <string name="grant_dialog_storage_category_title">Приложению требуется доступ к Галерее и файлам приложений соцсетей</string>
     <string name="grant_dialog_storage_gallery_title">Галерея</string>
     <string name="grant_dialog_storage_sociality_title">Файлы приложений соцсетей</string>
+    <string name="group_audio">Музыка и аудио</string>
+    <string name="group_call">Телефон</string>
+    <string name="group_connect_device">Взаимодействие</string>
+    <string name="group_file">Файлы и документы</string>
+    <string name="group_image_video">Фото и видео</string>
+    <string name="group_location">Геолокация</string>
+    <string name="group_microphone">Микрофон</string>
+    <string name="group_nearby_device">Устройства поблизости</string>
+    <string name="group_other">Другие разрешения</string>
+    <string name="group_read_clipboard">Доступ к буферу обмена</string>
+    <string name="group_sms">Сообщения</string>
+    <string name="group_sport_healthy">Здоровье и активность</string>
+    <string name="group_write_clipboard">Добавление в буфер обмена</string>
     <string name="keep_blur_location">Да</string>
     <string name="keep_notice_me">Уведомлять</string>
     <string name="location_settings">Настройки</string>
@@ -356,6 +373,7 @@
     <string name="permdesc_read_phone_state">Разрешить %1$s доступ к состоянию устройства и мобильной сети?</string>
     <string name="permdesc_read_sms">Разрешить %1$s читать и отправлять SMS или MMS?</string>
     <string name="permdesc_read_storage">Разрешить %1$s доступ к файлам на устройстве?</string>
+    <string name="permdesc_receive_sms">Разрешить %1$s получать SMS и MMS?</string>
     <string name="permdesc_recognition">Разрешить %1$s доступ к данным о физической активности?</string>
     <string name="permdesc_send_sms">Разрешить %1$s отправлять SMS?</string>
     <string name="permdesc_sensors">Разрешить %1$s доступ к данным нательных датчиков?</string>
@@ -374,6 +392,8 @@
     <string name="permgroupdesc_phone">Разрешить %1$s вызовы и доступ к состоянию устройства?</string>
     <string name="permgroupdesc_read_media_aural">Разрешить %1$s доступ к аудиофайлам на устройстве?</string>
     <string name="permgroupdesc_read_media_visual">Разрешить %1$s доступ к фото, видео на устройстве?</string>
+    <string name="permgroupdesc_read_media_visual_more">Разрешить %1$s доступ к остальным фото, видео?</string>
+    <string name="permgroupdesc_read_media_visual_u">Разрешить %1$s доступ к фото, видео на устройстве?</string>
     <string name="permgroupdesc_recognition">Разрешить %1$s доступ к данным о здоровье и физической активности?</string>
     <string name="permgroupdesc_sensors">Разрешить %1$s доступ к данным нательных датчиков?</string>
     <string name="permgroupdesc_sms">Разрешить %1$s просматривать или отправлять SMS?</string>
@@ -412,6 +432,7 @@
     <string name="screen_overlay_message">Необходимо отключить разрешение \"Поверх других приложений\" для приложения в Настройки &gt; Пароли и защита &gt;  Конфиденциальность &gt;  Специальный доступ &gt;  Поверх других приложений</string>
     <string name="screen_overlay_title">Обнаружено наложение экранов</string>
     <string name="search_menu_title">Поиск</string>
+    <string name="select_allow_access_content">Выберите для разрешения доступа</string>
     <string name="send">Отправить</string>
     <string name="size_byte">Б</string>
     <string name="size_giga_byte">ГБ</string>

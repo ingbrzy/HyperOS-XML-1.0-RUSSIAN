@@ -424,7 +424,7 @@
     <string name="install_media_editor_button_text">Загрузить</string>
     <string name="install_media_editor_message">Загрузить плагин для редактирования?</string>
     <string name="install_media_editor_title">Требуется плагин</string>
-    <string name="instruction">Введите нижеприведенный адрес в FTP-клиент: </string>
+    <string name="instruction">Введите нижеприведённый адрес в FTP-клиент: </string>
     <string name="instruction_pre_pad">Управление файлами на этом устройстве с помощью ПК</string>
     <string name="instruction_pre_phone">Управление файлами на этом устройстве с помощью ПК</string>
     <string name="internal_storage">Хранилище</string>

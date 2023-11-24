@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="UVI_level_0">Слабый</string>
+    <string name="UVI_level_1">Умеренный</string>
+    <string name="UVI_level_2">Сильный</string>
+    <string name="UVI_level_3">Очень сильный</string>
+    <string name="UVI_level_4">Серьёзный</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Ещё</string>
@@ -57,17 +62,20 @@
     <string name="ad_download_open">Открыть</string>
     <string name="ad_download_pause">Пауза</string>
     <string name="ad_download_pending">Ожидание</string>
+    <string name="ad_download_progress">%1$d%%</string>
     <string name="ad_download_resume">Продолжить</string>
     <string name="ad_downloading_tip">Идёт загрузка. Вы можете посмотреть прогресс в шторке уведомлений.</string>
     <string name="ad_experience_now">Открыть</string>
     <string name="ad_in_downloading">Загрузка</string>
     <string name="ad_in_installing">Установка</string>
+    <string name="ad_installing">Установка…</string>
     <string name="ad_tag_text_1">Популярное</string>
     <string name="ad_tag_text_2">Тренд</string>
     <string name="add">Добавить</string>
     <string name="add_home_icon_success">Успешно добавлено</string>
     <string name="add_resource_detail_fail">Не удалось добавить ресурс</string>
     <string name="afternoon">После полудня</string>
+    <string name="air_quality_index_abbreviation">ИКВ</string>
     <string name="all_resources">Все</string>
     <string name="allow">Предоставлено</string>
     <string name="already_latest_version">Обновлений нет</string>
@@ -116,6 +124,9 @@
     <string name="apply_wallpaper_warning_use_super_wallpaper">Сейчас используются суперобои. Новые обои будут применены к рабочему столу и экрану блокировки. Применить?</string>
     <string name="apply_warning_get_device_dialog_message">Чтобы использовать загруженный контент, разрешите этой функции доступ к ID вашего устройства. Вы можете предоставить это разрешение в Настройки > Конфиденциальность</string>
     <string name="apply_warning_tip_get_device_status">Разрешите приложению доступ к ID устройства</string>
+    <string name="aqi_format">ИКВ %s</string>
+    <string name="aqi_format_desc">Индекс качества воздуха: %s</string>
+    <string name="atmosphere_pressure_unit">гПа</string>
     <string name="audio_duration_minutes_format">%1$d мин.</string>
     <string name="audio_duration_seconds_format">%1$d сек.</string>
     <string name="audition_ringtone">Воспроизвести</string>
@@ -158,6 +169,8 @@
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="check_has_new_version">Доступно обновление</string>
     <string name="chip_text">Текст</string>
+    <string name="classic_calendar_day_of_week_format">EE</string>
+    <string name="classic_calendar_month_of_year_format">MMM</string>
     <string name="classification_more_understand_you">Выберите любимую категорию</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
@@ -436,6 +449,21 @@
     <string name="font_trial_end_purchase">Купить шрифт</string>
     <string name="forbid_transparent_wallpaper_by_second_space">Сначала примените прозрачные обои в первом пространстве</string>
     <string name="forbid_video_wallpaper_by_second_space">Сначала примените прозрачные обои в первом пространстве</string>
+    <string name="format_day_desc">День месяца: %s</string>
+    <string name="format_day_week_desc">День месяца: %1$s, %2$s</string>
+    <string name="format_full_day_of_week">EEEE</string>
+    <string name="format_full_month_of_year">MMMM</string>
+    <string name="format_hour_minute">%1$s:%2$s</string>
+    <string name="format_lunar_calendar_month_day_desc">Дата по китайскому традиционному календарю: %s</string>
+    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, дата по китайскому традиционному календарю: %3$s, праздники: %4$s</string>
+    <string name="format_month_day_style1">d.MMM</string>
+    <string name="format_month_day_style2">d.M</string>
+    <string name="format_month_day_week">EEE, dd MMM</string>
+    <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, дата по китайскому традиционному календарю: %4$s</string>
+    <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, праздники: %4$s</string>
+    <string name="format_solar_lunar_calendar_month_day_desc">Праздники: %1$s, дата по китайскому традиционному календарю: %2$s</string>
+    <string name="format_week_day_style1">EE d</string>
+    <string name="format_week_day_style1_desc">%1$s, день месяца: %2$s</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -452,6 +480,15 @@
     <string name="has_mamual_hide_theme">Скрытые</string>
     <string name="has_mamual_hide_wallpaper">Скрытые</string>
     <string name="head_portraits">Фото профиля</string>
+    <string name="health_chart_calories_unit">ккал</string>
+    <string name="health_chart_sleep_time_format">%1$s ч. %2$s мин.</string>
+    <string name="health_chart_sleep_time_good">достаточно</string>
+    <string name="health_chart_sleep_time_low">недостаточно</string>
+    <string name="health_chart_sleep_time_normal">хорошее</string>
+    <string name="health_chart_sleep_time_very_good">отличное</string>
+    <string name="health_chart_step_count_unit">Шаги</string>
+    <string name="health_no_data">Нет данных</string>
+    <string name="health_sleep_desc">Длительность: %1$s, качество сна: %2$s</string>
     <string name="hide_free">Скрыть бесплатные %1$s</string>
     <string name="hide_free_aod">Не показывать бесплатные темы</string>
     <string name="hide_free_font">Скрыть бесплатные шрифты</string>
@@ -476,6 +513,7 @@
     <string name="home_apply_failured">Не удалось установить обои на рабочий стол</string>
     <string name="home_apply_success">Обои рабочего стола установлены</string>
     <string name="home_daily">Яркие моменты</string>
+    <string name="humidity_format">Влажность: %s</string>
     <string name="i_know">Понятно</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="icon_pad_setting_find_more_title">Онлайн</string>
@@ -547,9 +585,14 @@
     <string name="local_mode_hint">"Включён офлайн-режим.
 Нажмите, чтобы отключить."</string>
     <string name="local_mode_open">Офлайн-режим</string>
+    <string name="local_notification_default_title">Темы</string>
+    <string name="local_notification_font_trial_title">Посмотрите новые шрифты</string>
+    <string name="local_notification_update_theme_title">Обновите темы</string>
     <string name="local_photos">Фото на устройстве</string>
     <string name="local_resouce_creator_name">Автор: %1$s</string>
     <string name="lock_screen_apply">Установить на экран блокировки</string>
+    <string name="lock_screen_keyguard_guide_popup">Попробуйте новые функции и дизайн экрана блокировки</string>
+    <string name="lock_screen_keyguard_tip_title">Новый вид экрана блокировки</string>
     <string name="lockscreen_apply_failured">Не удалось установить обои на экран блокировки</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">Обои на рабочий стол установлены. Не удалось установить обои на экран блокировки.</string>
     <string name="lockscreen_apply_success">Обои экрана блокировки установлены</string>
@@ -560,6 +603,7 @@
     <string name="lockscreen_magazine_system_subscribe">Обои: %1$s</string>
     <string name="lockscreen_magazine_system_title">На устройстве</string>
     <string name="lockscreen_magazine_title">Карусель обоев</string>
+    <string name="lockscreen_tip_content">Нажмите и удерживайте экран блокировки, чтобы начать редактирование. Сделайте его по-настоящему своим с помощью новых возможностей настройки и шаблонов.</string>
     <string name="lockscreen_wallpaper">Экран блокировки</string>
     <string name="lockstyle_personal_settings">Настройки</string>
     <string name="login_theme">Войти в Темы</string>
@@ -590,6 +634,9 @@
     <string name="mine_tab_title_purchase">Покупки</string>
     <string name="miui_clock_city_name_local">Местное время</string>
     <string name="miui_clock_city_name_second">Вторые часы</string>
+    <string name="miui_clock_time_format_12">hh:mm</string>
+    <string name="miui_clock_time_format_24">HH:mm</string>
+    <string name="miui_lock_empty" />
     <string name="miui_lock_screen_date">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
@@ -600,6 +647,17 @@ dd.MM"</string>
 dd.MM"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 dd.MM"</string>
+    <string name="miui_magazine_c_clock_style1_week">EEEE</string>
+    <string name="miui_magazine_c_clock_style2_date">d.M EE</string>
+    <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd MMM</string>
+    <string name="miui_magazine_clock_date">d.M</string>
+    <string name="miui_magazine_clock_date_content_description">dd.MM</string>
+    <string name="miui_magazine_clock_week">EEE</string>
+    <string name="miui_rhombus_clock_date">dd MMMM</string>
+    <string name="miui_rhombus_clock_week">EEE</string>
+    <string name="miui_rhombus_clock_week_full">EEEE</string>
+    <string name="miui_smart_frame_clock_date">d.M</string>
+    <string name="miui_smart_frame_clock_week">EEE</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
@@ -758,6 +816,10 @@ mm"</string>
     <string name="night">Вечер</string>
     <string name="no_cta_agreed">GetApps не имеет CTA-разрешений</string>
     <string name="no_data">Не удалось подключиться к сети</string>
+    <string name="no_data_placeholder_single_line_string">-</string>
+    <string name="no_data_placeholder_string">--</string>
+    <string name="no_data_placeholder_string_with_percent_sign">--%</string>
+    <string name="no_data_placeholder_string_with_temperature_unit">--°</string>
     <string name="no_install_permission">Отсутствуют разрешения на установку</string>
     <string name="no_more_notice">Больше не показывать</string>
     <string name="no_net_work_connection">Проверьте настройки сети и повторите попытку.</string>
@@ -767,6 +829,7 @@ mm"</string>
     <string name="no_used_wallpaper">не используется</string>
     <string name="no_wallpaper">Ничего нет</string>
     <string name="noon">Полдень</string>
+    <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_allow">Не предоставлено</string>
     <string name="not_set">Не задано</string>
     <string name="not_support_incall_show">Эти обои не работают с видео профиля</string>
@@ -806,6 +869,7 @@ mm"</string>
     <string name="personalize_fingerprint_style_title">Отпечатки</string>
     <string name="personalize_font_demo_content">Аа</string>
     <string name="personalize_icon_title">Иконки</string>
+    <string name="personalize_item_more_setting">Доп. настройки</string>
     <string name="personalize_notify_ringtone_title">Уведомления</string>
     <string name="personalize_notify_style_title">Эффекты</string>
     <string name="personalize_recommend_switch_desc">Персонализированные рекомендации по контенту на основе ID устройства</string>
@@ -962,6 +1026,7 @@ mm"</string>
     <string name="purchased_list">Купленные</string>
     <string name="purchased_list_current">Оптимизированные</string>
     <string name="purchased_list_legacy">Устаревшие</string>
+    <string name="rain_probability_desc">Вероятность осадков: %s</string>
     <string name="read_and_agree_account_privacy"><Data>Я принимаю &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Пользовательское cоглашение&lt;/a>&lt;/font> и &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a>&lt;/font> Xiaomi аккаунта.</Data></string>
     <string name="recently_used">Недавние</string>
     <string name="recommend_bottom_tips">Посмотрите рекомендации внизу</string>
@@ -1144,6 +1209,7 @@ mm"</string>
     <string name="resource_restore_succ">Успешно восстановлено</string>
     <string name="resource_ringtone_default">Мелодии</string>
     <string name="resource_ringtone_playing_error">Ошибка</string>
+    <string name="resource_ringtone_too_large_waring">Файл рингтона должен быть не более %1$d МБ</string>
     <string name="resource_ringtone_volume_mute">Звук отключён</string>
     <string name="resource_save_to_note">Сохранить в заметки</string>
     <string name="resource_search_color_hint_blue">Синий</string>
@@ -1207,6 +1273,10 @@ mm"</string>
     <string name="resource_waiting_download">Ожидание…</string>
     <string name="resource_waiting_pause">Пауза</string>
     <string name="resource_wallpaper_download">Загрузить обои</string>
+    <string name="restore_default_change_wallpaper_when_special_lockscreen">Используется шаблон экрана блокировки. Применить экран блокировки по умолчанию и заменить обои рабочего стола и экрана блокировки?</string>
+    <string name="restore_default_lock_style_apply_superwallpaper">Этот шаблон экрана блокировки не поддерживает суперобои. Применить экран блокировки по умолчанию и заменить обои рабочего стола и экрана блокировки?</string>
+    <string name="restore_default_lockscreen_when_special_lock_style">Сейчас используется шаблон экрана блокировки. Применить экран блокировки по умолчанию?</string>
+    <string name="restore_history_lock_screen_when_apply_theme">Используется сторонняя тема. При изменении обоев экрана блокировки будут восстановлены часы по умолчанию. Применить?</string>
     <string name="restore_home_icon_text">Добавить ярлык на рабочий стол</string>
     <string name="restore_icon_later">Вы можете снова добавить ярлык на рабочий стол в настройках</string>
     <string name="ringtone_confirm_dialog_message">Продолжительность рингтона достаточно велика. Все равно использовать его?</string>
@@ -1236,6 +1306,7 @@ mm"</string>
     <string name="selected_resource_file_invalid">Выбранный файл не поддерживается</string>
     <string name="send">Отправить</string>
     <string name="server_internal_error">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="server_message">Горячая линия: 400–100–5678</string>
     <string name="service_btn_text_know">Ознакомиться</string>
     <string name="service_btn_text_try">Попробовать</string>
     <string name="set_as_colorring">Установить рингтон</string>
@@ -1319,12 +1390,18 @@ mm"</string>
     <string name="solar_term_white_dews">Белые росы</string>
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
+    <string name="somatosensory_temperature_format">Ощущается как %s°</string>
     <string name="still_apply">Применить</string>
     <string name="storage_migration_exit_msg">Чтобы темы были совместимы с будущими версиями Android, загруженные компоненты были перемещены в новое место. Перезапустите приложение для применения изменений и просмотра загруженного контента.</string>
     <string name="storage_permission_denied_desc">Разрешите Темам доступ к хранилищу для просмотра компонентов</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="sunrise_time_format">Восход %s</string>
+    <string name="sunrise_time_format_desc">Время восхода: %s</string>
+    <string name="sunrise_time_format_tomorrow_desc">"Восход завтра: %s"</string>
+    <string name="sunset_time_format">Закат %s</string>
+    <string name="sunset_time_format_desc">Время заката: %s</string>
     <string name="super_wallpaper">Суперобои</string>
     <string name="super_wallpaper_dialog_content">Динамические функции обоев будут отключены для экономии заряда</string>
     <string name="super_wallpaper_download_progress">%1$d%%</string>
@@ -1360,7 +1437,9 @@ mm"</string>
     <string name="system_precust">Предустановленные</string>
     <string name="tag_ad">Реклама</string>
     <string name="task_already_exist">Задание уже существует</string>
+    <string name="temperature_unit">°</string>
     <string name="ten_thousand_unit">10 тыс.</string>
+    <string name="text_slash">/</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>
@@ -1567,6 +1646,7 @@ mm"</string>
     <string name="uid_change_dialog_message">Вы удалили обновления. Для использования тем перезагрузите устройство.</string>
     <string name="uid_change_dialog_ok">Понятно</string>
     <string name="uid_change_dialog_title">Перезагрузите устройство</string>
+    <string name="ultraviolet_rays_abbreviation">УФИ</string>
     <string name="unable_connect_network">Не удалось подключиться к сети</string>
     <string name="uninstall_theme">Удалить \"Темы\" с рабочего стола?</string>
     <string name="uninstall_theme_description">Приложение \"Темы\" является системным, удалить его нельзя. Будет удалён ярлык приложения с рабочего стола. Запуск приложения по-прежнему будет доступен в Настройках.</string>
@@ -1590,6 +1670,8 @@ mm"</string>
     <string name="using_theme_next_automatic_update_summary">Автоматически обновлять загруженные темы через Wi-Fi</string>
     <string name="using_theme_show_ad">Получать рекомендации</string>
     <string name="using_wallpaper_personal">Персонализированные обои</string>
+    <string name="uvi_format">УФИ %1$s %2$s</string>
+    <string name="uvi_format_desc">УФ-индекс: %1$s, %2$s</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="version_update">Проверить обновления</string>
@@ -1649,6 +1731,7 @@ mm"</string>
     <string name="wallpaper_loop_title">Слайд-шоу</string>
     <string name="wallpaper_loop_title_desk_wallpaper">Слайд-шоу рабочего стола</string>
     <string name="wallpaper_loop_title_lock_walpaper">Слайд-шоу экрана блокировки</string>
+    <string name="wallpaper_magic_mode_preview_tip">Предпросмотр экрана блокировки</string>
     <string name="wallpaper_no_favorite">Ничего нет</string>
     <string name="wallpaper_no_record">Ничего нет</string>
     <string name="wallpaper_online">Обои онлайн</string>
@@ -1692,6 +1775,7 @@ mm"</string>
     <string name="warning_miui_optimization_closed_dialog_message">На устройстве не включена оптимизация MIUI, без этого данная тема не будет работать должным образом. Всё равно применить тему или включить оптимизацию MIUI в Настройках?</string>
     <string name="warning_miui_optimization_closed_dialog_title">Внимание</string>
     <string name="warning_subscribe_wallpaper_group_content">Включено слайд-шоу для рабочего стола. Будут добавлены %1$s.</string>
+    <string name="weather_no_data">Нет данных</string>
     <string name="wechat_not_found">Установите WeChat</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
@@ -1701,6 +1785,19 @@ mm"</string>
     <string name="wifi_check_confirm">ОК</string>
     <string name="wifi_check_message">Использовать мобильный интернет для загрузки обновлений?</string>
     <string name="wifi_check_tip">Больше не показывать</string>
+    <string name="wind_direction_0">Северный</string>
+    <string name="wind_direction_1">Северо-восточный</string>
+    <string name="wind_direction_1_f">Северо-восточный</string>
+    <string name="wind_direction_2">Восточный</string>
+    <string name="wind_direction_3">Северо-западный</string>
+    <string name="wind_direction_3_f">Северо-западный</string>
+    <string name="wind_direction_4">Южный</string>
+    <string name="wind_direction_5">Юго-западный</string>
+    <string name="wind_direction_5_f">Юго-западный</string>
+    <string name="wind_direction_6">Западный</string>
+    <string name="wind_direction_7">Северо-западный</string>
+    <string name="wind_direction_7_f">Северо-западный</string>
+    <string name="wind_format">%1$s | Скорость %2$s</string>
     <string name="xiaoai_speech_not_installed_download">Загрузить</string>
     <string name="xiaoai_speech_not_installed_message">Для продолжения загрузите и установите голосовой помощник Mi AI.</string>
     <string name="xiaoai_speech_not_installed_title">Голосовой помощник Mi AI не установлен</string>

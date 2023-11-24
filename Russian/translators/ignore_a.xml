@@ -1861,4 +1861,11 @@
     <string-array name="zen_mode_contacts_values"></string-array>
     <string-array name="zen_mode_conversations_entries"></string-array>
     <string-array name="zen_mode_conversations_values"></string-array>
+<!-- ### FROM SOURCE -->
+    <string-array name="nfc_notification_mode_values"></string-array>
+<!-- ### FROM SOURCE -->
+    <string-array name="smart_device_control_values"></string-array>
+<!-- ### FROM SOURCE -->
+<!-- ### FROM SOURCE -->
+    <string-array name="smart_home_values"></string-array>
 </resources>

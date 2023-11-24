@@ -60,6 +60,9 @@
     <string name="confirm_cancel_task_files">Отменить отправку файлов на %1$s?</string>
     <string name="confirm_cancel_task_images">Отменить отправку изображений на %1$s?</string>
     <string name="copy">Копировать</string>
+    <string name="copy_dialog_confirm">Понятно</string>
+    <string name="copy_dialog_content">Скриншоты будут автоматически добавляться в буфер обмена. Отключить эту функцию можно в Настройках, выполнив поиск \"Добавление в буфер обмена\".</string>
+    <string name="copy_dialog_title">Внимание</string>
     <string name="copy_success_toast">Успешно скопировано</string>
     <string name="cta_agree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
     <string name="cta_btn_agree">Принять</string>
@@ -167,6 +170,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>

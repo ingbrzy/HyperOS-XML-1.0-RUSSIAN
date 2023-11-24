@@ -28,7 +28,7 @@
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_message_hint">"Разрешить подключение к этой сети только если нижеприведенная информация корректна.
+    <string name="wifi_ca_cert_dialog_message_hint">"Разрешить подключение к этой сети только если нижеприведённая информация корректна.
 
 "</string>
     <string name="wifi_ca_cert_dialog_message_issuer_name_text">"Эмитент:

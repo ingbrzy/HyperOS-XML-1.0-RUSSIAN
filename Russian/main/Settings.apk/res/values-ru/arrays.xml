@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <array name="ANDROID_U_BLE_MMA_FEATURE_VERSION" />
     <string-array name="accessibility_button_gesture_selector_titles">
         <item>Кнопка</item>
         <item>Жест</item>
@@ -333,6 +334,12 @@
     </string-array>
     <array name="avatar_image_descriptions" />
     <string-array name="battery_indicator_style_entries">
+        <item>Графический</item>
+        <item>Процентный (внутри)</item>
+        <item>Процентный (рядом)</item>
+        <item>Полоска вверху экрана</item>
+    </string-array>
+    <string-array name="battery_indicator_style_summaries">
         <item>Графический</item>
         <item>Процентный (внутри)</item>
         <item>Процентный (рядом)</item>
@@ -919,6 +926,7 @@
         <item>Защита приложений</item>
         <item>Второе пространство</item>
     </string-array>
+    <array name="config_disable_optimization_mode_apps" />
     <string-array name="connect_mode_entries">
         <item>Совместимость</item>
         <item>Высокая скорость</item>
@@ -1196,11 +1204,24 @@
         <item>Медленная скорость из-за слабого сигнала</item>
         <item>Перемещение…</item>
     </string-array>
+    <string-array name="nfc_notification_mode_summaries">
+        <item>Платежные карты, карты доступа, карты Умного дома</item>
+        <item>Сопряжение по Bluetooth, беспроводное соединение, карты Умного дома</item>
+    </string-array>
+    <string-array name="nfc_notification_mode_titles">
+        <item>Все карты</item>
+        <item>Карты, распознанные системой</item>
+    </string-array>
     <string-array name="nfc_payment_favor">
         <item>Всегда</item>
         <item>Если не открыто другое платежное приложение</item>
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
+        <item>Графический</item>
+        <item>Процентный (внутри)</item>
+        <item>Процентный (рядом)</item>
+    </string-array>
+    <string-array name="notch_battery_indicator_style_summaries">
         <item>Графический</item>
         <item>Процентный (внутри)</item>
         <item>Процентный (рядом)</item>
@@ -1480,6 +1501,15 @@
         <item>1 час</item>
         <item>2 часа</item>
         <item>8 часов</item>
+    </string-array>
+    <string-array name="smart_device_control_entries">
+        <item>@string/mi_smart_hub_entry_title</item>
+        <item>Умный дом</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="smart_home_entries">
+        <item>Умный дом</item>
+        <item>Нет</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>Разрешить</item>

@@ -196,6 +196,11 @@
     <string name="miplay_accessibility_prev">Предыдущий</string>
     <string name="miplay_accessibility_seekbar">Полоса прогресса</string>
     <string name="miplay_accessibility_volume">Громкость</string>
+    <string name="miplay_bluetooth_share_des_text">"Наушники Xiaomi: откройте кейс или нажмите и удерживайте кнопку на кейсе в течение %d сек.
+Другие наушники: перезагрузите наушники в настройках Bluetooth, затем снова подключите их."</string>
+    <string name="miplay_bluetooth_share_headphone_pairing">Добавьте наушники для обмена аудио</string>
+    <string name="miplay_bluetooth_share_subTitle_text">Обмен аудио с другими</string>
+    <string name="miplay_bluetooth_share_title_text">Обмен аудио</string>
     <string name="miplay_detail_divider_title">Телевизоры и колонки</string>
     <string name="miplay_detail_header_no_song">Ничего нет</string>
     <string name="miplay_device_full_name">%2$s из %1$s</string>
@@ -203,6 +208,8 @@
     <string name="miplay_not_support_hint">Эта функция не поддерживается</string>
     <string name="miplay_service_timeout_toast">Таймаут соединения. Попробуйте ещё раз.</string>
     <string name="miplay_song_title_empty">Ничего нет</string>
+    <string name="miplay_switch_local_device_when_in_audio_share_hint">Завершите обмен аудио и повторите попытку</string>
+    <string name="miplay_tv_cast_retry_toast">Перезапустите трансляцию</string>
     <string name="miui_dnd_count_down">Таймер</string>
     <string name="miui_dnd_count_down_time">"Таймер
 %s"</string>
