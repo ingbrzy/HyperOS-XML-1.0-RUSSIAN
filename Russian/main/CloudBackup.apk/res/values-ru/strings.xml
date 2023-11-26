@@ -466,17 +466,16 @@ ID: %s
     <string name="restore_file_empty">Нет резервных копий</string>
     <string name="restore_finish_description">Восстановление завершено</string>
     <string name="restore_finished_notification_content">Восстановление завершено</string>
-    <string name="restore_from_cloud">Восстановление из резервной копии</string>
+    <string name="restore_from_cloud">Восстановление из облачной резервной копии</string>
     <string name="restore_from_mimover">Передача со старого устройства с помощью Mi Mover</string>
     <string name="restore_from_this_device">Восстановить из этой копии</string>
-    <string name="restore_header_backup_size">Размер данных：%s</string>
+    <string name="restore_header_backup_size">Размер</string>
     <string name="restore_header_msg">Перед восстановлением данных WeChat убедитесь, что приложение не установлено на этом устройстве. Не открывайте и не используйте WeChat во время восстановления.</string>
-    <string name="restore_header_title">Общий размер: %s</string>
-    <string name="restore_header_title2">Всего резервных копий: %s</string>
+    <string name="restore_header_title">Общий размер</string>
+    <string name="restore_header_title2">Устройства</string>
     <string name="restore_home_failed">Не удалось восстановить рабочий стол</string>
-    <string name="restore_home_screen_apps">Восстановление из облачной резервной копии</string>
-    <string name="restore_home_screen_apps_options">"Параметры восстановления
-%s"</string>
+    <string name="restore_home_screen_apps">Восстановление</string>
+    <string name="restore_home_screen_apps_options">Параметры восстановления</string>
     <string name="restore_init_description">Запуск восстановления</string>
     <string name="restore_network_pause">Приостановлено (используется мобильный интернет). Нажмите для возобновления.</string>
     <string name="restore_network_unconnect">%s (ожидание подключения)</string>
