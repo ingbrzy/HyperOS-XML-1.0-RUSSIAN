@@ -2544,7 +2544,7 @@
     <string name="cloned_app_created_toast_summary">"Копия приложения \"%1$s\" успешно создана."</string>
     <string name="cloned_app_creation_summary">"Подождите…"</string>
     <string name="cloned_app_creation_toast_summary">"Создание копии приложения \"%1$s\"…"</string>
-    <string name="cloned_app_info_label">Клон % 1$s</string>
+    <string name="cloned_app_info_label">Клон %1$s</string>
     <string name="cloned_apps_dashboard_title">"Клонирование приложений"</string>
     <string name="cloned_apps_summary">"Клонировано: %1$s; доступно для клон-ия: %2$d"</string>
     <string name="close">Закрыть</string>
@@ -9632,7 +9632,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="security_status">Состояние защиты</string>
     <string name="security_status_title">Статус безопасности</string>
     <string name="security_update">Обновление безопасности</string>
-    <string name="see_all_apps_title">Все приложения (%1$d)</string>
+    <string name="see_all_apps_title">"{count,plural, =1{Показать все приложения}one{Показать все # приложение}few{Показать все # приложения}many{Показать все # приложений}other{Показать все # приложения}}"</string>
     <string name="see_less">Скрыть</string>
     <string name="see_more">Ещё</string>
     <string name="seek_bar_info">Размер</string>

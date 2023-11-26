@@ -436,6 +436,7 @@
         <item>48.0 кГц</item>
         <item>88.2 кГц</item>
         <item>96.0 кГц</item>
+        <item>192.0 кГц</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
         <item>Выбор системы</item>
@@ -443,6 +444,7 @@
         <item>48.0 кГц</item>
         <item>88.2 кГц</item>
         <item>96.0 кГц</item>
+        <item>192.0 кГц</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Выбор системы</item>
@@ -453,6 +455,7 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC V5</item>
         <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
@@ -468,11 +471,12 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC V5</item>
         <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
-        <item>Включить дополнительные кодеки</item>
-        <item>Отключить дополнительные кодеки</item>		
+        <item>Включить доп. кодеки</item>
+        <item>Отключить доп. кодеки</item>		
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
