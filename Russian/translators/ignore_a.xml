@@ -923,6 +923,8 @@
     <string-array name="gb_gpu_custom_cut_anti"></string-array>
     <string-array name="gb_gpu_custom_cut_anti_value"></string-array>
     <string-array name="gb_gpu_custom_fps"></string-array>
+    <string-array name="gb_gpu_custom_fps_gear"></string-array>
+    <string-array name="gb_gpu_custom_frame_rate_gear_value"></string-array>
     <string-array name="gb_gpu_custom_lod_value"></string-array>
     <string-array name="gb_gpu_custom_texture_value"></string-array>
     <string-array name="gb_voice_change_gender"></string-array>
@@ -1178,6 +1180,7 @@
     <string-array name="networks_not_clear_data"></string-array>
     <string-array name="new_dndm_vip_list_group_array"></string-array>
     <string-array name="nfc_entrance_card_name_list"></string-array>
+    <string-array name="nfc_notification_mode_values"></string-array>
     <string-array name="nfc_payment_favor_values"></string-array>
     <string-array name="nfc_se_route_values"></string-array>
     <string-array name="no_ems_support_sim_operators"></string-array>
@@ -1532,6 +1535,8 @@
     <array name="slice_whitelist_package_names" />
     <array name="small_thunder_1"></array>
     <array name="small_thunder_2"></array>
+    <string-array name="smart_device_control_values"></string-array>
+    <string-array name="smart_home_values"></string-array>
     <string-array name="sms_exclude_category"></string-array>
     <string-array name="smtp_host_prefixes"></string-array>
     <string-array name="smusic_lists"></string-array>
@@ -1861,11 +1866,4 @@
     <string-array name="zen_mode_contacts_values"></string-array>
     <string-array name="zen_mode_conversations_entries"></string-array>
     <string-array name="zen_mode_conversations_values"></string-array>
-<!-- ### FROM SOURCE -->
-    <string-array name="nfc_notification_mode_values"></string-array>
-<!-- ### FROM SOURCE -->
-    <string-array name="smart_device_control_values"></string-array>
-<!-- ### FROM SOURCE -->
-<!-- ### FROM SOURCE -->
-    <string-array name="smart_home_values"></string-array>
 </resources>

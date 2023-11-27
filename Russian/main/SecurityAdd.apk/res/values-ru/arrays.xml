@@ -136,6 +136,13 @@
         <item>Баланс</item>
         <item>По умолчанию</item>
     </string-array>
+    <string-array name="gb_gpu_custom_frame_rate_gear">
+        <item>Низкая</item>
+        <item>Пониженная</item>
+        <item>Средняя</item>
+        <item>Высокая</item>
+        <item>Максимум (по умолчанию)</item>
+    </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>Максимальная скорость</item>
         <item>Баланс скорости и качества</item>
