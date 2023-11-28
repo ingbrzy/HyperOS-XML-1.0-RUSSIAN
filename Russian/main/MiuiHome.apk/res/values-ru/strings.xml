@@ -999,6 +999,7 @@
     <string name="switch_screen_button_order">Поменять кнопки местами</string>
     <string name="switch_screen_button_order_desc">Поменять местами \"Назад\" и \"Меню\"</string>
     <string name="system_shortcuts_edit">Изменить</string>
+    <string name="system_shortcuts_icon_remove">Удалить</string>
     <string name="system_shortcuts_more_operation">Сведения</string>
     <string name="system_shortcuts_remove">Удалить</string>
     <string name="system_text">Автоматически</string>

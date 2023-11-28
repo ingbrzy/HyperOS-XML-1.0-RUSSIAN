@@ -744,6 +744,7 @@
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="charge_length_format">%1$s назад</string>
+    <string name="checkbox_do_not_show_again">Больше не показывать</string>
     <string name="china_mobile_palm_category">Сервисы оператора</string>
     <string name="china_mobile_palm_title">Онлайн-обслуживание CMCC</string>
     <string name="chip_text">Текст</string>
@@ -815,6 +816,7 @@
     <string name="close">Отключить</string>
     <string name="close_dialog">ОК</string>
     <string name="close_profile">Закрыть</string>
+    <string name="close_smart_dual_sim">Отмена</string>
     <string name="close_volte">Отключить VoLTE</string>
     <string name="cloud_antispam_title">Определение неизвестных номеров</string>
     <string name="cloud_sim_enabled_dual_4g_summary">Нельзя отключить Dual 4G при использовании Mi Роуминга</string>
@@ -1104,6 +1106,10 @@
     <string name="empty_alert">Поле \"%s\" должно быть заполнено.</string>
     <string name="empty_networks_list">Сети не найдены</string>
     <string name="enable">Включить</string>
+    <string name="enable_2g_dialog_title">Внимание</string>
+    <string name="enable_2g_dialog_warn_message">После отключения 2G будут недоступны вызовы в зонах, где есть только сеть 2G. Отключить?</string>
+    <string name="enable_2g_summary">Сети 2G менее безопасны, но могут обеспечивать лучшее качество связи в некоторых местах</string>
+    <string name="enable_2g_title">Разрешить использование 2G</string>
     <string name="enable_adb">Отладка по USB</string>
     <string name="enable_adb_summary">Включить режим отладки при подключении к ПК по USB</string>
     <string name="enable_adb_wireless">Беспроводная отладка</string>
@@ -1917,6 +1923,7 @@
     <string name="no_application">Нет</string>
     <string name="no_change">Номер не изменён</string>
     <string name="no_checked_network">Вы не сможете подключаться к мобильной сети и совершать вызовы. Выбрать другую сеть?</string>
+    <string name="no_ims_service_notification_content">Для решения этой проблемы обратитесь к поставщику услуг</string>
     <string name="no_internet_available">Для вызова через SIP, проверьте подключение к интернету.</string>
     <string name="no_mobile_data">Мобильный интернет недоступен</string>
     <string name="no_mobile_data_roaming">Интернет-роуминг недоступен</string>
@@ -1991,6 +1998,7 @@
     <string name="onscreenVideoCallText">Видеовызов</string>
     <string name="opconfig_info">Сведения OpConfig</string>
     <string name="open_miui">Включить</string>
+    <string name="open_smart_dual_sim">Включить</string>
     <string name="opened_dual_4g_confirm_prompt">Ваша SIM-карта поддерживает только 4G. Режим Dual 4G включён автоматически.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s поддерживает только 4G. Для нормальной работы вашей SIM-карты был включён режим Dual 4G.</string>
     <string name="operator">Оператор</string>
@@ -2327,6 +2335,7 @@
     <string name="prompt_to_suggest_no_call_service_notification_content">Вызовы не поддерживаются. Услуга VoLTE отключена для вашей SIM (China Telecom).</string>
     <string name="prompt_to_suggest_no_call_service_notification_content2">Вызовы не поддерживаются. Услуга VoLTE отключена для вашей SIM %d (China Telecom).</string>
     <string name="prompt_to_suggest_no_call_service_notification_title">Вызовы не поддерживаются</string>
+    <string name="prompt_to_suggest_no_ims_service_notification_title">Услуга VoLTE недоступна</string>
     <string name="prompt_to_suggest_to_open_volte_from_operator">Не удается осуществить вызов. Свяжитесь с China Telecom, чтобы включить услугу VoLTE.</string>
     <string name="prompt_to_suggest_to_open_volte_from_operator2">"SIM %d не поддерживает вызовы. Свяжитесь с China Telecom, чтобы включить услугу VoLTE."</string>
     <string name="prompt_to_turnoff_volte_when_failed">Услуги VoLTE недоступны. Для совершения вызова отключите VoLTE.</string>
@@ -2709,6 +2718,8 @@ UT-интерфейс: %5$s"</string>
     <string name="smart_dds_switch_summary">Разрешить модему умное переключение DDS</string>
     <string name="smart_divert_summary">Настройки CFNRc</string>
     <string name="smart_divert_title">Умное перенаправление</string>
+    <string name="smart_dual_sim_available_message">Включить функцию \"Умная двойная SIM-карта\" для улучшения качества видеозвонков?</string>
+    <string name="smart_dual_sim_available_title">Умная двойная SIM-карта</string>
     <string name="smart_dual_sim_prompt">При плохом мобильном интернете на основной SIM-карте, будет использоваться мобильный интернет дополнительной SIM-карты. Установите лимит трафика, чтобы избежать дополнительных расходов.</string>
     <string name="smart_dual_sim_prompt_ok">Настройки</string>
     <string name="smart_dual_sim_prompt_title">Мобильный интернет (SIM %s)</string>
@@ -3103,6 +3114,8 @@ UT-интерфейс: %5$s"</string>
     <string name="vm_change_pin_old_pin">Текущий PIN</string>
     <string name="vm_change_pin_progress_message">Подождите…</string>
     <string name="vm_changed">Номер голосовой почты изменён</string>
+    <string name="voice_link_switch_summary">Использовать SIM-карту для мобильного интернета для вызовов, когда нет подключения к интернету</string>
+    <string name="voice_link_switch_title">Вызовы с SIM-карты для интернета</string>
     <string name="voice_number_setting_primary_user_only">Настройки голосовой почты может изменить только основной пользователь</string>
     <string name="voice_privacy">Конфиденциальность</string>
     <string name="voice_privacy_summary">Включить усиленный режим конфиденциальности</string>
@@ -3143,6 +3156,8 @@ UT-интерфейс: %5$s"</string>
     <string name="volte_provision_text">Использование VoLTE улучшает качество вызовов. Отправить SMS для активации?</string>
     <string name="volte_provision_title">Активация VoLTE</string>
     <string name="volte_provisioned_switch_string">Обслуживание VoLTE</string>
+    <string name="volte_switch_globalization_prompt">Данная сотовая сеть не была проверена на работу VoLTE на этом устройстве. Включение этой функции может повлиять на время автономной работы, вызовы, сообщения, голосовую почту и использование мобильного интернета.</string>
+    <string name="volte_switch_globalization_prompt_title">Внимание</string>
     <string name="volte_switch_not_support_summary">Вызовы VoLTE не поддерживаются текущей SIM-картой</string>
     <string name="volte_switch_not_support_summary2">Вызовы VoLTE не поддерживаются оператором</string>
     <string name="volte_switch_summary">Использовать VoLTE для улучшения качества голосовых вызовов</string>

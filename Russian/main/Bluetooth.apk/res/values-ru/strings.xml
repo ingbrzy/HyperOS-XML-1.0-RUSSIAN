@@ -72,6 +72,9 @@
     <string name="bluetooth_sap_notif_ticker">Доступ к SIM-карте через Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Доступ к SIM-карте через Bluetooth</string>
     <string name="broadcast_notification_name">Статус трансляции</string>
+    <string name="bt_Auracast_audio_share_notification_content">Нажмите для просмотра вариантов</string>
+    <string name="bt_Auracast_audio_share_notification_title">Обмен аудио</string>
+    <string name="bt_audio_share_assistant_notification_title">Прослушивание радио поблизости</string>
     <string name="bt_audio_share_notification_content">Параметры</string>
     <string name="bt_audio_share_notification_title">Передача аудио</string>
     <string name="bt_enable_cancel">Отмена</string>
@@ -101,6 +104,7 @@
     <string name="call_notification_screening_text">Фильтрация входящего вызова</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
+    <string name="close_broadcast_audio">Остановить</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="defaultname">Автомобильный комплект</string>
@@ -164,6 +168,7 @@
     <string name="insert_record">Вставить запись</string>
     <string name="localPhoneName">Моё название</string>
     <string name="midnight">Ночь</string>
+    <string name="miheadset_close_broadcast_audio">Закрыть трансляцию</string>
     <string name="miui_transfer_history_title">История</string>
     <string name="miui_transfer_inbound_title">Входящие</string>
     <string name="miui_transfer_outbound_title">Исходящие</string>
@@ -241,6 +246,8 @@
     <string name="not_exist_file">Нет файла</string>
     <string name="not_exist_file_desc">"Файл не существует. 
 "</string>
+    <string name="notice_Auracast_audio_share_disconnected">Обмен аудио прекращён из-за прерывания соединения</string>
+    <string name="notice_audio_share_classic_disconnected">Обмен аудио прекращён</string>
     <string name="notice_audio_share_disconnected">Соединение прервано, передача аудио прекращена</string>
     <string name="notification_received">Получено по Bluetooth: %1$s</string>
     <string name="notification_received_fail">Файл не передан: %1$s</string>

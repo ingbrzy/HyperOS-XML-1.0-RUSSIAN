@@ -143,6 +143,10 @@
     <string name="device_type_pc">Компьютер</string>
     <string name="device_xiaomi">Mi Phone</string>
     <string name="dewdrops">Утренняя роса</string>
+    <string name="dialog_enable_mic_btn_negative">Отмена</string>
+    <string name="dialog_enable_mic_btn_positive">Включить</string>
+    <string name="dialog_enable_mic_message">Чтобы использовать эту функцию, необходимо включить микрофон</string>
+    <string name="dialog_enable_mic_title">Включение микрофона</string>
     <string name="digitaluniverse">Цифровая вселенная (стерео)</string>
     <string name="disable_nfc">NFC отключён для беспроводной зарядки</string>
     <string name="disable_nfc_haptic_reverse">NFC и вибрация отключены для обратной беспроводной зарядки</string>
@@ -244,6 +248,13 @@
     <string name="high_temperature_brightness_toast">Повышенная яркость экрана может привести к нагреву устройства и быстрому расходу заряда батареи</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
+    <string name="hovermode_text_confirm">Понятно</string>
+    <string name="hovermode_text_doubleclick">Нажмите дважды для паузы/воспроизведения</string>
+    <string name="hovermode_text_drag">Сдвиньте для увеличения</string>
+    <string name="hovermode_text_help">Помощь</string>
+    <string name="hovermode_text_left">Регулировка яркости</string>
+    <string name="hovermode_text_prompt">Когда включен режим наведения, используйте жесты в нижней части экрана. В разных приложениях могут быть различия.</string>
+    <string name="hovermode_text_right">Регулировка громкости</string>
     <string name="hs_guide_dialog_button_confirm">Понятно</string>
     <string name="hs_guide_dialog_message">Приложение не оптимизировано для нового альбомного режима, поэтому переключено в другой совместимый режим отображения</string>
     <string name="hs_guide_dialog_title">Внимание</string>
@@ -379,6 +390,7 @@
     <string name="miui_warning_button_cancel">Отмена</string>
     <string name="miui_warning_button_ok">ОК</string>
     <string name="miui_warning_tip_info">В приложении %1$s произошла ошибка. Закрыть его?</string>
+    <string name="miuivideo_activity" />
     <string name="mix">МИКС</string>
     <string name="moment">Мгновение</string>
     <string name="monet">Пруд с лилиями</string>
@@ -389,6 +401,7 @@
     <string name="mw_guide_dialog_message">Приложение не поддерживает разделение экрана, поэтому переключено в другой совместимый режим отображения</string>
     <string name="mw_guide_dialog_title">Внимание</string>
     <string name="nearby_share">Обмен с окружением</string>
+    <string name="no_avaliable_application">Нет доступных приложений</string>
     <string name="notice_audition">Звуки природы</string>
     <string name="notification_channel_hotspot">Уведомление точки доступа</string>
     <string name="notificationxylophone">Уведомление (ксилофон)</string>
@@ -411,6 +424,7 @@
     <string name="open_close_tip_action">Понятно</string>
     <string name="open_close_tip_content">Чтобы закрыть плавающее окно, проведите вверх от панели действий</string>
     <string name="open_miui_optimization">Включите оптимизацию MIUI</string>
+    <string name="open_system_optimization">Включите оптимизацию системы</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
     <string name="orange">Апельсин</string>
@@ -641,6 +655,12 @@
     <string name="tip_use_front_camera">"Сложите устройство, чтобы 
 использовать фронтальную камеру"</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
+    <string name="toast_mic_muted">Микрофон отключён</string>
+    <string name="toast_mic_unmuted">Микрофон включён</string>
+    <string name="tof_music_support_scene_des">Поддержка управления музыкальным плеером</string>
+    <string name="tof_office_support_scene_des">Поддержка документов Word и презентаций PowerPoint</string>
+    <string name="tof_short_video_support_scene_des">Поддержка переключения между видео</string>
+    <string name="tof_video_support_scene_des">Поддержка управления видеоплеером</string>
     <string name="total">Не беспокоить</string>
     <string name="total_description">Отключить звук и вибрацию для всего, кроме будильника</string>
     <string name="total_title">Не беспокоить</string>
@@ -674,6 +694,7 @@
     <string name="voice_button_action_up">Нажмите и говорите</string>
     <string name="voice_input_error_network">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
     <string name="voice_input_error_other">Произошла ошибка. Подождите немного и повторите попытку.</string>
+    <string name="wallpaper_geometrically_irregular_title">Абстрактная геометрия</string>
     <string name="wallpaper_group_black_gobi_title">Пески Гоби</string>
     <string name="wallpaper_group_black_white_title">Чёрное и белое</string>
     <string name="wallpaper_group_color_move_title">Жидкие цвета</string>
@@ -698,6 +719,10 @@
     <string name="wallpaper_group_red_mars_title">Марс</string>
     <string name="wallpaper_group_sgn_mountain_title">Гора Сигунян</string>
     <string name="wallpaper_group_shadow_geometry_title">Геометрия теней</string>
+    <string name="wallpaper_neon_title">Неон</string>
+    <string name="wallpaper_overlapping_space_title">Фигура и тень</string>
+    <string name="wallpaper_submerged_wing_title">Текстуры</string>
+    <string name="wallpaper_wabi_sabi_title">Ваби-саби</string>
     <string name="waterdrop_preview">Капли</string>
     <string name="wifi_assistant_wifi_no_internet">Сеть Wi-Fi без доступа в интернет</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Нажмите для просмотра.</string>

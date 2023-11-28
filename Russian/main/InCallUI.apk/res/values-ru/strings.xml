@@ -35,9 +35,12 @@
     <string name="ai_mode_auto">Авто</string>
     <string name="ai_mode_manual">Вручную</string>
     <string name="ai_mode_subtitles">Субтитры</string>
+    <string name="align_satellite_model_exit">Выход</string>
+    <string name="align_satellite_model_use">Начать</string>
     <string name="antifraud_center">Платформа предупреждения о мошенничестве</string>
     <string name="antifraud_center_incoming_prompt">Не пропустите ни одного вызова при использовании официальной платформы предупреждения о мошенничестве</string>
     <string name="antispam_local_marked">Отмечено локально</string>
+    <string name="antispam_notification_text">Нажмите, чтобы включить умные функции режима \"Не беспокоить\"</string>
     <string name="antispam_notification_title">Неизвестный номер</string>
     <string name="antispam_provider">Определено %s</string>
     <string name="bluetooth_permission_content">Системные разрешения обновлены. Разрешите приложению доступ к Bluetooth для просмотра списка устройств.</string>
@@ -219,6 +222,8 @@
     <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
+    <string name="focus_notification_on_call">Вызов…</string>
+    <string name="focus_notification_on_ringing">Входящий вызов</string>
     <string name="font_camera_tip">Сложите устройство, чтобы использовать фронтальную камеру</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
@@ -260,6 +265,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -368,11 +374,15 @@
     <string name="relay_cal_from_device_name">От %1$s</string>
     <string name="relay_call">Ретрансляция</string>
     <string name="relay_call_device_name">Подключённое устройство (%1$s)</string>
+    <string name="relay_call_unable_to_work">Невозможно использовать эту функцию для переадресованных вызовов</string>
     <string name="relay_deny_permission_msg">Для ретрансляции вызовов разрешите запись звука</string>
+    <string name="relay_device_local">Это устройство</string>
+    <string name="relay_device_type_pc">ПК</string>
     <string name="relay_grant_permissions_on_phone">Разрешите запись звука</string>
     <string name="relay_known">Понятно</string>
     <string name="relay_network_error">Ошибка сети</string>
     <string name="relay_network_error_msg">Вызовы недоступны из-за ошибки сети, переключитесь на основное устройство.</string>
+    <string name="relay_stop_recorder">Запись остановлена</string>
     <string name="remind_unlock_message">Устройство заблокировано. \"%s\" будет доступно после разблокировки. Разблокировать?</string>
     <string name="remind_unlock_screen_message">Для использования \"%s\" необходимо разблокировать устройство. Разблокировать?</string>
     <string name="respond_via_sms_custom_message">Свое сообщение</string>
@@ -386,6 +396,27 @@
     <string name="saf_permission_refused">Отсутствуют разрешения для записи вызовов</string>
     <string name="saf_permission_title">Предоставьте разрешения</string>
     <string name="saf_permission_use_this_folder">Использовать эту папку</string>
+    <string name="satellite_call_failed">Сигнал прерван. Повторите попытку.</string>
+    <string name="satellite_diable_earpiece">Невозможно использовать наушники для спутниковых вызовов</string>
+    <string name="satellite_dialog_button">Плавающее окно</string>
+    <string name="satellite_dialog_cancel">Отмена</string>
+    <string name="satellite_guide_down">"Наклоните устройство вниз,
+чтобы шарик оказался в синей области"</string>
+    <string name="satellite_guide_found">Спутник найден</string>
+    <string name="satellite_guide_left">"Наклоните устройство влево,
+чтобы шарик оказался в синей области"</string>
+    <string name="satellite_guide_right">"Наклоните устройство вправо,
+чтобы шарик оказался в синей области"</string>
+    <string name="satellite_guide_searching">Поиск спутника…</string>
+    <string name="satellite_guide_searching_floating">Поиск…</string>
+    <string name="satellite_guide_up">"Наклоните устройство вверх,
+чтобы шарик оказался в синей области"</string>
+    <string name="satellite_incall_tip">Динамик включен</string>
+    <string name="satellite_service_provider">Предоставлено China Telecom</string>
+    <string name="satellite_state">Не перемещайте устройство</string>
+    <string name="satellite_state_connected">Подключено к спутнику. Не перемещайте устройство</string>
+    <string name="satellite_state_connected_floating">Не перемещайте устройство</string>
+    <string name="satellite_state_connecting">Подключение… (%d сек.)</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
