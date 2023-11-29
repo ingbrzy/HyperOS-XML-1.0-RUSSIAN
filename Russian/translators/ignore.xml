@@ -4446,6 +4446,7 @@
     <string name="server_client_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
     <string name="service_client_name">%1$s</string>
     <string name="service_name">MiplayAudio</string>
+    <string name="service_name_qualcomm">com.qualcomm.qti.workloadclassifier</string>
     <string name="service_process_name">%1$s</string>
     <string name="set_exit_condition">set_exit_condition</string>
     <string name="set_primary">SetPrimary</string>

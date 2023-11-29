@@ -33,6 +33,8 @@
     <string name="activate_esim_tips">Не удалось активировать. Повторите попытку.</string>
     <string name="activating_esim_tips">Активация…</string>
     <string name="address_dialing_introduction">Это приложение можно использовать для вызовов, просмотра журнала вызовов и управления контактами.</string>
+    <string name="after_sales_support">Послепродажная поддержка</string>
+    <string name="after_sales_support_introduction">Этот сервис позволяет получить поддержку и помощь по приобретённым устройствам</string>
     <string name="afternoon">После полудня</string>
     <string name="agree">Принять</string>
     <string name="agree_and_next">Принять</string>
@@ -54,6 +56,7 @@
     <string name="app_name">Начальная настройка</string>
     <string name="application_package_introduction">Это приложение позволяет устанавливать сторонние приложения и проверяет их перед установкой.</string>
     <string name="application_permissions">Разрешения приложений</string>
+    <string name="authority_introduction">Менеджер разрешений – базовая служба, позволяющая управлять разрешениями приложений на этом устройстве</string>
     <string name="back">Назад</string>
     <string name="backup_introduction">Это приложение можно использовать для сохранения резервных копий на устройстве и восстановления из них.</string>
     <string name="bluetooth_introduction">Bluetooth используется системой для беспроводной связи. Для нормальной работы Bluetooth необходимы следующие разрешения:</string>
@@ -102,10 +105,12 @@
     <string name="data_traffic_enable_dialog_title">При отсутствии подключения к Wi-Fi, устройство будет использовать мобильный интернет. Это может привести к дополнительным тратам.</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
+    <string name="default_font">По умолчанию</string>
     <string name="desc_extra_fingerprint" />
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_fingerprint">Используйте отпечаток для разблокировки устройства, подтверждения платежей Mi Pay, а также входа в приложения и службы.</string>
     <string name="desc_international_fingerprint">Используйте отпечаток для разблокировки устройства, а также входа в приложения и службы.</string>
+    <string name="device_information_usage_desc">Этот сервис позволяет просматривать информацию об устройстве, подключать устройство к сетям, настраивать его функции</string>
     <string name="diagnose_report">Отправка диагностических данных для поиска и анализа системных проблем и улучшения работы. Данные могут включать личную информацию (например, IP, геопозиция и т. д.)</string>
     <string name="disageement_abnormal_download">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать этот сервис.</string>
     <string name="disagree">Отмена</string>
@@ -122,6 +127,7 @@
     <string name="disagreement_location_service_abnormal">В случае отказа предоставить эти разрешения, вы не сможете использовать геолокацию. Включить или отключить геолокацию можно в любое время в разделе Настройки > Геолокация.</string>
     <string name="disagreement_mi_account_abnormal">В случае отказа предоставить эти разрешения, вы не сможете использовать службы Xiaomi аккаунта. Включить или выключить эти службы можно в любое время в разделе Настройки > Xiaomi аккаунт.</string>
     <string name="disagreement_service_not_working_properly">В случае отказа предоставить эти разрешения, вы не сможете использовать это приложение.</string>
+    <string name="disagreement_service_not_working_properly_settings">В случае отказа предоставить эти разрешения, эта служба не сможет нормально работать.</string>
     <string name="disagreement_terminate_bluetooth">В случае отказа предоставить необходимые разрешения, вы не сможете использовать Bluetooth. Вы можете включать и отключать Bluetooth, а также добавлять устройства Bluetooth в Настройках.</string>
     <string name="disagreement_terminate_miuidaemon">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать этот сервис. В таком случае вы можете отказаться от использования этого сервиса или ограничить разрешения в настройках. Обратите внимание, что мы будем использовать разрешения при передаче данных с устройства, если его экран повреждён.</string>
     <string name="disagreement_terminate_service">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать это приложение. В таком случае вы можете удалить приложение, выйти из учётной записи или ограничить разрешения в настройках.</string>
@@ -158,12 +164,20 @@
     <string name="fmt_time_second_millis">"s.S'с'"</string>
     <string name="font_hint_large">По умолчанию</string>
     <string name="font_hint_normal">Увеличить</string>
+    <string name="font_settings_sub_title">Выбор системного шрифта</string>
+    <string name="font_settings_title">Настройки шрифта</string>
+    <string name="font_use_case_number_example">%1$d %2$d %3$d %4$d %5$d %6$d %7$d %8$d %9$d %10$d</string>
+    <string name="font_use_case_symbol_example">\@ # % &amp; * () _ + - =</string>
+    <string name="font_use_case_text_example">Текст</string>
+    <string name="font_use_case_title_example">Заголовок</string>
     <string name="framework_introduction">Mi Services Framework позволяет использовать Xiaomi аккаунт, Mi Push, Mi Stats и MIUI BI.</string>
     <string name="framwork_base_service">Для работы этих сервисов Mi Services Framework (Mi А, Mi Push, Mi Stats, MIUI BI) необходимо подключение к интернету, доступ к номеру телефона, IMEI и IMSI, разрешение устройству получать push-уведомления.</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="game_introduction">Плагин для игр позволяет вам входить в систему, создавать заказы, совершать платежи, использовать купоны и участвовать в рекламных акциях.</string>
+    <string name="get_imei_information">Доступ к IMEI</string>
+    <string name="get_imei_information_settings">Доступ к уникальному идентификатору устройства (IMEI)</string>
     <string name="google_service_introduction">Google Play для нормальной работы необходимо подключение к интернету, разрешение использовать геолокацию, отправлять SMS и MMS, записывать аудио, осуществлять вызовы, а также доступ к событиям календаря, истории вызовов, датчикам, хранилищу, камере, информации об устройстве и учётным записям.</string>
     <string name="home_settings_miui_home">Классический</string>
     <string name="home_settings_poco_launcher">Меню приложений</string>
@@ -207,6 +221,68 @@
 \u0009\u0009Для передачи аудиопотока на подключенные устройства во время трансляции
 В случае отказа предоставить необходимые разрешения, службы межсетевого взаимодействия Xiaomi будут недоступны.
 Функции могут меняться. Часть из перечисленных выше функций могут быть недоступны для некоторых моделей устройств или версий системы. Для проверки совместимости посетите www.miui.com"</string>
+    <string name="interconnection_service_summary_china">"Службы межсетевого взаимодействия Xiaomi позволяет устройствам взаимодействовать друг с другом по беспроводной связи и включают в себя Mi Smart Play, трансляцию, передачу приложений, Рабочий стол+, общий буфер обмена, захват изображений с разных устройств, сетевой помощник, общие клавиатуры и мыши, общую камеру и Mi Smart Hub. Для нормальной работы служб разрешите подключение кнтернету и предоставьте следующие разрешения:
+\u0009\u0009Mi Smart Play и трансляция:
+\u0009\u0009Включение и выключение Bluetooth
+\u0009\u0009Для поиска устройств поблизости и подключения по Bluetooth
+\u0009\u0009Включение и выключение Wi-Fi
+\u0009\u0009Для поиска устройств поблизости и передачи файлов по Wi-Fi
+\u0009\u0009Передача файлов на другие устройства
+\u0009\u0009Для установления Bluetooth-соединения между устройствами и передачи файлов
+\u0009\u0009Использование геолокации
+\u0009\u0009Для получения информации об устройствах поблизости
+\u0009\u0009Запись звука с внутреннего устройства
+\u0009\u0009Для передачи и воспроизведения звука между устройствами во время трансляции или зеркалирования
+\u0009\u0009Доступ к фото, видео и аудио на устройстве
+\u0009\u0009Для отправки и получения контента
+\u0009\u0009Доступ к MAC-адресу устройства
+\u0009\u0009Для распознавания подключенных устройств
+\u0009\u0009Доступ к содержимому экрана
+\u0009\u0009Для доступа к содержимому экрана во время записи или трансляции, включая приватную информацию, такую как аудио, пароли, фото, сообщения и т. д.
+\u0009\u0009Передача приложений and Рабочий стол+:
+\u0009\u0009Включение и выключение Bluetooth
+\u0009\u0009Для поиска устройств поблизости через Bluetooth
+\u0009\u0009Включение и выключение Wi-Fi
+\u0009\u0009Для поиска устройств поблизости и передачи файлов по Wi-Fi
+\u0009\u0009Доступ к MAC-адресу устройства
+\u0009\u0009Для распознавания подключенных устройств
+\u0009\u0009Доступ к фото, видео и аудио на устройстве
+\u0009\u0009Для отправки и получения контента
+\u0009\u0009Передача файлов на другие устройства
+\u0009\u0009Для установления Bluetooth-соединения между устройствами и передачи файлов
+\u0009\u0009Запись звука с внутреннего устройства
+\u0009\u0009Для передачи и воспроизведения звука между устройствами во время трансляции или зеркалирования
+\u0009\u0009Доступ к содержимому экрана
+\u0009\u0009Для доступа к содержимому экрана во время записи или трансляции, включая приватную информацию, такую как аудио, пароли, фото, сообщения и т. д.
+\u0009\u0009Общий буфер обмена и захват изображений с разных устройств:
+\u0009\u0009Включение и выключение Bluetooth
+\u0009\u0009Для поиска устройств поблизости через Bluetooth
+\u0009\u0009Включение и выключение Wi-Fi
+\u0009\u0009Для поиска устройств поблизости и передачи файлов по Wi-Fi
+\u0009\u0009Доступ к фото, видео и аудио на устройстве
+\u0009\u0009Для отправки и получения контента
+\u0009\u0009Доступ к буферу обмена
+\u0009\u0009Для доступа приложениям к скопированному контенту
+\u0009\u0009Сетевой помощник, общие клавиатуры и мыши, общая камера:
+\u0009\u0009Включение и выключение Bluetooth
+\u0009\u0009Для поиска устройств поблизости через Bluetooth
+\u0009\u0009Включение и выключение Wi-Fi
+\u0009\u0009Для поиска устройств поблизости и передачи файлов по Wi-Fi
+\u0009\u0009Доступ к фото, видео и аудио на устройстве
+\u0009\u0009Для отправки и получения контента
+\u0009\u0009Доступ к камере
+\u0009\u0009Для съёмки фото и видео
+\u0009\u0009Mi Smart Hub:
+\u0009\u0009Включение и выключение Bluetooth
+\u0009\u0009Для поиска устройств поблизости через Bluetooth
+\u0009\u0009Включение и выключение Wi-Fi
+\u0009\u0009Для поиска устройств поблизости и передачи файлов по Wi-Fi
+\u0009\u0009Запись звука с внутреннего устройства
+\u0009\u0009Для передачи и воспроизведения звука между устройствами во время трансляции или зеркалирования
+\u0009\u0009Доступ к фото, видео и аудио на устройстве
+\u0009\u0009Для отправки и получения контента
+В случае отказа предоставить необходимые разрешения, вы не сможете использовать эти службы.
+Доступные службы могут различаться в зависимости от версии системы и модели устройства. Подробнее на %s."</string>
     <string name="interconnection_service_title">Службы межсетевого взаимодействия Xiaomi</string>
     <string name="item_contents_wwarning">В случае потери устройства и отсутствия блокировки, устройство и ваши личные данные будут доступны другим людям. Все равно пропустить?</string>
     <string name="item_facerecognition">Разблокировка по лицу</string>
@@ -237,6 +313,7 @@
     <string name="miui14_start_up_slogan">На старт. Внимание. Вперёд.</string>
     <string name="miui_privacy_policy_no_network">Нет подключения к интернету. Ознакомьтесь с Политикой конфиденциальности на %s.</string>
     <string name="miui_provision">Первоначальная настройка</string>
+    <string name="miui_settings">Настройки</string>
     <string name="miui_terms_no_network">Нет подключения к интернету. Ознакомьтесь с Пользовательским соглашением на %s.</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
@@ -326,6 +403,7 @@
     <string name="noon">Полдень</string>
     <string name="not_set">Не задано</string>
     <string name="note_introduction">Это приложение позволяет создавать, просматривать и редактировать заметки.</string>
+    <string name="official_website_real">hyperos.mi.com</string>
     <string name="other_settings">Дополнительные настройки</string>
     <string name="other_settings_ad_dialog_agree">Включить</string>
     <string name="other_settings_ad_dialog_content">После отключения персонализированной рекламы, вы по-прежнему будете видеть то же количество рекламы, но она будет не столь релевантной, поскольку не будет основываться на ваших предпочтениях.</string>
@@ -368,6 +446,8 @@
     <string name="permission_account">Доступ к аккаунтам на устройстве</string>
     <string name="permission_account_introduction">Для входа в Xiaomi аккаунт</string>
     <string name="permission_application_package_introduction">Для доступа к хранилищу для анализа и сканирования установочных пакетов</string>
+    <string name="permission_authority_describe">Доступ к списку приложений на устройстве</string>
+    <string name="permission_authority_describe_applist_summary">Для управления разрешениями приложений</string>
     <string name="permission_backup">Доступ к хранилищу</string>
     <string name="permission_backup_introduction">Для управления резервными копиями на устройстве</string>
     <string name="permission_call_records">Доступ к журналу вызовов</string>
@@ -394,6 +474,8 @@
     <string name="permission_download_introduction">Для кэширования загруженных элементов и сохранения на устройстве</string>
     <string name="permission_enable_disable_bluetooth_summary">Для поиска устройств поблизости, для подключения и передачи данных</string>
     <string name="permission_fast_pairing">Для поиска устройств поблизости, Mi Link требуются подключение к интернету и следующие разрешения:</string>
+    <string name="permission_get_imei_information_summary">Для определения времени активации устройства</string>
+    <string name="permission_get_imei_information_summary_settings">Для отображения информации об устройстве и технических характеристиках</string>
     <string name="permission_imei_service">Для доступа к IMEI для предоставления сервисов, связанных с устройством</string>
     <string name="permission_interaction_introduction">Для сохранения фото и видео на устройство</string>
     <string name="permission_location">Использование геолокации</string>
@@ -409,6 +491,8 @@
     <string name="permission_make_a_call">Вызовы</string>
     <string name="permission_make_a_call_fast_application_summary">Для совершения вызовов Быстрыми приложениями;</string>
     <string name="permission_message_introduction">Для отправки сообщений заблокированным контактам</string>
+    <string name="permission_number">Доступ к номеру телефона</string>
+    <string name="permission_number_introduction">Для установления Bluetooth-соединения с автомобильными системами и наушниками</string>
     <string name="permission_phone_imei_device">Для доступа к IMEI для идентификации устройств</string>
     <string name="permission_phone_network">Для доступа к типу сетей для оптимизации и настройки загрузок</string>
     <string name="permission_phone_service">Доступ к номеру телефона, IMEI и IMSI:</string>
@@ -416,6 +500,8 @@
     <string name="permission_photo_video">Доступ к камере</string>
     <string name="permission_photo_video_introduction">Для съёмки фото и видео, для использования вспышки</string>
     <string name="permission_picture_introduction">Для сохранения, редактирования и синхронизации фото и видео</string>
+    <string name="permission_qualcomm_describe_summary">Для динамического распределения системных ресурсов между различными приложениями и организации их рабочих процессов</string>
+    <string name="permission_quality_describe_summary">Для сбора информации о сбоях приложений</string>
     <string name="permission_read_app_list">Доступ к списку приложений на устройстве</string>
     <string name="permission_read_application_list_summary">Для обновления загруженных приложений и получения информации о приложениях установщиком пакетов;</string>
     <string name="permission_read_call_records">Редактирование журнала вызовов</string>
@@ -453,6 +539,10 @@
     <string name="permission_recording_introduction">Для записи звука во время съёмки видео</string>
     <string name="permission_screen_shoot_introduction">Для управления записями экрана</string>
     <string name="permission_send_message">Отправлять SMS:</string>
+    <string name="permission_uniquely_identifiable_information">Доступ к уникальным идентификаторам этого устройства</string>
+    <string name="permission_uniquely_identifiable_information_summary">Доступ к MAC-адресу и OAID устройства для обнаружения, подключения и связи с другими устройствами.</string>
+    <string name="permission_use_bluetooth">Использование Bluetooth</string>
+    <string name="permission_use_bluetooth_summary">Для обнаружения, подключения и связи с устройствами поблизости</string>
     <string name="permission_use_camera">Доступ к камере</string>
     <string name="permission_use_camera_camera_summary">Для съёмки фото и видео, использования вспышки;</string>
     <string name="permission_use_camera_desktop_summary">Для определения поддержки функции фонарика;</string>
@@ -462,11 +552,14 @@
     <string name="permission_use_microphone_camera_summary">Для записи звука во время съёмки видео;</string>
     <string name="permission_use_microphone_desktop_summary">Для отображения статуса записи.</string>
     <string name="permission_use_microphone_fast_application_summary">Для доступа Быстрых приложений к микрофону;</string>
+    <string name="permission_use_wlan">Использование Wi-Fi</string>
+    <string name="permission_use_wlan_summary">Для обнаружения, подключения и связи с устройствами поблизости</string>
     <string name="permission_user_record_introduction">Для записи аудио</string>
     <string name="permission_virusscan_introduction">Для проверки на вирусы и оптимизации устройства</string>
     <string name="permission_write_device_store">Для сохранения файлов в хранилище устройства</string>
     <string name="permission_write_device_store_summary">Для кеширования загруженных файлов конфигурации</string>
     <string name="permission_xunlei_introduction">Для входа в учётные записи и управления ими для предоставления сервисов Xunlei</string>
+    <string name="phone_service_introduction">Телефония - это базовая служба, позволяющая делать вызовы, отправлять и получать сообщения, подключаться к сети.</string>
     <string name="poco_agree_terms_other">(Включая Политику конфиденциальности и Условия использования POCO Launcher)</string>
     <string name="poco_launcher_privacy_policy">Политика конфиденциальности POCO Launcher</string>
     <string name="poco_launcher_user_agreement">Пользовательское соглашение POCO Launcher</string>
@@ -492,14 +585,21 @@
     <string name="provision_inputmethod_policy_description1">Политика конфиденциальности</string>
     <string name="provision_next">Далее</string>
     <string name="provision_skip_underline">Пропустить</string>
+    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier - служба, управляющая системными процессами</string>
+    <string name="recommend_font">MiSans</string>
+    <string name="recommended_font_mark">Рекомендуется</string>
     <string name="recorder_introduction">Это приложение можно использовать для записи аудио и резервного копирования записей в облако.</string>
     <string name="refuse_cookie">Отклонить файлы cookie</string>
     <string name="require_authority_list_statement">Для нормальной работы этой службе требуются следующие разрешения:</string>
-    <string name="require_authority_statement">Для возможности предоставления основных сервисов, требуются следующие разрешения для сбора Вашей личной информации:</string>
-    <string name="require_miuidaemon_authority_statement">Для возможности предоставления сервисов, требуются следующие разрешения для сбора вашей личной информации:</string>
-    <string name="require_network_and_authority_statement">Для нормальной работы, этой службе требуются подключение к интернету и следующие разрешения:</string>
-    <string name="require_network_authority_statement">Для обеспечения основных сервисов, требуются подключение к интернету и следующие разрешения для сбора вашей личной информации:</string>
-    <string name="require_network_authority_statement_dual">Для нормальной работы, этой службе требуются подключение к интернету и следующие разрешения:</string>
+    <string name="require_authority_statement">Для работы основных служб необходимы следующие разрешения для сбора Вашей личной информации:</string>
+    <string name="require_base_authority_statement">"Для работы основных служб необходимы следующие разрешения:
+\u0009\u0009\u0009Доступ к IMEI и IMSI"</string>
+    <string name="require_basic_applist_and_authority_statement">Для работы основных служб необходимы следующие разрешения:</string>
+    <string name="require_device_information_statement">Для работы основных служб необходимы следующие разрешения:</string>
+    <string name="require_miuidaemon_authority_statement">Для работы основных служб необходимы следующие разрешения для сбора вашей личной информации:</string>
+    <string name="require_network_and_authority_statement">Для нормальной работы, этой службе необходимы подключение к интернету и следующие разрешения:</string>
+    <string name="require_network_authority_statement">Для работы основных служб необходимы подключение к интернету и следующие разрешения для сбора вашей личной информации:</string>
+    <string name="require_network_authority_statement_dual">Для нормальной работы этой службы необходимы подключение к интернету и следующие разрешения:</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -507,6 +607,7 @@
     <string name="search_menu_title">Поиск</string>
     <string name="security_introduction">Это приложение можно использовать для очистки мусора на устройстве, поиска и удаления вирусов, оптимизации производительности для игр, экономии заряда, управления приложениями и разрешениями, и многого другого.</string>
     <string name="security_mobile_account_introduction">Для входа в учётные записи и управления ими</string>
+    <string name="select_font_modele_tips">Новые шрифты можно выбрать в приложении Темы</string>
     <string name="send">Отправить</string>
     <string name="service_agreement">Я принимаю условия и положения.</string>
     <string name="service_company_adjust_content">Пользовательское соглашение сетевых служб Xunlei</string>
@@ -518,6 +619,7 @@
     <string name="service_name_address_dialing">Контакты и телефон</string>
     <string name="service_name_album">Галерея</string>
     <string name="service_name_application_package">Установщик пакетов</string>
+    <string name="service_name_authority">Менеджер разрешений</string>
     <string name="service_name_backup">Резервное копирование</string>
     <string name="service_name_bluetooth">Bluetooth</string>
     <string name="service_name_calculator">Калькулятор</string>
@@ -536,6 +638,7 @@
     <string name="service_name_lockscreen">Карусель обоев</string>
     <string name="service_name_message">Сообщения</string>
     <string name="service_name_note">Заметки</string>
+    <string name="service_name_phone_service">Телефония</string>
     <string name="service_name_recorder">Диктофон</string>
     <string name="service_name_screen_recording">Запись экрана</string>
     <string name="service_name_security">Безопасность</string>
@@ -608,8 +711,10 @@
     <string name="sunday_shortest">Вс</string>
     <string name="switch_network">Переключение сети</string>
     <string name="system_navigation_mode">Способ навигации</string>
+    <string name="system_update_statement">Для обновления системы нам необходимы следующие данные: IMEI устройства, IMSI устройства, идентификаторы устройства (OAID и зашифрованный Android ID), аккаунт Xiaomi, производитель устройства, модель устройства, оператор сети, память устройства, версия ОС, регион, язык, возможности подключения, тип сети и IP-адрес.</string>
+    <string name="system_update_title">Обновления системы</string>
     <string name="systemdesktop_introduction">Плагин службы Рабочего стола предоставляет такие функции, как Рабочий стол, системный пользовательский интерфейс и скриншоты.</string>
-    <string name="term_condition_detail">Получайте ежедневно потрясающие изображения и захватывающие истории на экран блокировки. Эта функция не будет использовать ваши данные для персонализации без вашего согласия. Перед использованием этой функции, прочтите и примите &lt;a href =%1$s>Политику конфиденциальности&lt;/a> и &lt;a href =%2$s>Пользовательское соглашение&lt;/a> стороннего поставщика контента.</string>
+    <string name="term_condition_detail">Получайте ежедневно потрясающие изображения и захватывающие истории на экран блокировки. Эта функция не будет использовать ваши данные для персонализации без вашего согласия. Перед использованием этой функции, прочтите и примите &lt;a href =\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href =\"%2$s\">Пользовательское соглашение&lt;/a> стороннего поставщика контента.</string>
     <string name="terms_of_use">Условия использования</string>
     <string name="terms_of_use_ble_htmlViewer">, поставщик геолокации, средство просмотра HTML</string>
     <string name="terms_of_use_label">"Ваша конфиденциальность очень важна для нас. Прочитайте наши Условия использования и Политику конфиденциальности, чтобы понять, какую информацию мы собираем, как мы её используем и какие варианты доступны для Вас.
@@ -644,16 +749,18 @@
     <string name="terms_of_use_label_power_detection">Контроль батареи</string>
     <string name="terms_of_use_label_power_performance">Батарея и производительность</string>
     <string name="terms_of_use_label_quickapp">Быстрые приложения</string>
+    <string name="terms_of_use_label_remote_provisioner">RemoteProvisioner</string>
     <string name="terms_of_use_label_secure">Secure Element Application</string>
     <string name="terms_of_use_label_simcard">Сервис активации Mi SIM</string>
     <string name="terms_of_use_label_smart_service">умные сервисы</string>
     <string name="terms_of_use_label_statistics">Статистика</string>
+    <string name="terms_of_use_label_system_quality_monitoring">Мониторинг качества системы</string>
     <string name="terms_of_use_label_systemhelper">Саморегистрируемые сервисы</string>
     <string name="terms_of_use_label_translation">Сервис перевода</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (версия Xiaomi)</string>
     <string name="terms_of_use_label_updater">Служба обновления системы (проверяет наличие обновлений онлайн и уведомляет о новых версиях)</string>
     <string name="terms_of_use_label_use_location_and_network_global">Перед использованием MIUI Вы должны согласиться с нашими Пользовательским соглашением и Политикой конфиденциальности. Мы будем защищать вашу личную информацию в соответствии с действующими законами, правилами и политикой конфиденциальности. При активации устройства, следующие службы подключатся к сети и будут использовать геолокацию:</string>
-    <string name="terms_of_use_label_use_network_china">Перед использованием MIUI Вы должны согласиться с нашим Пользовательским соглашением и Политикой конфиденциальности.  Мы будем защищать вашу личную информацию в соответствии с действующими законами, правилами и политикой конфиденциальности. При активации устройства, следующие службы подключатся к сети:</string>
+    <string name="terms_of_use_label_use_network_china">Перед использованием MIUI Вы должны согласиться с нашим Пользовательским соглашением и Политикой конфиденциальности. Мы будем защищать вашу личную информацию в соответствии с действующими законами, правилами и политикой конфиденциальности. При активации устройства, следующие службы подключатся к сети:</string>
     <string name="terms_of_use_label_wallpaper">Обои</string>
     <string name="terms_of_use_lable_apps">Сервисы Mi, Сервис активации Mi SIM, Xiaomi Cloud, Поиск устройства, Рабочий стол, Игровой центр, MAB, MIUI Daemon и системные компоненты MSA, сервисы перевода, MIUI SDK, Быстрые приложения, Ассистент, статистика, Mi Link</string>
     <string name="terms_of_use_lable_apps_wifi_device">Сервисы Mi, Xiaomi Cloud, Поиск устройства, Рабочий стол, Игровой центр, MAB, MIUI Daemon и системные компоненты MSA, сервисы перевода, MIUI SDK, Быстрые приложения, Ассистент, статистика, Mi Link</string>
