@@ -5762,7 +5762,7 @@ ID: %s
     <string name="location_scanning_screen_title">Поиск</string>
     <string name="location_scanning_wifi_always_scanning_description">Разрешить приложениям и сервисам искать сети Wi-Fi, даже когда Wi-Fi отключён. Это может улучшить работу функций и сервисов, использующих данные о местоположении.</string>
     <string name="location_scanning_wifi_always_scanning_title">Поиск сетей Wi-Fi</string>
-    <string name="location_services_preference_title">Сервисы геолокации</string>
+    <string name="location_services_preference_title">Службы геолокации</string>
     <string name="location_services_screen_title">Геолокация</string>
     <string name="location_settings_footer_general">Приложения с доступом к устройствам поблизости могут определять относительное местоположение подключённых устройств</string>
     <string name="location_settings_footer_learn_more_content_description">Подробнее о настройках местоположения…</string>
@@ -6148,9 +6148,9 @@ ID: %s
     <string name="low_dc_light_title">Устранение мерцания при низкой освещенности</string>
     <string name="low_label">Низкая</string>
     <string name="low_storage_summary">Заканчивается свободное место. Занято: %1$s, свободно: %2$s</string>
-    <string name="lyra_account_ap_summary">Разрешить планшетам и ПК поблизости, связанных с вашим аккаунтом Xiaomi, включать точку доступа на этом устройстве и подключаться к ней</string>
-    <string name="lyra_account_ap_title">Помощь в работе с сетями</string>
-    <string name="lyra_auto_connect_summary">Автоматическое включение точки доступа и подключение к ней устройств поблизости, если они не подключены к сети</string>
+    <string name="lyra_account_ap_summary">Разрешить планшетам и ПК поблизости, связанных с этим аккаунтом Xiaomi, включать точку доступа на этом устройстве и подключаться к ней</string>
+    <string name="lyra_account_ap_title">Сетевой помощник</string>
+    <string name="lyra_auto_connect_summary">Автоматическое включение точки доступа и подключение к ней устройств поблизости, связанных с этим аккаунтом Xiaomi, если они не подключены к сети</string>
     <string name="lyra_auto_connect_title">Автовключение точки доступа</string>
     <string name="macaddr_label">MAC-адрес:</string>
     <string name="magic_list_empty_text">Нет приложений, поддерживающих разделение экрана</string>

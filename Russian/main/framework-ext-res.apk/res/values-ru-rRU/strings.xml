@@ -412,7 +412,7 @@
     <string name="nps_close_blur_location">Включить точную геолокацию</string>
     <string name="nps_close_mock_location">Отключить фиктивные геоданные</string>
     <string name="nps_description">Уведомление о статусе GPS</string>
-    <string name="nps_location_service_unavailable">Сервис геолокации недоступен</string>
+    <string name="nps_location_service_unavailable">Служба геолокации недоступна</string>
     <string name="nps_mock_description">Фиктивная геопозиция, для восстановления требуется перезагрузка</string>
     <string name="nps_monitor_name">Геолокация по GPS</string>
     <string name="nps_noise_description">Плохой сигнал GPS</string>

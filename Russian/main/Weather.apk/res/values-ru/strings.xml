@@ -312,7 +312,7 @@
     <string name="hourly_forecast_title_24_hours_desc">Прогноз на 24 часа</string>
     <string name="hourly_forecast_title_hourly_desc">Почасовой прогноз</string>
     <string name="incognito_mode_dialog_confirm_text">Отключить</string>
-    <string name="incognito_mode_dialog_summary">Включён режим инкогнито. Сервисы геолокации недоступны.</string>
+    <string name="incognito_mode_dialog_summary">Включён режим инкогнито. Службы геолокации недоступны.</string>
     <string name="incognito_mode_dialog_title">Режим инкогнито</string>
     <string name="index_item_download_cancel">Отменить</string>
     <string name="index_item_download_pause">Возобновить</string>
