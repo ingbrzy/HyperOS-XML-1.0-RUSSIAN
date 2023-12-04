@@ -693,8 +693,10 @@
     <string name="voice_button_action_down">Отпустите для поиска</string>
     <string name="voice_button_action_up">Нажмите и говорите</string>
     <string name="voice_input_error_network">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
-    <string name="voice_input_error_other">Произошла ошибка. Подождите немного и повторите попытку.</string>
+    <string name="voice_input_error_other">Произошла ошибка. Повторите попытку позже.</string>
+    <string name="wallpaper_floral_arrangement_title">Цветочная композиция</string>
     <string name="wallpaper_geometrically_irregular_title">Абстрактная геометрия</string>
+    <string name="wallpaper_gradient_title">Градиент</string>	
     <string name="wallpaper_group_black_gobi_title">Пески Гоби</string>
     <string name="wallpaper_group_black_white_title">Чёрное и белое</string>
     <string name="wallpaper_group_color_move_title">Жидкие цвета</string>
