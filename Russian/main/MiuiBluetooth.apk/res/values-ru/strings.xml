@@ -591,14 +591,14 @@
     <string name="local_backup_password_toast_confirmation_mismatch">Пароли не совпадают</string>
     <string name="local_backup_password_toast_success">Новый пароль для резервных копий задан</string>
     <string name="local_backup_password_toast_validation_failure">Не удалось задать пароль для резервных копий</string>
-    <string name="lyra_account_ap_summary">Разрешить планшетам и ПК поблизости, связанных с этим аккаунтом Xiaomi, включать точку доступа на этом устройстве и подключаться к ней</string>
+    <string name="lyra_account_ap_summary">Разрешить планшетам и ПК поблизости, связанным с этим аккаунтом Xiaomi, включать точку доступа на этом устройстве и подключаться к ней</string>
     <string name="lyra_account_ap_title">Сетевой помощник</string>
     <string name="lyra_auto_connect_cancel">Отмена</string>
-    <string name="lyra_auto_connect_check_box">Автоматически подключать устройства, связанных с этим аккаунтом Xiaomi (эту функцию можно отключить в Настройках)</string>
+    <string name="lyra_auto_connect_check_box">Автоматически подключать устройства, связанные с этим аккаунтом Xiaomi (эту функцию можно отключить в Настройках)</string>
     <string name="lyra_auto_connect_confirm">Подключить</string>
     <string name="lyra_auto_connect_header">Точка доступа %1$s</string>
     <string name="lyra_auto_connect_msg">Это устройство не подключено к сети. Для него доступно подключение к этой точке доступа.</string>
-    <string name="lyra_auto_connect_summary">Автоматическое включение точки доступа и подключение к ней устройств поблизости, связанных с этим аккаунтом Xiaomi, если они не подключены к сети</string>
+    <string name="lyra_auto_connect_summary">Автоматически включать точку доступа и подключать к ней близлежащие устройства, связанные с этим аккаунтом Xiaomi, если они не подключены к сети</string>
     <string name="lyra_auto_connect_title">Автовключение точки доступа</string>
     <string name="managed_user_title">Корпоративные приложения</string>
     <string name="material_clock_display_divider">:</string>
