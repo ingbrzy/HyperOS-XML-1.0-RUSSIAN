@@ -250,8 +250,8 @@
         <item quantity="one">Оценка производительности устройства ниже %d балла. Оптимизировать?</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
-        <item quantity="other">Быстрая перемотка вперед на %d сек.</item>
-        <item quantity="one">Быстрая перемотка вперед на %d сек.</item>
+        <item quantity="other">Быстрая перемотка вперёд на %d сек.</item>
+        <item quantity="one">Быстрая перемотка вперёд на %d сек.</item>
     </plurals>
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Перемотка назад на %d сек.</item>
@@ -738,6 +738,11 @@
         <item quantity="other">" мин."</item>
         <item quantity="one">" мин."</item>
     </plurals>
+    <plurals name="pc_can_be_optimize_numbers">
+        <item quantity="other">%d элементов</item>
+        <item quantity="one">%d элемент</item>
+        <item quantity="few">%d элемента</item>
+    </plurals>
     <plurals name="pc_extreme_mode_count_down_title">
         <item quantity="other">Устройство разряжено. Переход в режим гибернации через %1$d сек.</item>
         <item quantity="one">Устройство разряжено. Переход в режим гибернации через %1$d сек.</item>
@@ -808,6 +813,366 @@
     <plurals name="people_million">
         <item quantity="other">Загрузок: %1$d</item>
         <item quantity="one">Загрузок: %1$d</item>
+    </plurals>
+    <plurals name="permission_usage_allow_activity_recognization">
+        <item quantity="other">%1$s | Доступ к данным активности: %2$d раз</item>
+        <item quantity="one">%1$s | Доступ к данным активности: %2$d раз</item>
+        <item quantity="few">%1$s | Доступ к данным активности: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_autostart">
+        <item quantity="other">%1$s | Автозапуск: %2$d раз</item>
+        <item quantity="one">%1$s | Автозапуск: %2$d раз</item>
+        <item quantity="few">%1$s | Автозапуск: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_body_sensor">
+        <item quantity="other">%1$s | Доступ к нательным датчикам: %2$d раз</item>
+        <item quantity="one">%1$s | Доступ к нательным датчикам: %2$d раз</item>
+        <item quantity="few">%1$s | Доступ к нательным датчикам: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_call_phone">
+        <item quantity="other">%1$s | Совершение вызовов: %2$d раз</item>
+        <item quantity="one">%1$s | Совершение вызовов: %2$d раз</item>
+        <item quantity="few">%1$s | Совершение вызовов: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_camera">
+        <item quantity="other">%1$s | Доступ к камере: %2$d раз</item>
+        <item quantity="one">%1$s | Доступ к камере: %2$d раз</item>
+        <item quantity="few">%1$s | Доступ к камере: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_clipboard">
+        <item quantity="other">%1$s | Доступ к буферу обмена: %2$d раз</item>
+        <item quantity="one">%1$s | Доступ к буферу обмена: %2$d раз</item>
+        <item quantity="few">%1$s | Доступ к буферу обмена: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_delete_pic">
+        <item quantity="other">%1$s | Удаление файлов из Галереи: %2$d раз</item>
+        <item quantity="one">%1$s | Удаление файлов из Галереи: %2$d раз</item>
+        <item quantity="few">%1$s | Удаление файлов из Галереи: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_device_sensor">
+        <item quantity="other">%1$s | Доступ к датчикам устройства: %2$d раз</item>
+        <item quantity="one">%1$s | Доступ к датчикам устройства: %2$d раз</item>
+        <item quantity="few">%1$s | Доступ к датчикам устройства: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_files">
+        <item quantity="other">%1$s | Доступ к файлам и документам: %2$d раз</item>
+        <item quantity="one">%1$s | Доступ к файлам и документам: %2$d раз</item>
+        <item quantity="few">%1$s | Доступ к файлам и документам: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_get_installed">
+        <item quantity="other">%1$s | Доступ к списку приложений на устройстве: %2$d раз</item>
+        <item quantity="one">%1$s | Доступ к списку приложений на устройстве: %2$d раз</item>
+        <item quantity="few">%1$s | Доступ к списку приложений на устройстве: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_get_number">
+        <item quantity="other">%1$s | Получение информации о телефоне: %2$d раз</item>
+        <item quantity="one">%1$s | Получение информации о телефоне: %2$d раз</item>
+        <item quantity="few">%1$s | Получение информации о телефоне: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_get_sms">
+        <item quantity="other">%1$s | Чтение SMS: %2$d раз</item>
+        <item quantity="one">%1$s | Чтение SMS: %2$d раз</item>
+        <item quantity="few">%1$s | Чтение SMS: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_location">
+        <item quantity="other">%1$s | Получение геопозиции: %2$d раз</item>
+        <item quantity="one">%1$s | Получение геопозиции: %2$d раз</item>
+        <item quantity="few">%1$s | Получение геопозиции: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_media_aural">
+        <item quantity="other">%1$s | Доступ к аудиофайлам: %2$d раз</item>
+        <item quantity="one">%1$s | Доступ к аудиофайлам: %2$d раз</item>
+        <item quantity="few">%1$s | Доступ к аудиофайлам: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_media_visual">
+        <item quantity="other">%1$s | Доступ к фото и видео: %2$d раз</item>
+        <item quantity="one">%1$s | Доступ к фото и видео: %2$d раз</item>
+        <item quantity="few">%1$s | Доступ к фото и видео: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_media_volume">
+        <item quantity="other">%1$s | Изменение громкости медиа: %2$d раз</item>
+        <item quantity="one">%1$s | Изменение громкости медиа: %2$d раз</item>
+        <item quantity="few">%1$s | Изменение громкости медиа: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_mic">
+        <item quantity="other">%1$s | Доступ к микрофону: %2$d раз</item>
+        <item quantity="one">%1$s | Доступ к микрофону: %2$d раз</item>
+        <item quantity="few">%1$s | Доступ к микрофону: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_nearby_device">
+        <item quantity="other">%1$s | Доступ к списку устройств поблизости: %2$d раз</item>
+        <item quantity="one">%1$s | Доступ к списку устройств поблизости: %2$d раз</item>
+        <item quantity="few">%1$s | Доступ к списку устройств поблизости: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_perm">
+        <item quantity="other">%1$s | Получение доступа: %2$d раз</item>
+        <item quantity="one">%1$s | Получение доступа: %2$d раз</item>
+        <item quantity="few">%1$s | Получение доступа: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_phone_state">
+        <item quantity="other">%1$s | Получение состояния вызова: %2$d раз</item>
+        <item quantity="one">%1$s | Получение состояния вызова: %2$d раз</item>
+        <item quantity="few">%1$s | Получение состояния вызова: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_r_calendar">
+        <item quantity="other">%1$s | Доступ к календарю: %2$d раз</item>
+        <item quantity="one">%1$s | Доступ к календарю: %2$d раз</item>
+        <item quantity="few">%1$s | Доступ к календарю: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_r_calllog">
+        <item quantity="other">%1$s | Доступ к журналу вызовов: %2$d раз</item>
+        <item quantity="one">%1$s | Доступ к журналу вызовов: %2$d раз</item>
+        <item quantity="few">%1$s | Доступ к журналу вызовов: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_r_contacts">
+        <item quantity="other">%1$s | Доступ к контактам: %2$d раз</item>
+        <item quantity="one">%1$s | Доступ к контактам: %2$d раз</item>
+        <item quantity="few">%1$s | Доступ к контактам: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_receive_sms">
+        <item quantity="other">%1$s | Получение SMS: %2$d раз</item>
+        <item quantity="one">%1$s | Получение SMS: %2$d раз</item>
+        <item quantity="few">%1$s | Получение SMS: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_send_sms">
+        <item quantity="other">%1$s | Отправка SMS: %2$d раз</item>
+        <item quantity="one">%1$s | Отправка SMS: %2$d раз</item>
+        <item quantity="few">%1$s | Отправка SMS: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_storage">
+        <item quantity="other">%1$s | Доступ к фото, видео, аудио и другим файлам: %2$d раз</item>
+        <item quantity="one">%1$s | Доступ к фото, видео, аудио и другим файлам: %2$d раз</item>
+        <item quantity="few">%1$s | Доступ к фото, видео, аудио и другим файлам: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_w_calendar">
+        <item quantity="other">%1$s | Редактирование календаря: %2$d раз</item>
+        <item quantity="one">%1$s | Редактирование календаря: %2$d раз</item>
+        <item quantity="few">%1$s | Редактирование календаря: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_w_calllog">
+        <item quantity="other">%1$s | Редактирование журнала вызовов: %2$d раз</item>
+        <item quantity="one">%1$s | Редактирование журнала вызовов: %2$d раз</item>
+        <item quantity="few">%1$s | Редактирование журнала вызовов: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_w_contacts">
+        <item quantity="other">%1$s | Редактирование контактов: %2$d раз</item>
+        <item quantity="one">%1$s | Редактирование контактов: %2$d раз</item>
+        <item quantity="few">%1$s | Редактирование контактов: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_wake_path">
+        <item quantity="other">%1$s |  Автозапуск %2$s: %3$d раз</item>
+        <item quantity="one">%1$s |  Автозапуск %2$s: %3$d раз</item>
+        <item quantity="few">%1$s |  Автозапуск %2$s: %3$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_allow_wakepath">
+        <item quantity="other">%1$s | Разрешено %2$d раз</item>
+        <item quantity="one">%1$s | Разрешено %2$d раз</item>
+        <item quantity="few">%1$s | Разрешено %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_delete_pic_more">
+        <item quantity="other">%1$s | Удаление файлов из галереи: %2$d раз</item>
+        <item quantity="one">%1$s | Удаление файлов из галереи: %2$d раз</item>
+        <item quantity="few">%1$s | Удаление файлов из галереи: %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_activity_recognization">
+        <item quantity="other">%1$s | Отказано в доступе к данным активности %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в доступе к данным активности %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в доступе к данным активности %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_autostart">
+        <item quantity="other">%1$s | Отказано в автозапуске %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в автозапуске %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в автозапуске %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_body_sensor">
+        <item quantity="other">%1$s | Отказано в доступе к нательным датчикам %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в доступе к нательным датчикам %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в доступе к нательным датчикам %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_call_phone">
+        <item quantity="other">%1$s | Отказано в совершении вызовов %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в совершении вызовов %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в совершении вызовов %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_camera">
+        <item quantity="other">%1$s | Отказано в доступе к камере %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в доступе к камере %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в доступе к камере %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_clipboard">
+        <item quantity="other">%1$s | Отказано в доступе к буферу обмена %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в доступе к буферу обмена %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в доступе к буферу обмена %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_delete_pic">
+        <item quantity="other">%1$s | Отказано в удалении файлов из Галереи %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в удалении файлов из Галереи %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в удалении файлов из Галереи %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_device_sensor">
+        <item quantity="other">%1$s | Отказано в доступе к датчикам устройства %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в доступе к датчикам устройства %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в доступе к датчикам устройства %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_files">
+        <item quantity="other">%1$s | Отказано в доступе к файлам и документам %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в доступе к файлам и документам %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в доступе к файлам и документам %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_get_installed">
+        <item quantity="other">%1$s | Отказано в доступе к списку приложений на устройстве %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в доступе к списку приложений на устройстве %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в доступе к списку приложений на устройстве %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_get_number">
+        <item quantity="other">%1$s | Отказано в получении информации о телефоне %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в получении информации о телефоне %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в получении информации о телефоне %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_get_sms">
+        <item quantity="other">%1$s | Отказано в чтении SMS %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в чтении SMS %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в чтении SMS %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_location">
+        <item quantity="other">%1$s | Отказано в получении геопозиции %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в получении геопозиции %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в получении геопозиции %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_media_aural">
+        <item quantity="other">%1$s | Отказано в доступе к аудиофайлам %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в доступе к аудиофайлам %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в доступе к аудиофайлам %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_media_visual">
+        <item quantity="other">%1$s | Отказано в доступе к фото и видео %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в доступе к фото и видео %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в доступе к фото и видео %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_media_volume">
+        <item quantity="other">%1$s | Отказано в изменении громкости медиа %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в изменении громкости медиа %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в изменении громкости медиа %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_mic">
+        <item quantity="other">%1$s | Отказано в доступе к микрофону %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в доступе к микрофону %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в доступе к микрофону %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_nearby_device">
+        <item quantity="other">%1$s | Отказано в доступе к списку устройств поблизости %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в доступе к списку устройств поблизости %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в доступе к списку устройств поблизости %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_perm">
+        <item quantity="other">%1$s | Отказано в доступе %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в доступе %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в доступе %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_phone_state">
+        <item quantity="other">%1$s | Отказано в получении состояния вызова %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в получении состояния вызова %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в получении состояния вызова %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_r_calendar">
+        <item quantity="other">%1$s | Отказано в доступе к календарю %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в доступе к календарю %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в доступе к календарю %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_r_calllog">
+        <item quantity="other">%1$s | Отказано в доступе к журналу вызовов %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в доступе к журналу вызовов %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в доступе к журналу вызовов %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_r_contacts">
+        <item quantity="other">%1$s | Отказано в доступе к контактам %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в доступе к контактам %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в доступе к контактам %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_receive_sms">
+        <item quantity="other">%1$s | Отказано в получении SMS %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в получении SMS %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в получении SMS %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_send_sms">
+        <item quantity="other">%1$s | Отказано в отправке SMS %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в отправке SMS %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в отправке SMS %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_storage">
+        <item quantity="other">%1$s | Отказано в доступе к фото, видео, аудио и другим файлам %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в доступе к фото, видео, аудио и другим файлам %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в доступе к фото, видео, аудио и другим файлам %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_w_calendar">
+        <item quantity="other">%1$s | Отказано в редактировании календаря %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в редактировании календаря %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в редактировании календаря %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_w_calllog">
+        <item quantity="other">%1$s | Отказано в редактировании журнала вызовов %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в редактировании журнала вызовов %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в редактировании журнала вызовов %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_w_contacts">
+        <item quantity="other">%1$s | Отказано в редактировании контактов %2$d раз</item>
+        <item quantity="one">%1$s | Отказано в редактировании контактов %2$d раз</item>
+        <item quantity="few">%1$s | Отказано в редактировании контактов %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_wake_path">
+        <item quantity="other">%1$s | Отказано в автозапуске %2$s %3$d раз</item>
+        <item quantity="one">%1$s | Отказано в автозапуске %2$s %3$d раз</item>
+        <item quantity="few">%1$s | Отказано в автозапуске %2$s %3$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_deny_wakepath">
+        <item quantity="other">%1$s | Отказано %2$d раз</item>
+        <item quantity="one">%1$s | Отказано %2$d раз</item>
+        <item quantity="few">%1$s | Отказано %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_projection_screen">
+        <item quantity="other">%1$s | Чтение или запись содержимого экрана %2$d раз</item>
+        <item quantity="one">%1$s | Чтение или запись содержимого экрана %2$d раз</item>
+        <item quantity="few">%1$s | Чтение или запись содержимого экрана %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_recent_day">
+        <item quantity="other">%1$d дней назад</item>
+        <item quantity="one">%1$d день назад</item>
+        <item quantity="few">%1$d дня назад</item>
+    </plurals>
+    <plurals name="permission_usage_terminal_camera">
+        <item quantity="other">%1$s | Использование камеры %2$d раз</item>
+        <item quantity="one">%1$s | Использование камеры %2$d раз</item>
+        <item quantity="few">%1$s | Использование камеры %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_terminal_screen">
+        <item quantity="other">%1$s | Взаимодействие с экраном %2$d раз</item>
+        <item quantity="one">%1$s | Взаимодействие с экраном %2$d раз</item>
+        <item quantity="few">%1$s | Взаимодействие с экраном %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_calllog_more">
+        <item quantity="other">%1$s | Возвращена пустая запись вызова %2$d раз</item>
+        <item quantity="one">%1$s | Возвращена пустая запись вызова %2$d раз</item>
+        <item quantity="few">%1$s | Возвращена пустая запись вызова %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_common_more">
+        <item quantity="other">%1$s | Возвращено пустое сообщение %2$d раз</item>
+        <item quantity="one">%1$s | Возвращено пустое сообщение %2$d раз</item>
+        <item quantity="few">%1$s | Возвращено пустое сообщение %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_contacts_more">
+        <item quantity="other">%1$s | Возвращён пустой контакт %2$d раз</item>
+        <item quantity="one">%1$s | Возвращён пустой контакт %2$d раз</item>
+        <item quantity="few">%1$s | Возвращён пустой контакт %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_phone_state_more">
+        <item quantity="other">%1$s | Возвращено пустое состояние вызова %2$d раз</item>
+        <item quantity="one">%1$s | Возвращено пустое состояние вызова %2$d раз</item>
+        <item quantity="few">%1$s | Возвращено пустое состояние вызова %2$d раза</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_sms_more">
+        <item quantity="other">%1$s | Возвращено пустое SMS %2$d раз</item>
+        <item quantity="one">%1$s | Возвращено пустое SMS %2$d раз</item>
+        <item quantity="few">%1$s | Возвращено пустое SMS %2$d раза</item>
     </plurals>
     <plurals name="power_20s_shutdown">
         <item quantity="other">Устройство будет выключено через %d сек.</item>
@@ -952,13 +1317,18 @@
         <item quantity="one">%s раз</item>
         <item quantity="few">%s раза</item>
     </plurals>
+    <plurals name="ppermission_usage_virtual_calendar_more">
+        <item quantity="other">%1$s | Возвращено пустое мероприятие календаря %2$d раз</item>
+        <item quantity="one">%1$s | Возвращено пустое мероприятие календаря %2$d раз</item>
+        <item quantity="few">%1$s | Возвращено пустое мероприятие календаря %2$d раза</item>
+    </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">СКРЫТО: %d</item>
-        <item quantity="one">СКРЫТО: %d</item>
+        <item quantity="other">Скрыто: %d</item>
+        <item quantity="one">Скрыто: %d</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">МОЖНО СКРЫТЬ: %d</item>
-        <item quantity="one">МОЖНО СКРЫТЬ: %d</item>
+        <item quantity="other">Можно скрыть: %d</item>
+        <item quantity="one">Можно скрыть: %d</item>
     </plurals>
     <plurals name="privacy_permission_summary">
         <item quantity="other">%s приложений с постоянным доступом</item>
@@ -1121,10 +1491,18 @@
         <item quantity="other">%d</item>
         <item quantity="one">%d</item>
     </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">Изменение %1$d разрешений</item>
+        <item quantity="one">Изменение %1$d разрешения</item>
+    </plurals>
     <plurals name="storage_fbo_number_unit">
         <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагментов</item>
         <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагмент</item>
         <item quantity="few">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагмента</item>
+    </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ГБ</item>
+        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> ГБ</item>
     </plurals>
     <plurals name="summary_absorbed_time_foramt">
         <item quantity="other">Включить Режим медитации на %d мин.</item>
@@ -1211,6 +1589,11 @@
         <item quantity="other">Удалить %d выбранных приложений?</item>
         <item quantity="one">Удалить %d выбранное приложение?</item>
         <item quantity="few">Удалить %d выбранных приложения?</item>
+    </plurals>
+    <plurals name="wakepath_allow_start_app_count">
+        <item quantity="other">%s приложений</item>
+        <item quantity="one">%s приложение</item>
+        <item quantity="few">%s приложения</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Опасных приложений: %d</item>

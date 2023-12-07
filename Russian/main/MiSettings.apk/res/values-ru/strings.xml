@@ -197,8 +197,8 @@
     <string name="exo_controls_cc_disabled_description">Включить субтитры</string>
     <string name="exo_controls_cc_enabled_description">Отключить субтитры</string>
     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
-    <string name="exo_controls_fastforward_by_amount_description">Быстрая перемотка вперед на %d сек.</string>
-    <string name="exo_controls_fastforward_description">Перемотать вперед</string>
+    <string name="exo_controls_fastforward_by_amount_description">Быстрая перемотка вперёд на %d сек.</string>
+    <string name="exo_controls_fastforward_description">Перемотать вперёд</string>
     <string name="exo_controls_fullscreen_enter_description">Полноэкранный режим</string>
     <string name="exo_controls_fullscreen_exit_description">Выход из полноэкранного режима </string>
     <string name="exo_controls_hide">Скрыть элементы управления</string>
@@ -776,7 +776,7 @@
     <string name="usage_focus_summary_level2">Медитация может стать полноценной практикой.</string>
     <string name="usage_focus_summary_level3">Сохраняйте спокойствие, не отвлекайтесь.</string>
     <string name="usage_focus_summary_level4">Медитация поможет вам найти лучшую версию себя.</string>
-    <string name="usage_focus_summary_level5">Вы прошли долгий путь. Продолжайте двигаться вперед.</string>
+    <string name="usage_focus_summary_level5">Вы прошли долгий путь. Продолжайте двигаться вперёд.</string>
     <string name="usage_focus_title_level1">Начните с малого</string>
     <string name="usage_focus_title_level2">Улучшайте свои привычки</string>
     <string name="usage_focus_title_level3">Отвлекитесь от насущного</string>

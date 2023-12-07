@@ -210,8 +210,8 @@
         <item quantity="few">%1$d дня</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
-        <item quantity="other">Быстрая перемотка вперед на %d сек.</item>
-        <item quantity="one">Быстрая перемотка вперед на %d сек.</item>
+        <item quantity="other">Быстрая перемотка вперёд на %d сек.</item>
+        <item quantity="one">Быстрая перемотка вперёд на %d сек.</item>
     </plurals>
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Перемотка назад на %d сек.</item>

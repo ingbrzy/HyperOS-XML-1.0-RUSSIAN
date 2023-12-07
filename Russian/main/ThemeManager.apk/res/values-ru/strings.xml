@@ -335,7 +335,7 @@
     <string name="exo_controls_cc_disabled_description">Включить субтитры</string>
     <string name="exo_controls_cc_enabled_description">Отключить субтитры</string>
     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
-    <string name="exo_controls_fastforward_description">Перемотать вперед</string>
+    <string name="exo_controls_fastforward_description">Перемотать вперёд</string>
     <string name="exo_controls_fullscreen_enter_description">Полноэкранный режим</string>
     <string name="exo_controls_fullscreen_exit_description">Выход из полноэкранного режима </string>
     <string name="exo_controls_hide">Скрыть элементы управления</string>

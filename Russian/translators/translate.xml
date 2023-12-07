@@ -939,9 +939,9 @@
     <string name="date_picker_dialog_title">"Настройка даты"</string>
     <string name="date_picker_headline">Выбранная дата</string>
     <string name="date_picker_headline_description">Текущий выбор: %1$s</string>
-    <string name="date_picker_increment_day_button">"На день вперед"</string>
-    <string name="date_picker_increment_month_button">"На месяц вперед"</string>
-    <string name="date_picker_increment_year_button">"На год вперед"</string>
+    <string name="date_picker_increment_day_button">"На день вперёд"</string>
+    <string name="date_picker_increment_month_button">"На месяц вперёд"</string>
+    <string name="date_picker_increment_year_button">"На год вперёд"</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_picker_navigate_to_year_description">Переход к году: %1$s</string>
@@ -1147,8 +1147,8 @@ ID: %s
     <string name="exo_controls_cc_disabled_description">Включить субтитры</string>
     <string name="exo_controls_cc_enabled_description">Отключить субтитры</string>
     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
-    <string name="exo_controls_fastforward_by_amount_description">Быстрая перемотка вперед на %d сек.</string>
-    <string name="exo_controls_fastforward_description">Перемотать вперед</string>
+    <string name="exo_controls_fastforward_by_amount_description">Быстрая перемотка вперёд на %d сек.</string>
+    <string name="exo_controls_fastforward_description">Перемотать вперёд</string>
     <string name="exo_controls_fullscreen_description">Полноэкранный режим</string>
     <string name="exo_controls_fullscreen_enter_description">Полноэкранный режим</string>
     <string name="exo_controls_fullscreen_exit_description">Выход из полноэкранного режима </string>
@@ -1905,7 +1905,7 @@ ID: %s
     <string name="lockscreen_too_many_failed_attempts_dialog_message">"Вы %1$d раз неверно указали графический ключ. \n\nПовтор через %2$d сек."</string>
     <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Вы %1$d раз неверно указали пароль. \n\nПовтор через %2$d сек."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Вы %1$d раз неверно указали PIN-код. \n\nПовтор через %2$d сек."</string>
-    <string name="lockscreen_transport_ffw_description">"Перемотать вперед"</string>
+    <string name="lockscreen_transport_ffw_description">"Перемотать вперёд"</string>
     <string name="lockscreen_transport_next_description">"Следующий трек"</string>
     <string name="lockscreen_transport_pause_description">"Приостановить"</string>
     <string name="lockscreen_transport_play_description">"Воспроизвести"</string>
@@ -3666,8 +3666,8 @@ mm"</string>
     <string name="time_picker_dialog_title">"Настройка времени"</string>
     <string name="time_picker_header_text">"Время"</string>
     <string name="time_picker_hour_label">"ч."</string>
-    <string name="time_picker_increment_hour_button">"На час вперед"</string>
-    <string name="time_picker_increment_minute_button">"На минуту вперед"</string>
+    <string name="time_picker_increment_hour_button">"На час вперёд"</string>
+    <string name="time_picker_increment_minute_button">"На минуту вперёд"</string>
     <string name="time_picker_increment_set_pm_button">"Установить время после полудня"</string>
     <string name="time_picker_input_error">"Указано недопустимое время."</string>
     <string name="time_picker_label_hour">Ч</string>

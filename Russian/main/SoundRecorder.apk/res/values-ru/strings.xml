@@ -620,7 +620,7 @@
     <string name="text_btn_backward_3_seconds">3 сек. назад</string>
     <string name="text_btn_complete">Стоп</string>
     <string name="text_btn_copy">Копировать</string>
-    <string name="text_btn_forward_3_seconds">3 сек. вперед</string>
+    <string name="text_btn_forward_3_seconds">3 сек. вперёд</string>
     <string name="text_btn_list">Мои записи</string>
     <string name="text_btn_mark">Метка</string>
     <string name="text_btn_pause">Пауза</string>

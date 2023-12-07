@@ -136,7 +136,7 @@
     <string name="button_emoji_symbol">Символы</string>
     <string name="button_emoji_text">Текст</string>
     <string name="button_fold">Свернуть</string>
-    <string name="button_next_slide">Вперед</string>
+    <string name="button_next_slide">Вперёд</string>
     <string name="button_pre_slide">Назад</string>
     <string name="button_resend_message">Повторить</string>
     <string name="button_unfold">Развернуть</string>

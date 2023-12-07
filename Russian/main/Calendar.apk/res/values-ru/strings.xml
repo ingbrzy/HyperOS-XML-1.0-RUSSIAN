@@ -281,7 +281,7 @@
     <string name="downloading">Загрузка…</string>
     <string name="dropdown_delete_button_desc">Удалить %s из получателей</string>
     <string name="early_morning">Утро</string>
-    <string name="edit_date_calculate_days_backward_error_hint">Не удалось рассчитать вперед</string>
+    <string name="edit_date_calculate_days_backward_error_hint">Не удалось рассчитать вперёд</string>
     <string name="edit_date_calculate_days_empty_hint">Введите число дней</string>
     <string name="edit_date_calculate_days_forward_error_hint">Не удалось рассчитать назад</string>
     <string name="edit_event_all_day_label">Весь день</string>

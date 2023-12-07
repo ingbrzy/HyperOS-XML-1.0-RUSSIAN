@@ -266,10 +266,15 @@
     <string name="gb_gputuner_lod_deviation">Mipmap LOD bias</string>
     <string name="gb_gputuner_multi_render">Многопоточный рендеринг</string>
     <string name="gb_not_support_on_device">Это приложение не может быть использовано на внешнем экране</string>
+    <string name="gb_pannel_control_frame_rate_dialog_message">Чтобы использовать эту функцию, измените разрешение дисплея на WQHD+ в настройках</string>
+    <string name="gb_pannel_control_frame_rate_dialog_positive">Настройки</string>
+    <string name="gb_pannel_control_frame_rate_dialog_title">Изменение разрешения экрана</string>
     <string name="gb_pannel_control_mode_balance">Баланс</string>
     <string name="gb_pannel_control_mode_custom">Настроить</string>
+    <string name="gb_pannel_control_mode_frame_rate">Приоритет частоты кадров</string>
     <string name="gb_pannel_control_mode_high_quality">Высокое качество</string>
     <string name="gb_pannel_control_mode_normal">По умолчанию</string>
+    <string name="gb_pannel_control_mode_picture">Приоритет изображения</string>
     <string name="gb_pannel_control_mode_power_saving">Экономия заряда</string>
     <string name="gb_web_panel_failure_retry">Не удалось загрузить. Повторите попытку.</string>
     <string name="gb_web_panel_game_loading">Подождите…</string>
@@ -312,6 +317,7 @@
     <string name="launch_failed_text">Не удалось открыть %1$s</string>
     <string name="loading">Загрузка…</string>
     <string name="loading_failed">Ошибка загрузки, нажмите для повтора</string>
+    <string name="lucky_back">Вернуться к помощнику Красных конвертов</string>
     <string name="lucky_result_title">Красные конверты</string>
     <string name="main_toolbar_purchase">Пополнение баланса</string>
     <string name="midnight">Ночь</string>

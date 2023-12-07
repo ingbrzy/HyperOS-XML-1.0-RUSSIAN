@@ -1553,7 +1553,7 @@
     <string name="local_enable">Местные новости включены</string>
     <string name="local_weather_disable">Местный прогноз погоды отключён</string>
     <string name="local_weather_enable">Местный прогноз погоды включён</string>
-    <string name="location">Местоположение</string>
+    <string name="location">Геолокация</string>
     <string name="lodgings_disable">Аренда отключена</string>
     <string name="lodgings_enable">Аренда включена</string>
     <string name="low_battery_flash_when_ring_button_tip">Вспышка при вызове недоступна из-за низкого заряда батареи</string>

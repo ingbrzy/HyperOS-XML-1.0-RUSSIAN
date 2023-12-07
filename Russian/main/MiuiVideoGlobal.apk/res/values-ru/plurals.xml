@@ -40,8 +40,8 @@
         <item quantity="few">Выбрано %s звезды</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
-        <item quantity="other">Быстрая перемотка вперед на %d сек.</item>
-        <item quantity="one">Быстрая перемотка вперед на %d сек.</item>
+        <item quantity="other">Быстрая перемотка вперёд на %d сек.</item>
+        <item quantity="one">Быстрая перемотка вперёд на %d сек.</item>
     </plurals>
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Перемотка назад на %d сек.</item>
@@ -307,9 +307,9 @@
         <item quantity="few">Нажмите дважды для перемотки назад на %d секунды</item>
     </plurals>
     <plurals name="s_double_tap_forward">
-        <item quantity="other">Нажмите дважды для перемотки вперед на %d секунд</item>
-        <item quantity="one">Нажмите дважды для перемотки вперед на %d секунду</item>
-        <item quantity="few">Нажмите дважды для перемотки вперед на %d секунды</item>
+        <item quantity="other">Нажмите дважды для перемотки вперёд на %d секунд</item>
+        <item quantity="one">Нажмите дважды для перемотки вперёд на %d секунду</item>
+        <item quantity="few">Нажмите дважды для перемотки вперёд на %d секунды</item>
     </plurals>
     <plurals name="s_forward_tip">
         <item quantity="other">%1$s сек.</item>
@@ -321,9 +321,9 @@
         <item quantity="few"> подписчика</item>
     </plurals>
     <plurals name="subtitle_offset_advance_times">
-        <item quantity="other">Субтитры смещены на %.1f секунд вперед</item>
-        <item quantity="one">Субтитры смещены на %.1f секунду вперед</item>
-        <item quantity="few">Субтитры смещены на %.1f секунды вперед</item>
+        <item quantity="other">Субтитры смещены на %.1f секунд вперёд</item>
+        <item quantity="one">Субтитры смещены на %.1f секунду вперёд</item>
+        <item quantity="few">Субтитры смещены на %.1f секунды вперёд</item>
     </plurals>
     <plurals name="subtitle_offset_delay_times">
         <item quantity="other">Субтитры смещены на %.1f секунд назад</item>

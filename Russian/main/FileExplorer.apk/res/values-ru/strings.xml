@@ -304,7 +304,7 @@
     <string name="evening">После полудня</string>
     <string name="exception_net_not_available">Проверьте настройки сети и повторите попытку</string>
     <string name="exit">Выход</string>
-    <string name="exo_controls_fastforward_description">Перемотать вперед</string>
+    <string name="exo_controls_fastforward_description">Перемотать вперёд</string>
     <string name="exo_controls_next_description">Следующий трек</string>
     <string name="exo_controls_pause_description">Приостановить</string>
     <string name="exo_controls_play_description">Воспроизвести</string>
@@ -506,7 +506,7 @@
     <string name="mirror_tip_add_file">Создать папку</string>
     <string name="mirror_tip_backward">Назад</string>
     <string name="mirror_tip_cloud">Mi Drive</string>
-    <string name="mirror_tip_forward">Вперед</string>
+    <string name="mirror_tip_forward">Вперёд</string>
     <string name="mirror_tip_grid">Сетка</string>
     <string name="mirror_tip_list">Список</string>
     <string name="mirror_tip_refresh">Обновить</string>

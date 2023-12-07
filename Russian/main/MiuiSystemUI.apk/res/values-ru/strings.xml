@@ -1677,7 +1677,7 @@
     <string name="keyboard_key_forward_del">Delete</string>
     <string name="keyboard_key_home">Домой</string>
     <string name="keyboard_key_insert">Insert</string>
-    <string name="keyboard_key_media_fast_forward">Перемотка вперед</string>
+    <string name="keyboard_key_media_fast_forward">Перемотка вперёд</string>
     <string name="keyboard_key_media_next">Следующий</string>
     <string name="keyboard_key_media_play_pause">Воспроизведение/Пауза</string>
     <string name="keyboard_key_media_previous">Предыдущий</string>
@@ -1893,8 +1893,8 @@
     <string name="lb_onboarding_get_started">НАЧАЛО РАБОТЫ</string>
     <string name="lb_playback_controls_closed_captioning_disable">Отключить субтитры</string>
     <string name="lb_playback_controls_closed_captioning_enable">Включить субтитры</string>
-    <string name="lb_playback_controls_fast_forward">Перемотка вперед</string>
-    <string name="lb_playback_controls_fast_forward_multiplier">Перемотка вперед %1$dX</string>
+    <string name="lb_playback_controls_fast_forward">Перемотка вперёд</string>
+    <string name="lb_playback_controls_fast_forward_multiplier">Перемотка вперёд %1$dX</string>
     <string name="lb_playback_controls_hidden">Элементы управления скрыты, нажмите на панель, чтобы показать</string>
     <string name="lb_playback_controls_high_quality_disable">Отключить высокое качество</string>
     <string name="lb_playback_controls_high_quality_enable">Включить высокое качество</string>

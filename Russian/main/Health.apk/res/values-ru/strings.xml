@@ -835,7 +835,7 @@ ID:%s
     <string name="mcv2_cc_is_off">Субтитры откл. Нажмите для отображения.</string>
     <string name="mcv2_cc_is_on">Субтитры вкл. Нажмите для скрытия.</string>
     <string name="mcv2_error_dialog_button">ОК</string>
-    <string name="mcv2_ffwd_button_desc">На 30 сек. вперед</string>
+    <string name="mcv2_ffwd_button_desc">На 30 сек. вперёд</string>
     <string name="mcv2_full_screen_button_desc">Полноэкранный</string>
     <string name="mcv2_launch_button_desc">Перейти</string>
     <string name="mcv2_music_artist_unknown_text">Неизвестный исполнитель</string>

@@ -2859,6 +2859,7 @@
     <string name="lantern_festival_tradition">元宵節</string>
     <string name="large_icon_card_image_bias">w,1:1</string>
     <string name="launcher_overlayable_package">com.android.launcher3</string>
+    <string name="layoutDirection">rtl</string>
     <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
     <string name="lb_control_display_rewind_multiplier">%1$dX</string>
     <string name="lb_playback_time_separator">/</string>
@@ -5141,6 +5142,7 @@
     <string name="terms_of_label_period">". "</string>
     <string name="terms_of_label_separator">", "</string>
     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
+    <string name="textDirection">ltr</string>
     <string name="text_alarm_after"> </string>
     <string name="text_alarm_before"> </string>
     <string name="text_alarm_close"> </string>

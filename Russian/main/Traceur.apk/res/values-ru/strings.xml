@@ -458,8 +458,8 @@
     <string name="lb_onboarding_get_started">Начнём</string>
     <string name="lb_playback_controls_closed_captioning_disable">Отключить скрытые субтитры</string>
     <string name="lb_playback_controls_closed_captioning_enable">Включить скрытые субтитры</string>
-    <string name="lb_playback_controls_fast_forward">Перемотка вперед</string>
-    <string name="lb_playback_controls_fast_forward_multiplier">Перемотка вперед %1$dX</string>
+    <string name="lb_playback_controls_fast_forward">Перемотка вперёд</string>
+    <string name="lb_playback_controls_fast_forward_multiplier">Перемотка вперёд %1$dX</string>
     <string name="lb_playback_controls_hidden">Элементы управления мультимедиа скрыты, нажмите d-pad, чтобы показать</string>
     <string name="lb_playback_controls_high_quality_disable">Отключить высокое качество</string>
     <string name="lb_playback_controls_high_quality_enable">Включить высокое качество</string>
