@@ -260,6 +260,8 @@
     <string-array name="cdma_system_select_values"></string-array>
     <string-array name="cell_layout_size_entries"></string-array>
     <string-array name="cell_layout_size_values"></string-array>
+    <string-array name="certificates_com_android_camera"></string-array>
+    <string-array name="certificates_com_xiaomi_wearable"></string-array>
     <string-array name="cfnry_setting_time_entries"></string-array>
     <integer-array name="cfnry_setting_time_entry_values"></integer-array>
     <string-array name="change_security_lock_picker_key"></string-array>
@@ -1403,6 +1405,7 @@
     <string-array name="quality_business_devices"></string-array>
     <string-array name="quote_devider_text_array"></string-array>
     <string-array name="radioAttributes"></string-array>
+    <array name="rcs_allow_list"></array>
     <string-array name="rcs_fallback_value"></string-array>
     <string-array name="rcs_quality_value"></string-array>
     <string-array name="reading_feedback_issue_cases"></string-array>

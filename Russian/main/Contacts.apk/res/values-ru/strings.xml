@@ -454,7 +454,7 @@
     <string name="callrecordview_item_op_time_short_incoming">"входящий: "</string>
     <string name="callrecordview_item_op_time_short_outgoing">"исходящий: "</string>
     <string name="callrecordview_item_op_time_xiaoai_automatic_answer">Автоответчик</string>
-    <string name="callrecordview_item_op_time_xiaoai_call">Mi AI Помощник вызовов</string>
+    <string name="callrecordview_item_op_time_xiaoai_call">Помощник вызовов Mi AI</string>
     <string name="callrecordview_item_op_time_xiaoai_manual_answer">Выбор вручную</string>
     <string name="callrecordview_item_op_video">Видео</string>
     <string name="callrecordview_menu_add_call_note">Добавить заметку</string>
@@ -490,7 +490,7 @@
     <string name="callrecordview_menu_show_sim">Вызовы %s</string>
     <string name="callrecordview_menu_show_stranger">Вызовы с неизвестных номеров</string>
     <string name="callrecordview_menu_show_title">Отображение вызовов</string>
-    <string name="callrecordview_menu_xiaoaiphone">Mi AI Помощник вызовов</string>
+    <string name="callrecordview_menu_xiaoaiphone">Помощник вызовов Mi AI</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_confirmation_dialog_message">Отменить изменения?</string>
     <string name="cancel_confirmation_dialog_title">Отмена</string>
@@ -1873,7 +1873,7 @@
     <string name="scan_duplicate_message">Контактов с идентичными данными: %1$d</string>
     <string name="scan_merge">Поиск дубликатов контактов…</string>
     <string name="scan_not_installed">Сначала установите сканер</string>
-    <string name="scan_not_installed_china">Сначала установите Mi AI сканер</string>
+    <string name="scan_not_installed_china">Сначала установите сканер Mi AI</string>
     <string name="scan_not_installed_global">Сначала установите сканер</string>
     <string name="scan_qrcode_card_hint1">Отсканируйте этот QR-код</string>
     <string name="scan_qrcode_card_hint2" />

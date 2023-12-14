@@ -29,6 +29,10 @@
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">%d мин. назад</item>
     </plurals>
+    <plurals name="accessibility_auto_night_tip">
+        <item quantity="other">%d-сек. таймер для ночного режима</item>
+        <item quantity="one">%d-сек. таймер для ночного режима</item>
+    </plurals>
     <plurals name="accessibility_focus_face_detect">
         <item quantity="other">Сфокусировано. Обнаружено %d лиц</item>
         <item quantity="one">Сфокусировано. Обнаружено %d лицо</item>
@@ -73,8 +77,8 @@
         <item quantity="one">&lt;Data>"Версия приложения Камера несовместима с вашим устройством.&lt;br>Приложение закроется через &lt;font color=#FFCE16>&lt;b>%1$d сек.&lt;/b>&lt;/font>. Удалите обновления и повторите попытку."&lt;/Data></item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
-        <item quantity="other">Быстрая перемотка вперед на %d сек.</item>
-        <item quantity="one">Быстрая перемотка вперед на %d сек.</item>
+        <item quantity="other">Быстрая перемотка вперёд на %d сек.</item>
+        <item quantity="one">Быстрая перемотка вперёд на %d сек.</item>
     </plurals>
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Перемотка назад на %d сек.</item>

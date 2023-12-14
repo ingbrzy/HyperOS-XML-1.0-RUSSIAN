@@ -30,8 +30,8 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="advanced_gesture">Пользовательские жесты</string>
     <string name="afternoon">После полудня</string>
-    <string name="ai_button_title">Mi AI кнопка</string>
-    <string name="ai_button_title_global">AI кнопка</string>
+    <string name="ai_button_title">Кнопка Mi AI</string>
+    <string name="ai_button_title_global">Кнопка AI</string>
     <string name="app_name">Настройки</string>
     <string name="app_switch_key">Недавние</string>
     <string name="application_label">Настройки ввода</string>
