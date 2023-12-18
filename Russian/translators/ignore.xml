@@ -4322,6 +4322,38 @@
     <string name="record_item_title_delete">@string/delete</string>
     <string name="recording_timer_format_four_sections" formatted="false">%02d:%02d:%02d.%02d</string>
     <string name="recording_timer_format_three_sections" formatted="false">%02d:%02d.%02d</string>
+    <string name="redmi_10x">Redmi 10X</string>
+    <string name="redmi_10x_4g">Redmi 10X 4G</string>
+    <string name="redmi_10x_pro">Redmi 10X Pro</string>
+    <string name="redmi_6">Redmi 6</string>
+    <string name="redmi_6_pro">Redmi 6 Pro</string>
+    <string name="redmi_6a">Redmi 6A</string>
+    <string name="redmi_7a">Redmi 7A</string>
+    <string name="redmi_8">Redmi 8</string>
+    <string name="redmi_8a">Redmi 8A</string>
+    <string name="redmi_9">Redmi 9</string>
+    <string name="redmi_k20">Redmi K20</string>
+    <string name="redmi_k20_pro">Redmi K20 Pro</string>
+    <string name="redmi_k30">Redmi K30</string>
+    <string name="redmi_k30_5g">Redmi K30 5G</string>
+    <string name="redmi_k30_pro">Redmi K30 Pro</string>
+    <string name="redmi_k30_ultra">Redmi K30 Ultra</string>
+    <string name="redmi_k30s">Redmi K30S Ultra</string>
+    <string name="redmi_k40">Redmi K40</string>
+    <string name="redmi_k40_g">Redmi K40 Gaming Edition</string>
+    <string name="redmi_k40_pro">Redmi K40 Pro</string>
+    <string name="redmi_note_10">Redmi Note 10</string>
+    <string name="redmi_note_10_pro">Redmi Note 10 Pro</string>
+    <string name="redmi_note_5">Redmi Note 5</string>
+    <string name="redmi_note_6_pro">Redmi Note 6 Pro</string>
+    <string name="redmi_note_7">Redmi Note 7</string>
+    <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+    <string name="redmi_note_8">Redmi Note 8</string>
+    <string name="redmi_note_8_pro">Redmi Note 8 Pro</string>
+    <string name="redmi_note_9">Redmi Note 9</string>
+    <string name="redmi_note_9_pro">Redmi Note 9 Pro</string>
+    <string name="redmi_note_9_pro_max">Redmi Note 9 Pro Max</string>
+    <string name="redmi_note_9s">Redmi Note 9S</string>
     <string name="regrettable_lack_of_easter_egg">¯\\_(ツ)_/¯</string>
     <string name="relationship_cross_check_suggestion">TA称呼我</string>
     <string name="relationship_default_separator_text">的</string>
@@ -4356,6 +4388,8 @@
     <string name="retrocession_day_tradition">光復節</string>
     <string name="ring_to_you_address">http://ringtoyou.kt.com</string>
     <string name="rlz_access_point">Y1</string>
+    <string name="rog">ROG</string>
+    <string name="rog_phone">ROG</string>
     <string name="root_smds_address">testrootsmds.example.com</string>
     <string name="rtt_settings_always_visible" />
     <string name="rtt_settings_no_visible" />
@@ -4372,6 +4406,8 @@
     <string name="sa_channel_key_class_5">sa_channel_key_class_5</string>
     <string name="sa_channel_key_class_6">sa_channel_key_class_6</string>
     <string name="safety_protection_display_text" />
+    <string name="samsung">Samsung</string>
+    <string name="samsung_phone">Samsung</string>
     <string name="sans_serif">sans-serif</string>
     <string name="saturn_id">saturn</string>
     <string name="save_to_note">转存至便签</string>
