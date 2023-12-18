@@ -143,7 +143,7 @@
     <string name="mj_uwb_close_to_auth">Подойдите ближе 2 метров для завершения проверки безопасности</string>
     <string name="mj_uwb_common_device_loading">Подождите…</string>
     <string name="mj_uwb_confirm_aoa_device">Выполнить калибровку этого устройства?</string>
-    <string name="mj_uwb_connect_fail">Не удалось подключиться. Повторите попытку позже.</string>
+    <string name="mj_uwb_connect_fail">Не удалось подключиться. Повторите позже.</string>
     <string name="mj_uwb_connected">Подключено</string>
     <string name="mj_uwb_find_devices">Поиск устройств</string>
     <string name="mj_uwb_ignore">Игнорировать</string>

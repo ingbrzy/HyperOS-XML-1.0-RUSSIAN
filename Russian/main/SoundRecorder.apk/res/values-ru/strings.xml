@@ -373,7 +373,7 @@
     <string name="online_recognize_other_order_upload">Дождитесь завершения текущих загрузок и попробуйте снова.</string>
     <string name="online_recognize_progress">Транскрибирование %s…</string>
     <string name="online_recognize_running">Транскрибирование…</string>
-    <string name="online_recognize_service_unavailable">Сервис недоступен. Повторите попытку позже.</string>
+    <string name="online_recognize_service_unavailable">Сервис недоступен. Повторите позже.</string>
     <string name="order_item_duration">Длительность: %s</string>
     <string name="order_item_number">Номер заказа: %s</string>
     <string name="order_item_price">%s CNY</string>

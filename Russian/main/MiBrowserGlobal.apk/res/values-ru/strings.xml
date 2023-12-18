@@ -553,7 +553,7 @@
     <string name="comment_just_now">Сейчас</string>
     <string name="comment_max_length">Комментарий слишком длинный.</string>
     <string name="comment_menu">Комментарий</string>
-    <string name="comment_no_net_hint">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="comment_no_net_hint">Ошибка сервера. Повторите позже.</string>
     <string name="comment_num_description">Номер комментария</string>
     <string name="comment_publish_to_topic">Синхронизация с</string>
     <string name="comment_reply">Ответить</string>
@@ -746,7 +746,7 @@ ID:%s
     <string name="dialog_dislike_reason_poor_quality">Плохое качество</string>
     <string name="dialog_dislike_reason_repetitive">Надоедливая</string>
     <string name="dialog_dislike_title">Почему вам не нравится эта реклама?</string>
-    <string name="dialog_failed_body">Повторите попытку позже или удалите этот файл из очереди загрузки</string>
+    <string name="dialog_failed_body">Повторите позже или удалите этот файл из очереди загрузки</string>
     <string name="dialog_file_already_exists">Файл уже загружен</string>
     <string name="dialog_file_missing_body">Ошибка открытия файла. Файл перемещён или удалён?</string>
     <string name="dialog_file_missing_title">Ошибка открытия файла</string>
@@ -1382,7 +1382,7 @@ ID:%s
     <string name="load_more_footer_status_msg_full">Больше ничего нет</string>
     <string name="load_more_footer_status_msg_idle">Нажмите, чтобы загрузить ещё</string>
     <string name="load_more_footer_status_msg_loading">Подождите…</string>
-    <string name="load_sever_data_error">Сервер недоступен. Повторите попытку позже.</string>
+    <string name="load_sever_data_error">Сервер недоступен. Повторите позже.</string>
     <string name="loading">Загрузка…</string>
     <string name="loading_dialog_title">Перемещение…</string>
     <string name="loading_tips">Потяните вниз для обновления</string>
@@ -2199,7 +2199,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="play_retry">Повтор</string>
     <string name="play_video">Воспроизвести видео</string>
     <string name="player_3g_tip_title">Используется мобильный интернет, продолжение воспроизведения может привести к расходу трафика</string>
-    <string name="player_data_error_tip">Видео временно недоступно. Повторите попытку позже.</string>
+    <string name="player_data_error_tip">Видео временно недоступно. Повторите позже.</string>
     <string name="player_net_error">Сеть недоступна, проверьте настройки сети</string>
     <string name="players_still_play">Понравилось &lt;font color=\"#ff2458\">%s&lt;/font> игроков</string>
     <string name="popular_game_video">Популярное игровое видео</string>
@@ -3279,7 +3279,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vo_info_flow_load_more_title">Попробуйте загрузить вручную</string>
     <string name="vo_info_flow_refresh_empty">Нет обновлений. Посмотрите другие каналы.</string>
     <string name="vo_info_flow_refresh_error">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
-    <string name="vo_info_flow_refresh_sever_data_error">Сервер недоступен. Повторите попытку позже.</string>
+    <string name="vo_info_flow_refresh_sever_data_error">Сервер недоступен. Повторите позже.</string>
     <string name="vo_info_flow_rs_hint">Поиск</string>
     <string name="vo_like_text">Нравится</string>
     <string name="vo_location_change_cancel">Не сейчас</string>
@@ -3319,7 +3319,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="voice_title_please">Говорите…</string>
     <string name="voice_title_speech_again">Не удалось распознать</string>
     <string name="vote_already">Вы уже проголосовали</string>
-    <string name="vote_fail">Не удалось проголосовать, повторите попытку позже</string>
+    <string name="vote_fail">Не удалось проголосовать, повторите позже</string>
     <string name="vpn_data_current_period">Срок действия: %s</string>
     <string name="vpn_data_used_info">Использовано %2$s из %1$s</string>
     <string name="vpn_detail_guide1">Разблокируйте все серверы для увеличения скорости соединения</string>

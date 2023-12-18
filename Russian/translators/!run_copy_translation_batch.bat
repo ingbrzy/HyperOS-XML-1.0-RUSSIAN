@@ -14,6 +14,7 @@ call run_copy_translation.bat %1 BuiltInPrintService
 call run_copy_translation.bat %1 Calculator
 call run_copy_translation.bat %1 Calendar
 call run_copy_translation.bat %1 CalendarProvider
+call run_copy_translation.bat %1 CaptivePortalLogin
 call run_copy_translation.bat %1 CertInstaller
 call run_copy_translation.bat %1 CleanMaster
 call run_copy_translation.bat %1 CloudBackup
@@ -85,6 +86,7 @@ call run_copy_translation.bat %1 Mms
 call run_copy_translation.bat %1 MtpService
 call run_copy_translation.bat %1 Music
 call run_copy_translation.bat %1 MusicFX
+call run_copy_translation.bat %1 NetworkStack
 call run_copy_translation.bat %1 Notes
 call run_copy_translation.bat %1 NotificationCenter
 call run_copy_translation.bat %1 NQNfcNci

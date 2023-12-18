@@ -1142,7 +1142,7 @@
     <string name="rcs_not_online">5G Сообщения недоступны. Проверьте настройки сети и повторите попытку.</string>
     <string name="rcs_nowifi_backup">Подключение к Wi-Fi отсутствует. Выполнить резервное копирование?</string>
     <string name="rcs_nowifi_restore">Подключение к Wi-Fi отсутствует. Выполнить восстановление?</string>
-    <string name="rcs_offline">Не удалось войти в 5G Сообщения. Повторите попытку позже.</string>
+    <string name="rcs_offline">Не удалось войти в 5G Сообщения. Повторите позже.</string>
     <string name="rcs_offline_hint">5G Сообщения не в сети. Пересылка невозможна.</string>
     <string name="rcs_operation_accept">Принять</string>
     <string name="rcs_operation_reject">Отклонить</string>
@@ -1270,7 +1270,7 @@
     <string name="rms_illegal_extension">Этот формат файла не поддерживается</string>
     <string name="rms_image_body">[Изображение]</string>
     <string name="rms_is_locating">Получение геопозиции…</string>
-    <string name="rms_locate_failed">Не удалось получить геопозицию. Повторите попытку позже.</string>
+    <string name="rms_locate_failed">Не удалось получить геопозицию. Повторите позже.</string>
     <string name="rms_location_body">[Расположение]</string>
     <string name="rms_normal_file_length_too_large">Нельзя отправить файл больше %1$d МБ</string>
     <string name="rms_original_image_length_too_large">Нельзя отправить изображение больше %1$d МБ</string>

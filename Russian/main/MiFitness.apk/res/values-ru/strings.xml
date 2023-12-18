@@ -141,7 +141,7 @@
     <string name="access_misport_import_desc">&lt;Data>Подробнее о &lt;a href=\"%1$s\">переносе данных из Mi Fit.&lt;/a>&lt;/Data></string>
     <string name="access_misport_import_faile">Произошла ошибка. Повторите попытку.</string>
     <string name="access_misport_import_faile_notification_bar">Произошла ошибка. Повторите попытку.</string>
-    <string name="access_misport_import_failed_partof">&lt;Data>Не удалось перенести. Повторите попытку позже. &lt;br/>Нажмите, чтобы подробнее узнать &lt;a href=\"%1$s\">о переносе данных из Mi Fit.&lt;/a>&lt;/Data></string>
+    <string name="access_misport_import_failed_partof">&lt;Data>Не удалось перенести. Повторите позже. &lt;br/>Нажмите, чтобы подробнее узнать &lt;a href=\"%1$s\">о переносе данных из Mi Fit.&lt;/a>&lt;/Data></string>
     <string name="access_misport_import_immediately">Перенести</string>
     <string name="access_misport_import_title_mainpage">Перенос из Mi Fit</string>
     <string name="access_misport_importing_desc">&lt;Data>Перенос данных за год может занять примерно 10 минут. Вы можете покинуть эту страницу.&lt;br/>Нажмите, чтобы подробнее узнать о &lt;a href=\"%1$s\">переносе данных из Mi Fit.&lt;/a>&lt;/Data></string>
@@ -259,7 +259,7 @@
     <string name="bank_card_user_not_reserve_phone">Вы не указали номер телефона для банковского счёта, обратитесь в службу поддержки банка</string>
     <string name="bank_card_verify_failed">Неверные данные карты</string>
     <string name="bank_error">Не удалось выпустить карту. Повторите попытку или обратитесь в банк.</string>
-    <string name="bank_system_busying">Повторите попытку позже, банковская система занята</string>
+    <string name="bank_system_busying">Повторите позже, банковская система занята</string>
     <string name="bind_sign_in_title">Добавьте Xiaomi аккаунт</string>
     <string name="ble_ota_fw_upgrade_success_message">Не используйте устройство до завершения процесса обновления.</string>
     <string name="ble_ota_fw_upgrade_success_title">Синхронизация завершена</string>
@@ -299,7 +299,7 @@
     <string name="common_exit">Выход</string>
     <string name="common_exoplay_play_retry">Повтор</string>
     <string name="common_exoplay_player_3g_tip_title">Вы используете мобильный интернет. Возможны дополнительные расходы. Продолжить?</string>
-    <string name="common_exoplay_player_data_error_tip">Сбой загрузки. Повторите попытку позже.</string>
+    <string name="common_exoplay_player_data_error_tip">Сбой загрузки. Повторите позже.</string>
     <string name="common_exoplay_player_net_error">Проверьте настройки сети и повторите попытку.</string>
     <string name="common_exoplay_player_no_data">Это видео недоступно.</string>
     <string name="common_footer_more">Проведите вверх для просмотра</string>
@@ -319,11 +319,11 @@
     <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
     <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
     <string name="common_hint_battery_low">Батарея разряжена</string>
-    <string name="common_hint_device_busy">Повторите попытку позже</string>
+    <string name="common_hint_device_busy">Повторите позже</string>
     <string name="common_hint_device_removed">Устройство удалено</string>
     <string name="common_hint_network_unavailable">Проверьте сетевое подключение</string>
     <string name="common_hint_storage_low">Недостаточно места</string>
-    <string name="common_hint_unkonwn_error">Произошла ошибка. Повторите попытку позже.</string>
+    <string name="common_hint_unkonwn_error">Произошла ошибка. Повторите позже.</string>
     <string name="common_installed">Установлено</string>
     <string name="common_installing">Установка обновления…</string>
     <string name="common_known">Понятно</string>
@@ -830,7 +830,7 @@
     <string name="device_settings_common_hint_device_removed">Устройство удалено</string>
     <string name="device_settings_common_hint_device_unconnect">Подключите устройство и повторите попытку.</string>
     <string name="device_settings_common_hint_is_discard_change">Обнаружены несохранённые изменения</string>
-    <string name="device_settings_common_hint_no_data">Повторите попытку позже</string>
+    <string name="device_settings_common_hint_no_data">Повторите позже</string>
     <string name="device_settings_common_hint_request_failed">Произошла ошибка.</string>
     <string name="device_settings_common_input_is_empty">Введите название события</string>
     <string name="device_settings_common_music">Музыка</string>
@@ -2655,7 +2655,7 @@ ID:%s
     <string name="login_common_exit">Выход</string>
     <string name="login_common_hint">Примечание</string>
     <string name="login_common_hint_network_unavailable">Проверьте настройки сети и повторите попытку.</string>
-    <string name="login_common_hint_unkonwn_error">Произошла ошибка. Повторите попытку позже.</string>
+    <string name="login_common_hint_unkonwn_error">Произошла ошибка. Повторите позже.</string>
     <string name="login_common_not_selected">Вы не выбрали ни одного объекта</string>
     <string name="login_common_open">ОК</string>
     <string name="login_common_region">Регион</string>
@@ -2960,7 +2960,7 @@ ID:%s
     <string name="nfc_alert_msg_card_status_rechare_fail">Не удалось пополнить (%1$s). Обратитесь в службу поддержки.</string>
     <string name="nfc_alert_msg_card_status_start_date_invalid">Неверная дата. Обратитесь в службу поддержки.</string>
     <string name="nfc_alert_msg_miui_version_restricted">Текущая версия не поддерживается</string>
-    <string name="nfc_alert_msg_no_stock">Повторите попытку позже</string>
+    <string name="nfc_alert_msg_no_stock">Повторите позже</string>
     <string name="nfc_alert_msg_pay_duplicate">Уже оплачено</string>
     <string name="nfc_alert_msg_recharge_failed_and_refund">Не удалось пополнить. Сумма будет возвращена на ваш счёт.</string>
     <string name="nfc_alert_msg_recharge_result_unknown">Ошибка пополнения. Обратитесь в службу поддержки для подтверждения оплаты.</string>
@@ -3091,7 +3091,7 @@ ID:%s
     <string name="nfc_common_hint_device_unconnect">Подключите носимое устройство и повторите попытку</string>
     <string name="nfc_common_hint_hold_on">Держите носимое устройство подключённым</string>
     <string name="nfc_common_hint_no_data">Попробуйте позже</string>
-    <string name="nfc_common_hint_server_unavailable">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="nfc_common_hint_server_unavailable">Ошибка сервера. Повторите позже.</string>
     <string name="nfc_common_known">Понятно</string>
     <string name="nfc_common_more_setting">Ещё</string>
     <string name="nfc_common_not_support_version">Текущая версия не поддерживается</string>
@@ -3152,7 +3152,7 @@ ID:%s
     <string name="nfc_error_nfc_message">Ошибка NFC. Перезапустите NFC или устройство.</string>
     <string name="nfc_error_recharge_balance_max">Баланс карты не может быть больше 1000 CNY</string>
     <string name="nfc_error_recharge_balance_min">Баланс карты не может быть меньше 0 CNY.</string>
-    <string name="nfc_get_trans_config_fail">Не удалось загрузить. Повторите попытку позже.</string>
+    <string name="nfc_get_trans_config_fail">Не удалось загрузить. Повторите позже.</string>
     <string name="nfc_go_activate">Выбрать</string>
     <string name="nfc_id_authentication_desc">Завершите проверку как можно скорее</string>
     <string name="nfc_id_check_title_global">Подтверждение</string>
@@ -3167,14 +3167,14 @@ ID:%s
     <string name="nfc_master_card_2000_incorrect_tav">Ваш запрос был отклонен банком. Свяжитесь с эмитентом или потрошите попытку позже.</string>
     <string name="nfc_master_card_2000_invalid_incorrect_code">Неверный код.</string>
     <string name="nfc_master_card_2000_invalid_push_account_receipt">Недопустимый номер аккаунта. Свяжитесь с эмитентом банковской карты.</string>
-    <string name="nfc_master_card_2000_no_response_from_issuer">Банк не отвечает. Свяжитесь с эмитентом банковской карты или повторите попытку позже.</string>
+    <string name="nfc_master_card_2000_no_response_from_issuer">Банк не отвечает. Свяжитесь с эмитентом банковской карты или Повторите позже.</string>
     <string name="nfc_master_card_2000_pan_expired_code">Срок проверки истёк. Свяжитесь с эмитентом, чтобы добавить карту. Вы также можете попробовать удалить карту, а затем добавить её снова.</string>
     <string name="nfc_master_card_2000_pan_ineligible">Недопустимый номер аккаунта. Попробуйте воспользоваться картой Mastercard.</string>
     <string name="nfc_master_card_2000_pan_ineligible_for_device">При добавлении этой карты на носимое устройство произошла ошибка. Попробуйте воспользоваться картой Mastercard.</string>
     <string name="nfc_master_card_2000_valid_pan">Недопустимый номер аккаунта. Проверьте сведения о карте и повторите попытку.</string>
     <string name="nfc_master_card_err_status">Срок проверки истёк. Свяжитесь с эмитентом, чтобы добавить карту. Вы также можете попробовать удалить карту, а затем добавить её снова.</string>
     <string name="nfc_master_card_issue_error_back_msg">Необходимо заново ввести данные карты.</string>
-    <string name="nfc_master_card_load_country_err">Произошла ошибка. Повторите попытку позже.</string>
+    <string name="nfc_master_card_load_country_err">Произошла ошибка. Повторите позже.</string>
     <string name="nfc_master_error_9004">9004 недопустимый запрос. Обратитесь в службу поддержки.</string>
     <string name="nfc_master_error_9005">9005 неверный аргумент запроса. Обратитесь в службу поддержки.</string>
     <string name="nfc_master_error_9006">9006 Недопустимый запрос. Обратитесь в службу поддержки.</string>
@@ -3224,7 +3224,7 @@ ID:%s
     <string name="nfc_not_find_secard_by_productid">Недействительная карта. Обратитесь в службу поддержки.</string>
     <string name="nfc_open_card_holder_name">Имя владельца карты</string>
     <string name="nfc_open_card_number_exceed_limit">Достигнут лимит добавления ключ-карт</string>
-    <string name="nfc_open_service_common_error">Сбой загрузки. Повторите попытку позже.</string>
+    <string name="nfc_open_service_common_error">Сбой загрузки. Повторите позже.</string>
     <string name="nfc_open_service_error_no_connect">Подключитесь к носимому устройству</string>
     <string name="nfc_open_service_error_not_found">Нет доступных карт.</string>
     <string name="nfc_open_service_error_not_sign">Укажите имя пакета и подпись для Xiaomi</string>
@@ -3232,10 +3232,10 @@ ID:%s
     <string name="nfc_order_hint_refund">Сумма будет возвращена на ваш счёт в течение 2 часов.</string>
     <string name="nfc_order_not_found">Заказ не найден</string>
     <string name="nfc_order_refund_success">Возврат выполнен</string>
-    <string name="nfc_order_refunding_fail">Не удалось выполнить возврат. Повторите попытку позже.</string>
+    <string name="nfc_order_refunding_fail">Не удалось выполнить возврат. Повторите позже.</string>
     <string name="nfc_order_refunding_success">Сумма будет возвращена на ваш счёт.</string>
     <string name="nfc_pay_alipay">Alipay</string>
-    <string name="nfc_paynext_result_fail_content_detail">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="nfc_paynext_result_fail_content_detail">Ошибка сервера. Повторите позже.</string>
     <string name="nfc_paynext_result_issue_success_content">Карта добавлена</string>
     <string name="nfc_paynext_result_issue_success_content_detail">Чтобы расплатиться устройством, поднесите его к ридеру</string>
     <string name="nfc_paynext_result_issue_success_footer_op_text">Оплачивайте картой на ходу</string>
@@ -3734,7 +3734,7 @@ ID:%s
     <string name="sport_advise3">Избегайте тренировок на улице</string>
     <string name="sport_agree">Разрешить</string>
     <string name="sport_all">Все виды спорта</string>
-    <string name="sport_analyze">Повторите попытку позже</string>
+    <string name="sport_analyze">Повторите позже</string>
     <string name="sport_app_not_install">Автоматическая настройка</string>
     <string name="sport_apparatus">Тренировки в зале</string>
     <string name="sport_apply_location">Сначала включите службы геолокации</string>
@@ -3754,7 +3754,7 @@ ID:%s
     <string name="sport_common_close">Откл.</string>
     <string name="sport_common_confirm">ОК</string>
     <string name="sport_common_download_succeed">Загрузка завершена</string>
-    <string name="sport_common_error">Произошла ошибка. Повторите попытку позже.</string>
+    <string name="sport_common_error">Произошла ошибка. Повторите позже.</string>
     <string name="sport_common_goto_set">Настройки</string>
     <string name="sport_common_law_info">Пользовательское соглашение</string>
     <string name="sport_common_loading">Подождите…</string>
@@ -3861,7 +3861,7 @@ ID:%s
     <string name="sport_not_exercising">Не сейчас</string>
     <string name="sport_not_support">Не поддерживается</string>
     <string name="sport_not_used_fitness_authorization">Предоставьте разрешения</string>
-    <string name="sport_obtain_fail">Сбой загрузки. Повторите попытку позже.</string>
+    <string name="sport_obtain_fail">Сбой загрузки. Повторите позже.</string>
     <string name="sport_open_hr_check">Включить</string>
     <string name="sport_pace">/км</string>
     <string name="sport_pace_remind_titles">Оповещения о темпе</string>

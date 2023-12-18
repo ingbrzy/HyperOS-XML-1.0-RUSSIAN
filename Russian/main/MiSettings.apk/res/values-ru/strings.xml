@@ -245,7 +245,7 @@
     <string name="exo_track_surround_7_point_1">Система объемного звука 7.1</string>
     <string name="exo_track_unknown">Неизвестный трек</string>
     <string name="expand_button_title">Дополнительно</string>
-    <string name="first_unlock_time">"Первая разблокировка в "</string>
+    <string name="first_unlock_time">"Первая разблокировка: "</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>

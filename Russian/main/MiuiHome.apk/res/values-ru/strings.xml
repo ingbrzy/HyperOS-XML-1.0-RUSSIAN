@@ -915,7 +915,7 @@
     <string name="select_frame">Рамка</string>
     <string name="select_photo">Фото</string>
     <string name="send">Отправить</string>
-    <string name="server_error">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="server_error">Ошибка сервера. Повторите позже.</string>
     <string name="service_double_attention">Расширенные функции поиска предоставляются Branch Metrics Inc. Для работы этой функции требуется передача в Branch Metrics Inc ваших поисковых запросов, идентификатора Google Ads и IP-адреса. Перед использованием этой функции прочтите и примите <a href="http://url1"><font color="#B3000000">Условия и положения конечного пользователя</font></a> и <a href="http://url2"><font color="#B3000000">Политику конфиденциальности Branch Discovery</font></a>.</string>
     <string name="setting_close">Откл.</string>
     <string name="setting_no_word">Везде</string>

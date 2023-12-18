@@ -195,7 +195,7 @@
     <string name="cast_tracks_chooser_dialog_subtitles">Субтитры</string>
     <string name="cast_unmute">Включить звук</string>
     <string name="catchplay_video">Catchplay</string>
-    <string name="chang_definition_failed">Не удалось переключить определение, повторите попытку позже~</string>
+    <string name="chang_definition_failed">Не удалось переключить определение, повторите позже~</string>
     <string name="change_activate_email">Изменить адрес электронной почты</string>
     <string name="change_password">Сменить пароль</string>
     <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
@@ -281,7 +281,7 @@
     <string name="comment_model_report_fail">Ошибка отправки</string>
     <string name="comment_model_report_success">Отчёт отправлен</string>
     <string name="comment_model_send_fail">Ошибка отправки</string>
-    <string name="comment_model_send_fail_frequently">Повторите попытку позже.</string>
+    <string name="comment_model_send_fail_frequently">Повторите позже.</string>
     <string name="comment_model_send_forbid_desc">Вы опубликовали несколько комментариев, содержание которых нарушают стандарты нашего сообщества. Ваш аккаунт окончательно заблокирован. Вы можете обжаловать решение, используя обратную связь в приложении.</string>
     <string name="comment_model_send_forbid_tips">Аккаунт заблокирован</string>
     <string name="comment_model_send_success">Успешно отправлен</string>
@@ -297,7 +297,7 @@
     <string name="common_google_play_services_install_title">Установите сервисы Google Play</string>
     <string name="common_google_play_services_notification_channel_name">Проверка доступности сервисов Google Play</string>
     <string name="common_google_play_services_notification_ticker">Ошибка доступа к сервисам Google Play</string>
-    <string name="common_google_play_services_unknown_issue">%1$s не удалось подключиться к сервисам Google Play. Повторите попытку позже.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s не удалось подключиться к сервисам Google Play. Повторите позже.</string>
     <string name="common_google_play_services_unsupported_text">Для %1$s требуются сервисы Google Play, которые не поддерживаются на этом устройстве.</string>
     <string name="common_google_play_services_update_button">Обновить</string>
     <string name="common_google_play_services_update_text">Для работы %1$s необходимо обновить сервисы Google Play.</string>
@@ -305,7 +305,7 @@
     <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы %1$s, обновляются.</string>
     <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
     <string name="common_open_on_phone">Открыть на устройстве</string>
-    <string name="common_retry_late_hint">Повторите попытку позже</string>
+    <string name="common_retry_late_hint">Повторите позже</string>
     <string name="common_signin_button_text">Войти</string>
     <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
     <string name="confirm_activate_email">Подтверждено</string>
@@ -450,13 +450,13 @@ ID: %s
     <string name="error_icon_content_description">Ошибка</string>
     <string name="error_invalid_bind_address">Неверный адрес электронной почты.</string>
     <string name="error_mg_content_not_available">Этот контент недоступен в вашей стране.</string>
-    <string name="error_mg_no_content">Контент для этого фильма недоступен. Повторите попытку позже</string>
-    <string name="error_mg_no_content_for_tv">Контента для этого ТВ-шоу недоступен. Повторите попытку позже</string>
-    <string name="error_msg_invalid_url">Неверный URL. Повторите попытку позже</string>
+    <string name="error_mg_no_content">Контент для этого фильма недоступен. Повторите позже</string>
+    <string name="error_mg_no_content_for_tv">Контента для этого ТВ-шоу недоступен. Повторите позже</string>
+    <string name="error_msg_invalid_url">Неверный URL. Повторите позже</string>
     <string name="error_msg_no_network">Сетевое соединение не обнаружено. Пожалуйста, убедитесь, что вы подключены к сети и попробуйте снова.</string>
-    <string name="error_msg_server_error">Сервер недоступен. Повторите попытку позже.</string>
-    <string name="error_msg_socket_timeout">Тайм-аут сокета. Повторите попытку позже</string>
-    <string name="error_msg_video_play_time_out">Не удается воспроизвести видео. Повторите попытку позже.</string>
+    <string name="error_msg_server_error">Сервер недоступен. Повторите позже.</string>
+    <string name="error_msg_socket_timeout">Тайм-аут сокета. Повторите позже</string>
+    <string name="error_msg_video_play_time_out">Не удается воспроизвести видео. Повторите позже.</string>
     <string name="error_msg_video_play_time_out_title">Тайм-аут</string>
     <string name="error_no_content">Контент не доступен.</string>
     <string name="error_title">Сведения</string>
@@ -765,7 +765,7 @@ ID: %s
     <string name="galleryplus_v_dialog_hint_too_long">Слишком длинное имя файла</string>
     <string name="galleryplus_v_network_failed">Не удалось подключиться к сети</string>
     <string name="galleryplus_v_ok">ОК</string>
-    <string name="galleryplus_video_circulate_error">Ошибка трансляции. Повторите попытку позже.</string>
+    <string name="galleryplus_video_circulate_error">Ошибка трансляции. Повторите позже.</string>
     <string name="galleryplus_video_circulate_loading">Трансляция потока…</string>
     <string name="galleryplus_video_circulate_quit">Нажмите для выхода</string>
     <string name="galleryplus_video_edit_save_video">Создание видео с субтитрами…</string>
@@ -880,7 +880,7 @@ ID: %s
     <string name="lbl_connection_failed_alert_title">Ошибка соединения</string>
     <string name="lbl_player_local_video_deleted_alert_dialog_text">Это видео не может быть воспроизведено.</string>
     <string name="lbl_player_no_network">Сетевое соединение не обнаружено. Убедитесь, что вы подключены к сети и попробуйте снова.</string>
-    <string name="lbl_player_response_failed_alert_dialog_text">Ваш запрос не может быть обработан сейчас. Повторите попытку позже.</string>
+    <string name="lbl_player_response_failed_alert_dialog_text">Ваш запрос не может быть обработан сейчас. Повторите позже.</string>
     <string name="lbl_setting_playback_streaming_auto">Авто</string>
     <string name="lbl_url_alert">Сведения</string>
     <string name="library_roundedimageview_libraryDescription">Быстрый ImageView (Drawable), который поддерживает закругленные углы на основе оригинального примера от Romain Guy.</string>
@@ -1980,7 +1980,7 @@ ID: %s
     <string name="sync_favorites_limit_new">В избранном более %d видео. Чтобы продолжить синхронизацию, нам придется удалить несколько старых видео.</string>
     <string name="sync_favorites_message">Синхронизировать избранное на этом устройстве с вашим аккаунтом? Более не доступные объекты будут удалены.</string>
     <string name="sync_favorites_title">Синхронизировать избранное</string>
-    <string name="system_error_info">Система занята. Повторите попытку позже.</string>
+    <string name="system_error_info">Система занята. Повторите позже.</string>
     <string name="t_check_hide_file">Выберите объекты для скрытия</string>
     <string name="t_check_unhide_file">Выберите объекты для отображения</string>
     <string name="t_downloading">Загрузка:</string>
@@ -2119,12 +2119,12 @@ ID: %s
     <string name="toast_incentive_redeem_fail_out_of_limit_2004">Сегодня вы не можете получить эту награду ещё раз</string>
     <string name="toast_incentive_redeem_fail_prize_expired_2005">Эта награда недоступна</string>
     <string name="toast_incentive_redeem_fail_prize_expired_error">Не удалось получить. Подождите немного и повторите попытку.</string>
-    <string name="toast_incentive_redeem_fail_short_of_storage_2002">В настоящее время эта награда недоступна. Повторите попытку позже.</string>
+    <string name="toast_incentive_redeem_fail_short_of_storage_2002">В настоящее время эта награда недоступна. Повторите позже.</string>
     <string name="toast_m3u8_download_path_tip">Нельзя изменить путь загрузки для контента в формате m3u8.</string>
     <string name="toast_no_data">Недоступно на данный момент. Попробуйте позже.</string>
     <string name="toast_play_error_tip">Невозможно воспроизвести этот файл</string>
     <string name="toast_request_too_frequently">Подождите</string>
-    <string name="toast_share_failed">Не удалось поделиться. Повторите попытку позже.</string>
+    <string name="toast_share_failed">Не удалось поделиться. Повторите позже.</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="tool_bar_notification_setting_sub_title">Отображать панель инструментов в шторке уведомлений</string>

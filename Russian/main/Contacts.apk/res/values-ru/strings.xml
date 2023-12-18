@@ -1480,7 +1480,7 @@
     <string name="passport_error_user_password">Пароли не совпадают</string>
     <string name="passport_exceed_binded_phone_times_notice">Этот номер телефона уже связан с другим аккаунтом Xiaomi</string>
     <string name="passport_facebook_login_btn_content_description">Войти с помощью Facebook</string>
-    <string name="passport_frequency_try_later">Слишком много запросов. Повторите попытку позже.</string>
+    <string name="passport_frequency_try_later">Слишком много запросов. Повторите позже.</string>
     <string name="passport_get_login_type_next">Далее</string>
     <string name="passport_get_phone_verifycode_exceed_limit">На этот номер было отправлено слишком много проверочных кодов. Повторите попытку через 24 часа.</string>
     <string name="passport_google_login_btn_content_description">Войти с помощью Google</string>
@@ -1977,7 +1977,7 @@
     <string name="sim_error_password_error">Неверный пароль</string>
     <string name="sim_error_storage_full">SIM карта заполнена</string>
     <string name="sim_error_text_too_long">Имя слишком длинное</string>
-    <string name="sim_export_error">SIM-карта не готова, повторите попытку позже</string>
+    <string name="sim_export_error">SIM-карта не готова, повторите позже</string>
     <string name="sim_export_loading">Чтение SIM карты…</string>
     <string name="sim_indexed_contact_not_exist">Позиция \"%1$d\" на SIM карте отсутствует. Позиция должна быть между %2$d и %3$d.</string>
     <string name="sim_no_contact">На SIM карте нет контактов</string>
@@ -2209,10 +2209,10 @@
     <string name="user_profile_contacts_list_header">Я</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
-    <string name="vcard_export_request_rejected_message">Запрос на экспорт vCard отклонен. Повторите попытку позже.</string>
+    <string name="vcard_export_request_rejected_message">Запрос на экспорт vCard отклонен. Повторите позже.</string>
     <string name="vcard_export_will_start_message">Экспорт \"%s\" начнется в ближайшее время.</string>
     <string name="vcard_import_failed">Ошибка импорта vCard %s.</string>
-    <string name="vcard_import_request_rejected_message">Запрос на импорт vCard отклонен. Повторите попытку позже.</string>
+    <string name="vcard_import_request_rejected_message">Запрос на импорт vCard отклонен. Повторите позже.</string>
     <string name="vcard_import_will_start_message">Импорт \"%s\" начнется в ближайшее время.</string>
     <string name="vcard_import_will_start_message_with_default_name">Файл будет импортирован в ближайшее время</string>
     <string name="vcard_unknown_filename">контакт</string>
@@ -2255,7 +2255,7 @@
     <string name="yellowpage_fc_toast">Невозможно использовать эту функцию из-за сбоя Справочника</string>
     <string name="yellowpage_mi_family">Xiaomi House</string>
     <string name="yellowpage_navigation_ad_hint">Реклама</string>
-    <string name="yellowpage_navigation_balance_refresh_failed">Баланс и трафик не могут быть проверены, повторите попытку позже.</string>
+    <string name="yellowpage_navigation_balance_refresh_failed">Баланс и трафик не могут быть проверены, повторите позже.</string>
     <string name="yellowpage_navigation_balance_refresh_succeed">Баланс и трафик были проверены</string>
     <string name="yellowpage_navigation_clear_search_history">Очистить историю</string>
     <string name="yellowpage_navigation_more_items">Ещё</string>

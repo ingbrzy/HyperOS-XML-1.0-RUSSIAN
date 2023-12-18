@@ -360,7 +360,7 @@
     <string name="app_pa_setting_retract_dialog_message">Если вы продолжите, согласие с Политикой конфиденциальности приложения \"Лента виджетов\" будет отозвано. Уже собранная и сохранённая личная информация будет удалена в течение определённого срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку приложение \"Лента виджетов\" предоставляет свои сервисы на основе сбора некоторой личной информации, отзыв согласия будет рассматриваться как отказ от использования этих сервисов. Отозвать согласие?</string>
     <string name="app_pa_setting_retract_dialog_negative">Отозвать</string>
     <string name="app_pa_setting_retract_error">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
-    <string name="app_pa_setting_retract_error_message">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="app_pa_setting_retract_error_message">Ошибка сервера. Повторите позже.</string>
     <string name="app_pa_setting_retract_error_title">Не удалось отозвать согласие</string>
     <string name="app_pa_setting_retract_no_net_message">Для отзыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="app_pa_setting_retract_no_net_title">Ошибка подключения к сети</string>
@@ -772,7 +772,7 @@
     <string name="cta_title">Добро пожаловать в Ленту виджетов</string>
     <string name="currency_china">CNY</string>
     <string name="daily_greeting">Ежедневные приветствия</string>
-    <string name="data_error">Произошла ошибка, повторите попытку позже</string>
+    <string name="data_error">Произошла ошибка, повторите позже</string>
     <string name="data_error_show">Заказ выполнен, не удалось отобразить сведения</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
@@ -1133,7 +1133,7 @@ ID:%s
     <string name="flybird_fp_open">Пожалуйста, проверьте Touch ID, чтобы активировать Touch Pay</string>
     <string name="flybird_fp_retry_tips">Совершено максимальное число попыток определения Touch ID, выйти</string>
     <string name="flybird_fp_tips">Пожалуйста, проверьте Touch ID</string>
-    <string name="flybird_fp_unavailable">Touch Pay временно недоступен, повторите попытку позже</string>
+    <string name="flybird_fp_unavailable">Touch Pay временно недоступен, повторите позже</string>
     <string name="flybird_fp_val_failed">Данные Touch ID не подтверждены, попробуйте ещё раз</string>
     <string name="flybird_fp_val_ok">Данные Touch ID подтверждены, идёт передача…</string>
     <string name="flybird_fp_validate_too_often">Проверка Touch ID</string>
@@ -1291,7 +1291,7 @@ ID:%s
     <string name="list_icon_add">Добавить</string>
     <string name="list_icon_delete">Удалить</string>
     <string name="list_icon_drag">Переместить</string>
-    <string name="load_more_error">Ошибка сети. Повторите попытку позже.</string>
+    <string name="load_more_error">Ошибка сети. Повторите позже.</string>
     <string name="load_no_more">Больше ничего нет</string>
     <string name="loading_desktop">Подождите…</string>
     <string name="locating_fail">Не удалось получить геопозицию</string>
@@ -1373,7 +1373,7 @@ ID:%s
     <string name="mini_add_fp">Сначала перейдите в систему телефона и добавьте отпечатки пальцев, чтобы активировать пароль Touch ID Alipay</string>
     <string name="mini_agree">Принять</string>
     <string name="mini_already_download">Загружено</string>
-    <string name="mini_app_error">Система перегружена, повторите попытку позже</string>
+    <string name="mini_app_error">Система перегружена, повторите позже</string>
     <string name="mini_auth_bracelet">Проверить Браслет</string>
     <string name="mini_auth_service_down_tips">Плагин безопасности Alipay был заблокирован, пожалуйста, убедитесь, что на Вашем телефоне не установлены блокирующие ПО, например: Greenify, LBE Privacy Guard</string>
     <string name="mini_back">Назад</string>
@@ -1407,7 +1407,7 @@ ID:%s
     <string name="mini_install_tips">Пожалуйста, загрузите и установите (обновите) плагин безопасности Alipay</string>
     <string name="mini_loading">Alipay</string>
     <string name="mini_net_error">Низкая скорость сети, невозможно получить результаты платежа, вы можете посмотреть счёт Alipay, приложение/сайт, на котором выполнялась операция, или обновить соединение с сетью</string>
-    <string name="mini_net_error_weak">Низкая скорость сети, повторите попытку позже</string>
+    <string name="mini_net_error_weak">Низкая скорость сети, повторите позже</string>
     <string name="mini_no_download_url">Чтобы подключить платеж через браслет, необходимо скачать ПО для браслета. Сейчас путь загрузки получить не удалось, пожалуйста, свяжитесь с Alipay по номеру горячей линии (95188)</string>
     <string name="mini_no_input">Обязательно к заполнению</string>
     <string name="mini_open_bluetooth">Активировать</string>
@@ -1829,7 +1829,7 @@ ID:%s
     <string name="pa_express_setting_number_already_add">Этот номер телефона уже добавлен. Попробуйте другой.</string>
     <string name="pa_express_setting_number_title">Добавление номера телефона</string>
     <string name="pa_express_setting_request_failed">Не удалось отправить запрос. Код ошибки: %s</string>
-    <string name="pa_express_setting_service_unavailable">Произошла ошибка, повторите попытку позже.</string>
+    <string name="pa_express_setting_service_unavailable">Произошла ошибка, повторите позже.</string>
     <string name="pa_express_setting_subscribe_phone_failed">Не удалось добавить номер телефона</string>
     <string name="pa_express_setting_subscribe_phone_success">Номер телефона добавлен</string>
     <string name="pa_express_setting_verification_code_failed">Не удалось отправить SMS</string>
@@ -2131,7 +2131,7 @@ ID:%s
     <string name="pa_setting_privacy_revoke_cta_positive">Отозвать</string>
     <string name="pa_setting_privacy_revoke_cta_progress">Отозвать (%d сек.)</string>
     <string name="pa_setting_privacy_revoke_cta_summary">Отозвы согласия с Политикой конфиденциальности Ленты виджетов</string>
-    <string name="pa_setting_privacy_revoke_error_message">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="pa_setting_privacy_revoke_error_message">Ошибка сервера. Повторите позже.</string>
     <string name="pa_setting_privacy_revoke_error_title">Ошибка отзыва согласия</string>
     <string name="pa_setting_privacy_revoke_no_net_message">Для отзыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="pa_setting_privacy_revoke_no_net_title">Не удалось подключиться к сети</string>

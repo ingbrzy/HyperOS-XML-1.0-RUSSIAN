@@ -543,7 +543,7 @@
     <string name="callFailed_resp_to_status_enquiry">Ответ на STATUS ENQUIRY</string>
     <string name="callFailed_secure_mode">Неэкстренный вызов в безопасном режиме недоступен</string>
     <string name="callFailed_semantically_incorrect_message">Семантически неверное сообщение</string>
-    <string name="callFailed_server_error">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="callFailed_server_error">Ошибка сервера. Повторите позже.</string>
     <string name="callFailed_server_unreachable">Сервер недоступен</string>
     <string name="callFailed_service_option_not_available">Услуга или опция недоступна, не указано</string>
     <string name="callFailed_service_or_option_not_implemented">Услуга или опция не реализована, не указано</string>
@@ -846,7 +846,7 @@
     <string name="connect_disconnect_vibrate_summary">Вибрировать при ответе собеседника на ваш вызов</string>
     <string name="connect_disconnect_vibrate_title">Вибрация при ответе собеседника</string>
     <string name="connect_disconnect_vibrate_weak">Слабая</string>
-    <string name="connect_later">Не удалось подключиться к этой сети. Повторите попытку позже.</string>
+    <string name="connect_later">Не удалось подключиться к этой сети. Повторите позже.</string>
     <string name="connected_to_metered_access_point">Подключено к сети с тарификацией</string>
     <string name="connected_via_app">Подключено через %1$s</string>
     <string name="connected_via_carrier">Подключено через %1$s</string>
@@ -1461,12 +1461,12 @@
     <string name="kr_emergency_125">Сообщить о контрабанде (%d)</string>
     <string name="kr_emergency_message">Подтвердите набор %s. Набрать сейчас?</string>
     <string name="kr_emergency_with_number">Введите номер телефона для набора</string>
-    <string name="kt_lte_emm_cause_19_22">Регистрация сети… Повторите попытку позже.</string>
+    <string name="kt_lte_emm_cause_19_22">Регистрация сети… Повторите позже.</string>
     <string name="kt_lte_emm_cause_3">Не удалось проверить пользователя. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, посетите центр обслуживания клиентов.</string>
     <string name="kt_lte_emm_cause_6">Не удалось проверить устройство. Перезагрузите устройство %1$d или %2$d раза после установки новой USIM-карты. Если проблема повторяется, посетите центр обслуживания клиентов.</string>
     <string name="kt_lte_emm_cause_8">Требуется активация. Посетите центр обслуживания клиентов.</string>
     <string name="kt_lte_emm_cause_others">Не удалось зарегистрировать сеть</string>
-    <string name="kt_lte_msim_emm_cause_19_22">SIM %d регистрация сети… Повторите попытку позже.</string>
+    <string name="kt_lte_msim_emm_cause_19_22">SIM %d регистрация сети… Повторите позже.</string>
     <string name="kt_lte_msim_emm_cause_3">SIM %d не удалось проверить пользователя. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, посетите центр обслуживания клиентов.</string>
     <string name="kt_lte_msim_emm_cause_6">SIM %d не удалось проверить устройство. Если проблема повторяется, посетите центр обслуживания клиентов.</string>
     <string name="kt_lte_msim_emm_cause_8">SIM %d требуется активация. Посетите центр обслуживания клиентов.</string>
@@ -1512,7 +1512,7 @@
     <string name="last_sim_callback_title">Запоминать настройки SIM</string>
     <string name="launch_defaults_none">Настройки по умолчанию не установлены</string>
     <string name="launch_defaults_some">Установлены некоторые настройки по умолчанию</string>
-    <string name="lgu_emm_16_17_22">Регистрация сети… Повторите попытку позже.</string>
+    <string name="lgu_emm_16_17_22">Регистрация сети… Повторите позже.</string>
     <string name="lgu_emm_cause_11_12_13_15">Не удалось зарегистрировать сеть</string>
     <string name="lgu_emm_cause_2">Требуется активация. Посетите центр обслуживания клиентов. (+%1$d-%2$d-%3$d-%4$d).</string>
     <string name="lgu_emm_cause_3">Не удалось проверить пользователя. Посетите центр обслуживания клиентов. (+%1$d-%2$d-%3$d-%4$d).</string>
@@ -1521,7 +1521,7 @@
     <string name="lgu_emm_cause_8">Не удалось зарегистрировать сеть. Посетите центр обслуживания клиентов. (+%1$d-%2$d-%3$d-%4$d).</string>
     <string name="lgu_emm_cause_others">Не удалось подключиться к сети. Посетите центр обслуживания клиентов. (+%1$d-%2$d-%3$d-%4$d).</string>
     <string name="lgu_msim_emm_cause_11_12_13_15">SIM %d не удалось зарегистрировать сеть</string>
-    <string name="lgu_msim_emm_cause_16_17_22">SIM %d регистрация сети… Повторите попытку позже.</string>
+    <string name="lgu_msim_emm_cause_16_17_22">SIM %d регистрация сети… Повторите позже.</string>
     <string name="lgu_msim_emm_cause_2">SIM %1$d требуется активация. Посетите центр обслуживания клиентов. (+%2$d-%3$d-%4$d-%5$d).</string>
     <string name="lgu_msim_emm_cause_3">SIM %1$d не удалось проверить пользователя. Посетите центр обслуживания клиентов. (+%2$d-%3$d-%4$d-%5$d).</string>
     <string name="lgu_msim_emm_cause_6">SIM %1$d не удалось проверить устройство. Посетите центр обслуживания клиентов.(+%2$d-%3$d-%4$d-%5$d).</string>

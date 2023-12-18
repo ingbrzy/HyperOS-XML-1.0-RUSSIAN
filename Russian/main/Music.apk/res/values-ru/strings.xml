@@ -1284,7 +1284,7 @@ ID: %s
     <string name="passport_exceed_binded_phone_times_notice">Этот номер телефона уже связан с другим аккаунтом Xiaomi</string>
     <string name="passport_facebook_login_btn_content_description">Войти с помощью Facebook</string>
     <string name="passport_forget_password"><u>Забыли пароль?</u></string>
-    <string name="passport_frequency_try_later">Слишком много запросов. Повторите попытку позже.</string>
+    <string name="passport_frequency_try_later">Слишком много запросов. Повторите позже.</string>
     <string name="passport_get_login_type_next">Далее</string>
     <string name="passport_get_phone_verifycode_exceed_limit">На этот номер было отправлено слишком много проверочных кодов. Повторите попытку через 24 часа.</string>
     <string name="passport_get_verify_code">Получить код</string>

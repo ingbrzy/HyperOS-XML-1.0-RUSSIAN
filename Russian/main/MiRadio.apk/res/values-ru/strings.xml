@@ -313,7 +313,7 @@ ID:%s
     <string name="download_auto_cancel">Download favorites is off</string>
     <string name="download_auto_message">"Songs that you favorite will be downloaded automatically when you're connected to Wi-Fi. You can change this in Settings."</string>
     <string name="download_cloud_error_not_auth">Войдите в MI Аккаунт и повторите попытку.</string>
-    <string name="download_cloud_error_retryable">Ошибка сервера Xiaomi Cloud. Повторите попытку позже.</string>
+    <string name="download_cloud_error_retryable">Ошибка сервера Xiaomi Cloud. Повторите позже.</string>
     <string name="download_cloud_error_unknow">"Не удалось подключиться к Xiaomi Cloud"</string>
     <string name="download_complete">Успешно загружено</string>
     <string name="download_complete_start_install">Установка…</string>
@@ -813,7 +813,7 @@ ID:%s
     <string name="open_settings">Настройки</string>
     <string name="optimize_all_until_optimized">Обновление обложки и текста…</string>
     <string name="optimize_all_until_scanned">Подождите, пока приложение Музыка не закончит поиск на накопителе.</string>
-    <string name="order_process_fail">Не удалось авторизоваться. Повторите попытку позже.</string>
+    <string name="order_process_fail">Не удалось авторизоваться. Повторите позже.</string>
     <string name="other_filter">Другие</string>
     <string name="other_song_in_album">Другие песни из этого альбома</string>
     <string name="package_filter">Пакеты</string>
@@ -994,7 +994,7 @@ ID:%s
     <string name="rank_list">Хит-парад</string>
     <string name="recently_played">Недавние</string>
     <string name="recently_played_songs">Недавние</string>
-    <string name="recognize_calling_network_error">Не удалось подключиться к сети. Повторите попытку позже.</string>
+    <string name="recognize_calling_network_error">Не удалось подключиться к сети. Повторите позже.</string>
     <string name="recommend">Рекомендовать</string>
     <string name="recommend_list">Рекомендуемые</string>
     <string name="recommended_file_size_download_in_mobile">Использовать %s мобильного интернета для загрузки файла?</string>

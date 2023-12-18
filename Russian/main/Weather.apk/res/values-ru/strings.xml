@@ -447,13 +447,13 @@
     <string name="network_unavailable">Не удалось подключиться к сети</string>
     <string name="news_hour_minute_time_format">dd.MM.yyyy HH:mm</string>
     <string name="news_load_more_default">Потяните вниз, чтобы обновить</string>
-    <string name="news_load_more_failed">Сеть недоступна, повторите попытку позже</string>
+    <string name="news_load_more_failed">Сеть недоступна, повторите позже</string>
     <string name="news_load_more_loading">Обновление</string>
     <string name="news_load_more_no_data">Информация только за последние 48 часов</string>
     <string name="news_refresh_loading">Загрузка</string>
     <string name="news_refresh_pull_to_refresh">Потяните вниз, чтобы обновить</string>
     <string name="news_refresh_release_to_refresh">Отпустите, чтобы обновить</string>
-    <string name="news_tips_net_error">Сеть недоступна, повторите попытку позже</string>
+    <string name="news_tips_net_error">Сеть недоступна, повторите позже</string>
     <string name="news_tips_no_data">Данных нет</string>
     <string name="news_tips_success">Информация обновлена: %1$d</string>
     <string name="night">Вечер</string>
@@ -530,7 +530,7 @@
     <string name="realtime_uv_unit">%1$s</string>
     <string name="realtime_wind_default_title">Ветер</string>
     <string name="receive_net_mock_success">Макет успешно загружен</string>
-    <string name="refresh_empty_data">Не удалось загрузить данные. Повторите попытку позже.</string>
+    <string name="refresh_empty_data">Не удалось загрузить данные. Повторите позже.</string>
     <string name="refresh_fail">Не удалось подключиться к сети</string>
     <string name="reminder_from_xiaomi_weather_app">Оповещения погоды</string>
     <string name="request_cta_connect_net">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
@@ -541,7 +541,7 @@
     <string name="request_permission_storage_dialog_content">Для обмена информацией о погоде в формате изображения</string>
     <string name="retry">Повторить</string>
     <string name="revoke_fail">Не удалось подключиться к сети</string>
-    <string name="revoke_permission_fail_msg">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="revoke_permission_fail_msg">Ошибка сервера. Повторите позже.</string>
     <string name="revoke_permission_fail_next_msg">Для отзыва согласия необходимо подключение к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="revoke_permission_fail_next_title">Ошибка подключения к сети</string>
     <string name="revoke_permission_fail_title">Ошибка отзыва согласия</string>

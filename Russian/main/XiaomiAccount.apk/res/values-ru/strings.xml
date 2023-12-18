@@ -296,13 +296,13 @@ ID:%s
     <string name="find_device_null_credential_error">Не удалось получить данные устройства, обратитесь в поддержку Xiaomi</string>
     <string name="find_device_open">Вкл.</string>
     <string name="find_device_operation_failed_error">Ошибка сервера, подождите немного и повторите попытку</string>
-    <string name="find_device_operation_failed_error_unknown">Произошла ошибка, повторите попытку позже</string>
+    <string name="find_device_operation_failed_error_unknown">Произошла ошибка, повторите позже</string>
     <string name="find_device_owner_phone">Устройство заблокировано. Позвоните %1$s.</string>
     <string name="find_device_play_sound">Воспроизвести звук</string>
     <string name="find_device_prompt_message">Устройство заблокировано. Сообщение: %1$s.</string>
     <string name="find_device_remote_exception">Ошибка RPC</string>
     <string name="find_device_request_error">Ошибка сервера, подождите немного и повторите попытку</string>
-    <string name="find_device_request_prepare_error">Не удалось получить статус, повторите попытку позже</string>
+    <string name="find_device_request_prepare_error">Не удалось получить статус, повторите позже</string>
     <string name="find_device_set_lost_model">Режим пропажи</string>
     <string name="find_device_title">Поиск устройства</string>
     <string name="find_device_unknown_error">Не удалось получить статус устройства. Подождите немного и повторите попытку.</string>
@@ -691,7 +691,7 @@ ID:%s
     <string name="passport_first_login_prompt">Аккаунт Xiaomi будет создан автоматически, если этот номер телефона используется впервые.</string>
     <string name="passport_forget_password"><u>Забыли пароль?</u></string>
     <string name="passport_forget_password_no_underline">Забыли пароль?</string>
-    <string name="passport_frequency_try_later">Слишком много запросов. Повторите попытку позже.</string>
+    <string name="passport_frequency_try_later">Слишком много запросов. Повторите позже.</string>
     <string name="passport_get_back_pwd">Восстановить пароль</string>
     <string name="passport_get_innetdate_agree">Проверить</string>
     <string name="passport_get_innetdate_disagree">Отмена</string>

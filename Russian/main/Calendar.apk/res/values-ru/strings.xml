@@ -1213,7 +1213,7 @@
     <string name="subscribe_channel_subscribe">Подписаться</string>
     <string name="subscribe_channel_subscribing">Подписка</string>
     <string name="subscribe_channel_title">Канал</string>
-    <string name="subscribe_failed">Ошибка подписки. Повторите попытку позже.</string>
+    <string name="subscribe_failed">Ошибка подписки. Повторите позже.</string>
     <string name="subscribe_text">Добавить</string>
     <string name="subscribing_card">Подписка</string>
     <string name="subscription_service">Сервис подписки</string>

@@ -112,7 +112,7 @@
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="delete_file_success">Файл удалён</string>
     <string name="delete_operation_record">Удалить запись?</string>
-    <string name="delete_operation_record_timeout">Не удалось удалить запись. Повторите попытку позже.</string>
+    <string name="delete_operation_record_timeout">Не удалось удалить запись. Повторите позже.</string>
     <string name="delete_record_only">Будут удалены только выбранные записи. Никакие файлы удалены не будут.</string>
     <string name="delete_success">Успешно удалено</string>
     <string name="detail_download_path">"Папка: "</string>
@@ -172,19 +172,19 @@
     <string name="exception_copy_file_exist">Скопированный файл уже находится в папке назначения</string>
     <string name="exception_copy_sub_path">Нельзя скопировать файлы в ту же папку</string>
     <string name="exception_create_folder_conflict">Не удалось создать папку. Папка с таким именем уже существует.</string>
-    <string name="exception_default">Системная ошибка. Повторите попытку позже.</string>
+    <string name="exception_default">Системная ошибка. Повторите позже.</string>
     <string name="exception_delete_file_null">Не удалось удалить. Сначала удалите файлы из папки.</string>
     <string name="exception_download_contain_folder">Загрузка папок не поддерживается</string>
     <string name="exception_file_no_exist">Файл не существует</string>
-    <string name="exception_get_index_cache_error">Не удалось загрузить. Повторите попытку позже.</string>
+    <string name="exception_get_index_cache_error">Не удалось загрузить. Повторите позже.</string>
     <string name="exception_move_file_exist">Перемещаемый файл уже находится в папке назначения</string>
     <string name="exception_move_sub_path">Нельзя переместить файлы в ту же папку</string>
     <string name="exception_net_not_available">Не удалось подключиться к сети</string>
     <string name="exception_not_support_modify_for_overseas_user">Эта функция недоступна за пределами Китая</string>
-    <string name="exception_param_error">Произошла ошибка. Повторите попытку позже.</string>
+    <string name="exception_param_error">Произошла ошибка. Повторите позже.</string>
     <string name="exception_rename_conflict">Не удалось переименовать. Файл с таким именем уже существует.</string>
     <string name="exception_rename_illegal_char">Имя файла не может содержать специальные символы</string>
-    <string name="exception_share_file">Не удалось загрузить. Повторите попытку позже.</string>
+    <string name="exception_share_file">Не удалось загрузить. Повторите позже.</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="fab_menu_sort">Сортировка</string>
     <string name="file_info_created">"Загружено:"</string>
@@ -433,7 +433,7 @@
     <string name="private_empty_sub_desc">Попробуйте переместить файлы сюда или загрузить их напрямую.</string>
     <string name="private_folder_name">Приватные файлы</string>
     <string name="ptp_ai_recommend_empty_page">Файлы отсутствуют</string>
-    <string name="query_quota_exception">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="query_quota_exception">Ошибка сервера. Повторите позже.</string>
     <string name="query_quota_searching">Подождите…</string>
     <string name="recent_file">Недавние</string>
     <string name="recent_jump_to_privacy_fail_notice">Это личный файл. Вернитесь на стартовую страницу и потяните вниз для просмотра.</string>
@@ -624,7 +624,7 @@
     <string name="update_dialog_content">"Новая версия: %1$s
 %2$s"</string>
     <string name="update_dialog_title">Доступно обновление</string>
-    <string name="update_failed">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="update_failed">Ошибка сервера. Повторите позже.</string>
     <string name="update_failed_no_app_info">Не удалось загрузить установочный пакет</string>
     <string name="update_no_network">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="update_no_update">Обновлений нет</string>

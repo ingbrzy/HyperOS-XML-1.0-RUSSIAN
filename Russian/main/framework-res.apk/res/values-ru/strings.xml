@@ -848,7 +848,7 @@
     <string name="httpErrorFailedSslHandshake">Не удалось установить защищенное соединение.</string>
     <string name="httpErrorFile">Не удалось получить доступ к файлу.</string>
     <string name="httpErrorFileNotFound">Не удалось найти файл.</string>
-    <string name="httpErrorIO">Не удалось подключиться к серверу. Повторите попытку позже.</string>
+    <string name="httpErrorIO">Не удалось подключиться к серверу. Повторите позже.</string>
     <string name="httpErrorLookup">Не удалось найти страницу по этому URL.</string>
     <string name="httpErrorOk">ОК</string>
     <string name="httpErrorProxyAuth">Не удалось выполнить аутентификацию через прокси-сервер.</string>
@@ -1947,7 +1947,7 @@
     <string name="restr_pin_error_doesnt_match">PIN-коды не совпадают. Повторите попытку.</string>
     <string name="restr_pin_error_too_short">PIN-код должен содержать не менее 4 символов.</string>
     <string name="restr_pin_incorrect">Ошибка</string>
-    <string name="restr_pin_try_later">Повторите попытку позже.</string>
+    <string name="restr_pin_try_later">Повторите позже.</string>
     <string name="review_notification_settings_dismiss">Закрыть</string>
     <string name="review_notification_settings_remind_me_action">Напомнить позже</string>
     <string name="review_notification_settings_text">В Android 13 и более поздних версий приложения могут отправлять вам уведомления только в том случае, если вы предоставили им такое разрешение. Нажмите, чтобы настроить разрешения для установленных приложений.</string>

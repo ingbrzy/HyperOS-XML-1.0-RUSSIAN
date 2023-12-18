@@ -419,9 +419,9 @@ ID:%s
     <string name="mibi_progress_creating">Получение информации о заказе…</string>
     <string name="mibi_progress_deduct_creating">Активация протокола автооплаты %1$s​…</string>
     <string name="mibi_progress_downloading">Загрузка…</string>
-    <string name="mibi_progress_error_pay_summary">%1$s Mi Coins пополнено, но платеж не прошел, повторите попытку позже.</string>
+    <string name="mibi_progress_error_pay_summary">%1$s Mi Coins пополнено, но платеж не прошел, повторите позже.</string>
     <string name="mibi_progress_error_pay_title">Оплата не удалась</string>
-    <string name="mibi_progress_error_recharge_summary">Пополнение не удалось, повторите попытку позже.</string>
+    <string name="mibi_progress_error_recharge_summary">Пополнение не удалось, повторите позже.</string>
     <string name="mibi_progress_error_recharge_title">Пополнение не удалось</string>
     <string name="mibi_progress_loading">Обработка…</string>
     <string name="mibi_progress_mipay_creating">Создание заказа…</string>
@@ -754,7 +754,7 @@ ID:%s
     <string name="passport_find_password_on_web_msg">Посетите account.xiaomi.com для сброса пароля</string>
     <string name="passport_forget_password"><u>Забыли пароль?</u></string>
     <string name="passport_forget_password_no_underline">Забыли пароль?</string>
-    <string name="passport_frequency_try_later">Слишком много запросов. Повторите попытку позже.</string>
+    <string name="passport_frequency_try_later">Слишком много запросов. Повторите позже.</string>
     <string name="passport_get_back_pwd">Получить пароль аккаунта</string>
     <string name="passport_get_login_type_next">Далее</string>
     <string name="passport_get_phone_verifycode_exceed_limit">На этот номер было отправлено слишком много проверочных кодов. Повторите попытку через 24 часа.</string>

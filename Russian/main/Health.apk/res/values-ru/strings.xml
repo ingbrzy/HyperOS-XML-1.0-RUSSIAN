@@ -782,7 +782,7 @@ ID:%s
     <string name="light_sleep_time_increase_description">Ваш легкий сон слишком длинный</string>
     <string name="light_sleep_time_normal_description">У вас достаточная длительность легкого сна</string>
     <string name="listening_duration">Наушники</string>
-    <string name="load_failed">Ошибка загрузки, повторите попытку позже</string>
+    <string name="load_failed">Ошибка загрузки, повторите позже</string>
     <string name="loading">Подождите…</string>
     <string name="location_perm_description">Для записи тренировок на открытом воздухе и маршрутов</string>
     <string name="location_permission_dialog_content">Разрешите Xiaomi Health использование геолокации в \"Xiaomi Health\" > \"Управление разрешениями\" для записи тренировок на открытом воздухе.</string>
@@ -1029,7 +1029,7 @@ ID:%s
     <string name="need_unrestricted_permission">Для получения более точной статистики разрешите приложению Здоровье работать в фоновом режиме.</string>
     <string name="network_connect_failure">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="network_name_china">Wi-Fi</string>
-    <string name="network_not_available">Сеть недоступна. Повторите попытку позже.</string>
+    <string name="network_not_available">Сеть недоступна. Повторите позже.</string>
     <string name="network_not_available2">Не удалось подключиться к сети</string>
     <string name="next_step">Далее</string>
     <string name="night">PM</string>
@@ -1610,7 +1610,7 @@ ID:%s
     <string name="sync_is_off">Синхронизация отключена</string>
     <string name="sync_set_network">Настройки сети</string>
     <string name="sync_status">Состояние синхронизации</string>
-    <string name="sync_status_failure_retry">Не удалось синхронизировать. Повторите попытку позже.</string>
+    <string name="sync_status_failure_retry">Не удалось синхронизировать. Повторите позже.</string>
     <string name="sync_status_in_progress">Синхронизация…</string>
     <string name="sync_status_network_failure">Не удалось синхронизировать. Подключитесь к сети и повторите попытку.</string>
     <string name="sync_status_never_done">Не синхронизировано</string>

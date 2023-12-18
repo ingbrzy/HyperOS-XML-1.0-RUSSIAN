@@ -50,7 +50,7 @@
     <string name="cancel_edit">Отмена</string>
     <string name="cannot_change_frames">Частоту кадров можно настроить только для записей с фиксированной частотой кадров.</string>
     <string name="cannot_change_parames">Нельзя менять параметры во время записи</string>
-    <string name="cannot_record">Ошибка записи, повторите попытку позже</string>
+    <string name="cannot_record">Ошибка записи, повторите позже</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="close_screen_record">Запись остановлена</string>

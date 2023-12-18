@@ -502,14 +502,14 @@
     <string name="night">Вечер</string>
     <string name="no_has_experience_version_permission">У вас нет разрешения использовать бета-версию приложения. Подайте заявку или загрузите стабильную версию.</string>
     <string name="no_inner_version">Бета-версия недоступна</string>
-    <string name="no_network">Не удалось подключиться к сети. Повторите попытку позже.</string>
+    <string name="no_network">Не удалось подключиться к сети. Повторите позже.</string>
     <string name="no_one_phone">Введите правильный номер телефона</string>
     <string name="no_storage">Хранилище недоступно</string>
     <string name="no_support_to_translate_type">Этот язык не поддерживается</string>
     <string name="noon">Полдень</string>
     <string name="not_identification_form">Не удалось распознать таблицу. Повторите выделение и начните сначала.</string>
     <string name="not_insert_contact">Не удалось добавить контакт</string>
-    <string name="not_network">Не удалось подключиться к сети. Повторите попытку позже.</string>
+    <string name="not_network">Не удалось подключиться к сети. Повторите позже.</string>
     <string name="not_permissions_hint">Разрешите доступ к камере для правильной работы</string>
     <string name="not_permissions_title">Отсутствуют разрешения</string>
     <string name="not_recommend_access_web_url">Всё равно перейти</string>
@@ -613,7 +613,7 @@
     <string name="plant_support"> (Техническая поддержка)</string>
     <string name="plant_title">Просканируйте растение, которое вы хотите распознать</string>
     <string name="please_select_an_item">Выбор элементов</string>
-    <string name="please_try_again_later">Повторите попытку позже</string>
+    <string name="please_try_again_later">Повторите позже</string>
     <string name="pref_camera_focusmode_default">непрерывное изображение</string>
     <string name="pref_camera_jpeg_quality_fine">четкое</string>
     <string name="pref_camera_jpeg_quality_normal">нормальное</string>
@@ -703,7 +703,7 @@
     <string name="screenshot_save_image_success">Изображение сохранено</string>
     <string name="screenshot_shared_image">Отправить</string>
     <string name="screenshot_translation_running">Перевод…</string>
-    <string name="sdk_not_ready">Подготовка SDK. Повторите попытку позже.</string>
+    <string name="sdk_not_ready">Подготовка SDK. Повторите позже.</string>
     <string name="search_menu_title">Поиск</string>
     <string name="secure_access_web_url">Перейти на сайт</string>
     <string name="see_app_details">Информация о приложении</string>

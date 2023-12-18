@@ -127,7 +127,7 @@
     <string name="error_icon_content_description">Ошибка</string>
     <string name="error_installation_failed">Ошибка установки</string>
     <string name="error_package_invalid">Необходимые компоненты отсутствуют или повреждены. Обратитесь за помощью к своему ИТ-администратору</string>
-    <string name="error_role_holder_download_install_failed">Повторите попытку позже или обратитесь за помощью к своему ИТ-администратору</string>
+    <string name="error_role_holder_download_install_failed">Повторите позже или обратитесь за помощью к своему ИТ-администратору</string>
     <string name="error_role_holder_hash_mismatch">Не удалось настроить %1$s. Обратитесь к своему ИТ-администратору и укажите \"Неверная контрольная сумма\".</string>
     <string name="error_role_holder_package_invalid">Не удалось настроить %1$s. Обратитесь к своему ИТ-администратору и укажите \"Компоненты отсутствуют или повреждены\".</string>
     <string name="error_wifi">Не удалось подключиться к Wi-Fi</string>
@@ -179,7 +179,7 @@
     <string name="link_isnt_secure_and_cant_be_opened_until_device_setup_finished">Это небезопасная ссылка, поэтому её нельзя открыть, пока устройство не настроено: %1$s</string>
     <string name="lock_device_description">Заблокируйте это устройство, если не осуществляете платежи</string>
     <string name="managed_device_info">Информация об управляемом устройстве</string>
-    <string name="managed_provisioning_error_text">Не удалось настроить рабочий профиль. Обратитесь в отдел технической поддержки вашей компании или повторите попытку позже.</string>
+    <string name="managed_provisioning_error_text">Не удалось настроить рабочий профиль. Обратитесь в отдел технической поддержки вашей компании или Повторите позже.</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Выберите AM или PM</string>
     <string name="material_hour_selection">Часы</string>

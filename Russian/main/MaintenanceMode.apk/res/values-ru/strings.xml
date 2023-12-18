@@ -38,7 +38,7 @@
     <string name="click_to_close">Нажмите здесь, чтобы выйти из режима обслуживания</string>
     <string name="close">Закрыть</string>
     <string name="close_maintenance_mode">Закрыть режим обслуживания</string>
-    <string name="create_fail">Не удалось создать режим обслуживания, повторите попытку позже</string>
+    <string name="create_fail">Не удалось создать режим обслуживания, повторите позже</string>
     <string name="create_fail_because_max_user">Достигнуто максимальное количество пользователей в системе, удалите пользователя или детское пространство, либо закройте предыдущий запущенный режим, затем повторите попытку</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
@@ -149,7 +149,7 @@
     <string name="open_maintenance_mode">Открыть режим обслуживания</string>
     <string name="open_maintenance_mode_msg">Чтобы избежать потери данных, рекомендуется выполнить резервное копирование до отправки устройства в ремонт</string>
     <string name="open_maintenance_mode_msg_sub">Резервное копирование данных</string>
-    <string name="open_maintenance_mode_tips">Идёт удаление связанных данных после отключения режима обслуживания. Повторите попытку позже.</string>
+    <string name="open_maintenance_mode_tips">Идёт удаление связанных данных после отключения режима обслуживания. Повторите позже.</string>
     <string name="reached_max_user">Достигнуто максимальное количество пользователей</string>
     <string name="reboot_maintenance_mode">Удаление режима обслуживания завершено, для повышения производительности устройства перезагрузите его.</string>
     <string name="reboot_msg">Включение режима обслуживания перезагрузит устройство, убедитесь, что оно включилось сразу после перезагрузки</string>

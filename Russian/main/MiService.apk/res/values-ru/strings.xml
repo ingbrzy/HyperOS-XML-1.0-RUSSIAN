@@ -351,7 +351,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="public_please_authorize">Для продолжения предоставьте разрешения</string>
     <string name="public_welcome_use_feedback_service">Добро пожаловать в \"Сервисы и обратная связь\". Если у вас возникли какие-либо вопросы в процессе использования продуктов Xiaomi, вы можете отправить отзыв, просмотреть общие проблемы или подать заявку на послепродажное обслуживание.</string>
     <string name="rationale_ask">Приложение может работать некорректно без запрошенных разрешений.</string>
-    <string name="rationale_ask_again">Приложение может работать некорректно без запрошенных разрешений. Откройте настройки, чтобы изменить разрешения.</string>
+    <string name="rationale_ask_again">Приложение может работать некорректно без запрошенных разрешений. Откройте настройки приложения для изменения разрешений.</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -454,7 +454,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="withdraw_consent_failed">Не удалось отозвать согласие</string>
-    <string name="withdraw_consent_failed_hint">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="withdraw_consent_failed_hint">Ошибка сервера. Повторите позже.</string>
     <string name="withdraw_consent_failed_hint_connect_net">Для отзыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку</string>
     <string name="withdrawing">Отзыв согласия…</string>
     <string name="yesterday">Вчера</string>

@@ -9,7 +9,7 @@
     <string name="cert_missing_error">Установка не выполнена, поскольку не удалось найти файл сертификата.</string>
     <string name="cert_not_saved">Сертификат не установлен</string>
     <string name="cert_read_error">Установка не выполнена, поскольку не удалось открыть файл сертификата.</string>
-    <string name="cert_temp_error">Временный сбой. Повторите попытку позже.</string>
+    <string name="cert_temp_error">Временный сбой. Повторите позже.</string>
     <string name="cert_too_large_error">Установка не выполнена, поскольку сертификат слишком большой.</string>
     <string name="certificate">Сертификат</string>
     <string name="certificate_capabilities_warning">Примечание: издатель этого сертификата может проверять весь трафик на устройстве.</string>

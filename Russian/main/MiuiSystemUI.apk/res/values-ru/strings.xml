@@ -2411,7 +2411,7 @@ mm"</string>
     <string name="multi_face_input">Добавить данные лица</string>
     <string name="multi_face_input_enroll">Добавление данных лица</string>
     <string name="multi_face_input_enrolling">Добавление данных лица…</string>
-    <string name="multi_face_input_reach_upper_limit">Не удалось добавить данные лица. Повторите попытку позже.</string>
+    <string name="multi_face_input_reach_upper_limit">Не удалось добавить данные лица. Повторите позже.</string>
     <string name="multi_face_input_success_msg_lift">Используйте свайп вверх на экране блокировки для разблокировки по лицу</string>
     <string name="multi_face_input_success_msg_normal">Разблокировка по лицу при включенном экране блокировки</string>
     <string name="multi_face_input_success_msg_slide">Используйте свайп вниз на экране блокировки для разблокировки по лицу</string>

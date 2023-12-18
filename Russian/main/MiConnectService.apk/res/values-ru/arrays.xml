@@ -59,4 +59,8 @@
         <item>Ю</item>
         <item>Я</item>
     </string-array>
+    <string-array name="permissions_desc">
+        <item>Для доступа, сохранения и передачи изображений, приложений и других файлов</item>
+        <item>Для передачи файлов по Bluetooth и Wi-Fi</item>
+    </string-array>
 </resources>

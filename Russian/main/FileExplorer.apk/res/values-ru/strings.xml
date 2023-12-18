@@ -741,7 +741,7 @@
     <string name="operation_upload_err_illegal_char">Имя файла содержит недопустимые символы.</string>
     <string name="operation_upload_err_larger_than_4g">Загрузка файлов размером более %d ГБ не поддерживается</string>
     <string name="operation_upload_err_not_support_overseas">Загрузка доступна только пользователям из материкового Китая.</string>
-    <string name="operation_upload_err_other">Системная ошибка. Повторите попытку позже.</string>
+    <string name="operation_upload_err_other">Системная ошибка. Повторите позже.</string>
     <string name="operation_upload_error_title">Ошибка загрузки</string>
     <string name="operation_upload_retry">Повтор</string>
     <string name="operation_upload_save_to_local">Сохранить в…</string>
@@ -825,7 +825,7 @@
     <string name="pull_to_refresh">Потяните для обновления</string>
     <string name="qq_msg">Из-за ограничений Android 11 Проводник не может получить доступ к документам QQ и отобразить их</string>
     <string name="qq_title">Доступ ограничен</string>
-    <string name="query_quota_exception">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="query_quota_exception">Ошибка сервера. Повторите позже.</string>
     <string name="query_quota_searching">Подождите…</string>
     <string name="recent_file_by_source">Источник файла</string>
     <string name="recent_file_sort_by_date">Дата</string>

@@ -643,7 +643,7 @@
     <string name="title_share_link">Поделиться ссылкой</string>
     <string name="toast_create_fail_text">Не удалось создать</string>
     <string name="toast_founction_not_support">Функция не поддерживается в текущей версии</string>
-    <string name="toast_network_error">Нет подключения к интернету, повторите попытку позже</string>
+    <string name="toast_network_error">Нет подключения к интернету, повторите позже</string>
     <string name="toast_text_kid_space_delete_success">Пространство удалено</string>
     <string name="toast_text_kid_space_deleted">Детское пространство удалено</string>
     <string name="toast_text_kid_space_deleting">Удаление</string>

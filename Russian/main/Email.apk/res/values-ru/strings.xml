@@ -1173,7 +1173,7 @@
     <string name="nav_app_bar_open_drawer_description">Открыть панель навигации</string>
     <string name="navigation_menu">Меню навигации</string>
     <string name="need_get_qq_mail">Требуется QQ Mail</string>
-    <string name="net_error">Ошибка сети, повторите попытку позже</string>
+    <string name="net_error">Ошибка сети, повторите позже</string>
     <string name="network_error">Нет соединения</string>
     <string name="network_invaild">Не удалось подключиться к сети</string>
     <string name="network_not_available">Не удалось подключиться к сети</string>
@@ -1609,8 +1609,8 @@
     <string name="sent_folder_selection_title">Выберите папку \"Отправленные\" на сервере для \"%s\"</string>
     <string name="ser_resp_err_map_certificate_validator_err">"Не удается проверить сертификат сервера
 \u0009 (проверьте, включена ли автосинхронизация)"</string>
-    <string name="ser_resp_err_map_landing_more_failure">Не удалось войти несколько раз подряд. Повторите попытку позже.</string>
-    <string name="ser_resp_err_map_landing_too_frequently">Слишком много попыток входа. Повторите попытку позже.</string>
+    <string name="ser_resp_err_map_landing_more_failure">Не удалось войти несколько раз подряд. Повторите позже.</string>
+    <string name="ser_resp_err_map_landing_too_frequently">Слишком много попыток входа. Повторите позже.</string>
     <string name="ser_resp_err_map_mailbox_locked">Аккаунт электронной почты защищен паролем. Обратитесь к провайдеру для разблокировки.</string>
     <string name="ser_resp_err_map_mailbox_not_open">Аккаунт не активирован. Обратитесь к провайдеру для активации.</string>
     <string name="ser_resp_err_map_max_connections">Слишком много устройств имеют доступ к этой учётной записи. Удалите эту учётную запись с одного из устройств, чтобы получить к ней доступ на этом.</string>
@@ -1797,7 +1797,7 @@
     <string name="title_setting_email_filter_add_rules">Добавление правил фильтрации почты</string>
     <string name="to">Кому</string>
     <string name="to_heading">"Кому: "</string>
-    <string name="toast_bar_fail_synchronization">Не удается подключиться к серверу. Повторите попытку позже.</string>
+    <string name="toast_bar_fail_synchronization">Не удается подключиться к серверу. Повторите позже.</string>
     <string name="toast_bar_insufficient_memory_space">Не удается получить почту. Недостаточно места.</string>
     <string name="toast_bar_invalid_account">Срок информации об учётной записи истёк. Нажмите, чтобы войти снова.</string>
     <string name="toast_bar_no_connection_network">Отсутствует подключение к интернету</string>

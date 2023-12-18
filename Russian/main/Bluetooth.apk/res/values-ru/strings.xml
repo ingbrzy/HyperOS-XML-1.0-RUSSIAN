@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ErrorTooManyRequests">Обрабатывается слишком много запросов. Повторите попытку позднее.</string>
+    <string name="ErrorTooManyRequests">Обрабатывается слишком много запросов. Повторите позже.</string>
     <string name="a2dp_sink_mbs_label">Звук через Bluetooth</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>

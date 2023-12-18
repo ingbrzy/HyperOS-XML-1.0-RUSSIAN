@@ -757,7 +757,7 @@ mm"</string>
     <string name="passport_exceed_binded_phone_times_notice">Этот номер телефона уже связан с другим аккаунтом Xiaomi</string>
     <string name="passport_facebook_login_btn_content_description">Войти с помощью Facebook</string>
     <string name="passport_forget_password"><u>Забыли пароль?</u></string>
-    <string name="passport_frequency_try_later">Слишком много запросов. Повторите попытку позже.</string>
+    <string name="passport_frequency_try_later">Слишком много запросов. Повторите позже.</string>
     <string name="passport_get_login_type_next">Далее</string>
     <string name="passport_get_phone_verifycode_exceed_limit">На этот номер было отправлено слишком много проверочных кодов. Повторите попытку через 24 часа.</string>
     <string name="passport_get_verify_code">Получить код</string>
@@ -1212,7 +1212,7 @@ mm"</string>
     <string name="the_united_nations_day">День Организации Объединенных Наций</string>
     <string name="the_valentines_day">День святого Валентина</string>
     <string name="the_water_lantern_festival">Фестиваль водных фонарей</string>
-    <string name="theme_apply_failured">Не удалось применить. Повторите попытку позже.</string>
+    <string name="theme_apply_failured">Не удалось применить. Повторите позже.</string>
     <string name="theme_apply_lockscreen_apply">Включение Карусели обоев…</string>
     <string name="theme_apply_lockscreen_failed">Не удалось применить</string>
     <string name="theme_apply_lockscreen_success">Успешно применено</string>
@@ -1240,7 +1240,7 @@ mm"</string>
     <string name="time_picker_label_minute">М</string>
     <string name="toast_ad_down_tip">Загрузка приложения…</string>
     <string name="toast_ad_down_tip2">Загрузка %s…</string>
-    <string name="toast_connect_failed_tip">Не удалось подключиться. Повторите попытку позже.</string>
+    <string name="toast_connect_failed_tip">Не удалось подключиться. Повторите позже.</string>
     <string name="toast_has_close_gallery">Карусель обоев отключена</string>
     <string name="toast_has_open_gallery">Карусель обоев включена</string>
     <string name="toast_load_failed_tip">Не удалось загрузить</string>

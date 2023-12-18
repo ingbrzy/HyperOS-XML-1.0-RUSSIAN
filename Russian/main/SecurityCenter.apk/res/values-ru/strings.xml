@@ -260,7 +260,7 @@
     <string name="antivirus_third_privacy_title">Политика конфиденциальности третьих лиц</string>
     <string name="antivirus_toast_already_update">Обновление не требуется</string>
     <string name="antivirus_toast_network_unavailable">Ошибка подключения к сети</string>
-    <string name="antivirus_toast_update_failed">Повторите попытку позже</string>
+    <string name="antivirus_toast_update_failed">Повторите позже</string>
     <string name="antivirus_toast_update_success">Обновление завершено</string>
     <string name="antivirus_toast_updating">Обновление сигнатур…</string>
     <string name="antivirus_update_btn_contiue">Продолжить</string>
@@ -2702,9 +2702,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="google_base_app_installed">Успешно установлено</string>
     <string name="google_base_app_installing">Установка…</string>
     <string name="google_base_app_network_anomaly">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
-    <string name="google_base_app_timeout">Время сессии истекло. Повторите попытку позже.</string>
+    <string name="google_base_app_timeout">Время сессии истекло. Повторите позже.</string>
     <string name="google_base_app_title">Установка сервисов Google</string>
-    <string name="google_base_app_toast">Идёт установка Google Services Framework в фоновом режиме. Повторите попытку позже.</string>
+    <string name="google_base_app_toast">Идёт установка Google Services Framework в фоновом режиме. Повторите позже.</string>
     <string name="grant_dialog_button_allow_onetime">Разрешить однократно</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">Запретить и больше не спрашивать</string>
     <string name="group_audio">Музыка и аудио</string>
@@ -4852,7 +4852,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_revoke_dialog_positive_text_numbers">Отозвать (%d сек.)</string>
     <string name="privacy_revoke_dialog_title">Отзыв согласия</string>
     <string name="privacy_revoke_dialog_title_cn">Внимание</string>
-    <string name="privacy_revoke_failed_dialog_content">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="privacy_revoke_failed_dialog_content">Ошибка сервера. Повторите позже.</string>
     <string name="privacy_revoke_failed_dialog_title">Не удалось отозвать согласие</string>
     <string name="privacy_revoke_tip_dialog_content"><Data>"Вы не сможете использовать \"%1$s\", если не примите обновленную Политику конфиденциальности. Принимаете обновленную&lt;a href=\"%3$s\">Политику конфиденциальности&lt;/a>  \"%2$s\"?"</Data></string>
     <string name="privacy_revoke_tip_dialog_title">Отказ от использования</string>

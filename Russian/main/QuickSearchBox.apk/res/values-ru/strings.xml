@@ -617,7 +617,7 @@
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
-    <string name="toast_network_fail">Ошибка сети. Повторите попытку позже.</string>
+    <string name="toast_network_fail">Ошибка сети. Повторите позже.</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="top_clicked">Часто используемые</string>

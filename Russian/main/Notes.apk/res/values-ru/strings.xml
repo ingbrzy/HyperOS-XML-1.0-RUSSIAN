@@ -269,7 +269,7 @@
     <string name="format_move_note_to_folder">Перемещено в %1$s</string>
     <string name="format_move_notes_out_folder">Перемещено: %1$s</string>
     <string name="format_move_notes_to_folder">Перемещено в %2$s: %1$s</string>
-    <string name="frequently_click_tips">Слишком быстро! Повторите попытку позже.</string>
+    <string name="frequently_click_tips">Слишком быстро! Повторите позже.</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
