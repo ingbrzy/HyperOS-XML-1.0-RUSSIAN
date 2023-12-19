@@ -1098,6 +1098,7 @@
     <string name="auto_rotate_switch_face_based">Включить распознавание лиц</string>
     <string name="auto_rule">Таймер</string>
     <string name="auto_silent">Расписание режима</string>
+    <string name="auto_silent_info">Эта функция перестанет работать, если режим \"Не беспокоить\" включить вручную</string>
     <string name="auto_startup_application_manage">Автозапуск</string>
     <string name="auto_sync_account_summary">Данные приложений обновляются без участия пользователя</string>
     <string name="auto_sync_account_title">Автосинхронизация данных</string>
@@ -7950,6 +7951,11 @@ OTG отключается автоматически через 10 минут �
     <string name="phone_language">Языки</string>
     <string name="phone_language_summary" />
     <string name="photo_data">Фото и видео</string>
+    <string name="photography_handle_button_function_settings">Настроить кнопку</string>
+    <string name="photography_handle_launch_and_take_photo">Сделать снимок</string>
+    <string name="photography_handle_launch_camera">Открыть камеру</string>
+    <string name="photography_handle_long_press_camera_key_enter_camera">Нажмите и удерживайте кнопку затвора для действия</string>
+    <string name="photography_handle_quick_launch_camera_title">Быстрый запуск</string>
     <string name="photography_handle_title">Рукоятка камеры</string>
     <string name="physical_keyboard_title">Физическая клавиатура</string>
     <string name="pick_up_gesture_wakeup_title">Включать при взятии в руки</string>
@@ -12613,6 +12619,8 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="wifi_status_sign_in_required">Требуется вход</string>
     <string name="wifi_status_test">Статус Wi-Fi</string>
     <string name="wifi_stopping">Отключение Wi-Fi…</string>
+    <string name="wifi_stx_logs_disabled">Журналирование Wi-Fi STx отключено</string>
+    <string name="wifi_stx_logs_enabled">Журналирование Wi-Fi STx включено</string>
     <string name="wifi_subnet_mask">Маска подсети</string>
     <string name="wifi_subscribed_access_points_tab">Подписки</string>
     <string name="wifi_subscription">Подписка</string>

@@ -219,6 +219,7 @@
     <string name="decompress_destination_error">Не удается извлечь файлы в указанную папку.</string>
     <string name="decompress_encrypted_rar_not_supported">Зашифрованные файлы RAR не поддерживаются</string>
     <string name="decompress_fail">Ошибка извлечения.</string>
+    <string name="decompress_fail_contains_special_characters">Ошибка сжатия. Имена файлов не должны содержать спецсимволы.</string>
     <string name="decompress_input_password">Введите пароль</string>
     <string name="decompress_password_error">Введен неверный пароль.</string>
     <string name="decompress_success">Извлечено</string>
@@ -687,6 +688,7 @@
     <string name="operation_decompressing">Извлечение…</string>
     <string name="operation_del_fav">Удаление из избранных…</string>
     <string name="operation_delete">Удалить</string>
+    <string name="operation_delete_confirm_dcim_message_folder">DCIM является папкой Галереи, если удалить её, все файлы Галереи будут удалены без возможности восстановления. Удалить эту папку?</string>
     <string name="operation_delete_confirm_message">Удаление</string>
     <string name="operation_delete_confirm_message_folder">"Все содержимое будет удалено.
 "</string>

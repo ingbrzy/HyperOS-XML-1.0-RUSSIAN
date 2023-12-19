@@ -43,6 +43,8 @@
     <string name="antispam_notification_text">Нажмите, чтобы включить умные функции режима \"Не беспокоить\"</string>
     <string name="antispam_notification_title">Неизвестный номер</string>
     <string name="antispam_provider">Определено %s</string>
+    <string name="app_disable_description_text">Если отключить это приложение, вызовы и другие функции приложения будут недоступны. Это системное приложение нельзя удалить.</string>
+    <string name="app_disable_title_text">Отключение приложения</string>
     <string name="bluetooth_permission_content">Системные разрешения обновлены. Разрешите приложению доступ к Bluetooth для просмотра списка устройств.</string>
     <string name="bluetooth_permission_grant_immediately">Разрешить</string>
     <string name="bluetooth_permission_later">Не сейчас</string>
@@ -414,9 +416,11 @@
     <string name="satellite_incall_tip">Динамик включен</string>
     <string name="satellite_service_provider">Сервис предоставлен China Telecom</string>
     <string name="satellite_state">Не перемещайте устройство</string>
+    <string name="satellite_state_auto_exit">Выход (%d сек.)</string>
     <string name="satellite_state_connected">Подключено к спутнику. Не перемещайте устройство</string>
     <string name="satellite_state_connected_floating">Не перемещайте устройство</string>
     <string name="satellite_state_connecting">Подключение… (%d сек.)</string>
+    <string name="satellite_state_retry">Повтор</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>

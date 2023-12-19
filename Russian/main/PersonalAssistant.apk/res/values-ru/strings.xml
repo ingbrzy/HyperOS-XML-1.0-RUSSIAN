@@ -2096,6 +2096,7 @@ ID:%s
     <string name="pa_setting_app_usage_auth_dialog_message">После отключения этой функции, виджет \"Рекомендации по приложениям\" будет недоступен. Отключить?</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Внимание</string>
     <string name="pa_setting_bugreport">Обратная связь</string>
+    <string name="pa_setting_new_simplify_title_bar">Лента виджетов</string>
     <string name="pa_setting_perm_empty">Ничего нет</string>
     <string name="pa_setting_personalized_recommenddation_swicth_summary">Получите рекомендации по виджетам на основе ваших интересов</string>
     <string name="pa_setting_personalized_recommenddation_swicth_title">Персональные рекомендации</string>
@@ -2280,6 +2281,10 @@ ID:%s
     <string name="pa_widget_menu_edit">Изменить</string>
     <string name="pa_widget_menu_edit_card_in_stack">Изменить \"%s\"</string>
     <string name="pa_widget_menu_edit_stack">Изменить группу</string>
+    <string name="pa_widget_menu_improve_edit">Изменить</string>
+    <string name="pa_widget_menu_improve_remove">Удалить</string>
+    <string name="pa_widget_menu_improve_remove_card_in_stack">Удалить \"%s\"</string>
+    <string name="pa_widget_menu_improve_replace">Заменить</string>
     <string name="pa_widget_menu_remove">Удалить</string>
     <string name="pa_widget_menu_remove_card_in_stack">Удалить \"%s\"</string>
     <string name="pa_widget_menu_replace">Виджеты</string>

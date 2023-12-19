@@ -144,4 +144,10 @@
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
     </plurals>
+    <plurals name="satellite_state_fail">
+        <item quantity="other">"Прошло %d сек. без подключения к спутнику.
+Повторить попытку или выйти?"</item>
+        <item quantity="other">"Прошло %d сек. без подключения к спутнику.
+Повторить попытку или выйти?"</item>
+    </plurals>
 </resources>
