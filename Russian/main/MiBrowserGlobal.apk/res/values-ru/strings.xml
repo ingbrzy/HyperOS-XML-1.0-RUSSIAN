@@ -367,16 +367,24 @@
     <string name="browser_default_setting_confirm">ОК</string>
     <string name="browser_default_setting_content">Быстрый и безопасный просмотр веб-страниц</string>
     <string name="browser_default_setting_title">Установить браузером по умолчанию</string>
+    <string name="browser_slide_video_history">Недавние</string>
+    <string name="browser_slide_video_like">Понравилось</string>
+    <string name="browser_slide_video_my">Профиль</string>
     <string name="browser_wallpaper">Обои</string>
+    <string name="browser_wallpaper_activity">Предложения</string>
     <string name="browser_wallpaper_application">Применить</string>
     <string name="browser_wallpaper_art">Искусство</string>
     <string name="browser_wallpaper_currently_in_use">Выбрано</string>
+    <string name="browser_wallpaper_gallery">Мои фото</string>
     <string name="browser_wallpaper_landscape">Пейзажи</string>
     <string name="browser_wallpaper_more_btn">Показать еще</string>
+    <string name="browser_wallpaper_my">Мои обои</string>
     <string name="browser_wallpaper_preview">Просмотр</string>
+    <string name="browser_wallpaper_sub">Получать рекомендации по выбору праздничных и специальных обоев</string>
     <string name="browser_wallpaper_subtitle">Персонализируйте Mi Браузер с помощью обоев</string>
     <string name="browser_wallpaper_system_default">По умолчанию</string>
     <string name="browser_wallpaper_title">Обои</string>
+    <string name="browser_wallpaper_toast">Выключите переключатель \"Акции\", чтобы сменить обои</string>
     <string name="btn_agree">Согласиться</string>
     <string name="btn_cancel">Отмена</string>
     <string name="btn_confirm">Понятно</string>
@@ -608,12 +616,14 @@
     <string name="confirm_unbundled_phone_dialog_message">Этот номер телефона был связан с Xiaomi аккаунтом %2$s %1$s. Если вы продолжите, он больше не будет связан с Xiaomi аккаунтом %3$s. Продолжить?</string>
     <string name="connection_lost">Отключено</string>
     <string name="consume">Исходящие</string>
+    <string name="content_center_title">Контент-центр</string>
     <string name="content_collection_done">Добавлено в избранное</string>
     <string name="content_recommend">Рекомендуемое</string>
     <string name="context_menu_add_to_desk_id">Добавить на Рабочий стол</string>
     <string name="context_menu_orientation_portrait_swap_id">Повернуть экран</string>
     <string name="contextmenu_add_contact">Добавить контакт</string>
     <string name="contextmenu_copy">Копировать</string>
+    <string name="contextmenu_copy_image">Копировать изображение</string>
     <string name="contextmenu_copylink">Копировать URL</string>
     <string name="contextmenu_dial_dot">Набор номера…</string>
     <string name="contextmenu_download_image">Сохранить изображение</string>
@@ -642,6 +652,8 @@
     <string name="continue_reading">Продолжить просмотр</string>
     <string name="continue_watch_video">Продолжить просмотр</string>
     <string name="copy">Копировать</string>
+    <string name="copy_image_failed">Не удалось скопировать</string>
+    <string name="copy_image_success">Скопировано</string>
     <string name="copy_success">Скопировано</string>
     <string name="copy_toast_msg">Ссылка скопирована в буфер обмена.</string>
     <string name="copy_url">Копировать URL</string>
@@ -1376,6 +1388,7 @@ ID:%s
     <string name="load_end">Больше ничего нет</string>
     <string name="load_error_tip">Ошибка загрузки, нажмите для повтора</string>
     <string name="load_failed">Не удалось загрузить информацию. Попробуйте ещё раз.</string>
+    <string name="load_failure">Не удалось загрузить данные</string>
     <string name="load_more">Показать ещё</string>
     <string name="load_more_footer_status_msg_error_load">Не удалось загрузить. Повторите попытку.</string>
     <string name="load_more_footer_status_msg_error_no_network">Не удалось подключиться к сети</string>
@@ -1572,6 +1585,7 @@ ID:%s
     <string name="more_option">Дополнительно</string>
     <string name="more_privacy">Другие параметры конфиденциальности</string>
     <string name="more_recommend">Другие рекомендации</string>
+    <string name="more_videos">Другие видео</string>
     <string name="morning">Утро</string>
     <string name="most_visited_sites">Часто посещаемые</string>
     <string name="most_visited_sites_switch">Показывать часто посещаемые сайты на стартовой странице</string>
@@ -1907,6 +1921,10 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="news_load_failed">Повторить</string>
     <string name="news_loading">Загрузка…</string>
     <string name="news_native_see_all">Полная статья</string>
+    <string name="news_video_history">История</string>
+    <string name="news_video_history_empty">Здесь ничего нет</string>
+    <string name="news_video_invisible_item">Невозможно просмотреть это видео</string>
+    <string name="news_video_no_more_videos">На данный момент это все</string>
     <string name="next">Далее</string>
     <string name="nf_choose_reason">Опишите проблему</string>
     <string name="nf_content_gif_label">GIF</string>
@@ -2522,6 +2540,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="recent_apk_status_install">УСТАНОВЛЕНО</string>
     <string name="recent_search_hint_text">%s</string>
     <string name="recommend">Рекомендуемое</string>
+    <string name="recommend_bottom_guide">Проведите вверх для просмотра других видео</string>
     <string name="recommend_button">Подписаться (%s)</string>
     <string name="recommend_description">Мы выбрали для вас несколько авторов, которые могут вам понравиться.</string>
     <string name="recommending_close_toast_text">Выключить эту функцию можно в Дополнительных настройках</string>
@@ -2794,6 +2813,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="slide_card">Проведите для просмотра</string>
     <string name="slide_guide">Слайд для возврата</string>
     <string name="slide_guide_back">Проведите вправо, чтобы восстановить страницу</string>
+    <string name="slide_next_video_text">"Следующее видео: "</string>
     <string name="small_video_ad_app_text_click">Загрузить</string>
     <string name="small_video_ad_download_text">Загрузить</string>
     <string name="small_video_ad_web_text">Открыть</string>
@@ -3116,6 +3136,10 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
+    <string name="turn_off_dia_btn_cancel">Отмена</string>
+    <string name="turn_off_dia_btn_turn_off">Выключить</string>
+    <string name="turn_off_dia_content">Если вы выключите Контент-центр, то не сможете получить доступ к нему при помощи жеста \"Провести вверх по Рабочему столу\". Вы можете изменить действие для этого жеста в разделе \"Настройки\" > \"Рабочий стол\". Выключить Контент-центр?</string>
+    <string name="turn_off_dia_title">Выключить Контент-центр?</string>
     <string name="twitter_moments">Моменты Twitter</string>
     <string name="type_not_support">Формат файла не поддерживается. Распакуйте и повторите попытку.</string>
     <string name="unSwitchText">НЕТ</string>
@@ -3158,10 +3182,16 @@ ID сбоя: http://crash/%1$s"</string>
 Вы в любое время можете отказаться от участия в программе в разделе Настройки > Приватность и безопасность."</string>
     <string name="user_experience_disagree">Отклонить</string>
     <string name="user_experience_title">Программа улучшения качества</string>
+    <string name="user_guide_agree">Согласиться</string>
     <string name="user_guide_color_mode_info">Доступны светлая и тёмная темы</string>
     <string name="user_guide_color_mode_title">Выберите цветовую схему</string>
     <string name="user_guide_control_privacy_tips">Полностью управляйте конфиденциальностью</string>
+    <string name="user_guide_disagree">Отклонить</string>
+    <string name="user_guide_privacy_message">Перед использованием Контент-центра ознакомьтесь и согласитесь с нашими &lt;font color=\"#0a84ff\">&lt;a href=\"%2$s\" style=\"color:#0a84ff;\">Условиями использования&lt;/a>&lt;/font> и &lt;font color=\"#0a84ff\">&lt;a href=\"%1$s\" style=\"color:#0a84ff;\">Политикой конфиденциальности&lt;/a>&lt;/font>.</string>
+    <string name="user_guide_provide_service_content">Популярные видео и новости</string>
+    <string name="user_guide_provide_service_title">Эта функция предоставляет следующие службы:</string>
     <string name="user_guide_read_info_tips">Для добавления в поисковую выдачу приложений Браузеру необходим доступ к списку приложений на устройстве.</string>
+    <string name="user_guide_turn_off_feature">Нажмите &lt;font color=\"#0a84ff\">&lt;u>здесь&lt;/u>&lt;/font>, чтобы выключить эту функцию.</string>
     <string name="user_id_hint">Эл. почта/Номер телефона/ID Xiaomi аккаунта</string>
     <string name="username">Имя пользователя</string>
     <string name="uuid">UUID (нажмите для экспорта)</string>
@@ -3222,6 +3252,10 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_retry">Повторить</string>
     <string name="video_downloading_group">Загружаются</string>
     <string name="video_edit">Изменить</string>
+    <string name="video_feedback_description">Мы собираем и используем информацию, которую вы вводите выше, для улучшения пользовательского опыта. Для получения более подробной информации о том, как мы собираем и обрабатываем вашу личную информацию, обратитесь к нашей Политике конфиденциальности.</string>
+    <string name="video_feedback_description_title">Эта информация будет использоваться только для рекомендаций контента</string>
+    <string name="video_feedback_not_sumbit_toast">Перед отправкой выберите ответ</string>
+    <string name="video_feedback_thanks">Благодарим за отзыв</string>
     <string name="video_float_window_text">Всплывающее видео</string>
     <string name="video_fragment_name_collections">Избранное</string>
     <string name="video_fragment_name_download">Офлайн видео</string>
@@ -3240,7 +3274,10 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_push_multi_title">Доступно обновление</string>
     <string name="video_push_single_message">Нажмите для обновления до %1$d.</string>
     <string name="video_replay_btn">Повторить</string>
+    <string name="video_report_entrance">Сообщить</string>
+    <string name="video_report_submit">Отправить</string>
     <string name="video_retry_btn">Повторить</string>
+    <string name="video_select_report_reason">Выберите причину</string>
     <string name="video_service_notification_title">Воспроизведение всплывающего видео</string>
     <string name="video_subtitle_last_message1">Осталось меньше минуты</string>
     <string name="video_subtitle_prefix1">Просмотренные</string>
@@ -3365,6 +3402,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_ad_clear_dialog_confirm">Удалить</string>
     <string name="web_ad_clear_dialog_msg">Удалить рекламные метки с \"%s\"?</string>
     <string name="web_ad_clear_dialog_title">Удалить рекламные метки</string>
+    <string name="web_app_center">Мини-программы</string>
     <string name="web_enhance_dialog_cancel">Отмена</string>
     <string name="web_enhance_dialog_confirm">ОК</string>
     <string name="web_enhance_dialog_msg">Начать блокировать рекламу на %s?</string>
@@ -3496,6 +3534,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_tab_status">Состояние</string>
     <string name="whatsapp_webpage_btn">Просмотр</string>
     <string name="whatsapp_webpage_tips">Сохранение статусов WhatsApp</string>
+    <string name="withdraw_dia_content">Если вы отзовете свое согласие с Политикой конфиденциальности Контент-центра, сбор вашей персональной информации этой службой будет прекращен. Любая личная информация, ранее собранная и загруженная на наши серверы, будет удалена. Отозвав свое согласие, вы больше не сможете использовать Контент-центр. Отозвать согласие?</string>
     <string name="xiaomi_download_game">Загрузить</string>
     <string name="xiaomi_download_game_now">Играть сейчас</string>
     <string name="xiaomi_game_check_reserve">Просмотр</string>

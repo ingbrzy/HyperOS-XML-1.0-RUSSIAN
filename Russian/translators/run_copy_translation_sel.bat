@@ -21,7 +21,7 @@ IF EXIST %_dst%strings.xml (
 )
 
 del %_run%DST\result.xml
-%_run%XMLCompare /at /s %_run%SRC\strings.xml /d %_run%DST\strings.xml /i %_dat%ignore.xml /t %_dat%translate.xml /n 4 /silent_t
+%_run%XMLCompare /at /s %_run%SRC\strings.xml /d %_run%DST\strings.xml /i %_dat%ignore.xml /t %_dat%translate_sel.xml /n 4 /silent_t
 
 IF EXIST %_run%DST\result.xml (
   copy %_run%DST\result.xml %_run%DST\strings.xml
@@ -48,7 +48,7 @@ IF EXIST %_dst%plurals.xml (
 )
 
 del %_run%DST\result.xml
-%_run%XMLCompare /at /fp /s %_run%SRC\plurals.xml /d %_run%DST\plurals.xml /i %_dat%ignore_p.xml /t %_dat%translate_p.xml /n 4 /silent_t
+%_run%XMLCompare /at /fp /s %_run%SRC\plurals.xml /d %_run%DST\plurals.xml /i %_dat%ignore_p.xml /t %_dat%translate_p_sel.xml /n 4 /silent_t
 
 IF EXIST %_run%DST\result.xml (
   copy %_run%DST\result.xml %_run%DST\plurals.xml

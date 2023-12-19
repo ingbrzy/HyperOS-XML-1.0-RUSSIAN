@@ -172,6 +172,12 @@
         <item quantity="other">%d видео</item>
         <item quantity="one">%d видео</item>
     </plurals>
+    <plurals name="local_longpress_speed_chenge_tip">
+        <item quantity="other">Воспроизведение на скорости %sX. Отпустите, чтобы воспроизвести на обычной скорости.</item>
+        <item quantity="one">Воспроизведение на скорости %sX. Отпустите, чтобы воспроизвести на обычной скорости.</item>
+        <item quantity="few">Воспроизведение на скорости %sX. Отпустите, чтобы воспроизвести на обычной скорости.</item>
+        <item quantity="many">Воспроизведение на скорости %sX. Отпустите, чтобы воспроизвести на обычной скорости.</item>
+    </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d папок</item>
         <item quantity="one">%d папка</item>

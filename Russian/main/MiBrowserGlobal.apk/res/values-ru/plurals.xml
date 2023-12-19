@@ -42,6 +42,12 @@
         <item quantity="one">Заблокировано %d объявление</item>
         <item quantity="few">Заблокировано %d объявления</item>
     </plurals>
+    <plurals name="antivirus_desc_not_scanned_virus_in_days">
+        <item quantity="other">Проверка не проводилась %d дней</item>
+        <item quantity="one">Проверка не проводилась %d день</item>
+        <item quantity="few">Проверка не проводилась %d дня</item>
+        <item quantity="many">Проверка не проводилась %d дней</item>
+    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">Новые статьи: %1$d</item>
         <item quantity="one">Новые статьи: %1$d</item>
@@ -49,6 +55,24 @@
     <plurals name="auto_play_next_tips">
         <item quantity="other">Воспроизведение через %d сек.</item>
         <item quantity="one">Воспроизведение через %d сек.</item>
+    </plurals>
+    <plurals name="back_dialog_antivirus_content_des">
+        <item quantity="other">Вы не выполняли проверку устройства %d дней. Начать проверку?</item>
+        <item quantity="one">Вы не выполняли проверку устройства %d день. Начать проверку?</item>
+        <item quantity="few">Вы не выполняли проверку устройства %d дня. Начать проверку?</item>
+        <item quantity="many">Вы не выполняли проверку устройства %d дней. Начать проверку?</item>
+    </plurals>
+    <plurals name="back_dialog_day">
+        <item quantity="other">дней</item>
+        <item quantity="one">день</item>
+        <item quantity="few">дня</item>
+        <item quantity="many">дней</item>
+    </plurals>
+    <plurals name="back_dialog_health_check_content_des">
+        <item quantity="other">Вы не выполняли оптимизацию устройства %d дней. Начать оптимизацию?</item>
+        <item quantity="one">Вы не выполняли оптимизацию устройства %d день. Начать оптимизацию?</item>
+        <item quantity="few">Вы не выполняли оптимизацию устройства %d дня. Начать оптимизацию?</item>
+        <item quantity="many">Вы не выполняли оптимизацию устройства %d дней. Начать оптимизацию?</item>
     </plurals>
     <plurals name="bonus_amount">
         <item quantity="other">%d бонусов</item>
@@ -298,6 +322,12 @@
         <item quantity="one">Найден %1$d результат</item>
         <item quantity="few">Найдено %1$d результата</item>
         <item quantity="many">Найдено %1$d результатов</item>
+    </plurals>
+    <plurals name="recommend_top_guide">
+        <item quantity="other">%d новых рекомендаций видео</item>
+        <item quantity="one">%d новая рекомендация видео</item>
+        <item quantity="few">%d новые рекомендации видео</item>
+        <item quantity="many">%d новых рекомендаций видео</item>
     </plurals>
     <plurals name="scanning_notyfy">
         <item quantity="other">Найдено %d файлов…</item>
