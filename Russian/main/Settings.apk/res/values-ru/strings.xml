@@ -11038,7 +11038,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="title_smart_device_control">Управление умными устройствами</string>
     <string name="title_special_features_health_global">Частота пульса</string>
     <string name="title_unavailable_locale">"%s недоступен"</string>
-    <string name="title_wordless_mode">Не показывать подписи значков</string>
+    <string name="title_wordless_mode">Не показывать подпись значков</string>
     <string name="to_close">Отключить</string>
     <string name="to_switch_networks_disconnect_ethernet">Чтобы переключиться между сетями, отключите кабель Ethernet</string>
     <string name="toast_allows_restricted_settings_successfully">Приложению \"%s\" разрешён доступ к настройкам.</string>
