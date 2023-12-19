@@ -35,6 +35,7 @@ call run_copy_translation.bat %1 FM
 call run_copy_translation.bat %1 framework-res
 call run_copy_translation.bat %1 GuardProvider
 call run_copy_translation.bat %1 Health
+call run_copy_translation.bat %1 HealthConnectController
 call run_copy_translation.bat %1 HTMLViewer
 call run_copy_translation.bat %1 imssettings
 call run_copy_translation.bat %1 InCallUI
@@ -44,6 +45,7 @@ call run_copy_translation.bat %1 MaintenanceMode
 call run_copy_translation.bat %1 ManagedProvisioning
 call run_copy_translation.bat %1 MediaFeature
 call run_copy_translation.bat %1 MediaProvider
+call run_copy_translation.bat %1 MiAICR
 call run_copy_translation.bat %1 MiBrowserGlobal
 call run_copy_translation.bat %1 MiCloudSync
 call run_copy_translation.bat %1 MiConnectService

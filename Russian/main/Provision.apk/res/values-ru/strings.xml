@@ -724,7 +724,7 @@
     <string name="terms_of_use_label_Mistore">Системный плагин Mi Store</string>
     <string name="terms_of_use_label_RMS">Менеджер разрешений</string>
     <string name="terms_of_use_label_ai_assistant">AI Ассистент</string>
-    <string name="terms_of_use_label_app_vault">Лента виджетов</string>
+    <string name="terms_of_use_label_app_vault">Mi Link</string>
     <string name="terms_of_use_label_back">Служба резервного копирования</string>
     <string name="terms_of_use_label_ble">Поставщик геолокации</string>
     <string name="terms_of_use_label_cloud">Облако Xiaomi</string>
@@ -735,9 +735,9 @@
     <string name="terms_of_use_label_home">Рабочий стол</string>
     <string name="terms_of_use_label_htmlViewer">Средство просмотра HTML</string>
     <string name="terms_of_use_label_htmlviewer">Средство просмотра HTML</string>
-    <string name="terms_of_use_label_info_assistant">Mi Link</string>
+    <string name="terms_of_use_label_info_assistant">Лента виджетов</string>
     <string name="terms_of_use_label_joyose">Joyose</string>
-    <string name="terms_of_use_label_landscape">функция оптимизации просмотра в альбомной ориентации</string>
+    <string name="terms_of_use_label_landscape">Альбомная ориентация</string>
     <string name="terms_of_use_label_mab">MAB</string>
     <string name="terms_of_use_label_mi_account">Компоненты Xiaomi аккаунта</string>
     <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
@@ -751,8 +751,8 @@
     <string name="terms_of_use_label_quickapp">Быстрые приложения</string>
     <string name="terms_of_use_label_remote_provisioner">RemoteProvisioner</string>
     <string name="terms_of_use_label_secure">Secure Element Application</string>
-    <string name="terms_of_use_label_simcard">Сервис активации Mi SIM</string>
-    <string name="terms_of_use_label_smart_service">умные сервисы</string>
+    <string name="terms_of_use_label_simcard">Сервис активации SIM</string>
+    <string name="terms_of_use_label_smart_service">Умные сервисы</string>
     <string name="terms_of_use_label_statistics">Статистика</string>
     <string name="terms_of_use_label_system_quality_monitoring">Мониторинг качества системы</string>
     <string name="terms_of_use_label_systemhelper">Саморегистрируемые сервисы</string>
