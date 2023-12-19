@@ -464,6 +464,8 @@
     <string name="app_classification_search_hint">Поиск приложений</string>
     <string name="app_classification_suggest_app">Рекомендации</string>
     <string name="app_detail">Подробности</string>
+    <string name="app_disable_dlg_positive">Отключить</string>
+    <string name="app_disable_dlg_text">Если вы отключите это приложение, другие приложения могут работать неправильно. Это системное приложение нельзя удалить, оно будет отключено и скрыто.</string>
     <string name="app_error_tip_for_launcher">Аппаратные компоненты вашего устройства или версия системы Android могут вызывать проблемы с совместимостью и затруднять работу некоторых приложений. Если вы столкнулись с такими проблемами, поделитесь своими отзывами с разработчиками приложений.</string>
     <string name="app_error_tip_for_store">Аппаратные компоненты вашего устройства или версия системы Android могут вызывать проблемы с совместимостью, что может привести к невозможности установки некоторых приложений. Если вы столкнулись с такими проблемами или неправильной работой некоторых приложений, подождите, пока разработчики исправят ошибки, и попробуйте переустановить приложение.</string>
     <string name="app_info_all_services_label">Все сервисы</string>
@@ -3345,7 +3347,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
     <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
     <string name="mtrl_picker_invalid_range">Неверный диапазон.</string>
-    <string name="mtrl_picker_navigate_to_year_description">Перейти к выбору года %1$s</string>
+    <string name="mtrl_picker_navigate_to_year_description">Перейти к %1$s году</string>
     <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Начало – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Окончание</string>
@@ -5780,7 +5782,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="storage_system_memory_expansion_tip">Увеличьте размер ОЗУ за счёт хранилища</string>
     <string name="storage_system_other_tip">Данные, необходимые для нормальной работы системы (размер файла может меняться)</string>
     <string name="storage_system_other_tip_new">Необходимый размер для работы системы и её обновлений. Размер раздела меняется в зависимости от состояния системы.</string>
-    <string name="storage_ufs_msg">Можно добавить до %1$ к этому устройству, используя нашу технологию расширения хранилища UFS и алгоритмы оптимизации хранения.</string>
+    <string name="storage_ufs_msg">Можно добавить до %1$s к этому устройству, используя нашу технологию расширения хранилища UFS и алгоритмы оптимизации хранения.</string>
     <string name="storage_ufs_tip">Дополнительное хранилище</string>
     <string name="storage_ufs_title">Расширение хранилища UFS</string>
     <string name="storage_unmount_failure">Ошибка извлечения: %1$s</string>
