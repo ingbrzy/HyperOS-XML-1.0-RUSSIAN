@@ -1047,7 +1047,7 @@ ID: %s
     <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
     <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
     <string name="mtrl_picker_invalid_range">Неверный диапазон.</string>
-    <string name="mtrl_picker_navigate_to_year_description">Перейти к выбору года %1$s</string>
+    <string name="mtrl_picker_navigate_to_year_description">Перейти к %1$s году</string>
     <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Начало – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Окончание</string>

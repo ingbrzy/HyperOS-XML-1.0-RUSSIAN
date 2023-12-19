@@ -261,10 +261,10 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="findlost_contact">Восстановить контакты</string>
     <string name="findlost_contact_online">Восстановить контакты из облака</string>
     <string name="flash_drive_backup_btn">Резервное копирование на USB</string>
-    <string name="flash_drive_backup_note">"Резервное копирование приложений на USB накопитель.
-Убедитесь, что на USB накопителе достаточно места."</string>
+    <string name="flash_drive_backup_note">"Резервное копирование на USB-накопитель.
+Убедитесь, что на USB-накопителе достаточно места."</string>
     <string name="flash_drive_backup_restore">Резервное копирование на USB</string>
-    <string name="flash_drive_connection_failed">USB накопитель отключён</string>
+    <string name="flash_drive_connection_failed">USB-накопитель отключён</string>
     <string name="flash_drive_restore_btn">Восстановить с USB</string>
     <string name="flash_drive_search_backup_files">"Поиск резервных копий на USB…
 Не изменяйте файлы резервных копий."</string>
@@ -485,7 +485,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
     <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
     <string name="mtrl_picker_invalid_range">Неверный диапазон.</string>
-    <string name="mtrl_picker_navigate_to_year_description">Перейти к выбору года %1$s</string>
+    <string name="mtrl_picker_navigate_to_year_description">Перейти к %1$s году</string>
     <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Начало – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Окончание</string>
@@ -558,7 +558,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="new_tab_pc_restore">Восстановление</string>
     <string name="new_task_finished">Готово</string>
     <string name="new_usb_detail_description">"Внимание:
-%1$d. Этот вариант позволяет создавать резервные копии приложений и данных приложений.
+%1$d. Резервное копирование содержимого на USB-накопитель.
 %2$d. Убедитесь, что на USB-накопителе достаточно места."</string>
     <string name="new_usb_disconnect_dialog_message">Подключите USB-накопитель.</string>
     <string name="new_usb_disconnect_dialog_title">Не удалось найти USB-накопитель</string>
@@ -780,7 +780,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="state_mounting">Получение доступа к хранилищу роутера…</string>
     <string name="state_waiting">Подождите…</string>
     <string name="storage_sd_card">SD-карта</string>
-    <string name="storage_usb">USB накопитель</string>
+    <string name="storage_usb">USB-накопитель</string>
     <string name="succ_description">Успех</string>
     <string name="succeed">Успешно завершено</string>
     <string name="summary_err_backup_encrypting">Войдите в Xiaomi аккаунт.</string>
@@ -1075,7 +1075,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="tuesday_shortest">Вт</string>
     <string name="unit_byte">Б</string>
     <string name="unknown_hint">Неизвестно</string>
-    <string name="usb_backup_select_data_too_large">"Файлы большого размера. Убедитесь, что на USB накопителе достаточно места.
+    <string name="usb_backup_select_data_too_large">"Файлы большого размера. Убедитесь, что на USB-накопителе достаточно места.
 Передавайте только важные объекты."</string>
     <string name="usb_restore_select_data_too_large">"Файлы большого размера. Их восстановление потребует времени.
 Восстанавливайте только важные объекты."</string>
@@ -1083,7 +1083,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 Освободите место или передавайте данные по частям."</string>
     <string name="usb_trans_old_phone_low_space_msg">Для упаковки резервных копий требуется дополнительное место. Имеющегося места недостаточно. Освободите место и удалите ненужные файлы через \"Безопасность\" или попытайтесь передать только важные объекты.</string>
     <string name="usb_trans_old_phone_low_space_title">Недостаточно места</string>
-    <string name="usb_trans_select_data_no_space">"На USB накопителе доступно только %s.
+    <string name="usb_trans_select_data_no_space">"На USB-накопителе доступно только %s.
 Освободите место или передайте только важные объекты."</string>
     <string name="user_feedback">Обратная связь</string>
     <string name="user_know_button_text">Понятно</string>
