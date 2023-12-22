@@ -2896,7 +2896,7 @@
     <string name="credman_error_message_title">"Количество сервисов сохранения паролей, ключей доступа и данных ограничено"</string>
     <string name="credman_keywords">"данные, ключ доступа, пароль"</string>
     <string name="credman_picker_title">"Сервисы для хранения паролей, ключей доступа и данных"</string>
-    <string name="crisp_text">Высокие частоты добавляют чёткость деталям выполняемых действий</string>
+    <string name="crisp_text">Высокие частоты виброотклика добавляют чёткость действиям</string>
     <string name="critical_feedback">Детализация</string>
     <string name="cross_profile_calendar_restricted_summary">В вашей организации запрещён доступ к рабочему календарю для личных приложений.</string>
     <string name="cross_profile_calendar_summary">Показывать рабочие мероприятия в личном календаре.</string>
@@ -3800,7 +3800,7 @@ ID: %s
     <string name="effect_preview">Предпросмотр</string>
     <string name="eid_multi_sim">"EID (слот %1$d)"</string>
     <string name="eighthours">8 часов</string>
-    <string name="elastic_text">Подсказки и выпадающие меню в виде эластичного всплывающего окна помогают акцентировать внимание на них</string>
+    <string name="elastic_text">Подсказки и выпадающие меню в виде всплывающего окна с акцентированным виброоткликом помогают сфокусироваться на них</string>
     <string name="embedded_window_guide_text">В альбомном режиме приложения будут отображаться параллельно. Когда эта функция отключена, приложения будут отображаться по центру.</string>
     <string name="emergency_address_summary">Адрес, по которому будут направлены экстренные службы в случае вызова по номеру 112 через сеть Wi-Fi</string>
     <string name="emergency_address_title">Адрес для экстренных случаев</string>
@@ -4825,7 +4825,7 @@ ID: %s
     <string name="haptic_lock_screen_11_content_description">Блокировка устройства</string>
     <string name="haptic_multitasking_card_long_press_03_content_description">Долгое нажатие в Недавних</string>
     <string name="haptic_multitasking_gestures_04_content_description">Открытие Недавних</string>
-    <string name="haptic_preview">Демонстрация</string>
+    <string name="haptic_preview">Возможности виброотклика</string>
     <string name="haptic_return_gesture_05_content_description">Жест Назад</string>
     <string name="haptic_shutdown_menu_06_content_description">Меню питания</string>
     <string name="haptic_single_selection_02_content_description">Выбор элементов</string>
@@ -5269,7 +5269,7 @@ ID: %s
     <string name="interact_across_profiles_title">Связь рабочих и личных приложений</string>
     <string name="interaction_control_category_title">Интерактивное управление</string>
     <string name="interconnection">Взаимодействие</string>
-    <string name="interesting_text">Реалистичный тактильный отклик делает взаимодействие с экраном более четким и информативным</string>
+    <string name="interesting_text">Реалистичный виброотклик делает взаимодействие с экраном более четким и информативным</string>
     <string name="interesting_title">Реалистичность</string>
     <string name="internal_auto_rotate_title">Блокировка ориентации внутреннего экрана</string>
     <string name="internal_memory">Внутренний накопитель</string>
@@ -7093,7 +7093,7 @@ ID: %s
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
     <string name="mtrl_timepicker_cancel">Отмена</string>
     <string name="mtrl_timepicker_confirm">ОК</string>
-    <string name="muffled_text">Низкие частоты мягко подчеркивают визуальные переходы и делают жесты естественнее</string>
+    <string name="muffled_text">Низкие частоты виброотклика мягко подчеркивают визуальные переходы и делают жесты нагляднее</string>
     <string name="multi_face_delete_message">Внимание</string>
     <string name="multi_face_delete_show_message">Удалить данные лица?</string>
     <string name="multi_face_input">Добавить данные лица</string>
@@ -7139,7 +7139,7 @@ ID: %s
     <string name="my_device_real_camera">Задняя камера</string>
     <string name="n_cacrts">Сертификатов ЦС: %d</string>
     <string name="natural_haptic">Реалистичный виброотклик</string>
-    <string name="natural_haptic_summary">Новые шаблоны виброотклика привносят дополнительное измерение во все, что вы видите и к чему прикасаетесь на экране</string>
+    <string name="natural_haptic_summary">Различные варианты виброотклика придают дополнительное измерение всему, что вы видите и к чему прикасаетесь на экране</string>
     <string name="natural_scroll">Натуральная прокрутка</string>
     <string name="nature_color">Стандарт</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Проведите вверх от нижнего края экрана, затем влево или вправо</string>
