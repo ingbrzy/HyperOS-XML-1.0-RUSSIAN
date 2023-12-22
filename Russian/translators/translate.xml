@@ -169,7 +169,7 @@
     <string name="abc_menu_sym_shortcut_label">Sym +</string>
     <string name="abc_prepend_shortcut_label">Меню +</string>
     <string name="abc_search_hint">Введите запрос</string>
-    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_clear">Очистить запрос</string>
     <string name="abc_searchview_description_query">Поисковый запрос</string>
     <string name="abc_searchview_description_search">Поиск</string>
     <string name="abc_searchview_description_submit">Отправить запрос</string>

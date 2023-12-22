@@ -43,14 +43,14 @@
         <item quantity="one">%d фото в серийной съёмке</item>
     </plurals>
     <plurals name="accessibility_timer_burst_interval">
-        <item quantity="other">Интервал: %d секунд</item>
-        <item quantity="one">Интервал: %d секунда</item>
-        <item quantity="few">Интервал: %d секунды</item>
+        <item quantity="other">Интервал: %d сек.</item>
+        <item quantity="one">Интервал: %d сек.</item>
+        <item quantity="few">Интервал: %d сек.</item>
     </plurals>
     <plurals name="accessibility_vv_duartion">
-        <item quantity="other">Длительность: %d секунд</item>
-        <item quantity="one">Длительность: %d секунда</item>
-        <item quantity="few">Длительность: %d секунды</item>
+        <item quantity="other">Длительность: %d сек.</item>
+        <item quantity="one">Длительность: %d сек.</item>
+        <item quantity="few">Длительность: %d сек.</item>
     </plurals>
     <plurals name="cinemaster_toast_camera_overflow">
         <item quantity="other">Можно подключить не более %d камер к одной сети</item>

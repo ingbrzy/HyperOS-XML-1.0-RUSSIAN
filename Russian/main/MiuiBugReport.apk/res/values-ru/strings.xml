@@ -493,7 +493,7 @@ ID: %s
     <string name="michat_type_list_null">Не удалось получить данные, повторите позже</string>
     <string name="michat_type_picture">Изображение</string>
     <string name="michat_user_quit">Вы покинули чат</string>
-    <string name="michat_wait_for_a_moment">Секундочку, помощь уже в пути!</string>
+    <string name="michat_wait_for_a_moment">Подождите, помощь уже в пути!</string>
     <string name="michat_webview_title">Подробности</string>
     <string name="midnight">Ночь</string>
     <string name="min_error">Ваш %1$s слишком короткий.</string>

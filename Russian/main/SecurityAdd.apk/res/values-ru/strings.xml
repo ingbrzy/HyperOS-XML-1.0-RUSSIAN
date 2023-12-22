@@ -266,7 +266,7 @@
     <string name="gb_gputuner_lod_deviation">Mipmap LOD bias</string>
     <string name="gb_gputuner_multi_render">Многопоточный рендеринг</string>
     <string name="gb_not_support_on_device">Это приложение не может быть использовано на внешнем экране</string>
-    <string name="gb_pannel_control_frame_rate_dialog_message">Чтобы использовать эту функцию, измените разрешение дисплея на WQHD+ в настройках</string>
+    <string name="gb_pannel_control_frame_rate_dialog_message">Чтобы использовать эту функцию, измените разрешение экрана на WQHD+ в настройках</string>
     <string name="gb_pannel_control_frame_rate_dialog_positive">Настройки</string>
     <string name="gb_pannel_control_frame_rate_dialog_title">Изменение разрешения экрана</string>
     <string name="gb_pannel_control_mode_balance">Баланс</string>

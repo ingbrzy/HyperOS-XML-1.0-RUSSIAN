@@ -231,9 +231,9 @@
         <item quantity="few">Через %1$d минуты</item>
     </plurals>
     <plurals name="ew_alert_second_after">
-        <item quantity="other">Через %d секунд</item>
-        <item quantity="one">Через %d секунду</item>
-        <item quantity="few">Через %d секунды</item>
+        <item quantity="other">Через %d сек.</item>
+        <item quantity="one">Через %d сек.</item>
+        <item quantity="few">Через %d сек.</item>
     </plurals>
     <plurals name="ew_concern_date">
          <item quantity="other">%d дней назад</item>

@@ -478,10 +478,10 @@
     <string name="accessibility_wifi_two_bars">Сигнал Wi-Fi: два деления.</string>
     <string name="accessibility_work_account_title">Рабочий аккаунт – %s</string>
     <string name="accessibility_work_profile_app_description">Рабочий профиль %s</string>
-    <string name="accessibilty_autoclick_delay_unit_second">"{count,plural, =1{{time} секунда}one{{time} секунда}few{{time} секунды}many{{time} секунд}other{{time} секунды}}"</string>
-    <string name="accessibilty_autoclick_preference_subtitle_long_delay">"{count,plural, =1{Долгая задержка ({time} секунда)}one{Долгая задержка ({time} секунда)}few{Долгая задержка ({time} секунды)}many{Долгая задержка ({time} секунд)}other{Долгая задержка ({time} секунды)}}"</string>
-    <string name="accessibilty_autoclick_preference_subtitle_medium_delay">"{count,plural, =1{Средняя задержка ({time} секунда)}one{Средняя задержка ({time} секунда)}few{Средняя задержка ({time} секунды)}many{Средняя задержка ({time} секунд)}other{Средняя задержка ({time} секунды)}}"</string>
-    <string name="accessibilty_autoclick_preference_subtitle_short_delay">"{count,plural, =1{Короткая задержка ({time} секунда)}one{Короткая задержка ({time} секунда)}few{Короткая задержка ({time} секунды)}many{Короткая задержка ({time} секунд)}other{Короткая задержка ({time} секунды)}}"</string>
+    <string name="accessibilty_autoclick_delay_unit_second">"{count,plural, =1{{time} сек.}one{{time} сек.}few{{time} сек.}many{{time} сек.}other{{time} сек.}}"</string>
+    <string name="accessibilty_autoclick_preference_subtitle_long_delay">"{count,plural, =1{Долгая задержка ({time} сек.)}one{Долгая задержка ({time} сек.)}few{Долгая задержка ({time} сек.)}many{Долгая задержка ({time} сек.)}other{Долгая задержка ({time} сек.)}}"</string>
+    <string name="accessibilty_autoclick_preference_subtitle_medium_delay">"{count,plural, =1{Средняя задержка ({time} сек.)}one{Средняя задержка ({time} сек.)}few{Средняя задержка ({time} сек.)}many{Средняя задержка ({time} сек.)}other{Средняя задержка ({time} сек.)}}"</string>
+    <string name="accessibilty_autoclick_preference_subtitle_short_delay">"{count,plural, =1{Короткая задержка ({time} сек.)}one{Короткая задержка ({time} сек.)}few{Короткая задержка ({time} сек.)}many{Короткая задержка ({time} сек.)}other{Короткая задержка ({time} сек.)}}"</string>
     <string name="accessor_expires_text">Аренда истекает: %s</string>
     <string name="accessor_info_title">Общие данные приложений</string>
     <string name="accessor_never_expires_text">Бессрочное разрешение</string>
@@ -5365,7 +5365,7 @@ ID: %s
     <string name="keywords_all_apps">приложения, скачать, установить, система</string>
     <string name="keywords_always_show_time_info">информация на заблокированном экране, автовключение экрана, AOD</string>
     <string name="keywords_ambient_display">входящее уведомление</string>
-    <string name="keywords_ambient_display_screen">Активный дисплей, экран блокировки</string>
+    <string name="keywords_ambient_display_screen">Активный экран, экран блокировки</string>
     <string name="keywords_android_version">обновление системы безопасности, прошивка модуля связи, версия ядра</string>
     <string name="keywords_app">ОЗУ</string>
     <string name="keywords_app_default">Открыть с помощью</string>
