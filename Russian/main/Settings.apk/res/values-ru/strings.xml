@@ -3800,7 +3800,7 @@ ID: %s
     <string name="effect_preview">Предпросмотр</string>
     <string name="eid_multi_sim">"EID (слот %1$d)"</string>
     <string name="eighthours">8 часов</string>
-    <string name="elastic_text">Средние частоты виброотклика для подсказок и выпадающих меню помогают сфокусироваться на них</string>
+    <string name="elastic_text">Средние частоты виброотклика помогают сфокусироваться на всплывающих окнах подсказок и выпадающих меню</string>
     <string name="embedded_window_guide_text">В альбомном режиме приложения будут отображаться параллельно. Когда эта функция отключена, приложения будут отображаться по центру.</string>
     <string name="emergency_address_summary">Адрес, по которому будут направлены экстренные службы в случае вызова по номеру 112 через сеть Wi-Fi</string>
     <string name="emergency_address_title">Адрес для экстренных случаев</string>
