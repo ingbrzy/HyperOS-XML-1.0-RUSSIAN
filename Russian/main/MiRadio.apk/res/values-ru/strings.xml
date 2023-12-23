@@ -131,7 +131,7 @@
     <string name="artist_gender_male">Мужчина</string>
     <string name="artist_home_search_hint">Поиск исполнителей</string>
     <string name="asset_sync_alert_not_now">Не сейчас</string>
-    <string name="asset_sync_network_data_alert_message">Резервное копирование песен с использованием мобильного интернета может привести к дополнительной плате за мобильные данные. Все равно продолжить?</string>
+    <string name="asset_sync_network_data_alert_message">Резервное копирование песен с использованием мобильного интернета может привести к дополнительной плате за мобильные данные. Всё равно продолжить?</string>
     <string name="asset_sync_network_data_alert_title">Предупреждение о трафике</string>
     <string name="asset_sync_network_unavailable_alert_message">Подключитесь к интернету для резервного копирования песен</string>
     <string name="asset_sync_network_unavailable_alert_title">"Ошибка подключения к сети"</string>

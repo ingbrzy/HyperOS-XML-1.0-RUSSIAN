@@ -2307,9 +2307,9 @@ ID: %s
     <string name="photo_print_menu_loading">Загрузка плагина…</string>
     <string name="photo_print_package_finish">Плагин Печать успешно загружен</string>
     <string name="photo_print_package_installing">Загрузка плагина Печать…</string>
-    <string name="photo_purge_dialog_message_cloud">Выбранные файлы будут безвозвратно удалены из облака и со всех подключённых устройств. Все равно удалить?</string>
+    <string name="photo_purge_dialog_message_cloud">Выбранные файлы будут безвозвратно удалены из облака и со всех подключённых устройств. Всё равно удалить?</string>
     <string name="photo_purge_dialog_message_image">Вы не сможете восстановить фото, если удалите их. Удалить?</string>
-    <string name="photo_purge_dialog_message_local">Выбранные файлы будут удалены без возможности восстановления. Все равно удалить?</string>
+    <string name="photo_purge_dialog_message_local">Выбранные файлы будут удалены без возможности восстановления. Всё равно удалить?</string>
     <string name="photo_purge_dialog_message_video">Вы не сможете восстановить видео, если удалите их. Удалить?</string>
     <string name="photo_purge_dialog_title">Удаление</string>
     <string name="photo_save_to_msg">Сохранено в %s</string>
@@ -2766,7 +2766,7 @@ ID: %s
     <string name="select_origin_tip">Оригинал (%s)</string>
     <string name="send">Отправить</string>
     <string name="send_diagnosis_log">Отправить журнал</string>
-    <string name="send_dolby_vision_duration_more_than_40s">Видео Dolby Vision более 4 минут можно передать только в исходном формате, который может не поддерживаться принимающим устройством. Все равно продолжить?</string>
+    <string name="send_dolby_vision_duration_more_than_40s">Видео Dolby Vision более 4 минут можно передать только в исходном формате, который может не поддерживаться принимающим устройством. Всё равно продолжить?</string>
     <string name="send_dolby_vision_video_continue">Продолжить</string>
     <string name="send_email_activate_message">Письмо с подтверждением отправлено</string>
     <string name="send_file_beautify_failed">Не удалось отправить</string>
@@ -2811,7 +2811,7 @@ ID: %s
     <string name="share_album_exit_confirm_title">Выйти из группы?</string>
     <string name="share_album_family_add_sharer_dialog_title">Пригласить</string>
     <string name="share_album_family_cancel_share_dialog_message">После отмены доступа к этому альбому, он будет недоступен для просмотра другим людям. Отменить доступ?</string>
-    <string name="share_album_family_delete_sharer_message">Альбом будет недоступен для просмотра этому человеку. Все равно удалить?</string>
+    <string name="share_album_family_delete_sharer_message">Альбом будет недоступен для просмотра этому человеку. Всё равно удалить?</string>
     <string name="share_album_family_delete_sharer_title">Ограничение доступа</string>
     <string name="share_album_family_invite_category_title">Добавление в семейную группу</string>
     <string name="share_album_family_invite_default">Поделиться</string>
@@ -3421,8 +3421,8 @@ ID: %s
     <string name="trash_menu_delete">Удалить</string>
     <string name="trash_menu_recovery">Восстановить</string>
     <string name="trash_purge_all">Все фото и видео будут удалены из облака. Вы не сможете их восстановить. Удалить?</string>
-    <string name="trash_purge_all_cloud">Все файлы в корзине будут безвозвратно удалены из облака и со всех подключённых устройств. Все равно удалить?</string>
-    <string name="trash_purge_all_local">Все файлы в корзине будут удалены без возможности восстановления. Все равно удалить?</string>
+    <string name="trash_purge_all_cloud">Все файлы в корзине будут безвозвратно удалены из облака и со всех подключённых устройств. Всё равно удалить?</string>
+    <string name="trash_purge_all_local">Все файлы в корзине будут удалены без возможности восстановления. Всё равно удалить?</string>
     <string name="trash_purge_all_media">Удалить навсегда все файлы из облака и со всех подключённых устройств? Вы не можете отменить это действие.</string>
     <string name="trash_purge_dialog_title">Очистка корзины</string>
     <string name="trash_purge_positive_button">Удалить</string>
@@ -3460,8 +3460,8 @@ ID: %s
     <string name="unsupport_raw_and_video">%s не работает с видео и RAW изображениями</string>
     <string name="unsupport_type">Этот тип файлов не поддерживается</string>
     <string name="unsupport_video">%s не работает с видео</string>
-    <string name="unsupported_media_downloading_tip_common">Просмотр оригинальных изображений в этом формате не поддерживается в этой версии Android. Все равно загрузить?</string>
-    <string name="unsupported_media_downloading_tip_format">Просмотр оригинальных %s изображений не поддерживается в этой версии Android. Все равно загрузить?</string>
+    <string name="unsupported_media_downloading_tip_common">Просмотр оригинальных изображений в этом формате не поддерживается в этой версии Android. Всё равно загрузить?</string>
+    <string name="unsupported_media_downloading_tip_format">Просмотр оригинальных %s изображений не поддерживается в этой версии Android. Всё равно загрузить?</string>
     <string name="unsupported_media_scanned_tip">Найдены изображения: %1$s. Просмотр %2$s изображений не поддерживается в этой версии Android</string>
     <string name="unsupported_media_view_tip">Просмотр оригинальных %s изображений не поддерживается в этой версии Android</string>
     <string name="update_GP_app_btn_update">Обновить</string>

@@ -176,8 +176,8 @@
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="clock">Установить Часы</string>
     <string name="close">Закрыть</string>
-    <string name="close_custom_permission_warning_text">Без доступа к хранилищу приложение не сможет загружать компоненты тем. Все равно отключить?"</string>
-    <string name="close_custom_permission_warning_text_above_eleven">Без доступа к хранилищу приложение не сможет настраивать персонализацию. Все равно отключить?</string>
+    <string name="close_custom_permission_warning_text">Без доступа к хранилищу приложение не сможет загружать компоненты тем. Всё равно отключить?"</string>
+    <string name="close_custom_permission_warning_text_above_eleven">Без доступа к хранилищу приложение не сможет настраивать персонализацию. Всё равно отключить?</string>
     <string name="common_applying">Применение…</string>
     <string name="common_downloading">Загрузка…</string>
     <string name="common_format_date_no_year">dd.MM</string>
@@ -416,7 +416,7 @@
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
     <string name="fold_close_failed">Не удалось отключить</string>
-    <string name="fold_close_incall_dialog_content">Видео профиля больше не поддерживаются. После отключения вы не сможете снова включить эту функцию. Все равно отключить?</string>
+    <string name="fold_close_incall_dialog_content">Видео профиля больше не поддерживаются. После отключения вы не сможете снова включить эту функцию. Всё равно отключить?</string>
     <string name="fold_close_incall_dialog_title">Отключение видео профиля</string>
     <string name="fold_close_success">Успешно отключено</string>
     <string name="fold_preference_btn_close">Отключить</string>
@@ -1017,7 +1017,7 @@ mm"</string>
     <string name="provision_loading_tips">Подождите…</string>
     <string name="provision_second_title">Выберите одну из тем по умолчанию</string>
     <string name="provision_title">Выбор темы</string>
-    <string name="prvicay_permission_not_allow_desc">"Приложению требуется доступ к хранилищу, чтобы удалить все данные, сгенерированные на этом устройстве. Без этого разрешения некоторые данные не могут быть удалены. Все равно отказаться от услуг?
+    <string name="prvicay_permission_not_allow_desc">"Приложению требуется доступ к хранилищу, чтобы удалить все данные, сгенерированные на этом устройстве. Без этого разрешения некоторые данные не могут быть удалены. Всё равно отказаться от услуг?
 Вы можете предоставить это разрешение в Настройки > Конфиденциальность."</string>
     <string name="pull_down_view_error_message">Упс! Интернет-подключение отсутствует. Проверьте подключение и повторите попытку.</string>
     <string name="pull_down_view_refresh">Обновить</string>
@@ -1279,7 +1279,7 @@ mm"</string>
     <string name="restore_history_lock_screen_when_apply_theme">Используется сторонняя тема. При изменении обоев экрана блокировки будут восстановлены часы по умолчанию. Применить?</string>
     <string name="restore_home_icon_text">Добавить ярлык на рабочий стол</string>
     <string name="restore_icon_later">Вы можете снова добавить ярлык на рабочий стол в настройках</string>
-    <string name="ringtone_confirm_dialog_message">Продолжительность рингтона достаточно велика. Все равно использовать его?</string>
+    <string name="ringtone_confirm_dialog_message">Продолжительность рингтона достаточно велика. Всё равно использовать его?</string>
     <string name="ringtone_confirm_dialog_title">Внимание</string>
     <string name="ringtone_set_success">Настройка завершена</string>
     <string name="saturday">Суббота</string>
@@ -1683,7 +1683,7 @@ mm"</string>
     <string name="video_audio_apply_success">Видео со звуком установлено</string>
     <string name="video_data_tips_message">Использование мобильного интернета может вызвать дополнительные затраты. Продолжить?</string>
     <string name="video_data_tips_title">Предупреждение о трафике</string>
-    <string name="video_not_support_message">Это видео может воспроизводиться некорректно или замедлять работу устройства. Все равно применить?</string>
+    <string name="video_not_support_message">Это видео может воспроизводиться некорректно или замедлять работу устройства. Всё равно применить?</string>
     <string name="video_not_support_title">Видео слишком большое</string>
     <string name="video_silence_apply_success">Видео без звука установлено</string>
     <string name="video_wallpaper_apply_warning">Применить обои к рабочему столу и экрану блокировки?</string>

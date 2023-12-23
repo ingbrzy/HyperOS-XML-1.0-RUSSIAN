@@ -340,7 +340,7 @@ ID: %s
     <string name="grant_confirm_question">Предоставить нижеперечисленные разрешения? Приложение получит доступ к</string>
     <string name="grant_dialog_button_allow">Разрешить</string>
     <string name="grant_dialog_button_deny">Отклонить</string>
-    <string name="grant_dialog_button_deny_anyway">Все равно отклонить</string>
+    <string name="grant_dialog_button_deny_anyway">Всё равно отклонить</string>
     <string name="header_help">Помощь</string>
     <string name="help_app_permissions" />
     <string name="high_risk_perms">Небезопасные разрешения</string>
@@ -363,7 +363,7 @@ ID: %s
     <string name="install_app_loading">Проверка APK…</string>
     <string name="install_app_progress_clear_apk">Удалить APK</string>
     <string name="install_completed_pure_open_tip_title">Включите Mi Защиту, чтобы заблокировать небезопасные приложения и сохранить приватность</string>
-    <string name="install_confirm_dialog_message">Для нормальной работы приложения необходимо сначала установить сервисы Google Play. Установка этого приложения сейчас может привести к неправильной работе. Все равно установить?</string>
+    <string name="install_confirm_dialog_message">Для нормальной работы приложения необходимо сначала установить сервисы Google Play. Установка этого приложения сейчас может привести к неправильной работе. Всё равно установить?</string>
     <string name="install_confirm_dialog_negative_button">Отмена</string>
     <string name="install_confirm_dialog_positive_button">Установить</string>
     <string name="install_confirm_dialog_title">Внимание</string>
@@ -556,7 +556,7 @@ ID: %s
     <string name="miui_uninstall_success">Успешно удалено</string>
     <string name="miui_uninstalling">Удаление…</string>
     <string name="miui_virus_deleted">Вирусы успешно удалены</string>
-    <string name="miui_virus_install">Все равно установить</string>
+    <string name="miui_virus_install">Всё равно установить</string>
     <string name="miui_virus_scanning">Сканирование…</string>
     <string name="miui_virus_scanning_0">Сканирование</string>
     <string name="miui_virus_scanning_1">Сканирование.</string>
@@ -1390,7 +1390,7 @@ ID: %s
     <string name="virus_safe_install_mode_security_tips_pi">Если доверяете этому приложению, нажмите значок Настроек и выберите \"Безопасный режим\", чтобы разрешить его установку</string>
     <string name="virus_scan_caller_unknown">Неизвестно</string>
     <string name="virus_scan_clear">Удалить</string>
-    <string name="virus_scan_install">Все равно установить</string>
+    <string name="virus_scan_install">Всё равно установить</string>
     <string name="virus_scan_is_risk">Приложение представляет угрозу для безопасности устройства.</string>
     <string name="virus_scan_is_virus">Приложение содержит вирус.</string>
     <string name="virus_scanning">Проверка…</string>

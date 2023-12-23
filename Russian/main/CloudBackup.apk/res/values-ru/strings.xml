@@ -85,7 +85,7 @@
     <string name="btn_restore_abort">Прервать</string>
     <string name="btn_restore_cancel">Отмена</string>
     <string name="btn_restore_cancel_app_app">Не восстанавливать данные WeChat</string>
-    <string name="btn_restore_continue">Все равно восстановить</string>
+    <string name="btn_restore_continue">Всё равно восстановить</string>
     <string name="btn_restore_resume">Продолжить</string>
     <string name="btn_restore_retry">Повторить</string>
     <string name="btn_restore_wait">Ожидание Wi-Fi</string>

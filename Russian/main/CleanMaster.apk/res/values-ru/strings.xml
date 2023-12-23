@@ -622,7 +622,7 @@
     <string name="just_now">Только что</string>
     <string name="kilobyteShort">" КБ"</string>
     <string name="label_image_list_none">Нет</string>
-    <string name="label_preserve_the_best_image">Сохранять наиболее четкие фото</string>
+    <string name="label_preserve_the_best_image">Сохранять наиболее чёткие фото</string>
     <string name="last_check_canceled">Предыдущая проверка была отменена</string>
     <string name="load_only_under_wlan">Загружать только по Wi-Fi</string>
     <string name="location_not_found">Файл не найден</string>
@@ -842,7 +842,7 @@
     <string name="powerful_acceleration_enable_summary">Дефрагментация будет выполняться автоматически, когда устройство не используется</string>
     <string name="powerful_acceleration_enable_title">Выполнять дефрагментацию в фоновом режиме</string>
     <string name="powerful_acceleration_item_button">Включить</string>
-    <string name="powerful_acceleration_item_tip_normal">Все в порядке!</string>
+    <string name="powerful_acceleration_item_tip_normal">Всё в порядке!</string>
     <string name="powerful_acceleration_notification_summary">Нажмите, чтобы освободить больше места</string>
     <string name="powerful_acceleration_notification_title">Дефрагментация завершена</string>
     <string name="powerful_acceleration_tip">Хранилище фрагментировано, это может замедлять работу устройства. Дефрагментация физически реорганизует файлы для уменьшения фрагментации и задержек в работе устройства.</string>

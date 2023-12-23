@@ -1317,7 +1317,7 @@
     <string name="fw_change_failed">"Не удалось изменить номер переадресации вызовов.
 Если проблема не будет решена, обратитесь к вашему оператору."</string>
     <string name="fw_get_in_vm_failed">"Не удалось сохранить текущие настройки переадресации.
-Все равно сменить провайдера?"</string>
+Всё равно сменить провайдера?"</string>
     <string name="general_news_settings">Общие новости</string>
     <string name="general_setting">Общие настройки</string>
     <string name="general_settings_category">Общие</string>

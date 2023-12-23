@@ -563,7 +563,7 @@
     <string name="downlaod_cancel_confirm_download">Остановить</string>
     <string name="downlaod_cancel_continue_download">Не останавливать</string>
     <string name="downlaod_confirm_download">Загрузить</string>
-    <string name="downlaod_nonWifi_confirm_message">При загрузке без использования Wi-Fi, может потребоваться значительный объем мобильного трафика. Все равно загрузить?</string>
+    <string name="downlaod_nonWifi_confirm_message">При загрузке без использования Wi-Fi, может потребоваться значительный объем мобильного трафика. Всё равно загрузить?</string>
     <string name="downlaod_nonWifi_confirm_title">Загрузка вложения</string>
     <string name="download_again">Повторить загрузку</string>
     <string name="download_before_sharing">" ещё не загружено."</string>
@@ -1406,7 +1406,7 @@
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="preference_eas_tips">Нажмите \"Активировать\" для настройки почтового сервера.</string>
     <string name="preference_imap_tips" />
-    <string name="preference_pop_tips">Вложение будет загружено вместе с письмом. Может потребоваться значительный объем мобильного трафика. Все равно загрузить?</string>
+    <string name="preference_pop_tips">Вложение будет загружено вместе с письмом. Может потребоваться значительный объем мобильного трафика. Всё равно загрузить?</string>
     <string name="preference_sender_image_description">Отображать иконки контактов рядом с именем во \"Входящих\"</string>
     <string name="preference_sender_image_title">Иконки контактов</string>
     <string name="preferences_signature_dialog_title">Подпись</string>

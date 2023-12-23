@@ -284,7 +284,7 @@
     <string name="bh_sim_2">%1$s (SIM 2)</string>
     <string name="bh_sim_one">SIM 1</string>
     <string name="bh_sim_two">SIM 2</string>
-    <string name="bh_similar_number_hint">Этот номер похож на %1$s. Все равно пополнить этот номер?</string>
+    <string name="bh_similar_number_hint">Этот номер похож на %1$s. Всё равно пополнить этот номер?</string>
     <string name="bh_status_activating"><Data>&lt;font color =#0D84FF>Активация&lt;/font></Data></string>
     <string name="bh_stop_carrier_services">Отключить сервисы Mi Carrier</string>
     <string name="bh_stop_carrier_services_short">Отключить Mi Carrier</string>

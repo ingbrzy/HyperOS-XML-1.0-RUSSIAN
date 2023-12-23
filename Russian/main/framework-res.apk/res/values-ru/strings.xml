@@ -651,7 +651,7 @@
     <string name="ext_media_unsupported_notification_title">%s не поддерживается</string>
     <string name="extract_edit_menu_button">Изменить</string>
     <string name="face_acquired_dark_glasses_detected_alt">"Обнаружены темные очки. Лицо должно быть полностью видно"</string>
-    <string name="face_acquired_insufficient">Не удалось записать четкие данные лица. Повторите попытку.</string>
+    <string name="face_acquired_insufficient">Не удалось записать чёткие данные лица. Повторите попытку.</string>
     <string name="face_acquired_mouth_covering_detected_alt">"Часть лица закрыта. Оно должно быть полностью видно."</string>
     <string name="face_acquired_not_detected">Лицо не видно. Посмотрите на устройство.</string>
     <string name="face_acquired_obscured">Уберите все, что скрывает ваше лицо.</string>
@@ -1379,7 +1379,7 @@
     <string name="notification_reply_button_accessibility">Ответить</string>
     <string name="notification_title">Ошибка входа в аккаунт %1$s</string>
     <string name="notification_title_abusive_bg_apps">Одно из приложений быстро расходует заряд батареи</string>
-    <string name="notification_title_long_running_fgs">Приложение все ещё активно</string>
+    <string name="notification_title_long_running_fgs">Приложение всё ещё активно</string>
     <string name="notification_verified_content_description">Проверено</string>
     <string name="notification_work_profile_content_description">Рабочий профиль</string>
     <string name="now_string_shortest">сейчас</string>

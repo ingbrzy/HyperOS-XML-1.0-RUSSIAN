@@ -852,7 +852,7 @@ ID:%s
     <string name="passport_skip_login">Пропустить</string>
     <string name="passport_skip_query_account">Пропустить</string>
     <string name="passport_skip_register">Пропустить регистрацию</string>
-    <string name="passport_skip_setup_account_msg">Вход в Xiaomi аккаунт позволит использовать облачные сервисы Xiaomi. Все равно пропустить этот шаг?</string>
+    <string name="passport_skip_setup_account_msg">Вход в Xiaomi аккаунт позволит использовать облачные сервисы Xiaomi. Всё равно пропустить этот шаг?</string>
     <string name="passport_skip_setup_account_title">Xiaomi аккаунт и Xiaomi Cloud</string>
     <string name="passport_sms_send_success">Отправлено</string>
     <string name="passport_sms_verification_code_login">Вход через SMS</string>
@@ -1159,7 +1159,7 @@ ID:%s
     <string name="update_email_address_dialog_title">Обновление адреса</string>
     <string name="update_phone_notice">Настройки безопасности</string>
     <string name="update_phone_number_notice_message">Перед обновлением номера телефона необходимо подтвердить вашу личность.</string>
-    <string name="updated_nothing">Все обновлено</string>
+    <string name="updated_nothing">Всё обновлено</string>
     <string name="use_google_account_login">Войти с помощью Google</string>
     <string name="used_cloud_storage_info">Использовано %s</string>
     <string name="user_agreement_device_permission_desc">Для обеспечения безопасности среды авторизации</string>

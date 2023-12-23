@@ -278,7 +278,7 @@
     <string name="force_rest_summary">Делать обязательные перерывы при достижении лимита сессии</string>
     <string name="force_rest_time">Длительность перерыва</string>
     <string name="fps_high">Высокая</string>
-    <string name="fps_nature_summary">Максимальная частота обновления делает все четким и ясным</string>
+    <string name="fps_nature_summary">Максимальная частота обновления делает всё чётким и плавным</string>
     <string name="fps_nature_title">Максимальная</string>
     <string name="fps_normal">Стандартная</string>
     <string name="fps_radio_btn_title">Частота обновления</string>
@@ -704,7 +704,7 @@
     <string name="time_picker_label_minute">М</string>
     <string name="title_activity_easy_mode">Простой режим</string>
     <string name="title_mix_match_sound">Миксы природы</string>
-    <string name="title_mix_match_tips">Нажмите, чтобы прослушать. Можете добавить до 5 животных.</string>
+    <string name="title_mix_match_tips">Нажмите, чтобы прослушать. Можно добавить до 5 вариантов.</string>
     <string name="title_submit_mix_match">Нажмите \"Применить\", чтобы установить общий рингтон.</string>
     <string name="to_authorize">Разрешить</string>
     <string name="toco_toucan">Большой тукан</string>
@@ -733,7 +733,7 @@
     <string name="usage_app_desktop_widget_limit">Осталось %s</string>
     <string name="usage_app_get_it">Понятно</string>
     <string name="usage_app_holiday_limit">Выходные дни</string>
-    <string name="usage_app_limit_alter_summary">Устанавливаемый лимит меньше времени использования приложения сегодня. Все равно установить лимит?</string>
+    <string name="usage_app_limit_alter_summary">Устанавливаемый лимит меньше времени использования приложения сегодня. Всё равно установить лимит?</string>
     <string name="usage_app_limit_alter_title">Установка лимита</string>
     <string name="usage_app_limit_prelong">Продлить время</string>
     <string name="usage_app_limit_reach_summay">Осталось %s</string>
@@ -770,7 +770,7 @@
     <string name="usage_exit">Выход</string>
     <string name="usage_focus_focus_premission_main_summary">Приложению необходим доступ к вашей учётной записи для записи статистики использования Режима медитации.</string>
     <string name="usage_focus_focus_premission_second_summary">Если вы не предоставите необходимые разрешения, некоторые функции этого приложения будут недоступны, за исключением основных функций. Вы всегда можете ограничить права доступа или отменить авторизацию в настройках.</string>
-    <string name="usage_focus_new_summary">Станьте более внимательными и целенаправленными</string>
+    <string name="usage_focus_new_summary">Станьте внимательнее и целенаправленнее</string>
     <string name="usage_focus_save_success">Сохранено в Галерее</string>
     <string name="usage_focus_summary_level1">Уделите несколько минут медитации, это легко.</string>
     <string name="usage_focus_summary_level2">Медитация может стать полноценной практикой.</string>

@@ -1447,7 +1447,7 @@ ID:%s
     <string name="snore_dream_talk">Храп и разговор во сне</string>
     <string name="snore_duration_label">Продолжительность храпа</string>
     <string name="snore_label">Храп</string>
-    <string name="snore_record_audio_delete_message">Эта запись хранится только на вашем устройстве. Вы не сможете восстановить её, если удалите. Все равно удалить?</string>
+    <string name="snore_record_audio_delete_message">Эта запись хранится только на вашем устройстве. Вы не сможете восстановить её, если удалите. Всё равно удалить?</string>
     <string name="snore_record_audio_delete_title">Удалить запись?</string>
     <string name="snore_section">Храп %1$s</string>
     <string name="snore_write_description">Для сохранения аудиозаписей на устройстве</string>
@@ -1497,7 +1497,7 @@ ID:%s
     <string name="sport_data_use_title">Доступ к данным</string>
     <string name="sport_home_begin">Начать</string>
     <string name="sport_home_set_goal">Задать цель</string>
-    <string name="sport_invalid_dialog_distance_content">Расстояние, которое вы преодолели во время этой тренировки, слишком мало для создания записи. Все равно завершить тренировку?</string>
+    <string name="sport_invalid_dialog_distance_content">Расстояние, которое вы преодолели во время этой тренировки, слишком мало для создания записи. Всё равно завершить тренировку?</string>
     <string name="sport_invalid_dialog_time_content">Эта тренировка длилась менее 5 секунд. Завершить без записи?</string>
     <string name="sport_invalid_dialog_title">Слишком быстро!</string>
     <string name="sport_menu_share">Отправить</string>

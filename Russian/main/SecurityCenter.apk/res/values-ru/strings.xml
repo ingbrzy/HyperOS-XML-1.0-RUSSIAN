@@ -1858,7 +1858,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="ew_list_title">Предупреждения</string>
     <string name="ew_location_failed">Не удалось определить геопозицию</string>
     <string name="ew_location_open">Геолокация включена</string>
-    <string name="ew_main_close_text">"Вы не сможете получать актуальную информацию об землетрясении, если отключите оповещение. Все равно выключить?"</string>
+    <string name="ew_main_close_text">"Вы не сможете получать актуальную информацию об землетрясении, если отключите оповещение. Всё равно выключить?"</string>
     <string name="ew_main_close_title">Внимание</string>
     <string name="ew_main_contact_change">Изменить</string>
     <string name="ew_main_contact_change_dialog_content">Можно изменить или удалить экстренный контакт. После удаления вы не сможете использовать его.</string>
@@ -4155,7 +4155,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_bluetooth">Bluetooth</string>
     <string name="power_btn_analyze">Проверить батарею</string>
     <string name="power_cell">Мобильная сеть</string>
-    <string name="power_center_5g_save_close_detail">Экономия заряда для 5G подключения увеличивает время автономной работы без ущерба для подключения. Все равно выключить?</string>
+    <string name="power_center_5g_save_close_detail">Экономия заряда для 5G подключения увеличивает время автономной работы без ущерба для подключения. Всё равно выключить?</string>
     <string name="power_center_5g_save_close_later">Не выключать</string>
     <string name="power_center_5g_save_close_title">Выключение экономии для 5G</string>
     <string name="power_center_5g_save_summary_text">Уменьшение энергопотребления 5G при определённых сценариях использования</string>
@@ -4876,7 +4876,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_risk_detection_continue">Продолжить</string>
     <string name="privacy_risk_detection_stop">Остановить</string>
     <string name="privacy_risk_detection_stop_btn">Остановить</string>
-    <string name="privacy_risk_detection_stop_msg">Если вы остановите сканирование, некоторые риски конфиденциальности могут быть не обнаружены. Все равно остановить?</string>
+    <string name="privacy_risk_detection_stop_msg">Если вы остановите сканирование, некоторые риски конфиденциальности могут быть не обнаружены. Всё равно остановить?</string>
     <string name="privacy_risk_detection_stop_title">Остановка сканирования</string>
     <string name="privacy_risk_detection_title">Обнаружение рисков</string>
     <string name="privacy_risk_detection_user">Личная информация</string>
@@ -5123,7 +5123,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="scanning_bar_number">%d%%</string>
     <string name="scanning_bar_number_new">%s</string>
     <string name="screen_share_protection_negative_button">Отмена</string>
-    <string name="screen_share_protection_summary">Приложение, которое используется, содержит вашу личную информацию, которая может быть видна другим людям во время трансляции содержимого экрана. Все равно продолжить?</string>
+    <string name="screen_share_protection_summary">Приложение, которое используется, содержит вашу личную информацию, которая может быть видна другим людям во время трансляции содержимого экрана. Всё равно продолжить?</string>
     <string name="screen_share_protection_title">Внимание</string>
     <string name="screen_share_protection_warning_icon_title">Защита от мошенничества</string>
     <string name="screen_share_protection_warning_positive_button">Продолжить</string>
@@ -5472,7 +5472,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sp_system_security_title">Безопасность системы</string>
     <string name="sp_toast_removed_from_sign_white_list">Удалено из исключений. Объект будет проверен в следующий раз.</string>
     <string name="sp_unshelf_dialog_cancel_pay">Отмена</string>
-    <string name="sp_unshelf_dialog_content">Приложение %s не прошло тесты безопасности GetApps. Использование платежей в приложении может привести к финансовым потерям. Все равно продолжить?</string>
+    <string name="sp_unshelf_dialog_content">Приложение %s не прошло тесты безопасности GetApps. Использование платежей в приложении может привести к финансовым потерям. Всё равно продолжить?</string>
     <string name="sp_unshelf_dialog_continue_pay">Продолжить</string>
     <string name="sp_unshelf_dialog_title">Внимание</string>
     <string name="sp_website_scan_summary">Безопасный просмотр веб-страниц</string>
@@ -5715,7 +5715,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="storage_app_manager_factory_reset_dlg_msg">Все обновления этого системного приложения будут удалены.</string>
     <string name="storage_app_manager_factory_reset_dlg_title">Удалить обновления?</string>
     <string name="storage_app_manager_uninstall_application">Удалить</string>
-    <string name="storage_app_manager_uninstall_protected_dlg_msg">Удаление системных плагинов может привести к некорректной работе некоторых функций. Все равно удалить?</string>
+    <string name="storage_app_manager_uninstall_protected_dlg_msg">Удаление системных плагинов может привести к некорректной работе некоторых функций. Всё равно удалить?</string>
     <string name="storage_app_manager_uninstall_protected_dlg_title">Внимание</string>
     <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">Все клоны приложения будут удалены.</string>
     <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Удаление клона приложения очистит все его данные.</string>

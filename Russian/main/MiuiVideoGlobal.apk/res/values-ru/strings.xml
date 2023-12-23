@@ -758,7 +758,7 @@ ID: %s
     <string name="galleryplus_v_agree">Принимаю</string>
     <string name="galleryplus_v_cancel">Отмена</string>
     <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg">Отменить все изменения и прекратить редактирование субтитров?</string>
-    <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg2">Вы не сможете сохранить это видео, если выйдете сейчас. Все равно выйти?</string>
+    <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg2">Вы не сможете сохранить это видео, если выйдете сейчас. Всё равно выйти?</string>
     <string name="galleryplus_v_confirm_cancel_edit_subtitle_title">Выход из редактора</string>
     <string name="galleryplus_v_dialog_hint_contain_invalid_char">Имя файла содержит недопустимые символы</string>
     <string name="galleryplus_v_dialog_hint_duplicate_name">Файл с таким именем уже существует</string>
@@ -1339,7 +1339,7 @@ ID: %s
     <string name="no_recommend_data">Нет рекомендаций</string>
     <string name="no_subscriptions">Ничего нет</string>
     <string name="noon">Полдень</string>
-    <string name="not_connect_wifi_tip">Загрузка файлов с использованием мобильного интернета может привести к дополнительным тратам. Все равно загрузить?</string>
+    <string name="not_connect_wifi_tip">Загрузка файлов с использованием мобильного интернета может привести к дополнительным тратам. Всё равно загрузить?</string>
     <string name="not_set">Не задано</string>
     <string name="not_show">Больше не показывать</string>
     <string name="not_support_share">Не удалось поделиться</string>
