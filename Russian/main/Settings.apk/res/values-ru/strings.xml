@@ -1623,7 +1623,7 @@
     <string name="bluetooth_audio_share_feature_notice_title">Передача аудио</string>
     <string name="bluetooth_audio_share_request_disable">Идёт обмен с другой парой наушников. Переключение на другое устройство приведет к прекращению обмена. Переключить?</string>
     <string name="bluetooth_audio_share_request_disable_title">Переключение устройства</string>
-    <string name="bluetooth_audio_share_request_disconnect">Если отключиться сейчас, при следующем подключении устройства не будут автоматически обмениваться аудио. Все равно отключитесь?</string>
+    <string name="bluetooth_audio_share_request_disconnect">Если отключиться сейчас, при следующем подключении устройства не будут автоматически обмениваться аудио. Всё равно отключитесь?</string>
     <string name="bluetooth_audoi_share">" | Общее аудио"</string>
     <string name="bluetooth_auracast_assist_add_source">Слушать</string>
     <string name="bluetooth_auracast_assist_leave_broadcast">Остановить</string>
@@ -2897,7 +2897,7 @@
     <string name="credman_keywords">"данные, ключ доступа, пароль"</string>
     <string name="credman_picker_title">"Сервисы для хранения паролей, ключей доступа и данных"</string>
     <string name="crisp_text">Высокие частоты виброотклика добавляют чёткость действиям</string>
-    <string name="critical_feedback">Детализация</string>
+    <string name="critical_feedback">Акцентирование</string>
     <string name="cross_profile_calendar_restricted_summary">В вашей организации запрещён доступ к рабочему календарю для личных приложений.</string>
     <string name="cross_profile_calendar_summary">Показывать рабочие мероприятия в личном календаре.</string>
     <string name="cross_profile_calendar_title">Синхронизация календарей</string>
@@ -2993,7 +2993,7 @@
     <string name="dark_mode_alert_dialog_cancel">Отмена</string>
     <string name="dark_mode_alert_dialog_checkbox">Больше не показывать</string>
     <string name="dark_mode_alert_dialog_confirm">Включить</string>
-    <string name="dark_mode_alert_dialog_message">Это приложение может неправильно отображаться в тёмном режиме. Все равно включить тёмный режим?</string>
+    <string name="dark_mode_alert_dialog_message">Это приложение может неправильно отображаться в тёмном режиме. Всё равно включить тёмный режим?</string>
     <string name="dark_mode_alert_dialog_title">Внимание</string>
     <string name="dark_mode_apps_header">Выбранные приложения</string>
     <string name="dark_mode_auto_time_summary">Включение и выключение тёмного режима в заданное время</string>
@@ -3230,7 +3230,7 @@
     <string name="date_time_set_timezone_title">Часовой пояс</string>
     <string name="date_time_settings">Дата и время</string>
     <string name="day_of_week">Повтор</string>
-    <string name="dc_light_dialog_summary">Включение DC dimming может повлиять на качество изображения. Все равно включить?</string>
+    <string name="dc_light_dialog_summary">Включение DC dimming может повлиять на качество изображения. Всё равно включить?</string>
     <string name="dc_light_summary">Затемнение по постоянному току уменьшает нагрузку на глаза</string>
     <string name="dc_light_summary_new">Предотвращение сильного мерцания и уменьшение нагрузки на глаза в условиях низкой освещенности</string>
     <string name="dc_light_title">Устранение мерцания</string>
@@ -3800,7 +3800,7 @@ ID: %s
     <string name="effect_preview">Предпросмотр</string>
     <string name="eid_multi_sim">"EID (слот %1$d)"</string>
     <string name="eighthours">8 часов</string>
-    <string name="elastic_text">Подсказки и выпадающие меню в виде всплывающего окна с акцентированным виброоткликом помогают сфокусироваться на них</string>
+    <string name="elastic_text">Средние частоты виброотклика для подсказок и выпадающих меню помогают сфокусироваться на них</string>
     <string name="embedded_window_guide_text">В альбомном режиме приложения будут отображаться параллельно. Когда эта функция отключена, приложения будут отображаться по центру.</string>
     <string name="emergency_address_summary">Адрес, по которому будут направлены экстренные службы в случае вызова по номеру 112 через сеть Wi-Fi</string>
     <string name="emergency_address_title">Адрес для экстренных случаев</string>
@@ -5269,7 +5269,7 @@ ID: %s
     <string name="interact_across_profiles_title">Связь рабочих и личных приложений</string>
     <string name="interaction_control_category_title">Интерактивное управление</string>
     <string name="interconnection">Взаимодействие</string>
-    <string name="interesting_text">Реалистичный виброотклик делает взаимодействие с экраном более четким и информативным</string>
+    <string name="interesting_text">Реалистичный виброотклик делает взаимодействие с экраном более чётким и ясным</string>
     <string name="interesting_title">Реалистичность</string>
     <string name="internal_auto_rotate_title">Блокировка ориентации внутреннего экрана</string>
     <string name="internal_memory">Внутренний накопитель</string>
@@ -5389,7 +5389,7 @@ ID: %s
     <string name="keywords_biometric_unlock">разблокировка по лицу, разблокировка, разблокировать, аутентификация, вход, войти, отпечаток пальца, биометрия</string>
     <string name="keywords_bluetooth">Bluetooth;bluetooth;блютус</string>
     <string name="keywords_bluetooth_settings">подключено, устройство, наушники, гарнитура, динамик, беспроводной, подключение, наушники-вкладыши, музыка, мультимедиа</string>
-    <string name="keywords_bold_text">Высокая контрастность, слабое зрение, полужирный шрифт, четкий шрифт, четкий интерфейс</string>
+    <string name="keywords_bold_text">Высокая контрастность, слабое зрение, полужирный шрифт, чёткий шрифт, чёткий интерфейс</string>
     <string name="keywords_button_navigation_settings">навигация, кнопка главного экрана</string>
     <string name="keywords_cards_passes">карты, пропуска</string>
     <string name="keywords_change_nfc_tag_apps_state">"NFC, метка, считыватель"</string>
@@ -7093,7 +7093,7 @@ ID: %s
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
     <string name="mtrl_timepicker_cancel">Отмена</string>
     <string name="mtrl_timepicker_confirm">ОК</string>
-    <string name="muffled_text">Низкие частоты виброотклика мягко подчеркивают визуальные переходы и делают жесты нагляднее</string>
+    <string name="muffled_text">Низкие частоты виброотклика мягко подчеркивают визуальные переходы и делают жесты более естественными</string>
     <string name="multi_face_delete_message">Внимание</string>
     <string name="multi_face_delete_show_message">Удалить данные лица?</string>
     <string name="multi_face_input">Добавить данные лица</string>
@@ -10007,7 +10007,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
     <string name="size_tera_byte">ТБ</string>
-    <string name="skip_anyway_button_label">Все равно пропустить</string>
+    <string name="skip_anyway_button_label">Пропустить</string>
     <string name="skip_label">Далее</string>
     <string name="skip_lock_screen_confirm_msg">Уведомления, элементы управления плеером и ярлыки не будут отображаться на экране блокировки.</string>
     <string name="skip_lock_screen_dialog_button_label">Пропустить</string>
@@ -11380,7 +11380,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="usage_access_description">Доступ к истории использования позволяет отслеживать какие приложения вы используете и как часто, получать информацию об операторе сети, языковые настройки и другие параметры.</string>
     <string name="usage_access_title">Приложения с доступом к данным</string>
     <string name="usage_app_get_it">Понятно</string>
-    <string name="usage_app_limit_alter_summary">Устанавливаемый лимит меньше времени использования приложения сегодня. Все равно установить?</string>
+    <string name="usage_app_limit_alter_summary">Устанавливаемый лимит меньше времени использования приложения сегодня. Всё равно установить?</string>
     <string name="usage_app_limit_alter_title">Установка лимита</string>
     <string name="usage_app_limit_prelong">Продлить время</string>
     <string name="usage_app_limit_reach_summay">Осталось %s</string>
