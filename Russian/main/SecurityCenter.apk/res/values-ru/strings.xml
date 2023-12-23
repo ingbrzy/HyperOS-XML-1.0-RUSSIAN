@@ -841,7 +841,7 @@
     <string name="auto_task_default_task_summary_sleep">Планирование времени отхода ко сну и настройка поведения устройства</string>
     <string name="auto_task_default_task_summary_watch_video">Открытие приложения, включение Wi-Fi, настройка громкости</string>
     <string name="auto_task_default_task_title_driver_car">Вождение</string>
-    <string name="auto_task_default_task_title_get_up">Подъем</string>
+    <string name="auto_task_default_task_title_get_up">Подъём</string>
     <string name="auto_task_default_task_title_listen_music">Прослушивание музыки</string>
     <string name="auto_task_default_task_title_meet">Встреча</string>
     <string name="auto_task_default_task_title_noon_break">Перерыв</string>

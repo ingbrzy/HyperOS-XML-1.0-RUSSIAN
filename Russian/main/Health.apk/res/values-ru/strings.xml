@@ -223,7 +223,7 @@
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="click_finish_stand">Нажмите, чтобы завершить</string>
     <string name="click_to_solve">Помощь</string>
-    <string name="climb">Подъем по лестнице</string>
+    <string name="climb">Подъём по лестнице</string>
     <string name="climbing">Восхождение</string>
     <string name="close">Отключить</string>
     <string name="close_once">Отключить однократно</string>
@@ -471,7 +471,7 @@ ID:%s
     <string name="exercise">Активность</string>
     <string name="exercise_consume">Сожжено %1$d Кал</string>
     <string name="exercise_consume_description">Согласно диетическим рекомендациям для жителей Китая, ежедневная физическая активность должна составлять больше 15% от общего объема энергозатрат. Суммируются только энергозатраты ежедневной физической активности, энергозатраты на основной метаболизм не учитываются. Если у вас есть проблемы с весом, вам необходимо сосредоточиться на физической активности.</string>
-    <string name="exercise_consume_exercise_description">Суммарное время упражнений средней и высокой интенсивности. По данным китайского здравоохранения, еженедельная продолжительность упражнений должна составлять не менее 150 минут. Быстрая ходьба (больше 100 шагов в минуту), бег и подъем по лестнице будут рассматриваться как упражнения средней и высокой интенсивности.</string>
+    <string name="exercise_consume_exercise_description">Суммарное время упражнений средней и высокой интенсивности. По данным китайского здравоохранения, еженедельная продолжительность упражнений должна составлять не менее 150 минут. Быстрая ходьба (больше 100 шагов в минуту), бег и подъём по лестнице будут рассматриваться как упражнения средней и высокой интенсивности.</string>
     <string name="exercise_correct">Корректно</string>
     <string name="exercise_detail_duration">%1$s…%2$s…-…%3$s…%4$s</string>
     <string name="exercise_detail_no_consume_hint">"Выбранный источник данных (%1$s) не предоставляет информацию о количестве калорий.
@@ -526,7 +526,7 @@ ID:%s
     <string name="exercise_strokes">Количество гребков</string>
     <string name="exercise_sum">Отчёт о тренировке</string>
     <string name="exercise_time">Длительность</string>
-    <string name="exercise_walk_description">Согласно диетическим рекомендациям для жителей Китая, активная физическая активность должна длиться не менее 40 минут в день, что эквивалентно ходьбе 6000 шагов. Здесь будут суммироваться все ваши шаги (ходьба, бег, подъем по лестнице).</string>
+    <string name="exercise_walk_description">Согласно диетическим рекомендациям для жителей Китая, активная физическая активность должна длиться не менее 40 минут в день, что эквивалентно ходьбе 6000 шагов. Здесь будут суммироваться все ваши шаги (ходьба, бег, подъём по лестнице).</string>
     <string name="exit_running_tips_cancel">Да</string>
     <string name="exit_running_tips_confirm">Нет</string>
     <string name="exit_running_tips_desc">Похоже, вы ещё не начали тренировку. Завершить?</string>
