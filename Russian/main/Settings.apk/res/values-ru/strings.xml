@@ -2896,7 +2896,7 @@
     <string name="credman_error_message_title">"Количество сервисов сохранения паролей, ключей доступа и данных ограничено"</string>
     <string name="credman_keywords">"данные, ключ доступа, пароль"</string>
     <string name="credman_picker_title">"Сервисы для хранения паролей, ключей доступа и данных"</string>
-    <string name="crisp_text">Высокие частоты виброотклика добавляют чёткость действиям</string>
+    <string name="crisp_text">Высокие частоты виброотклика добавляют чёткость деталям каждого действия</string>
     <string name="critical_feedback">Акцентирование</string>
     <string name="cross_profile_calendar_restricted_summary">В вашей организации запрещён доступ к рабочему календарю для личных приложений.</string>
     <string name="cross_profile_calendar_summary">Показывать рабочие мероприятия в личном календаре.</string>
@@ -3800,7 +3800,7 @@ ID: %s
     <string name="effect_preview">Предпросмотр</string>
     <string name="eid_multi_sim">"EID (слот %1$d)"</string>
     <string name="eighthours">8 часов</string>
-    <string name="elastic_text">Средние частоты виброотклика помогают сфокусироваться на всплывающих окнах подсказок и выпадающих меню</string>
+    <string name="elastic_text">Средние частоты виброотклика помогают сфокусироваться на всплывающих окнах подсказок и меню</string>
     <string name="embedded_window_guide_text">В альбомном режиме приложения будут отображаться параллельно. Когда эта функция отключена, приложения будут отображаться по центру.</string>
     <string name="emergency_address_summary">Адрес, по которому будут направлены экстренные службы в случае вызова по номеру 112 через сеть Wi-Fi</string>
     <string name="emergency_address_title">Адрес для экстренных случаев</string>
@@ -5269,7 +5269,7 @@ ID: %s
     <string name="interact_across_profiles_title">Связь рабочих и личных приложений</string>
     <string name="interaction_control_category_title">Интерактивное управление</string>
     <string name="interconnection">Взаимодействие</string>
-    <string name="interesting_text">Реалистичный виброотклик делает взаимодействие с экраном более чётким и ясным</string>
+    <string name="interesting_text">Реалистичный виброотклик делает взаимодействие с экраном более чётким и информативным</string>
     <string name="interesting_title">Реалистичность</string>
     <string name="internal_auto_rotate_title">Блокировка ориентации внутреннего экрана</string>
     <string name="internal_memory">Внутренний накопитель</string>
@@ -7139,7 +7139,7 @@ ID: %s
     <string name="my_device_real_camera">Задняя камера</string>
     <string name="n_cacrts">Сертификатов ЦС: %d</string>
     <string name="natural_haptic">Реалистичный виброотклик</string>
-    <string name="natural_haptic_summary">Различные варианты виброотклика придают дополнительное измерение всему, что вы видите и к чему прикасаетесь на экране</string>
+    <string name="natural_haptic_summary">Различные варианты виброотклика придают дополнительное измерение всему, что вы видите и к чему прикасаетесь</string>
     <string name="natural_scroll">Натуральная прокрутка</string>
     <string name="nature_color">Стандарт</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Проведите вверх от нижнего края экрана, затем влево или вправо</string>

@@ -1534,12 +1534,12 @@
         <item>Через 5 минут</item>
     </string-array>
     <string-array name="tabs_taptic_detail">
-        <item>Высокие</item>
-        <item>Низкие</item>
-        <item>Средние</item>
+        <item>Высокие частоты</item>
+        <item>Низкие частоты</item>
+        <item>Средние частоты</item>
     </string-array>
     <string-array name="tabs_taptic_detail_m2">
-        <item>Хрустящий</item>
+        <item>Хруст</item>
         <item>Сплошной</item>
     </string-array>
     <string-array name="tare_modifiers_subfactors">
