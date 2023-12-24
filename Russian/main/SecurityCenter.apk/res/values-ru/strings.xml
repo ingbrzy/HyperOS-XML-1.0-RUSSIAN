@@ -3916,7 +3916,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_action_desc_foreground">Предоставлять разрешение только на время использования приложения</string>
     <string name="permission_action_desc_prompt">Разрешение предоставляется после подтверждения</string>
     <string name="permission_action_desc_reject">Не предоставлять разрешение</string>
-    <string name="permission_action_foreground">Разрешить на время использования</string>
+    <string name="permission_action_foreground">Только в активном режиме</string>
     <string name="permission_action_prompt">Спросить разрешение</string>
     <string name="permission_action_reject">Запретить</string>
     <string name="permission_action_tag">Рекомендуется</string>
@@ -3959,7 +3959,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_instruction_get_identifier">Доступ к идентификатору устройства</string>
     <string name="permission_instruction_install_shortcuts">Это разрешение позволяет приложениям создавать ярлыки на рабочем столе.</string>
     <string name="permission_instruction_install_unknown_source">Это разрешение позволяет приложениям устанавливать другие приложения на это устройство. Вредоносные программы используют это разрешение для установки приложений без вашего подтверждения.</string>
-    <string name="permission_instruction_location">Это разрешение позволяет приложениям использовать для геолокации сети или спутниковое позиционирование. Для отдельных приложений можно включить геолокацию с пониженной точностью.</string>
+    <string name="permission_instruction_location">Это разрешение позволяет приложениям использовать для геолокации сети или спутниковое позиционирование. Для отдельных приложений можно включить геолокацию пониженной точности</string>
     <string name="permission_instruction_mac_adress">Доступ к MAC-адресу этого устройства</string>
     <string name="permission_instruction_media_audio">Это разрешение позволяет приложениям получать доступ к аудиофайлам на устройстве. В них может содержаться личная информация.</string>
     <string name="permission_instruction_media_files">Это разрешение позволяет приложениям получать доступ к документам и файлам на устройстве. В них может содержаться личная информация.</string>
@@ -4553,8 +4553,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_identifier_protection">Защита персональных идентификаторов</string>
     <string name="pp_interception_net_visit_content_manager">Управление доступом</string>
     <string name="pp_interception_net_visit_content_manager_detail">Выбор приложений, которым разрешён доступ к Галерее и файлам приложений соцсетей</string>
-    <string name="pp_lab_compact_blur_location">Геолокация с пониженной точностью</string>
-    <string name="pp_lab_compact_blur_location_summary">Выберите \"По умолчанию\", чтобы использовать геолокацию Android с пониженной точностью, либо \"Все\", чтобы использовать геолокацию MIUI.</string>
+    <string name="pp_lab_compact_blur_location">Геолокация пониженной точности</string>
+    <string name="pp_lab_compact_blur_location_summary">Выберите \"По умолчанию\", чтобы использовать геолокацию Android пониженной точности, либо \"Все\", чтобы использовать дополнительные системные ресурсы, которые поддерживают все приложения.</string>
     <string name="pp_local_msg">Геолокация</string>
     <string name="pp_manage_apps_location_information">Настройка использования геолокации</string>
     <string name="pp_manage_track">Мониторинг трекеров</string>
@@ -4607,7 +4607,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_understanding_privacy">Действия</string>
     <string name="pp_virtual_identity_manager">Виртуальный ID</string>
     <string name="pp_virtual_identity_summary">Вместо реального идентификатора приложениям будет предоставлен виртуальный ID (OAID). Это защитит конфиденциальность и позволит контролировать отслеживание приложениями ваших действий и предпочтений.</string>
-    <string name="precise_location_title">Максимальная точность</string>
+    <string name="precise_location_title">Высокая точность</string>
     <string name="pref_about_traffic_title">Общие настройки</string>
     <string name="pref_adjust_data_usage">Шаблон сообщения оператора</string>
     <string name="pref_adjust_data_usage_summary">После изменения шаблона калибровки MIUI будет использовать его для получения статистики от оператора</string>

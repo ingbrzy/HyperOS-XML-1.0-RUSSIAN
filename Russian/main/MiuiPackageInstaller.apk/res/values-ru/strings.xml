@@ -896,8 +896,8 @@ ID: %s
     <string name="permission_action_prompt">Спросить</string>
     <string name="permission_action_reject">Запретить</string>
     <string name="permission_des_access_background_location">Геолокация в фоновом режиме</string>
-    <string name="permission_des_access_coarse_location">Геолокация с пониженной точностью</string>
-    <string name="permission_des_access_fine_location">Геолокация с высокой точностью</string>
+    <string name="permission_des_access_coarse_location">Геолокация пониженной точности</string>
+    <string name="permission_des_access_fine_location">Геолокация высокой точности</string>
     <string name="permission_des_access_media_location">Геолокация с использованием геоданных в сохранённых медиафайлах</string>
     <string name="permission_des_access_notifications">Доступ, проверка и очистка уведомлений, содержащих пароли и банковскую информацию</string>
     <string name="permission_des_activity_recognition">Доступ к данным физической активности, таким как ходьба, бег, количество шагов и др.</string>
@@ -930,7 +930,7 @@ ID: %s
     <string name="permission_group_title_privacy_related">Конфиденциальность</string>
     <string name="permission_group_title_settings_related">Настройки</string>
     <string name="permission_name_access_background_location">Геолокация в фоновом режиме</string>
-    <string name="permission_name_access_coarse_location">Геолокация с пониженной точностью</string>
+    <string name="permission_name_access_coarse_location">Геолокация пониженной точности</string>
     <string name="permission_name_access_fine_location">Геолокация</string>
     <string name="permission_name_access_media_location">Геоданные медиафайлов</string>
     <string name="permission_name_access_notifications">Доступ к уведомлениям</string>
