@@ -709,6 +709,7 @@
     <string-array name="country_codes_5ghz_supported"></string-array>
     <string-array name="country_codes_hid_sap_5GHz_band"></string-array>
     <string-array name="country_support_esim"></string-array>
+    <array name="cover_icon_arrays"></array>
     <string-array name="crossSimSpnFormats"></string-array>
     <array name="cross_profile_apps" />
     <string-array name="crypto_fingerprint_fallback_prefixes"></string-array>
@@ -782,6 +783,7 @@
     <string-array name="device_use_camera_one"></string-array>
     <string-array name="devices_support_multi_freeform"></string-array>
     <string-array name="dfs_app_tracking"></string-array>
+    <string-array name="dfs_app_tracking_international"></string-array>
     <string-array name="di_zhi"></string-array>
     <array name="dial_string_replace" />
     <array name="dialog_delete_finish_res"></array>
@@ -1711,6 +1713,7 @@
     <string-array name="tv_pip_settings_class_name"></string-array>
     <string-array name="typing_style_values"></string-array>
     <string-array name="unit_data_order_area_"></string-array>
+    <string-array name="unit_data_order_currency_"></string-array>
     <string-array name="unit_data_order_data_"></string-array>
     <string-array name="unit_data_order_length_"></string-array>
     <string-array name="unit_data_order_radix"></string-array>
