@@ -2,11 +2,11 @@
 <resources>
     <string name="HIPS_ACTION_REJECT_CLEAR">Ограничить и очистить буфер обмена</string>
     <string name="HIPS_Action_Accept">Разрешить</string>
-    <string name="HIPS_Action_Accept_Once">Разрешить однократно</string>
-    <string name="HIPS_Action_Accept_This">Разрешить однократно</string>
+    <string name="HIPS_Action_Accept_Once">Разрешить один раз</string>
+    <string name="HIPS_Action_Accept_This">Разрешить один раз</string>
     <string name="HIPS_Action_Reject">Запретить</string>
-    <string name="HIPS_Action_Reject_Once">Запретить однократно</string>
-    <string name="HIPS_Action_Reject_This">Ограничить однократно</string>
+    <string name="HIPS_Action_Reject_Once">Запретить один раз</string>
+    <string name="HIPS_Action_Reject_This">Ограничить один раз</string>
     <string name="HIPS_Perm_Access_Gallery">Галерея</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Доступ к Галерее</string>
     <string name="HIPS_Perm_AudioRecorder">Микрофон</string>
@@ -131,8 +131,8 @@
     <string name="HIPS_SecurityPrompt_Reject">Запретить (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Clear_This">Ограничить и очистить буфер обмена (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Never">Запретить и больше не спрашивать (%d)</string>
-    <string name="HIPS_SecurityPrompt_Reject_Once">Запретить однократно (%d)</string>
-    <string name="HIPS_SecurityPrompt_Reject_This">Ограничить однократно (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject_Once">Запретить один раз (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject_This">Ограничить один раз (%d)</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s запрашивает разрешение на %2$s</string>
     <string name="Su_Package_Forbidden2">не имеет ROOT-доступа.</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>

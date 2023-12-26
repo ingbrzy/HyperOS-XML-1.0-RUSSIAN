@@ -2203,6 +2203,9 @@ mm"</string>
     <string name="mte_override_notification_message">"Это может ухудшить стабильность работы и производительность. Чтобы отключить функцию, перезагрузите устройство. Если она была включена с помощью параметра arm64.memtag.bootctl, предварительно укажите значение none."</string>
     <string name="mte_override_notification_title">"Включена экспериментальная функция MTE"</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
+    <string name="mtrl_checkbox_state_description_checked">Отмечено</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Неопределённое состояние</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Не отмечено</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Новые уведомления: %1$d</string>
     <string name="mtrl_picker_a11y_next_month">Следующий месяц</string>

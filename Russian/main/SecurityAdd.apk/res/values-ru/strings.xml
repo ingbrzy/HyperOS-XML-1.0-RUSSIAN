@@ -250,6 +250,8 @@
     <string name="gb_gpu_dialog_button_countdown">Понятно (%s)</string>
     <string name="gb_gpu_dialog_message">Текущие настройки GPU применены для \"%s\". Перезапустите игру.</string>
     <string name="gb_gpu_dialog_titile">Настройки GPU</string>
+    <string name="gb_gpu_pannel_touch_ctl_dialog_message">Сенсорное управление обновлено. Теперь соответствующие функции можно найти во время игры в разделе Ярлыки игр > Улучшенное сенсорное управление.</string>
+    <string name="gb_gpu_pannel_touch_ctl_dialog_title">Новое сенсорное управление</string>
     <string name="gb_gpu_rader_graph">Качество изображения</string>
     <string name="gb_gpu_rader_maxfps">Максимальная частота кадров</string>
     <string name="gb_gpu_rader_remain">Производительность</string>

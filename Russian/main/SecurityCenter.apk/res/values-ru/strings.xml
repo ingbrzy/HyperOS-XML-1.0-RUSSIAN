@@ -200,7 +200,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">"Трансляция не будет прервана, пока экран отключён и приложение работает в фоновом режиме. Чтобы включить экран, нажмите кнопку питания."</string>
     <string name="all_address_choose_hint">Все номера в этой провинции</string>
     <string name="allow_all">Разрешить всем</string>
-    <string name="allow_onetime">Разрешить однократно</string>
+    <string name="allow_onetime">Разрешить один раз</string>
     <string name="already_close_gamebooster">Ускорение игр отключено</string>
     <string name="anti_disturb_msg_detail">Отключить все уведомления, кроме входящих вызовов</string>
     <string name="anti_disturb_msg_title">Режим \"Не беспокоить\"</string>
@@ -585,6 +585,7 @@
     <string name="app_manager_reset_app_preferences_title">Сбросить настройки приложений?</string>
     <string name="app_manager_restricted_settings_title">Ограниченные настройки</string>
     <string name="app_manager_search_prompt">Не удалось ничего найти? Просмотрите результаты для всех приложений.</string>
+    <string name="app_manager_share_apk">Отправить</string>
     <string name="app_manager_shortcut_manager">Управление ярлыками рабочего стола</string>
     <string name="app_manager_show_all_apps">Показать все приложения</string>
     <string name="app_manager_show_all_apps_opened">Показ результатов для всех приложений…</string>
@@ -1146,7 +1147,7 @@
     <string name="blur_key_words_oaid">OAID</string>
     <string name="blur_key_words_permission_records">Запись действий приложения</string>
     <string name="blur_location_off">Если отключить эту функцию, геолокация пониженной точности будет использоваться только для специально указанных приложений</string>
-    <string name="blur_location_on">Если включить эту функцию и однократно предоставить разрешение, геолокация пониженной точности будет использоваться для всех приложений</string>
+    <string name="blur_location_on">Если включить эту функцию и один раз предоставить разрешение, геолокация пониженной точности будет использоваться для всех приложений</string>
     <string name="blur_location_title">Пониженная точность</string>
     <string name="blur_message">Сообщения</string>
     <string name="blur_multiple_device_permissions">Разрешения для нескольких устройств</string>
@@ -2079,6 +2080,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="firewall_restrict_notify_title">%s не может использовать сеть</string>
     <string name="firewall_restrict_wlan">Запретить использование Wi-Fi</string>
     <string name="firewall_rule_group_title_roaming">Зарубежный роуминг</string>
+    <string name="firewall_statement_msg">Из-за системных ограничений и требований к качеству связи, часть приложений могут продолжать использовать мобильный интернет, даже если они отключены. Если вы столкнулись с такой ситуацией, сообщите нам об этом в разделе Обратная связь.</string>
+    <string name="firewall_statement_no_more">Больше не показывать</string>
+    <string name="firewall_statement_ok">Понятно</string>
+    <string name="firewall_statement_title">Внимание</string>
     <string name="firewall_system_title">Трафик системных приложений</string>
     <string name="firewall_temp_rule_reason">Приложение %2$s ограничило подключение для %1$s</string>
     <string name="firewall_wifi">Wi-Fi</string>
@@ -2232,6 +2237,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gallery_confirm_start_activity">Приложение %s хочет получить доступ к Галерее и файлам приложений соцсетей. Разрешить?</string>
     <string name="game_ad_recommendation">Игры для всех</string>
     <string name="game_anti_disturb_msg">Режим \"Не беспокоить\" в игре</string>
+    <string name="game_balance_more_setting_title">Доп. настройки</string>
+    <string name="game_balance_vision_enhance_subtitle">Улучшение контрастности и детализации в играх</string>
+    <string name="game_balance_vision_enhance_title">Улучшенные визуальные эффекты</string>
     <string name="game_booster">Ускорение игр</string>
     <string name="game_booster_close">Ускорение игр отключено</string>
     <string name="game_booster_intro">Об Ускорении игр</string>
@@ -2245,6 +2253,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="game_manual_record_setting_setting">Настройки</string>
     <string name="game_manual_record_setting_title">Ключевые моменты</string>
     <string name="game_more_improve">Ограничить фоновые процессы и скорость загрузки, чтобы сэкономить заряд батареи и трафик для игр</string>
+    <string name="game_performance_wild_mode">Режим Ultimate</string>
+    <string name="game_performance_wild_mode_tips">"Включите для улучшения производительности
+(устройство может нагреваться и сильнее расходовать заряд)"</string>
     <string name="game_setting">Игровые настройки</string>
     <string name="game_video_net_data">Мобильный интернет</string>
     <string name="game_video_network_eror">Ошибка подключения к сети. Проверьте настройки и повторите попытку.</string>
@@ -2347,6 +2358,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_advance_settings_vibration_4d">4D вибрация</string>
     <string name="gb_advance_settings_vibration_4d_summary">Отображение действий в игре с помощью вибрации</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Вибрировать в игре в момент поражения</string>
+    <string name="gb_all_hight_display">Высокая частота обновления</string>
+    <string name="gb_all_hight_display_sub_title">120 Гц для всех сценариев</string>
     <string name="gb_already_in_game_list_tips">Уже присутствует в списке игр</string>
     <string name="gb_already_in_video_list_tips">Уже присутствует в списке видеоприложений</string>
     <string name="gb_application_not_find">Ничего нет</string>
@@ -2490,6 +2503,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_performance_balance">Сбалансированный</string>
     <string name="gb_performance_balance_tips">"Сбалансированный режим экономит заряд,
 снижая частоту обновления и вероятность перегрева"</string>
+    <string name="gb_performance_enhance">Высокая производительность</string>
+    <string name="gb_performance_enhance_sub_title">Отдавать предпочтение производительности и игнорировать расход заряда</string>
     <string name="gb_performance_high">Производительный</string>
     <string name="gb_performance_mode">Игровой режим</string>
     <string name="gb_performance_tips">"Производительный режим повышает скорость графики,
@@ -2631,6 +2646,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_voice_changer_user_tips_info_vip_expire">Срок действия подписки истёк. Продлите подписку!</string>
     <string name="gb_voice_changer_user_vip_expired">Срок действия истёк</string>
     <string name="gb_voice_changer_user_vip_remain_time">Дата окончания: %s</string>
+    <string name="gb_wild_mode_game_performance_enhance">Повышение производительности в играх</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">Записывайте ключевые моменты ваших игровых сессий</string>
     <string name="gb_wonderful_video_cancel">Отмена</string>
     <string name="gb_wonderful_video_checkall">Выбрать все</string>
@@ -2707,7 +2723,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="google_base_app_timeout">Время сессии истекло. Повторите позже.</string>
     <string name="google_base_app_title">Установка сервисов Google</string>
     <string name="google_base_app_toast">Идёт установка Google Services Framework в фоновом режиме. Повторите позже.</string>
-    <string name="grant_dialog_button_allow_onetime">Разрешить однократно</string>
+    <string name="grant_dialog_button_allow_onetime">Разрешить один раз</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">Запретить и больше не спрашивать</string>
     <string name="group_audio">Музыка и аудио</string>
     <string name="group_clipboard">Буфер обмена</string>
@@ -2807,6 +2823,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gtb_guide_gtb_game_new">Новое</string>
     <string name="gtb_guide_gtb_line_new">Попробуйте производительный режим в Ускорении игр!</string>
     <string name="gtb_guide_gtb_line_new_global">Проведите по экрану, чтобы открыть Ускорение игр</string>
+    <string name="gtb_guide_gtb_line_wilde_mode">Попробуйте режим Ultimate в Ускорении игр, чтобы поднять игру на новый уровень.</string>
     <string name="gtb_guide_gtb_line_xspace">Повысьте уровень игры с помощью нового Ускорения игр!</string>
     <string name="gtb_guide_small_window_app_desc">Использование других приложений во время игры</string>
     <string name="gtb_guide_small_window_app_title">Плавающие окна</string>
@@ -3723,8 +3740,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_abnormal_scan_reason_use_GPS">Слишком часто использует геолокацию</string>
     <string name="pc_abnormal_scan_reason_wake_system">Слишком часто пробуждает систему</string>
     <string name="pc_activity_title">Оптимизация питания</string>
+    <string name="pc_always_charge_protect_summary">Не заряжать выше %1$s для сохранения здоровья батареи</string>
+    <string name="pc_always_charge_protect_title">Ограничение зарядки</string>
     <string name="pc_batery_information">Сведения о батарее</string>
     <string name="pc_batery_protection">Защита батареи</string>
+    <string name="pc_battery_charge_protect">Защита зарядки</string>
     <string name="pc_battery_chart_loading">Подождите…</string>
     <string name="pc_battery_detail_curve_reference_now">Сейчас</string>
     <string name="pc_battery_detail_device_item_title">Использование батареи</string>
@@ -3790,6 +3810,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_hidemode_performance">Скорость</string>
     <string name="pc_hidemode_performance_title">Производительный режим</string>
     <string name="pc_hidemode_power_save">Экономия</string>
+    <string name="pc_high_temp_discharge_reminder">Зарядите устройство. Если устройство перегреется при разряженной батарее, это может повредить её.</string>
     <string name="pc_high_temp_protection_noti_bt_text">Понятно</string>
     <string name="pc_high_temp_protection_noti_summary">Точка доступа, мобильный интернет и геолокация недоступны</string>
     <string name="pc_high_temp_protection_noti_summary2">Точка доступа недоступна для использования</string>
@@ -3798,6 +3819,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_hight_refresh_rate_reminder_summary">Использование более высокой частоты обновления может привести к увеличению расхода заряда и нагреву устройства</string>
     <string name="pc_hight_refresh_rate_reminder_title">Просмотр видео с высокой частотой кадров</string>
     <string name="pc_install_manager">Установка через USB</string>
+    <string name="pc_intellect_charge_protect_summary">Адаптация зарядки батареи, в зависимости от сценариев использования</string>
+    <string name="pc_intellect_charge_protect_title">Оптимизация зарядки</string>
     <string name="pc_keywords_fast_charge">Быстрая зарядка</string>
     <string name="pc_keywords_low_power_consumption_save">Экономия заряда</string>
     <string name="pc_keywords_low_power_mode">Экономичный режим</string>
@@ -3832,6 +3855,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_night_sleep_mode_summary">Автоматическое отключение некоторых функций для экономии заряда батареи при обнаружении режима сна</string>
     <string name="pc_night_sleep_mode_title">Ночной режим</string>
     <string name="pc_no_more_remind">Не напоминать</string>
+    <string name="pc_ordinary_charge_summary">Всегда разрешать зарядку до %1$s</string>
+    <string name="pc_ordinary_charge_title">Обычная зарядка</string>
     <string name="pc_performance_mode_dialog_summary">Устройство сможет работать в течение %s в производительном режиме. Обратите внимание, что режим увеличит расход батареи и может привести к перегреву.</string>
     <string name="pc_performance_mode_dialog_summary2">Производительность будет повышена. Это увеличит расход батареи и может привести к перегреву. Включить?</string>
     <string name="pc_performance_mode_dialog_title">Производительный режим</string>
@@ -3864,6 +3889,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_statistics_battery_use_title">Расход батареи</string>
     <string name="pc_suggest_open_fast_charge">Включить быструю зарядку %d Вт</string>
     <string name="pc_temperature_too_high">Устройство перегрелось</string>
+    <string name="pc_timely_charging_summary">Заряд батареи ниже %1$s. Если устройство перегреется при разряженной батарее, это может повредить её.</string>
+    <string name="pc_timely_charging_title">Зарядите устройство</string>
     <string name="pc_to_phone_install">Заблокирована установка %s через USB</string>
     <string name="pc_toady_charge_time_title">Кол-во подзарядок</string>
     <string name="pc_wait_device_cools_down">Дождитесь, когда устройство остынет, чтобы использовать эту функцию</string>
@@ -4119,6 +4146,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="phone_manager_edit_commonly_used_func_title">Редактирование общих функций</string>
     <string name="phone_manager_title">Панель инструментов</string>
     <string name="phone_number_protect">Сделать номер телефона приватным</string>
+    <string name="pin_toast">Чтобы открепить приложение, проведите по экрану вверх и задержите палец</string>
+    <string name="pin_toast_nav">Чтобы открепить приложение, нажмите и удерживайте кнопки \"Назад\" и \"Обзор\"</string>
     <string name="pkg_traffic">Лимит трафика</string>
     <string name="pm_auto_start_by_other">Цепной запуск</string>
     <string name="pm_auto_start_by_other_app">Разрешить запуск других приложений</string>
@@ -6092,6 +6121,12 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="ten_percent_total_pkg">%s (10%% от месячного лимита)</string>
     <string name="terminal_behavior_camera">%1s - доступ к камере устройства</string>
     <string name="terminal_behavior_screen">%1s - доступ к экрану устройства</string>
+    <string name="terminal_flars_current_camera">Используется камера устройства</string>
+    <string name="terminal_flars_current_screen">Используется экран устройства</string>
+    <string name="terminal_flars_current_screen_camera">Используются камера и экран устройства</string>
+    <string name="terminal_flars_recent_camera">Камера устройства недавно использовалась</string>
+    <string name="terminal_flars_recent_screen">Экран устройства недавно использовался</string>
+    <string name="terminal_flars_recent_screen_camera">Камера и экран устройства недавно использовались</string>
     <string name="terminal_privacy">Защита конфиденциальности на устройстве</string>
     <string name="terminal_privacy_ability">Функции и механизмы</string>
     <string name="terminal_privacy_ability_img">Обработка изображений</string>
@@ -6492,9 +6527,17 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="vb_advanced_settings_after_open">После</string>
     <string name="vb_advanced_settings_before_open">До</string>
     <string name="vb_advanced_settings_pic_stronger_desc">Повышение четкости движущихся объектов за счёт улучшения анимации. Эта функция с повышенным энергопотреблением.</string>
+    <string name="vb_default_mode">По умолчанию</string>
+    <string name="vb_dolby_effect">Dolby Atmos</string>
+    <string name="vb_dult_effect">3D LUT vision</string>
     <string name="vb_fps_display_unit">Гц</string>
     <string name="vb_fps_settings">Автообновление частоты</string>
     <string name="vb_fps_settings_tips">Функция регулирует частоту обновления экрана в соответствии с частотой кадров видео, это экономит заряд батареи и делает воспроизведение плавным. Включение субтитров отключает автообновление частоты.</string>
+    <string name="vb_immerse_voice">Иммерсивный звук</string>
+    <string name="vb_movie_mode">Режим \"Театр\"</string>
+    <string name="vb_movie_power_hint">"Режим \"Театр\" обеспечивает захватывающие впечатления во время просмотра.
+Устройство может сильнее нагреваться и расходовать заряд."</string>
+    <string name="vb_movie_subtitle">Требуется высокая производительность</string>
     <string name="vb_power_performance_mode_conflict_toast">Функция недоступна в производительном режиме</string>
     <string name="vb_power_save_mode_conflict_toast">Функция недоступна при включенной экономии заряда</string>
     <string name="vb_quick_func_auto_bgm">Распознавание фоновой музыки</string>
@@ -6504,6 +6547,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="vb_quick_func_screening">Трансляция</string>
     <string name="vb_settings">Настройки</string>
     <string name="vb_super_power_save_mode_conflict_toast">Функция недоступна при включенной ультраэкономии заряда</string>
+    <string name="vb_theatre_switch_guide">Нажмите для переключения в режим \"Театр\"</string>
     <string name="vb_ve_settings_ai_stronger">ИИ</string>
     <string name="vb_ve_settings_display_style_tips">*Эффекты будут применены ко всему экрану</string>
     <string name="vb_ve_settings_display_style_tips_new">*Эффекты будут применены только к области воспроизведения видео</string>
@@ -6567,6 +6611,7 @@ Xiaomi не обещает и не гарантирует точность, до
 Включение функции приведет к отключению других."</string>
     <string name="vb_video_super_division_tips">"Не хватает четкости?
 Попробуйте увеличить разрешение!"</string>
+    <string name="vb_voice_adjust">Режим \"Театр\"</string>
     <string name="verify_shut_down_password_content">Требовать ввода пароля, если устройство выключено в заблокированном состоянии</string>
     <string name="verify_shut_down_password_title">Подтверждение выключения</string>
     <string name="verify_sms_ensure_allow">Отправить</string>
