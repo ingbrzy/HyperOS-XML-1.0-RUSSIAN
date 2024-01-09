@@ -2865,7 +2865,7 @@ UT-интерфейс: %5$s"</string>
     <string name="technology_news_enable">Новости технологий включены</string>
     <string name="telephony_monitor_switch">Telephony Monitor</string>
     <string name="telephony_monitor_switch_summary">Обнаружив проблему в работе модема или телефонной связи, Telephony Monitor будет собирать журналы и предлагать пользователю отправить информацию об ошибке</string>
-    <string name="telephony_setting">Телефон</string>
+    <string name="telephony_setting">Приложения/Другие настройки/Настройки системных приложений/Телефон</string>
     <string name="telocation_auto_country_code">Добавлять код страны</string>
     <string name="telocation_auto_country_code_summary">Автоматически добавлять код страны перед набором номера</string>
     <string name="telocation_call_assistant">Помощь в наборе номера</string>

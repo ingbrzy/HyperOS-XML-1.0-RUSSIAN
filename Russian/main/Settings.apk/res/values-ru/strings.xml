@@ -4446,7 +4446,7 @@ ID: %s
 "</string>
     <string name="font_size_summary1">"Если шрифт слишком мал, попробуйте "</string>
     <string name="font_size_summary2">Простой режим.</string>
-    <string name="footer_description_full_screen_intent">"Разрешить этому приложению показывать уведомления в полноэкранном режиме, когда устройство заблокировано. Так приложение сможет сообщать о будильниках, входящих вызовах и других срочных уведомлениях."</string>
+    <string name="footer_description_full_screen_intent">Разрешите приложению отображение полноэкранных уведомлений для будильников, входящих вызовов или других срочных уведомлений, когда устройство заблокировано. Для работы должно быть включено разрешение \"Открытие новых окон в фоновом режиме\".</string>
     <string name="footer_learn_more_content_description">Подробнее о сервисе \"%1$s\"</string>
     <string name="for_diagnosis_usage_only">Использовать только для диагностики.</string>
     <string name="forbidden_network">(доступ запрещён)</string>
