@@ -49,9 +49,9 @@
     <string name="calibrate_failed_no_location">Калибровка не удалась. Ошибка геолокации.</string>
     <string name="calibrate_failed_timeout">Калибровка не удалась. Ошибка сервера.</string>
     <string name="calibrate_new_tip">Резко наклоните устройство, чтобы прокатить шар по кругу</string>
-    <string name="calibrate_rotate_again">Повторите попытку</string>
+    <string name="calibrate_rotate_again">Повтор</string>
     <string name="calibrate_success">Калибровка завершена</string>
-    <string name="calibrate_tip">Наклоняйте устройство так, чтобы шар катился по кругу</string>
+    <string name="calibrate_tip">Резко наклоняйте устройство, чтобы шарик катился по кругу</string>
     <string name="calibrate_title">Калибровка компаса</string>
     <string name="calibrating">Калибровка компаса</string>
     <string name="cancel">Отмена</string>

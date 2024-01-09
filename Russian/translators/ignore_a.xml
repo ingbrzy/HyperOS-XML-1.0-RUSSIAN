@@ -1631,6 +1631,7 @@
     <integer-array name="support_networktypes_gsm_master"></integer-array>
     <integer-array name="support_networktypes_gsm_nr_master_mtk"></integer-array>
     <integer-array name="support_networktypes_gsm_vice"></integer-array>
+    <integer-array name="support_networktypes_nr"></integer-array>
     <string-array name="support_rotate_calibrate_devices"></string-array>
     <string-array name="support_settings_haptic_device_list"></string-array>
     <string-array name="support_size_compat_device_list"></string-array>
@@ -1690,6 +1691,7 @@
     <string-array name="tips"></string-array>
     <string-array name="tmpfs_pkg_list"></string-array>
     <array name="toggle_slider_icon_blend_colors"></array>
+    <array name="toggle_slider_progress_blend_colors"></array>
     <string-array name="top_caption_insets_black_list"></string-array>
     <string-array name="top_game_list"></string-array>
     <string-array name="top_video_list"></string-array>

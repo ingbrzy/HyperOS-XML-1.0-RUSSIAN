@@ -61,6 +61,7 @@
     <string name="alarm_notify_text">Отложите или отключите будильник.</string>
     <string name="alarm_permanent_alert">Сигнал</string>
     <string name="alarm_repeat">Повтор</string>
+    <string name="alarm_repeat_self_define">Настройка</string>
     <string name="alarm_repeat_self_define_button">Настройка</string>
     <string name="alarm_ringtone">Мелодии будильников</string>
     <string name="alarm_ringtone_picker">Будильник</string>
@@ -532,6 +533,7 @@ mm"</string>
     <string name="privacy_settings_title">Конфиденциальность</string>
     <string name="query_privacy_policy">Политика конфиденциальности</string>
     <string name="reach_upper_limit">Не удалось добавить таймер. Достигнуто максимальное количество.</string>
+    <string name="read_device_internal_storage">Доступ к хранилищу</string>
     <string name="read_external_storage_permission_desc">Для установки пользовательских рингтонов</string>
     <string name="read_internal_storage">Доступ к хранилищу</string>
     <string name="read_phone_state">Информация об устройстве</string>
