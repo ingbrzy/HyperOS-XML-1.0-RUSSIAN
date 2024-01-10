@@ -170,7 +170,7 @@
     <string name="dialog_airplane_mode_content">Mi Mover не может работать в режиме полёта. Отключите режим полёта в настройках.</string>
     <string name="dialog_airplane_mode_title">Отключение режима полёта</string>
     <string name="dialog_backup_password_cancel">Отмена</string>
-    <string name="dialog_backup_password_change_machine_tips">Вы не сможете передавать резервные копии, защищенные паролем. Отключите пароль резервного копирования перед использованием Mi Mover.</string>
+    <string name="dialog_backup_password_change_machine_tips">Вы не сможете передавать резервные копии, защищённые паролем. Отключите пароль резервного копирования перед использованием Mi Mover.</string>
     <string name="dialog_backup_password_verify">ОК</string>
     <string name="dialog_connect_ap_timeout_button">Подключиться</string>
     <string name="dialog_connect_ap_timeout_message">Автоматическое подключение не удалось. Попробуйте подключиться вручную.</string>

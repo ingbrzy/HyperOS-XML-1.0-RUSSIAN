@@ -904,7 +904,7 @@
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="screen_cells_config_title">Сетка рабочего стола</string>
-    <string name="screen_locked_toast">Рабочий стол защищен от изменений</string>
+    <string name="screen_locked_toast">Рабочий стол защищён от изменений</string>
     <string name="screen_number">Экран %d</string>
     <string name="search_bar_hint_content">Поиск приложений и контента</string>
     <string name="search_guide_btn">Понятно</string>

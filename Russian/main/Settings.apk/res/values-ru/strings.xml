@@ -63,7 +63,7 @@
     <string name="accept_new_connection_detail">Новые подключения были ограничены в центре управления</string>
     <string name="access_control_app_entry_multiple">Открыть %s</string>
     <string name="access_control_app_entry_single">Открыть приложение</string>
-    <string name="access_control_need_password">"%s защищен
+    <string name="access_control_need_password">"%s защищён
 "</string>
     <string name="access_control_need_to_unlock">Введите пароль</string>
     <string name="access_control_no_back_footer">Нажмите [icon] для выхода</string>
@@ -472,7 +472,7 @@
     <string name="accessibility_wifi_off">Wi-Fi выключен.</string>
     <string name="accessibility_wifi_one_bar">Сигнал Wi-Fi: одно деление.</string>
     <string name="accessibility_wifi_security_type_none">Открытая сеть</string>
-    <string name="accessibility_wifi_security_type_secured">Защищенная сеть</string>
+    <string name="accessibility_wifi_security_type_secured">Защищённая сеть</string>
     <string name="accessibility_wifi_signal_full">Надёжный сигнал Wi-Fi.</string>
     <string name="accessibility_wifi_three_bars">Сигнал Wi-Fi: три деления.</string>
     <string name="accessibility_wifi_two_bars">Сигнал Wi-Fi: два деления.</string>
@@ -9348,8 +9348,8 @@ UT-интерфейс: %5$s"</string>
     <string name="security_fingerprint_disclaimer_lockscreen_disabled_2">Вы по-прежнему можете использовать отпечаток для подтверждения покупок и доступа к приложениям.</string>
     <string name="security_header">"Безопасность"</string>
     <string name="security_input">Безопасный ввод</string>
-    <string name="security_input_enable">Защищенная клавиатура</string>
-    <string name="security_input_hint">Использовать защищенную клавиатуру для ввода паролей</string>
+    <string name="security_input_enable">Защищённая клавиатура</string>
+    <string name="security_input_hint">Использовать защищённую клавиатуру для ввода паролей</string>
     <string name="security_input_num_order">Фиксированная</string>
     <string name="security_input_num_random_order">Случайная</string>
     <string name="security_input_num_setting_title">Цифровая клавиатура</string>
@@ -9512,7 +9512,7 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_face_settings_require_attention_details">Для разблокировки смотрите на экран открытыми глазами</string>
     <string name="security_settings_face_settings_require_category">Обязательные параметры</string>
     <string name="security_settings_face_settings_require_confirmation">Подтверждение</string>
-    <string name="security_settings_face_settings_require_confirmation_details">Запрашивать подтверждение в защищенных приложениях</string>
+    <string name="security_settings_face_settings_require_confirmation_details">Запрашивать подтверждение в защищённых приложениях</string>
     <string name="security_settings_face_settings_use_face_category">Использовать разблокировку по лицу для</string>
     <string name="security_settings_face_settings_use_face_for_apps">Вход в приложения и оплата</string>
     <string name="security_settings_face_settings_use_face_unlock_phone">Разблокировка</string>
@@ -12228,7 +12228,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="wifi_dns2_hint">8.8.4.4</string>
     <string name="wifi_do_not_provide_eap_user_cert">Не указывать</string>
     <string name="wifi_do_not_validate_eap_server">Не проверять</string>
-    <string name="wifi_do_not_validate_eap_server_warning">Сертификат не указан. Будет установлено незащищенное соединение.</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Сертификат не указан. Будет установлено незащищённое соединение.</string>
     <string name="wifi_dpp_add_another_device">Подключить другое устройство</string>
     <string name="wifi_dpp_add_device">Подключить</string>
     <string name="wifi_dpp_add_device_to_network">Подключение устройства</string>

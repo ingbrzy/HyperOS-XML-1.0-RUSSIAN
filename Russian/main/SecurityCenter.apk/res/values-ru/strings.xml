@@ -98,7 +98,7 @@
     <string name="ac_recommend_guide_dialog_ignore">Больше не показывать</string>
     <string name="ac_recommend_guide_dialog_open">Включить</string>
     <string name="ac_summaryOff">Защита отключена, ввод пароля для открытия приложений не требуется</string>
-    <string name="ac_summaryOn">Для открытия защищенных приложений требуется ввод пароля</string>
+    <string name="ac_summaryOn">Для открытия защищённых приложений требуется ввод пароля</string>
     <string name="ac_unmask_all_apps">Не скрывать для всех</string>
     <string name="access_control_app_is_launching">Приложение запускается</string>
     <string name="access_control_failed_need_to_unlock_nofingerprint">Перед использованием нового отпечатка введите пароль</string>
@@ -763,7 +763,7 @@
     <string name="applock_operate_faceunlock_title">Использовать распознавание по лицу</string>
     <string name="applock_operate_fingerprint_summary">Защита приложений поддерживает добавление несколько отпечатков</string>
     <string name="applock_operate_fingerprint_title">Использовать отпечаток</string>
-    <string name="applock_operate_hidenoti_summary">Скрывать содержимое уведомлений защищенных приложений</string>
+    <string name="applock_operate_hidenoti_summary">Скрывать содержимое уведомлений защищённых приложений</string>
     <string name="applock_operate_hidenoti_title">Скрытие содержимого</string>
     <string name="applock_recommend_tips">%s пользователей используют защиту приложений</string>
     <string name="applock_recommend_title">Выбор приложений</string>
@@ -1411,7 +1411,7 @@
     <string name="continue_install">Установить</string>
     <string name="continue_set">Продолжить настройку</string>
     <string name="convenient_mode">Групповая разблокировка</string>
-    <string name="convenient_summary">Введенный пароль разблокирует все защищенные приложения</string>
+    <string name="convenient_summary">Введенный пароль разблокирует все защищённые приложения</string>
     <string name="conversation_settings_top">"· Используйте панель инструментов конференц-связи во время полноэкранных аудио- и видеовызовов.
 · Перечень функций зависит от модели устройства."</string>
     <string name="conversation_sider_tips">Попробуйте новые инструменты конференц-связи для улучшения качества связи</string>
@@ -3553,10 +3553,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="notification_low_storage_size">Доступно менее %s свободного места</string>
     <string name="notification_low_storage_size_1_gb_hint">Освободите место для ускорения работы устройства</string>
     <string name="notification_low_storage_size_1p5_gb_hint">Удалите мусор для ускорения работы устройства</string>
-    <string name="notification_mask_summary">Скрывать содержимое уведомлений защищенных приложений</string>
+    <string name="notification_mask_summary">Скрывать содержимое уведомлений защищённых приложений</string>
     <string name="notification_mask_title">Скрытие содержимого</string>
     <string name="notification_masked_item">Скрытие содержимого</string>
-    <string name="notification_masked_subtitle">Скрыть содержимое уведомлений защищенных приложений</string>
+    <string name="notification_masked_subtitle">Скрыть содержимое уведомлений защищённых приложений</string>
     <string name="notification_optimize_button_text">Очистить</string>
     <string name="notification_optimize_message">Выполните очистку для ускорения работы</string>
     <string name="notification_optimize_title">%d%% памяти занято</string>
@@ -5006,7 +5006,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="prompt_unknown">Не определено</string>
     <string name="protect_data_security">Изолированные данные</string>
     <string name="protect_data_security_detail">Данные, генерируемые клавиатурой, будут изолированы и недоступны для других приложений.</string>
-    <string name="protect_screen_information">Экран защищен</string>
+    <string name="protect_screen_information">Экран защищён</string>
     <string name="protect_screen_information_detail">Скриншоты или запись экрана во время набора текста недоступны</string>
     <string name="protocol_exception_title">Диагностика сетевого протокола</string>
     <string name="protocol_loop_back_exception_summary">Ошибка диагностики. Чтобы уведомить нас о проблеме, войдите в приложение \"Отчёт\" и отправьте журнал с вашего устройства.</string>

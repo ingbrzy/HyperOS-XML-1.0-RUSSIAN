@@ -845,7 +845,7 @@
     <string name="httpErrorAuth">Ошибка аутентификации.</string>
     <string name="httpErrorBadUrl">Не удалось открыть страницу. URL недействителен.</string>
     <string name="httpErrorConnect">Не удалось подключиться к серверу.</string>
-    <string name="httpErrorFailedSslHandshake">Не удалось установить защищенное соединение.</string>
+    <string name="httpErrorFailedSslHandshake">Не удалось установить защищённое соединение.</string>
     <string name="httpErrorFile">Не удалось получить доступ к файлу.</string>
     <string name="httpErrorFileNotFound">Не удалось найти файл.</string>
     <string name="httpErrorIO">Не удалось подключиться к серверу. Повторите позже.</string>

@@ -159,7 +159,7 @@
     <string name="account_setup_failed_dlg_certificate_message">Не удалось установить безопасное подключение к серверу.</string>
     <string name="account_setup_failed_dlg_certificate_message_fmt">"Не удалось установить безопасное подключение к серверу
 (%s)"</string>
-    <string name="account_setup_failed_dlg_device_locked">Ваш аккаунт защищен. Подтвердите устройство с помощью QQ Security или снимите защиту.</string>
+    <string name="account_setup_failed_dlg_device_locked">Ваш аккаунт защищён. Подтвердите устройство с помощью QQ Security или снимите защиту.</string>
     <string name="account_setup_failed_dlg_edit_details_action">Изменить параметры</string>
     <string name="account_setup_failed_dlg_error_code">Ошибка: %s</string>
     <string name="account_setup_failed_dlg_server_message">Не удалось подключиться к серверу.</string>
@@ -1611,7 +1611,7 @@
 \u0009 (проверьте, включена ли автосинхронизация)"</string>
     <string name="ser_resp_err_map_landing_more_failure">Не удалось войти несколько раз подряд. Повторите позже.</string>
     <string name="ser_resp_err_map_landing_too_frequently">Слишком много попыток входа. Повторите позже.</string>
-    <string name="ser_resp_err_map_mailbox_locked">Аккаунт электронной почты защищен паролем. Обратитесь к провайдеру для разблокировки.</string>
+    <string name="ser_resp_err_map_mailbox_locked">Аккаунт электронной почты защищён паролем. Обратитесь к провайдеру для разблокировки.</string>
     <string name="ser_resp_err_map_mailbox_not_open">Аккаунт не активирован. Обратитесь к провайдеру для активации.</string>
     <string name="ser_resp_err_map_max_connections">Слишком много устройств имеют доступ к этой учётной записи. Удалите эту учётную запись с одного из устройств, чтобы получить к ней доступ на этом.</string>
     <string name="ser_resp_err_map_nouser">Не удалось найти действующий аккаунт. Проверьте правильность введенной вами информации и повторите попытку.</string>

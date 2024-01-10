@@ -1978,7 +1978,7 @@ ID:%s
     <string name="pa_picker_detail_edit_maml_net_unavailable">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="pa_picker_detail_install_tip_un_install">Установите приложение</string>
     <string name="pa_picker_detail_install_tip_un_upgrade">Обновите приложение</string>
-    <string name="pa_picker_detail_launcher_screen_lock">Не удалось добавить виджет. Рабочий стол защищен от изменений.</string>
+    <string name="pa_picker_detail_launcher_screen_lock">Не удалось добавить виджет. Рабочий стол защищён от изменений.</string>
     <string name="pa_picker_detail_maml_download_error">Ошибка загрузки</string>
     <string name="pa_picker_detail_maml_downloading">Загрузка…</string>
     <string name="pa_picker_detail_modify_maml">Изменить</string>
@@ -2063,7 +2063,7 @@ ID:%s
     <string name="pa_picker_toast_count_limit_forbidden">Достигнут лимит виджетов</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">Больше нельзя добавить виджетов такого типа</string>
     <string name="pa_picker_toast_count_limit_warning">Добавлено. Большое количество виджетов на рабочем столе может замедлить работу устройства.</string>
-    <string name="pa_picker_toast_screen_cell_locked">Не удалось добавить виджет. Рабочий стол защищен от изменений.</string>
+    <string name="pa_picker_toast_screen_cell_locked">Не удалось добавить виджет. Рабочий стол защищён от изменений.</string>
     <string name="pa_picker_widget_select_normal_description">%1$s</string>
     <string name="pa_picker_widget_select_uninstall_description">%1$s, не установлено</string>
     <string name="pa_picker_widget_select_upgrade_description">%1$s, доступно обновление</string>
@@ -2272,7 +2272,7 @@ ID:%s
     <string name="pa_stock_widget_empty">Ничего нет</string>
     <string name="pa_stock_widget_name">Акции</string>
     <string name="pa_sure">ОК</string>
-    <string name="pa_toast_home_layout_locked">Рабочий стол защищен от изменений</string>
+    <string name="pa_toast_home_layout_locked">Рабочий стол защищён от изменений</string>
     <string name="pa_toast_message_not_support_size">Лента виджетов не поддерживает виджеты этого размера</string>
     <string name="pa_vertical_center">Вертикальное расположение. Выравнивание по центру.</string>
     <string name="pa_vertical_left">Вертикальное расположение. Выравнивание по левому краю.</string>

@@ -162,7 +162,7 @@
     <string name="accessibility_wifi_off">Wi-Fi выключен</string>
     <string name="accessibility_wifi_one_bar">Wi-Fi: одно деление</string>
     <string name="accessibility_wifi_security_type_none">Открытая сеть</string>
-    <string name="accessibility_wifi_security_type_secured">Защищенная сеть</string>
+    <string name="accessibility_wifi_security_type_secured">Защищённая сеть</string>
     <string name="accessibility_wifi_signal_full">Wi-Fi: надёжный сигнал</string>
     <string name="accessibility_wifi_three_bars">Wi-Fi: три деления</string>
     <string name="accessibility_wifi_two_bars">Wi-Fi: два деления</string>

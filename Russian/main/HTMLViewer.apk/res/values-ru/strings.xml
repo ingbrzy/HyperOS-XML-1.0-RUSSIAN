@@ -152,7 +152,7 @@
     <string name="open_wifi_connect_and_use_data_summary">Используется мобильный интернет. Нажмите для переключения на Wi-Fi.</string>
     <string name="open_wifi_connect_summary">Нажмите для просмотра.</string>
     <string name="open_wifi_connect_title">Подключено к %1$s</string>
-    <string name="permdesc_accessDrm">Позволяет приложению получать доступ к содержимому, защищенному DRM.</string>
+    <string name="permdesc_accessDrm">Позволяет приложению получать доступ к содержимому, защищённому DRM.</string>
     <string name="poco_launcher_privacy_policy">Политика конфиденциальности POCO Launcher</string>
     <string name="poco_launcher_user_agreement">Пользовательское соглашение POCO Launcher</string>
     <string name="poco_privacy_policy">Политика конфиденциальности и Пользовательское соглашение POCO Launcher</string>

@@ -1326,7 +1326,7 @@ ID:%s
     <string name="installation_package">APK-файлы</string>
     <string name="instance_id">ID экземпляра Firebase (нажмите для экспорта)</string>
     <string name="intercept_panel_ads_img_category_text">Заблокированная реклама</string>
-    <string name="intercept_panel_download_img_category_text">Защищенные загрузки</string>
+    <string name="intercept_panel_download_img_category_text">Защищённые загрузки</string>
     <string name="intercept_panel_empty_content">История действий веб-сайта появится здесь</string>
     <string name="intercept_panel_headline">Защита приватности</string>
     <string name="intercept_panel_item_action_camera">Использование камеры</string>
@@ -1343,7 +1343,7 @@ ID:%s
     <string name="intercept_panel_log_title">Действия веб-сайта</string>
     <string name="intercept_panel_management_text">Управление</string>
     <string name="intercept_panel_more_settings">Дополнительные настройки</string>
-    <string name="intercept_panel_privacy_img_category_text">Защищенные объекты</string>
+    <string name="intercept_panel_privacy_img_category_text">Защищённые объекты</string>
     <string name="intercept_toast_message_camera">Веб-сайт использует камеру…</string>
     <string name="intercept_toast_message_mic">Веб-сайт записывает звук…</string>
     <string name="intercept_toast_message_voice">Веб-сайт воспроизводит звук…</string>
@@ -2155,7 +2155,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="permission_dialog_msg_camera_mic">\"%s\" запрашивает доступ к камере и микрофону</string>
     <string name="permission_dialog_msg_mic">\"%s\" запрашивает доступ к микрофону</string>
     <string name="permission_dialog_msg_midi_sysex">\"%s\" запрашивает разрешение на контроль MIDI-устройства</string>
-    <string name="permission_dialog_msg_protected_content">\"%s\" запрашивает разрешение на воспроизведение защищенного контента</string>
+    <string name="permission_dialog_msg_protected_content">\"%s\" запрашивает разрешение на воспроизведение защищённого контента</string>
     <string name="permission_download_tip_title">Разрешить этой странице загружать файлы?</string>
     <string name="permission_finish">Готово</string>
     <string name="permission_for_location">Предоставление местоположения картам</string>
@@ -2394,10 +2394,10 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pref_site_settings_notificaion">Уведомления</string>
     <string name="pref_site_settings_notificaion_ask">Сайты могут запрашивать разрешение на отправку уведомлений.</string>
     <string name="pref_site_settings_permissions">Разрешения</string>
-    <string name="pref_site_settings_protected_content">Защищенный контент</string>
-    <string name="pref_site_settings_protected_content_allow_summary">Разрешать сайтам воспроизводить защищенный контент (рекомендуется)</string>
-    <string name="pref_site_settings_protected_content_ask_summary">Сайтам потребуется ваше разрешение на воспроизведение защищенного контента.</string>
-    <string name="pref_site_settings_protected_content_block_summary">Не разрешать сайтам воспроизводить защищенный контент.</string>
+    <string name="pref_site_settings_protected_content">Защищённый контент</string>
+    <string name="pref_site_settings_protected_content_allow_summary">Разрешать сайтам воспроизводить защищённый контент (рекомендуется)</string>
+    <string name="pref_site_settings_protected_content_ask_summary">Сайтам потребуется ваше разрешение на воспроизведение защищённого контента.</string>
+    <string name="pref_site_settings_protected_content_block_summary">Не разрешать сайтам воспроизводить защищённый контент.</string>
     <string name="pref_site_settings_reset">Очистка и сброс</string>
     <string name="pref_site_settings_reset_confirmation">Очистить данные этого сайта (включая файлы cookie) и выполнить сброс разрешений?</string>
     <string name="pref_site_settings_site">Сайт</string>
@@ -2452,13 +2452,13 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="private_title">Скрытые файлы</string>
     <string name="profile">Личная информация</string>
     <string name="progress_dialog_setting_wallpaper">Установка обоев…</string>
-    <string name="protected_content_permission_name">Воспроизведение защищенных материалов</string>
+    <string name="protected_content_permission_name">Воспроизведение защищённых материалов</string>
     <string name="protection_dialog_ad_title">Реклама была заблокирована</string>
-    <string name="protection_dialog_allow_drm">Воспроизведение защищенных объектов разрешено</string>
+    <string name="protection_dialog_allow_drm">Воспроизведение защищённых объектов разрешено</string>
     <string name="protection_dialog_allow_midi">Управление MIDI-устройствами разрешено</string>
     <string name="protection_dialog_allow_title">Предоставленные разрешения: %s</string>
     <string name="protection_dialog_pricacy">Отслеживание было остановлено</string>
-    <string name="protection_dialog_refuse_drm">Воспроизведение защищенных объектов запрещено</string>
+    <string name="protection_dialog_refuse_drm">Воспроизведение защищённых объектов запрещено</string>
     <string name="protection_dialog_refuse_midi">Управление MIDI-устройствами запрещено</string>
     <string name="protection_dialog_summary">Это действие было заблокировано</string>
     <string name="protection_dialog_title">Ограниченные разрешения: %s</string>
@@ -3421,7 +3421,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_intercept_record_empty">Пусто</string>
     <string name="web_intercept_record_filter_ad">Блокировка рекламы</string>
     <string name="web_intercept_record_filter_all">Все записи</string>
-    <string name="web_intercept_record_filter_download">Защищенные загрузки</string>
+    <string name="web_intercept_record_filter_download">Защищённые загрузки</string>
     <string name="web_intercept_record_filter_permission">Защита приватности</string>
     <string name="web_intercept_record_sub_title_hint_ad">Блокировка рекламы на веб-странице</string>
     <string name="web_intercept_record_sub_title_hint_download">Автоматический запуск приложений</string>
@@ -3452,7 +3452,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_protect_manager_permission">Управление защитой конфиденциальности</string>
     <string name="web_permission_protect_permission">Защита приватности</string>
     <string name="web_permission_protect_permissions_title">Действия веб-сайта</string>
-    <string name="web_permission_protect_pie_title">Защищенные объекты</string>
+    <string name="web_permission_protect_pie_title">Защищённые объекты</string>
     <string name="web_permission_protect_privacy_auto_play_title">Автоматическое воспроизведение</string>
     <string name="web_permission_protect_privacy_clip_title">Доступ к буферу обмена и сохранение в нем данных</string>
     <string name="web_permission_protect_privacy_dialog_title">Открытие новых окон</string>

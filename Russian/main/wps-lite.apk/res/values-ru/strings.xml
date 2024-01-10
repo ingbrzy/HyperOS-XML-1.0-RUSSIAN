@@ -154,7 +154,7 @@
     <string name="online_security_error_code_no_operation_permission">У вас нет разрешения на выполнение этой операции</string>
     <string name="pdf_comment">Комментарий</string>
     <string name="pdf_decrypt_edit_tips">Автор настроил пароль для редактирования документа. Для продолжения введите пароль.</string>
-    <string name="pdf_decrypt_edit_title">Защищенные документы</string>
+    <string name="pdf_decrypt_edit_title">Защищённые документы</string>
     <string name="pdf_lack_content_tip">В данном документе есть следующее содержимое, которое пока не поддерживается (это может сказаться на отображении):</string>
     <string name="pdf_pic_preview_cvt_failed">Сбой преобразования, повторите попытку</string>
     <string name="pdf_picture_format">Формат рисунка</string>
@@ -229,7 +229,7 @@
     <string name="public_hyperlink">Ссылка</string>
     <string name="public_hyperlink_linkto">Ссылка на:</string>
     <string name="public_inputEditPasswdText">Для изменения или открытия файла в режиме чтения требуется пароль</string>
-    <string name="public_inputEditPasswdTextReadOnly">Документ защищен от изменений паролем. Если нужно изменить документ, введите пароль.</string>
+    <string name="public_inputEditPasswdTextReadOnly">Документ защищён от изменений паролем. Если нужно изменить документ, введите пароль.</string>
     <string name="public_inputPasswd">Для открытия файла требуется пароль</string>
     <string name="public_isSaveOrNot">Сохранить изменения документа?</string>
     <string name="public_jump_to_tips">Коснитесь здесь, чтобы перейти на целевую страницу</string>

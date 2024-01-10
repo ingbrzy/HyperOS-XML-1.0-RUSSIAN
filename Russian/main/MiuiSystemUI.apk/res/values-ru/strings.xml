@@ -2258,14 +2258,14 @@ mm"</string>
 
 Для получения подробной информации обращайтесь к администратору."</string>
     <string name="monitoring_description_ca_cert_settings">Открыть надёжные сертификаты</string>
-    <string name="monitoring_description_ca_certificate">На устройстве установлен сертификат ЦС. Ваш защищенный сетевой трафик могут отслеживать и изменять.</string>
+    <string name="monitoring_description_ca_certificate">На устройстве установлен сертификат ЦС. Ваш защищённый сетевой трафик могут отслеживать и изменять.</string>
     <string name="monitoring_description_do_body">Администратор контролирует настройки, приложения, доступ к ресурсам компании, связанные с устройством данные и передачу геоданных.</string>
     <string name="monitoring_description_do_body_vpn">Запущено приложение %1$s, которое может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>
     <string name="monitoring_description_do_header_generic">Ваше устройство управляется %1$s.</string>
     <string name="monitoring_description_do_header_with_name">Компания %1$s использует %2$s для управления вашим устройством.</string>
     <string name="monitoring_description_do_learn_more">Подробнее</string>
     <string name="monitoring_description_managed_device_named_vpn">"Это устройство подключено к интернету через сервис \"%1$s\". Ваши действия в сети, включая данные о работе с электронной почтой и в браузере, видны вашему системному администратору."</string>
-    <string name="monitoring_description_managed_profile_ca_certificate">Ваша организация установила сертификат ЦС в рабочем профиле. Она может отслеживать и изменять защищенный сетевой трафик.</string>
+    <string name="monitoring_description_managed_profile_ca_certificate">Ваша организация установила сертификат ЦС в рабочем профиле. Она может отслеживать и изменять защищённый сетевой трафик.</string>
     <string name="monitoring_description_managed_profile_named_vpn">В рабочем профиле запущено приложение %1$s, которое может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>
     <string name="monitoring_description_managed_profile_network_logging">Администратор включил ведение сетевого журнала для отслеживания трафика в рабочем профиле</string>
     <string name="monitoring_description_management">"Этим устройством управляет ваша организация.
@@ -2273,7 +2273,7 @@ mm"</string>
 Администратор может контролировать настройки, приложения и параметры доступа к корпоративным ресурсам на этом устройстве, а также связанные с ним данные (например, сведения о местоположении).
 
 За подробной информацией обращайтесь к администратору."</string>
-    <string name="monitoring_description_management_ca_certificate">Ваша организация установила сертификат ЦС на устройство. Она может отслеживать и изменять защищенный сетевой трафик.</string>
+    <string name="monitoring_description_management_ca_certificate">Ваша организация установила сертификат ЦС на устройство. Она может отслеживать и изменять защищённый сетевой трафик.</string>
     <string name="monitoring_description_management_network_logging">Администратор включил ведение сетевого журнала для отслеживания трафика на устройстве</string>
     <string name="monitoring_description_named_management">"Этим устройством управляет организация %1$s.
 

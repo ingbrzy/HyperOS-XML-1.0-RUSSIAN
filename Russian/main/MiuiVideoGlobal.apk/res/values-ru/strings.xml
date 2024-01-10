@@ -445,7 +445,7 @@ ID: %s
     <string name="eras_bc">до н. э.</string>
     <string name="error_change_video">Ошибка воспроизведения, попробуйте другое видео</string>
     <string name="error_details">Неожиданная ошибка</string>
-    <string name="error_drm_not_supported">Защищенный контент не поддерживается на уровнях API ниже 18</string>
+    <string name="error_drm_not_supported">Защищённый контент не поддерживается на уровнях API ниже 18</string>
     <string name="error_drm_unknown">Неизвестная ошибка DRM</string>
     <string name="error_drm_unsupported_scheme">Данное устройство не поддерживает требуемую схему DRM</string>
     <string name="error_dup_binded_email">Этот адрес эл. почты уже связан с другим Xiaomi аккаунтом.</string>

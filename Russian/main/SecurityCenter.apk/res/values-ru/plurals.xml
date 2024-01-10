@@ -1439,9 +1439,9 @@
         <item quantity="few">%d приложения</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
-        <item quantity="other">%d защищенных приложений ожидают очистки</item>
-        <item quantity="one">%d защищенное приложение ожидает очистки</item>
-        <item quantity="few">%d защищенных приложения ожидают очистки</item>
+        <item quantity="other">%d защищённых приложений ожидают очистки</item>
+        <item quantity="one">%d защищённое приложение ожидает очистки</item>
+        <item quantity="few">%d защищённых приложения ожидают очистки</item>
     </plurals>
     <plurals name="section_security_defend_item_right_tips">
         <item quantity="other">Удалено %d вирусов</item>
