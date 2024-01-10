@@ -56,6 +56,7 @@
     <string name="app_name">Начальная настройка</string>
     <string name="application_package_introduction">Это приложение позволяет устанавливать сторонние приложения и проверяет их перед установкой.</string>
     <string name="application_permissions">Разрешения приложений</string>
+    <string name="aquire_device_info">Доступ к информации об устройстве</string>
     <string name="authority_introduction">Менеджер разрешений – базовая служба, позволяющая управлять разрешениями приложений на этом устройстве</string>
     <string name="back">Назад</string>
     <string name="backup_introduction">Это приложение можно использовать для сохранения резервных копий на устройстве и восстановления из них.</string>
@@ -191,6 +192,8 @@
     <string name="install_preinstall_app">Загрузка приложений…</string>
     <string name="intent_filter_verification_service">Служба проверки Intent Filter</string>
     <string name="interconnection_communication_introduction">Службы интернет-коммуникации Xiaomi позволяют обнаруживать, подключаться и общаться с другими устройствами Xiaomi.</string>
+    <string name="interconnection_service_global_item_title">Xiaomi Взаимосвязь</string>
+    <string name="interconnection_service_global_label">"&lt;Data>Xiaomi Взаимосвязь позволяет вашим устройствам взаимодействовать друг с другом по беспроводной сети. Включая этот переключатель, вы принимаете &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a >.&lt;/Data> Xiaomi Взаимосвязь.</string>
     <string name="interconnection_service_summary">"Службы межсетевого взаимодействия Xiaomi позволяет устройствам взаимодействовать друг с другом по беспроводной связи и включают в себя Mi Smart Hub, Mi Smart Play, MIUI+ Бета, Mi Share и Трансляцию.
 Для нормальной работы, этим службам необходимы подключение к интернету и следующие разрешения:
 \u0009\u0009Mi Smart Hub:
@@ -284,6 +287,7 @@
 \u0009\u0009Для отправки и получения контента
 В случае отказа предоставить необходимые разрешения, вы не сможете использовать эти службы.
 Доступные службы могут различаться в зависимости от версии системы и модели устройства. Подробнее на %s."</string>
+    <string name="interconnection_service_summary_global">Функции Xiaomi Взаимосвязь могут различаться в зависимости от модели устройства и версии системы. Посетите официальный сайт для подробностей.</string>
     <string name="interconnection_service_title">Службы межсетевого взаимодействия Xiaomi</string>
     <string name="item_contents_wwarning">В случае потери устройства и отсутствия блокировки, устройство и ваши личные данные будут доступны другим людям. Всё равно пропустить?</string>
     <string name="item_facerecognition">Разблокировка по лицу</string>
@@ -449,6 +453,7 @@
     <string name="permission_account">Доступ к аккаунтам на устройстве</string>
     <string name="permission_account_introduction">Для входа в Xiaomi аккаунт</string>
     <string name="permission_application_package_introduction">Для доступа к хранилищу для анализа и сканирования установочных пакетов</string>
+    <string name="permission_application_scope_description">Эти разрешения используются только при проверке безопасности и не будут использоваться для других целей.</string>
     <string name="permission_authority_describe">Доступ к списку приложений на устройстве</string>
     <string name="permission_authority_describe_applist_summary">Для управления разрешениями приложений</string>
     <string name="permission_backup">Доступ к хранилищу</string>
@@ -590,6 +595,7 @@
     <string name="provision_next">Далее</string>
     <string name="provision_skip_underline">Пропустить</string>
     <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier - служба, управляющая системными процессами</string>
+    <string name="read_application_info">Доступ к информации о приложении</string>
     <string name="recommend_font">MiSans</string>
     <string name="recommended_font_mark">Рекомендуется</string>
     <string name="recorder_introduction">Это приложение можно использовать для записи аудио и резервного копирования записей в облако.</string>
@@ -604,6 +610,8 @@
     <string name="require_network_and_authority_statement">Для нормальной работы, этой службе необходимы подключение к интернету и следующие разрешения:</string>
     <string name="require_network_authority_statement">Для работы основных служб необходимы подключение к интернету и следующие разрешения для сбора вашей личной информации:</string>
     <string name="require_network_authority_statement_dual">Для нормальной работы этой службы необходимы подключение к интернету и следующие разрешения:</string>
+    <string name="safe_open_service">Защищённые открытые сервисы</string>
+    <string name="safe_open_service_introduction">Защищённые открытые сервисы помогают разработчикам и предоставляют возможности обеспечения безопасности на системном уровне для защиты пользователей и их конфиденциальности</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -845,6 +853,8 @@
     <string name="user_agreement_declare_wifi_device_gmscore">Перед использованием MIUI вы должны прочесть и принять наше Пользовательское соглашение и Политику конфиденциальности. Во время активации устройства, приложения Сервис активации Mi SIM, Xiaomi Cloud, Резервное копирование, Поиск устройства, Рабочий стол, Частые фразы, Служба интернет-коммуникаций Xiaomi, Служба перевода, MIUI Daemon, Средство просмотра HTML, MIUI SDK, Secure Element Application, Умный помощник, Батарея и производительность, Контроль батареи, Joyose, AI Настройка OS и Обновление будут использовать интернет. Смарт-карты, Менеджер разрешений, ConfigUpdater и смарт-сервисы подключатся к сети и будут использовать геолокацию.</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+    <string name="verify_application_security">Для проверки безопасности приложений</string>
+    <string name="verify_device_security">Для проверки безопасности устройства</string>
     <string name="voice_assist_advice">Mi AI позволяет использовать голосовое управление, но увеличивает расход заряда (+1% в час).</string>
     <string name="voice_assist_condition">"Вы сможете использовать Mi AI:
 1. При включенном экране.

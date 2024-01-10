@@ -4409,6 +4409,7 @@
     <string name="sa_channel_key_class_5">sa_channel_key_class_5</string>
     <string name="sa_channel_key_class_6">sa_channel_key_class_6</string>
     <string name="safety_protection_display_text" />
+    <string name="safety_quick_settings_tile_class">com.android.permissioncontroller.permission.service.v33.SafetyCenterQsTileService</string>
     <string name="samsung">Samsung</string>
     <string name="samsung_phone">Samsung</string>
     <string name="sans_serif">sans-serif</string>
@@ -4424,6 +4425,7 @@
     <string name="scope_f"> </string>
     <string name="scope_g"> </string>
     <string name="scope_h"> </string>
+    <string name="screen_color_preview_ratio">2:1</string>
     <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>

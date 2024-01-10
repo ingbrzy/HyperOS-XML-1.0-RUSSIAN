@@ -1406,7 +1406,7 @@
     <string name="connected_devices_screen">Экран</string>
     <string name="connected_devices_screen_desc">Разрешить близлежащим устройствам, связанным с этим аккаунтом, просматривать содержимое экрана этого устройства и взаимодействовать с ним</string>
     <string name="connected_devices_screen_title">Разрешить вышеуказанному устройству просматривать содержимое экрана этого устройства и взаимодействовать с ним?</string>
-    <string name="connected_interconnection">Взаимодействие</string>
+    <string name="connected_interconnection">Взаимосвязь</string>
     <string name="connecting">Подключение…</string>
     <string name="continue_install">Установить</string>
     <string name="continue_set">Продолжить настройку</string>
@@ -3899,9 +3899,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_work_in_save_mode">Экономия заряда</string>
     <string name="pc_work_in_super_save_mode">Ультраэкономия заряда</string>
     <string name="pc_xiaoai_create_auto_task">Новая задача из Mi AI</string>
+    <string name="pc_xiaoai_voice_control_close">Отключите Голосовой помощник Mi AI</string>
     <string name="per_month_pkg_traffic_settings">Тарифный план</string>
     <string name="perfermance_optimization_summary">Избегать перегрева и аппаратных проблем</string>
     <string name="perfermance_optimization_title">Контроль производительности</string>
+    <string name="performance_frame_insert_super_display_tips">Умная частота кадров и суперразрешение не могут работать одновременно. Включение одного из них отключит другое.</string>
     <string name="perm_intercept_content">Разрешить приложению использовать %1s?</string>
     <string name="perm_intercept_notification_title">Предоставление приложению %1s доступа к уведомлениям, позволит ему</string>
     <string name="perm_intercept_privacy_content">Это может привести к раскрытию ваших личных данных. Разрешить приложению %1s?</string>

@@ -2361,6 +2361,12 @@
     <string name="camera_front">Фронтальная %s</string>
     <string name="camera_gesture_desc">Чтобы открыть приложение \"Камера\", дважды поверните запястье.</string>
     <string name="camera_gesture_title">Включать камеру движением запястья</string>
+    <string name="camera_grip_firmware_need_update">Обновить</string>
+    <string name="camera_grip_firmware_new_version">Нет обновлений</string>
+    <string name="camera_grip_firmware_title_text">Обновление ПО</string>
+    <string name="camera_grip_firmware_update_faild">Не удалось обновить</string>
+    <string name="camera_grip_firmware_update_ongoing">Обновление…</string>
+    <string name="camera_grip_firmware_update_successful">Успешно обновлено</string>
     <string name="camera_key_action_app_title">Открыть приложение</string>
     <string name="camera_key_action_category_title">Действия Mi кнопки</string>
     <string name="camera_key_action_none_title">Запуск камеры</string>
@@ -4122,6 +4128,7 @@ ID: %s
     <string name="face_data_suggesstion_first_cn">Для разблокировки по лицу необходимо добавить данные лица, которые будут сохранены локально на устройстве. Чтобы удалить данные лица, найдите в Настройках \"Разблокировка по лицу\", затем выберите Разблокировка по лицу > Данные лица.</string>
     <string name="face_data_suggesstion_first_cn_highlight">Разблокировка по лицу менее безопасна, чем PIN-код, пароль, графический ключ или отпечаток. Устройство может быть разблокировано с помощью вашей фотографии, а также людьми с похожей внешностью.</string>
     <string name="face_data_suggesstion_second">Убедитесь, что лицо хорошо видно и освещено.</string>
+    <string name="face_enroll_when_slt_on_toast" />
     <string name="face_intro_error_max">Добавлено максимальное количество лиц</string>
     <string name="face_intro_error_unknown">Не удалось добавить данные лица</string>
     <string name="face_lock_screen_setup_skip_dialog_text">Включите блокировку экрана, это поможет защитить данные в случае потери или кражи устройства. Для разблокировки по лицу необходимо задать PIN-код, графический ключ или пароль. Нажмите \"Отмена\" и выберите способ защиты.</string>
@@ -4167,6 +4174,7 @@ ID: %s
     <string name="face_unlock_success_stay_screen_msg">Оставаться на экране блокировки после распознавания по лицу. Для перехода на рабочий стол используется свайп вверх.</string>
     <string name="face_unlock_success_stay_screen_title">Оставаться на экране блокировки</string>
     <string name="face_unlock_title">Для разблокировки по лицу необходимо задать PIN-код, графический ключ или пароль.</string>
+    <string name="face_unlock_when_slt_on_toast" />
     <string name="factory_reset_summary">Удалить все данные из внутренней памяти устройства</string>
     <string name="fahrenheit_temperature_unit">"Градусы Фаренгейта (°F)"</string>
     <string name="failed_attempts_now_wiping_device">Слишком много неверных попыток. Данные на этом устройстве будут удалены.</string>
@@ -4598,6 +4606,8 @@ ID: %s
     <string name="game_settings_summary">Включение ярлыков игровой панели и прочее</string>
     <string name="game_settings_title">Настройки игр</string>
     <string name="game_storage_settings">Игры</string>
+    <string name="gaze_lock_screen_summary">Устройство не будет блокироваться, когда вы рядом с устройством</string>
+    <string name="gaze_lock_screen_title">Определение присутствия</string>
     <string name="gd_setting_title">Боковая панель</string>
     <string name="general_category_title">Общие</string>
     <string name="general_notification_header">Управление</string>
@@ -5268,7 +5278,7 @@ ID: %s
     <string name="interact_across_profiles_switch_enabled">Связь установлена</string>
     <string name="interact_across_profiles_title">Связь рабочих и личных приложений</string>
     <string name="interaction_control_category_title">Интерактивное управление</string>
-    <string name="interconnection">Взаимодействие</string>
+    <string name="interconnection">Взаимосвязь</string>
     <string name="interesting_text">Реалистичный виброотклик делает взаимодействие с экраном более чётким и информативным</string>
     <string name="interesting_title">Реалистичность</string>
     <string name="internal_auto_rotate_title">Блокировка ориентации внутреннего экрана</string>
@@ -7952,6 +7962,8 @@ OTG отключается автоматически через 10 минут �
     <string name="phone_language_summary" />
     <string name="photo_data">Фото и видео</string>
     <string name="photography_handle_button_function_settings">Настроить кнопку</string>
+    <string name="photography_handle_charge_protected">Автоотключение зарядки</string>
+    <string name="photography_handle_charge_protected_summary">Когда устройство распознаёт, что используется рукоятка камеры, зарядка прекратится и будет поддерживаться на уровне %1$s.</string>
     <string name="photography_handle_launch_and_take_photo">Сделать снимок</string>
     <string name="photography_handle_launch_camera">Открыть камеру</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Нажмите и удерживайте кнопку затвора для действия</string>
@@ -8344,6 +8356,7 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_thumbnail_blur_title">Размытие миниатюр</string>
     <string name="private_dns_broken">Частный DNS-сервер недоступен</string>
     <string name="private_dns_help_message">&lt;annotation id="url"&gt;Подробнее&lt;/annotation&gt; о функциях приватного DNS</string>
+    <string name="private_dns_host_name">Имя хоста DNS-провайдера</string>
     <string name="private_dns_mode_off">Отключён</string>
     <string name="private_dns_mode_on">Включён</string>
     <string name="private_dns_mode_opportunistic">Автоматически</string>
@@ -8352,6 +8365,7 @@ OTG отключается автоматически через 10 минут �
     <string name="private_dns_mode_provider_exposed_hostname">Доступный для обнаружения</string>
     <string name="private_dns_mode_provider_failure">Не удалось подключиться</string>
     <string name="private_dns_mode_provider_hostname_hint">Введите имя хоста DNS-провайдера</string>
+    <string name="private_dns_title">Частный DNS-сервер</string>
     <string name="private_gallery_need_to_unlock">Введите пароль</string>
     <string name="private_gallery_recording_intro_header">Задайте графический ключ</string>
     <string name="private_gallery_reset_by_account">Войдите в Xiaomi аккаунт для сброса пароля</string>
@@ -10012,6 +10026,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="skip_lock_screen_confirm_msg">Уведомления, элементы управления плеером и ярлыки не будут отображаться на экране блокировки.</string>
     <string name="skip_lock_screen_dialog_button_label">Пропустить</string>
     <string name="skip_step">Пропустить</string>
+    <string name="slave_wifi_menu_p2p">SLAVE Wi-Fi Direct</string>
     <string name="slider_app_open">Открыть приложение</string>
     <string name="slider_app_open_name">Открыть %1$s</string>
     <string name="slider_app_open_none">Нет</string>
@@ -10842,7 +10857,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="tare_job_min_running">Выполняется задание (мин. приоритет)</string>
     <string name="tare_job_min_start">Запускается задание (мин. приоритет)</string>
     <string name="tare_job_timeout_penalty">Штраф за превышение времени ожидания</string>
-    <string name="tare_max_consumption_limit">"Максимальное ограничение потребления"</string>
+    <string name="tare_max_consumption_limit">Максимальное ограничение потребления</string>
     <string name="tare_max_satiated_balance">Максимальный баланс при полной зарядке</string>
     <string name="tare_min_balance_addition_app_updater">"Пополнение минимального баланса при полном заряде (для обновления приложений)"</string>
     <string name="tare_min_balance_exempted">Минимальный баланс при полном заряде (для исключенных приложений)</string>
@@ -11220,6 +11235,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="tx_link_speed_label">Скорость передачи:</string>
     <string name="tx_wifi_speed">Скорость передачи</string>
     <string name="ucar_screen_projection_title">CarWith</string>
+    <string name="ufs_size_suffix">%1$s+%2$s</string>
     <string name="unadapt_embedded">Разделение экрана недоступно</string>
     <string name="under_keyguard">Экран блокировки</string>
     <string name="unimportant">Неважное</string>

@@ -1005,6 +1005,7 @@
     <string-array name="key_app_info"></string-array>
     <string-array name="key_popup_voice_choice"></string-array>
     <string-array name="key_slider_voice_choice"></string-array>
+    <array name="keyguard_edit_loading_bg_blend_colors"></array>
     <string-array name="keyguard_notification_status_values"></string-array>
     <string-array name="keyguard_whitelist"></string-array>
     <string-array name="keyguard_wireless_strong_charge_67w"></string-array>

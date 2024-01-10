@@ -272,6 +272,7 @@
     <string name="fingerprint_double_tap">Двойное касание сканера отпечатков</string>
     <string name="fingerprint_number_upper_limit">Слишком много неудачных попыток</string>
     <string name="fingerprint_removal_failed">Ошибка удаления отпечатка</string>
+    <string name="flip_expand_screen_partial_screen_shot_disable">Поддерживается только для внутреннего экрана</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
