@@ -85,10 +85,19 @@
         <item>Ю</item>
         <item>Я</item>
     </string-array>
+    <string-array name="desktop_positions">
+        <item>Слева</item>
+        <item>Справа</item>
+    </string-array>
     <string-array name="settings_search_mirror">
         <item>MIUI+</item>
         <item>Подключения/MIUI+</item>
         <item>Screen Combo;Многоэкранный режим;Зеркалирование экрана;ПК;Компьютер;MIUI+</item>
+    </string-array>
+    <string-array name="settings_search_mirror_desktop">
+        <item>Рабочий стол+</item>
+        <item>Взаимосвязь/Рабочий стол+</item>
+        <item>Рабочий стол+, Рабочий стол, Mi Smart Hub, Screen Combo, взаимосвязь между устройствами</item>
     </string-array>
     <string-array name="settings_tips_message">
         <item>"1. Отключите точку доступа, Mi Share или Трансляцию на мобильном устройстве перед использованием Трансляции.

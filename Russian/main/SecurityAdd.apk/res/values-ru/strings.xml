@@ -289,6 +289,9 @@
     <string name="gtb_dialog_privacy_speed_message">Вы собираетесь использовать Ускорение игр Xunyou. Служба получит доступ к идентификатору Xiaomi аккаунта для оформления подписки.</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>Я принимаю &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> Ускорения игр Xunyou</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Ускорение игр Xunyou</string>
+    <string name="gtb_dialog_privacy_voice_message">Вы собираетесь использовать Xunyou Game Voice Changer. Эта служба получит идентификатор вашей учетной записи Xiaomi для записи продолжительности вашего членства.</string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>Я принимаю &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> Xunyou Game Voice Changer</Data></string>
+    <string name="gtb_dialog_privacy_voice_title">Xunyou Game Voice Changer</string>
     <string name="guide_desc_1">Родители полностью контролируют действия ребенка</string>
     <string name="guide_desc_2">"Избранные и эксклюзивные детские приложения.
 Безопасность и качество, помощь в развитии"</string>
