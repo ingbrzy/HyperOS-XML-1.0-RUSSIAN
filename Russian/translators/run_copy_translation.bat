@@ -30,7 +30,7 @@ IF EXIST %_dst%strings.xml (
 IF EXIST %_run%DST\result.xml (
 del %_run%DST\result.xml
 )
-%_run%XMLCompare /s %_run%SRC\strings.xml /d %_run%DST\strings.xml /i %_dat%ignore.xml /t %_dat%translate.xml /n 4 /silent_t
+%_run%XMLCompare /nochin /s %_run%SRC\strings.xml /d %_run%DST\strings.xml /i %_dat%ignore.xml /t %_dat%translate.xml /n 4 /silent_t
 
 IF EXIST %_run%DST\result.xml (
   copy %_run%DST\result.xml %_run%DST\strings.xml
@@ -60,7 +60,7 @@ IF EXIST %_dst%plurals.xml (
 IF EXIST %_run%DST\result.xml (
 del %_run%DST\result.xml
 )
-%_run%XMLCompare /fp /s %_run%SRC\plurals.xml /d %_run%DST\plurals.xml /i %_dat%ignore_p.xml /t %_dat%translate_p.xml /n 4 /silent_t
+%_run%XMLCompare /fp /nochin /s %_run%SRC\plurals.xml /d %_run%DST\plurals.xml /i %_dat%ignore_p.xml /t %_dat%translate_p.xml /n 4 /silent_t
 
 IF EXIST %_run%DST\result.xml (
   copy %_run%DST\result.xml %_run%DST\plurals.xml
@@ -89,7 +89,7 @@ IF EXIST %_dst%arrays.xml (
 IF EXIST %_run%DST\result.xml (
 del %_run%DST\result.xml
 )
-%_run%XMLCompare /fa /s %_run%SRC\arrays.xml /d %_run%DST\arrays.xml /i %_dat%ignore_a.xml /t %_dat%translate_a.xml /n 4 /silent_t
+%_run%XMLCompare /fa /nochin /s %_run%SRC\arrays.xml /d %_run%DST\arrays.xml /i %_dat%ignore_a.xml /t %_dat%translate_a.xml /n 4 /silent_t
 
 IF EXIST %_run%DST\result.xml (
   copy %_run%DST\result.xml %_run%DST\arrays.xml

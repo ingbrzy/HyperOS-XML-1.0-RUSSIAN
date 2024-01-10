@@ -2612,6 +2612,9 @@
     <string name="fools_day">愚人节</string>
     <string name="fools_day_tradition">愚人節</string>
     <string name="force_dark_cloud_data_module_config" />
+    <string name="format_chs_solar">t</string>
+    <string name="format_count_denominator">/ %s</string>
+    <string name="format_count_denominator_2">/%s</string>
     <string name="formatted_email_address">&lt;%1$s&gt;</string>
     <string name="formatted_subject">%1$s %2$s</string>
     <string name="fortune_card_set_bazi_simple">设置生辰</string>
