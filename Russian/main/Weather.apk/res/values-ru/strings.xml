@@ -84,7 +84,7 @@
     <string name="aqi_alert_channel_name">Индекс качества воздуха</string>
     <string name="aqi_data_source">Поддержка: Colorful Clouds</string>
     <string name="aqi_desc">Индекс качества воздуха</string>
-    <string name="aqi_detail_24_hours">Прогноз на %d часа</string>
+    <string name="aqi_detail_24_hours">Прогноз на 24 часа</string>
     <string name="aqi_detail_5_days">Прогноз на 5 дней</string>
     <string name="aqi_detail_co">CO</string>
     <string name="aqi_detail_co_unit">Единица: мг/м³</string>
@@ -737,7 +737,7 @@
     <string name="unit">Единицы измерения</string>
     <string name="unit_temperature">Температура</string>
     <string name="unit_wind">Скорость ветра</string>
-    <string name="update_night_setting_summary_text">Обновлять данные с %1$s до %2$s</string>
+    <string name="update_night_setting_summary_text">Обновлять данные с 23:00 до 07:00</string>
     <string name="update_night_setting_title_text">Обновлять ночью</string>
     <string name="update_notification_info">Обновление данных в фоновом режиме…</string>
     <string name="update_setting_title_text">Настройки обновления</string>
