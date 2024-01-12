@@ -381,7 +381,7 @@
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="path_soundrecorder_setting">Системные приложения/Диктофон</string>
     <string name="pause">Пауза</string>
-    <string name="pause_status_focus_notification">Приостановлено</string>
+    <string name="pause_status_focus_notification">Запись приостановлена</string>
     <string name="pay_error_cancel">Платеж отменен</string>
     <string name="pay_error_null">Не удалось завершить платеж. Проверьте свой аккаунт.</string>
     <string name="pay_error_unknown">Неизвестная ошибка</string>
@@ -391,8 +391,8 @@
     <string name="permission_desc">Сведения о разрешениях</string>
     <string name="permission_dialog_cancel">Отмена</string>
     <string name="permission_dialog_ok">Настройки</string>
-    <string name="permission_notification_description">Для уведомлений о записи, воспроизведении или загрузке контента</string>
-    <string name="permission_notification_dialog_description">Для уведомлений о текущем статусе приложения</string>
+    <string name="permission_notification_description">Разрешите приложению отправку уведомлений для оповещения о записи, воспроизведении или загрузке контента.</string>
+    <string name="permission_notification_dialog_description">Разрешите приложению отправку уведомлений для оповещения о текущем статусе приложения</string>
     <string name="permission_notification_title">Предоставьте разрешения</string>
     <string name="permission_read_phone_state">Информация об устройстве</string>
     <string name="permission_read_phone_state_description">Для доступа к состоянию вызова (для автоматического прерывания записи при приёме вызова)</string>
@@ -605,7 +605,7 @@
     <string name="status_bar_back">Вернуться в диктофон</string>
     <string name="status_bar_recording">Запись…</string>
     <string name="status_bar_recording_pause">Пауза</string>
-    <string name="stop_status_focus_notification">Завершено</string>
+    <string name="stop_status_focus_notification">Запись завершена</string>
     <string name="storage_permission_dialog_title">Разрешите доступ к хранилищу</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>

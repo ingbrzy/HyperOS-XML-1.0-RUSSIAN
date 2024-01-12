@@ -67,7 +67,7 @@
     <string name="cta_agree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
     <string name="cta_btn_agree">Принять</string>
     <string name="cta_btn_disagree">Отмена</string>
-    <string name="cta_main_purpose">Добро пожаловать в Редактор скриншотов! Это приложение можно использовать для обрезки и редактирования скриншотов.</string>
+    <string name="cta_main_purpose">Добро пожаловать в Редактор скриншотов! Приложение можно использовать для обрезки и редактирования скриншотов. Для нормальной работы разрешите ему доступ к интернету, аудио- и видеофайлам на устройстве.</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Для сохранения скриншотов</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>

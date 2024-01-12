@@ -2365,7 +2365,7 @@
     <string name="camera_grip_firmware_new_version">Нет обновлений</string>
     <string name="camera_grip_firmware_title_text">Обновление ПО</string>
     <string name="camera_grip_firmware_update_faild">Не удалось обновить</string>
-    <string name="camera_grip_firmware_update_ongoing">Обновление…</string>
+    <string name="camera_grip_firmware_update_ongoing">Обновление… Не отключайте держатель.</string>
     <string name="camera_grip_firmware_update_successful">Успешно обновлено</string>
     <string name="camera_key_action_app_title">Открыть приложение</string>
     <string name="camera_key_action_category_title">Действия Mi кнопки</string>
@@ -7963,12 +7963,12 @@ OTG отключается автоматически через 10 минут �
     <string name="photo_data">Фото и видео</string>
     <string name="photography_handle_button_function_settings">Настроить кнопку</string>
     <string name="photography_handle_charge_protected">Автоотключение зарядки</string>
-    <string name="photography_handle_charge_protected_summary">Когда устройство распознаёт, что используется рукоятка камеры, зарядка прекратится и будет поддерживаться на уровне %1$s.</string>
+    <string name="photography_handle_charge_protected_summary">Когда устройство распознаёт, что используется держатель камеры, зарядка прекратится и будет поддерживаться на уровне %1$s.</string>
     <string name="photography_handle_launch_and_take_photo">Сделать снимок</string>
     <string name="photography_handle_launch_camera">Открыть камеру</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Нажмите и удерживайте кнопку затвора для действия</string>
     <string name="photography_handle_quick_launch_camera_title">Быстрый запуск</string>
-    <string name="photography_handle_title">Рукоятка камеры</string>
+    <string name="photography_handle_title">Держатель камеры</string>
     <string name="physical_keyboard_title">Физическая клавиатура</string>
     <string name="pick_up_gesture_wakeup_title">Включать при взятии в руки</string>
     <string name="picker_text">Настройка времени</string>
