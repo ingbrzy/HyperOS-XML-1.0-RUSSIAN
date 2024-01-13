@@ -2364,6 +2364,7 @@
     <string name="camera_grip_firmware_need_update">Обновить</string>
     <string name="camera_grip_firmware_new_version">Нет обновлений</string>
     <string name="camera_grip_firmware_title_text">Обновление ПО</string>
+    <string name="camera_grip_firmware_update_describe">Не отключайте держатель, пока идёт обновление</string>
     <string name="camera_grip_firmware_update_faild">Не удалось обновить</string>
     <string name="camera_grip_firmware_update_ongoing">Обновление… Не отключайте держатель.</string>
     <string name="camera_grip_firmware_update_successful">Успешно обновлено</string>
@@ -3575,6 +3576,10 @@ ID: %s
     <string name="display_dashboard_summary">Тёмная тема, размер шрифта, яркость</string>
     <string name="display_dashboard_summary_with_style">Стили, тёмная тема, размер шрифта, яркость</string>
     <string name="display_label">Экран</string>
+    <string name="display_notification_icon_0">Нет</string>
+    <string name="display_notification_icon_1">%d значок</string>
+    <string name="display_notification_icon_3">%d значка</string>
+    <string name="display_notification_icon_5">%d значков</string>
     <string name="display_order_text">Упорядочить по:</string>
     <string name="display_prompt_confirm">Понятно</string>
     <string name="display_settings">Экран</string>
@@ -11056,6 +11061,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="title_quick_control_all_devices">Показывать элементы управления для устройств поблизости</string>
     <string name="title_regional_pref_footer">"Если в приложении нельзя выбрать регион, будут использоваться настройки по умолчанию."</string>
     <string name="title_show_notification_icon">Показывать значки уведомлений</string>
+    <string name="title_show_notification_icon_count">Количество отображаемых значков уведомлений</string>
     <string name="title_smart_device_control">Управление умными устройствами</string>
     <string name="title_special_features_health_global">Частота пульса</string>
     <string name="title_unavailable_locale">"%s недоступен"</string>
