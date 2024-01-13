@@ -1500,7 +1500,7 @@
     <string name="gxzw_quick_open_add_note_sub">Заметки</string>
     <string name="gxzw_quick_open_alipay_pay">Код оплаты</string>
     <string name="gxzw_quick_open_alipay_scan">Сканер</string>
-    <string name="gxzw_quick_open_dialer">Номеронабиратель</string>
+    <string name="gxzw_quick_open_dialer">Вызовы</string>
     <string name="gxzw_quick_open_dialer_sub">Телефон</string>
     <string name="gxzw_quick_open_qr_code">QR-код</string>
     <string name="gxzw_quick_open_qr_code_sub">Сканер</string>

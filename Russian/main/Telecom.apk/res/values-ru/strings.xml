@@ -378,7 +378,7 @@
     <string name="debug_networking_category">Сети</string>
     <string name="debug_view_attributes">Включить проверку атрибутов</string>
     <string name="decline_incoming_call">Отклонить</string>
-    <string name="default_dialer_reset_prompt">При использовании %s произошли ошибки. Вернуть номеронабиратель MIUI в качестве приложения по умолчанию?</string>
+    <string name="default_dialer_reset_prompt">При использовании %s произошли ошибки. Переключиться на приложение для вызовов MIUI и установить его по умолчанию?</string>
     <string name="delete_blob_confirmation_text">Вы уверены, что хотите удалить общие данные?</string>
     <string name="delete_blob_text">Удаление общих данных</string>
     <string name="delete_icon_description">Разблокировать</string>
@@ -754,7 +754,7 @@
     <string name="private_dns_mode_provider_hostname_hint">Введите имя хоста DNS-провайдера</string>
     <string name="profile_connect_timeout_subtext">Проблема с подключением. Выключите и снова включите устройство</string>
     <string name="profile_info_settings_title">Информация о профиле</string>
-    <string name="redirect_system_dialer_toast">Ошибка в %s. Переключение на системный номеронабиратель.</string>
+    <string name="redirect_system_dialer_toast">Ошибка в %s. Переключение на системное приложение для вызовов.</string>
     <string name="remaining_length_format">Осталось %1$s</string>
     <string name="respond_via_sms_canned_response_1">Не могу говорить. Позвоните позже?</string>
     <string name="respond_via_sms_canned_response_2">Я перезвоню Вам.</string>
