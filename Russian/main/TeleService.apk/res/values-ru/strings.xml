@@ -1508,7 +1508,7 @@
     <string name="lable_network_not_supported">Сеть не поддерживается</string>
     <string name="lafs_disable">Расписание рейсов местного аэропорта отключено</string>
     <string name="lafs_enable">Расписание рейсов местного аэропорта включено</string>
-    <string name="last_sim_callback_summary">При осуществлении вызова из истории вызовов, для выбранного контакта использовать ту же SIM-карту что и при предыдущем вызове.</string>
+    <string name="last_sim_callback_summary">Использовать ту же SIM при повторном наборе из журнала вызовов</string>
     <string name="last_sim_callback_title">Запоминать настройки SIM</string>
     <string name="launch_defaults_none">Настройки по умолчанию не установлены</string>
     <string name="launch_defaults_some">Установлены некоторые настройки по умолчанию</string>
