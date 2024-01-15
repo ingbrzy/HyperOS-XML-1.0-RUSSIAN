@@ -1985,7 +1985,7 @@ ID:%s
     <string name="pa_picker_detail_net_error">Ошибка сети. Нажмите, чтобы повторить попытку.</string>
     <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Подождите…</string>
     <string name="pa_picker_detail_small_widget">Виджеты</string>
-    <string name="pa_picker_detail_state_error_retry">Что-то пошло не так. Попробуйте еще раз.</string>
+    <string name="pa_picker_detail_state_error_retry">Что-то пошло не так. Попробуйте ещё раз.</string>
     <string name="pa_picker_detail_suit_price_already_bought">Приобретено</string>
     <string name="pa_picker_detail_suit_price_placeholder">5 Mi Coin</string>
     <string name="pa_picker_detail_theme_app_cta">Настройки</string>

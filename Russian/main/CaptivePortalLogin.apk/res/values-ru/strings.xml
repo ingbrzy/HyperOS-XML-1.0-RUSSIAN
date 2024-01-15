@@ -34,7 +34,7 @@
     <string name="ssl_error_expired">Срок действия сертификата истек.</string>
     <string name="ssl_error_invalid">Сертификат недействителен.</string>
     <string name="ssl_error_mismatch">Имя сайта не совпадает с именем в сертификате.</string>
-    <string name="ssl_error_not_yet_valid">Этот сертификат еще не действителен.</string>
+    <string name="ssl_error_not_yet_valid">Этот сертификат ещё не действителен.</string>
     <string name="ssl_error_unknown">Неизвестная ошибка сертификата.</string>
     <string name="ssl_error_untrusted">Этот сертификат не от доверенного центра.</string>
     <string name="ssl_error_view_certificate">Просмотр сертификата.</string>

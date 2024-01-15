@@ -37,7 +37,7 @@
     <string name="auto_crop_save_2">Сохранение</string>
     <string name="auto_crop_selection_hint">Выбрано: %1$d/%2$d</string>
     <string name="auto_crop_size_former_latter">%1$s:%2$s</string>
-    <string name="auto_crop_stop_saving">Нажмите еще раз для отмены</string>
+    <string name="auto_crop_stop_saving">Нажмите ещё раз для отмены</string>
     <string name="auto_crop_title">Умная обрезка Xiaomi</string>
     <string name="auto_crop_water_mark_description">Водяные знаки не будут отображаться на изображениях, обработанных с помощью Умной обрезки Xiaomi. Продолжить?</string>
     <string name="auto_crop_water_mark_title">Скрытие водяных знаков</string>

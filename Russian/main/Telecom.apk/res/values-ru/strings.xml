@@ -285,7 +285,8 @@
     <string name="can_not_dial_vt_while_voice_prompt">Нельзя совершить видеовызов во время голосового вызова</string>
     <string name="can_not_dial_while_vt_prompt">Нельзя набрать номер во время видеовызова</string>
     <string name="cancel">Отмена</string>
-    <string name="cant_call_due_to_no_supported_service">Вы не можете совершить новый вызов, потому что нет учётных записей, которые поддерживают вызовы этого типа.</string>
+    <string name="cant_call_due_to_dsdstransition_invalid_sub">Вызовы недоступны, поскольку учётная запись недействительна</string>
+    <string name="cant_call_due_to_no_supported_service">Вызовы недоступны, поскольку нет учётных записей, поддерживающих вызовы этого типа</string>
     <string name="cant_call_due_to_ongoing_call">Не удалось осуществить вызов. Завершите текущий в приложении %1$s</string>
     <string name="cant_call_due_to_ongoing_calls">Не удалось осуществить вызов. Завершите текущие в приложении %1$s.</string>
     <string name="cant_call_due_to_ongoing_unknown_call">Не удалось осуществить вызов. Завершите текущий в другом приложении.</string>
@@ -772,6 +773,7 @@
     <string name="running_process_item_user_label">Пользователь: %1$s</string>
     <string name="runningservices_settings_summary">Просмотр и управление работающими приложениями</string>
     <string name="runningservices_settings_title">Работающие приложения</string>
+    <string name="satellite_only_support_one_call">Множественные вызовы недоступны при использовании спутниковой связи</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>

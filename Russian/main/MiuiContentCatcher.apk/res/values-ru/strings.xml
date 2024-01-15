@@ -33,10 +33,10 @@
     <string name="auth_activity_label">Коды подтверждения</string>
     <string name="auth_fingerprint_content">Проверка отпечатка…</string>
     <string name="auth_fingerprint_content_message">Прикоснитесь пальцем к сенсору</string>
-    <string name="auth_fingerprint_content_message_error">Не удалось проверить отпечаток, повторите попытку</string>
-    <string name="auth_fingerprint_title">Проверка отпечатка</string>
-    <string name="autofill_description">"MIUI может шифровать и хранить ваши пароли, чтобы вводить их автоматически, когда вам нужно. Xiaomi не сможет прочитать ваши зашифрованные пароли."</string>
-    <string name="autofill_hint_email_address">Аккаунт</string>
+    <string name="auth_fingerprint_content_message_error">Отпечаток не распознан. Повторите попытку</string>
+    <string name="auth_fingerprint_title">Подтвердите отпечаток</string>
+    <string name="autofill_description">MIUI может шифровать и хранить ваши пароли для их последующего автоматического ввода. Xiaomi не сможет прочитать ваши зашифрованные пароли.</string>
+    <string name="autofill_hint_email_address">Эл. почта</string>
     <string name="autofill_hint_name">Имя</string>
     <string name="autofill_hint_password">Пароль</string>
     <string name="autofill_hint_phone">Номер телефона</string>
@@ -85,7 +85,7 @@
     <string name="hide_password_talkback">Скрыть пароль</string>
     <string name="invalid_package_signature">Неверная подпись приложения</string>
     <string name="login_mi_account_alert">Внимание</string>
-    <string name="login_mi_account_summary">Менеджер паролей синхронизирует пароли с Xiaomi аккаунтом. Войти?</string>
+    <string name="login_mi_account_summary">Менеджер паролей синхронизирует пароли с Xiaomi аккаунтом. Выполнить вход?</string>
     <string name="midnight">Ночь</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
@@ -102,18 +102,18 @@
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
-    <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
+    <string name="miuix_appcompat_select_all_description">Выбрать все объекты</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
     <string name="miuix_indexer_collect">Подборки</string>
     <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Отпустите для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Не удалось загрузить данные</string>
     <string name="monday">Понедельник</string>
     <string name="monday_short">Пн</string>
     <string name="monday_shortest">Пн</string>
@@ -169,8 +169,7 @@
     <string name="search">Поиск</string>
     <string name="search_menu_title">Поиск</string>
     <string name="send">Отправить</string>
-    <string name="settings_clear_data_confirmation_description">В случае удаления пароля, вам придется ввести его заново при входе в систему.
-Удалить пароль?</string>
+    <string name="settings_clear_data_confirmation_description">После удаления паролей вам придётся ввести их заново при входе в систему. Удалить?</string>
     <string name="settings_clear_data_confirmation_title">Удаление паролей</string>
     <string name="show_password_talkback">Показать пароль</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
@@ -251,7 +250,7 @@
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
-    <string name="using_miui_autofill_message">Для автоматического ввода паролей MIUI сохранит информацию об учётной записи и пароли на устройстве.</string>
+    <string name="using_miui_autofill_message">Для автоматического ввода паролей MIUI сохранит на устройстве данные вашего аккаунта и пароли</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="wednesday">Среда</string>

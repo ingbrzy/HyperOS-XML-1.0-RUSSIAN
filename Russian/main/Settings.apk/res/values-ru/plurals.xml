@@ -786,7 +786,7 @@
     </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">Неверный PIN-код. Осталось %d попыток.</item>
-        <item quantity="one">Неверный PIN-код. Осталась %d попытка. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
+        <item quantity="one">Неверный PIN-код. Осталась %d попытка. После этого SIM-карта будет заблокирована и вам придётся обратиться к оператору связи.</item>
         <item quantity="few">Неверный PIN-код. Осталось %d попытки.</item>
     </plurals>
     <plurals name="zen_mode_bypassing_apps_subtext">

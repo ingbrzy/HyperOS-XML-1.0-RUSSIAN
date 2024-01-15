@@ -551,10 +551,10 @@ ID: %s
     <string name="fcm_push_title">Популярные</string>
     <string name="fcmpts_dialog_continue">Просмотр</string>
     <string name="fcmpts_dialog_not_interested">Отмена</string>
-    <string name="fcmpts_dialog_two" formatted="false">Посмотрите %d секунд еще %d видео, чтобы получить купон Mi Store.</string>
+    <string name="fcmpts_dialog_two" formatted="false">Посмотрите %d секунд ещё %d видео, чтобы получить купон Mi Store.</string>
     <string name="fcmpts_popup_final">Готово! Нажмите, чтобы активировать награды.</string>
     <string name="fcmpts_popup_final_redeem">Активировать</string>
-    <string name="fcmpts_popup_four" formatted="false">Готово! Посмотрите %d секунд еще %d видео, чтобы получить купон Mi Store.</string>
+    <string name="fcmpts_popup_four" formatted="false">Готово! Посмотрите %d секунд ещё %d видео, чтобы получить купон Mi Store.</string>
     <string name="fcmpts_popup_one" formatted="false">Посмотрите сегодня %d видео, чтобы получить купон Mi Store на %d баллов.</string>
     <string name="fcmpts_popup_one_cts">Просмотр</string>
     <string name="fcmpts_popup_three" formatted="false">Просмотрено %d секунд. Вы заработали %d баллов!</string>
@@ -2002,8 +2002,8 @@ ID: %s
     <string name="sure_to_logout">Выйти из системы?</string>
     <string name="switch_ratio_pause">Скорость воспроизведения нестабильна. Возврат к скорости по умолчанию.</string>
     <string name="symbol_rmb">¥</string>
-    <string name="sync_favorites_limit">В избранном более 500 видео. Чтобы продолжить синхронизацию, нам придется удалить несколько старых видео.</string>
-    <string name="sync_favorites_limit_new">В избранном более %d видео. Чтобы продолжить синхронизацию, нам придется удалить несколько старых видео.</string>
+    <string name="sync_favorites_limit">В избранном более 500 видео. Чтобы продолжить синхронизацию, нам придётся удалить несколько старых видео.</string>
+    <string name="sync_favorites_limit_new">В избранном более %d видео. Чтобы продолжить синхронизацию, нам придётся удалить несколько старых видео.</string>
     <string name="sync_favorites_message">Синхронизировать избранное на этом устройстве с вашим аккаунтом? Более не доступные объекты будут удалены.</string>
     <string name="sync_favorites_title">Синхронизировать избранное</string>
     <string name="system_error_info">Система занята. Повторите позже.</string>

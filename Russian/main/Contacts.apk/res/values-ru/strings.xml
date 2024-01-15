@@ -1406,7 +1406,7 @@
     <string name="outof_service_msg">MI hall обновляется. После завершения обновлений вы получите доступ ко всем его функциям.</string>
     <string name="outof_service_title">Обновление системы, сервисы приостановлены.</string>
     <string name="pack_up">Скрыть</string>
-    <string name="passport_access_denied">Доступ запрещен</string>
+    <string name="passport_access_denied">Доступ запрещён</string>
     <string name="passport_account_crop_user_avatar">Обрезать фото</string>
     <string name="passport_account_empty_user_name">Введите имя</string>
     <string name="passport_account_error_all_space_user_name">Имя не может содержать только пробелы</string>

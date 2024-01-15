@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="access_calendar">Доступ к календарю</string>
     <string name="access_non_personal_data">В случае отзыва согласия на доступ и использование неличных данных с вашего устройства, сервисы \"Карусель Обоев\" будут деактивированы, а все собранные данные будут удалены в течение срока, указанного в действующих законах и нормативных актах.</string>
     <string name="accessibility_enabled">Помощник включён.</string>
     <string name="actionbar_button_up_description">Назад</string>
@@ -54,6 +55,8 @@
     <string name="ai_button_title">О кнопке AI</string>
     <string name="album_introduction">Галерея позволяет управлять фото и видео на устройстве, редактировать их, а также синхронизировать с Xiaomi Cloud.</string>
     <string name="app_name">Начальная настройка</string>
+    <string name="application_extension_service">Службы расширения приложений</string>
+    <string name="application_extension_service_introduction">Службы расширения приложений предоставляют функции входа и проверки. Для работы необходимы следующие разрешения:</string>
     <string name="application_package_introduction">Это приложение позволяет устанавливать сторонние приложения и проверяет их перед установкой.</string>
     <string name="application_permissions">Разрешения приложений</string>
     <string name="aquire_device_info">Доступ к информации об устройстве</string>
@@ -66,6 +69,7 @@
     <string name="boot_video_replay">Повтор</string>
     <string name="boot_video_skip">Пропустить</string>
     <string name="calculator_introduction">Это приложение можно использовать для расчётов, конвертации единиц и валют, оценки выплат по ипотеке.</string>
+    <string name="calendar_storage">Хранилище календаря</string>
     <string name="camera_application_introduction">Это приложение можно использовать для съёмки фото и видео.</string>
     <string name="camera_introduction">Приложение Камера можно использовать для съёмки фото и видео.</string>
     <string name="carousel_cookies_content"><Data>Когда вы нажимаете на изображения и истории в Карусели обоев, их полные версии будут открываться в браузере. Наш доверенный сторонний поставщик контента может рекомендовать дополнительный контент и рекламу, соответствующие вашим интересам. В случае согласия активировать эту функцию, файлы cookie будут размещаться в браузере, как описано в настоящей &lt;a href=\"%1$s\">Политике использования файлов cookie&lt;/a>. В случае отказа от файлов cookie, Карусель обоев будет по-прежнему работать, но содержание и рекомендации могут быть неактуальными. Предпочтения всегда можно изменить в настройках.</Data></string>
@@ -115,6 +119,7 @@
     <string name="diagnose_report">Отправка диагностических данных для поиска и анализа системных проблем и улучшения работы. Данные могут включать личную информацию (например, IP, геопозиция и т. д.)</string>
     <string name="disageement_abnormal_download">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать этот сервис.</string>
     <string name="disagree">Отмена</string>
+    <string name="disagree_unable_serve">В случае отказа предоставить необходимые разрешения, вы не сможете использовать этот сервис.</string>
     <string name="disagreement_abnormal_running">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать это приложение. В этом случае вы можете отказаться от использования этого приложения или ограничить разрешения в настройках.</string>
     <string name="disagreement_abnormal_running_fast_pairing">В случае отказа предоставить необходимые разрешения, вы не сможете использовать это приложение. В этом случае вы можете ограничить разрешения и отключить функцию в настройках.</string>
     <string name="disagreement_application_not_working_properly">В случае отказа предоставить эти разрешения, вы не сможете использовать это приложение.</string>
@@ -500,6 +505,7 @@
     <string name="permission_make_a_call_fast_application_summary">Для совершения вызовов Быстрыми приложениями;</string>
     <string name="permission_media_storage_summary">Для проверки использования приложениями разрешений, связанных с конфиденциальностью, при доступе к файлам</string>
     <string name="permission_message_introduction">Для отправки сообщений заблокированным контактам</string>
+    <string name="permission_not_agree_service_not_working">В случае отказа предоставить вышеупомянутые разрешения, вы не сможете использовать этот сервис.</string>
     <string name="permission_number">Доступ к номеру телефона</string>
     <string name="permission_number_introduction">Для установления Bluetooth-соединения с автомобильными системами и наушниками</string>
     <string name="permission_phone_imei_device">Для доступа к IMEI для идентификации устройств</string>
@@ -547,7 +553,8 @@
     <string name="permission_recording">Запись вызовов и аудио:</string>
     <string name="permission_recording_introduction">Для записи звука во время съёмки видео</string>
     <string name="permission_screen_shoot_introduction">Для управления записями экрана</string>
-    <string name="permission_send_message">Отправлять SMS:</string>
+    <string name="permission_send_message">Отправка SMS:</string>
+    <string name="permission_sms_verification_code_login">Для SMS-верификации быстрого входа в систему</string>
     <string name="permission_uniquely_identifiable_information">Доступ к уникальным идентификаторам этого устройства</string>
     <string name="permission_uniquely_identifiable_information_summary">Доступ к MAC-адресу и OAID устройства для обнаружения, подключения и связи с другими устройствами.</string>
     <string name="permission_use_bluetooth">Использование Bluetooth</string>
@@ -589,6 +596,7 @@
     <string name="privacy_refuse">Не согласен</string>
     <string name="privacy_title">Условия и Политика конфиденциальности</string>
     <string name="protect_persoanl_info_statement">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности.</string>
+    <string name="provide_date_management_service">Эта служба позволяет проверять дату и управлять мероприятиями</string>
     <string name="provision_back">Назад</string>
     <string name="provision_inputmethod_policy_description"><Data>Просмотрите &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a > выбранной клавиатуры.</Data></string>
     <string name="provision_inputmethod_policy_description1">Политика конфиденциальности</string>
@@ -596,6 +604,7 @@
     <string name="provision_skip_underline">Пропустить</string>
     <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier - служба, управляющая системными процессами</string>
     <string name="read_application_info">Доступ к информации о приложении</string>
+    <string name="read_sms_and_mms">Доступ к SMS и MMS</string>
     <string name="recommend_font">MiSans</string>
     <string name="recommended_font_mark">Рекомендуется</string>
     <string name="recorder_introduction">Это приложение можно использовать для записи аудио и резервного копирования записей в облако.</string>
@@ -610,6 +619,7 @@
     <string name="require_network_and_authority_statement">Для нормальной работы, этой службе необходимы подключение к интернету и следующие разрешения:</string>
     <string name="require_network_authority_statement">Для работы основных служб необходимы подключение к интернету и следующие разрешения для сбора вашей личной информации:</string>
     <string name="require_network_authority_statement_dual">Для нормальной работы этой службы необходимы подключение к интернету и следующие разрешения:</string>
+    <string name="require_statement">Для работы основных служб необходимо предоставить следующие разрешения:</string>
     <string name="safe_open_service">Защищённые открытые сервисы</string>
     <string name="safe_open_service_introduction">Защищённые открытые сервисы помогают разработчикам и предоставляют возможности обеспечения безопасности на системном уровне для защиты пользователей и их конфиденциальности</string>
     <string name="saturday">Суббота</string>
@@ -846,6 +856,7 @@
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
+    <string name="used_date_viewing">Для проверки даты</string>
     <string name="user_agreement">Пользовательское соглашение</string>
     <string name="user_agreement_declare">Перед использованием MIUI вы должны прочесть и принять наше Пользовательское соглашение и Политику конфиденциальности. Во время активации устройства, приложения Сервис активации Mi SIM, Xiaomi Cloud, Резервное копирование, Поиск устройства, Рабочий стол, Частые фразы, Служба интернет-коммуникаций Xiaomi, Служба перевода, MIUI Daemon, Средство просмотра HTML, MIUI SDK, Secure Element Application, Умный помощник, Батарея и производительность, Контроль батареи, Joyose, AI Настройка OS и Обновление будут использовать интернет. Смарт-карты, Менеджер разрешений и смарт-сервисы подключатся к сети и будут использовать геолокацию.</string>
     <string name="user_agreement_declare_gmscore">Перед использованием MIUI вы должны прочесть и принять наше Пользовательское соглашение и Политику конфиденциальности. Во время активации устройства, приложения Сервис активации Mi SIM, Xiaomi Cloud, Резервное копирование, Поиск устройства, Рабочий стол, Частые фразы, Служба интернет-коммуникаций Xiaomi, Служба перевода, MIUI Daemon, Средство просмотра HTML, MIUI SDK, Secure Element Application, Умный помощник, Батарея и производительность, Контроль батареи, Joyose, AI Настройка OS и Обновление будут использовать интернет. Смарт-карты, Менеджер разрешений, ConfigUpdater и смарт-сервисы подключатся к сети и будут использовать геолокацию.</string>

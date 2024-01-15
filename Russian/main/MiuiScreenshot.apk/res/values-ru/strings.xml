@@ -272,7 +272,7 @@
     <string name="photo_save_to_msg">Сохранено в %s</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_mosaic_result_done">Вывод личной информации заблокирован</string>
-    <string name="privacy_mosaic_result_fail">Не удалось заблокировать вывод личной информации. Попробуйте еще раз.</string>
+    <string name="privacy_mosaic_result_fail">Не удалось заблокировать вывод личной информации. Попробуйте ещё раз.</string>
     <string name="privacy_mosaic_result_none">Личная информация не найдена</string>
     <string name="privacy_mosaic_tip">Нажмите, чтобы заблокировать вывод личной информации</string>
     <string name="privacy_mosaic_tip_long">Скриншоты с прокруткой не поддерживаются</string>
@@ -361,6 +361,7 @@
     <string name="screenshot_long_screenshot">Прокрутка</string>
     <string name="screenshot_save">Сохранить</string>
     <string name="screenshot_send">Отправить</string>
+    <string name="screenshot_succeed">Скриншот создан</string>
     <string name="screenshot_thumbnail">Миниатюра скриншота</string>
     <string name="scroll_annotation">Прокрутка и комментирование</string>
     <string name="scroll_annotation_btn_quit">Выход</string>

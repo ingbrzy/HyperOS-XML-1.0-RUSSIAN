@@ -1035,6 +1035,7 @@
     <string-array name="light_sleep_process_list"></string-array>
     <string-array name="ligue_1"></string-array>
     <string-array name="list_about_ignore_request_orientation_in_freeform"></string-array>
+    <string-array name="list_about_lock_mode_activity"></string-array>
     <string-array name="list_about_need_relunch"></string-array>
     <string-array name="list_about_support_landscape_video"></string-array>
     <string-array name="list_disable_overlay_with_app_content"></string-array>
@@ -1206,6 +1207,11 @@
     <string-array name="notifi_importance_values"></string-array>
     <string-array name="notification_adv_time_values"></string-array>
     <array name="notification_element_blend_colors"></array>
+    <array name="notification_element_blend_headsUp_colors"></array>
+    <array name="notification_element_blend_keyguard_colors"></array>
+    <array name="notification_element_blend_shade_colors"></array>
+    <string-array name="notification_icon_counts_entries"></string-array>
+    <string-array name="notification_icon_counts_values"></string-array>
     <string-array name="notification_list"></string-array>
     <array name="notification_modal_cancel_btn_blend_colors"></array>
     <array name="notification_modal_ok_btn_blend_color"></array>

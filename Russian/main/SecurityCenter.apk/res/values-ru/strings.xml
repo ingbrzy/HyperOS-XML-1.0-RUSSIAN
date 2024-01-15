@@ -1105,7 +1105,7 @@
     <string name="bh_settings_withdrawal_dialog_content_text">"Если вы продолжите, согласие с Политикой конфиденциальности Yulore Limited будет отозвано.
 Сбор и использование вашей личной информации будут прекращены, а история заказов удалена. Прежде чем отозвать согласие, убедитесь, что все транзакции завершены."</string>
     <string name="bh_settings_withdrawal_dialog_not_content_text">"Вы хотите отозвать согласие с политикой конфиденциальности компании Yulore Limited.
-Некоторые транзакции еще не завершены. Чтобы отозвать согласие, обратитесь в службу поддержки для закрытия заказов."</string>
+Некоторые транзакции ещё не завершены. Чтобы отозвать согласие, обратитесь в службу поддержки для закрытия заказов."</string>
     <string name="bh_settings_withdrawal_dialog_title">Отзыв согласия</string>
     <string name="bh_settings_withdrawal_subtitle">Отозвать согласие с Политикой конфиденциальности Трафика</string>
     <string name="bh_settings_withdrawal_text">Отзыв согласия</string>
@@ -6682,9 +6682,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="wakepath_confirm_start_activity">Разрешить %1$s запуск %2$s?</string>
     <string name="wakepath_delete">Удалить разрешения</string>
     <string name="wakepath_delete_all">Удалить все разрешения</string>
-    <string name="wakepath_delete_all_tips">Если продолжите, вам придется предоставить каждому приложению разрешение на открытие других приложений. Продолжить?</string>
-    <string name="wakepath_delete_app_start_all">Если продолжите, вам придется снова предоставить разрешение %s на открытие других приложений. Продолжить?</string>
-    <string name="wakepath_delete_app_start_other_app">Если продолжите, вам придется снова предоставить разрешение %1$s на открытие %2$s. Продолжить?</string>
+    <string name="wakepath_delete_all_tips">Если продолжите, вам придётся предоставить каждому приложению разрешение на открытие других приложений. Продолжить?</string>
+    <string name="wakepath_delete_app_start_all">Если продолжите, вам придётся снова предоставить разрешение %s на открытие других приложений. Продолжить?</string>
+    <string name="wakepath_delete_app_start_other_app">Если продолжите, вам придётся снова предоставить разрешение %1$s на открытие %2$s. Продолжить?</string>
     <string name="wakepath_manager_title">Управление цепным запуском</string>
     <string name="warningcenter_action_check">Посмотреть</string>
     <string name="warningcenter_alert_home">Расположение</string>

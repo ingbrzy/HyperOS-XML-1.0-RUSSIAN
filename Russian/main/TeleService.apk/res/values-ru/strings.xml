@@ -643,6 +643,7 @@
     <string name="caller_id_title">Скрытие номера</string>
     <string name="calling_via_template">Вызов через %s</string>
     <string name="callwait_open_hint">Услуга \"Ожидание вызова\" предоставляется оператором. Если вы получаете уведомление об ошибке, обратитесь к вашему оператору для выяснения подробностей.</string>
+    <string name="can_not_use">Невозможно использовать</string>
     <string name="can_not_use_for_not_data_sim">(Использование невозможно: SIM-карта должна быть установлена по умолчанию для мобильного интернета)</string>
     <string name="cancel">Отмена</string>
     <string name="card_title_MOcall_forwarding">Исходящий переадресованный вызов</string>
@@ -1803,6 +1804,7 @@
     <string name="msim_not_set_summary">Не задано</string>
     <string name="msim_pref_title_data">Интернет</string>
     <string name="msim_pref_title_voice">Вызовы</string>
+    <string name="msim_select_default_last">Использовалась недавно</string>
     <string name="msim_select_default_time_left">(%d сек.)</string>
     <string name="msim_set_icc_card_error">Ошибка карты ICC</string>
     <string name="msim_set_sub_not_supported_phone_in_call">Недоступно во время вызова</string>
@@ -2550,11 +2552,14 @@ UT-интерфейс: %5$s"</string>
     <string name="sat_info">Инфо о спутнике</string>
     <string name="sat_location">Местоположение спутника:</string>
     <string name="sat_plmn">PLMN:</string>
+    <string name="sat_reg">Статус регистрации:</string>
+    <string name="sat_rssi">Rssi:</string>
     <string name="sat_sub_id">Sub Id:</string>
     <string name="sat_version">Версия модема:</string>
     <string name="satellite_findout_settings_title">Найти спутник tiantong</string>
     <string name="satellite_mobile_settings_summary">Поддерживается только SIM-картой China Telecom</string>
     <string name="satellite_mobile_settings_title">Открытый спутник</string>
+    <string name="satellite_select_enable_sim">Выберите SIM-карту</string>
     <string name="satellite_tiantong_setting">спутник tiantong</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
@@ -2581,8 +2586,12 @@ UT-интерфейс: %5$s"</string>
     <string name="select_logd_size_title">Буфер журнала</string>
     <string name="select_logpersist_dialog_title">Выберите буферы журнала, которые будут постоянно храниться на устройстве</string>
     <string name="select_logpersist_title">Постоянно хранить данные журнала на устройстве</string>
+    <string name="select_one_sim_title">Доступна только SIM %1$d</string>
+    <string name="select_one_sim_title_for_heduohao">Доступна только SIM %1$d Sub %2$d</string>
     <string name="select_private_dns_configuration_dialog_title">Частный DNS-сервер</string>
     <string name="select_private_dns_configuration_title">Частный DNS-сервер</string>
+    <string name="select_sim_hint">SIM %2$d недоступна, пока используется SIM %1$d</string>
+    <string name="select_sim_hint_for_heduohao">Нельзя использовать другую, пока используется SIM %1$d Sub %2$d</string>
     <string name="select_usb_configuration_dialog_title">Конфигурация USB</string>
     <string name="select_usb_configuration_title">Конфигурация USB</string>
     <string name="select_voice_call_sim">Выберите SIM-карту</string>
@@ -2632,6 +2641,11 @@ UT-интерфейс: %5$s"</string>
     <string name="show_vonr_switch_title">Переключатель VoNR</string>
     <string name="show_vowifi_switch_summary">Показывать переключатель вызовов Wi-Fi в сведениях о SIM-карте</string>
     <string name="show_vowifi_switch_title">Переключатель вызовов Wi-Fi</string>
+    <string name="sim1_description">SIM1</string>
+    <string name="sim1_heduohao_card">Sub1</string>
+    <string name="sim2_description">SIM2</string>
+    <string name="sim2_heduohao_card">Sub2</string>
+    <string name="sim3_heduohao_card">Sub3</string>
     <string name="simContacts_airplaneMode">Для импорта контактов с SIM-карты отключите режим полёта</string>
     <string name="simContacts_empty">На SIM-карте нет контактов</string>
     <string name="simContacts_emptyLoading">Загрузка контактов с SIM-карты…</string>

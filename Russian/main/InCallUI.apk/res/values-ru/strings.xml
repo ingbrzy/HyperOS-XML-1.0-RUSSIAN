@@ -89,7 +89,7 @@
     <string name="call_progress_info_no_answer_from_user">Нет ответа</string>
     <string name="call_progress_info_no_user_responding">Набранный номер временно не обслуживается</string>
     <string name="call_progress_info_nonuser_call_rejected">Набранный номер в настоящее время не обслуживается</string>
-    <string name="call_progress_info_remote_available">Абонент оповещен. Подождите на линии…</string>
+    <string name="call_progress_info_remote_available">Абонент оповещён. Подождите на линии…</string>
     <string name="call_progress_info_subscriber_absent">Набранный номер недоступен</string>
     <string name="call_progress_info_unallocated_number">Набранный номер не существует</string>
     <string name="call_progress_info_user_busy">Абонен занят. Перезвоните позже.</string>

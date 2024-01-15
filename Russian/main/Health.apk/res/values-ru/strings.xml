@@ -64,7 +64,7 @@
     <string name="add_body_weight_button">Ввести вес</string>
     <string name="add_body_weight_record_button">Ввести вес</string>
     <string name="add_data_source">Добавить источники данных</string>
-    <string name="add_data_source_description">"Добавьте данные о состоянии здоровья из других устройств в приложение Здоровье, чтобы повысить точность статистики и получить более актуальные рекомендации.
+    <string name="add_data_source_description">"Добавьте данные о здоровье из других устройств в приложение Здоровье, чтобы повысить точность статистики и получить более актуальные рекомендации.
 Приложение Здоровье поддерживает устройства, ранее добавленные в приложение Mi Home. Если не удается найти устройство, которое хотите добавить, сначала проверьте, добавлено ли оно в Mi Home."</string>
     <string name="add_data_source_login_and_open_sync">Войдите в Xiaomi аккаунт и включите синхронизацию с облаком для возможности добавлять источники данных.</string>
     <string name="add_data_source_open_sync">Включите синхронизацию с облаком для возможности добавлять источники данных.</string>
@@ -174,7 +174,7 @@
     <string name="body_bmi_descripe_content">Индекс массы тела (ИМТ) определяется как масса тела в килограммах, деленная на квадрат роста в метрах. Знание ИМТ может помочь понять, влияет ли ваш вес на ваше здоровье.</string>
     <string name="body_composition">Состав тела</string>
     <string name="body_sport_permission_subtitle">Для отслеживания шагов</string>
-    <string name="body_sport_permission_title">Доступ к данным о состоянии здоровья и активности</string>
+    <string name="body_sport_permission_title">Доступ к данным о здоровье и активности</string>
     <string name="body_water">Процент воды</string>
     <string name="body_water_descripe_content">Процент воды в организме определяется как доля воды в общей массе тела. Мышечная ткань обычно содержит больше воды, чем другие части тела.</string>
     <string name="body_weight">Вес</string>
@@ -270,17 +270,17 @@
     <string name="daily_time_label">Время</string>
     <string name="data">Данные</string>
     <string name="data_account_info_loading">Получение информации об аккаунте…</string>
-    <string name="data_delete_tip">Удаление данных о состоянии здоровья с устройства…</string>
+    <string name="data_delete_tip">Удаление данных о здоровье с устройства…</string>
     <string name="data_details">Подробные данные</string>
     <string name="data_empty">Нет данных</string>
-    <string name="data_safety_tip_details">Данные о состоянии здоровья будут храниться на устройстве после выхода из аккаунта. Можно удалить данные в меню Источники данных.</string>
-    <string name="data_safety_tip_details2">"Некоторые данные о состоянии здоровье были загружены в облако. Можно сохранить данные на этом устройстве или удалить их. При выборе \"Удалить\", будут удалены данные только с этого устройства, синхронизированные данные сохранятся в облаке.
+    <string name="data_safety_tip_details">Данные о здоровье будут храниться на устройстве после выхода из аккаунта. Можно удалить данные в меню Источники данных.</string>
+    <string name="data_safety_tip_details2">"Некоторые данные о здоровье были загружены в облако. Можно сохранить данные на этом устройстве или удалить их. При выборе \"Удалить\", будут удалены данные только с этого устройства, синхронизированные данные сохранятся в облаке.
 Вы всегда можете позже удалить сохранённые данные в меню Источники данных."</string>
     <string name="data_safety_tip_title">Удаление данных</string>
     <string name="data_source">Источники данных</string>
     <string name="data_source_cannot_be_synchronized">Не удалось синхронизировать данные</string>
     <string name="data_source_data_updating">Обновление данных…</string>
-    <string name="data_source_list_description">Приложение Здоровье получает данные о состоянии здоровья (%1$s) из этих источников. Если данные дублируются из нескольких источников, будут отображаться данные, которые появляются первыми.</string>
+    <string name="data_source_list_description">Приложение Здоровье получает данные о здоровье (%1$s) из этих источников. Если данные дублируются из нескольких источников, будут отображаться данные, которые появляются первыми.</string>
     <string name="data_source_manage">Управление источниками данных</string>
     <string name="data_source_not_support_hm_description">"%1$s не предоставляет данные о количестве шагов. Попробуйте другой источник данных в Настройки > Источники данных."</string>
     <string name="data_source_not_support_hm_description_consume">Выбранный источник данных (%1$s) не содержит подробных данных о потреблении. Другой источник данных можно выбрать в Настройки > Источники данных.</string>
@@ -412,7 +412,7 @@ ID:%s
     <string name="dialog_sure">ОК</string>
     <string name="dialog_upgrade_description">"1. Новый дизайн.
 2. Синхронизация данных между устройствами.
-3. Данные о состоянии здоровья из приложений Здоровье, Xiaomi Wear и других приложений в одном месте."</string>
+3. Данные о здоровье из приложений Здоровье, Xiaomi Wear и других приложений в одном месте."</string>
     <string name="dialog_upgrade_positive_btn">Обновить</string>
     <string name="dialog_upgrade_title">Mi Фитнес</string>
     <string name="dialog_user_agreement_purpose">Добро пожаловать в приложение Здоровье! Это приложение можно использовать для подсчёта шагов, отслеживания сна, менструального цикла, веса, синхронизации статистики с облаком.</string>
@@ -618,7 +618,7 @@ ID:%s
     <string name="health_app_name">Здоровье</string>
     <string name="health_app_name_dev">Здоровье dev</string>
     <string name="health_cloud_service">Облачные сервисы</string>
-    <string name="health_data_cloud_sync_subtitle">Синхронизируйте данные о состоянии здоровья с облаком для доступа к ним с любого устройства</string>
+    <string name="health_data_cloud_sync_subtitle">Синхронизируйте данные о здоровье с облаком для доступа к ним с любого устройства</string>
     <string name="health_data_cloud_sync_title">Синхронизация с облаком</string>
     <string name="health_data_sync">Синхронизация данных</string>
     <string name="health_score">Оценка состояния здоровья</string>
@@ -727,8 +727,8 @@ ID:%s
     <string name="indoor_rinding">Велотренажер</string>
     <string name="indoor_running">Беговая дорожка</string>
     <string name="input_body_weight">Введите данные о весе, чтобы получить советы</string>
-    <string name="inquire_recover_data">Восстановить данные о состоянии здоровья?</string>
-    <string name="inquire_recover_data_subtitle">Похоже, имеются данные о состоянии здоровья, связаные с Вашим Xiaomi аккаунтом (%1$s). Синхронизировать с облаком и восстановить данные?</string>
+    <string name="inquire_recover_data">Восстановить данные о здоровье?</string>
+    <string name="inquire_recover_data_subtitle">Похоже, имеются данные о здоровье, связаные с Вашим Xiaomi аккаунтом (%1$s). Синхронизировать с облаком и восстановить данные?</string>
     <string name="instructions_provider">Инструкции предоставлены Miao Health</string>
     <string name="insufficient">Мало</string>
     <string name="internal_training">HIIT</string>
@@ -1062,7 +1062,7 @@ ID:%s
     <string name="oauth_invalid">Сессия истекла. Войдите снова.</string>
     <string name="ok">ОК</string>
     <string name="open">Включить</string>
-    <string name="open_data_sync_description">Включите синхронизацию с облаком для синхронизации данных о состоянии здоровья из других источников.</string>
+    <string name="open_data_sync_description">Включите синхронизацию с облаком для синхронизации данных о здоровье из других источников.</string>
     <string name="open_stand_assistant">Нажмите чтобы открыть ассистента активности</string>
     <string name="open_swimming">Плавание в открытой воде</string>
     <string name="open_sync">Синхронизировать</string>
@@ -1493,7 +1493,7 @@ ID:%s
     <string name="sport_btn_unlock">Разблокировать</string>
     <string name="sport_counter_begin">Начать</string>
     <string name="sport_data_use_subtitle">Для отслеживания тренировок и прогресса, мы собираем и обрабатываем ваши данные, которые включают маршруты тренировок, данные о сне, частоту пульса и вес.</string>
-    <string name="sport_data_use_tip">Прочтите и примите &lt;font color=\"#0D84FF\">&lt;a href=\"%1$s\">Политику использования данных о состоянии здоровья и активности&lt;/a>&lt;/font>, чтобы понять, как мы собираем и обрабатываем ваши данные. Вы не сможете использовать этот сервис, если не дадите согласие на сбор и обработку данных.</string>
+    <string name="sport_data_use_tip">Прочтите и примите &lt;font color=\"#0D84FF\">&lt;a href=\"%1$s\">Политику использования данных о здоровье и активности&lt;/a>&lt;/font>, чтобы понять, как мы собираем и обрабатываем ваши данные. Вы не сможете использовать этот сервис, если не дадите согласие на сбор и обработку данных.</string>
     <string name="sport_data_use_title">Доступ к данным</string>
     <string name="sport_home_begin">Начать</string>
     <string name="sport_home_set_goal">Задать цель</string>

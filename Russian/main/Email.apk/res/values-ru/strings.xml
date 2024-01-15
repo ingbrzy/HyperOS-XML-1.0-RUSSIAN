@@ -91,7 +91,7 @@
     <string name="account_settings_login_dialog_reason_fmt">Не удалось выполнить вход в %1$s. Ответ сервера: %2$s.  Обновить имя пользователя или пароль?</string>
     <string name="account_settings_login_dialog_title">Не удалось войти в аккаунт</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Вам нужно обновить почту вручную, чтобы синхронизировать ваши письма</string>
-    <string name="account_settings_mail_check_frequency_dialog_title_eas">Вам придется синхронизировать почту вручную, чтобы синхронизировать сообщения и события календаря.</string>
+    <string name="account_settings_mail_check_frequency_dialog_title_eas">Вам придётся синхронизировать почту вручную, чтобы синхронизировать сообщения и события календаря.</string>
     <string name="account_settings_mail_check_frequency_label">Частота синхронизации</string>
     <string name="account_settings_mibill_resolve_label">Автоматическое управление платежами</string>
     <string name="account_settings_name_label">Псевдоним</string>

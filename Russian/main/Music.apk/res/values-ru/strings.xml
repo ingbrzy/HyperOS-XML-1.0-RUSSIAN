@@ -2106,7 +2106,7 @@ ID: %s
     <string name="youtube_download_suc">Загрузка завершена</string>
     <string name="youtube_play_history">История просмотров</string>
     <string name="youtube_share_guide_tip">Теперь вы можете делиться с друзьями видео</string>
-    <string name="youtube_store_dialog_desc">Здесь можно найти онлайн-видео, которые вы добавили в избранное. Если видео уже загружалось ранее, то в следующий раз не придется использовать мобильные данные для его повторного просмотра.</string>
+    <string name="youtube_store_dialog_desc">Здесь можно найти онлайн-видео, которые вы добавили в избранное. Если видео уже загружалось ранее, то в следующий раз не придётся использовать мобильные данные для его повторного просмотра.</string>
     <string name="youtube_store_dialog_ok">Понятно</string>
     <string name="youtube_tab_explore">Обзор</string>
     <string name="youtube_tab_playlist">Плейлисты</string>

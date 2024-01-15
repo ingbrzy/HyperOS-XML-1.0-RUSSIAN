@@ -1829,12 +1829,12 @@
     <string name="kg_invalid_sim_pin_hint">PIN должен содержать от 4 до 8 цифр</string>
     <string name="kg_invalid_sim_puk_hint">PUK должен содержать не менее 8 цифр</string>
     <string name="kg_login_too_many_attempts">Слишком много попыток ввода</string>
-    <string name="kg_password_default_pin_message">"{count,plural, =1{Введите PIN-код. Осталась # попытка. Если указать неверный PIN-код ещё раз, SIM-карта будет заблокирована и вам придется обратиться к оператору связи.}one{Введите PIN-код SIM-карты. Осталась # попытка.}few{Введите PIN-код SIM-карты. Осталось # попытки.}many{Введите PIN-код SIM-карты. Осталось # попыток.}other{Введите PIN-код SIM-карты. Осталось # попытки.}}"</string>
+    <string name="kg_password_default_pin_message">"{count,plural, =1{Введите PIN-код. Осталась # попытка. Если указать неверный PIN-код ещё раз, SIM-карта будет заблокирована и вам придётся обратиться к оператору связи.}one{Введите PIN-код SIM-карты. Осталась # попытка.}few{Введите PIN-код SIM-карты. Осталось # попытки.}many{Введите PIN-код SIM-карты. Осталось # попыток.}other{Введите PIN-код SIM-карты. Осталось # попытки.}}"</string>
     <string name="kg_password_default_puk_message">"{count,plural, =1{SIM-карта заблокирована. Чтобы продолжить, введите PUK-код. Осталась # попытка. Если ввести неверный PUK-код, SIM-карта будет заблокирована навсегда. За подробной информацией обратитесь к оператору связи.}one{SIM-карта заблокирована. Чтобы продолжить, введите PUK-код. Осталась # попытка. После того как попытки закончатся, SIM-карта будет заблокирована навсегда. За подробной информацией обратитесь к оператору связи.}few{SIM-карта заблокирована. Чтобы продолжить, введите PUK-код. Осталось # попытки. После того как они закончатся, SIM-карта будет заблокирована навсегда. За подробной информацией обратитесь к оператору связи.}many{SIM-карта заблокирована. Чтобы продолжить, введите PUK-код. Осталось # попыток. После того как они закончатся, SIM-карта будет заблокирована навсегда. За подробной информацией обратитесь к оператору связи.}other{SIM-карта заблокирована. Чтобы продолжить, введите PUK-код. Осталось # попытки. После того как попытки закончатся, SIM-карта будет заблокирована навсегда. За подробной информацией обратитесь к оператору связи.}}"</string>
     <string name="kg_password_instructions">Введите пароль</string>
     <string name="kg_password_pin_failed">Разблокировка не удалась</string>
     <string name="kg_password_puk_failed">Разблокировка не удалась</string>
-    <string name="kg_password_wrong_pin_code">"{count,plural, =1{Неверный PIN-код. Осталась # попытка. Если ввести неправильный PIN-код ещё раз, SIM-карта будет заблокирована и вам придется обратиться к оператору связи.}one{Неверный PIN-код. Осталась # попытка. }few{Неверный PIN-код. Осталось # попытки. }many{Неверный PIN-код. Осталось # попыток. }other{Неверный PIN-код. Осталось # попытки. }}"</string>
+    <string name="kg_password_wrong_pin_code">"{count,plural, =1{Неверный PIN-код. Осталась # попытка. Если ввести неправильный PIN-код ещё раз, SIM-карта будет заблокирована и вам придётся обратиться к оператору связи.}one{Неверный PIN-код. Осталась # попытка. }few{Неверный PIN-код. Осталось # попытки. }many{Неверный PIN-код. Осталось # попыток. }other{Неверный PIN-код. Осталось # попытки. }}"</string>
     <string name="kg_password_wrong_pin_code_pukked">Неверный PIN-код. Обратитесь к оператору связи для разблокировки SIM-карты.</string>
     <string name="kg_password_wrong_puk_code">"{count,plural, =1{Неверный PUK-код. Осталась # попытка. Если ввести неправильный PUK-код ещё раз, SIM-карта будет заблокирована навсегда.}one{Неверный PUK-код. Осталась # попытка. После того как попытки закончатся, SIM-карта будет заблокирована навсегда.}few{Неверный PUK-код. Осталось # попытки. После того как они закончатся, SIM-карта будет заблокирована навсегда.}many{Неверный PUK-код. Осталось # попыток. После того как они закончатся, SIM-карта будет заблокирована навсегда.}other{Неверный PUK-код. Осталось # попытки. После того как попытки закончатся, SIM-карта будет заблокирована навсегда.}}"</string>
     <string name="kg_password_wrong_puk_code_dead">SIM-карта заблокирована навсегда. Обратитесь к оператору связи.</string>
@@ -2643,7 +2643,7 @@ mm"</string>
     <string name="phone_locked_foget_password">Забыли пароль?</string>
     <string name="phone_locked_foget_password_mehod_back">Назад</string>
     <string name="phone_locked_foget_password_method">Забыли пароль?</string>
-    <string name="phone_locked_foget_password_method_content"><Data>Вам придется &lt;font color=#a5220e&gt;стереть все данные&lt;/font&gt; на вашем устройстве, включая фото и контакты, а затем задать новый пароль блокировки экрана.</Data></string>
+    <string name="phone_locked_foget_password_method_content"><Data>Вам придётся &lt;font color=#a5220e&gt;стереть все данные&lt;/font&gt; на устройстве, включая фото и контакты, затем задать новый пароль блокировки экрана.</Data></string>
     <string name="phone_locked_foget_password_method_next">Далее</string>
     <string name="phone_locked_foget_password_ok">Понятно</string>
     <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Выключите устройство, одновременно нажмите кнопки &lt;font color=#a5220e&gt;[Питание]&lt;/font&gt; и &lt;font color=#a5220e&gt;[Громкость+]&lt;/font&gt;, и удерживайте их, пока не увидите логотип Mi.</Data></string>
@@ -3504,9 +3504,9 @@ d MMMM"</string>
     <string name="structure_face_modules_abnormal_btn">Перезагрузить</string>
     <string name="structure_face_modules_abnormal_msg">Не удалось записать данные лица из-за ошибки оптического модуля. Перезагрузите устройство и повторите попытку.</string>
     <string name="structure_face_modules_abnormal_title">Ошибка оптического модуля</string>
-    <string name="structure_face_unlock_model2d_dialog_msg">3D распознавание будет отключено. 3D данные лица будут удалены. Вам также придется добавить 2D данные лица. Включить 2D распознавание?</string>
+    <string name="structure_face_unlock_model2d_dialog_msg">3D распознавание будет отключено. 3D данные лица будут удалены. Вам также придётся добавить 2D данные лица. Включить 2D распознавание?</string>
     <string name="structure_face_unlock_model2d_dialog_title">Включение 2D распознавания</string>
-    <string name="structure_face_unlock_model3d_dialog_msg">2D распознавание будет отключено. 2D данные лица будут удалены. Вам также придется добавить 3D данные лица. Включить 3D распознавание?</string>
+    <string name="structure_face_unlock_model3d_dialog_msg">2D распознавание будет отключено. 2D данные лица будут удалены. Вам также придётся добавить 3D данные лица. Включить 3D распознавание?</string>
     <string name="structure_face_unlock_model3d_dialog_title">Включение 3D распознавания</string>
     <string name="structure_face_unlock_model_dialog_enable">Включить</string>
     <string name="structure_face_unlock_model_dialog_notenable">Нет, спасибо</string>

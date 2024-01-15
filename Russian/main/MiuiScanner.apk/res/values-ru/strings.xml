@@ -626,7 +626,7 @@
     <string name="privacy_policy_update_message"><Data>Вы не сможете использовать Сканер, если не примите обновленную &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>. Принимаете?</Data></string>
     <string name="privacy_policy_update_welcome">Обновленная Политика конфиденциальности:</string>
     <string name="privacy_policy_withdrawal_error">Не удалось отозвать согласие. Попробуйте позже.</string>
-    <string name="privacy_policy_withdrawal_message"><Data>"Если Вы продолжите, согласие с Политикой конфиденциальности будет отозвано. Это будет рассматриваться как отказ от услуг Сканера. Вам придется принять &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> ещё раз, если Вы снова решите использовать Сканер. Отозвать согласие сейчас?"</Data></string>
+    <string name="privacy_policy_withdrawal_message"><Data>"Если Вы продолжите, согласие с Политикой конфиденциальности будет отозвано. Это будет рассматриваться как отказ от услуг Сканера. Вам придётся принять &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> ещё раз, если Вы снова решите использовать Сканер. Отозвать согласие сейчас?"</Data></string>
     <string name="processing">Обработка…</string>
     <string name="prompt">Внимание</string>
     <string name="qr_code_details">Информация о QR-коде:</string>

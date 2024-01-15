@@ -48,8 +48,8 @@
         <item quantity="one">Перемотка назад на %d сек.</item>
     </plurals>
     <plurals name="fcmpts_dialog_one">
-        <item quantity="other">Посмотрите еще %s сек. видео, чтобы заработать баллы и получить награду</item>
-        <item quantity="one">Посмотрите еще %s сек. видео, чтобы заработать баллы и получить награду</item>
+        <item quantity="other">Посмотрите ещё %s сек. видео, чтобы заработать баллы и получить награду</item>
+        <item quantity="one">Посмотрите ещё %s сек. видео, чтобы заработать баллы и получить награду</item>
     </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Переход на домашнюю страницу через %1$d секунд…</item>

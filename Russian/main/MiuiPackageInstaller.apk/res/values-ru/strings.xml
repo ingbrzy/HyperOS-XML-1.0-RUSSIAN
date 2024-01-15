@@ -978,8 +978,8 @@ ID: %s
     <string name="permission_name_access_coarse_location">Геолокация пониженной точности</string>
     <string name="permission_name_access_fine_location">Геолокация</string>
     <string name="permission_name_access_media_location">Геоданные медиафайлов</string>
-    <string name="permission_name_access_notifications">Доступ к уведомлениям</string>
-    <string name="permission_name_activity_recognition">Данные о состоянии здоровья и активности</string>
+    <string name="permission_name_access_notifications">Уведомления</string>
+    <string name="permission_name_activity_recognition">Данные о здоровье и активности</string>
     <string name="permission_name_body_sensors">Нательные датчики</string>
     <string name="permission_name_call_companion_app">Состояние вызова</string>
     <string name="permission_name_camera">Камера</string>

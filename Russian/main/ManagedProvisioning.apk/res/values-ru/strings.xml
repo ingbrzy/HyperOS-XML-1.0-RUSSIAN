@@ -47,7 +47,7 @@
     <string name="cancel_provisioning">Отмена</string>
     <string name="cancel_setup">Отмена</string>
     <string name="cancel_setup_and_factory_reset_dialog_cancel">Отмена</string>
-    <string name="cancel_setup_and_factory_reset_dialog_msg">Все параметры будут сброшены до заводских, и настройку придется начать заново.</string>
+    <string name="cancel_setup_and_factory_reset_dialog_msg">Все параметры будут сброшены до заводских, и настройку придётся начать заново.</string>
     <string name="cancel_setup_and_factory_reset_dialog_ok">Сбросить настройки устройства</string>
     <string name="cancel_setup_and_factory_reset_dialog_title">Отменить настройку?</string>
     <string name="cant_add_work_profile">Невозможно добавить рабочий профиль</string>

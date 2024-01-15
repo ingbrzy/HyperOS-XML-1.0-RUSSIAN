@@ -240,6 +240,8 @@
     <string name="guided_breathing">Тренировка дыхания</string>
     <string name="gymnastics">Гимнастика</string>
     <string name="handball">Гандбол</string>
+    <string name="health_connect_summary">Доступ к данным о здоровье</string>
+    <string name="health_permission_header_description">Приложения с этим разрешением могут читать и записывать данные о вашем здоровье и физической форме</string>
     <string name="heart_rate_long_value">{count,plural, =1{1 удар в минуту}one{# удар в минуту}few{# удара в минуту}many{# ударов в минуту}other{# удара в минуту}}</string>
     <string name="heart_rate_read_content_description">Чтение данных о пульсе</string>
     <string name="heart_rate_value">{count,plural, =1{1 уд/мин}one{# уд/мин}few{# уд/мин}many{# уд/мин}other{# уд/мин}}</string>
@@ -373,11 +375,11 @@
     <string name="navigation_previous_day">Предыдущий день</string>
     <string name="niacin">Ниацин</string>
     <string name="no_apps_allowed">Не разрешен ни одному приложению</string>
-    <string name="no_apps_denied">Не запрещен ни одному приложению</string>
+    <string name="no_apps_denied">Не запрещён ни одному приложению</string>
     <string name="no_categories">В приложении \"Здоровье и спорт\" нет данных.</string>
     <string name="no_data">Нет данных</string>
     <string name="no_results">Ничего не найдено</string>
-    <string name="not_connected_apps_section_title">Доступ запрещен</string>
+    <string name="not_connected_apps_section_title">Доступ запрещён</string>
     <string name="not_set">Не задано</string>
     <string name="nutrient_with_value">%1$s: %2$s</string>
     <string name="nutrition_read_content_description">Чтение данных о питании</string>

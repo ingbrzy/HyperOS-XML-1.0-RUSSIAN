@@ -545,7 +545,7 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
-    <string name="sure_give_up_test">Если вы прервете тест, вам придется его начать сначала. Прервать?</string>
+    <string name="sure_give_up_test">Если вы прервете тест, вам придётся его начать сначала. Прервать?</string>
     <string name="sure_to_back">Отменить изменения?</string>
     <string name="switch_audio_device_bt">Bluetooth</string>
     <string name="switch_audio_device_phone">Это устройство</string>

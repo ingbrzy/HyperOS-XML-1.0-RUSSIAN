@@ -203,12 +203,12 @@
     </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">Введите PIN-код. Осталось %d попыток.</item>
-        <item quantity="one">Введите PIN-код. Осталась %d попытка. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
+        <item quantity="one">Введите PIN-код. Осталась %d попытка. После этого SIM-карта будет заблокирована и вам придётся обратиться к оператору связи.</item>
         <item quantity="few">Введите PIN-код. Осталось %d попытки.</item>
     </plurals>
     <plurals name="kg_password_default_pin_message_multi_sim">
         <item quantity="other">Введите PIN-код SIM%1$d. Осталось %2$d попыток.</item>
-        <item quantity="one">Введите PIN-код SIM%1$d. Осталась %2$d попытка. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
+        <item quantity="one">Введите PIN-код SIM%1$d. Осталась %2$d попытка. После этого SIM-карта будет заблокирована и вам придётся обратиться к оператору связи.</item>
         <item quantity="few">Введите PIN-код SIM%1$d. Осталось %2$d попытки.</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
@@ -218,12 +218,12 @@
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">Неверный PIN-код. Осталось %d попыток.</item>
-        <item quantity="one">Неверный PIN-код. Осталась %d попытка. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
+        <item quantity="one">Неверный PIN-код. Осталась %d попытка. После этого SIM-карта будет заблокирована и вам придётся обратиться к оператору связи.</item>
         <item quantity="few">Неверный PIN-код. Осталось %d попытки.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code_multi_sim">
         <item quantity="other">Неверный PIN-код SIM%1$d. Осталось %2$d попыток.</item>
-        <item quantity="one">Неверный PIN-код SIM%1$d. Осталась %2$d попытка. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
+        <item quantity="one">Неверный PIN-код SIM%1$d. Осталась %2$d попытка. После этого SIM-карта будет заблокирована и вам придётся обратиться к оператору связи.</item>
         <item quantity="few">Неверный PIN-код SIM%1$d. Осталось %2$d попытки.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">

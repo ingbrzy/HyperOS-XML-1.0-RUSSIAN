@@ -378,7 +378,7 @@
     <string name="browser_wallpaper_currently_in_use">Выбрано</string>
     <string name="browser_wallpaper_gallery">Мои фото</string>
     <string name="browser_wallpaper_landscape">Пейзажи</string>
-    <string name="browser_wallpaper_more_btn">Показать еще</string>
+    <string name="browser_wallpaper_more_btn">Показать ещё</string>
     <string name="browser_wallpaper_my">Мои обои</string>
     <string name="browser_wallpaper_preview">Просмотр</string>
     <string name="browser_wallpaper_sub">Получать рекомендации по выбору праздничных и специальных обоев</string>
@@ -469,7 +469,7 @@
     <string name="clear_input_history_confirm_bt_text">Подтвердить</string>
     <string name="clear_most_visited">Недавняя история</string>
     <string name="clear_result_page_more_content">Обзор</string>
-    <string name="clear_result_page_show_more">Показать еще</string>
+    <string name="clear_result_page_show_more">Показать ещё</string>
     <string name="clear_search_history">Очистить историю</string>
     <string name="clear_text_end_icon_content_description">Очистить текстовое поле</string>
     <string name="clear_transfer_summary">Снимите флажки настроек системы, так вы сможете повторно передать</string>
@@ -1027,7 +1027,7 @@ ID:%s
     <string name="exo_track_unknown">Неизвестный трек</string>
     <string name="expand_article">Посмотреть полностью</string>
     <string name="expand_button_title">Дополнительно</string>
-    <string name="expand_more">Показать еще</string>
+    <string name="expand_more">Показать ещё</string>
     <string name="experience_improve">Программа улучшения качества</string>
     <string name="exported">Экспортировать</string>
     <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
@@ -2504,7 +2504,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="quicklinks_most_visited">Добавить на главную</string>
     <string name="quicklinks_most_visited_subtitle">Показывать недавно посещенные сайты в новой вкладке</string>
     <string name="quicklinks_most_visited_title">Добавить на главную</string>
-    <string name="reading__business_recommend_at_end_more">Показать еще</string>
+    <string name="reading__business_recommend_at_end_more">Показать ещё</string>
     <string name="reading__business_recommend_at_end_other_docs">Дальнейшее чтение</string>
     <string name="reading__business_recommend_at_end_title">Рекомендуемый контент</string>
     <string name="reading__cancel">Отмена</string>
@@ -2959,7 +2959,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="suggest_open_app_failed">Ошибка открытия приложения</string>
     <string name="suggestion_clear_item_message">Удалить эту запись?</string>
     <string name="suggestion_clear_record_message">Очистить историю ввода?</string>
-    <string name="suggestion_express_button_query_more">ЕЩЕ</string>
+    <string name="suggestion_express_button_query_more">ЕЩЁ</string>
     <string name="suggestion_express_button_text_query">ПРОВЕРИТЬ</string>
     <string name="suggestion_express_exception_net">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="suggestion_express_exception_number">Некорректный номер. Проверьте номер и повторите попытку.</string>
@@ -2973,11 +2973,11 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="suggestion_lottery_detail_price">КАЖДАЯ ЗАПИСЬ СТОИТ %s ЮАНЕЙ</string>
     <string name="suggestion_lottery_detail_text">ЭТО ОКОЛО %s</string>
     <string name="suggestion_lottery_period">ОКОЛО %s</string>
-    <string name="suggestion_more_news">ЕЩЕ НОВОСТИ</string>
+    <string name="suggestion_more_news">ЕЩЁ НОВОСТИ</string>
     <string name="suggestion_more_news_start_title_text">Новости по теме</string>
-    <string name="suggestion_sliding_item_more_text">ПОСМОТРЕТЬ ЕЩЕ</string>
+    <string name="suggestion_sliding_item_more_text">ПОСМОТРЕТЬ ЕЩЁ</string>
     <string name="suggestion_topic_subtitle_hyphen">ФОКУС</string>
-    <string name="suggestion_translation_more">ПОСМОТРЕТЬ ЕЩЕ</string>
+    <string name="suggestion_translation_more">ПОСМОТРЕТЬ ЕЩЁ</string>
     <string name="summary_channel_layout">Принудительное расположение в шахматном порядке</string>
     <string name="summary_command_mode">Включите, чтобы войти в командный режим</string>
     <string name="summary_detail_page">Изменить стиль страницы</string>
@@ -3102,7 +3102,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="title_recent">Недавние</string>
     <string name="title_select_volume">Выберите папку</string>
     <string name="title_use_sandbox_domain">Использовать домен песочницы</string>
-    <string name="toast_exit_branch">Нажмите еще раз, чтобы выйти</string>
+    <string name="toast_exit_branch">Нажмите ещё раз, чтобы выйти</string>
     <string name="toast_exit_browser">Нажмите ещё раз для выхода</string>
     <string name="toast_feedback">Вы увидите меньше содержимого такого рода.</string>
     <string name="toast_not_support">Эта функция пока не поддерживается</string>
