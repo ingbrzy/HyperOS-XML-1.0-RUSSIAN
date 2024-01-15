@@ -213,6 +213,7 @@
     <string name="chromecast_playing">Воспроизведение видео с помощью Chromecast</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
+    <string name="click_to_open_ad">Нажмите для просмотра</string>
     <string name="click_to_open_pip">Нажмите для переключения в режим \"Картинка в картинке\"</string>
     <string name="click_to_play_video_push_context">Нажмите для воспроизведения</string>
     <string name="click_to_reload_more">Нажмите для загрузки</string>
@@ -953,6 +954,8 @@ ID: %s
     <string name="local_subtitle_searching_text">Поиск…</string>
     <string name="local_tip_act_for_android_u">Изменить</string>
     <string name="local_tip_info_for_android_u">Вы разрешили Mi Видео отображать только некоторые видео.</string>
+    <string name="local_tip_info_for_no_audio">Не удается получить доступ к аудио, сохраненному на устройстве. Сначала предоставьте необходимые разрешения.</string>
+    <string name="local_tip_info_for_no_video">Не удается получить доступ к видео, сохраненному на устройстве. Сначала предоставьте необходимые разрешения.</string>
     <string name="local_video_create_a_new_playlist">Создать плейлист</string>
     <string name="local_video_date">Дата</string>
     <string name="local_video_dialog_default">По умолчанию</string>
@@ -1753,6 +1756,7 @@ ID: %s
     <string name="popup_pip_not_activated">Разрешите Mi Видео использовать функцию \"Картинка в картинке\"</string>
     <string name="popup_recommend_text">Откройте для себя новые видео</string>
     <string name="popup_window_home_tip">Загрузка онлайн-видео</string>
+    <string name="popup_window_small_tag_tip">Нажмите на метку, чтобы просмотреть все видео в этой категории.</string>
     <string name="pre_ad">·РЕКЛАМА</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_agree_subtitle">Согласие с Политикой конфиденциальности Mi Видео позволит использовать все его функции</string>
@@ -1879,6 +1883,8 @@ ID: %s
     <string name="settings_inline_auto_play_wify">Автовоспроизведение только по Wi-Fi</string>
     <string name="settings_inline_title">Автовоспроизведение на начальной странице</string>
     <string name="settings_manager_hidden_folder">Управление скрытыми видео</string>
+    <string name="shake_or_click_to_open_ad">Встряхните или нажмите для просмотра</string>
+    <string name="shake_to_open_ad">Встряхните для просмотра</string>
     <string name="share">Поделиться</string>
     <string name="share_fail">Произошла ошибка. Проверьте настройки сети и повторите попытку.</string>
     <string name="share_success">Отправлено</string>
@@ -1897,7 +1903,9 @@ ID: %s
     <string name="sign_in_title">Войдите в свой Xiaomi аккаунт</string>
     <string name="skip_ad">Пропустить</string>
     <string name="slid_fail_message">Не удалось сохранить видео</string>
+    <string name="slide_or_click_to_open_ad">Проведите или нажмите для просмотра</string>
     <string name="slide_save_message">Создание видео…</string>
+    <string name="slide_to_open_ad">Проведите для просмотра</string>
     <string name="small_video_cancel_button">Отмена</string>
     <string name="small_video_download_button">Загрузить</string>
     <string name="small_video_load_more_hint">Проведите вверх, чтобы увидеть больше видео</string>
@@ -2170,7 +2178,6 @@ ID: %s
     <string name="tt_negtiveBtnBtnText">Покинуть</string>
     <string name="tt_negtive_txt">Отмена</string>
     <string name="tt_no_thank_you">Нет, спасибо</string>
-    <string name="tt_parse_fail">Parsing error</string>
     <string name="tt_postiveBtnText">Продолжить</string>
     <string name="tt_postiveBtnTextPlayable">Продолжить просмотр</string>
     <string name="tt_postive_txt">ОК</string>
@@ -2178,7 +2185,9 @@ ID: %s
     <string name="tt_reward_full_skip">Пропустить через %1$s сек.</string>
     <string name="tt_reward_msg">Посмотрите видео целиком, чтобы получить награду</string>
     <string name="tt_reward_video_show_error">Ошибка отображения видео с наградой</string>
+    <string name="tt_skip_ad_time_text">Можно пропустить через s %d сек.</string>
     <string name="tt_splash_skip_tv">3 сек. | Пропустить</string>
+    <string name="tt_sys_error">Системная ошибка</string>
     <string name="tt_try_now">Попробуй</string>
     <string name="tt_txt_skip">Пропустить</string>
     <string name="tt_video_retry_des">Ошибка загрузки. Нажмите, чтобы попробовать снова</string>

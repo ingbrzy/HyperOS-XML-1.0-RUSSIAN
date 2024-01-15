@@ -367,6 +367,7 @@
     <string name="browser_default_setting_confirm">ОК</string>
     <string name="browser_default_setting_content">Быстрый и безопасный просмотр веб-страниц</string>
     <string name="browser_default_setting_title">Установить браузером по умолчанию</string>
+    <string name="browser_got_it">Понятно</string>
     <string name="browser_slide_video_history">Недавние</string>
     <string name="browser_slide_video_like">Понравилось</string>
     <string name="browser_slide_video_my">Профиль</string>
@@ -1999,6 +2000,9 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="notification_download_failed">Ошибка загрузки.</string>
     <string name="notification_wechat_expired_empty">Эти видео были удалены из WeChat.</string>
     <string name="notifications">Уведомления</string>
+    <string name="notifications_permission_confirm">Разрешить</string>
+    <string name="notifications_permission_decline">Запретить</string>
+    <string name="notifications_permission_title">Разрешить приложению отправлять уведомления?</string>
     <string name="notify_rencet_play">Недавние</string>
     <string name="novel_continue_read_popup">Читать</string>
     <string name="novel_tab_popup">Смотрите новейшие книги здесь</string>
@@ -3403,6 +3407,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_ad_clear_dialog_msg">Удалить рекламные метки с \"%s\"?</string>
     <string name="web_ad_clear_dialog_title">Удалить рекламные метки</string>
     <string name="web_app_center">Мини-программы</string>
+    <string name="web_app_center_history">Недавние</string>
+    <string name="web_app_center_try">Попробовать</string>
     <string name="web_enhance_dialog_cancel">Отмена</string>
     <string name="web_enhance_dialog_confirm">ОК</string>
     <string name="web_enhance_dialog_msg">Начать блокировать рекламу на %s?</string>
@@ -3480,6 +3486,9 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_setting_page_title">Параметры веб-сайтов</string>
     <string name="web_permission_setting_page_web_enhance_desc">Отключите, чтобы остановить блокировку рекламы на этом веб-сайте</string>
     <string name="web_permission_setting_page_web_enhance_sub_title">Блокировка рекламы</string>
+    <string name="web_preload_hint_dialog_btn_good">Чувствуется разница</string>
+    <string name="web_preload_hint_dialog_btn_nothing">Ничего не изменилось</string>
+    <string name="web_preload_hint_toast">Скорость загрузки возросла на %s</string>
     <string name="web_tag_desc">Показывать миниатюры посещенных ранее страниц.</string>
     <string name="web_tag_tips">Нажмите здеь, чтобы посетить страницу</string>
     <string name="web_tag_title">Миниатюры веб-страниц</string>
