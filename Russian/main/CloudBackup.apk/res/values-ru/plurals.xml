@@ -49,6 +49,16 @@
         <item quantity="one">%1$s копия (%2$s)</item>
         <item quantity="few">%1$s копии (%2$s)</item>
     </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d дней с момента последнего бэкапа | Новые данные: %2$s</item>
+        <item quantity="one">%1$d день с момента последнего бэкапа | Новые данные: %2$s</item>
+        <item quantity="few">%1$d дня с момента последнего бэкапа | Новые данные: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d дней с момента последнего бэкапа</item>
+        <item quantity="one">%d день с момента последнего бэкапа</item>
+        <item quantity="few">%d дня с момента последнего бэкапа</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
     </plurals>
