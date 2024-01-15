@@ -36,16 +36,12 @@
     <string name="accessibility_ai_scene_on">AI камера включена</string>
     <string name="accessibility_ai_watermark_panel_on">AI панель водяных знаков</string>
     <string name="accessibility_ambilight_panel_on">Открыть панель длительной выдержки</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_aperture_adjust">Aperture</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_aperture_default">Automatic aperture adjustment</string>
+    <string name="accessibility_aperture_adjust">Диафрагма</string>
+    <string name="accessibility_aperture_default">Авторегулировка диафрагмы</string>
     <string name="accessibility_aperture_panel_on">Открыть панель диафрагмы</string>
     <string name="accessibility_audio_shutter_bg">Аудио фон затвора</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_auto_macro_off">Auto close focus is off</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_auto_macro_on">Auto close focus is on</string>
+    <string name="accessibility_auto_macro_off">Автофокусировка на близком расстоянии отключена</string>
+    <string name="accessibility_auto_macro_on">Автофокусировка на близком расстоянии dключена</string>
     <string name="accessibility_auto_night_tip_off">Автоматический ночной режим отключён</string>
     <string name="accessibility_auto_night_tip_on">Автоматический ночной режим включён</string>
     <string name="accessibility_back_preview_status">Предпросмотр основной камеры</string>
@@ -115,26 +111,19 @@
     <string name="accessibility_filter_open_panel">Включить фильтры</string>
     <string name="accessibility_filter_pad_close">Меню фильтров скрыто</string>
     <string name="accessibility_flash_auto">Режим автовспышки включён</string>
-    <string name="accessibility_flash_back_soft_light">Мягкая вспышка включена</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_flash_fillin_auto">Fill light is on auto</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_flash_fillin_off">Fill light is off</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_flash_fillin_on">Fill light is on</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_flash_fillin_touch">Fill light is on in flashlight mode</string>
+    <string name="accessibility_flash_back_soft_light">Вспышка работает в режиме мягкого света</string>
+    <string name="accessibility_flash_fillin_auto">Заполняющий свет в режиме авто</string>
+    <string name="accessibility_flash_fillin_off">Заполняющий свет отключён</string>
+    <string name="accessibility_flash_fillin_on">Заполняющий свет включён</string>
+    <string name="accessibility_flash_fillin_touch">Заполняющий свет в режиме фонарика</string>
     <string name="accessibility_flash_off">Вспышка отключена</string>
     <string name="accessibility_flash_on">Вспышка включена</string>
     <string name="accessibility_flash_on_but_not_adjust_ambient">Не удалось настроить вспышку</string>
     <string name="accessibility_flash_screen_halo">Кольцевая лампа включена</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_flash_soft_light_off">Soft flash is off</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_flash_soft_light_touch">Soft flash is on in flashlight mode</string>
-    <string name="accessibility_flash_torch">Вспышка включена, режим фонарика</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_focal_lens">%s mm equivalent focal length</string>
+    <string name="accessibility_flash_soft_light_off">Мягкая вспышка отключена</string>
+    <string name="accessibility_flash_soft_light_touch">Мягкая вспышка включена в режиме фонарика</string>
+    <string name="accessibility_flash_torch">Вспышка включена (режим фонарика)</string>
+    <string name="accessibility_focal_lens">Эквивалентное фокусное расстояние %s мм</string>
     <string name="accessibility_focus_face_pos_bottom">Расположено у нижнего края кадра</string>
     <string name="accessibility_focus_face_pos_left">Расположено у левого края кадра</string>
     <string name="accessibility_focus_face_pos_left_bottom">Расположено в левом нижнем углу кадра</string>
@@ -184,6 +173,8 @@
     <string name="accessibility_mode">Режим доступности</string>
     <string name="accessibility_mode_dismiss_button">Отключить кнопку выбора режима</string>
     <string name="accessibility_module_picker_finish">Переключение на %s</string>
+    <string name="accessibility_moiton_detection_off">Обнаружение движения отключено</string>
+    <string name="accessibility_moiton_detection_on">Обнаружение движения включено</string>
     <string name="accessibility_more">Ещё</string>
     <string name="accessibility_multi_cam_reselect_button">Выберите камеры снова</string>
     <string name="accessibility_near_range_tip_off">Крупный план отключён</string>
@@ -194,8 +185,7 @@
     <string name="accessibility_peak">Пик фокуса</string>
     <string name="accessibility_picturesize_1_1_button">Соотношение сторон один к одному</string>
     <string name="accessibility_picturesize_3_4_button">Соотношение сторон три к четырем</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_picturesize_8_9_button">Eight by nine aspect ratio</string>
+    <string name="accessibility_picturesize_8_9_button">Соотношение сторон восемь к девяти</string>
     <string name="accessibility_picturesize_9_16_button">Соотношение сторон девять к шестнадцати</string>
     <string name="accessibility_picturesize_fullscreen_button">Полноэкранное соотношение сторон</string>
     <string name="accessibility_portrait_button">Портрет</string>
@@ -401,17 +391,12 @@
     <string name="ambilight_tips_for_longtime_using_tripod">При длительной выдержке используйте штатив</string>
     <string name="ambilight_tips_for_suggest_using_tripod">Используйте штатив</string>
     <string name="ambilight_tips_for_using_tripod">Используйте штатив</string>
-<!-- ### FROM SOURCE -->
-    <string name="aperture_adjust_title">Aperture</string>
+    <string name="aperture_adjust_title">Диафрагма</string>
     <string name="aperture_auto_title">АВТО</string>
-<!-- ### FROM SOURCE -->
-    <string name="aperture_dark_use_small_aperture_tip">Try f/%s aperture in low light conditions</string>
-<!-- ### FROM SOURCE -->
-    <string name="aperture_invalid_zoomratio_tip">"Can't adjust aperture with the current zoom ratio"</string>
-<!-- ### FROM SOURCE -->
-    <string name="aperture_near_range_tip">"Can't adjust aperture when taking photos close up"</string>
-<!-- ### FROM SOURCE -->
-    <string name="aperture_no_wide_camera_tip">Aperture can only be adjusted for the main camera</string>
+    <string name="aperture_dark_use_small_aperture_tip">Попробуйте диафрагму f/%s в условиях низкой освещенности</string>
+    <string name="aperture_invalid_zoomratio_tip">Невозможно настроить диафрагму с текущим коэффициентом масштабирования</string>
+    <string name="aperture_near_range_tip">Невозможно настроить диафрагму при съемке крупным планом</string>
+    <string name="aperture_no_wide_camera_tip">Диафрагму можно настроить только для основной камеры</string>
     <string name="app_name">Менеджер эффектов</string>
     <string name="audio_focus_exit_button_text">Отключить Аудио фокус</string>
     <string name="audio_map_summary_tip">Контролируйте громкость левого и правого каналов в режиме реального времени и регулируйте с помощью ползунка</string>
@@ -458,20 +443,15 @@
     <string name="beauty_lens_none">Размытие</string>
     <string name="beauty_lens_use_hint">Используйте широкую диафрагму для размытия фона и выделения объектов на переднем плане</string>
     <string name="beauty_makeups_bluefemale">Иней</string>
-<!-- ### FROM SOURCE -->
-    <string name="beauty_makeups_bms">Ballet</string>
+    <string name="beauty_makeups_bms">Балет</string>
     <string name="beauty_makeups_danyan">Нагота</string>
     <string name="beauty_makeups_gentleman">Серебро</string>
-<!-- ### FROM SOURCE -->
-    <string name="beauty_makeups_lts">Grace</string>
-<!-- ### FROM SOURCE -->
-    <string name="beauty_makeups_mll">Porcelain</string>
-<!-- ### FROM SOURCE -->
-    <string name="beauty_makeups_myq">Beige</string>
+    <string name="beauty_makeups_lts">Грация</string>
+    <string name="beauty_makeups_mll">Фарфор</string>
+    <string name="beauty_makeups_myq">Бежевый</string>
     <string name="beauty_makeups_nude">Телесный</string>
     <string name="beauty_makeups_pinkfemale">Лепесток</string>
-<!-- ### FROM SOURCE -->
-    <string name="beauty_makeups_qcy">Celadon</string>
+    <string name="beauty_makeups_qcy">Морской</string>
     <string name="beauty_makeups_qianjin">Рыжий</string>
     <string name="beauty_makeups_ruanmei">Подросток</string>
     <string name="beauty_makeups_solid">Контур</string>
@@ -479,29 +459,20 @@
     <string name="beauty_makeups_subeffect_makeup">Макияж</string>
     <string name="beauty_makeups_toughman">Бронза</string>
     <string name="beauty_makeups_xiazhi">Тени для век</string>
-<!-- ### FROM SOURCE -->
-    <string name="beauty_makeups_xqc">Fresco</string>
+    <string name="beauty_makeups_xqc">Фреска</string>
     <string name="beauty_makeups_yanku">Ледяная королева</string>
     <string name="beauty_makeups_yuanqi">Свежесть</string>
     <string name="beauty_mo_fe">Натуральный</string>
-<!-- ### FROM SOURCE -->
-    <string name="beauty_mo_fe_mm">Film</string>
+    <string name="beauty_mo_fe_mm">Фильм</string>
     <string name="beauty_mo_ma">Классический</string>
-<!-- ### FROM SOURCE -->
-    <string name="beauty_mo_ma_mm">Fresh</string>
+    <string name="beauty_mo_ma_mm">Свежий</string>
     <string name="beauty_mo_or">Исходный</string>
     <string name="beauty_mo_pr">Текстуры</string>
     <string name="beauty_mo_pr_cv">Текстуры</string>
-<!-- ### FROM SOURCE -->
-    <string name="beauty_mode_confirm_text">Select</string>
-<!-- ### FROM SOURCE -->
-    <string name="beauty_mode_display_title">beauty_mode_display_title</string>
-<!-- ### FROM SOURCE -->
-    <string name="beauty_mode_hint_title">Select portrait style</string>
-<!-- ### FROM SOURCE -->
-    <string name="beauty_mode_item_title1">Fresh</string>
-<!-- ### FROM SOURCE -->
-    <string name="beauty_mode_item_title2">Film</string>
+    <string name="beauty_mode_confirm_text">Выбрать</string>
+    <string name="beauty_mode_hint_title">Выберите портретный стиль</string>
+    <string name="beauty_mode_item_title1">Свежий</string>
+    <string name="beauty_mode_item_title2">Фильм</string>
     <string name="beauty_mode_reset_toast">Эффекты макияжа удалены</string>
     <string name="beauty_mutex_toast_tip">&lt;a href=>Отключите&lt;/a> эффекты макияжа</string>
     <string name="beauty_ne">Оригинал</string>
@@ -621,7 +592,7 @@
     <string name="clone_guide_copy_title2">Стоп-кадр из видео</string>
     <string name="clone_guide_tip1">Клонирование работает только с людьми.</string>
     <string name="clone_guide_tip3">Избегайте движущихся объектов и монотонных фонов.</string>
-    <string name="clone_guide_tip4">Держите устройство неподвижно и убедитесь, что ваш объект достаточно освещен.</string>
+    <string name="clone_guide_tip4">Держите устройство неподвижно и убедитесь, что ваш объект достаточно освещён.</string>
     <string name="clone_guide_tip5">Экспериментируйте с позами.</string>
     <string name="clone_guide_tip6">Заставьте клонов драться.</string>
     <string name="clone_guide_tip7">Поймайте взаимодействие.</string>
@@ -731,8 +702,7 @@
     <string name="config_name_beauty_mode">Портретный стиль</string>
     <string name="config_name_delay_capture">Таймер</string>
     <string name="config_name_flash">Вспышка</string>
-<!-- ### FROM SOURCE -->
-    <string name="config_name_front_flash">Fill light</string>
+    <string name="config_name_front_flash">Заполняющий свет</string>
     <string name="config_name_group">Групповое фото</string>
     <string name="config_name_hht">Ночной режим</string>
     <string name="config_name_magic">Магия</string>
@@ -767,37 +737,25 @@
     <string name="confirm_reset_manually_parameter_message">Сбросить все параметры до значений по умолчанию?</string>
     <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
     <string name="confirm_restore_title">Сброс настроек</string>
-<!-- ### FROM SOURCE -->
-    <string name="confirm_truecolor_setting_message">"Dolby Vision doesn't support Motion tracking focus and 720P/8K resolution. Turn on anyway?"</string>
-<!-- ### FROM SOURCE -->
-    <string name="connect_view_btn_start">Start</string>
-<!-- ### FROM SOURCE -->
-    <string name="connect_view_btn_stop">Stop</string>
-<!-- ### FROM SOURCE -->
-    <string name="connect_view_name_camera">Camera</string>
-<!-- ### FROM SOURCE -->
-    <string name="connect_view_name_monitor">Monitor</string>
-<!-- ### FROM SOURCE -->
-    <string name="connect_view_remote_control">Controls</string>
+    <string name="confirm_truecolor_setting_message">Dolby Vision не поддерживает фокусировку с отслеживанием движения и разрешение 720P/8K. Всё равно включить?</string>
+    <string name="connect_view_btn_start">Начать</string>
+    <string name="connect_view_btn_stop">Остановить</string>
+    <string name="connect_view_name_camera">Камера</string>
+    <string name="connect_view_name_monitor">Монитор</string>
+    <string name="connect_view_remote_control">Управление</string>
 <!-- ### FROM SOURCE -->
     <string name="connect_view_sub_title">Multicam setup uses more bandwidth to reduce latency. We recommend connecting to %s GHz Wi-Fi networks that support the sixth generation standard.</string>
-<!-- ### FROM SOURCE -->
-    <string name="connect_view_sub_title_camera">Connected monitors</string>
-<!-- ### FROM SOURCE -->
-    <string name="connect_view_sub_title_monitor">Connected cameras</string>
+    <string name="connect_view_sub_title_camera">Подключённые мониторы</string>
+    <string name="connect_view_sub_title_monitor">Подключённые камеры</string>
 <!-- ### FROM SOURCE -->
     <string name="connect_view_sub_title_new">"Multicam setup uses more bandwidth to reduce latency.
 We recommend connecting to %s GHz Wi-Fi networks that support the sixth generation standard."</string>
 <!-- ### FROM SOURCE -->
     <string name="connect_view_title">Multicam setup</string>
-<!-- ### FROM SOURCE -->
-    <string name="connect_view_toast_start_error_camera">"Couldn't launch camera. Try again."</string>
-<!-- ### FROM SOURCE -->
-    <string name="connect_view_toast_start_error_monitor">"Couldn't launch monitor. Try again."</string>
-<!-- ### FROM SOURCE -->
-    <string name="connect_view_toast_start_success_camera">Camera is on</string>
-<!-- ### FROM SOURCE -->
-    <string name="connect_view_toast_start_success_monitor">Monitor is on</string>
+    <string name="connect_view_toast_start_error_camera">Не удалось запустить камеру. Попробуйте ещё раз.</string>
+    <string name="connect_view_toast_start_error_monitor">Не удалось включить монитор. Попробуйте ещё раз.</string>
+    <string name="connect_view_toast_start_success_camera">Камера включена</string>
+    <string name="connect_view_toast_start_success_monitor">Монитор включён</string>
     <string name="copy">Копировать</string>
     <string name="cosmetic_mirror_instructions_hint">"Посмотрите в камеру и дважды коснитесь экрана, чтобы увеличить масштаб и выровнять лицо по центру
 (только одного человека в кадре)"</string>
@@ -854,8 +812,7 @@ We recommend connecting to %s GHz Wi-Fi networks that support the sixth generati
     <string name="cv_lens_rotary_focus">Закрученное боке</string>
     <string name="cv_lens_soft_focus">Мягкий фокус</string>
     <string name="cv_lens_title">Pro-объективы</string>
-<!-- ### FROM SOURCE -->
-    <string name="cv_type_switch_diabled_tip_content">%s works only with Leica Vibrant</string>
+    <string name="cv_type_switch_diabled_tip_content">%s работает только с \"Яркая Leica\"</string>
     <string name="cvtype_btn_select">Использовать \"%1$s\"</string>
     <string name="cvtype_hint_title">Выберите стиль</string>
     <string name="cvtype_item_btn_title1">Настоящая Leica</string>
@@ -881,12 +838,9 @@ We recommend connecting to %s GHz Wi-Fi networks that support the sixth generati
     <string name="dialog_button_reject">Отклонить</string>
     <string name="dialog_button_scan">Поиск устройств</string>
     <string name="dialog_google_lens_option_0">Google Объектив (рекомендуется)</string>
-<!-- ### FROM SOURCE -->
-    <string name="dialog_location_guide_message">To be able to add location info to your photos and videos, allow Camera to access your location first.</string>
-<!-- ### FROM SOURCE -->
-    <string name="dialog_location_guide_positive">Allow</string>
-<!-- ### FROM SOURCE -->
-    <string name="dialog_location_guide_title">Location access required</string>
+    <string name="dialog_location_guide_message">Для добавления информацию о местоположении в фото и видео, разрешите приложению Камера использовать геолокацию</string>
+    <string name="dialog_location_guide_positive">Разрешить</string>
+    <string name="dialog_location_guide_title">Использование геолокации</string>
     <string name="dialog_ok">ОК</string>
     <string name="dialog_ok_time">ОК (%d сек.)</string>
     <string name="dialog_privacy_watermark_button_cancel">Отмена</string>
@@ -1049,8 +1003,6 @@ We recommend connecting to %s GHz Wi-Fi networks that support the sixth generati
     <string name="exo_track_surround_7_point_1">Система объемного звука 7.1</string>
     <string name="exo_track_unknown">Неизвестный трек</string>
     <string name="expand_button_title">Дополнительно</string>
-<!-- ### FROM SOURCE -->
-    <string name="exposure_mode_adjust_title">ExposureMode</string>
     <string name="extend_time_watermark_2_logo_text">СУПЕРЛУНА</string>
     <string name="eye_light">Блеск глаз</string>
     <string name="eye_light_angel">Ангел</string>
@@ -1190,12 +1142,10 @@ If you're using a hotspot to connect, set its AP band to %s GHz in Settings > Co
     <string name="function_friend_mode">Assist cam</string>
     <string name="guide_pop_window_msg_cv_lens">Нажмите, чтобы попробовать Pro-объективы</string>
     <string name="guide_pop_window_msg_mimoji">Нажмите, чтобы использовать аватары</string>
-<!-- ### FROM SOURCE -->
-    <string name="guide_pop_window_msg_softlight">Tap to adjust soft flash</string>
+    <string name="guide_pop_window_msg_softlight">Нажмите, чтобы настроить мягкую вспышку</string>
     <string name="hand_gesture_open_tip">Для активации таймера съёмки поднимите руку</string>
     <string name="hand_gesture_tip">Cъёмка жестом</string>
-<!-- ### FROM SOURCE -->
-    <string name="hdr10plus_mutex_func_alert">"This feature doesn't work with HDR10+"</string>
+    <string name="hdr10plus_mutex_func_alert">Эта функция не работает с HDR10+</string>
     <string name="hdr_tip">HDR</string>
     <string name="heif_mutex_pixel_hdr_alert">Формат HEIF не поддерживается в режиме Ультра HD</string>
     <string name="hibernate_hint">Коснитесь экрана для запуска камеры</string>
@@ -1355,8 +1305,7 @@ If you're using a hotspot to connect, set its AP band to %s GHz in Settings > Co
     <string name="makeup_effect_entry_vitality">Энергия</string>
     <string name="makeup_reset_toast">Эффекты макияжа успешно удалены</string>
     <string name="manual_picture_style">Стиль</string>
-<!-- ### FROM SOURCE -->
-    <string name="manual_picture_style_desc_custom">Customized photographic style</string>
+    <string name="manual_picture_style_desc_custom">Индивидуальный фотостиль</string>
     <string name="manual_picture_style_desc_new">Параметры</string>
     <string name="manual_picture_style_new">Стиль</string>
     <string name="manually_raw_hint">RAW</string>
@@ -1559,10 +1508,8 @@ If you're using a hotspot to connect, set its AP band to %s GHz in Settings > Co
     <string name="module_name_professional">Профи</string>
     <string name="module_name_scanner">Сканер</string>
     <string name="module_name_square">Квадрат</string>
-<!-- ### FROM SOURCE -->
-    <string name="module_name_street">Fastshot</string>
-<!-- ### FROM SOURCE -->
-    <string name="module_name_street_hint">Change focus distance here</string>
+    <string name="module_name_street">Быстрый снимок</string>
+    <string name="module_name_street_hint">Измените фокусное расстояние здесь</string>
     <string name="module_name_super_moon">Суперлуна</string>
     <string name="module_name_video">Видео</string>
     <string name="module_name_vlog">ВЛОГ</string>
@@ -1619,7 +1566,7 @@ If you're using a hotspot to connect, set its AP band to %s GHz in Settings > Co
     <string name="more_mode_style_tab">Вкладка \"Ещё\"</string>
     <string name="morning">Утро</string>
     <string name="msg_bubble_doc4_first_use">Нажмите для распознавания текста</string>
-    <string name="msg_toast_doc4_recognition_failed">Произошла ошибка. Попробуйте еще раз.</string>
+    <string name="msg_toast_doc4_recognition_failed">Произошла ошибка. Попробуйте ещё раз.</string>
     <string name="msg_toast_doc4_text_not_found">Текст не найден</string>
     <string name="multi_window_mode_not_supported">Камера не может работать в многооконном режиме</string>
     <string name="music_hint_tt">Поставщик услуг</string>
@@ -1713,7 +1660,7 @@ If you're using a hotspot to connect, set its AP band to %s GHz in Settings > Co
     <string name="parameter_peak_raw_title">RAW формат</string>
     <string name="parameter_peak_raw_title_mm">Формат изображения</string>
     <string name="parameter_peak_ultra_raw_description_mm">"Файлы RAW содержат несжатые данные и предлагают больше возможностей для редактирования.
-Для Ultra RAW используется %d-бит, которые сохраняют еще больше деталей."</string>
+Для Ultra RAW используется %d-бит, которые сохраняют ещё больше деталей."</string>
     <string name="parameter_videos_title">Эффекты</string>
     <string name="parameter_waveform_title">WAVE</string>
     <string name="parameter_wb_description">Помимо предустановок баланса белого (лампа накаливания, дневной свет, флуоресцентный, облачный), можно также установить для баланса белого свое значение в диапазоне %1$d-%2$d Кельвин.</string>
@@ -1910,8 +1857,7 @@ If you're using a hotspot to connect, set its AP band to %s GHz in Settings > Co
     <string name="pref_camera_flashmode_entry_off">Откл.</string>
     <string name="pref_camera_flashmode_entry_on">Вкл.</string>
     <string name="pref_camera_flashmode_entry_screen_halo">Кольцевая лампа</string>
-<!-- ### FROM SOURCE -->
-    <string name="pref_camera_flashmode_entry_softlight">Soft flash</string>
+    <string name="pref_camera_flashmode_entry_softlight">Мягкая вспышка</string>
     <string name="pref_camera_flashmode_entry_torch">Фонарик</string>
     <string name="pref_camera_flashmode_title">Вспышка</string>
     <string name="pref_camera_focus_shoot_summary">Коснитесь экрана для фокусировки, затем ещё раз, чтобы сделать снимок</string>
@@ -2436,13 +2382,11 @@ If you're using a hotspot to connect, set its AP band to %s GHz in Settings > Co
     <string name="settings_camera_near_range_description">Устранение размытия при съёмке плоских объектов на близком расстоянии</string>
 <!-- ### FROM SOURCE -->
     <string name="settings_camera_near_range_fallback_description">Switch to ultra wide angle lens automatically to avoid bokeh effect when shooting flat objects up close</string>
-<!-- ### FROM SOURCE -->
-    <string name="settings_camera_near_range_fallback_title">Adaptive macro</string>
+    <string name="settings_camera_near_range_fallback_title">Адаптивный макрообъектив</string>
     <string name="settings_camera_near_range_title">Крупный план</string>
 <!-- ### FROM SOURCE -->
     <string name="settings_camera_tele_fallback_description">Switch automatically between main and telephoto lenses based on distance and brightness</string>
-<!-- ### FROM SOURCE -->
-    <string name="settings_camera_tele_fallback_title">Adaptive telephoto</string>
+    <string name="settings_camera_tele_fallback_title">Адаптивный телеобъектив</string>
     <string name="share">Отправить</string>
     <string name="shine_hair_puffy">Волосы</string>
     <string name="simple_mode_button_asd_flash">Отключить вспышку</string>
@@ -2474,20 +2418,13 @@ If you're using a hotspot to connect, set its AP band to %s GHz in Settings > Co
     <string name="slow_shutter_title4">Съёмка неподвижного объекта</string>
     <string name="snap_cancel">Отмена</string>
     <string name="snap_confirmed">Заменить</string>
-<!-- ### FROM SOURCE -->
-    <string name="softlight_fragment_lighting_mode_brightness">Brightness</string>
-<!-- ### FROM SOURCE -->
-    <string name="softlight_fragment_lighting_mode_candle">Candle</string>
-<!-- ### FROM SOURCE -->
-    <string name="softlight_fragment_lighting_mode_color_temp">Temperature</string>
-<!-- ### FROM SOURCE -->
-    <string name="softlight_fragment_tab_name">Soft flash</string>
-<!-- ### FROM SOURCE -->
-    <string name="softlight_fragment_tab_name_brightness">Brightness</string>
-<!-- ### FROM SOURCE -->
-    <string name="softlight_fragment_tab_name_color_temp">Temperature</string>
-<!-- ### FROM SOURCE -->
-    <string name="softlight_fragment_tab_name_lighting_mode">Loop</string>
+    <string name="softlight_fragment_lighting_mode_brightness">Яркость</string>
+    <string name="softlight_fragment_lighting_mode_candle">Свеча</string>
+    <string name="softlight_fragment_lighting_mode_color_temp">Температура</string>
+    <string name="softlight_fragment_tab_name">Мягкая вспышка</string>
+    <string name="softlight_fragment_tab_name_brightness">Яркость</string>
+    <string name="softlight_fragment_tab_name_color_temp">Температура</string>
+    <string name="softlight_fragment_tab_name_lighting_mode">Петля</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>
@@ -2515,14 +2452,12 @@ If you're using a hotspot to connect, set its AP band to %s GHz in Settings > Co
     <string name="sorftlight_style_candle">Свеча</string>
     <string name="sorftlight_style_cold">Холодный</string>
     <string name="sorftlight_style_cold_alert">Офис</string>
-<!-- ### FROM SOURCE -->
-    <string name="sorftlight_style_cole_white">Cool</string>
+    <string name="sorftlight_style_cole_white">Холодный белый</string>
     <string name="sorftlight_style_nature">Натуральный</string>
     <string name="sorftlight_style_nature_alert">Улица</string>
     <string name="sorftlight_style_warm">Теплый</string>
     <string name="sorftlight_style_warm_alert">Ресторан</string>
-<!-- ### FROM SOURCE -->
-    <string name="sorftlight_style_warm_white">Warm</string>
+    <string name="sorftlight_style_warm_white">Тёплый белый</string>
     <string name="spaceIsLow_content_external_storage_priority">SD-карта заполнена</string>
     <string name="spaceIsLow_content_primary_storage_priority">Хранилище заполнено</string>
     <string name="spaceIsLow_content_timerburst_infinity_storage_priority">Закончилось место в хранилище. Съёмка остановлена.</string>
@@ -2662,34 +2597,26 @@ If you're using a hotspot to connect, set its AP band to %s GHz in Settings > Co
     <string name="tip_ai_audio_off">Аудиозум: Откл.</string>
     <string name="tip_ai_audio_single_off">Фронтальный звук: Откл.</string>
     <string name="tip_ai_off">AI камера: Откл.</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_beauty_mode_title1">Portrait style: Fresh</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_beauty_mode_title2">Portrait style: Film</string>
+    <string name="tip_beauty_mode_title1">Портретный стиль: Свежий</string>
+    <string name="tip_beauty_mode_title2">Портретный стиль: Фильм</string>
     <string name="tip_cvtype_title1">Стиль: Настоящая Leica</string>
     <string name="tip_cvtype_title2">Стиль: Яркая Leica</string>
     <string name="tip_eis_off">EIS: Откл.</string>
     <string name="tip_eis_pro_off">EIS PRO: Откл.</string>
     <string name="tip_flash_auto">Вспышка: Авто</string>
     <string name="tip_flash_back_soft_light">Кольцевая лампа: Вкл.</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_flash_fillin_auto">Fill light: Auto</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_flash_fillin_off">Fill light: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_flash_fillin_on">Fill light: On</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_flash_fillin_torch">Fill light: Flashlight mode</string>
+    <string name="tip_flash_fillin_auto">Заполняющий свет: Авто</string>
+    <string name="tip_flash_fillin_off">Заполняющий свет: Откл.</string>
+    <string name="tip_flash_fillin_on">Заполняющий свет: Вкл.</string>
+    <string name="tip_flash_fillin_torch">Заполняющий свет: Режим фонарика</string>
     <string name="tip_flash_off">Вспышка: Откл.</string>
     <string name="tip_flash_on">Вспышка: Вкл.</string>
     <string name="tip_flash_on_but_not_adjust_ambient">Кольцевая лампа: Вкл.</string>
     <string name="tip_flash_screen_halo_auto">Кольцевая лампа: Авто</string>
     <string name="tip_flash_screen_light_auto">Мягкая вспышка: Авто</string>
     <string name="tip_flash_screen_light_on">Мягкая вспышка: Вкл.</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_flash_soft_light_off">Soft flash: Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_flash_soft_light_torch">Soft flash: Flashlight mode</string>
+    <string name="tip_flash_soft_light_off">Мягкая вспышка: Откл.</string>
+    <string name="tip_flash_soft_light_torch">Мягкая вспышка: Режим фонарика</string>
     <string name="tip_flash_torch">Вспышка: Всегда вкл.</string>
 <!-- ### FROM SOURCE -->
     <string name="tip_friend_mode_connect_when_24GHz">Use a %s GHz connection to boost preview quality</string>
@@ -2748,31 +2675,20 @@ If you're using a hotspot to connect, set its AP band to %s GHz in Settings > Co
     <string name="tomorrow">Завтра</string>
     <string name="too_low_battery">Батарея разряжена</string>
     <string name="top_menu_hint_text">Проведите вниз, чтобы открыть меню</string>
-<!-- ### FROM SOURCE -->
-    <string name="track_focus_mutex_truecolor_setting_tips">"Motion tracking focus isn't supported for Dolby Vision/8K/60FPS videos"</string>
+    <string name="track_focus_mutex_truecolor_setting_tips">Фокусировка с отслеживанием движения не поддерживается для видео Dolby Vision/8K/60FPS</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
-<!-- ### FROM SOURCE -->
-    <string name="tv_picturestyle_color">Hue</string>
-<!-- ### FROM SOURCE -->
-    <string name="tv_picturestyle_color_temperature">Warmth</string>
-<!-- ### FROM SOURCE -->
-    <string name="tv_picturestyle_color_tune">Tint</string>
-<!-- ### FROM SOURCE -->
-    <string name="tv_picturestyle_custom_color">Tonality</string>
-<!-- ### FROM SOURCE -->
-    <string name="tv_picturestyle_custom_color_temperature">Cold/Warm</string>
-<!-- ### FROM SOURCE -->
-    <string name="tv_picturestyle_custom_color_tune">Cyan/Magenta</string>
-<!-- ### FROM SOURCE -->
-    <string name="tv_picturestyle_custom_texture">Texture</string>
-<!-- ### FROM SOURCE -->
-    <string name="tv_picturestyle_custom_tone">Tone</string>
-<!-- ### FROM SOURCE -->
-    <string name="tv_picturestyle_texture">Details</string>
-<!-- ### FROM SOURCE -->
-    <string name="tv_picturestyle_tone">Tone</string>
+    <string name="tv_picturestyle_color">Цвет</string>
+    <string name="tv_picturestyle_color_temperature">Температура</string>
+    <string name="tv_picturestyle_color_tune">Оттенок</string>
+    <string name="tv_picturestyle_custom_color">Тональность</string>
+    <string name="tv_picturestyle_custom_color_temperature">Холодный/Тёплый</string>
+    <string name="tv_picturestyle_custom_color_tune">Голубой/Пурпурный</string>
+    <string name="tv_picturestyle_custom_texture">Текстура</string>
+    <string name="tv_picturestyle_custom_tone">Тон</string>
+    <string name="tv_picturestyle_texture">Детализация</string>
+    <string name="tv_picturestyle_tone">Тон</string>
     <string name="ubi_focus_capture_fail">Не удалось сфотографировать</string>
     <string name="ubifocus_capture_warning_message">Для достижения наилучших результатов ваша фотография должна содержать объекты как вблизи (менее 1 метра от объектива), так и вдали</string>
     <string name="ultra_ai_pixel_photography_close_tip">AI %s Ультра HD отключён</string>
@@ -2850,30 +2766,24 @@ If you're using a hotspot to connect, set its AP band to %s GHz in Settings > Co
     <string name="video_effect_entry_blackwhite">Ч/Б</string>
     <string name="video_effect_entry_bygone">Ретро</string>
     <string name="video_effect_entry_central">Центр</string>
-<!-- ### FROM SOURCE -->
-    <string name="video_effect_entry_classical">Daguerreotype</string>
+    <string name="video_effect_entry_classical">Дагерротип</string>
     <string name="video_effect_entry_color_retention">Цветовой фокус</string>
     <string name="video_effect_entry_color_retention_describe">Этот портретный фильтр показывает людей в цвете, делая фон чёрно-белым.</string>
     <string name="video_effect_entry_fantasy">Фантазия</string>
-<!-- ### FROM SOURCE -->
-    <string name="video_effect_entry_filene">Bygone</string>
+    <string name="video_effect_entry_filene">Прошлое</string>
     <string name="video_effect_entry_film">Плёнка</string>
     <string name="video_effect_entry_forest">Лес</string>
-<!-- ### FROM SOURCE -->
-    <string name="video_effect_entry_green_night">Nocturne</string>
+    <string name="video_effect_entry_green_night">Ноктюрн</string>
     <string name="video_effect_entry_holiday">Отражения</string>
-<!-- ### FROM SOURCE -->
-    <string name="video_effect_entry_literature_art">Poetry</string>
+    <string name="video_effect_entry_literature_art">Поэзия</string>
     <string name="video_effect_entry_lost">Потеря</string>
     <string name="video_effect_entry_meet">Встреча</string>
     <string name="video_effect_entry_meet_describe">Мягкие цвета воссоздают ностальгический вид фильмов, снятых на плёнку.</string>
     <string name="video_effect_entry_northern_europe">Север</string>
     <string name="video_effect_entry_northern_europe_describe">Низкая насыщенность и контраст привносят немного скандинавского нуара в облачную среду с мягким освещением.</string>
-<!-- ### FROM SOURCE -->
-    <string name="video_effect_entry_orange_honey">Amber</string>
+    <string name="video_effect_entry_orange_honey">Янтарь</string>
     <string name="video_effect_entry_polaroid">Полароид</string>
-<!-- ### FROM SOURCE -->
-    <string name="video_effect_entry_romance">Charm</string>
+    <string name="video_effect_entry_romance">Шарм</string>
     <string name="video_effect_entry_rome">Рим</string>
     <string name="video_effect_entry_rome_describe">Теплый ретро-монохромный цвет подходит для большинства сцен.</string>
     <string name="video_effect_entry_summer_day">Лето</string>
@@ -2908,8 +2818,7 @@ If you're using a hotspot to connect, set its AP band to %s GHz in Settings > Co
     <string name="video_prompter_redo_description">Вернуть</string>
     <string name="video_prompter_shrink_description">Свернуть</string>
     <string name="video_prompter_undo_description">Отмена</string>
-<!-- ### FROM SOURCE -->
-    <string name="video_quality_track_focus_conflict_toast">"Motion tracking focus isn't supported for 8K/60FPS videos"</string>
+    <string name="video_quality_track_focus_conflict_toast">Фокусировка с отслеживанием движения не поддерживается для видео 8K/60FPS</string>
     <string name="video_reach_size_limit">Достигнут максимальный размер видео</string>
     <string name="video_shortcut_long">Видео</string>
     <string name="video_shortcut_short">Видео</string>
