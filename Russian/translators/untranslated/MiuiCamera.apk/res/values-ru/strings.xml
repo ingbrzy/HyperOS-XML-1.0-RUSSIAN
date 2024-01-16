@@ -494,12 +494,9 @@
     <string name="beauty_sm_texture_cv">Кожа</string>
     <string name="beauty_tab_name_live_beauty">Улучшение</string>
     <string name="beauty_tab_name_live_filter">Фильтры</string>
-<!-- ### FROM SOURCE -->
-    <string name="bluetooth_fromkeyguard_not_permission">Allow this app to access the connection status of Bluetooth earphones to be able to use this feature normally.</string>
-<!-- ### FROM SOURCE -->
-    <string name="bluetooth_headset_permission_des">"For determining the connection status of Bluetooth earphones and recording audio using the earphones' microphone"</string>
-<!-- ### FROM SOURCE -->
-    <string name="bluetooth_permission_not_ask_again">Allow this app to connect to nearby devices in Settings to be able to connect to Bluetooth earphones.</string>
+    <string name="bluetooth_fromkeyguard_not_permission">Разрешите этому приложению доступ к состоянию подключения Bluetooth наушников, чтобы иметь возможность использовать эту функцию в обычном режиме.</string>
+    <string name="bluetooth_headset_permission_des">"Для определения состояния подключения Bluetooth наушников и записи звука с помощью микрофона наушников».</string>
+    <string name="bluetooth_permission_not_ask_again">Разрешите этому приложению подключаться к устройствам поблизости в настройках, чтобы иметь возможность подключаться к Bluetooth наушникам.</string>
     <string name="bokeh_use_hint">Эффект глубины</string>
     <string name="burst_shoot_exit_button_text">Отключить серийную съёмку</string>
     <string name="button_fisheye_camera_title">Рыбий глаз</string>
@@ -548,20 +545,13 @@
     <string name="cine_image_modify_layout_content_description">Изменение макета</string>
     <string name="cinemaster_cancel">Отмена</string>
     <string name="cinemaster_confirm">Выход</string>
-<!-- ### FROM SOURCE -->
-    <string name="cinemaster_connect_exit_message">Exit multicam setup now?</string>
-<!-- ### FROM SOURCE -->
-    <string name="cinemaster_connection_prerequisites">Turn on Wi-Fi in Control center first.</string>
-<!-- ### FROM SOURCE -->
-    <string name="cinemaster_connection_prerequisites_china">Turn on Wi-Fi in Control center first.</string>
-<!-- ### FROM SOURCE -->
-    <string name="cinemaster_description_title">Director mode</string>
-<!-- ### FROM SOURCE -->
-    <string name="cinemaster_guide_content">"Connect phones and tablets to the same network to unite them into a single multicam setup. You'll be able to use connected devices as cameras and monitors and shoot one scene from multiple angles."</string>
-<!-- ### FROM SOURCE -->
-    <string name="cinemaster_guide_content2">"Connect phones and tablets to the same network to unite them into a single multicam setup. You'll be able to use connected devices as cameras and monitors and shoot one scene from multiple angles. If your network environment prevents monitor feeds from working seamlessly, the recording process will still remain stable."</string>
-<!-- ### FROM SOURCE -->
-    <string name="cinemaster_guide_title">Director mode</string>
+    <string name="cinemaster_connect_exit_message">Выйти из настройки мультикамеры сейчас?</string>
+    <string name="cinemaster_connection_prerequisites">Сначала включите Wi-Fi в Центре управления.</string>
+    <string name="cinemaster_connection_prerequisites_china">Сначала включите Wi-Fi в Центре управления.</string>
+    <string name="cinemaster_description_title">Режим режиссера</string>
+    <string name="cinemaster_guide_content">Подключите телефоны и планшеты к одной сети, чтобы объединить их в единую мультикамерную систему. Вы сможете использовать подключенные устройства в качестве камер и мониторов и снимать одну сцену с разных ракурсов.</string>
+    <string name="cinemaster_guide_content2">Подключите телефоны и планшеты к одной сети, чтобы объединить их в единую мультикамерную систему. Вы сможете использовать подключенные устройства в качестве камер и мониторов и снимать одну сцену с разных ракурсов. Если ваша сетевая среда препятствует бесперебойной работе каналов мониторинга, процесс записи все равно останется стабильным.</string>
+    <string name="cinemaster_guide_title">Режим режиссера</string>
 <!-- ### FROM SOURCE -->
     <string name="cinemaster_network_lost">Device disconnected. Try connecting again.</string>
 <!-- ### FROM SOURCE -->
