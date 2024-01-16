@@ -208,6 +208,10 @@
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">Синхронизация отлючена для %s объектов</item>
+        <item quantity="one">Синхронизация отлючена для %s объекта</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s сервисов будет синхронизировано с Xiaomi Cloud</item>
         <item quantity="one">%s сервис будет синхронизирован с Xiaomi Cloud</item>

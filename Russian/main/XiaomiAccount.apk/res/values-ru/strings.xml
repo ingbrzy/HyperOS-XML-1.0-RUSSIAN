@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about_device_info">Об устройстве</string>
-    <string name="about_mi_account">О Xiaomi аккаунте</string>
+    <string name="about_mi_account">Об аккаунте Xiaomi</string>
     <string name="accept">Разрешить</string>
     <string name="access_denied_info">Слишком много запросов. Повторите позже.</string>
     <string name="access_token_expired_warning">Срок действия аккаунта Weibo истёк</string>
@@ -41,7 +41,7 @@
     <string name="account_bind_secure_phone_title">Добавить номер телефона</string>
     <string name="account_bind_settings">Дополнительные аккаунты</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
-    <string name="account_empty_user_name">Введите имя пользователя Xiaomi аккаунта</string>
+    <string name="account_empty_user_name">Введите имя пользователя аккаунта Xiaomi</string>
     <string name="account_error_all_space_user_name">Имя не может состоять из одних пробелов</string>
     <string name="account_error_invalid_user_name">В имени не может быть символов &lt;, &gt;, /</string>
     <string name="account_error_longer_user_name">Имя не может содержать более 20 символов</string>
@@ -79,8 +79,8 @@ ID вашего аккаунта: %s"</string>
     <string name="account_user_education">Образование</string>
     <string name="account_user_email">Электронная почта</string>
     <string name="account_user_gender">Пол</string>
-    <string name="account_user_id">ID Xiaomi аккаунта</string>
-    <string name="account_user_id_show">Xiaomi аккаунт: %s</string>
+    <string name="account_user_id">ID аккаунта Xiaomi</string>
+    <string name="account_user_id_show">Аккаунт Xiaomi: %s</string>
     <string name="account_user_income">Доход</string>
     <string name="account_user_location">Местоположение</string>
     <string name="account_user_location_title">Выберите текущее местоположение</string>
@@ -108,7 +108,7 @@ ID вашего аккаунта: %s"</string>
     <string name="add_account">Подключить аккаунт</string>
     <string name="afternoon">После полудня</string>
     <string name="agreement_and_privacy">Условия и положения</string>
-    <string name="app_name">Xiaomi аккаунт</string>
+    <string name="app_name">Аккаунт Xiaomi</string>
     <string name="area_code_no_search_result">Ничего не найдено</string>
     <string name="area_code_search_hint">Поиск страны или региона</string>
     <string name="auth_fail_warning">Сессия устарела, войдите повторно</string>
@@ -117,15 +117,15 @@ ID вашего аккаунта: %s"</string>
     <string name="bind_facebook">Подключите аккаунт Facebook</string>
     <string name="bind_google">Подключите аккаунт Google</string>
     <string name="bind_qq">QQ</string>
-    <string name="bind_safe_phone_msg">Добавьте номер телефона, чтобы иметь возможность войти в Xiaomi аккаунт в следующий раз.</string>
+    <string name="bind_safe_phone_msg">Добавьте номер телефона, чтобы иметь возможность войти в аккаунт Xiaomi в следующий раз.</string>
     <string name="bind_settings">Дополнительные аккаунты</string>
     <string name="bind_sina_weibo">Подключите аккаунт Sina Weibo</string>
-    <string name="bind_sns_description">Войдите в Xiaomi аккаунт с помощью %s</string>
+    <string name="bind_sns_description">Войдите в аккаунт Xiaomi с помощью %s</string>
     <string name="bind_weibo_description">Добавьте друзей из Sina Weibo</string>
     <string name="bind_weixin">Подключите аккаунт WeChat</string>
     <string name="binded">Подключено</string>
-    <string name="binded_description" formatted="false">"%s подключен к вашему Xiaomi аккаунту.
-Вы можете войти в Xiaomi аккаунт используя %s."</string>
+    <string name="binded_description" formatted="false">"%s подключен к вашему аккаунту Xiaomi.
+Вы можете войти в аккаунт Xiaomi используя %s."</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="button_agree">Принимаю</string>
     <string name="button_close">Закрыть</string>
@@ -214,14 +214,14 @@ ID вашего аккаунта: %s"</string>
     <string name="confirm_bundled_phone_dialog_confirm">Подтверждаю</string>
     <string name="confirm_bundled_phone_dialog_confirm_timer">Подтверждаю (%d сек.)</string>
     <string name="confirm_bundled_phone_dialog_title">Подтвердите связанный номер телефона</string>
-    <string name="confirm_delete_app_message">После удаления этого приложения вам придётся подтвердить свой номер телефона при следующем входе в Xiaomi аккаунт из него.</string>
-    <string name="confirm_delete_browser_message">После удаления этого браузера вам придётся подтвердить свой номер телефона при следующем входе в Xiaomi аккаунт из него.</string>
-    <string name="confirm_delete_device_message">После удаления этого устройства вам придётся подтвердить свой номер телефона при следующем входе в Xiaomi аккаунт с него.</string>
+    <string name="confirm_delete_app_message">После удаления этого приложения вам придётся подтвердить свой номер телефона при следующем входе в аккаунт Xiaomi из него.</string>
+    <string name="confirm_delete_browser_message">После удаления этого браузера вам придётся подтвердить свой номер телефона при следующем входе в аккаунт Xiaomi из него.</string>
+    <string name="confirm_delete_device_message">После удаления этого устройства вам придётся подтвердить свой номер телефона при следующем входе в аккаунт Xiaomi с него.</string>
     <string name="confirm_new_pwd">Подтвердите новый пароль</string>
     <string name="confirm_phone_number_dialog_message">Код подтверждения будет выслан на %s.</string>
     <string name="confirm_phone_number_dialog_title">Подтвердите номер телефона</string>
     <string name="confirm_unbind">Отключить этот аккаунт?</string>
-    <string name="confirm_unbundled_phone_dialog_message">Номер телефона %1$s связан с Xiaomi аккаунтом %2$s. Если вы продолжите, он больше не будет связан с Xiaomi аккаунтом %3$s. Продолжить?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Номер телефона %1$s связан с аккаунтом Xiaomi %2$s. Если вы продолжите, он больше не будет связан с аккаунтом Xiaomi %3$s. Продолжить?</string>
     <string name="continue_action">Продолжить</string>
     <string name="copy">Копировать</string>
     <string name="copy_link">Копировать URL</string>
@@ -240,7 +240,7 @@ ID вашего аккаунта: %s"</string>
     <string name="delete_device">Удалить устройство</string>
     <string name="delete_device_btn">Удалить</string>
     <string name="delete_device_failed">Ошибка удаления устройства</string>
-    <string name="delete_device_notice">После удаления устройства Xiaomi аккаунт будет автоматически отвязан от него. Вы не сможете использовать это устройство для доступа к данным, которые хранятся в аккаунте.</string>
+    <string name="delete_device_notice">После удаления устройства аккаунт Xiaomi будет автоматически отвязан от него. Вы не сможете использовать это устройство для доступа к данным, которые хранятся в аккаунте.</string>
     <string name="delete_lock_device_success">Удаление завершено</string>
     <string name="deny">Отклонить</string>
     <string name="device_delete_success_message">Если вы не входили в аккаунт с этого устройства, смените пароль!</string>
@@ -276,7 +276,7 @@ ID:%s
     <string name="facebook">Facebook</string>
     <string name="facebook_login">Войти через аккаунт Facebook</string>
     <string name="facets_path">[{\"include\": \"https://account.xiaomi.com/.well-known/assetlinks.json\"}]</string>
-    <string name="failed_dup_secure_phone_number">Этот номер телефона связан с другим Xiaomi аккаунтом</string>
+    <string name="failed_dup_secure_phone_number">Этот номер телефона связан с другим аккаунтом Xiaomi</string>
     <string name="family_service">Семейные сервисы</string>
     <string name="family_service_not_open">Пригласить</string>
     <string name="family_share">Семейный доступ</string>
@@ -304,7 +304,7 @@ ID:%s
     <string name="find_device_bad_response_error">Ошибка сервера. Подождите немного и повторите попытку.</string>
     <string name="find_device_clear_data">Стереть все данные</string>
     <string name="find_device_close">Откл.</string>
-    <string name="find_device_error_password_not_confirmed">Не удалось отключить Поиск устройства. Повторите ввод пароля Xiaomi аккаунта.</string>
+    <string name="find_device_error_password_not_confirmed">Не удалось отключить Поиск устройства. Повторите ввод пароля аккаунта Xiaomi.</string>
     <string name="find_device_error_password_recently_changed">Вы меняли пароль в течение последних %d дней. Отключение Поиска устройства недоступно по соображениям безопасности.</string>
     <string name="find_device_interrupted">Действие было прервано. Подождите немного и повторите попытку.</string>
     <string name="find_device_io_error">Не удалось подключиться к сети</string>
@@ -359,7 +359,7 @@ ID:%s
     <string name="google_application_id" />
     <string name="google_login">Войти через аккаунт Google</string>
     <string name="goto_accept">ОК</string>
-    <string name="guest_account_label">Гостевой Xiaomi аккаунт</string>
+    <string name="guest_account_label">Гостевой аккаунт Xiaomi</string>
     <string name="has_no_new_version">Обновление не требуется</string>
     <string name="health_action_activate">Активировать</string>
     <string name="health_action_install">Установить</string>
@@ -383,7 +383,7 @@ ID:%s
     <string name="item_view_role_description">Вкладка</string>
     <string name="just_a_second">Подождите…</string>
     <string name="keep_phone_ticket_login">Войти с проверочным кодом</string>
-    <string name="kr_license_desc">Вы должны согласиться с нашим Пользовательским соглашением и Политикой конфиденциальности перед использованием Xiaomi аккаунта и сервисов Xiaomi Cloud.</string>
+    <string name="kr_license_desc">Вы должны согласиться с нашим Пользовательским соглашением и Политикой конфиденциальности перед использованием аккаунта Xiaomi и сервисов Xiaomi Cloud.</string>
     <string name="kr_permission_contacts_desc">Для доступа к списку контактов</string>
     <string name="kr_permission_desc">Предоставьте разрешения</string>
     <string name="kr_permission_phone_desc">Для защиты вашего аккаунта</string>
@@ -396,11 +396,11 @@ ID:%s
     <string name="login_3rd_app_with_system_account">Войти в %s</string>
     <string name="login_check_find_device">Получение данных безопасности…</string>
     <string name="login_check_find_device_failed_title">Не удалось проверить безопасность</string>
-    <string name="login_find_device_bind">Это устройство связано с существующим Xiaomi аккаунтом (%s).</string>
-    <string name="login_guard_prompt">Требовать подтверждение номера телефона при первом входе в Xiaomi аккаунт на неизвестном устройстве или из неизвестного приложения</string>
+    <string name="login_find_device_bind">Это устройство связано с существующим аккаунтом Xiaomi (%s).</string>
+    <string name="login_guard_prompt">Требовать подтверждение номера телефона при первом входе в аккаунт Xiaomi на неизвестном устройстве или из неизвестного приложения</string>
     <string name="login_notification_button_text">Вход</string>
     <string name="login_notification_desc">Облачные сервисы, семейное хранилище и другое</string>
-    <string name="login_notification_title">Вход в Xiaomi аккаунт</string>
+    <string name="login_notification_title">Вход в аккаунт Xiaomi</string>
     <string name="login_or_register_by_other_way">Другой метод</string>
     <string name="login_with_other">Ещё</string>
     <string name="logout_account">Выйти из аккаунта</string>
@@ -535,7 +535,7 @@ ID:%s
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
     <string name="mtrl_timepicker_confirm">ОК</string>
-    <string name="multi_user_not_show_sync_activity_message_1">Похоже, вы используете Xiaomi аккаунт из первого пространства.</string>
+    <string name="multi_user_not_show_sync_activity_message_1">Похоже, вы используете аккаунт Xiaomi из первого пространства.</string>
     <string name="multi_user_not_show_sync_activity_message_2">В этом случае все данные будут синхронизированы со вторым пространством. Чтобы избежать этого, не включайте синхронизацию с Xiaomi Cloud.</string>
     <string name="multi_user_not_show_sync_activity_title">Не включайте синхронизацию с Xiaomi Cloud</string>
     <string name="my_device_title">Текущее устройство</string>
@@ -561,16 +561,16 @@ ID:%s
     <string name="not_set">Не задано</string>
     <string name="notify_bind_security_phone">Добавьте номер телефона для восстановления</string>
     <string name="notify_complete_security_info">Добавьте информацию для восстановления</string>
-    <string name="notify_network_restricted_content_bg_network">Доступ Xiaomi аккаунта в интернет ограничен. Нажмите, чтобы разрешить.</string>
-    <string name="notify_network_restricted_content_hidden_state">Фоновая активность Xiaomi аккаунта ограничена. Нажмите, чтобы разрешить.</string>
-    <string name="notify_network_restricted_content_mobile_network">Доступ Xiaomi аккаунта в интернет ограничен. Нажмите, чтобы разрешить.</string>
+    <string name="notify_network_restricted_content_bg_network">Доступ аккаунта Xiaomi в интернет ограничен. Нажмите, чтобы разрешить.</string>
+    <string name="notify_network_restricted_content_hidden_state">Фоновая активность аккаунта Xiaomi ограничена. Нажмите, чтобы разрешить.</string>
+    <string name="notify_network_restricted_content_mobile_network">Доступ аккаунта Xiaomi в интернет ограничен. Нажмите, чтобы разрешить.</string>
     <string name="notify_network_restricted_title">Не удалось подключиться к сети</string>
     <string name="notify_verify_again_security_phone">Подтвердить</string>
     <string name="notify_verify_security_phone">Номер телефона</string>
     <string name="oauth_get_scopes_failed">Не удалось получить данные аккаунта</string>
     <string name="oauth_getting_scopes">Проверка аккаунта…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; получит следующие разрешения:&lt;br&gt; &lt;br&gt; %3$s</string>
-    <string name="oauth_title">Вход в Xiaomi аккаунт</string>
+    <string name="oauth_title">Вход в аккаунт Xiaomi</string>
     <string name="off">Откл.</string>
     <string name="ok">ОК</string>
     <string name="on">Вкл.</string>
@@ -594,10 +594,10 @@ ID:%s
     <string name="passport_account_error_longer_user_name">Имя не может быть длиннее %d символов</string>
     <string name="passport_account_error_shorter_user_name">Имя должно быть длиннее %d символов</string>
     <string name="passport_account_error_user_name">Неверное имя. Попробуйте другое.</string>
-    <string name="passport_account_hint_text">Email/Телефон/ID Xiaomi аккаунта</string>
+    <string name="passport_account_hint_text">Email/Телефон/ID аккаунта Xiaomi</string>
     <string name="passport_account_identity_title">Подтвердите вашу личность</string>
     <string name="passport_account_invalid_user_avatar">Неверный формат фото</string>
-    <string name="passport_account_label">Xiaomi аккаунт</string>
+    <string name="passport_account_label">Аккаунт Xiaomi</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
     <string name="passport_account_no_set">Не задано</string>
     <string name="passport_account_none_bind_info">Не задано</string>
@@ -616,7 +616,7 @@ ID:%s
     <string name="passport_account_user_details">Личная информация</string>
     <string name="passport_account_user_email">Адрес электронной почты для восстановления</string>
     <string name="passport_account_user_gender">Пол</string>
-    <string name="passport_account_user_id">ID Xiaomi аккаунта</string>
+    <string name="passport_account_user_id">ID аккаунта Xiaomi</string>
     <string name="passport_account_user_name">Псевдоним</string>
     <string name="passport_account_user_name_dialog_title">Введите имя</string>
     <string name="passport_account_user_phone">Номер телефона для восстановления</string>
@@ -647,7 +647,7 @@ ID:%s
     <string name="passport_completed">Готово</string>
     <string name="passport_confirm_login">Войти</string>
     <string name="passport_confirm_recycle_account">Да</string>
-    <string name="passport_confirm_recycle_account_msg">&lt;font color=Red&gt;Похоже,&lt;/font&gt; что номер %s был перевыпущен оператором, но с ним связан Xiaomi аккаунт. Это ваш аккаунт?</string>
+    <string name="passport_confirm_recycle_account_msg">&lt;font color=Red&gt;Похоже,&lt;/font&gt; что номер %s был перевыпущен оператором, но с ним связан аккаунт Xiaomi. Это ваш аккаунт?</string>
     <string name="passport_continue">Продолжить</string>
     <string name="passport_copy_link">Копировать URL</string>
     <string name="passport_copy_message_text_success">Текст скопирован</string>
@@ -666,7 +666,7 @@ ID:%s
     <string name="passport_doing_query_account">Проверка аккаунта…</string>
     <string name="passport_downlink_reg">Номер телефона</string>
     <string name="passport_email">Email</string>
-    <string name="passport_email_or_id_hint_text">Email/ID Xiaomi аккаунта</string>
+    <string name="passport_email_or_id_hint_text">Email/ID аккаунта Xiaomi</string>
     <string name="passport_email_reg_success_summary">%1$s привязан к вашему аккаунту. Вы можете использовать его для входа или для сброса пароля.</string>
     <string name="passport_error_auth_fail">Сессия устарела, войдите повторно</string>
     <string name="passport_error_device_id">Не удалось получить ID устройства</string>
@@ -706,7 +706,7 @@ ID:%s
     <string name="passport_error_user_password">Пароли не совпадают</string>
     <string name="passport_error_verify_activator_phone_message">Убедитесь, что SIM-карта активирована и устройство подключено к сети.</string>
     <string name="passport_error_verify_activator_phone_title">Не удалось проверить номер телефона</string>
-    <string name="passport_extra_gdpr_license">Регистрируясь в Xiaomi аккаунт, вы соглашаетесь с тем, что Xiaomi будет собирать, обрабатывать и использовать ваши личные данные, включая данные проверки (например, коды проверки), данные второго пространства (например, информацию об использовании второго пространства, идентификаторы, используемые в первом и втором пространствах) и другие данные, которые определяет наша Политика конфиденциальности. Обратитесь к нашей Политике конфиденциальности, чтобы узнать, как мы собираем и обрабатываем личные данные.</string>
+    <string name="passport_extra_gdpr_license">Регистрируясь в аккаунте Xiaomi, вы соглашаетесь с тем, что Xiaomi будет собирать, обрабатывать и использовать ваши личные данные, включая данные проверки (например, коды проверки), данные второго пространства (например, информацию об использовании второго пространства, идентификаторы, используемые в первом и втором пространствах) и другие данные, которые определяет наша Политика конфиденциальности. Обратитесь к нашей Политике конфиденциальности, чтобы узнать, как мы собираем и обрабатываем личные данные.</string>
     <string name="passport_facebook_login_btn_content_description">Войти с помощью Facebook</string>
     <string name="passport_failed_to_send_activate_email">Не удалось отправить письмо активации</string>
     <string name="passport_find_password_on_web_msg">Посетите account.xiaomi.com для сброса пароля</string>
@@ -726,12 +726,12 @@ ID:%s
     <string name="passport_google_login">Войти с помощью ранее использованного аккаунта Google?</string>
     <string name="passport_google_login_agree">Аккаунт Google</string>
     <string name="passport_google_login_btn_content_description">Войти с помощью Google</string>
-    <string name="passport_google_login_disagree">Xiaomi аккаунт</string>
-    <string name="passport_google_login_failed">Не удалось войти в систему с помощью аккаунта Google. Используйте для входа Xiaomi аккаунт.</string>
+    <string name="passport_google_login_disagree">Аккаунт Xiaomi</string>
+    <string name="passport_google_login_failed">Не удалось войти в систему с помощью аккаунта Google. Используйте для входа аккаунт Xiaomi.</string>
     <string name="passport_help">Помощь</string>
     <string name="passport_i_know">Понятно</string>
     <string name="passport_identification_expired">Код устарел, начните сначала</string>
-    <string name="passport_imei_permission_denied_message">Разрешите доступ к IMEI вашего устройства. Для обеспечения безопасности, Xiaomi аккаунт использует идентификацию с использованием IMEI устройства, на котором вы регистрируетесь.</string>
+    <string name="passport_imei_permission_denied_message">Разрешите доступ к IMEI вашего устройства. Для обеспечения безопасности, аккаунт Xiaomi использует идентификацию с использованием IMEI устройства, на котором вы регистрируетесь.</string>
     <string name="passport_imei_permission_denied_title">Доступ к IMEI</string>
     <string name="passport_input_captcha_hint">Введите код с картинки</string>
     <string name="passport_input_email_vcode_hint">Введите код</string>
@@ -744,7 +744,7 @@ ID:%s
     <string name="passport_input_verify_code">Введите проверочный код</string>
     <string name="passport_input_voice_captcha_hint">Введите голосовой защитный код</string>
     <string name="passport_input_voice_hint">Введите голосовой код</string>
-    <string name="passport_international_register_by_email">Создание Xiaomi аккаунта</string>
+    <string name="passport_international_register_by_email">Создание аккаунта Xiaomi</string>
     <string name="passport_license_host_unreachable">Не удалось подключиться к сети. Для просмотра информации посетите %s</string>
     <string name="passport_license_info_collapse">Свернуть</string>
     <string name="passport_license_info_open">Подробности</string>
@@ -759,11 +759,11 @@ ID:%s
     <string name="passport_login_other_account">Другой аккаунт</string>
     <string name="passport_login_other_phone">Другой аккаунт</string>
     <string name="passport_login_other_way">Другие способы входа</string>
-    <string name="passport_login_prompt">Один Xiaomi аккаунт. Все Xiaomi сервисы.</string>
+    <string name="passport_login_prompt">Один аккаунт Xiaomi. Все Xiaomi сервисы.</string>
     <string name="passport_login_recycle_account_no">Нет</string>
     <string name="passport_login_recycle_account_yes">Да</string>
     <string name="passport_login_register_by_local_phone_long_text">Создать аккаунт</string>
-    <string name="passport_login_title">Xiaomi аккаунт</string>
+    <string name="passport_login_title">Аккаунт Xiaomi</string>
     <string name="passport_login_using_other_ways">Другие способы входа</string>
     <string name="passport_login_with_sns">Другие способы входа</string>
     <string name="passport_logout_account">Выйти</string>
@@ -782,7 +782,7 @@ ID:%s
     <string name="passport_page_load_failed">Не удалось открыть страницу</string>
     <string name="passport_password_login_btn">Войти</string>
     <string name="passport_password_not_show">Не показывать пароль</string>
-    <string name="passport_password_phone_login">Вход в Xiaomi аккаунт</string>
+    <string name="passport_password_phone_login">Вход в аккаунт Xiaomi</string>
     <string name="passport_password_req_notice">Пароль должен содержать 8~16 символов, цифры и буквы с учётом регистра.</string>
     <string name="passport_password_show">Показать пароль</string>
     <string name="passport_phone_auto_login_register_with_local_number">Создать аккаунт</string>
@@ -807,15 +807,15 @@ ID:%s
     <string name="passport_quick_login_step2_title">Двухэтапная авторизация</string>
     <string name="passport_quick_login_title">Введите пароль</string>
     <string name="passport_quick_register">Регистрация</string>
-    <string name="passport_quick_register_notice"><u>Нет Xiaomi аккаунта? Создайте его.</u></string>
+    <string name="passport_quick_register_notice"><u>Нет аккаунта Xiaomi? Создайте его.</u></string>
     <string name="passport_re_get_verify_code">Получить код снова</string>
     <string name="passport_re_register">Зарегистрироваться снова</string>
-    <string name="passport_recycle_account_prompt">Это ваш Xiaomi аккаунт?</string>
+    <string name="passport_recycle_account_prompt">Это ваш аккаунт Xiaomi?</string>
     <string name="passport_recycle_login_other_account">Они не мои. Я буду использовать другой.</string>
     <string name="passport_reg_btn_using_other_phone">Использовать другой номер</string>
     <string name="passport_reg_failed">Ошибка регистрации</string>
     <string name="passport_reg_new_account">Создать аккаунт</string>
-    <string name="passport_reg_prompt">Нет Xiaomi аккаунта? Создайте его. Это бесплатно.</string>
+    <string name="passport_reg_prompt">Нет аккаунта Xiaomi? Создайте его. Это бесплатно.</string>
     <string name="passport_reg_recycle_account_no">Нет</string>
     <string name="passport_reg_recycle_account_yes">Да</string>
     <string name="passport_reg_success">Аккаунт создан</string>
@@ -829,7 +829,7 @@ ID:%s
     <string name="passport_register">Создать аккаунт</string>
     <string name="passport_register_account_goto_email">Перейти к почте</string>
     <string name="passport_register_account_verified_confirm">Аккаунт проверен</string>
-    <string name="passport_register_by_email"><u>Создание Xiaomi аккаунта</u></string>
+    <string name="passport_register_by_email"><u>Создание аккаунта Xiaomi</u></string>
     <string name="passport_register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="passport_register_by_local_phone_short_text">Создать</string>
     <string name="passport_register_restricted">С этим номером связано слишком много аккаунтов, выберите другой</string>
@@ -858,7 +858,7 @@ ID:%s
     <string name="passport_reset_password_title">Сброс пароля</string>
     <string name="passport_restart">Начать сначала</string>
     <string name="passport_restart_register_prompt">Возможно, потребуется отправить код подтверждения повторно.</string>
-    <string name="passport_restart_register_title">Создание Xiaomi аккаунта</string>
+    <string name="passport_restart_register_title">Создание аккаунта Xiaomi</string>
     <string name="passport_retry">Повторить</string>
     <string name="passport_select_reg_ways_title">Другие способы регистрации</string>
     <string name="passport_select_the_login_account">Выберите аккаунт для входа</string>
@@ -874,14 +874,14 @@ ID:%s
     <string name="passport_skip_login">Пропустить</string>
     <string name="passport_skip_query_account">Пропустить</string>
     <string name="passport_skip_register">Пропустить регистрацию</string>
-    <string name="passport_skip_setup_account_msg">Вход в Xiaomi аккаунт позволит использовать облачные сервисы Xiaomi. Всё равно пропустить этот шаг?</string>
-    <string name="passport_skip_setup_account_title">Xiaomi аккаунт и Xiaomi Cloud</string>
+    <string name="passport_skip_setup_account_msg">Вход в аккаунт Xiaomi позволит использовать облачные сервисы Xiaomi. Всё равно пропустить этот шаг?</string>
+    <string name="passport_skip_setup_account_title">Аккаунт Xiaomi и Xiaomi Cloud</string>
     <string name="passport_sms_send_success">Отправлено</string>
     <string name="passport_sms_verification_code_login">Вход через SMS</string>
     <string name="passport_sms_verification_code_login_or_register">Войти или создать аккаунт через SMS</string>
     <string name="passport_sns_bind_limit">Слишком много попыток. Попробуйте выбрать другой способ входа.</string>
     <string name="passport_sync_account_data">Синхронизация данных аккаунта…</string>
-    <string name="passport_sync_account_data_failed_warning">Данные вашего аккаунта синхронизируются, вы можете войти по ID Xiaomi аккаунта. Если вы хотите войти по номеру телефона или адресу Email, дождитесь окончания синхронизации.</string>
+    <string name="passport_sync_account_data_failed_warning">Данные вашего аккаунта синхронизируются, вы можете войти по ID аккаунта Xiaomi. Если вы хотите войти по номеру телефона или адресу Email, дождитесь окончания синхронизации.</string>
     <string name="passport_system_error">Система не отвечает. Подождите немного и повторите попытку.</string>
     <string name="passport_talkback_image_captcha">Защитный код с картинки</string>
     <string name="passport_talkback_switch_image_captcha">Переключиться на защитный код с картинки</string>
@@ -894,7 +894,7 @@ ID:%s
     <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM %1$d: %2$s</string>
     <string name="passport_ticket_login_select_sim_card_cancel">Отмена</string>
     <string name="passport_ticket_send_by_second">Отправить через %d</string>
-    <string name="passport_title_reg">Создание Xiaomi аккаунта</string>
+    <string name="passport_title_reg">Создание аккаунта Xiaomi</string>
     <string name="passport_to_forget_password">Забыли пароль?</string>
     <string name="passport_to_password_login">Войти с помощью пароля</string>
     <string name="passport_to_verify_code_login">Войти с помощью SMS</string>
@@ -930,7 +930,7 @@ ID:%s
     <string name="passport_user_avatar_update_title">Фото профиля</string>
     <string name="passport_user_avatar_uploading">Подождите…</string>
     <string name="passport_user_id_hint">Email/номер телефона/ID аккаунта Xiaomi</string>
-    <string name="passport_user_id_notice">ID вашего Xiaomi аккаунта %s.</string>
+    <string name="passport_user_id_notice">ID вашего аккаунта Xiaomi %s.</string>
     <string name="passport_user_name_phone_number">Номер телефона</string>
     <string name="passport_user_password_hint">Пароль</string>
     <string name="passport_user_reg_region">Страна/Регион</string>
@@ -976,19 +976,19 @@ ID:%s
     <string name="phone_ticket_register">Создать аккаунт, используя номер телефона</string>
     <string name="photoPickerNotFoundText">Нет доступных фото.</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
-    <string name="privacy_policy_reject_confirm_msg">"Вы не сможете использовать Xiaomi аккаунт, если не примите обновленную Политику конфиденциальности. Вы Согласны с правилами обновленного Xiaomi аккаунта &lt;a href=\"%1$s\">Политика конфиденциальности&lt;/a> сейчас?"</string>
-    <string name="privacy_policy_reject_confirm_title">Отказ от использования Xiaomi аккаунта</string>
-    <string name="privacy_policy_update_msg">Обновленная Политика конфиденциальности Xiaomi аккаунта:&lt;br/>%1$s&lt;br/>Прежде чем продолжить, прочтите и примите обновленную &lt;a href=\"%2$s\">&lt;u>Политику конфиденциальности&lt;/u>&lt;/a>.</string>
+    <string name="privacy_policy_reject_confirm_msg">"Вы не сможете использовать аккаунт Xiaomi, если не примите обновленную Политику конфиденциальности. Вы Согласны с правилами обновленного аккаунта Xiaomi &lt;a href=\"%1$s\">Политика конфиденциальности&lt;/a> сейчас?"</string>
+    <string name="privacy_policy_reject_confirm_title">Отказ от использования аккаунта Xiaomi</string>
+    <string name="privacy_policy_update_msg">Обновленная Политика конфиденциальности аккаунта Xiaomi:&lt;br/>%1$s&lt;br/>Прежде чем продолжить, прочтите и примите обновленную &lt;a href=\"%2$s\">&lt;u>Политику конфиденциальности&lt;/u>&lt;/a>.</string>
     <string name="privacy_policy_update_title">Обновленная Политика конфиденциальности</string>
     <string name="progressbar_title">Проверка безопасности…</string>
     <string name="provision_back">Назад</string>
     <string name="provision_next">Далее</string>
     <string name="provision_skip_underline">Пропустить</string>
     <string name="push_notification_content">Получить код</string>
-    <string name="push_notification_title">Вы вошли в Xiaomi аккаунт с неизвестного устройства</string>
-    <string name="push_notify_dialog_message">Выполнен вход в ваш Xiaomi аккаунт с неизвестного устройства. Введите код подтверждения на этом устройстве. Если это были не вы, немедленно смените пароль от вашего Xiaomi аккаунта. Не показывайте код подтверждения посторонним лицам.</string>
+    <string name="push_notification_title">Вы вошли в аккаунт Xiaomi с неизвестного устройства</string>
+    <string name="push_notify_dialog_message">Выполнен вход в ваш аккаунт Xiaomi с неизвестного устройства. Введите код подтверждения на этом устройстве. Если это были не вы, немедленно смените пароль от вашего аккаунта Xiaomi. Не показывайте код подтверждения посторонним лицам.</string>
     <string name="push_notify_dialog_title">Проверка аккаунта</string>
-    <string name="pwd_width_phone_number_or_mail_num">Пароль не может содержать ваш номер телефона, адрес электронной почты или идентификатор Xiaomi аккаунта</string>
+    <string name="pwd_width_phone_number_or_mail_num">Пароль не может содержать ваш номер телефона, адрес электронной почты или идентификатор аккаунта Xiaomi</string>
     <string name="qq">QQ</string>
     <string name="qq_application_id" />
     <string name="qrcode_login_entry_text"><Data>Выполнен вход с другого устройства? Используйте &lt;a href=>быстрый вход&lt;/a>.</Data></string>
@@ -1008,11 +1008,11 @@ ID:%s
     <string name="reopen">Включить</string>
     <string name="replace_binded_phone">Заменить телефон</string>
     <string name="request_open_permission">Предоставьте разрешения</string>
-    <string name="request_use_camera_message">Разрешить Xiaomi аккаунту доступ к камере?</string>
+    <string name="request_use_camera_message">Разрешить аккаунту Xiaomi доступ к камере?</string>
     <string name="request_use_camera_title">Доступ к камере</string>
-    <string name="request_use_gallery_message">Разрешить Xiaomi аккаунту доступ к галерее?</string>
+    <string name="request_use_gallery_message">Разрешить аккаунту Xiaomi доступ к галерее?</string>
     <string name="request_use_gallery_title">Доступ к галерее</string>
-    <string name="request_use_writing_clipboard_message">Для копирования идентификатора Xiaomi аккаунта, разрешите запись в буфер обмена</string>
+    <string name="request_use_writing_clipboard_message">Для копирования идентификатора аккаунта Xiaomi, разрешите запись в буфер обмена</string>
     <string name="resend_active_email">Повторить</string>
     <string name="resend_email_reach_limit_message">Запрошено слишком много писем для подтверждения. Убедитесь, что они не попали в папку для спама.</string>
     <string name="resend_email_reach_limit_title">Лимит попыток</string>
@@ -1021,28 +1021,28 @@ ID:%s
     <string name="restart_phone_bind_message">Получение SMS может занять некоторое время. Всё равно начать сначала?</string>
     <string name="restart_phone_bind_title">Изменение номера для восстановления</string>
     <string name="revoke_privacy_policy">Отзыв согласия</string>
-    <string name="revoke_privacy_policy_instructions">"Если вы продолжите, согласие с Политикой конфиденциальности Xiaomi аккаунта будет отозвано. Сбор вашей личной информации будет прекращён. Уже собранная и сохранённая личная информация будет удалена в течение определённого срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку Xiaomi Акаунт предоставляет сервисы на основе сбора некоторой личной информации, отзыв согласия будет считаться отказом от сервисов Xiaomi аккаунта. Отозвать согласие? "</string>
+    <string name="revoke_privacy_policy_instructions">"Если вы продолжите, согласие с Политикой конфиденциальности аккаунта Xiaomi будет отозвано. Сбор вашей личной информации будет прекращён. Уже собранная и сохранённая личная информация будет удалена в течение определённого срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку Xiaomi Акаунт предоставляет сервисы на основе сбора некоторой личной информации, отзыв согласия будет считаться отказом от сервисов аккаунта Xiaomi. Отозвать согласие? "</string>
     <string name="revoke_privacy_policy_title">Отзыв согласия</string>
     <string name="risky_pwd_not_allow">Новый пароль небезопасен. Установите другой.</string>
     <string name="same_new_and_old_pwd">Новый пароль должен отличаться от текущего</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
-    <string name="scan_barcode_title">Для входа в Xiaomi аккаунт отсканируйте QR-код</string>
+    <string name="scan_barcode_title">Для входа в аккаунт Xiaomi отсканируйте QR-код</string>
     <string name="search_account_security">Безопасность аккаунта</string>
     <string name="search_account_security_desc">Настройки аккаунта</string>
     <string name="search_account_security_key_words">Изменить телефон,Изменить Email,Защита аккаунта,Аккаунты,Sina Weibo,QQ,Авторизация,Устройства</string>
-    <string name="search_account_security_path">Настройки/Xiaomi аккаунт/Безопасность аккаунта</string>
-    <string name="search_app_name">Xiaomi аккаунт</string>
+    <string name="search_account_security_path">Настройки/Аккаунт Xiaomi/Безопасность аккаунта</string>
+    <string name="search_app_name">Аккаунт Xiaomi</string>
     <string name="search_menu_title">Поиск</string>
-    <string name="search_mi_account">Xiaomi аккаунт</string>
-    <string name="search_mi_account_desc">Xiaomi аккаунт</string>
+    <string name="search_mi_account">Аккаунт Xiaomi</string>
+    <string name="search_mi_account_desc">Аккаунт Xiaomi</string>
     <string name="search_mi_account_key_words">Xiaomi Cloud,Настройки аккаунта,Данные Mi Pay,Выйти</string>
-    <string name="search_mi_account_path">Настройки/Xiaomi аккаунт</string>
+    <string name="search_mi_account_path">Настройки/Аккаунт Xiaomi</string>
     <string name="search_user_detail">Личная информация</string>
     <string name="search_user_detail_bottom_key_words">Изменить доход,Изменить образование,Изменить местоположение,Изменить регион</string>
     <string name="search_user_detail_desc">Личная информация</string>
-    <string name="search_user_detail_path">Настройки/Xiaomi аккаунт/Личная информация</string>
+    <string name="search_user_detail_path">Настройки/Аккаунт Xiaomi/Личная информация</string>
     <string name="search_user_detail_top_key_words">Личные данные,Личная информация,Персональная информация,Персональные данные,Сменить аватар,Изменить фотографию профиля,Изменить аватар,Изменить фото профиля,Фото профиля,Аватар профиля,Изменить имя пользователя,Изменить ник,Изменить дату рождения,Дата рождения,Изменить пол</string>
     <string name="select_all">Выбрать все</string>
     <string name="select_location_title">Выберите местоположение</string>
@@ -1168,7 +1168,7 @@ ID:%s
     <string name="two_factor_auth_need_code">Введите код</string>
     <string name="two_factor_auth_need_code_summary">"Вы увидите код на других подключённых Xiaomi устройствах. Введите этот код на новом устройстве для входа."</string>
     <string name="two_factor_auth_summary">"При попытке войти в систему на новом устройстве или в новом месте, вы получите уведомление на других подключённых устройствах. Вам нужно будет подтвердить разрешение на вход."</string>
-    <string name="unbind_sns_description">После отключения вы не сможете использовать данные аккаунта %s для входа в Xiaomi аккаунт.</string>
+    <string name="unbind_sns_description">После отключения вы не сможете использовать данные аккаунта %s для входа в аккаунт Xiaomi.</string>
     <string name="unit_gb">" ГБ"</string>
     <string name="unit_mb">" МБ"</string>
     <string name="unknown_error_info">Неизвестная ошибка</string>
@@ -1190,34 +1190,34 @@ ID:%s
     <string name="user_agreement_device_permission_title">Доступ к информации об устройстве</string>
     <string name="user_agreement_must_permission_msg">Обязательные разрешения (для основных функций и сервисов приложения)</string>
     <string name="user_agreement_network_permission_msg">Для нормальной работы приложению необходимы подключение к интернету и следующие разрешения:</string>
-    <string name="user_agreement_permission_summary_msg">Xiaomi аккаунт позволяет получить доступ ко всем сервисам Xiaomi. Для нормальной работы приложению необходимы подключение к интернету и следующие разрешения:</string>
+    <string name="user_agreement_permission_summary_msg">Аккаунт Xiaomi позволяет получить доступ ко всем сервисам Xiaomi. Для нормальной работы приложению необходимы подключение к интернету и следующие разрешения:</string>
     <string name="user_agreement_read_phone_permission_desc">Для входа с использованием номера телефона</string>
     <string name="user_agreement_read_phone_permission_title">Чтение телефонных номеров</string>
-    <string name="user_agreement_use_account_msg">Xiaomi аккаунт позволяет получить доступ ко всем сервисам Xiaomi</string>
+    <string name="user_agreement_use_account_msg">Аккаунт Xiaomi позволяет получить доступ ко всем сервисам Xiaomi</string>
     <string name="user_agreement_wifi_permission_title">Включение и отключение Wi-Fi</string>
     <string name="user_agreement_wlan_permission_desc">Для проверки среды авторизации на наличие проблем с безопасностью</string>
     <string name="user_agreement_wlan_permission_title_china">Включение и отключение Wi-Fi</string>
     <string name="user_avatar_update_title">Изменение фото профиля</string>
     <string name="user_avatar_uploading">Подождите…</string>
-    <string name="user_instruction_all_purpose">Добро пожаловать в Xiaomi аккаунт! Вы можете использовать свой аккаунт для доступа к сервисам, предоставляемым Xiaomi и её аффилированными компаниями, таким как Mi.com, Xiaomi Cloud и GetApps. Вам будут доступны получение монет Mi Coins, покупка виртуальных товаров, включая игры, темы и электронные книги.</string>
+    <string name="user_instruction_all_purpose">Добро пожаловать в аккаунт Xiaomi! Вы можете использовать свой аккаунт для доступа к сервисам, предоставляемым Xiaomi и её аффилированными компаниями, таким как Mi.com, Xiaomi Cloud и GetApps. Вам будут доступны получение монет Mi Coins, покупка виртуальных товаров, включая игры, темы и электронные книги.</string>
     <string name="user_instruction_tip">Чтобы войти в систему, прочтите и примите условия и положения</string>
-    <string name="user_license_with_3rd_app"><Data>Используя вход в Xiaomi аккаунт, я подтверждаю, что принимаю&lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> приложения, а также &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта.</Data></string>
-    <string name="user_license_with_3rd_app_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%5$s\">Условия использования China Mobile Authentication&lt;/a>.
+    <string name="user_license_with_3rd_app"><Data>Входя в аккаунт Xiaomi, я принимаю&lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> приложения, а также &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> аккаунта Xiaomi.</Data></string>
+    <string name="user_license_with_3rd_app_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> аккаунта Xiaomi, а также &lt;a href=\"%5$s\">Условия использования China Mobile Authentication&lt;/a>.
 "</Data></string>
-    <string name="user_license_with_3rd_app_no_operator"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, а также &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта.
+    <string name="user_license_with_3rd_app_no_operator"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, а также &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> аккаунта Xiaomi.
 "</Data></string>
-    <string name="user_license_with_3rd_app_telcom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское Соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%5$s\">Условия использования China Telecom Authentication&lt;/a>.
+    <string name="user_license_with_3rd_app_telcom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское Соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> аккаунта Xiaomi, а также &lt;a href=\"%5$s\">Условия использования China Telecom Authentication&lt;/a>.
 "</Data></string>
-    <string name="user_license_with_3rd_app_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%5$s\">Условия использования China Unicom Authentication&lt;/a>.
+    <string name="user_license_with_3rd_app_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> аккаунта Xiaomi, а также &lt;a href=\"%5$s\">Условия использования China Unicom Authentication&lt;/a>.
 "</Data></string>
-    <string name="user_license_with_out_3rd_app_no_operator"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта.
+    <string name="user_license_with_out_3rd_app_no_operator"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> аккаунта Xiaomi.
 "</Data></string>
-    <string name="user_license_without_3rd_app"><Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта.</Data></string>
-    <string name="user_license_without_3rd_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%3$s>Условия использования China Mobile Authentication&lt;/a>.
+    <string name="user_license_without_3rd_app"><Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> аккаунта Xiaomi.</Data></string>
+    <string name="user_license_without_3rd_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> аккаунта Xiaomi, а также &lt;a href=\"%3$s>Условия использования China Mobile Authentication&lt;/a>.
 "</Data></string>
-    <string name="user_license_without_3rd_telcom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%3$s\">Условия использования China Telecom Authentication&lt;/a>.
+    <string name="user_license_without_3rd_telcom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> аккаунта Xiaomi, а также &lt;a href=\"%3$s\">Условия использования China Telecom Authentication&lt;/a>.
 "</Data></string>
-    <string name="user_license_without_3rd_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%3$s\">Условия использования China Unicom Authentication&lt;/a>.
+    <string name="user_license_without_3rd_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> аккаунта Xiaomi, а также &lt;a href=\"%3$s\">Условия использования China Unicom Authentication&lt;/a>.
 "</Data></string>
     <string name="v7_preference_off">Откл.</string>
     <string name="v7_preference_on">Вкл.</string>

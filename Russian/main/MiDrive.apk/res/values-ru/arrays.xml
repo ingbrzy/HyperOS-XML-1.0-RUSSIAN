@@ -86,11 +86,11 @@
         <item>Я</item>
     </string-array>
     <string-array name="privacy_dialog_runtime_permission_desc">
-        <item>Для входа с использованием Xiaomi аккаунта</item>
+        <item>Для входа с использованием аккаунта Xiaomi</item>
         <item>Для просмотра, загрузки и синхронизации файлов</item>
     </string-array>
     <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
-        <item>Для входа с использованием Xiaomi аккаунта</item>
+        <item>Для входа с использованием аккаунта Xiaomi</item>
         <item>Для просмотра, загрузки и синхронизации файлов</item>
         <item>Для проверки доступных обновлений</item>
     </string-array>

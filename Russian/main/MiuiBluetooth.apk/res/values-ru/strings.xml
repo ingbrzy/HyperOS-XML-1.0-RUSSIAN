@@ -439,7 +439,7 @@
     <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
     <string name="fast_connect_nzbt_reset">Удерживайте верхнюю кнопку нажатой в течение %1$s секунд при выключении питания</string>
     <string name="fast_connect_reset_common">Сброс устройства для возможности сопряжения</string>
-    <string name="fast_connect_same_account_content">Устройства Bluetooth могут быть синхронизированы с Xiaomi аккаунтом и подключены без сопряжения на других устройствах.</string>
+    <string name="fast_connect_same_account_content">Устройства Bluetooth могут быть синхронизированы с аккаунтом Xiaomi и подключены без сопряжения на других устройствах.</string>
     <string name="fast_connect_same_accout_devices_connecting">Подключение через Xiaomi Cloud…</string>
     <string name="fast_connect_same_accout_devices_title">%1$s подключено к другим устройствам</string>
     <string name="fast_connect_same_accout_ok">ОК</string>
@@ -592,7 +592,7 @@
     <string name="local_backup_password_toast_success">Новый пароль для резервных копий задан</string>
     <string name="local_backup_password_toast_validation_failure">Не удалось задать пароль для резервных копий</string>
     <string name="lyra_account_ap_summary">Разрешить планшетам и ПК поблизости, связанным с этим аккаунтом Xiaomi, включать точку доступа на этом устройстве и подключаться к ней</string>
-    <string name="lyra_account_ap_title">Сетевой помощник</string>
+    <string name="lyra_account_ap_title">Помощь по сети</string>
     <string name="lyra_auto_connect_cancel">Отмена</string>
     <string name="lyra_auto_connect_check_box">Автоматически подключать устройства, связанные с этим аккаунтом Xiaomi (эту функцию можно отключить в Настройках)</string>
     <string name="lyra_auto_connect_confirm">Подключить</string>
