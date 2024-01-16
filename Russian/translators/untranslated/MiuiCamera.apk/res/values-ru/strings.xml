@@ -552,24 +552,15 @@
     <string name="cinemaster_guide_content">Подключите телефоны и планшеты к одной сети, чтобы объединить их в единую мультикамерную систему. Вы сможете использовать подключенные устройства в качестве камер и мониторов и снимать одну сцену с разных ракурсов.</string>
     <string name="cinemaster_guide_content2">Подключите телефоны и планшеты к одной сети, чтобы объединить их в единую мультикамерную систему. Вы сможете использовать подключенные устройства в качестве камер и мониторов и снимать одну сцену с разных ракурсов. Если ваша сетевая среда препятствует бесперебойной работе каналов мониторинга, процесс записи все равно останется стабильным.</string>
     <string name="cinemaster_guide_title">Режим режиссера</string>
-<!-- ### FROM SOURCE -->
-    <string name="cinemaster_network_lost">Device disconnected. Try connecting again.</string>
-<!-- ### FROM SOURCE -->
-    <string name="cinemaster_no_devices">No cameras connected</string>
-<!-- ### FROM SOURCE -->
-    <string name="cinemaster_no_devices_monitor">No monitors connected</string>
-<!-- ### FROM SOURCE -->
-    <string name="cinemaster_toast_camera_disconnect">Camera %s disconnected from multicam setup</string>
-<!-- ### FROM SOURCE -->
-    <string name="cinemaster_toast_monitor_all_disconnect">All monitors disconnected</string>
-<!-- ### FROM SOURCE -->
-    <string name="cinemaster_toast_monitor_connect">Connected monitor successfully</string>
-<!-- ### FROM SOURCE -->
-    <string name="cinemaster_toast_monitor_disconnect">Monitor disconnected from multicam setup</string>
-<!-- ### FROM SOURCE -->
-    <string name="cinemaster_toast_monitor_play_error">Camera %s disconnected from multicam setup due to an error</string>
-<!-- ### FROM SOURCE -->
-    <string name="cinemaster_wifi_24g_tips">"Switch to a %s GHz network to boost monitor feed's stability"</string>
+    <string name="cinemaster_network_lost">Устройство отключено. Попробуйте подключиться еще раз.</string>
+    <string name="cinemaster_no_devices">Камеры не подключены</string>
+    <string name="cinemaster_no_devices_monitor">Мониторы не подключены</string>
+    <string name="cinemaster_toast_camera_disconnect">Камера %s отключена от настройки мультикамеры</string>
+    <string name="cinemaster_toast_monitor_all_disconnect">Все мониторы отключены</string>
+    <string name="cinemaster_toast_monitor_connect">Монитор подключен успешно</string>
+    <string name="cinemaster_toast_monitor_disconnect">Монитор отключен от настройки мультикамеры</string>
+    <string name="cinemaster_toast_monitor_play_error">Камера %s отключена от настройки мультикамеры из-за ошибки</string>
+    <string name="cinemaster_wifi_24g_tips">«Переключитесь на сеть %s ГГц, чтобы повысить стабильность канала мониторинга»</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="clone_adjust">Настройка</string>
     <string name="clone_copy_mode">Стоп-кадр</string>
@@ -733,15 +724,12 @@
     <string name="connect_view_name_camera">Камера</string>
     <string name="connect_view_name_monitor">Монитор</string>
     <string name="connect_view_remote_control">Управление</string>
-<!-- ### FROM SOURCE -->
-    <string name="connect_view_sub_title">Multicam setup uses more bandwidth to reduce latency. We recommend connecting to %s GHz Wi-Fi networks that support the sixth generation standard.</string>
+    <string name="connect_view_sub_title">При настройке мультикамеры используется большая пропускная способность для уменьшения задержки. Мы рекомендуем подключаться к сетям Wi-Fi с частотой %s ГГц, поддерживающим стандарт 6-го поколения.</string>
     <string name="connect_view_sub_title_camera">Подключённые мониторы</string>
     <string name="connect_view_sub_title_monitor">Подключённые камеры</string>
-<!-- ### FROM SOURCE -->
-    <string name="connect_view_sub_title_new">"Multicam setup uses more bandwidth to reduce latency.
-We recommend connecting to %s GHz Wi-Fi networks that support the sixth generation standard."</string>
-<!-- ### FROM SOURCE -->
-    <string name="connect_view_title">Multicam setup</string>
+    <string name="connect_view_sub_title_new">При настройке мультикамеры используется большая пропускная способность для уменьшения задержки.
+Мы рекомендуем подключаться к сетям Wi-Fi с частотой %s ГГц, поддерживающим стандарт 6-го поколения</string>
+    <string name="connect_view_title">Настройка мультикамеры</string>
     <string name="connect_view_toast_start_error_camera">Не удалось запустить камеру. Попробуйте ещё раз.</string>
     <string name="connect_view_toast_start_error_monitor">Не удалось включить монитор. Попробуйте ещё раз.</string>
     <string name="connect_view_toast_start_success_camera">Камера включена</string>
@@ -1071,16 +1059,11 @@ We recommend connecting to %s GHz Wi-Fi networks that support the sixth generati
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_exit_dialog_message">The devices will be disconnected from each other if you continue. End this session now?</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_exit_dialog_title">End Assist cam session?</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_cast_inviting">%1$s wants to connect to this device</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_description_content">Assist cam allows sharing live previews between two devices connected to the same network and taking photos with one device from the other one.</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_description_title">About Assist cam</string>
+    <string name="friend_exit_dialog_message">Если вы продолжите, устройства будут отключены друг от друга. Завершить этот сеанс сейчас?</string>
+    <string name="friend_exit_dialog_title">Завершить сеанс ассистентной камеры?</string>
+    <string name="friend_mode_cast_inviting">%1$s хочет подключиться к этому устройству</string>
+    <string name="friend_mode_description_content">Вспомогательная камера позволяет обмениваться предосмотром в режиме реального времени между двумя устройствами, подключенными к одной сети, и делать фотографии с одного устройства с другого.</string>
+    <string name="friend_mode_description_title">О вспомогательной камере</string>
 <!-- ### FROM SOURCE -->
     <string name="friend_mode_gallery_toast">Looks like no photos were taken during this session</string>
 <!-- ### FROM SOURCE -->
