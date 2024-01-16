@@ -138,12 +138,9 @@
     <string name="cloud_back_up_no_network_warn">Не удалось подключиться к Wi-Fi</string>
     <string name="cloud_back_up_ok_btn">ОК</string>
     <string name="cloud_back_up_opening">Подождите…</string>
-    <string name="cloud_back_up_share_activity_confirm">Повысить</string>
-    <string name="cloud_back_up_share_activity_discription">Получите больше места в облаке, ежедневные резервные копии и другие возможности.</string>
-    <string name="cloud_back_up_share_activity_title">Повысить Xiaomi аккаунт</string>
-    <string name="cloud_back_up_subscribe_vip_confirm">Улучшить</string>
+    <string name="cloud_back_up_subscribe_vip_confirm">Обновить</string>
     <string name="cloud_back_up_subscribe_vip_discription">Получите больше места для хранения ежедневных резервных копий и многого другого.</string>
-    <string name="cloud_back_up_subscribe_vip_title">Обновить Xiaomi аккаунт</string>
+    <string name="cloud_back_up_subscribe_vip_title">Обновить аккаунт Xiaomi</string>
     <string name="cloud_back_up_task">Резервное копирование…</string>
     <string name="cloud_backup">Облачный бэкап</string>
     <string name="cloud_backup_derail_size_summary">Размер: %s</string>
@@ -406,7 +403,7 @@ ID: %s
     <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="night">Вечер</string>
-    <string name="no_account">Не выполнен вход в Xiaomi аккаунт</string>
+    <string name="no_account">Войдите в аккаунт Xiaomi</string>
     <string name="no_backup">Нет резервных копий в Xiaomi Cloud</string>
     <string name="noon">Полдень</string>
     <string name="not_backup_reason">Причина сбоя резервного копирования: %s</string>
