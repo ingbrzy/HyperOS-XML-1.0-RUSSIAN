@@ -723,7 +723,7 @@
     <string name="weather_list_info">Актуальная информация</string>
     <string name="weather_list_title">Погодные заголовки</string>
     <string name="weather_main_aqi_desc">ИКВ</string>
-    <string name="weather_main_minute_hour">%d-часовые осадки</string>
+    <string name="weather_main_minute_hour">2-часовые осадки</string>
     <string name="weather_main_speak_tips">Голосовое оповещение о погоде</string>
     <string name="weather_more_air_quality">Подробнее о качестве воздуха</string>
     <string name="weather_permission_agree">Принять</string>

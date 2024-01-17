@@ -376,7 +376,7 @@
     <string name="connect_settings_share_clipboard">Буфер обмена</string>
     <string name="connect_settings_share_launcher">Рабочий стол+</string>
     <string name="connect_settings_share_notification">Уведомления</string>
-    <string name="connect_settings_summary">&lt;Data>Автоматически обнаруживать устройства, находящиеся поблизости и подключенные к вашему аккаунту Xiaomi, а также соединять их друг с другом для выполнения различных задач на нескольких устройствах. &lt;a href=%1$s>Подробнее.&lt;/a>&lt;/Data></string>
+    <string name="connect_settings_summary">&lt;Data>Автоматически обнаруживать устройства, находящиеся поблизости и подключенные к вашему аккаунту Xiaomi, а также соединять их друг с другом для выполнения различных задач на нескольких устройствах. &lt;a href=\"%1$s\">Подробнее.&lt;/a>&lt;/Data></string>
     <string name="connect_settings_summary_connection_service">Разрешите устройствам взаимодействовать друг с другом по беспроводной связи</string>
     <string name="connect_settings_summary_corp_phone">Принимать голосовые вызовы на планшетах и компьютерах, находящихся поблизости и подключенных к вашему аккаунту Xiaomi.</string>
     <string name="connect_settings_summary_relay_app">Продолжать выполнение задач в одном приложении на другом устройстве.</string>

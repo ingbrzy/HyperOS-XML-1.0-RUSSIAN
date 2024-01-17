@@ -433,7 +433,7 @@
     <string name="range_never">Не удалять автоматически</string>
     <string name="read_data_access_label">Чтение: %s</string>
     <string name="recent_access_header">Доступ за последнее время</string>
-    <string name="recent_access_screen_description">Посмотрите, какие приложения получали доступ к вашим данным за последние %1$d ч.</string>
+    <string name="recent_access_screen_description">Посмотрите, какие приложения получали доступ к вашим данным за последние 24 ч.</string>
     <string name="repetitions">{count,plural, =1{1 повт.}one{# повт.}few{# повт.}many{# повт.}other{# повт.}}</string>
     <string name="repetitions_long">{count,plural, =1{1 повтор}one{# повтор}few{# повтора}many{# повторов}other{# повтора}}</string>
     <string name="request_permissions_allow">Открыть доступ</string>

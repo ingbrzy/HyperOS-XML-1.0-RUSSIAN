@@ -599,7 +599,7 @@
     <string name="ext_media_unmountable_notification_title">%s не работает</string>
     <string name="ext_media_unmounting_notification_message">Не извлекать</string>
     <string name="ext_media_unmounting_notification_title">Извлечение карты \"%s\"…</string>
-    <string name="ext_media_unsupported_notification_message">Устройство не поддерживает этот носитель (%s). Нажмите для настройки.</string>
+    <string name="ext_media_unsupported_notification_message">"Нажмите для настройки. "</string>
     <string name="ext_media_unsupported_notification_title">%s не поддерживается</string>
     <string name="extract_edit_menu_button">Изменить</string>
     <string name="face_acquired_dark_glasses_detected_alt">"Обнаружены темные очки. Лицо должно быть полностью видно"</string>

@@ -205,10 +205,14 @@
     <string name="pa_accessibility_picker_bigBanner_widget_collection">Коллекции виджетов</string>
     <string name="pa_accessibility_picker_close">Закрыть</string>
     <string name="pa_accessibility_picker_home_appList_entrance">Список поддерживаемых виджетов</string>
-    <string name="pa_accessibility_picker_home_bigBanner_slected">Выбран %1$s, строка %2$d, номер %3$d. Нажмите дважды, чтобы начать.</string>
-    <string name="pa_accessibility_picker_home_maml_slected">Выбран %1$s. Размер: %2$s. Нажмите дважды для подробностей. Нажмите дважды и удерживайте, чтобы перетащить.</string>
+    <string name="pa_accessibility_picker_home_bigBanner_slected">"%1$s. 
+Нажмите дважды, чтобы начать."</string>
+    <string name="pa_accessibility_picker_home_maml_slected">"%1$s. %2$s. 
+Нажмите дважды для подробностей. 
+Нажмите дважды и удерживайте, чтобы перетащить."</string>
     <string name="pa_accessibility_picker_home_search">Поиск виджетов</string>
-    <string name="pa_accessibility_picker_home_smallBanner_slected">Выбран %1$s, строка %2$d, номер %3$d. Нажмите дважды, чтобы начать.</string>
+    <string name="pa_accessibility_picker_home_smallBanner_slected">"%1$s. 
+Нажмите дважды, чтобы начать."</string>
     <string name="pa_accessibility_picker_home_title">Добавление веджета</string>
     <string name="pa_accessibility_picker_home_widget_replace">Выбран %s. Переключение виджетов.</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Виджет: %s. Нажмите дважды кнопку ниже для замены другим виджетом.</string>

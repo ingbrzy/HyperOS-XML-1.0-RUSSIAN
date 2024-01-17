@@ -143,7 +143,7 @@
     <string name="intelligence_suppression_summary">Динамическая регулировка размера области у краев экрана для защиты от случайных прикосновений, в зависимости от вашего захвата</string>
     <string name="intelligence_suppression_title">Авто (рекомендуется)</string>
     <string name="item_view_role_description">Вкладка</string>
-    <string name="kddi_long_press_power_guide_assistant_message">Нажмите и удерживайте кнопку питания в течение %s сек., чтобы разбудить Google Ассистента</string>
+    <string name="kddi_long_press_power_guide_assistant_message">Нажмите и удерживайте кнопку \"Питание\" в течение %s сек., чтобы разбудить Google Ассистента</string>
     <string name="kddi_long_press_power_guide_assistant_title">Google Ассистент</string>
     <string name="kddi_long_press_power_guide_know">Понятно</string>
     <string name="kddi_long_press_power_guide_settings">Настройки</string>
