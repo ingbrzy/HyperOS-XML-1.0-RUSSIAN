@@ -481,6 +481,9 @@
     <string name="beauty_sm_texture_cv">Кожа</string>
     <string name="beauty_tab_name_live_beauty">Улучшение</string>
     <string name="beauty_tab_name_live_filter">Фильтры</string>
+    <string name="bluetooth_fromkeyguard_not_permission">Разрешите этому приложению доступ к состоянию подключения Bluetooth наушников, чтобы иметь возможность использовать эту функцию в обычном режиме.</string>
+    <string name="bluetooth_headset_permission_des">"Для определения состояния подключения Bluetooth наушников и записи звука с помощью микрофона наушников».</string>
+    <string name="bluetooth_permission_not_ask_again">Разрешите этому приложению подключаться к устройствам поблизости в настройках, чтобы иметь возможность подключаться к Bluetooth наушникам.</string>
     <string name="bokeh_use_hint">Эффект глубины</string>
     <string name="burst_shoot_exit_button_text">Отключить серийную съёмку</string>
     <string name="button_fisheye_camera_title">Рыбий глаз</string>
@@ -527,6 +530,22 @@
     <string name="cine_image_modify_layout_content_description">Изменение макета</string>
     <string name="cinemaster_cancel">Отмена</string>
     <string name="cinemaster_confirm">Выход</string>
+    <string name="cinemaster_connect_exit_message">Выйти из настройки мультикамеры сейчас?</string>
+    <string name="cinemaster_connection_prerequisites">Сначала включите Wi-Fi в Центре управления.</string>
+    <string name="cinemaster_connection_prerequisites_china">Сначала включите Wi-Fi в Центре управления.</string>
+    <string name="cinemaster_description_title">Режим режиссера</string>
+    <string name="cinemaster_guide_content">Подключите телефоны и планшеты к одной сети, чтобы объединить их в единую мультикамерную систему. Вы сможете использовать подключенные устройства в качестве камер и мониторов и снимать одну сцену с разных ракурсов.</string>
+    <string name="cinemaster_guide_content2">Подключите телефоны и планшеты к одной сети, чтобы объединить их в единую мультикамерную систему. Вы сможете использовать подключенные устройства в качестве камер и мониторов и снимать одну сцену с разных ракурсов. Если ваша сетевая среда препятствует бесперебойной работе каналов мониторинга, процесс записи все равно останется стабильным.</string>
+    <string name="cinemaster_guide_title">Режим режиссера</string>
+    <string name="cinemaster_network_lost">Устройство отключено. Попробуйте подключиться еще раз.</string>
+    <string name="cinemaster_no_devices">Камеры не подключены</string>
+    <string name="cinemaster_no_devices_monitor">Мониторы не подключены</string>
+    <string name="cinemaster_toast_camera_disconnect">Камера %s отключена от настройки мультикамеры</string>
+    <string name="cinemaster_toast_monitor_all_disconnect">Все мониторы отключены</string>
+    <string name="cinemaster_toast_monitor_connect">Монитор подключен успешно</string>
+    <string name="cinemaster_toast_monitor_disconnect">Монитор отключен от настройки мультикамеры</string>
+    <string name="cinemaster_toast_monitor_play_error">Камера %s отключена от настройки мультикамеры из-за ошибки</string>
+    <string name="cinemaster_wifi_24g_tips">«Переключитесь на сеть %s ГГц, чтобы повысить стабильность канала мониторинга»</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="clone_adjust">Настройка</string>
     <string name="clone_copy_mode">Стоп-кадр</string>
@@ -687,8 +706,12 @@
     <string name="connect_view_name_camera">Камера</string>
     <string name="connect_view_name_monitor">Монитор</string>
     <string name="connect_view_remote_control">Управление</string>
+    <string name="connect_view_sub_title">При настройке мультикамеры используется большая пропускная способность для уменьшения задержки. Мы рекомендуем подключаться к сетям Wi-Fi с частотой %s ГГц, поддерживающим стандарт 6-го поколения.</string>
     <string name="connect_view_sub_title_camera">Подключённые мониторы</string>
     <string name="connect_view_sub_title_monitor">Подключённые камеры</string>
+    <string name="connect_view_sub_title_new">При настройке мультикамеры используется большая пропускная способность для уменьшения задержки.
+Мы рекомендуем подключаться к сетям Wi-Fi с частотой %s ГГц, поддерживающим стандарт 6-го поколения</string>
+    <string name="connect_view_title">Настройка мультикамеры</string>
     <string name="connect_view_toast_start_error_camera">Не удалось запустить камеру. Попробуйте ещё раз.</string>
     <string name="connect_view_toast_start_error_monitor">Не удалось включить монитор. Попробуйте ещё раз.</string>
     <string name="connect_view_toast_start_success_camera">Камера включена</string>
@@ -1007,6 +1030,11 @@
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
+    <string name="friend_exit_dialog_message">Если вы продолжите, устройства будут отключены друг от друга. Завершить сеанс?</string>
+    <string name="friend_exit_dialog_title">Завершить сеанс вспомогательной камеры?</string>
+    <string name="friend_mode_cast_inviting">%1$s хочет подключиться к этому устройству</string>
+    <string name="friend_mode_description_content">Функция \"Вспомогательная камера\" позволяет двум устройствам, подключенным к одной сети, обмениваться превью в реальном времени, а также делать снимки на одном из них при помощи другого.</string>
+    <string name="friend_mode_description_title">О функции \"Вспомогательная камера\"</string>
     <string name="friend_mode_transfer_picture">Передача фотографий…</string>
     <string name="fromkeyguard_not_permission">Разблокируйте устройство для использования этой функции</string>
     <string name="front_camera_hint_text_place">"Снимать селфи будет проще,
