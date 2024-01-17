@@ -1,35 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!-- ### FROM SOURCE -->
-    <string name="PRD_summary_1">If you transfer data from these apps from the old device to the new one, data on the new device (including chat history) will be overwritten.</string>
-<!-- ### FROM SOURCE -->
-    <string name="PRD_summary_2" />
-<!-- ### FROM SOURCE -->
-    <string name="PRD_summary_3" />
-<!-- ### FROM SOURCE -->
-    <string name="PRD_summary_4">Turning off Wi-Fi or switching Wi-Fi networks during the transfer process may cause the transfer process to fail.</string>
-<!-- ### FROM SOURCE -->
-    <string name="PRD_summary_4_china">Turning off Wi-Fi or switching Wi-Fi networks during the transfer process may cause the transfer process to fail.</string>
-<!-- ### FROM SOURCE -->
-    <string name="PRD_summary_5">High speed transfers can cause your device to become hotter than normal. Rest assured that your device will cool down when the transfer finishes.</string>
-<!-- ### FROM SOURCE -->
-    <string name="PRD_summary_tablet_1">During the transfer, all data for these apps (including chat histories) will be overwritten.</string>
-<!-- ### FROM SOURCE -->
-    <string name="PRD_title_1">%1$d. App data already exists on the new device for the following apps:</string>
-<!-- ### FROM SOURCE -->
-    <string name="PRD_title_2">WeChat</string>
-<!-- ### FROM SOURCE -->
-    <string name="PRD_title_3">QQ</string>
-<!-- ### FROM SOURCE -->
-    <string name="PRD_title_4">%1$d. Operate your device with care</string>
-<!-- ### FROM SOURCE -->
-    <string name="PRD_title_5">%1$d. Your device will become hot during the transfer</string>
-<!-- ### FROM SOURCE -->
-    <string name="PRD_title_tablet_1">%1$d. App data already exists on the new device for the following apps:</string>
-<!-- ### FROM SOURCE -->
-    <string name="PRD_title_tablet_4">%1$d. Operate your device with care</string>
-<!-- ### FROM SOURCE -->
-    <string name="PRD_title_tablet_5">%1$d. Your device will become hot during the transfer</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Ещё</string>

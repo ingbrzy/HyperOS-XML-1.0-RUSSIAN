@@ -1032,6 +1032,7 @@
     <string name="car_ui_ellipsis">…</string>
     <string name="car_ui_ime_wide_screen_system_property_name">ro.build.automotive.ime.wide_screen.enabled</string>
     <string name="car_ui_shared_library_package_system_property_name">ro.build.automotive.car.ui.shared.library.package.name</string>
+    <string name="card_content_descriptor">card</string>
     <string name="card_description_from_to">%1$s - %2$s</string>
     <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_title_somewhere">%1$s</string>
@@ -1046,6 +1047,9 @@
     <string name="certificate_com_android_camera">27196e386b875e76adf700e7ea84e4c6eee33dfa</string>
     <string name="certificate_com_xiaomi_wearable">1da20e2bdfa678ae888e81e5ca0ec4744ebbbbbd</string>
     <string name="certinstaller_package">com.android.certinstaller</string>
+    <string name="cgi_url_adinfo_dev">https://test.out.wechat.com/tia_dev/retrieval/getJooxSDKAdInfo</string>
+    <string name="cgi_url_adinfo_production">https://hk.app.joox.com/retrieval/getJooxSdkAdInfo</string>
+    <string name="cgi_url_adinfo_test">https://test.out.wechat.com/tia_gray/retrieval/getJooxSDKAdInfo</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="chart_first_song">1.%s</string>
     <string name="chart_second_song">2.%s</string>
@@ -2179,6 +2183,7 @@
     <string name="country_name_zm">ZM</string>
     <string name="country_name_zw">ZW</string>
     <string name="cqr_soft_version">120</string>
+    <string name="crash_upload_url">https://mo-dump.wps.cn/errorReport/up</string>
     <string name="create_table_aaid"> </string>
     <string name="create_table_keyword"> </string>
     <string name="create_table_mode"> </string>
@@ -2425,6 +2430,7 @@
     <string name="exception_network_error_retry">网络出错，请稍后再试</string>
     <string name="exception_network_error_wait_retry">网络无法连接,请稍后再试</string>
     <string name="exception_network_slow">网络不给力</string>
+    <string name="exception_report">wpsoffice_exception_report@kingsoft.com</string>
     <string name="exception_report_cn">wpsoffice_exception_report_cn@kingsoft.com</string>
     <string name="exception_too_many_people_wait_retry">人气太旺啦，稍候再试试</string>
     <string name="execute_notify">exclude_notify</string>
@@ -2491,6 +2497,7 @@
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_custom">%s</string>
+    <string name="find_path"></string>
     <string name="firebase_database_url">https://global-sms-ab3bc.firebaseio.com</string>
     <string name="fixable_behavior">com.mfashiongallery.emag.app.detail.ui.FixableAppBarLayoutBehavior</string>
     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
@@ -3733,6 +3740,7 @@
     <string name="package_mobil_qq">com.tencent.mobileqq</string>
     <string name="package_wechat">com.tencent.mm</string>
     <string name="package_whatsapp">com.whatsapp</string>
+    <string name="page_pay_read_default_num">5</string>
     <string name="page_search_result" formatted="false">%d/%d</string>
     <string name="pairing_ui_package">com.android.settings</string>
     <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
@@ -3841,6 +3849,14 @@
     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_settings_title">@string/Settings_title_power_center</string>
     <string name="pp_two_columns_img_ration">306:174</string>
+    <string name="ppplugin_brackets_prompt_left">（</string>
+    <string name="ppplugin_brackets_prompt_right">）</string>
+    <string name="ppplugin_dialog_amount">¥38</string>
+    <string name="ppplugin_dialog_count_down">3</string>
+    <string name="ppplugin_flag_dollar">$</string>
+    <string name="ppplugin_flag_rmb">¥</string>
+    <string name="ppplugin_input_cardinfo_cardcvn2_prompt">CVN2</string>
+    <string name="ppplugin_inputcard_service_activation_url">https://www.95516.com/portal/open/init.do?entry=open</string>
     <string name="prefDefault_alerts_vibrateWhen">never</string>
     <string name="prefDefault_alerts_vibrate_false">never</string>
     <string name="prefDefault_alerts_vibrate_true">always</string>
@@ -4254,8 +4270,10 @@
     <string name="privacy_link_lawer_zh">http://cdn.hpplay.com.cn/xm/lawer.html</string>
     <string name="privacy_link_privacy_en">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
     <string name="privacy_link_privacy_zh">http://cdn.hpplay.com.cn/xm/privacy.html</string>
+    <string name="privacy_mobile">https://www.wps.com/privacy/mobile/</string>
     <string name="privacy_policy_url">https://miui.wpsmail.net/policy.html</string>
     <string name="privacy_policy_url">app://com.miui.cloudservice.gdpr.license</string>
+    <string name="privacy_protecte">https://privacy.wps.cn/policies/privacy/wps-file-viewer</string>
     <string name="privacy_type_camera">camera</string>
     <string name="privacy_type_location">location</string>
     <string name="privacy_type_microphone">microphone</string>
@@ -4279,6 +4297,7 @@
     <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_port_hint">8080</string>
     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
+    <string name="public_app_language">2052</string>
     <string name="qq_app">QQ</string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="qq_lucky_warning">QQ红包</string>
@@ -4497,6 +4516,8 @@
     <string name="search_yicha">Yicha</string>
     <string name="searchbar_scrolling_view_behavior">com.google.android.material.search.SearchBar$ScrollingViewBehavior</string>
     <string name="secondart_setting_title">红包提醒设置</string>
+    <string name="secret_internation_policy_url">https://www.wps.com/privacy-policy/</string>
+    <string name="secret_internation_service_url">https://www.wps.com/eula</string>
     <string name="secret_key">q2cjp52h1an92s7j</string>
     <string name="security_encryption_attention_symbol">•</string>
     <string name="select_team_close">关闭</string>
@@ -5186,6 +5207,7 @@
     <string name="teachers_day">教师节</string>
     <string name="teachers_day_tradition">教師節</string>
     <string name="team_selected">%s,已选中</string>
+    <string name="tel_number_ums"><u>95534</u></string>
     <string name="temp_in_celsius">%d℃</string>
     <string name="temp_in_fahrenheit">%d℉</string>
     <string name="temp_support_xiaomi">暂时仅支持小米手环</string>
@@ -5237,14 +5259,31 @@
     <string name="time_numbers">%02d</string>
     <string name="time_picker_mode">clock</string>
     <string name="time_placeholder">--</string>
+    <string name="title_activity_activity_pay_result">ActivityPayResult</string>
+    <string name="title_activity_activity_select_install">ActivitySelectInstall</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_permission">PermissionActivity</string>
     <string name="title_dynamicfeature_7350">Feature_7350</string>
     <string name="title_dynamicfeature_8450">Feature_8450</string>
     <string name="title_dynamicfeature_8550">Feature_8550</string>
+    <string name="title_dynamicfeature_ai_image">dynamicfeature_ai_image</string>
+    <string name="title_dynamicfeature_aimode_7350">Feature_aimode_7350</string>
+    <string name="title_dynamicfeature_aimode_8450">Feature_aimode_8450</string>
+    <string name="title_dynamicfeature_aimode_8550">Feature_aimode_8550</string>
     <string name="title_dynamicfeature_basefeature">Feature_baseFeature</string>
+    <string name="title_dynamicfeature_basefeature_ffmpeg">Feature_basefeature_ffmpeg</string>
+    <string name="title_dynamicfeature_basefeature_imagefeature">Feature_basefeature_imagefeature</string>
+    <string name="title_dynamicfeature_basefeature_map">Feature_baseFeature_map</string>
+    <string name="title_dynamicfeature_basefeature_videocompress">Feature_basefeature_videocompress</string>
     <string name="title_dynamicfeature_default">Feature_default</string>
     <string name="title_dynamicfeature_mtk">Feature_mtk</string>
+    <string name="title_dynamicfeature_story_7350">Feature_story_7350</string>
+    <string name="title_dynamicfeature_story_8450">Feature_story_8450</string>
+    <string name="title_dynamicfeature_story_8550">Feature_story_8550</string>
+    <string name="title_dynamicfeature_story_8650">Feature_story_8650</string>
+    <string name="title_dynamicfeature_story_basefeature">Feature_story_basefeature</string>
+    <string name="title_dynamicfeature_story_default">Feature_story_default</string>
+    <string name="title_dynamicfeature_story_mtk">Feature_story_mtk</string>
     <string name="toast_download_with_metered_network_btn_cancel">@string/base_btn_cancel</string>
     <string name="today_hot_search">今日热搜</string>
     <string name="trail_sport_target_value_desc">%1$s</string>

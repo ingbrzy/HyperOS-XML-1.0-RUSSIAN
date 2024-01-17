@@ -69,8 +69,6 @@
     <string name="ad_in_downloading">Загрузка</string>
     <string name="ad_in_installing">Установка</string>
     <string name="ad_installing">Установка…</string>
-<!-- ### FROM SOURCE -->
-    <string name="ad_sub_textview_divider">m</string>
     <string name="ad_tag_text_1">Популярное</string>
     <string name="ad_tag_text_2">Тренд</string>
     <string name="add">Добавить</string>
@@ -446,23 +444,17 @@
     <string name="format_full_month_of_year">MMMM</string>
     <string name="format_hour_minute">%1$s:%2$s</string>
     <string name="format_lunar_calendar_month_day_desc">Дата по китайскому традиционному календарю: %s</string>
-<!-- ### FROM SOURCE -->
     <string name="format_lunar_calendar_solar_terms">%1$s %2$s</string>
-<!-- ### FROM SOURCE -->
     <string name="format_minute_desc">%s</string>
-<!-- ### FROM SOURCE -->
     <string name="format_month_and_day">%1$s/%2$s</string>
-<!-- ### FROM SOURCE -->
     <string name="format_month_day_desc">%1$s %2$s</string>
     <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, дата по китайскому традиционному календарю: %3$s, праздники: %4$s</string>
     <string name="format_month_day_style1">d.MMM</string>
     <string name="format_month_day_style2">d.M</string>
     <string name="format_month_day_week">EEE, dd MMM</string>
-<!-- ### FROM SOURCE -->
     <string name="format_month_day_week_desc">%1$s %2$s, %3$s</string>
     <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, дата по китайскому традиционному календарю: %4$s</string>
     <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, праздники: %4$s</string>
-<!-- ### FROM SOURCE -->
     <string name="format_number_hour_desc">%s</string>
     <string name="format_solar_lunar_calendar_month_day_desc">Праздники: %1$s, дата по китайскому традиционному календарю: %2$s</string>
     <string name="format_week_day_style1">EE d</string>
@@ -483,7 +475,6 @@
     <string name="has_mamual_hide_theme">Скрытые</string>
     <string name="has_mamual_hide_wallpaper">Скрытые</string>
     <string name="head_portraits">Фото профиля</string>
-<!-- ### FROM SOURCE -->
     <string name="health_chart_calories_schedule_format_desc">%1$s, %2$s</string>
     <string name="health_chart_calories_unit">ккал</string>
     <string name="health_chart_sleep_time_format">%1$s ч. %2$s мин.</string>
@@ -491,11 +482,8 @@
     <string name="health_chart_sleep_time_low">недостаточно</string>
     <string name="health_chart_sleep_time_normal">хорошее</string>
     <string name="health_chart_sleep_time_very_good">отличное</string>
-<!-- ### FROM SOURCE -->
     <string name="health_chart_sport_time_schedule_format_desc">%1$s, %2$s</string>
-<!-- ### FROM SOURCE -->
     <string name="health_chart_stand_schedule_format_desc">%1$s, %2$s</string>
-<!-- ### FROM SOURCE -->
     <string name="health_chart_step_count_schedule_format_desc">%1$s, %2$s</string>
     <string name="health_chart_step_count_unit">Шаги</string>
     <string name="health_no_data">Нет данных</string>
@@ -524,7 +512,6 @@
     <string name="home_apply_success">Обои рабочего стола установлены</string>
     <string name="home_daily">Яркие моменты</string>
     <string name="humidity_format">Влажность: %s</string>
-<!-- ### FROM SOURCE -->
     <string name="humidity_format_with_unit">%s</string>
     <string name="i_know">Понятно</string>
     <string name="icon_content_description">Иконка диалога</string>

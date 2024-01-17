@@ -6446,23 +6446,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="weight_heavy">Толстый</string>
     <string name="weight_light">Тонкий</string>
     <string name="whitelist_prefix_add_hint">Все номера с этим префиксом будут добавлены в белый список</string>
-<!-- ### FROM SOURCE -->
-    <string name="widget_appbehavior_apps_count">28</string>
-<!-- ### FROM SOURCE -->
-    <string name="widget_cleaner_size">529</string>
     <string name="widget_cleaner_size_unit">" МБ"</string>
-<!-- ### FROM SOURCE -->
-    <string name="widget_health_size">86</string>
-<!-- ### FROM SOURCE -->
-    <string name="widget_power_size">90</string>
-<!-- ### FROM SOURCE -->
-    <string name="widget_power_size_unit">%</string>
-<!-- ### FROM SOURCE -->
-    <string name="widget_ramjat_size">732</string>
-<!-- ### FROM SOURCE -->
-    <string name="widget_safe_size">315.89</string>
-<!-- ### FROM SOURCE -->
-    <string name="widget_safe_size_1">23.6</string>
     <string name="wifi_danger_dialog_messgae">Текущая сеть Wi-Fi может представлять угрозу безопасности. Используйте с осторожностью.</string>
     <string name="wifi_danger_dialog_tips">Управление безопасностью Wi-Fi доступно в Безопасность &gt; Антивирус &gt; Настройки &gt; Wi-Fi.</string>
     <string name="wifi_danger_dialog_title">Сеть Wi-Fi не защищена</string>

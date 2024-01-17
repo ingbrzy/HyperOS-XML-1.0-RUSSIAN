@@ -1137,8 +1137,6 @@ dd.MM"</string>
     <string name="miui_notification_menu_setting_success">Готово</string>
     <string name="miui_notification_menu_snooze">Отложить</string>
     <string name="miui_notification_menu_title_not_allow">Ограничить уведомления</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui_notification_menu_title_unfocus">@string/miui_notification_menu_unfocus</string>
     <string name="miui_notification_menu_unfocus">Отключить индикацию уведомлений</string>
     <string name="miui_restart_button_description">Перезагрузка для улучшения отображения</string>
     <string name="miui_rhombus_clock_date">dd MMMM</string>

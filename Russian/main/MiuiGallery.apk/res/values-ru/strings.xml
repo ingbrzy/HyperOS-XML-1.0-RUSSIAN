@@ -142,277 +142,6 @@
     <string name="ai_album_setting_sub_title">Разрешить алгоритмам ИИ определять людей, места и объекты на ваших фото, чтобы вы могли быстрее их находить</string>
     <string name="ai_album_setting_title">Определять объекты на фото</string>
     <string name="ai_cancel">Отмена</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_cancel_image_message">"Uploaded photos won't be saved if you stop now."</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_cancel_image_title">Stop creating this AI image?</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_confirm">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_confirm_cancel_image_btn">Stop</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_confirm_create_image">Create AI image</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_confirm_delete_image_message">"You won't be able to create new photos based on this image after you delete it."</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_confirm_delete_image_title">Delete AI image?</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_continue_create_btn">Continue</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_continue_update_image_btn">Continue</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_continue_upload_photo">Continue</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_create_ai_image">Create AI image</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_create_image_fail">"Couldn't create AI image due to a server error. Try again."</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_create_image_fail_by_illegal_photo">"Looks like the photos you uploaded violate our community standards.
-Try creating the AI image with different photos."</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_create_image_fail_by_net">"Couldn't create AI image. Our servers are too busy now. Try again."</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_create_image_photo_tip">Photos will be deleted from our servers after the AI image is created</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_create_image_queue_time">%1$s | %2$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_create_image_tip">Photos will be deleted from our servers after the AI image is created</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_create_remain_time" formatted="false">Waiting time: %1s %2s</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_creating_image_tip">"You'll receive a notification when your image is ready"</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_creating_image_title">Creating AI image…</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_creation_button">Create portrait</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_creation_button_msg">Create more portraits</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_creation_container_title">History</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_creation_count_limit_msg">"Can't create more portraits today. Come back tomorrow!"</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_creation_delete_msg">Delete this history record now?</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_creation_delete_title">Attention</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_creation_recreate_button">Start over</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_creation_save_failed_msg">"Couldn't save. Try again."</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_creation_save_success_msg">Saved successfully</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_creation_wait_message">Creating… | %1$s | %2$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_cta_agree_btn">Allow</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_cta_dialog_message">Allow Gallery to connect to the internet to be able to create AI portraits.</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_cta_dialog_title">Permissions required</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_cta_refuse_btn">No thanks</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_deal_file_tip">"Don't leave this page"</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_deal_file_title">Processing photos…</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_deal_tile_text">Calculating required time…</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_delete_image_fail">"Couldn't delete. Try again."</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_delete_image_progress_message">Deleting…</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_delete_image_success">Deleted AI image successfully</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_download_filter_photo_so_confirm_btn">Download</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_download_filter_photo_so_downloading">Downloading plug-in…</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_download_filter_photo_so_message">To be able to use all AI portrait features, download the plug-in first.</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_download_filter_photo_so_title">Download plug-in</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_download_filter_so_fail_toast">"Couldn't download plug-in. Try again."</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_enhance_bar_default">Generate HD image</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_enhance_bar_failed">"Couldn't generate HD image"</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_ensure_exit_select_message">"You'll have to select photos again next time."</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_ensure_exit_select_title">Exit now?</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_entrance_description">Create an AI image based on photos of people and generate their portraits</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_entrance_title">AI portrait</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_exit">Exit</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_filter_album_tag">People with insufficient photos were filtered out</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_free_creation_button">Create</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_free_creation_container_msg">For example: A walk on the beach</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_free_creation_container_title">Enter description</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_free_creation_illegal_text_toast">This text violates our community standards. Rewrite your message.</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_free_creation_random_button">Random</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_free_creation_text_container_tips">"Our AI image generator is constantly improving. If you aren't satisfied with the results, you can always try again a bit later!"</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_free_creation_text_count_exceed_limit">The text you entered is too long</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_free_creation_text_illage">This description violates our community standards</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_free_theme_subtitle">Based on descriptions</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_free_theme_title">Text based</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_get_it_btn">Got it</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_go_to_select_photo">Select photos</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_has_image_tip">AI image created</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_have_a_think_btn">Cancel</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_illegal_photo_tip">"Looks like the photos you selected violate our community standards.
-Select other photos instead and try again."</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_image_count_limit_msg">"Can't create more AI images today. Come back tomorrow!"</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_image_creating_failed_msg">"Couldn't create image for %s"</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_image_creating_msg">Creating image for %s</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_image_manager_re_create_tip">Add or delete photos to update your AI image</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_image_manager_title">Manage AI image</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_image_not_creatable">"AI image is being updated now. Try again after it's done."</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_image_over_limit_button_cancel">Got it</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_image_over_limit_button_create">Continue</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_image_over_limit_title">"Can't create AI image"</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_image_privacy_message"><Data>"Welcome to AI portraits!&lt;br/>To be able to provide services to you, we need to collect the necessary personal information:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. To create AI portraits, you'll have to upload &lt;b>photos of people&lt;/b> to our servers. We'll collect and process the information about their &lt;b>faces&lt;/b> to generate an AI model.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. When you upload &lt;b>photos of people&lt;/b>, we'll sync &lt;b>their names and profile photos&lt;/b> from the corresponding albums and associate this information with AI images.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. When you create AI images based on text, we'll collect the &lt;b>description&lt;/b> you provide in order to generate images.&lt;br/>We only collect personal information that is necessary for the specific features of our products and services that you use. You can learn how we collect and process personal information in the &lt;a href=\"%4$s\">AI Portraits Privacy Policy&lt;/a>.&lt;br/>Read and agree to &lt;a href=\"%5$s\">AI Portraits User Agreement&lt;/a> and &lt;a href=\"%6$s\">AI Portraits Privacy Policy&lt;/a> before you continue."</Data></string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_input_name_hint">Enter name</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_loading">Just a sec…</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_multi_window_tip">"This page can't be viewed in Split screen"</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_network_failed">"Couldn't connect to the network. Wait a minute or two and try again."</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_new_name_title">Name this AI image</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_no_access_message">"Looks like you aren't a Beta tester now. Apply on Xiaomi Community to start creating portraits using AI!"</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_no_access_title">Beta tester permissions required</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_no_net_toast">"Couldn't connect to the network. Try again."</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_normal_theme_button">Create</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_photo_upload_fail">"Couldn't upload. Try again."</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_photos_upload_fail_tip">"%s's photos haven't been uploaded yet. You can continue uploading photos now."</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_preview_failed_retry_button">Try again</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_privacy_tip_1">ID photo</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_privacy_tip_2">Birthday portrait</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_privacy_tip_input">Text description</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_privacy_title">Privacy statement</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_re_create_image">Try again</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_ready_to_have_try">Start</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_recreate_image_cancel_text_btn">Continue</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_recreate_image_confirm_text_btn">Select</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_recreate_image_dialog_msg">You can continue uploading photos or select new ones.</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_recreate_image_dialog_title">"%s's photos haven't been uploaded"</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_refuse_update_toast">Select new photos to be able to update this AI image</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_people_sub_title" formatted="false">%1d–%2d best photos will be selected automatically</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_people_title">Select a person to create their AI image</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_complete_description" formatted="false">"Select %1d–%2d face or half body shots.
-Best shots were selected automatically. You can add more photos manually."</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_complete_toast">Filtered best shots automatically</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_count">Selected photos (%d)</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_error_guide_blur">Blurry</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_error_guide_group_photo">Group shots</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_error_guide_mask">Face covered</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_error_guide_title">Incorrect</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_full_toast">Too many photos selected. Delete some of them and try again.</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_guide_description">Upload face or half body shots of the same person</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_guide_title">How to select photos</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_manual">Select manually</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_need_select_manual">Not enough photos. Add more.</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_next_step">Next</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_no_result_toast">"Can't create an AI image based on these photos. Select other photos instead."</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_over_time_toast">Best shots were selected automatically. Add more photos manually.</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_right_guide_face">Front facing</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_right_guide_multi_bg">Diverse backgrounds</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_right_guide_multi_clothes">Different clothes</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_right_guide_title">Correct</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_select_photo_time_out">"Couldn't select photos automatically. Select manually instead."</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_theme_scene_select">Select scene</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_theme_square_footer_tip">Stay tuned for new scenes!</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_theme_square_title">Create portraits</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_tip_title">Attention</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_update_full_description">"Can't update anymore. Come back next month!"</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_update_image">Update AI image</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_update_image_confirm_message">Updated image will be generated based on the selected photo.</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_update_image_confirm_title">Update AI image?</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_update_warn_message">Remember that an AI image can be updated only once every month. Continue anyway?</string>
-<!-- ### FROM SOURCE -->
-    <string name="ai_use_photo_tip">Used photos</string>
-<!-- ### FROM SOURCE -->
-    <string name="album_ai_creative">AI portraits</string>
     <string name="album_ai_description">Люди, места, объекты</string>
     <string name="album_ai_international_description">Люди</string>
     <string name="album_ai_international_title">Люди</string>
@@ -680,8 +409,7 @@ Best shots were selected automatically. You can add more photos manually."</stri
     <string name="btn_sure">ОК</string>
     <string name="burst_image_download_item_title" formatted="false">Загрузка оригинала (%s|%s)</string>
     <string name="burst_photo_enter">Серия</string>
-<!-- ### FROM SOURCE -->
-    <string name="burst_photo_preview_thumbnail_content_description">Photo %d</string>
+    <string name="burst_photo_preview_thumbnail_content_description">Фото %d</string>
     <string name="burst_preview_title">Серийный снимок</string>
     <string name="burst_save_all">Сохранить все фото</string>
     <string name="burst_save_choice_title">Выбрано %d из %d</string>
@@ -1799,8 +1527,6 @@ ID: %s
     <string name="mark_operation_succeeded">Успешно добавлено</string>
     <string name="mark_people_ignore_info_message">Нажмите и удерживайте фото людей для добавления их в группы</string>
     <string name="media_type_burst_photo">Серийные снимки</string>
-<!-- ### FROM SOURCE -->
-    <string name="media_type_cinematic">Movie mode</string>
     <string name="media_type_clone_photo">Клоны</string>
     <string name="media_type_doc_photo">Документы</string>
     <string name="media_type_fast_motion_video">Таймлапс</string>
@@ -2823,30 +2549,6 @@ ID: %s
     <string name="security_share_subtitle_no_hide">Содержит геопозицию</string>
     <string name="see_ignore_faces">Просмотреть пропущенные фото</string>
     <string name="see_more_settings">Дополнительно</string>
-<!-- ### FROM SOURCE -->
-    <string name="segment_change_background">Change background</string>
-<!-- ### FROM SOURCE -->
-    <string name="segment_copy">Copy</string>
-<!-- ### FROM SOURCE -->
-    <string name="segment_copy_fail">"Couldn't copy"</string>
-<!-- ### FROM SOURCE -->
-    <string name="segment_copy_processing">Copying…</string>
-<!-- ### FROM SOURCE -->
-    <string name="segment_copy_success">Copied successfully</string>
-<!-- ### FROM SOURCE -->
-    <string name="segment_no_result">"Couldn't detect the subject of this photo"</string>
-<!-- ### FROM SOURCE -->
-    <string name="segment_save">Save</string>
-<!-- ### FROM SOURCE -->
-    <string name="segment_save_fail">"Couldn't save"</string>
-<!-- ### FROM SOURCE -->
-    <string name="segment_save_processing">Saving…</string>
-<!-- ### FROM SOURCE -->
-    <string name="segment_save_success">Saved to Gallery</string>
-<!-- ### FROM SOURCE -->
-    <string name="segment_send">Send</string>
-<!-- ### FROM SOURCE -->
-    <string name="segment_send_processing">Preparing to send…</string>
     <string name="select_all">Выбрать все</string>
     <string name="select_image_operation">Добавление фото</string>
     <string name="select_item_face">"Это '%s'?"</string>
@@ -2864,8 +2566,6 @@ ID: %s
     <string name="send_public_url">Отправить ссылку на альбом</string>
     <string name="send_secret_file_failed">Не удалось отправить</string>
     <string name="send_secret_file_space_low">Недостаточно места</string>
-<!-- ### FROM SOURCE -->
-    <string name="send_special_video_duration_more_than_40s">Processed videos that are longer than %d minutes can only be shared in their original format, which might not be compatible with the receiving device. Continue anyway?</string>
     <string name="service_error">Ошибка сервера</string>
     <string name="service_is_provided_by_miui_cloud_service">Сервис предоставляется Xiaomi Cloud</string>
     <string name="set_as_baby_lock_wallpaper">Установить как обои экрана блокировки</string>
@@ -3344,8 +3044,6 @@ ID: %s
     <string name="text_item_type_talkback_spot_yiheyuan">Летний дворец</string>
     <string name="text_item_type_talkback_spot_zhangjiajie">Чжанцзяцзе</string>
     <string name="text_recognition">Распознавание текста</string>
-<!-- ### FROM SOURCE -->
-    <string name="text_segment">Photo cutout</string>
     <string name="text_tab_bubble">Выноска</string>
     <string name="text_tab_city">Город</string>
     <string name="text_tab_festival">Праздник</string>
@@ -3422,44 +3120,12 @@ ID: %s
     <string name="tip_capture_time">Дата съёмки:</string>
     <string name="tip_file_info">Файл:</string>
     <string name="tip_file_path">Расположение:</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_leica_authentic">Leica Authentic</string>
-<!-- ### FROM SOURCE -->
-    <string name="tip_leica_vibrant">Leica Vibrant</string>
+    <string name="tip_leica_authentic">Настоящая Leica</string>
+    <string name="tip_leica_vibrant">Яркая Leica</string>
     <string name="tip_not_download">Нет на устройстве. Будет загружено из Xiaomi Cloud при воспроизведении.</string>
     <string name="tip_screenshot_package_info">Имя приложения:</string>
     <string name="tips_for_photo_page_selection">Нажмите на файл для просмотра</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_dynamicfeature_ai_image">dynamicfeature_ai_image</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_dynamicfeature_aimode_7350">Feature_aimode_7350</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_dynamicfeature_aimode_8450">Feature_aimode_8450</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_dynamicfeature_aimode_8550">Feature_aimode_8550</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_dynamicfeature_basefeature_ffmpeg">Feature_basefeature_ffmpeg</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_dynamicfeature_basefeature_imagefeature">Feature_basefeature_imagefeature</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_dynamicfeature_basefeature_map">Feature_baseFeature_map</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_dynamicfeature_basefeature_videocompress">Feature_basefeature_videocompress</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_dynamicfeature_story_7350">Feature_story_7350</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_dynamicfeature_story_8450">Feature_story_8450</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_dynamicfeature_story_8550">Feature_story_8550</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_dynamicfeature_story_8650">Feature_story_8650</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_dynamicfeature_story_basefeature">Feature_story_basefeature</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_dynamicfeature_story_default">Feature_story_default</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_dynamicfeature_story_mtk">Feature_story_mtk</string>
     <string name="title_set_name">Введите имя</string>
     <string name="title_tip">Внимание</string>
     <string name="title_warn">Предупреждение</string>

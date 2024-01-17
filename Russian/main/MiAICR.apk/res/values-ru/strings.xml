@@ -31,59 +31,6 @@
     <string name="afternoon">После полудня</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_cta_main_purpose">On-device cognition engine can recognize situations, learn about your preferences, and provide you with more accurate and personalized services.</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_cta_optional_Perm_Location_Desc">Access and edit files stored on the device</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_cta_runtime_Perm_Location_Desc">For accessing your current location</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_func_detail_msg">Recognizes and predicts situations and provides personalized services</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_func_name">On-device cognition engine</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_func_open">On-device cognition engine</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_permission_declaration">Permissions details</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_permission_location">Location information</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_permission_location_msg">For accessing your current location</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_permission_related">Permissions</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_permission_runtime_msg">For accessing past location information stored on the device in order to provide more accurate and personalized services</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_permission_storage">Access files stored on device</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_permission_storage_msg">For accessing past location information stored on the device</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_privacy_request">Authorization</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_privacy_revoke">Withdrawal of consent</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_privacy_revoke_and">Withdrawing your consent will turn off this feature</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_privacy_revoke_dialog_message">"If you continue, you'll withdraw your consent to the Privacy Policy of On-device cognition engine. We will cease to collect your personal information, and the personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As On-device cognition engine provides its services based on the collection of necessary personal information, your withdrawal of consent will be held as refusing to accept these services."</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_privacy_revoke_dialog_negative">Withdraw</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_privacy_revoke_dialog_negative_count">Withdraw (%ds)</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_privacy_revoke_dialog_positive">Cancel</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_privacy_revoke_dialog_title">Withdrawal of consent</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_privacy_setting">Privacy</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_privacy_statement_show">View Privacy Policy</string>
-<!-- ### FROM SOURCE -->
-    <string name="cognition_privacy_statement_string">Privacy Policy</string>
-    <string name="copy">Копировать</string>
-<!-- ### FROM SOURCE -->
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">For accessing your current location</string>
-<!-- ### FROM SOURCE -->
-    <string name="custom_define_permission_desc_android.permission_group.STORAGE">For accessing past location information stored on the device</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="early_morning">Утро</string>

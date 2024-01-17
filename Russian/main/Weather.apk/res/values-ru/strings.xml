@@ -135,7 +135,6 @@
     <string name="button_settings_confirm_to_revoke_title">Отозвать разрешение?</string>
     <string name="button_sure_abandon">Отменить изменения?</string>
     <string name="card_item_ad_text">Реклама</string>
-<!-- ### FROM SOURCE -->
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Проверьте подключение и повторите попытку</string>
     <string name="china_version_first_start_network_msg">Перед использованием приложения Погода вы должны принять %1$s и %2$s Xiaomi. Приложению для нормальной работы требуется подключение к интернету и доступ к вашему местоположению. Вы согласны?</string>

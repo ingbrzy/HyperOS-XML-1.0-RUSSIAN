@@ -67,8 +67,6 @@
     <string name="chart_power_bmw">Мощность</string>
     <string name="chart_series_bmw">Ряд</string>
     <string name="chart_unsupport_bmw">Не удалось создать график</string>
-<!-- ### FROM SOURCE -->
-    <string name="crash_upload_url">https://mo-dump.wps.cn/errorReport/up</string>
     <string name="doc_scan_save_to_album">Сохранено в Галерее</string>
     <string name="documentmanager_addPic_failed">Не удалось вставить изображение</string>
     <string name="documentmanager_checkUpdate">Проверка обновлений</string>
@@ -134,8 +132,6 @@
     <string name="et_sorter_expand_selection">Рядом с выделенной областью обнаружены данные. Какие данные отсортировать?</string>
     <string name="et_sorter_expand_selection_cancel">Выделенная область</string>
     <string name="et_sorter_expand_selection_ok">Расширить область</string>
-<!-- ### FROM SOURCE -->
-    <string name="exception_report">wpsoffice_exception_report@kingsoft.com</string>
     <string name="feedback_display_subject">Ошибка отображения</string>
     <string name="feedback_nofound_subject">Не удалось найти файл</string>
     <string name="feedback_noopen_subject">Не удалось открыть файл</string>
@@ -144,8 +140,6 @@
     <string name="feedback_subject">Отзыв</string>
     <string name="feedback_suggestion_subject">Предложения по функциям</string>
     <string name="filter">Фильтр</string>
-<!-- ### FROM SOURCE -->
-    <string name="find_path">com.netease.mail.fileprovider#netease/Mail/;com.netease.mobimail.fileprovider#netease/163mail/;com.tencent.wework.external.fileprovider#tencent/WeixinWork/filecache;com.baidu.searchbox.fileprovider#baidu/searchbox/downloads/;com.yearsdiary.tenyear.mis.fileprovider#/Android/data/com.yearsdiary.tenyear/files/wwwroot;com.android.fileexplorer.myprovider#/documents;im.yixin.fileprovider#/Android/data/im.yixin/files/Yixin/file;com.baidu.wenku.fileProvider#BaiduWenku/download/original;com.android.providers.downloads.documents#/document;com.android.chrome.FileProvider#/downloads;com.tencent.mm.external.fileprovider#/tencent/MicroMsg/Download;999@com.tencent.mm.external.fileprovider#/tencent/MicroMsg/Download;com.synology.dsfile.fileprovider#DSfile/;com.tencent.weworklocal.fileprovider#Tencent/WeixinWork/filecache/;com.synology.dsdrive.external#DSfile/;im.yixin.qiye.fileprovider#Android/data/im.yixin/files/Yixin/file/;com.microsoft.emmx.FileProvider#Android/data/com.microsoft.emmx/files/Download/;</string>
     <string name="func_extract_sheet">Извлечь</string>
     <string name="func_output_as_pic">Изображение</string>
     <string name="func_pdf_to_word">Word</string>
@@ -194,15 +188,9 @@
     <string name="ppt_video_extracting_video_file">Извлечение видеофайла</string>
     <string name="ppt_video_install_videoplayer_tip">Установите видеопроигрыватель.</string>
     <string name="ppt_volume_is_too_low_tip">Наденьте наушники или сделайте громче звук</string>
-<!-- ### FROM SOURCE -->
-    <string name="privacy_mobile">https://www.wps.com/privacy/mobile/</string>
-<!-- ### FROM SOURCE -->
-    <string name="privacy_protecte">https://privacy.wps.cn/policies/privacy/wps-file-viewer</string>
     <string name="projection_fail">Ошибка трансляции. Проверьте внешний монитор и повторите попытку.</string>
     <string name="public_2pic">Экспорт в изображение</string>
     <string name="public_amazon_autosave_finished">Этот документ был автоматически сохранён.</string>
-<!-- ### FROM SOURCE -->
-    <string name="public_app_language">2052</string>
     <string name="public_bad_doc_to_process">Документ содержит ошибки и не может быть обработан.</string>
     <string name="public_bookmark">Закладка</string>
     <string name="public_cancel">Отмена</string>
@@ -382,10 +370,6 @@
     <string name="reader_writer_table_edit_add_column">добавить столбец</string>
     <string name="reader_writer_table_edit_add_row">добавить строку</string>
     <string name="search_menu_title">Поиск</string>
-<!-- ### FROM SOURCE -->
-    <string name="secret_internation_policy_url">https://www.wps.com/privacy-policy/</string>
-<!-- ### FROM SOURCE -->
-    <string name="secret_internation_service_url">https://www.wps.com/eula</string>
     <string name="ss_card_mode_filter_title_text">Отображение</string>
     <string name="ss_card_view_mode">Карта</string>
     <string name="ss_grid_view_mode">Таблица</string>

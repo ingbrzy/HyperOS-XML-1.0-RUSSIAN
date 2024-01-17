@@ -28,25 +28,9 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accessibility_fingerprint_dialog_help_area">Область сообщений справки</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_keyboard_delete_button">Delete</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_keyboard_letter_board_caps_lock_button">Caps lock</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_keyboard_letter_board_shift2number_button">Numbers</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_keyboard_letter_board_shift2symbol_button">Symbols</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_keyboard_ok_button">Enter</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_keyboard_symbol_board_shift2letter_button">Letters</string>
-<!-- ### FROM SOURCE -->
-    <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Symbol lock</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
     <string name="app_no_storage_permission">Разрешите %1$s доступ к хранилищу в  Настройки > Приложения > %2$s > Разрешения</string>
-<!-- ### FROM SOURCE -->
-    <string name="app_not_support_subscreen">"Can't maximize this window"</string>
     <string name="app_opened_in_new_window">Приложение открыто в новом окне</string>
     <string name="call_error_notify_button">Переключиться</string>
     <string name="call_error_notify_content">Вы можете переключиться обратно на телефон, чтобы продолжить разговор.</string>
@@ -57,16 +41,10 @@
     <string name="cast_mcc_tips_button_ok">Настройки</string>
     <string name="cast_mcc_tips_title_china">Изменение настроек Wi-Fi</string>
     <string name="circulate_cta_agree">Принимаю</string>
-<!-- ### FROM SOURCE -->
-    <string name="circulate_cta_all_purpose">Home screen+ is a part of Xiaomi Interconnectivity Services. It allows you to view and interact with the Home screens of other connected devices. To be able to work normally, this service needs to connect to the internet and requires the following permissions:</string>
     <string name="circulate_cta_app_name">Xiaomi Interconnectivity</string>
     <string name="circulate_cta_desc_phone_miui15_14">Добро пожаловать в Xiaomi Interconnectivity! Это приложение можно использовать для трансляции экрана, воспроизведения мультимедиа на разных устройствах, использования Mi Smart Play, подключения устройств и передачи приложений. Для нормальной работы приложению необходимы подключение к интернету и следующие разрешения:</string>
     <string name="circulate_cta_exit">Выход</string>
     <string name="circulate_cta_new_app_name">Рабочий стол+</string>
-<!-- ### FROM SOURCE -->
-    <string name="circulate_cta_premission_bluetooth">For connecting devices and transferring data between them via Bluetooth</string>
-<!-- ### FROM SOURCE -->
-    <string name="circulate_cta_premission_microphone">For transferring audio to other devices during casting and screen mirroring</string>
     <string name="circulate_cta_premission_sound_subtitle">Для трансляции аудиопотока на подключенные устройства</string>
     <string name="circulate_cta_premission_sound_title">Запись звука</string>
     <string name="circulate_cta_premission_storage_pad_title">Доступ к файлам в хранилище</string>
@@ -89,10 +67,6 @@
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="default_boss_terminal_name">ПК Xiaomi</string>
     <string name="default_error_msg">Неизвестная ошибка</string>
-<!-- ### FROM SOURCE -->
-    <string name="desktop_switch_is_closed">Home screen+ is turned off</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_busy">Device is busy. Wait a minute or two and try again.</string>
     <string name="device_max_screen_count_toast">Устройство поддерживает открытие только двух окон одновременно</string>
     <string name="display_max_screen_count_toast">В этой версии можно открыть не более двух окон</string>
     <string name="display_not_support_secondary_toast">Не удается открыть это приложение в новом окне</string>
@@ -160,39 +134,19 @@
     <string name="guide_window_btn_know">Понятно</string>
     <string name="guide_window_operation">Проведите от края к центру экрана</string>
     <string name="guide_window_title">Назад</string>
-<!-- ### FROM SOURCE -->
-    <string name="handoff_cta_all_purpose">Welcome to Xiaomi Interconnectivity Services! They allow you to start tasks on one device and continue with them in the same app on other connected devices. To be able to work normally, these services need to connect to the internet.</string>
-<!-- ### FROM SOURCE -->
-    <string name="handoff_switch_is_closed">App handoff is turned off</string>
-<!-- ### FROM SOURCE -->
-    <string name="hint_password">Enter password</string>
-<!-- ### FROM SOURCE -->
-    <string name="hint_password_error">Incorrect password</string>
-<!-- ### FROM SOURCE -->
-    <string name="hint_unlock_password">Enter password to unlock</string>
     <string name="http_buffer_size">Размер кэша HTTP</string>
     <string name="invisible_mode_dialog_cancel">Отмена</string>
     <string name="invisible_mode_dialog_positive">Отключить</string>
     <string name="invisible_mode_dialog_title">Режим инкогнито</string>
     <string name="invisible_mode_toast">Отключите режим инкогнито</string>
-<!-- ### FROM SOURCE -->
-    <string name="keyboard_error_subtitle">Unlock on \"%s\"</string>
-<!-- ### FROM SOURCE -->
-    <string name="keyboard_error_title">Too many attempts</string>
-<!-- ### FROM SOURCE -->
-    <string name="keyboard_key_back">Back</string>
-<!-- ### FROM SOURCE -->
-    <string name="keyboard_key_exit">Exit</string>
-<!-- ### FROM SOURCE -->
-    <string name="keyboard_key_space">Space</string>
-<!-- ### FROM SOURCE -->
-    <string name="keyboard_num_back_btn">Exit</string>
-<!-- ### FROM SOURCE -->
-    <string name="keyboard_num_close_btn">Back</string>
-<!-- ### FROM SOURCE -->
-    <string name="keyboard_num_delete_btn">Delete</string>
-<!-- ### FROM SOURCE -->
-    <string name="keyboard_title">Enter screen lock for \"%s\"</string>
+    <string name="keyboard_error_subtitle">Разблокируйте на \"%s\"</string>
+    <string name="keyboard_error_title">Слишком много попыток</string>
+    <string name="keyboard_key_back">Назад</string>
+    <string name="keyboard_key_exit">Выход</string>
+    <string name="keyboard_key_space">Пробел</string>
+    <string name="keyboard_num_back_btn">Выход</string>
+    <string name="keyboard_num_close_btn">Назад</string>
+    <string name="keyboard_num_delete_btn">Удалить</string>
     <string name="keyguard_accessibility_pattern_unlock">"Графический ключ"</string>
     <string name="loading">Подождите…</string>
     <string name="loading_view_abort_close_text">Закрыть</string>
@@ -223,66 +177,8 @@
     <string name="message_log">Журналы сообщений</string>
     <string name="midnight">Ночь</string>
     <string name="mirror_call_closed">Вызов принят другим устройством</string>
-<!-- ### FROM SOURCE -->
-    <string name="mirror_have_been_opened">Home screen+ is on</string>
-<!-- ### FROM SOURCE -->
-    <string name="mirror_to_settings_connectivity_remote_pad_content">You can turn on Xiaomi Interconnectivity on your tablet in Settings > Interconnectivity.</string>
-<!-- ### FROM SOURCE -->
-    <string name="mirror_to_settings_connectivity_remote_pad_title">Xiaomi Interconnectivity is off</string>
-<!-- ### FROM SOURCE -->
-    <string name="mirror_to_settings_connectivity_remote_pc_content">You can turn on Xiaomi Interconnectivity on your computer in Settings > Interconnectivity.</string>
-<!-- ### FROM SOURCE -->
-    <string name="mirror_to_settings_connectivity_remote_pc_title">Xiaomi Interconnectivity is off</string>
-<!-- ### FROM SOURCE -->
-    <string name="mirror_to_settings_phone_content">Turn on Home screen+ now?</string>
-<!-- ### FROM SOURCE -->
-    <string name="mirror_to_settings_remote_pad_content">You can turn on Home screen+ in Settings > Interconnectivity.</string>
-<!-- ### FROM SOURCE -->
-    <string name="mirror_to_settings_remote_pad_title">Turn on Home screen+ on the tablet</string>
-<!-- ### FROM SOURCE -->
-    <string name="mirror_to_settings_remote_pc_content">You can turn on Home screen+ in Settings > Interconnectivity.</string>
-<!-- ### FROM SOURCE -->
-    <string name="mirror_to_settings_remote_pc_title">Turn on Home screen+ on the computer</string>
-<!-- ### FROM SOURCE -->
-    <string name="mirror_to_settings_title">Turn on Home screen+</string>
     <string name="mishare_interrupting_message">Завершить сеанс Mi Share и прервать все текущие передачи?</string>
     <string name="mishare_interrupting_title">Завершение сеанса</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui15_app_name">Device interconnectivity services</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui15_cta_app_name">Xiaomi Interconnectivity</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui15_cta_desc_phone">Xiaomi Interconnectivity Services allow your devices to interact with each other wirelessly. You can use Xiaomi Interconnectivity Services to control devices, transfer audio and video playback, combine device features, or start tasks on one device and continue with them in the same app on other connected devices. To be able to work normally, these services need to connect to the internet and require the following permissions:</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui15_cta_permission_bluetooth_subtitle">For connecting devices and transferring data between them</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui15_cta_permission_mac_address_subtitle">For discovering nearby devices</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui15_cta_permission_obtain_information_subtitle">While recording or casting, the service providing this feature can capture any sensitive information that is displayed on your screen or played from your device, including sensitive information such as audio, passwords, payment info, photos, and messages</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui15_cta_permission_sound_subtitle">For recording local audio during casting and screen mirrorring</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui15_cta_permission_storage_subtitle">For casting and transferring content from this device</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui15_cta_permission_transferring_data_subtitle">For transferring data between connected devices</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui15_cta_permission_wlan_subtitle_china">For transferring items and connecting devices via Wi-Fi</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui15_cta_premission_wlan_title_china">Turn Wi-Fi on and off</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui15_invisible_mode_dialog_message">"Can't use device interconnectivity services when you're incognito. Turn off Incognito mode first."</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui15_low_version_dialog_message">Update software on your computer or download the latest version from plus.miui.com.</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui15_low_version_dialog_title">Update device interconnectivity services</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui15_nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Couldn't connect to the computer. Make sure you've turned on Wi-Fi and Bluetooth on both your mobile device and computer and that your computer is running Xiaomi PC Manager."</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui15_privacy_all_purpose">Device interconnectivity services allow you to connect your phone to a computer and combine two devices into one working station.</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui15_privacy_pad_all_purpose">Device interconnectivity services allow you to combine your mobile devices into one working station so you can use the apps from your phone on your tablet, answer calls on another device, use shared clipboard, transfer items, and cast screen content.</string>
-<!-- ### FROM SOURCE -->
-    <string name="miui15_scanner_lower_version_toast">Update software on your computer to connect</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
@@ -381,8 +277,7 @@
     <string name="notify_connected_message_pad">Выполняйте задачи на подключенном ПК или используйте это устройство в качестве расширения экрана</string>
     <string name="notify_connected_title">Подключено к %1$s</string>
     <string name="ok">ОК</string>
-<!-- ### FROM SOURCE -->
-    <string name="ok_button">Got it</string>
+    <string name="ok_button">ОК</string>
     <string name="open_folder">Открыть</string>
     <string name="pad_fullscreen_sink_activity_label">Моё устройство</string>
     <string name="pad_mirror_device_locked_tips_3">Коснитесь дважды, чтобы разбудить</string>
@@ -435,8 +330,7 @@
     <string name="pc_cooperate_guide_screenshot">Скриншот</string>
     <string name="pc_cooperate_guide_task">Задачи</string>
     <string name="pc_cooperate_guide_undo">Отмена (Ctrl+Z)</string>
-<!-- ### FROM SOURCE -->
-    <string name="pc_low_version_toast">Update software on your computer</string>
+    <string name="pc_low_version_toast">Обновите программное обеспечение на ПК</string>
     <string name="pcmode_not_support_multi_window">Режим ПК не поддерживает отображение нескольких окон</string>
     <string name="permission_access_nearby_device">Доступ к устройствам поблизости</string>
     <string name="phone_pad_app_introduction_summary">Продолжайте работу в том же приложении на другом устройстве</string>
@@ -477,47 +371,12 @@
     <string name="save_failed">Не удалось сохранить</string>
     <string name="scanner_uninstalled_text">Приложение Сканер не установлено на устройстве. Сначала установите приложение.</string>
     <string name="scanner_uninstalled_title">Приложение не установлено</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_connecting">Connecting…</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_failed_to_open">"Couldn't connect"</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_failed_to_open_due_to_hotspot">Turn off portable hotspot and try again</string>
+    <string name="screen_connecting">Подключение…</string>
+    <string name="screen_failed_to_open">Не удалось подключиться</string>
     <string name="screen_num_over_limit">Достигнут лимит количества окон</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_permission_notification_sub_title">Unlock device to grant permission</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_permission_notification_title">"%s wants to use this device's screen"</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_permission_pad_dialog_btn">Got it</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_permission_pad_dialog_title">Grant permissions on the other device</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_permission_pad_tips_denied">Open Settings > Interconnectivity > Interconnectivity and permissions on %s to allow other devices to view and interact with its screen content.</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_permission_pad_tips_prompt">Grant permissions on %s</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_permission_phone_dialog_cancel_btn">Cancel</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_permission_phone_dialog_setting_btn">Settings</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_permission_phone_dialog_title">Permissions required</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_permission_phone_tips_denied">"%s isn't allowed to view and interact with this device's screen content. Change your preferences to \"Always allow\" to be able to use this feature."</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_permission_request_desc">For allowing %s to display content and operate across devices</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_permission_request_mirror">Home screen+</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_permission_request_relay">App handoff</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_record_notification_btn">Stop</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_record_notification_sub_title">"%s is recording this device's screen"</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_record_notification_title">Recording screen…</string>
-<!-- ### FROM SOURCE -->
-    <string name="screen_succeed_to_open">Connected successfully</string>
+    <string name="screen_permission_phone_dialog_cancel_btn">Отмена</string>
+    <string name="screen_permission_phone_dialog_setting_btn">Настройки</string>
+    <string name="screen_permission_phone_dialog_title">Предоставьте разрешения</string>
     <string name="search_menu_title">Поиск</string>
     <string name="seize_cancel">Отмена</string>
     <string name="seize_content">Для передачи файлов необходимо завершить совместный доступ к экрану. Завершить?</string>
@@ -560,10 +419,7 @@
     <string name="settings_nfc_transfer_title">Передача через NFC</string>
     <string name="settings_pad">Планшет</string>
     <string name="settings_pad_handoff_title">Автоподключение</string>
-<!-- ### FROM SOURCE -->
-    <string name="settings_page">Home screen+</string>
-<!-- ### FROM SOURCE -->
-    <string name="settings_page_default_seat">Phone screen position</string>
+    <string name="settings_page">Рабочий стол+</string>
     <string name="settings_pc">ПК</string>
     <string name="settings_pc_handoff_title">Подключение к ПК</string>
     <string name="settings_pc_use_tile">О функции</string>
@@ -583,10 +439,8 @@
     <string name="share_pc_abort_dialog_ok">ОК</string>
     <string name="share_pc_abort_dialog_title">Соединение прервано</string>
     <string name="share_pc_file_transfer_finish">Передача завершена</string>
-<!-- ### FROM SOURCE -->
-    <string name="share_pc_file_transfer_part_failed">"Couldn't transfer some files. Wait a minute or two and try again."</string>
-<!-- ### FROM SOURCE -->
-    <string name="share_pc_file_transfer_try_later">Wait a minute or two and try again.</string>
+    <string name="share_pc_file_transfer_part_failed">Не удалось передать некоторые файлы. Повторите позже.</string>
+    <string name="share_pc_file_transfer_try_later">Повторите позже</string>
     <string name="share_pc_folder_error_dialog_message">Перетаскивание папок и их передача в настоящее время не поддерживается.</string>
     <string name="share_pc_folder_error_dialog_ok">ОК</string>
     <string name="share_pc_folder_error_dialog_title">Ошибка передачи</string>
@@ -594,8 +448,7 @@
     <string name="share_pc_folder_multi_error_dialog_ok">ОК</string>
     <string name="share_pc_folder_multi_error_dialog_title">Не удалось передать все файлы</string>
     <string name="share_stop_share_to_start_screen">Завершите трансляцию для возможности общего доступа к экрану</string>
-<!-- ### FROM SOURCE -->
-    <string name="share_to_settings_phone_content">Turn on Xiaomi Interconnectivity now?</string>
+    <string name="share_to_settings_phone_content">Включить Xiaomi Interconnectivity?</string>
     <string name="share_to_settings_title">Xiaomi Interconnectivity</string>
     <string name="sink_pc_click_again_to_finish_extent">Нажмите ещё раз, чтобы отключить расширение экрана</string>
     <string name="sink_pc_click_again_to_finish_mirror">Нажмите ещё раз, чтобы остановить трансляцию содержимого экрана</string>
@@ -639,8 +492,6 @@
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="sub_screen_lock_message">"Разблокируйте устройство,
 чтобы продолжить"</string>
-<!-- ### FROM SOURCE -->
-    <string name="subscreen_exception_hint">"Device isn't updated to the latest version. Display errors may occur."</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
@@ -650,8 +501,6 @@
     <string name="switch_wlan_success">Подключено</string>
     <string name="switch_wlan_tips_china">Подключение к одной сети</string>
     <string name="switch_wlan_tips_desc_china">Подключиться к той же сети Wi-Fi, к которой подключено другое устройство?</string>
-<!-- ### FROM SOURCE -->
-    <string name="switch_wlan_tips_desc_pad_china">You can connect to the same Wi-Fi network as the other device for better experience. Connect now?</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>

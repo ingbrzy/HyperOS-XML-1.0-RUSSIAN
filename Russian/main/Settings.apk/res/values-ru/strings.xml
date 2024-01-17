@@ -5650,8 +5650,6 @@ ID: %s
     <string name="menu_hide_system">Скрыть системные процессы</string>
     <string name="menu_item_notification_power_text">Оптимизация батареи</string>
     <string name="menu_key">Кнопка \"Меню\"</string>
-<!-- ### FROM SOURCE -->
-    <string name="menu_key_communal">top_level_communal</string>
     <string name="menu_new">Новая точка доступа</string>
     <string name="menu_new_display_open">Открыть в новом окне</string>
     <string name="menu_pc_open">Открыть на ПК</string>
@@ -9436,10 +9434,6 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="taplus_title">Taplus</string>
     <string name="tare_actions_base_price">Действия (базовые затраты)</string>
     <string name="tare_actions_ctp">Действия (затраты на выполнение)</string>
-<!-- ### FROM SOURCE -->
-    <string name="tare_alarm_clock">AlarmClock</string>
-<!-- ### FROM SOURCE -->
-    <string name="tare_alarmmanager">AlarmManager</string>
     <string name="tare_app_install">"Установить приложение"</string>
     <string name="tare_balances">Баланс</string>
     <string name="tare_consumption_limits">Ограничение потребления</string>
@@ -9456,8 +9450,6 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="tare_job_min_running">Выполняется задание (мин. приоритет)</string>
     <string name="tare_job_min_start">Запускается задание (мин. приоритет)</string>
     <string name="tare_job_timeout_penalty">Штраф за превышение времени ожидания</string>
-<!-- ### FROM SOURCE -->
-    <string name="tare_jobscheduler">JobScheduler</string>
     <string name="tare_max_consumption_limit">Максимальное ограничение потребления</string>
     <string name="tare_max_satiated_balance">Максимальный баланс при полной зарядке</string>
     <string name="tare_min_balance_addition_app_updater">"Пополнение минимального баланса при полном заряде (для обновления приложений)"</string>

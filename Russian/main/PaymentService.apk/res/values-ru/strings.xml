@@ -31,8 +31,6 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
     <string name="cancel">Отмена</string>
-<!-- ### FROM SOURCE -->
-    <string name="card_title">card_title</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="confirm">ОК</string>
@@ -58,7 +56,6 @@
     <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
-<!-- ### FROM SOURCE -->
     <string name="format_count_down">（%1$d）</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
@@ -534,8 +531,6 @@
     <string name="night">Вечер</string>
     <string name="no_network">Не удалось подключиться к сети</string>
     <string name="noon">Полдень</string>
-<!-- ### FROM SOURCE -->
-    <string name="page_pay_read_default_num">5</string>
     <string name="passport_access_denied">Доступ запрещён</string>
     <string name="passport_account_crop_user_avatar">Обрезать фото</string>
     <string name="passport_account_empty_user_name">Введите имя</string>
@@ -706,22 +701,6 @@
     <string name="passport_wrong_vcode">Код введен неверно</string>
     <string name="passport_wrong_voice">Введенный вами код неверен</string>
     <string name="phone_number">Номер телефона</string>
-<!-- ### FROM SOURCE -->
-    <string name="ppplugin_brackets_prompt_left">（</string>
-<!-- ### FROM SOURCE -->
-    <string name="ppplugin_brackets_prompt_right">）</string>
-<!-- ### FROM SOURCE -->
-    <string name="ppplugin_dialog_amount">¥38</string>
-<!-- ### FROM SOURCE -->
-    <string name="ppplugin_dialog_count_down">3</string>
-<!-- ### FROM SOURCE -->
-    <string name="ppplugin_flag_dollar">$</string>
-<!-- ### FROM SOURCE -->
-    <string name="ppplugin_flag_rmb">¥</string>
-<!-- ### FROM SOURCE -->
-    <string name="ppplugin_input_cardinfo_cardcvn2_prompt">CVN2</string>
-<!-- ### FROM SOURCE -->
-    <string name="ppplugin_inputcard_service_activation_url">https://www.95516.com/portal/open/init.do?entry=open</string>
     <string name="qq_application_id" />
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
@@ -755,8 +734,6 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
-<!-- ### FROM SOURCE -->
-    <string name="tel_number_ums"><u>95534</u></string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>
@@ -803,10 +780,6 @@
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_activity_activity_pay_result">ActivityPayResult</string>
-<!-- ### FROM SOURCE -->
-    <string name="title_activity_activity_select_install">ActivitySelectInstall</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="tuesday">Вторник</string>
