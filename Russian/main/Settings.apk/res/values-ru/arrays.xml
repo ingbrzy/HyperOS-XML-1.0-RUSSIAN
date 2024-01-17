@@ -1209,8 +1209,8 @@
         <item>Перемещение…</item>
     </string-array>
     <string-array name="nfc_notification_mode_summaries">
-        <item>Платежные карты, карты доступа, карты Умного дома</item>
-        <item>Сопряжение по Bluetooth, беспроводное соединение, карты Умного дома</item>
+        <item>Платежные карты, карты доступа, карты \"умного\" дома</item>
+        <item>Сопряжение по Bluetooth, беспроводное соединение, карты \"умного\" дома</item>
     </string-array>
     <string-array name="nfc_notification_mode_titles">
         <item>Все карты</item>

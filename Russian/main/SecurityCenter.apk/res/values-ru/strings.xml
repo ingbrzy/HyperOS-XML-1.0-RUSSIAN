@@ -6401,7 +6401,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="warningcenter_disaster_zhongwuran">Смог</string>
     <string name="warningcenter_earthquake_info">Раннее предупреждение о землетрясении</string>
     <string name="warningcenter_mijia_alert_close">Закрыть</string>
-    <string name="warningcenter_mijia_alert_settings">Измените настройки в разделе Безопасность &gt; Оповещения устройств умного дома</string>
+    <string name="warningcenter_mijia_alert_settings">Измените настройки в разделе Безопасность &gt; Оповещения устройств \"умного\" дома</string>
     <string name="warningcenter_mijia_alert_tips_1">Зафиксирована высокая концентрация газа</string>
     <string name="warningcenter_mijia_alert_tips_2">Зафиксировано задымление</string>
     <string name="warningcenter_mijia_alert_tips_3">Зафиксирована утечка воды</string>
@@ -6414,13 +6414,13 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="warningcenter_mijia_devices_support">Поддерживаемые устройства</string>
     <string name="warningcenter_mijia_devices_support_tips">Примечание: вы не сможете получать оповещения, если выйдете из аккаунта Mi Home или удалите приложение.</string>
     <string name="warningcenter_mijia_info">Следите за безопасностью вашего дома</string>
-    <string name="warningcenter_mijia_notification_summary">Оповещения от устройств умного дома включены</string>
+    <string name="warningcenter_mijia_notification_summary">Оповещения от устройств \"умного\" дома включены</string>
     <string name="warningcenter_mijia_notification_title">Оповещения включены</string>
     <string name="warningcenter_mijia_open_desc">Оповещения от смарт-устройств в Mi Home</string>
     <string name="warningcenter_mijia_open_title">Оповещения</string>
     <string name="warningcenter_mijia_page_title">Оповещения</string>
     <string name="warningcenter_mijia_search_keywords">Оповещения Mi Home</string>
-    <string name="warningcenter_mijia_title">Оповещения устройств умного дома</string>
+    <string name="warningcenter_mijia_title">Оповещения устройств \"умного\" дома</string>
     <string name="warningcenter_policeassist_charge_tips">*Может взиматься плата за исходящие текстовые сообщения. Свяжитесь с вашим оператором, чтобы узнать о тарифах.</string>
     <string name="warningcenter_policeassist_close_btn">Отключить</string>
     <string name="warningcenter_policeassist_flow_locating">Получение информации…</string>

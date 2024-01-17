@@ -3264,7 +3264,7 @@ ID: %s
     <string name="dual_clock_open_message">Двойные часы будут отображаться на экране блокировки и рабочем столе.</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
-    <string name="dual_wifi">Ускорение с помощью двухдиапазонного Wi-Fi</string>
+    <string name="dual_wifi">Двухдиапазонное ускорение Wi-Fi</string>
     <string name="dual_wifi_acceleration">Ускорение</string>
     <string name="dual_wifi_auto_disable">Автоматическое отключение ускорения</string>
     <string name="dual_wifi_auto_disable_summary">Отключение от дополнительной сети Wi-Fi при выключенном экране для экономии заряда</string>
@@ -5873,7 +5873,7 @@ ID: %s
     <string name="miui_bubbles_notification_status_opened">Вкл.</string>
     <string name="miui_data_usage_menu_metered">Мобильная точка доступа</string>
     <string name="miui_desktop_mode_settings">Рабочая станция</string>
-    <string name="miui_device_control_description">Показать приложения, поддерживающие управление устройствами умного дома</string>
+    <string name="miui_device_control_description">Показать приложения, поддерживающие управление устройствами \"умного\" дома</string>
     <string name="miui_experience_optimization">Включить оптимизацию MIUI</string>
     <string name="miui_face_data_input_dialog_cancel_btn_for_sensor_light_virtual">Отмена</string>
     <string name="miui_face_data_input_dialog_message_for_sensor_light_virtual">Для лучшей работы разблокировки по лицу не используйте авторегулировку яркости</string>
@@ -8815,13 +8815,13 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="smart_forwarding_summary_disabled">Умная переадресация отключена</string>
     <string name="smart_forwarding_summary_enabled">Умная переадресация включена</string>
     <string name="smart_forwarding_title">Умная переадресация</string>
-    <string name="smart_home_select_smart_device">Приложение для управления устройствами умного дома</string>
+    <string name="smart_home_select_smart_device">Приложение для управления устройствами \"умного\" дома</string>
     <string name="smart_home_title">Умный дом</string>
     <string name="smart_home_value_none">Нет</string>
     <string name="smart_home_value_unknown">Неизвестно</string>
     <string name="smart_rotate_text_headline">Функция \"Распознавание лиц\" улучшает точность автоповорота с помощью фронтальной камеры. Изображения никогда не сохраняются и не отправляются в Google.</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Режим \"Умный чехол\"</string>
-    <string name="smartcover_sensitive_summary">Автоматическая блокировка и разблокировка с помощью умного чехла</string>
+    <string name="smartcover_sensitive_summary">Автоматическая блокировка и разблокировка с помощью \"умного\" чехла</string>
     <string name="smartcover_sensitive_title">Умный чехол</string>
     <string name="smooth_adjust_ligth">Сглаживание переходов</string>
     <string name="smooth_adjust_ligth_summary">Более плавные переходы при ручной регулировке яркости. В некоторых случаях могут появляться небольшие несоответствия цвета, когда эта функция включена.</string>

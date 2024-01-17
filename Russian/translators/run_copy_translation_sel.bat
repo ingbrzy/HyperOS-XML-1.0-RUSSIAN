@@ -74,7 +74,7 @@ IF EXIST %_dst%arrays.xml (
 )
 
 del %_run%DST\result.xml
-%_run%XMLCompare /at /fa /s %_run%SRC\arrays.xml /d %_run%DST\arrays.xml /i %_dat%ignore_a.xml /t %_dat%translate_a.xml /n 4 /silent_t
+%_run%XMLCompare /at /fa /s %_run%SRC\arrays.xml /d %_run%DST\arrays.xml /i %_dat%ignore_a.xml /t %_dat%translate_a_sel.xml /n 4 /silent_t
 
 IF EXIST %_run%DST\result.xml (
   copy %_run%DST\result.xml %_run%DST\arrays.xml
