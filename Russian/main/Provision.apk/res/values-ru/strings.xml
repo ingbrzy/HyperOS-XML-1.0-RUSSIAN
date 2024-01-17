@@ -193,8 +193,8 @@
     <string name="install_preinstall_app">Загрузка приложений…</string>
     <string name="intent_filter_verification_service">Служба проверки Intent Filter</string>
     <string name="interconnection_communication_introduction">Службы интернет-коммуникации Xiaomi позволяют обнаруживать, подключаться и общаться с другими устройствами Xiaomi.</string>
-    <string name="interconnection_service_global_item_title">Взаимосвязь Xiaomi</string>
-    <string name="interconnection_service_global_label">"&lt;Data>Взаимосвязь Xiaomi позволяет вашим устройствам взаимодействовать друг с другом по беспроводной сети. Включая этот переключатель, вы принимаете &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a >.&lt;/Data> Взаимосвязь Xiaomi.</string>
+    <string name="interconnection_service_global_item_title">Взаимосвязанность Xiaomi</string>
+    <string name="interconnection_service_global_label">"&lt;Data>Взаимосвязанность Xiaomi позволяет вашим устройствам взаимодействовать друг с другом по беспроводной сети. Включая этот переключатель, вы принимаете &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a >.&lt;/Data> Взаимосвязанность Xiaomi.</string>
     <string name="interconnection_service_summary_china">"Службы межсетевого взаимодействия Xiaomi позволяет устройствам взаимодействовать друг с другом по беспроводной связи и включают в себя Mi Smart Play, трансляцию, передачу приложений, Рабочий стол+, общий буфер обмена, захват изображений с разных устройств, сетевой помощник, общие клавиатуры и мыши, общую камеру и Mi Smart Hub. Для нормальной работы служб разрешите подключение кнтернету и предоставьте следующие разрешения:
 \u0009\u0009Mi Smart Play и трансляция:
 \u0009\u0009Включение и выключение Bluetooth
@@ -257,7 +257,7 @@
 \u0009\u0009Для отправки и получения контента
 В случае отказа предоставить необходимые разрешения, вы не сможете использовать эти службы.
 Доступные службы могут различаться в зависимости от версии системы и модели устройства. Подробнее на %s."</string>
-    <string name="interconnection_service_summary_global">Функции Взаимосвязь Xiaomi могут различаться в зависимости от модели устройства и версии системы. Посетите официальный сайт для подробностей.</string>
+    <string name="interconnection_service_summary_global">Функции Взаимосвязанность Xiaomi могут различаться в зависимости от модели устройства и версии системы. Посетите официальный сайт для подробностей.</string>
     <string name="interconnection_service_title">Службы межсетевого взаимодействия Xiaomi</string>
     <string name="item_contents_wwarning">В случае потери устройства и отсутствия блокировки, устройство и ваши личные данные будут доступны другим людям. Всё равно пропустить?</string>
     <string name="item_facerecognition">Разблокировка по лицу</string>

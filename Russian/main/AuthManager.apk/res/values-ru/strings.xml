@@ -210,7 +210,7 @@
     <string name="grant_dialog_storage_sociality_title">Файлы приложений соцсетей</string>
     <string name="group_audio">Музыка и аудио</string>
     <string name="group_call">Телефон</string>
-    <string name="group_connect_device">Взаимосвязь</string>
+    <string name="group_connect_device">Взаимосвязанность</string>
     <string name="group_file">Файлы и документы</string>
     <string name="group_image_video">Фото и видео</string>
     <string name="group_location">Геолокация</string>

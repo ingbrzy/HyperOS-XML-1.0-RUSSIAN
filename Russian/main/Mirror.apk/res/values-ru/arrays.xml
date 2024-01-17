@@ -96,7 +96,7 @@
     </string-array>
     <string-array name="settings_search_mirror_desktop">
         <item>Рабочий стол+</item>
-        <item>Взаимосвязь/Рабочий стол+</item>
+        <item>Взаимосвязанность/Рабочий стол+</item>
         <item>Рабочий стол+, Рабочий стол, Mi Smart Hub, Screen Combo, взаимосвязь между устройствами</item>
     </string-array>
     <string-array name="settings_tips_message">

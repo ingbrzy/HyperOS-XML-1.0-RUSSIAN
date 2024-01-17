@@ -4650,7 +4650,7 @@ ID: %s
     <string name="interact_across_profiles_switch_enabled">Связь установлена</string>
     <string name="interact_across_profiles_title">Связь рабочих и личных приложений</string>
     <string name="interaction_control_category_title">Интерактивное управление</string>
-    <string name="interconnection">Взаимосвязь</string>
+    <string name="interconnection">Взаимосвязанность</string>
     <string name="interesting_text">Реалистичный виброотклик делает взаимодействие с экраном более чётким и информативным</string>
     <string name="interesting_title">Реалистичность</string>
     <string name="internal_auto_rotate_title">Блокировка ориентации внутреннего экрана</string>
