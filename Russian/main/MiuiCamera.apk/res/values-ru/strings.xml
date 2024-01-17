@@ -1060,6 +1060,7 @@
     <string name="friend_mode_searching_tips_china">Подключите оба устройства к одной сети WLAN или к точке доступа и включите функцию \"Вспомогательная камера\", чтобы делать снимки на одном из них при помощи другого.</string>
     <string name="friend_mode_select_device">Выберите вспомогательное устройство</string>
     <string name="friend_mode_transfer_picture">Передача фотографий…</string>
+    <string name="frind_sign_button_accessibility">Отключить функцию \"Вспомогательная камера\"</string>
     <string name="fromkeyguard_not_permission">Разблокируйте устройство для использования этой функции</string>
     <string name="front_camera_hint_text_place">"Снимать селфи будет проще,
 если развернуть устройство"</string>
