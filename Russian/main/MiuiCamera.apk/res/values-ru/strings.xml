@@ -99,20 +99,20 @@
     <string name="accessibility_dual_video_merged">Объединенные видео</string>
     <string name="accessibility_dual_video_standalone">Разделенные видео</string>
     <string name="accessibility_effect_mode_button">Эффекты</string>
-    <string name="accessibility_eis_normal">EIS включена</string>
-    <string name="accessibility_eis_off">EIS выключена</string>
-    <string name="accessibility_eis_pro">EIS Pro включена</string>
+    <string name="accessibility_eis_normal">Стабилизация видео вкл.</string>
+    <string name="accessibility_eis_off">Стабилизация видео откл.</string>
+    <string name="accessibility_eis_pro">Стабилизация видео PRO вкл.</string>
     <string name="accessibility_expand">Увеличить</string>
-    <string name="accessibility_fastmotion_speed_panel_on">Панель скорости и длительности</string>
+    <string name="accessibility_fastmotion_speed_panel_on">Панель \"Скорость и длительность\"</string>
     <string name="accessibility_filter_close_panel">Отключить фильтры</string>
     <string name="accessibility_filter_open_panel">Включить фильтры</string>
     <string name="accessibility_filter_pad_close">Меню фильтров скрыто</string>
     <string name="accessibility_flash_auto">Режим автовспышки включён</string>
-    <string name="accessibility_flash_back_soft_light">Вспышка работает в режиме мягкого света</string>
-    <string name="accessibility_flash_fillin_auto">Заполняющий свет в режиме авто</string>
-    <string name="accessibility_flash_fillin_off">Заполняющий свет отключён</string>
-    <string name="accessibility_flash_fillin_on">Заполняющий свет включён</string>
-    <string name="accessibility_flash_fillin_touch">Заполняющий свет в режиме фонарика</string>
+    <string name="accessibility_flash_back_soft_light">Вспышка работает в режиме \"Мягкий свет\"</string>
+    <string name="accessibility_flash_fillin_auto">Осветление в автоматическом режиме</string>
+    <string name="accessibility_flash_fillin_off">Осветление отключено</string>
+    <string name="accessibility_flash_fillin_on">Осветление отключено</string>
+    <string name="accessibility_flash_fillin_touch">Осветление работает в режиме фонарика</string>
     <string name="accessibility_flash_off">Вспышка отключена</string>
     <string name="accessibility_flash_on">Вспышка включена</string>
     <string name="accessibility_flash_on_but_not_adjust_ambient">Не удалось настроить вспышку</string>
@@ -220,9 +220,9 @@
     <string name="accessibility_shutter_saving_button">Сохранение</string>
     <string name="accessibility_stereo_button">Настройка фокуса</string>
     <string name="accessibility_street_ev_panel_on">Просмотр значений экспозиции</string>
-    <string name="accessibility_super_eis_off">EIS отключён</string>
-    <string name="accessibility_super_eis_on">EIS включён</string>
-    <string name="accessibility_super_eis_pr_on">EIS PRO включён</string>
+    <string name="accessibility_super_eis_off">Стабилизация видео отключена</string>
+    <string name="accessibility_super_eis_on">Стабилизация видео включена</string>
+    <string name="accessibility_super_eis_pr_on">Стабилизация видео PRO включена</string>
     <string name="accessibility_super_macro_off">Супермакро отключён</string>
     <string name="accessibility_super_macro_on">Супермакро включён</string>
     <string name="accessibility_super_moon_silhouette_panel_on">Панель редактирования</string>
@@ -530,22 +530,22 @@
     <string name="cine_image_modify_layout_content_description">Изменение макета</string>
     <string name="cinemaster_cancel">Отмена</string>
     <string name="cinemaster_confirm">Выход</string>
-    <string name="cinemaster_connect_exit_message">Выйти из настройки мультикамеры сейчас?</string>
+    <string name="cinemaster_connect_exit_message">Выйти из режима многокамерной съемки?</string>
     <string name="cinemaster_connection_prerequisites">Сначала включите Wi-Fi в Центре управления.</string>
     <string name="cinemaster_connection_prerequisites_china">Сначала включите Wi-Fi в Центре управления.</string>
-    <string name="cinemaster_description_title">Режим режиссера</string>
-    <string name="cinemaster_guide_content">Подключите телефоны и планшеты к одной сети, чтобы объединить их в единую мультикамерную систему. Вы сможете использовать подключенные устройства в качестве камер и мониторов и снимать одну сцену с разных ракурсов.</string>
-    <string name="cinemaster_guide_content2">Подключите телефоны и планшеты к одной сети, чтобы объединить их в единую мультикамерную систему. Вы сможете использовать подключенные устройства в качестве камер и мониторов и снимать одну сцену с разных ракурсов. Если ваша сетевая среда препятствует бесперебойной работе каналов мониторинга, процесс записи все равно останется стабильным.</string>
-    <string name="cinemaster_guide_title">Режим режиссера</string>
+    <string name="cinemaster_description_title">Режим \"Режиссёр\"</string>
+    <string name="cinemaster_guide_content">Подключите телефоны и планшеты к одной сети, чтобы объединить их в единую многокамерную систему. Вы сможете использовать подключенные устройства в качестве камер и мониторов для съемки сцен с разных ракурсов.</string>
+    <string name="cinemaster_guide_content2">Подключите телефоны и планшеты к одной сети, чтобы объединить их в единую многокамерную систему. Вы сможете использовать подключенные устройства в качестве камер и мониторов для съемки сцен с разных ракурсов. Если сетевое окружение не позволяет обеспечить бесперебойную работу каналов монитора, запись все равно останется стабильной.</string>
+    <string name="cinemaster_guide_title">Режим \"Режиссёр\"</string>
     <string name="cinemaster_network_lost">Устройство отключено. Попробуйте подключиться еще раз.</string>
     <string name="cinemaster_no_devices">Камеры не подключены</string>
     <string name="cinemaster_no_devices_monitor">Мониторы не подключены</string>
-    <string name="cinemaster_toast_camera_disconnect">Камера %s отключена от настройки мультикамеры</string>
+    <string name="cinemaster_toast_camera_disconnect">Камера %s была отключена от многокамерной системы</string>
     <string name="cinemaster_toast_monitor_all_disconnect">Все мониторы отключены</string>
-    <string name="cinemaster_toast_monitor_connect">Монитор подключен успешно</string>
-    <string name="cinemaster_toast_monitor_disconnect">Монитор отключен от настройки мультикамеры</string>
-    <string name="cinemaster_toast_monitor_play_error">Камера %s отключена от настройки мультикамеры из-за ошибки</string>
-    <string name="cinemaster_wifi_24g_tips">«Переключитесь на сеть %s ГГц, чтобы повысить стабильность канала мониторинга»</string>
+    <string name="cinemaster_toast_monitor_connect">Монитор был подключен</string>
+    <string name="cinemaster_toast_monitor_disconnect">Монитор был отключен от многокамерной системы</string>
+    <string name="cinemaster_toast_monitor_play_error">Камера %s была отключена от многокамерной системы из-за ошибки</string>
+    <string name="cinemaster_wifi_24g_tips">Подключитесь к сети с частотой %s ГГц, чтобы ускорить работу монитора и улучшить стабильность потока.</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="clone_adjust">Настройка</string>
     <string name="clone_copy_mode">Стоп-кадр</string>
@@ -680,7 +680,7 @@
     <string name="config_name_setting">Настройки</string>
     <string name="config_name_sound">Звук</string>
     <string name="config_name_straighten">Горизонт</string>
-    <string name="config_name_super_eis">EIS</string>
+    <string name="config_name_super_eis">Стабилизация видео</string>
     <string name="config_name_super_resolution">Суперразрешение</string>
     <string name="config_name_tilt">Tilt-shift</string>
     <string name="config_name_timer">Таймер</string>
@@ -706,12 +706,12 @@
     <string name="connect_view_name_camera">Камера</string>
     <string name="connect_view_name_monitor">Монитор</string>
     <string name="connect_view_remote_control">Управление</string>
-    <string name="connect_view_sub_title">При настройке мультикамеры используется большая пропускная способность для уменьшения задержки. Мы рекомендуем подключаться к сетям Wi-Fi с частотой %s ГГц, поддерживающим стандарт 6-го поколения.</string>
+    <string name="connect_view_sub_title">Для уменьшения задержки в режиме многокамерной съемки используется большая пропускная способность. Мы рекомендуем подключиться к сети Wi-Fi с частотой %s ГГц с поддержкой стандарта 6 поколения.</string>
     <string name="connect_view_sub_title_camera">Подключённые мониторы</string>
     <string name="connect_view_sub_title_monitor">Подключённые камеры</string>
-    <string name="connect_view_sub_title_new">При настройке мультикамеры используется большая пропускная способность для уменьшения задержки.
-Мы рекомендуем подключаться к сетям Wi-Fi с частотой %s ГГц, поддерживающим стандарт 6-го поколения</string>
-    <string name="connect_view_title">Настройка мультикамеры</string>
+    <string name="connect_view_sub_title_new">"Для уменьшения задержки в режиме многокамерной съемки используется большая пропускная способность.
+Мы рекомендуем подключиться к сети Wi-Fi с частотой %s ГГц с поддержкой стандарта 6 поколения."</string>
+    <string name="connect_view_title">Многокамерная система</string>
     <string name="connect_view_toast_start_error_camera">Не удалось запустить камеру. Попробуйте ещё раз.</string>
     <string name="connect_view_toast_start_error_monitor">Не удалось включить монитор. Попробуйте ещё раз.</string>
     <string name="connect_view_toast_start_success_camera">Камера включена</string>
@@ -719,8 +719,8 @@
     <string name="copy">Копировать</string>
     <string name="cosmetic_mirror_instructions_hint">"Посмотрите в камеру и дважды коснитесь экрана, чтобы увеличить масштаб и выровнять лицо по центру
 (только одного человека в кадре)"</string>
-    <string name="cosmetic_mirror_shortcut_short">Мини-зеркало</string>
-    <string name="cosmetic_mirror_title">Мини-зеркало</string>
+    <string name="cosmetic_mirror_shortcut_short">Карманное зеркало</string>
+    <string name="cosmetic_mirror_title">Карманное зеркало</string>
     <string name="cta_mimoji_msg">Добро пожаловать в приложение \"Весёлая камера\"! Это приложение можно использовать для съёмки фото и видео. Разрешите приложению подключение к интернету и предоставьте следующие разрешения для сбора вашей личной информации:</string>
     <string name="cta_mimoji_perm_type">Обязательные разрешения (для основных функций и сервисов приложения)</string>
     <string name="cta_mimoji_user_links"><Data>Перед использованием приложения прочтите и примите наши &lt;a href ="%1$s">Пользовательское соглашение&lt;/a> и &lt;a href ="%2$s">Политику конфиденциальности&lt;/a>.</Data></string>
@@ -728,7 +728,7 @@
     <string name="cta_msg">Добро пожаловать в приложение Камера! Это приложение можно использовать для съёмки фото и видео. Разрешите приложению подключение к интернету и предоставьте следующие дополнительные разрешения:</string>
     <string name="cta_perm_cam">Камера</string>
     <string name="cta_perm_cam_desc">Съёмка фото и видео</string>
-    <string name="cta_perm_dec">Добавление геопозиции в фото и видео</string>
+    <string name="cta_perm_dec">Добавление геоданных в фото и видео</string>
     <string name="cta_perm_loc">Геолокация</string>
     <string name="cta_perm_phone">Состояние устройства</string>
     <string name="cta_perm_storage">Хранилище</string>
@@ -760,11 +760,11 @@
     <string name="custom_watermark_words">Дополнительный текст</string>
     <string name="custom_watermark_words_input_hint">Введите текст</string>
     <string name="custom_watermark_words_save_success">Успешно сохранено</string>
-    <string name="cv_lens_35mm">%d мм.</string>
-    <string name="cv_lens_50mm">%d мм.</string>
-    <string name="cv_lens_90mm">%d мм.</string>
+    <string name="cv_lens_35mm">%d мм</string>
+    <string name="cv_lens_50mm">%d мм</string>
+    <string name="cv_lens_90mm">%d мм</string>
     <string name="cv_lens_black_white">Ч/Б</string>
-    <string name="cv_lens_humanities">Документальный</string>
+    <string name="cv_lens_humanities">Документалистика</string>
     <string name="cv_lens_msg">Делайте потрясающие фотографии с Pro-объективами</string>
     <string name="cv_lens_none">По умолчанию</string>
     <string name="cv_lens_portrait">Портрет</string>
@@ -956,6 +956,7 @@
     <string name="exo_track_surround_7_point_1">Система объемного звука 7.1</string>
     <string name="exo_track_unknown">Неизвестный трек</string>
     <string name="expand_button_title">Дополнительно</string>
+    <string name="exposure_mode_adjust_title">ExposureMode</string>
     <string name="extend_time_watermark_2_logo_text">СУПЕРЛУНА</string>
     <string name="eye_light">Блеск глаз</string>
     <string name="eye_light_angel">Ангел</string>
@@ -1009,6 +1010,7 @@
     <string name="flat_selfie_tip_text">Поверните устройство, чтобы использовать камеру</string>
     <string name="flat_selfie_tip_text_main">Поверните устройство, чтобы использовать камеру</string>
     <string name="flat_selfie_tip_text_sub">Переключите камеры на внешнем экране и поверните устройство</string>
+    <string name="flat_selfie_tip_text_sub_v1">Закройте камеру на внешнем экране, чтобы вернуться ко внутреннему экрану</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
@@ -1035,11 +1037,34 @@
     <string name="friend_mode_cast_inviting">%1$s хочет подключиться к этому устройству</string>
     <string name="friend_mode_description_content">Функция \"Вспомогательная камера\" позволяет двум устройствам, подключенным к одной сети, обмениваться превью в реальном времени, а также делать снимки на одном из них при помощи другого.</string>
     <string name="friend_mode_description_title">О функции \"Вспомогательная камера\"</string>
+    <string name="friend_mode_gallery_toast">Похоже, что во время этой сессии не было сделано ни одного фото</string>
+    <string name="friend_mode_intro_1_content">Держите два устройства на расстоянии %s метров друг от друга и запустите на них функцию \"Вспомогательная камера\".</string>
+    <string name="friend_mode_intro_1_title">%d. Включите функцию \"Вспомогательная камера\"</string>
+    <string name="friend_mode_intro_2_content">"Чтобы сделать устройства видимыми друг для друга, подключите их к одной сети Wi-Fi или подключите одно устройство к другому через точку доступа.
+Подключение устройств напрямую через точку доступа может быть более надежным, так как внешние сети Wi-Fi могут не позволить обнаружить устройства."</string>
+    <string name="friend_mode_intro_2_content_china">"Чтобы сделать устройства видимыми друг для друга, подключите их к одной сети WLAN или подключите одно устройство к другому через точку доступа.
+Подключение устройств напрямую через точку доступа может быть более надежным, так как внешние сети WLAN могут не позволить обнаружить устройства."</string>
+    <string name="friend_mode_intro_2_title">%d. Подключите устройства друг к другу</string>
+    <string name="friend_mode_intro_3_content">"Выберите устройство, к которому вы хотите подключиться, отправьте приглашение и примите его на другом устройстве.
+Используйте функцию \"Вспомогательная камера\" в стабильной сетевой среде, в противном случае вы можете столкнуться с задержками.
+Если для подключения вы используете точку доступа, установите значение диапазона %s ГГц в разделе \"Настройки\" > \"Подключение и общий доступ\" > \"Точка доступа\" > \"Настройка точки доступа\"."</string>
+    <string name="friend_mode_intro_3_title">%d. Начните сессию</string>
+    <string name="friend_mode_introduction_content">Функция \"Вспомогательная камера\" позволяет двум устройствам обмениваться превью в реальном времени, а также делать снимки на одном из них при помощи другого.</string>
+    <string name="friend_mode_introduction_title">О функции \"Вспомогательная камера\"</string>
+    <string name="friend_mode_network_connection_prerequisites">Чтобы воспользоваться функцией \"Вспомогательная камера\", подключитесь к сети Wi-Fi или к точке доступа.</string>
+    <string name="friend_mode_network_connection_prerequisites_china">Чтобы воспользоваться функцией \"Вспомогательная камера\", подключитесь к сети WLAN или к точке доступа.</string>
+    <string name="friend_mode_not_found_device">Устройства не обнаружены</string>
+    <string name="friend_mode_re_searching">Повторить поиск</string>
+    <string name="friend_mode_searching">Поиск устройств…</string>
+    <string name="friend_mode_searching_tips">Подключите оба устройства к одной сети Wi-Fi или к точке доступа и включите функцию \"Вспомогательная камера\", чтобы делать снимки на одном из них при помощи другого.</string>
+    <string name="friend_mode_searching_tips_china">Подключите оба устройства к одной сети WLAN или к точке доступа и включите функцию \"Вспомогательная камера\", чтобы делать снимки на одном из них при помощи другого.</string>
+    <string name="friend_mode_select_device">Выберите вспомогательное устройство</string>
     <string name="friend_mode_transfer_picture">Передача фотографий…</string>
     <string name="fromkeyguard_not_permission">Разблокируйте устройство для использования этой функции</string>
     <string name="front_camera_hint_text_place">"Снимать селфи будет проще,
 если развернуть устройство"</string>
     <string name="front_camera_hint_text_rotate">Разверните устройство</string>
+    <string name="function_friend_mode">Вспомогательная камера</string>
     <string name="guide_pop_window_msg_cv_lens">Нажмите, чтобы попробовать Pro-объективы</string>
     <string name="guide_pop_window_msg_mimoji">Нажмите, чтобы использовать аватары</string>
     <string name="guide_pop_window_msg_softlight">Нажмите, чтобы настроить мягкую вспышку</string>
@@ -1548,7 +1573,8 @@
     <string name="parameter_manual_picturestyle_description_new">Используйте тональную коррекцию, чтобы повысить или понизить контрастность и сделать изображение более многослойным. Экспериментируйте с различными оттенками, чтобы сделать фото более теплыми или холодными. Выберите, хотите ли вы получить более чёткие детали или снизить резкость для более мягкого восприятия.</string>
     <string name="parameter_metering_description">Средний замер учитывает все области вашего изображения, работая лучше всего для равномерно освещенных сцен. Центровзвешенный замер в основном фокусируется на центральной области кадра и учитывает яркость окружающей области, которая подходит для съёмки объектов в центре кадра. Точечный замер охватывает область только в одном месте, обеспечивая точный контроль над экспозицией.</string>
     <string name="parameter_metering_title">Режимы замера</string>
-    <string name="parameter_peak_focus_description">При ручной фокусировке используйте функцию \"Пик фокуса\" для подсветки красным области фокусировки.</string>
+    <string name="parameter_peak_focus_description">При ручной фокусировке используйте функцию \"Пик фокуса\" для выделения красным цветом области фокусировки.</string>
+    <string name="parameter_peak_focus_description_v2">При ручной фокусировке используйте функцию \"Пик фокуса\" для выделения зеленым цветом области фокусировки.</string>
     <string name="parameter_peak_focus_title">Пик фокуса</string>
     <string name="parameter_peak_raw_description">Этот формат сохраняет все данные изображения без сжатия и обработки. Несжатые данные дают больше возможностей в постобработке.</string>
     <string name="parameter_peak_raw_description_mm">Файлы RAW содержат несжатые данные и предлагают больше возможностей для редактирования</string>
@@ -1817,6 +1843,7 @@
     <string name="pref_camera_normal_wide_ldc_description">Корректировать искажения лиц у границ кадра</string>
     <string name="pref_camera_normal_wide_ldc_title">Коррекция лиц</string>
     <string name="pref_camera_optimized_flash_enable_title">Оптимизация вспышки</string>
+    <string name="pref_camera_pad_suspend_shutter_button_summary">Перетащите кнопку спуска затвора влево, чтобы добавить дополнительную плавающую кнопку, которая может быть размещена в любом месте на экране.</string>
     <string name="pref_camera_panoramamode_title">Панорама</string>
     <string name="pref_camera_parallel_process_enable_title">Параллельная обработка изображения</string>
     <string name="pref_camera_peak_entry_off">Откл.</string>
@@ -2097,6 +2124,7 @@
     <string name="pref_super_night_se_title">Ночной режим</string>
     <string name="pref_true_colour_video_mode_description">Натуральный цвет</string>
     <string name="pref_true_colour_video_mode_introduction">Потрясающие визуальные эффекты, реалистичные детали и поразительный контраст</string>
+    <string name="pref_true_colour_video_mode_setting_dec">Высочайшая детализация, потрясающая цветопередача и поразительная контрастность при съемке в режимах \"Видео\" и \"Профи\". Функция несовместима со следящим автофокусом и форматом H.264, а также с некоторыми сторонними приложениями.</string>
     <string name="pref_true_colour_video_mode_summary">Запись в формате 1080P и 4K в режимах \"Видео\" и \"Профи\" позволяет запечатлеть реалистичные детали, потрясающие цвета и поразительный контраст (функция может быть несовместима с некоторыми приложениями)</string>
     <string name="pref_true_colour_video_mode_title">Dolby Vision</string>
     <string name="pref_userdefine_watermark_title">Дополнительный текст</string>
@@ -2236,8 +2264,10 @@
     <string name="settings_camera_lens_auto_switch_description">Автоматически переключаться между основным и телеобъективом в зависимости от расстояния и яркости</string>
     <string name="settings_camera_lens_auto_switch_title">Автовыбор объектива</string>
     <string name="settings_camera_near_range_description">Устранение размытия при съёмке плоских объектов на близком расстоянии</string>
+    <string name="settings_camera_near_range_fallback_description">При съемке плоских объектов с близкого расстояния автоматически переключаться на сверхширокоугольный объектив для удаления эффекта боке.</string>
     <string name="settings_camera_near_range_fallback_title">Адаптивный макрообъектив</string>
     <string name="settings_camera_near_range_title">Крупный план</string>
+    <string name="settings_camera_tele_fallback_description">Автоматически переключаться между основной камерой и телеобъективом в зависимости от расстояния и яркости.</string>
     <string name="settings_camera_tele_fallback_title">Адаптивный телеобъектив</string>
     <string name="share">Отправить</string>
     <string name="shine_hair_puffy">Волосы</string>
@@ -2320,6 +2350,16 @@
     <string name="sticker_tab1">Милый</string>
     <string name="sticker_tab2">Забавный</string>
     <string name="stop_save_low_battery">Сохранить (%d сек.)</string>
+    <string name="street_auto_desc">Автоматическое фокусное расстояние</string>
+    <string name="street_far_desc">Фокусное расстояние %1$s м</string>
+    <string name="street_middle_desc">Фокусное расстояние %1$s м</string>
+    <string name="street_near_desc">Фокусное расстояние %1$s м</string>
+    <string name="street_preferred_description">Чтобы включить эту функцию, перейдите в раздел \"Настройки\" > \"Запуск камеры\" и выберите \"Сделать фото\"</string>
+    <string name="street_tip_far">Расположите объект съемки в переделах %d м</string>
+    <string name="street_tip_middle">Расположите объект съемки в переделах %d м</string>
+    <string name="street_tip_near">Расположите объект съемки в переделах %1$s м</string>
+    <string name="street_top_tip">Глубина резкости: %1$s—%2$s м</string>
+    <string name="street_top_tip_infinity">Глубина резкости: %1$s м — %2$s</string>
     <string name="subtitle_network_exception_tips">Не удалось транскрибировать. Сеть недоступна.</string>
     <string name="summary_pref_camera_doc4">Наведите камеру на китайский или английский текст для распознавания</string>
     <string name="sunday">Воскресенье</string>
@@ -2433,14 +2473,14 @@
     <string name="tip_beauty_mode_title2">Портретный стиль: Фильм</string>
     <string name="tip_cvtype_title1">Стиль: Настоящая Leica</string>
     <string name="tip_cvtype_title2">Стиль: Яркая Leica</string>
-    <string name="tip_eis_off">EIS: Откл.</string>
-    <string name="tip_eis_pro_off">EIS PRO: Откл.</string>
+    <string name="tip_eis_off">Стабилизация видео: Откл.</string>
+    <string name="tip_eis_pro_off">Стабилизация видео PRO: Откл.</string>
     <string name="tip_flash_auto">Вспышка: Авто</string>
     <string name="tip_flash_back_soft_light">Кольцевая лампа: Вкл.</string>
-    <string name="tip_flash_fillin_auto">Заполняющий свет: Авто</string>
-    <string name="tip_flash_fillin_off">Заполняющий свет: Откл.</string>
-    <string name="tip_flash_fillin_on">Заполняющий свет: Вкл.</string>
-    <string name="tip_flash_fillin_torch">Заполняющий свет: Режим фонарика</string>
+    <string name="tip_flash_fillin_auto">Осветление: Авто</string>
+    <string name="tip_flash_fillin_off">Осветление: Откл.</string>
+    <string name="tip_flash_fillin_on">Осветление: Вкл.</string>
+    <string name="tip_flash_fillin_torch">Осветление: Режим фонарика</string>
     <string name="tip_flash_off">Вспышка: Откл.</string>
     <string name="tip_flash_on">Вспышка: Вкл.</string>
     <string name="tip_flash_on_but_not_adjust_ambient">Кольцевая лампа: Вкл.</string>
@@ -2450,6 +2490,12 @@
     <string name="tip_flash_soft_light_off">Мягкая вспышка: Откл.</string>
     <string name="tip_flash_soft_light_torch">Мягкая вспышка: Режим фонарика</string>
     <string name="tip_flash_torch">Вспышка: Всегда вкл.</string>
+    <string name="tip_friend_mode_connect_when_24GHz">Для улучшения качества превью используйте подключение с частотой %s ГГц</string>
+    <string name="tip_friend_mode_display_device_name_connect">Общее превью</string>
+    <string name="tip_friend_mode_display_device_name_disconnect">Другое устройство покинуло эту сессию</string>
+    <string name="tip_friend_mode_display_device_name_force_exit">Другое устройство отключено</string>
+    <string name="tip_friend_mode_initiative_connect_error">Соединение было потеряно. Подключитесь снова.</string>
+    <string name="tip_friend_mode_passive_connect_error">Потерян сигнал другого устройства. Повторите подключение.</string>
     <string name="tip_gif_off">GIF: Откл.</string>
     <string name="tip_gif_on">GIF: Вкл.</string>
     <string name="tip_hand_gesture_off">Cъёмка жестом: Откл.</string>
@@ -2483,6 +2529,9 @@
     <string name="title_pref_camera_doc4">Распознавание текста</string>
     <string name="title_snap_double_confirm">Повторное подтверждение</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Серийная съёмка недоступна при включенном звуковом управлении</string>
+    <string name="toast_camera_connect_success">Подключено. Просмотр потока с камеры.</string>
+    <string name="toast_monitor_connect_success">Подключено. Просмотр общего превью.</string>
+    <string name="toast_monitor_connect_timeout">Другое устройство выключило общее превью</string>
     <string name="toast_saving">Сохранение фотографий…</string>
     <string name="toast_start_audio_capture">Произнесите команду, чтобы сделать снимок</string>
     <string name="today">Сегодня</string>
@@ -2546,6 +2595,8 @@
     <string name="user_notice_title">Условия использования</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+    <string name="video_beauty_hint_msg">Скройте дефекты, сохраняя реалистичность всех деталей.</string>
+    <string name="video_beauty_hint_title">Новое \"Улучшение\" для видео</string>
     <string name="video_beauty_tip">Улучшение видео</string>
     <string name="video_beauty_tip_beautification">Фильтры</string>
     <string name="video_beauty_tip_filter">Фильтры</string>
