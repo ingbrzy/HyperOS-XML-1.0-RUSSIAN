@@ -37,7 +37,6 @@
     <string name="all_ringtone">Все мелодии</string>
     <string name="all_ringtone_summary">Выбор мелодий на устройстве и онлайн</string>
     <string name="all_ringtone_summary_pad">Выбор мелодий на устройстве и онлайн</string>
-    <string name="am">AM</string>
     <string name="amazon_introduction">Самый биоразнообразный регион на нашей планете часто называют \"легкими Земли\"</string>
     <string name="amazon_orange_winged_info">Большой, шумный попугай, который издает громкие, пронзительные крики</string>
     <string name="animal_branch">Семейство</string>
@@ -49,7 +48,6 @@
     <string name="anti_flicker_mode_summary">Устранение мерцания при низкой освещенности для снижения нагрузки на глаза</string>
     <string name="anti_flicker_mode_summary_new">Устранение мерцания при низкой освещенности для снижения нагрузки на глаза</string>
     <string name="anti_flicker_title">Устранение мерцания</string>
-    <string name="app_name">Настройки</string>
     <string name="app_use">Время экрана приложения</string>
     <string name="application_sound">Звук уведомления для приложения</string>
     <string name="apply_ringtone">Применить</string>
@@ -113,7 +111,6 @@
     <string name="branch_whipbird">Дроздовые</string>
     <string name="brown_pelican">Бурый пеликан</string>
     <string name="calendar_sound">Звуки напоминаний</string>
-    <string name="calendar_tip">Звуки напоминаний для мероприятий, заметок и задач</string>
     <string name="canada_goose">Канадский гусь</string>
     <string name="capybara">Капибара</string>
     <string name="capybara_info">Полуводный травоядный грызун, может задерживать дыхание под водой до пяти минут</string>
@@ -156,9 +153,6 @@
     <string name="customize_radio_btn_title">Выбор</string>
     <string name="dall_sheep">Баран Далла</string>
     <string name="dart_frog_info">Её ярко-синяя кожа и ядовитые железы - механизмы защиты от потенциальных хищников</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="dc_light_hint_enable_title">Внимание</string>
@@ -247,7 +241,6 @@
     <string name="expand_button_title">Дополнительно</string>
     <string name="first_unlock_time">"Первая разблокировка: "</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
     <string name="fmt_date_numeric_year_month">MM.yyyy</string>
@@ -397,9 +390,6 @@
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
-    <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком…</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
@@ -517,7 +507,6 @@
     <string name="plains_zebra">Зебра</string>
     <string name="platpus_info">Важный объект изучения эволюционной биологии из категории ядовитых млекопитающих</string>
     <string name="platypus">Утконос</string>
-    <string name="pm">PM</string>
     <string name="polar_bear">Полярный медведь</string>
     <string name="pomarine_jaeger">Средний поморник</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
@@ -586,7 +575,6 @@
     <string name="size_kilo_byte">КБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
-    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="skywalker_hoolock_gibbon">Хулок Скайуокера</string>
     <string name="small_ground_finch">Малый земляной вьюрок</string>

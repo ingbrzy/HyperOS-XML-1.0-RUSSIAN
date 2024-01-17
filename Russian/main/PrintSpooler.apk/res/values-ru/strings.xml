@@ -58,8 +58,6 @@
     <string name="cannot_add_printer">Невозможно добавить принтеры</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
-    <string name="close_drawer">Закрыть меню навигации</string>
-    <string name="close_sheet">Закрыть таблицу</string>
     <string name="collapse_handle">Свернуть</string>
     <string name="connectio_delay_content">Может потребоваться подтверждение соединения на принтере.</string>
     <string name="connectio_help_title">Подключение к принтеру</string>
@@ -69,12 +67,9 @@
     <string name="could_not_create_file">Не удалось создать файл</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
-    <string name="default_error_message">Неверный ввод</string>
-    <string name="default_popup_window_title">Всплывающее окно</string>
     <string name="delete_saved_printer_content">Удалить выбранные принтеры?</string>
     <string name="destination_default_text">Выберите принтер</string>
     <string name="disabled_services_title">Отключённые службы</string>
-    <string name="dropdown_menu">Выпадающее меню</string>
     <string name="early_morning">Утро</string>
     <string name="enable_print_service">Выберите для включения</string>
     <string name="enabled_services_title">Включенные службы</string>
@@ -106,8 +101,6 @@
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="generating_print_job">Создание задания на печать…</string>
-    <string name="in_progress">Обработка…</string>
-    <string name="indeterminate">Не выбрано</string>
     <string name="install_for_print_preview">Установить средство просмотра PDF</string>
     <string name="label_color">Печать</string>
     <string name="label_copies">Копии</string>
@@ -188,16 +181,12 @@
     <string name="more">Ещё</string>
     <string name="more_options_button">Ещё</string>
     <string name="morning">Утро</string>
-    <string name="navigation_menu">Меню навигации</string>
     <string name="night">Вечер</string>
     <string name="no_connection_to_printer">Нет связи с принтером</string>
     <string name="noon">Полдень</string>
-    <string name="not_selected">Не выбрано</string>
     <string name="not_set">Не задано</string>
     <string name="notification_channel_failure">Проблемные задания печати</string>
     <string name="notification_channel_progress">Активные задания печати</string>
-    <string name="off">Откл.</string>
-    <string name="on">Вкл.</string>
     <string name="open">Включить</string>
     <string name="open_print_service">Включить печать</string>
     <string name="open_print_service_tips">Включите печать в Настройках для использования этой функции.</string>
@@ -251,8 +240,6 @@
     <string name="printing_in_progress">Идёт печать…</string>
     <string name="printing_notification_title_template">Печать задания \"%1$s\"…</string>
     <string name="printing_successful">Печать успешно завершена</string>
-    <string name="range_end">Конец диапазона</string>
-    <string name="range_start">Начало диапазона</string>
     <string name="reason_unknown">неизвестно</string>
     <string name="recommended_services_title">Рекомендуемые службы</string>
     <string name="restart">Повторить</string>
@@ -266,7 +253,6 @@
     <string name="search_brand">Поиск</string>
     <string name="search_menu_title">Поиск</string>
     <string name="select_to_add_printers">Выберите, чтобы добавить принтер</string>
-    <string name="selected">Выбрано</string>
     <string name="send">Отправить</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
@@ -297,12 +283,9 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
-    <string name="switch_role">Переключить</string>
     <string name="system_print_service_help">О печати</string>
-    <string name="tab">Вкладка</string>
     <string name="template_all_pages">Все %1$s</string>
     <string name="template_page_range">Диапазон %1$s</string>
-    <string name="template_percent">%1$d%%.</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>

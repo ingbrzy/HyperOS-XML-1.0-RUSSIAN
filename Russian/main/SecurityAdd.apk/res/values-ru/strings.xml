@@ -38,7 +38,6 @@
     <string name="app_control_title">Управление приложениями</string>
     <string name="app_market_desc">Загрузка приложений для детского пространства</string>
     <string name="app_market_title">Магазин приложений</string>
-    <string name="app_name">Плагин службы безопасности</string>
     <string name="app_select_title">Часто используемые приложения</string>
     <string name="auto_task_now_city">Текущее местоположение</string>
     <string name="auto_task_search_address_point">Поиск</string>
@@ -204,7 +203,6 @@
     <string name="gb_adv_touch_custom_tip4">Высокая стабильность касаний делает их более надёжными, низкая стабильность увеличивает точность коротких касаний</string>
     <string name="gb_adv_touch_custom_title">Настройка</string>
     <string name="gb_adv_touch_mode_pro_tips">*Этот режим предназначен для профессиональных игроков. Обычным игрокам этот режим может показаться неудобным.</string>
-    <string name="gb_adv_touch_mode_select_title">Жесты</string>
     <string name="gb_adv_touch_pro_title">Pro-режим</string>
     <string name="gb_advance_settings_edge_gear1">Нет</string>
     <string name="gb_advance_settings_edge_gear2">Маленькая</string>
@@ -533,7 +531,6 @@
     <string name="size_kilo_byte">КБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
-    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="size_unit_byte">%1$s Б</string>
     <string name="size_unit_kilobyte">%1$s КБ</string>
@@ -591,7 +588,6 @@
     <string name="superpower_settings_launcher">Ультраэкономия заряда</string>
     <string name="superpower_system">Рекомендуемые</string>
     <string name="superpower_third">Сторонние приложения</string>
-    <string name="superpower_toast_app_select_full">Можно добавить до 6 часто используемых приложений</string>
     <string name="superpower_toast_app_select_full_new">Можно добавить до %d часто используемых приложений</string>
     <string name="switch_kid_mode">Переключиться на детское пространство</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>

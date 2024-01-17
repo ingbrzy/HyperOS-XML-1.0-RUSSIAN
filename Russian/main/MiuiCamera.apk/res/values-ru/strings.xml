@@ -39,11 +39,9 @@
     <string name="accessibility_aperture_adjust">Диафрагма</string>
     <string name="accessibility_aperture_default">Авторегулировка диафрагмы</string>
     <string name="accessibility_aperture_panel_on">Открыть панель диафрагмы</string>
-    <string name="accessibility_audio_shutter_bg">Аудио фон затвора</string>
     <string name="accessibility_auto_macro_off">Автофокусировка на близком расстоянии отключена</string>
     <string name="accessibility_auto_macro_on">Автофокусировка на близком расстоянии dключена</string>
     <string name="accessibility_auto_night_tip_off">Автоматический ночной режим отключён</string>
-    <string name="accessibility_auto_night_tip_on">Автоматический ночной режим включён</string>
     <string name="accessibility_back_preview_status">Предпросмотр основной камеры</string>
     <string name="accessibility_beauty_compare">Просмотр изображения с улучшением и без него</string>
     <string name="accessibility_beauty_function_button">Улучшить</string>
@@ -71,7 +69,6 @@
     <string name="accessibility_camera_ultra_wide_bokeh_on">Полнокадровый режим выключен</string>
     <string name="accessibility_camera_video_960fps_120">%dFPS</string>
     <string name="accessibility_camera_video_960fps_240">%dFPS</string>
-    <string name="accessibility_camera_video_960fps_480">480FPS</string>
     <string name="accessibility_camera_video_960fps_960">%dFPS</string>
     <string name="accessibility_camera_video_fps_120">120FPS</string>
     <string name="accessibility_camera_video_fps_30">30FPS</string>
@@ -170,8 +167,6 @@
     <string name="accessibility_mimoji_timbre_panel_on">Панель озвучивания</string>
     <string name="accessibility_mimovie_off">Кадрирование отключено</string>
     <string name="accessibility_mimovie_on">Кадрирование включено</string>
-    <string name="accessibility_mode">Режим доступности</string>
-    <string name="accessibility_mode_dismiss_button">Отключить кнопку выбора режима</string>
     <string name="accessibility_module_picker_finish">Переключение на %s</string>
     <string name="accessibility_moiton_detection_off">Обнаружение движения отключено</string>
     <string name="accessibility_moiton_detection_on">Обнаружение движения включено</string>
@@ -214,7 +209,6 @@
     <string name="accessibility_select_all_end">Выбрано все</string>
     <string name="accessibility_selected">Выбранные объекты</string>
     <string name="accessibility_setting">Настройки</string>
-    <string name="accessibility_setting_button">Кнопка дополнительных настроек</string>
     <string name="accessibility_shutter_button">Кнопка затвора</string>
     <string name="accessibility_shutter_capture_button">Снимок во время съёмки видео</string>
     <string name="accessibility_shutter_complete_button">Снимок сделан</string>
@@ -240,10 +234,6 @@
     <string name="accessibility_timer_burst_text">Панель серийно съёмки</string>
     <string name="accessibility_touch_focus_fail">Ошибка фокусирования</string>
     <string name="accessibility_touch_focus_success">Успешное фокусирование</string>
-    <string name="accessibility_ultra_pixel_photography_32mp_off">32MP откл.</string>
-    <string name="accessibility_ultra_pixel_photography_32mp_on">32MP вкл.</string>
-    <string name="accessibility_ultra_pixel_photography_48mp_off">48MP откл.</string>
-    <string name="accessibility_ultra_pixel_photography_48mp_on">48MP вкл.</string>
     <string name="accessibility_ultra_pixel_photography_off">%s Ультра HD отключён</string>
     <string name="accessibility_ultra_pixel_photography_on">%s Ультра HD включён</string>
     <string name="accessibility_ultra_wide_off">Ультраширокоугольный режим отключён</string>
@@ -354,8 +344,6 @@
     <string name="ai_valentine_day">День святого Валентина</string>
     <string name="ai_victoria_harbor">Бухта Виктория</string>
     <string name="ai_watermark_title">AI Водяной знак</string>
-    <string name="ai_watermark_toast_off">AI Водяной знак отключён</string>
-    <string name="ai_watermark_toast_on">AI Водяной знак включён</string>
     <string name="ai_west_lake">Западное озеро</string>
     <string name="ai_wuhan">Ухань</string>
     <string name="ai_zhang_jia_jie">Чжанцзяцзе</string>
@@ -397,9 +385,18 @@
     <string name="aperture_invalid_zoomratio_tip">Невозможно настроить диафрагму с текущим коэффициентом масштабирования</string>
     <string name="aperture_near_range_tip">Невозможно настроить диафрагму при съемке крупным планом</string>
     <string name="aperture_no_wide_camera_tip">Диафрагму можно настроить только для основной камеры</string>
-    <string name="app_name">Менеджер эффектов</string>
     <string name="audio_focus_exit_button_text">Отключить Аудио фокус</string>
+<!-- ### FROM SOURCE -->
+    <string name="audio_gain_adjust_overhigh_tip">xxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="audio_gain_mutex_3d_tip">xxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="audio_gain_mutex_all_tip">xxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="audio_gain_mutex_nr_tip">xxxx</string>
     <string name="audio_map_summary_tip">Контролируйте громкость левого и правого каналов в режиме реального времени и регулируйте с помощью ползунка</string>
+<!-- ### FROM SOURCE -->
+    <string name="audio_track_mutex_truecolor_setting_tips">xxxx</string>
     <string name="auto_hibernation_enter_tip">Об выключении экрана…</string>
     <string name="auto_recommend_switch_lens">Обнаружена группа людей. Используйте 0,6X для лучшего эффекта</string>
     <string name="autozoom_click_hint">Нажмите на объект для удержания его в фокусе, пока он движется. Для лучшего эффекта расстояние должно быть не менее %d метров.</string>
@@ -470,6 +467,8 @@
     <string name="beauty_mo_pr">Текстуры</string>
     <string name="beauty_mo_pr_cv">Текстуры</string>
     <string name="beauty_mode_confirm_text">Выбрать</string>
+<!-- ### FROM SOURCE -->
+    <string name="beauty_mode_display_title">beauty_mode_display_title</string>
     <string name="beauty_mode_hint_title">Выберите портретный стиль</string>
     <string name="beauty_mode_item_title1">Свежий</string>
     <string name="beauty_mode_item_title2">Фильм</string>
@@ -494,6 +493,12 @@
     <string name="beauty_sm_texture_cv">Кожа</string>
     <string name="beauty_tab_name_live_beauty">Улучшение</string>
     <string name="beauty_tab_name_live_filter">Фильтры</string>
+<!-- ### FROM SOURCE -->
+    <string name="bluetooth_fromkeyguard_not_permission">Allow this app to access the connection status of Bluetooth earphones to be able to use this feature normally.</string>
+<!-- ### FROM SOURCE -->
+    <string name="bluetooth_headset_permission_des">"For determining the connection status of Bluetooth earphones and recording audio using the earphones' microphone"</string>
+<!-- ### FROM SOURCE -->
+    <string name="bluetooth_permission_not_ask_again">Allow this app to connect to nearby devices in Settings to be able to connect to Bluetooth earphones.</string>
     <string name="bokeh_use_hint">Эффект глубины</string>
     <string name="burst_shoot_exit_button_text">Отключить серийную съёмку</string>
     <string name="button_fisheye_camera_title">Рыбий глаз</string>
@@ -531,17 +536,59 @@
     <string name="cancel">Отмена</string>
     <string name="cannot_connect_camera_once">Не удалось подключиться к камере</string>
     <string name="cannot_connect_camera_twice">Не удалось подключиться к камере. Попробуйте перезагрузить устройство.</string>
-    <string name="cannot_connect_camera_volte_call">Идёт видеовызов, повторите попытку позже.</string>
     <string name="cannot_move_warning_message">Не двигайте устройство при съёмке</string>
     <string name="capture_back_pressed_hint">Нажмите ещё раз для выхода</string>
-    <string name="capture_shortcut_long">Селфи</string>
     <string name="capture_shortcut_short">Селфи</string>
     <string name="ccc_temperature_warning_msg">Устройство перегрето. Камера будет закрыта через %d секунд. Ваши фото или видео будут сохранены автоматически.</string>
     <string name="ccc_temperature_warning_title">Перегрев устройства</string>
+<!-- ### FROM SOURCE -->
+    <string name="cclock_format">xxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="cclock_mutex_4k60fps">xxxxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="cclock_mutex_8k">xxxxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="cclock_mutex_sat">xxxxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="cclock_tip_off">xxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="cclock_tip_on">xxxx</string>
     <string name="center_mark">Метка центра</string>
     <string name="cine_image_modify_layout_content_description">Изменение макета</string>
     <string name="cinemaster_cancel">Отмена</string>
     <string name="cinemaster_confirm">Выход</string>
+<!-- ### FROM SOURCE -->
+    <string name="cinemaster_connect_exit_message">Exit multicam setup now?</string>
+<!-- ### FROM SOURCE -->
+    <string name="cinemaster_connection_prerequisites">Turn on Wi-Fi in Control center first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="cinemaster_connection_prerequisites_china">Turn on Wi-Fi in Control center first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="cinemaster_description_title">Director mode</string>
+<!-- ### FROM SOURCE -->
+    <string name="cinemaster_guide_content">"Connect phones and tablets to the same network to unite them into a single multicam setup. You'll be able to use connected devices as cameras and monitors and shoot one scene from multiple angles."</string>
+<!-- ### FROM SOURCE -->
+    <string name="cinemaster_guide_content2">"Connect phones and tablets to the same network to unite them into a single multicam setup. You'll be able to use connected devices as cameras and monitors and shoot one scene from multiple angles. If your network environment prevents monitor feeds from working seamlessly, the recording process will still remain stable."</string>
+<!-- ### FROM SOURCE -->
+    <string name="cinemaster_guide_title">Director mode</string>
+<!-- ### FROM SOURCE -->
+    <string name="cinemaster_network_lost">Device disconnected. Try connecting again.</string>
+<!-- ### FROM SOURCE -->
+    <string name="cinemaster_no_devices">No cameras connected</string>
+<!-- ### FROM SOURCE -->
+    <string name="cinemaster_no_devices_monitor">No monitors connected</string>
+<!-- ### FROM SOURCE -->
+    <string name="cinemaster_toast_camera_disconnect">Camera %s disconnected from multicam setup</string>
+<!-- ### FROM SOURCE -->
+    <string name="cinemaster_toast_monitor_all_disconnect">All monitors disconnected</string>
+<!-- ### FROM SOURCE -->
+    <string name="cinemaster_toast_monitor_connect">Connected monitor successfully</string>
+<!-- ### FROM SOURCE -->
+    <string name="cinemaster_toast_monitor_disconnect">Monitor disconnected from multicam setup</string>
+<!-- ### FROM SOURCE -->
+    <string name="cinemaster_toast_monitor_play_error">Camera %s disconnected from multicam setup due to an error</string>
+<!-- ### FROM SOURCE -->
+    <string name="cinemaster_wifi_24g_tips">"Switch to a %s GHz network to boost monitor feed's stability"</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="clone_adjust">Настройка</string>
     <string name="clone_copy_mode">Стоп-кадр</string>
@@ -567,11 +614,8 @@
     <string name="clone_landscape_hint">Клонирование работает только в альбомном режиме</string>
     <string name="clone_mode_start_hint">Нажмите кнопку съёмки, чтобы начать</string>
     <string name="clone_no_person_found">Не удалось найти объект</string>
-    <string name="clone_no_person_found_in_viewfinder">Лица не обнаружены</string>
     <string name="clone_offset_is_too_large">Слишком много движения. Попробуйте начать все сначала.</string>
     <string name="clone_photo_mode">Фото</string>
-    <string name="clone_photo_mode_start_hint">Нажмите кнопку съёмки</string>
-    <string name="clone_preview_no_person">Лица не обнаружены</string>
     <string name="clone_put_phone_back_in_place">Верните ваше устройство в исходное положение</string>
     <string name="clone_recapture_alert">Начать сначала?</string>
     <string name="clone_start_capture">Начать клонирование</string>
@@ -584,7 +628,11 @@
     <string name="close_front_flash_toast">Устройство перегрелось. Вспышка недоступна.</string>
     <string name="close_night_algo_toast_low_power">Зарядите устройство, чтобы установить экспозицию</string>
     <string name="close_night_algo_toast_thermal">Охладите устройство, чтобы установить экспозицию</string>
+<!-- ### FROM SOURCE -->
+    <string name="color_effect_entry_600_f">600F</string>
     <string name="color_effect_entry_berry">Ягоды</string>
+<!-- ### FROM SOURCE -->
+    <string name="color_effect_entry_bf_70">BF70</string>
     <string name="color_effect_entry_blackgold">Родий</string>
     <string name="color_effect_entry_blackgold_describe">Этот высококонтрастный фильтр сохраняет только жёлтый и тёмно-синий цвета. Используйте его на хорошо освещенных улицах ночного города.</string>
     <string name="color_effect_entry_blackice">Чёрный лед</string>
@@ -700,13 +748,22 @@
     <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
     <string name="confirm_restore_title">Сброс настроек</string>
     <string name="confirm_truecolor_setting_message">Dolby Vision не поддерживает фокусировку с отслеживанием движения и разрешение 720P/8K. Всё равно включить?</string>
+<!-- ### FROM SOURCE -->
+    <string name="confirm_truecolor_setting_message_i">xxxx</string>
     <string name="connect_view_btn_start">Начать</string>
     <string name="connect_view_btn_stop">Остановить</string>
     <string name="connect_view_name_camera">Камера</string>
     <string name="connect_view_name_monitor">Монитор</string>
     <string name="connect_view_remote_control">Управление</string>
+<!-- ### FROM SOURCE -->
+    <string name="connect_view_sub_title">Multicam setup uses more bandwidth to reduce latency. We recommend connecting to %s GHz Wi-Fi networks that support the sixth generation standard.</string>
     <string name="connect_view_sub_title_camera">Подключённые мониторы</string>
     <string name="connect_view_sub_title_monitor">Подключённые камеры</string>
+<!-- ### FROM SOURCE -->
+    <string name="connect_view_sub_title_new">"Multicam setup uses more bandwidth to reduce latency.
+We recommend connecting to %s GHz Wi-Fi networks that support the sixth generation standard."</string>
+<!-- ### FROM SOURCE -->
+    <string name="connect_view_title">Multicam setup</string>
     <string name="connect_view_toast_start_error_camera">Не удалось запустить камеру. Попробуйте ещё раз.</string>
     <string name="connect_view_toast_start_error_monitor">Не удалось включить монитор. Попробуйте ещё раз.</string>
     <string name="connect_view_toast_start_success_camera">Камера включена</string>
@@ -749,7 +806,6 @@
     <string name="custom_tint_color_select">Цветовая тема</string>
     <string name="custom_tint_color_sky_blue">Синий</string>
     <string name="custom_tint_color_sky_cyan">Голубой</string>
-    <string name="custom_watermark_contains_senstive_words">"Водяные знаки не могут использовать запрещённые термины (%1$s)"</string>
     <string name="custom_watermark_tips">Текст будет отображаться как вторая строка водяного знака. Он может содержать до 18 букв или 14 китайских символов.</string>
     <string name="custom_watermark_tips_gen2">До %1$d китайских символов или %2$d букв.</string>
     <string name="custom_watermark_too_many_words">Введенный текст слишком длинный</string>
@@ -776,7 +832,11 @@
     <string name="cvtype_item_title2">Свежесть и яркость</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
+<!-- ### FROM SOURCE -->
+    <string name="dd_f_t">xxxxxxx</string>
     <string name="dd_frn_f_t">Сложите устройство, чтобы использовать фронтальную камеру</string>
+<!-- ### FROM SOURCE -->
+    <string name="dd_unf_t">xxxxxxxxxxxxx</string>
     <string name="description_sorftlight_style_cold">Вспышка включена. Холодный свет.</string>
     <string name="description_sorftlight_style_nature">Вспышка включена. Естественный свет.</string>
     <string name="description_sorftlight_style_warm">Вспышка включена. Тёплый свет.</string>
@@ -792,7 +852,6 @@
     <string name="dialog_button_ok">ОК</string>
     <string name="dialog_button_reject">Отклонить</string>
     <string name="dialog_button_scan">Поиск устройств</string>
-    <string name="dialog_google_lens_option_0">Google Объектив (рекомендуется)</string>
     <string name="dialog_location_guide_message">Для добавления информацию о местоположении в фото и видео, разрешите приложению Камера использовать геолокацию</string>
     <string name="dialog_location_guide_positive">Разрешить</string>
     <string name="dialog_location_guide_title">Использование геолокации</string>
@@ -803,9 +862,20 @@
     <string name="dialog_privacy_watermark_msg">Введите текст</string>
     <string name="dialog_privacy_watermark_title">Водяной знак</string>
     <string name="dialog_truecolor_setting_open">Включить</string>
+<!-- ### FROM SOURCE -->
+    <string name="dir_audio_type_all">xxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="dir_audio_type_audio_track">xxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="dir_audio_type_audio_zoom">xxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="dir_audio_type_back">xxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="dir_audio_type_dual">xxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="dir_audio_type_front">xxxx</string>
     <string name="dirty_tip_toast">Объектив загрязнен, протрите его.</string>
     <string name="do_not_remind_me">Больше не показывать</string>
-    <string name="doc_shortcut_long">Документы</string>
     <string name="doc_shortcut_short">Документы</string>
     <string name="document_blackwhite">Ч/Б</string>
     <string name="document_blur_warn">Текст размыт</string>
@@ -871,7 +941,6 @@
     <string name="dual_video_user_guide_standalone_content">Снимайте двумя камерами одновременно и сохраняйте записи как отдельные видео.</string>
     <string name="dual_video_user_guide_standalone_content_new">Одновременно записанное видео можно разделить и сохранить в виде отдельных файлов.</string>
     <string name="early_morning">Утро</string>
-    <string name="edit">Редактировать</string>
     <string name="edit_blusher">Румяна</string>
     <string name="edit_cheekbone">Скулы</string>
     <string name="edit_chin">Подбородок</string>
@@ -898,9 +967,6 @@
     <string name="edit_solid">Контур</string>
     <string name="edit_temple">Виски</string>
     <string name="edit_touch_up">Макияж</string>
-    <string name="effect_comparison">Сравнение эффектов</string>
-    <string name="effect_comparison_popup">Удалить</string>
-    <string name="effect_comparison_tab">Оригинал</string>
     <string name="emoticon">Стикеры</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
@@ -958,16 +1024,26 @@
     <string name="exo_track_surround_7_point_1">Система объемного звука 7.1</string>
     <string name="exo_track_unknown">Неизвестный трек</string>
     <string name="expand_button_title">Дополнительно</string>
+<!-- ### FROM SOURCE -->
+    <string name="exposure_mode_adjust_title">ExposureMode</string>
     <string name="extend_time_watermark_2_logo_text">СУПЕРЛУНА</string>
     <string name="eye_light">Блеск глаз</string>
     <string name="eye_light_angel">Ангел</string>
     <string name="eye_light_comic">Манга</string>
     <string name="eye_light_crescent">Полумесяц</string>
     <string name="eye_light_nature">Природа</string>
-    <string name="eye_light_off"/>
+    <string name="eye_light_off" />
     <string name="eye_light_rainbow">Радуга</string>
     <string name="eye_light_star">Звезды</string>
     <string name="eye_light_window">Блик</string>
+<!-- ### FROM SOURCE -->
+    <string name="face_ae_strategy_switch">xxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="face_ae_strategy_switch_e_p">xxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="face_ae_strategy_switch_f_p">xxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="face_ae_strategy_switch_summary">xxxx</string>
     <string name="face_age_info">Возраст: %d</string>
     <string name="face_analyze_info">Возраст: %2$s | Пол: %1$s</string>
     <string name="face_analyze_info_female">Женский</string>
@@ -1006,13 +1082,15 @@
     <string name="film_video_c">Остановка времени</string>
     <string name="film_video_d">Ночной таймлапс</string>
     <string name="film_video_e">Параллельный мир</string>
-    <string name="film_video_e_tip">Поддерживается только пейзажная съёмка</string>
     <string name="film_video_f">Назад в прошлое</string>
     <string name="film_video_tip">Используйте штатив для съёмки</string>
-    <string name="flash">Вспышка</string>
     <string name="flat_selfie_tip_text">Поверните устройство, чтобы использовать камеру</string>
     <string name="flat_selfie_tip_text_main">Поверните устройство, чтобы использовать камеру</string>
     <string name="flat_selfie_tip_text_sub">Переключите камеры на внешнем экране и поверните устройство</string>
+<!-- ### FROM SOURCE -->
+    <string name="flat_selfie_tip_text_sub_v1">"Close outer screen's camera to go back to inner screen"</string>
+<!-- ### FROM SOURCE -->
+    <string name="flat_selfie_title_accessibility">xxx</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
@@ -1034,11 +1112,77 @@
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_aid_title">xxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_exit_dialog_message">The devices will be disconnected from each other if you continue. End this session now?</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_exit_dialog_title">End Assist cam session?</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_cast_inviting">%1$s wants to connect to this device</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_description_content">Assist cam allows sharing live previews between two devices connected to the same network and taking photos with one device from the other one.</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_description_title">About Assist cam</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_gallery_toast">Looks like no photos were taken during this session</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_intro_1_content">Keep two devices within %s meters from each other and open Assist cam on both of them.</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_intro_1_title">%d. Open Assist cam</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_intro_2_content">"To make the devices visible to each other, connect both of them to the same Wi-Fi network or connect one device to the other via the portable hotspot.
+Connecting the devices via the hotspot might be more reliable, as external Wi-Fi networks might not allow the devices to be discoverable."</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_intro_2_content_china">"To make the devices visible to each other, connect both of them to the same Wi-Fi network or connect one device to the other via the portable hotspot.
+Connecting the devices via the hotspot might be more reliable, as external Wi-Fi networks might not allow the devices to be discoverable."</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_intro_2_title">%d. Connect devices together</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_intro_3_content">"Select the device you want to connect to, send an invitation, and accept it on the other device.
+Use Assist cam in a stable network environment; otherwise, you might experience delay.
+If you're using a hotspot to connect, set its AP band to %s GHz in Settings > Connection &amp; sharing > Portable hotspot > Set up portable hotspot."</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_intro_3_title">%d. Start the session</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_introduction_content">Assist cam allows sharing live previews between two devices and taking photos with one device from the other one.</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_introduction_title">About Assist cam</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_network_connection_prerequisites">To be able to use Assist cam, connect to a Wi-Fi network or hotspot first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_network_connection_prerequisites_china">To be able to use Assist cam, connect to a Wi-Fi network or hotspot first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_not_found_device">"Couldn't find devices"</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_re_searching">Search again</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_searching">Searching for devices…</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_searching_tips">Connect two devices to the same Wi-Fi network or hotspot and open Assist cam to be able to take photos with one device from the other one.</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_searching_tips_china">Connect two devices to the same Wi-Fi network or hotspot and open Assist cam to be able to take photos with one device from the other one.</string>
+<!-- ### FROM SOURCE -->
+    <string name="friend_mode_select_device">Select assisting device</string>
     <string name="friend_mode_transfer_picture">Передача фотографий…</string>
+<!-- ### FROM SOURCE -->
+    <string name="frind_sign_button_accessibility">Turn off Assist cam</string>
     <string name="fromkeyguard_not_permission">Разблокируйте устройство для использования этой функции</string>
     <string name="front_camera_hint_text_place">"Снимать селфи будет проще,
 если развернуть устройство"</string>
     <string name="front_camera_hint_text_rotate">Разверните устройство</string>
+<!-- ### FROM SOURCE -->
+    <string name="function_friend_mode">Assist cam</string>
+<!-- ### FROM SOURCE -->
+    <string name="gallery_delete_dialog_confirm">xxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="gallery_delete_dialog_msg">xxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="gallery_delete_dialog_title">xxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="gallery_description">xxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="gallery_title">xxxx</string>
     <string name="guide_pop_window_msg_cv_lens">Нажмите, чтобы попробовать Pro-объективы</string>
     <string name="guide_pop_window_msg_mimoji">Нажмите, чтобы использовать аватары</string>
     <string name="guide_pop_window_msg_softlight">Нажмите, чтобы настроить мягкую вспышку</string>
@@ -1051,7 +1195,6 @@
     <string name="hine_hht">"При слабом освещении камера сделает несколько снимков,
 а затем создаст снимок с минимальным уровнем шума."</string>
     <string name="hint_ae_af_lock">Автофокус и автоэкспозиция зафиксированы</string>
-    <string name="hint_ae_af_lock_extra">Автофокус и автоэкспозиция зафиксированы. Переключитесь на Google Объектив в настройках камеры</string>
     <string name="hint_ae_lock">Автоэкспозиция выставлена</string>
     <string name="hint_device_water_mark">Водяной знак будет добавлен автоматически</string>
     <string name="hint_eye_light">Эффекты искры глаз лучше всего работают при включенной вспышке</string>
@@ -1152,7 +1295,6 @@
     <string name="live_workspace_title_pause">Пауза</string>
     <string name="live_workspace_title_play">Воспроизведение</string>
     <string name="live_workspace_title_pre_edit">Выберите элементы для удаления</string>
-    <string name="location">Геолокация</string>
     <string name="location_access_allow">Разрешить</string>
     <string name="location_fromkeyguard_not_permission">У приложения \"Камера\" отсутствует разрешение на геолокацию. Разблокируйте устройство.</string>
     <string name="location_permission_des">Добавлять геопозицию в фото и видео</string>
@@ -1196,6 +1338,18 @@
     <string name="macro_mode_use_hint_text_body">Используйте режим Макро, чтобы маленькие объекты
 на фото были большими</string>
     <string name="macro_mode_use_hint_text_title">Макро</string>
+<!-- ### FROM SOURCE -->
+    <string name="magic_video_sky_effect_type_1">xxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="magic_video_sky_effect_type_2">xxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="magic_video_sky_effect_type_3">xxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="magic_video_sky_effect_type_4">xxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="magic_video_sky_effect_type_5">xxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="magic_video_sky_fragment_tab_name">AIxxx</string>
     <string name="makeup_effect_entry_apricot_white">Алебастр</string>
     <string name="makeup_effect_entry_dusk_night">Мрак</string>
     <string name="makeup_effect_entry_neutral">Нейтральный</string>
@@ -1490,7 +1644,6 @@
     <string name="noon">Полдень</string>
     <string name="not_enough_space">SD-карта заполнена</string>
     <string name="not_set">Не назначено</string>
-    <string name="number_unit_seconds_split">%d</string>
     <string name="object_track_enable_toast">Для выбора объекта коснитесь одновременно двух точек по диагонали вокруг его границы</string>
     <string name="only_mimoji_multi_window_mode_not_supported">Эта функция не работает в многооконном режиме</string>
     <string name="pad_cannot_connect_camera_twice">Не удалось подключиться к камере. Перезагрузите устройство.</string>
@@ -1551,6 +1704,8 @@
     <string name="parameter_metering_description">Средний замер учитывает все области вашего изображения, работая лучше всего для равномерно освещенных сцен. Центровзвешенный замер в основном фокусируется на центральной области кадра и учитывает яркость окружающей области, которая подходит для съёмки объектов в центре кадра. Точечный замер охватывает область только в одном месте, обеспечивая точный контроль над экспозицией.</string>
     <string name="parameter_metering_title">Режимы замера</string>
     <string name="parameter_peak_focus_description">При ручной фокусировке используйте функцию \"Пик фокуса\" для подсветки красным области фокусировки.</string>
+<!-- ### FROM SOURCE -->
+    <string name="parameter_peak_focus_description_v2">Use focus peaking to place green highlights on the in-focus area when focusing manually.</string>
     <string name="parameter_peak_focus_title">Пик фокуса</string>
     <string name="parameter_peak_raw_description">Этот формат сохраняет все данные изображения без сжатия и обработки. Несжатые данные дают больше возможностей в постобработке.</string>
     <string name="parameter_peak_raw_description_mm">Файлы RAW содержат несжатые данные и предлагают больше возможностей для редактирования</string>
@@ -1626,9 +1781,6 @@
     <string name="pref_advance_settings">Дополнительные настройки</string>
     <string name="pref_ai_detect">AI обнаружение сцены</string>
     <string name="pref_ambient_lighting_title">Освещение</string>
-    <string name="pref_audio_chart">Карта</string>
-    <string name="pref_audio_chart_off">Откл.</string>
-    <string name="pref_audio_chart_on">Вкл.</string>
     <string name="pref_audio_denoise_title">Шумоподавление</string>
     <string name="pref_audio_focus_entry_front">Фронтальная</string>
     <string name="pref_audio_focus_entry_general">Основная</string>
@@ -1671,14 +1823,11 @@
     <string name="pref_camera_auxiliary_exposure_feedback">Проверка автоэкспозиции</string>
     <string name="pref_camera_auxiliary_focus_peak">Пик фокуса</string>
     <string name="pref_camera_auxiliary_title">Дополнительные настройки</string>
-    <string name="pref_camera_beautify_entry_auto">Нет</string>
     <string name="pref_camera_beautify_entry_high">Высокий</string>
     <string name="pref_camera_beautify_entry_low">Низкий</string>
     <string name="pref_camera_beautify_entry_normal">Средний</string>
     <string name="pref_camera_beauty">Улучшение</string>
     <string name="pref_camera_beauty_deep">Улучшение Профи</string>
-    <string name="pref_camera_bokeh_title">Портрет</string>
-    <string name="pref_camera_coloreffect_entry_aqua">Вода</string>
     <string name="pref_camera_coloreffect_entry_big_face">Растянуть</string>
     <string name="pref_camera_coloreffect_entry_blackwhite">Ч/Б</string>
     <string name="pref_camera_coloreffect_entry_fisheye">Рыбий глаз</string>
@@ -1691,10 +1840,7 @@
     <string name="pref_camera_coloreffect_entry_mirror">Зеркало</string>
     <string name="pref_camera_coloreffect_entry_mono">Моно</string>
     <string name="pref_camera_coloreffect_entry_mosaic">Мозаика</string>
-    <string name="pref_camera_coloreffect_entry_negative">Негатив</string>
     <string name="pref_camera_coloreffect_entry_none">Оригинал</string>
-    <string name="pref_camera_coloreffect_entry_posterize">Постер</string>
-    <string name="pref_camera_coloreffect_entry_sepia">Сепия</string>
     <string name="pref_camera_coloreffect_entry_sketch">Рисунок</string>
     <string name="pref_camera_coloreffect_entry_small_face">Сжать</string>
     <string name="pref_camera_coloreffect_entry_vivid">Яркий</string>
@@ -1705,7 +1851,6 @@
     <string name="pref_camera_contrast_title">Контрастность</string>
     <string name="pref_camera_crop_preferred_description">Умная обрезка для улучшения композиции изображений с высоким разрешением</string>
     <string name="pref_camera_crop_preferred_title">Умная обрезка Xiaomi</string>
-    <string name="pref_camera_debug_info_as_watermark_title">Отладка водяных знаков</string>
     <string name="pref_camera_delay_capture_10s">%d секунд</string>
     <string name="pref_camera_delay_capture_3s">%d секунды</string>
     <string name="pref_camera_delay_capture_5s">%d секунд</string>
@@ -1740,7 +1885,6 @@
     <string name="pref_camera_fastmotion_duration">Продолжительность</string>
     <string name="pref_camera_fastmotion_duration_description">Продолжительность съёмки по умолчанию не ограничена. Можно установить таймер для остановки съёмки по истечению заданного времени.</string>
     <string name="pref_camera_fastmotion_duration_infinity">Без ограничения</string>
-    <string name="pref_camera_fastmotion_duration_unit">%1$s в минуту</string>
     <string name="pref_camera_fastmotion_speed">Скорость</string>
     <string name="pref_camera_fastmotion_speed_150x">Восход и закат</string>
     <string name="pref_camera_fastmotion_speed_1800x">Растения</string>
@@ -1802,9 +1946,6 @@
     <string name="pref_camera_jpegquality_title">Качество фото</string>
     <string name="pref_camera_live_sticker_internal_title">Дополнительные инструменты</string>
     <string name="pref_camera_long_press_shutter_feature_title">Долгое нажатие кнопки съёмки</string>
-    <string name="pref_camera_long_press_viewfinder_google_lens">Google Объектив</string>
-    <string name="pref_camera_long_press_viewfinder_lock_ae_af">AE/AF блокировка</string>
-    <string name="pref_camera_long_press_viewfinder_title">Настройки Viewfinder</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Серийная съёмка</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Фокусировка</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_record">Запись видео</string>
@@ -1812,8 +1953,6 @@
     <string name="pref_camera_long_pressing_burst_shooting_entryvalue_focus">фокус</string>
     <string name="pref_camera_long_pressing_burst_shooting_entryvalue_record">запись</string>
     <string name="pref_camera_long_pressing_shutter_title">Удерживайте кнопку съёмки для блокировки AE/AF/AWB</string>
-    <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google объектив</string>
-    <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE/AF блокировка</string>
     <string name="pref_camera_lying_desc">Уведомлять о текущей ориентации, когда устройство параллельно земле во время съёмки или сканирования документов</string>
     <string name="pref_camera_lying_summary">Уведомлять о текущей ориентации, когда устройство параллельно земле</string>
     <string name="pref_camera_lying_title">Уведомлять об ориентации</string>
@@ -1835,12 +1974,13 @@
     <string name="pref_camera_normal_wide_ldc_description">Корректировать искажения лиц у границ кадра</string>
     <string name="pref_camera_normal_wide_ldc_title">Коррекция лиц</string>
     <string name="pref_camera_optimized_flash_enable_title">Оптимизация вспышки</string>
+<!-- ### FROM SOURCE -->
+    <string name="pref_camera_pad_suspend_shutter_button_summary">Drag the shutter button to the left to add an additional floating shutter, which can be placed anywhere on the screen</string>
     <string name="pref_camera_panoramamode_title">Панорама</string>
     <string name="pref_camera_parallel_process_enable_title">Параллельная обработка изображения</string>
     <string name="pref_camera_peak_entry_off">Откл.</string>
     <string name="pref_camera_peak_entry_on">Вкл.</string>
     <string name="pref_camera_peak_title">Выделение области фокусировки</string>
-    <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
     <string name="pref_camera_picture_format_entry_raw">Raw</string>
     <string name="pref_camera_picture_format_jpeg">JPEG</string>
     <string name="pref_camera_picture_format_raw">RAW</string>
@@ -1879,6 +2019,8 @@
     <string name="pref_camera_rec_type_3d_record">3D звук</string>
     <string name="pref_camera_rec_type_audio_zoom">Аудиозум</string>
     <string name="pref_camera_rec_type_normal">Стандартный</string>
+<!-- ### FROM SOURCE -->
+    <string name="pref_camera_rec_type_surround_sound">xxxx</string>
     <string name="pref_camera_recordlocation_entry_off">Откл.</string>
     <string name="pref_camera_recordlocation_entry_on">Вкл.</string>
     <string name="pref_camera_recordlocation_title">Сохранять геопозицию</string>
@@ -2023,11 +2165,9 @@
     <string name="pref_cv_watermark_title">Водяной знак Leica</string>
     <string name="pref_document_mode">Документы</string>
     <string name="pref_dual_camera_video">Фронтальная и основная</string>
-    <string name="pref_dualcamera_watermark_title">Водяной знак двойной камеры</string>
     <string name="pref_e_c_t_j">Оригинальный звук</string>
     <string name="pref_e_p_k">Внешний микрофон</string>
     <string name="pref_e_p_s_n">Запись звука через внешний микрофон при подключении наушников Bluetooth с микрофоном</string>
-    <string name="pref_effect_comparison_title">Сравнение эффектов</string>
     <string name="pref_face_beauty_title">Улучшение</string>
     <string name="pref_fingerprint_capture_title">Съёмка отпечатком пальца</string>
     <string name="pref_focus_view_bg_tip">Блокировка автоэкспозиции/автофокуса</string>
@@ -2039,16 +2179,11 @@
     <string name="pref_front_mirror_label_auto">Авто</string>
     <string name="pref_front_mirror_title">Зеркальный режим</string>
     <string name="pref_google_lens">Google Объектив</string>
-    <string name="pref_google_lens_summary">Направьте камеру на контактную информацию, URL-адреса и QR-коды, чтобы просмотреть доступные функции</string>
-    <string name="pref_google_lens_title">Предложения от Google Объектив</string>
     <string name="pref_groupshot_with_primitive_title">Сохранять оригиналы снимков</string>
     <string name="pref_hdr10_hdr10plus_video_mode_description">Оптимизация цвета для 4K (HDR10+) и 8K (HDR10) видео. Эта функция работает только на совместимых с HDR10+/HDR10 устройствах</string>
     <string name="pref_hdr10_video_mode_description">Оптимизация цвета и контрастности для 4K и 8K видео. Оптимизированное видео может воспроизведено только на совместимых с HDR10 устройствах</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
     <string name="pref_hdr10plus_video_mode_description">Оптимизация цвета и контрастности для 4K и 8K видео. Оптимизированное видео может воспроизведено только на совместимых с HDR10 HDR10+ устройствах</string>
-    <string name="pref_hdr_value_default">Откл.</string>
-    <string name="pref_histogram_off">Откл.</string>
-    <string name="pref_histogram_on">Вкл.</string>
     <string name="pref_hybrid_video_mode_description">Использование технологии HLG для улучшения цветов и динамического диапазона видео в высоком разрешении</string>
     <string name="pref_i_n_r_b">Умное шумоподавление</string>
     <string name="pref_k_h">Ушные мониторы</string>
@@ -2065,8 +2200,6 @@
     <string name="pref_manually_extra_whitebalance_text_show_auto_abbr">AWB</string>
     <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
     <string name="pref_menu_ultra_pixel_photography">%s Ультра HD</string>
-    <string name="pref_menu_ultra_pixel_photography_32mp">32MP</string>
-    <string name="pref_menu_ultra_pixel_photography_48mp">48MP</string>
     <string name="pref_module_settings">Режимы</string>
     <string name="pref_more_mode_style_title">Расположение режимов</string>
     <string name="pref_motioon_detection">Обнаружение движения</string>
@@ -2080,8 +2213,6 @@
     <string name="pref_new_slow_motion_video_quality_960_720only">Для записи видео 960 кадр/сек доступно только разрешение 720p</string>
     <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
-    <string name="pref_noise_setting_off">Откл.</string>
-    <string name="pref_noise_setting_on">Вкл.</string>
     <string name="pref_p_d_e">Функции Профи</string>
     <string name="pref_photo_assistance_tips_off">Откл.</string>
     <string name="pref_photo_assistance_tips_on">Вкл.</string>
@@ -2096,7 +2227,6 @@
     <string name="pref_privacy_watermark_edit_title">Редактирование водяного знака</string>
     <string name="pref_privacy_watermark_entry">Водяной знак</string>
     <string name="pref_privacy_watermark_switch">Показывать переключатель для водяного знака</string>
-    <string name="pref_professional_display">Профессиональный</string>
     <string name="pref_qc_focus_position_title">F</string>
     <string name="pref_qc_focus_position_title_abbr">F</string>
     <string name="pref_retain_ai_scene">AI камера</string>
@@ -2115,7 +2245,6 @@
     <string name="pref_s_n_r_s_c">Уменьшать шум в видео в зависимости от сцены</string>
     <string name="pref_scan_qrcode_summary">Сканировать QR-коды в режиме \"Фото\" может только основная камера</string>
     <string name="pref_scan_qrcode_title">Сканировать QR-коды</string>
-    <string name="pref_setting_title">Настройки</string>
     <string name="pref_simple_hdr_entry_off">Откл.</string>
     <string name="pref_simple_hdr_entry_on">Вкл.</string>
     <string name="pref_skin_beautify_color_title">Тон</string>
@@ -2124,12 +2253,13 @@
     <string name="pref_skin_beautify_slim_title">Стройность</string>
     <string name="pref_skin_beautify_smooth_title">Кожа</string>
     <string name="pref_smart_guide_title">Умные рекомендации</string>
-    <string name="pref_sound_noise_reduction_summary">Во время записи</string>
     <string name="pref_super_night_se_desc">Определение низкой освещенности в режимах Фото и Портрет для улучшения качества изображения</string>
     <string name="pref_super_night_se_summary">Автоматически переключаться на ночной режим при тёмном освещении</string>
     <string name="pref_super_night_se_title">Ночной режим</string>
     <string name="pref_true_colour_video_mode_description">Натуральный цвет</string>
     <string name="pref_true_colour_video_mode_introduction">Потрясающие визуальные эффекты, реалистичные детали и поразительный контраст</string>
+<!-- ### FROM SOURCE -->
+    <string name="pref_true_colour_video_mode_setting_dec">"Capture lifelike details, stunning colors, and striking contrast in Video and Pro modes. Motion tracking focus and H.264 encoding aren't supported. This feature might not be compatible with some third party apps."</string>
     <string name="pref_true_colour_video_mode_summary">Запись в формате 1080P и 4K в режимах \"Видео\" и \"Профи\" позволяет запечатлеть реалистичные детали, потрясающие цвета и поразительный контраст (функция может быть несовместима с некоторыми приложениями)</string>
     <string name="pref_true_colour_video_mode_title">Dolby Vision</string>
     <string name="pref_userdefine_watermark_title">Дополнительный текст</string>
@@ -2137,6 +2267,10 @@
     <string name="pref_video_ai_audio_effect_comparation_3d_i">3D звук</string>
     <string name="pref_video_ai_audio_effect_comparation_3d_ii">Демо</string>
     <string name="pref_video_ai_audio_effect_comparation_3d_original">Исходный</string>
+<!-- ### FROM SOURCE -->
+    <string name="pref_video_ai_audio_effect_comparation_surround_i">xxxx</string>
+<!-- ### FROM SOURCE -->
+    <string name="pref_video_ai_audio_mics_blocking_desc_tip">xxxx</string>
     <string name="pref_video_ai_audio_single">Фронтальный звук</string>
     <string name="pref_video_captrue_ability_title">Захват кадра при съёмке</string>
     <string name="pref_video_capture_repeating_title">Съёмка фото во время записи видео</string>
@@ -2164,10 +2298,6 @@
     <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60 кадр/сек</string>
     <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24 кадр/сек</string>
     <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30 кадр/сек</string>
-    <string name="pref_video_quality_entry_fwvga">FWVGA</string>
-    <string name="pref_video_quality_entry_vga">VGA</string>
-    <string name="pref_video_quality_entry_wqvga">WQVGA</string>
-    <string name="pref_video_quality_entry_wvga">WVGA</string>
     <string name="pref_video_quality_hfr_title">Частота кадров и качество изображения</string>
     <string name="pref_video_quality_sub_1080p">FHD 1080p</string>
     <string name="pref_video_quality_sub_1080p_new">1080P</string>
@@ -2273,8 +2403,12 @@
     <string name="settings_camera_lens_auto_switch_description">Автоматически переключаться между основным и телеобъективом в зависимости от расстояния и яркости</string>
     <string name="settings_camera_lens_auto_switch_title">Автовыбор объектива</string>
     <string name="settings_camera_near_range_description">Устранение размытия при съёмке плоских объектов на близком расстоянии</string>
+<!-- ### FROM SOURCE -->
+    <string name="settings_camera_near_range_fallback_description">Switch to ultra wide angle lens automatically to avoid bokeh effect when shooting flat objects up close</string>
     <string name="settings_camera_near_range_fallback_title">Адаптивный макрообъектив</string>
     <string name="settings_camera_near_range_title">Крупный план</string>
+<!-- ### FROM SOURCE -->
+    <string name="settings_camera_tele_fallback_description">Switch automatically between main and telephoto lenses based on distance and brightness</string>
     <string name="settings_camera_tele_fallback_title">Адаптивный телеобъектив</string>
     <string name="share">Отправить</string>
     <string name="shine_hair_puffy">Волосы</string>
@@ -2357,6 +2491,26 @@
     <string name="sticker_tab1">Милый</string>
     <string name="sticker_tab2">Забавный</string>
     <string name="stop_save_low_battery">Сохранить (%d сек.)</string>
+<!-- ### FROM SOURCE -->
+    <string name="street_auto_desc">Automatic focusing distance</string>
+<!-- ### FROM SOURCE -->
+    <string name="street_far_desc">%1$s-meter focusing distance</string>
+<!-- ### FROM SOURCE -->
+    <string name="street_middle_desc">%1$s-meter focusing distance</string>
+<!-- ### FROM SOURCE -->
+    <string name="street_near_desc">%1$s-meter focusing distance</string>
+<!-- ### FROM SOURCE -->
+    <string name="street_preferred_description">To turn this feature on, go to Settings > Launch Camera and select \"Take photo\"</string>
+<!-- ### FROM SOURCE -->
+    <string name="street_tip_far">Place subject within %d meters</string>
+<!-- ### FROM SOURCE -->
+    <string name="street_tip_middle">Place subject within %d meters</string>
+<!-- ### FROM SOURCE -->
+    <string name="street_tip_near">Place subject within %1$s meters</string>
+<!-- ### FROM SOURCE -->
+    <string name="street_top_tip">Depth of field: %1$sm - %2$sm</string>
+<!-- ### FROM SOURCE -->
+    <string name="street_top_tip_infinity">Depth of field: %1$sm - %2$s</string>
     <string name="subtitle_network_exception_tips">Не удалось транскрибировать. Сеть недоступна.</string>
     <string name="summary_pref_camera_doc4">Наведите камеру на китайский или английский текст для распознавания</string>
     <string name="sunday">Воскресенье</string>
@@ -2384,6 +2538,8 @@
     <string name="super_night_owl_toast">Держите устройство неподвижно</string>
     <string name="super_night_se_tip">Ночной режим</string>
     <string name="super_night_toast">Держите устройство неподвижно во время съёмки</string>
+<!-- ### FROM SOURCE -->
+    <string name="switch_gallery_preview_title_accessibility">xxxx</string>
     <string name="tap_to_exposure">Нажмите для настройки</string>
     <string name="tap_to_focus">Нажмите для фокусировки</string>
     <string name="text_ai_scene_selector_text_off">КОНТРАЖУР</string>
@@ -2465,6 +2621,8 @@
     <string name="timerburst_pressed_hint">Нажмите ещё раз для остановки</string>
     <string name="tip_ai_audio_off">Аудиозум: Откл.</string>
     <string name="tip_ai_audio_single_off">Фронтальный звук: Откл.</string>
+<!-- ### FROM SOURCE -->
+    <string name="tip_ai_audio_track_off">xxxx</string>
     <string name="tip_ai_off">AI камера: Откл.</string>
     <string name="tip_beauty_mode_title1">Портретный стиль: Свежий</string>
     <string name="tip_beauty_mode_title2">Портретный стиль: Фильм</string>
@@ -2487,6 +2645,18 @@
     <string name="tip_flash_soft_light_off">Мягкая вспышка: Откл.</string>
     <string name="tip_flash_soft_light_torch">Мягкая вспышка: Режим фонарика</string>
     <string name="tip_flash_torch">Вспышка: Всегда вкл.</string>
+<!-- ### FROM SOURCE -->
+    <string name="tip_friend_mode_connect_when_24GHz">Use a %s GHz connection to boost preview quality</string>
+<!-- ### FROM SOURCE -->
+    <string name="tip_friend_mode_display_device_name_connect">Shared preview</string>
+<!-- ### FROM SOURCE -->
+    <string name="tip_friend_mode_display_device_name_disconnect">The other device left this session</string>
+<!-- ### FROM SOURCE -->
+    <string name="tip_friend_mode_display_device_name_force_exit">The other device disconnected</string>
+<!-- ### FROM SOURCE -->
+    <string name="tip_friend_mode_initiative_connect_error">Connection was lost. Connect again.</string>
+<!-- ### FROM SOURCE -->
+    <string name="tip_friend_mode_passive_connect_error">Lost signal from the other device. Connect again.</string>
     <string name="tip_gif_off">GIF: Откл.</string>
     <string name="tip_gif_on">GIF: Вкл.</string>
     <string name="tip_hand_gesture_off">Cъёмка жестом: Откл.</string>
@@ -2520,6 +2690,12 @@
     <string name="title_pref_camera_doc4">Распознавание текста</string>
     <string name="title_snap_double_confirm">Повторное подтверждение</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Серийная съёмка недоступна при включенном звуковом управлении</string>
+<!-- ### FROM SOURCE -->
+    <string name="toast_camera_connect_success">Connected successfully. Viewing camera feed.</string>
+<!-- ### FROM SOURCE -->
+    <string name="toast_monitor_connect_success">Connected successfully. Viewing shared preview.</string>
+<!-- ### FROM SOURCE -->
+    <string name="toast_monitor_connect_timeout">The other device closed shared preview</string>
     <string name="toast_saving">Сохранение фотографий…</string>
     <string name="toast_start_audio_capture">Произнесите команду, чтобы сделать снимок</string>
     <string name="today">Сегодня</string>
@@ -2548,10 +2724,6 @@
     <string name="ultra_pixel_50mp">50MP</string>
     <string name="ultra_pixel_capture_process_hint">Обработка захваченного изображения…</string>
     <string name="ultra_pixel_capture_process_tip">Обработка изображения…</string>
-    <string name="ultra_pixel_photography_32mp_close_tip">32MP откл.</string>
-    <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
-    <string name="ultra_pixel_photography_48mp_close_tip">48MP откл.</string>
-    <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
     <string name="ultra_pixel_photography_close_tip">%s Ультра HD отключён</string>
     <string name="ultra_pixel_photography_open_tip">%s Ультра HD включён</string>
     <string name="ultra_pixel_portrait_hint">Портрет HD</string>
@@ -2580,8 +2752,6 @@
     <string name="update_loading">Загружено: %1$s</string>
     <string name="update_start">Обновить %1$s</string>
     <string name="user_agree">Принять</string>
-    <string name="user_agreement2">Условия использования</string>
-    <string name="user_agreement4">Политика конфиденциальности</string>
     <string name="user_define_watermark_cancel">Отмена</string>
     <string name="user_define_watermark_save">Сохранить</string>
     <string name="user_disagree">Выход</string>
@@ -2589,6 +2759,10 @@
     <string name="user_notice_title">Условия использования</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+<!-- ### FROM SOURCE -->
+    <string name="video_beauty_hint_msg">Conceal blemishes while keeping all the details realistic</string>
+<!-- ### FROM SOURCE -->
+    <string name="video_beauty_hint_title">All-new Beautify for video</string>
     <string name="video_beauty_tip">Улучшение видео</string>
     <string name="video_beauty_tip_beautification">Фильтры</string>
     <string name="video_beauty_tip_filter">Фильтры</string>
@@ -2665,13 +2839,12 @@
     <string name="video_prompter_redo_description">Вернуть</string>
     <string name="video_prompter_shrink_description">Свернуть</string>
     <string name="video_prompter_undo_description">Отмена</string>
+<!-- ### FROM SOURCE -->
+    <string name="video_quality_audio_track_conflict_toast">xxxx</string>
     <string name="video_quality_track_focus_conflict_toast">Фокусировка с отслеживанием движения не поддерживается для видео 8K/60FPS</string>
     <string name="video_reach_size_limit">Достигнут максимальный размер видео</string>
-    <string name="video_shortcut_long">Видео</string>
     <string name="video_shortcut_short">Видео</string>
     <string name="video_tag_flag_title">Тег</string>
-    <string name="video_true_colour_fourcc">tc</string>
-    <string name="video_true_colour_suffix">_TC</string>
     <string name="video_true_colour_tip">DOVI</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
@@ -2727,7 +2900,5 @@
     <string name="widget_camera_lens_description">Эксперименты с фокусным расстоянием</string>
     <string name="widget_camera_lens_none_description">Объектив 50 мм для портретов</string>
     <string name="widget_camera_lens_talk_back">Pro-объективы</string>
-    <string name="width">Ширина</string>
     <string name="yesterday">Вчера</string>
-    <string name="zoom_no_support_tip_48M">Приближение недоступно в режиме 48MP</string>
 </resources>

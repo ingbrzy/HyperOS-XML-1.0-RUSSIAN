@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Обновление</string>
     <string name="battery_islow">&lt;font color=#f37981>Подключите зарядное устройство&lt;/font></string>
     <string name="battery_islow_desc">Уровень заряда аккумулятора слишком низкий для безопасной установки zip-файла, подключите зарядное устройство и попробуйте позже!</string>
     <string name="btn_changelog">Список изменений</string>
@@ -19,8 +18,6 @@
     <string name="channel_service">Фоновая служба обновления</string>
     <string name="channel_update">Доступна новая версия</string>
     <string name="check_new_version">Проверить</string>
-    <string name="default_filedownloader_notification_content">Идёт загрузка файла.</string>
-    <string name="default_filedownloader_notification_title">Загрузчик файлов</string>
     <string name="dialog_3g_desc">Помните, что использование мобильных данных для загрузки прошивки может привести к повышенному расходу вашего траффика.</string>
     <string name="dialog_3g_title">Внимание!</string>
     <string name="dialog_ab">Устройство поддерживает \"Бесшовное обновление системы", выберите \"Слот A\" при появлении запроса в TWRP!</string>
@@ -30,11 +27,9 @@
     <string name="dialog_stop_title">Остановить загрузку?</string>
     <string name="dialog_twrp">Внутреннее хранилище зашифровано. После перезагрузки устройства в Recovery, введите пароль разблокировки устройства.</string>
     <string name="downgrade_warning">Понижение версии прошивки недоступно!</string>
-    <string name="download_chlog">%1$s</string>
     <string name="download_done">Успешно загружено!</string>
     <string name="download_fail">Ошибка во время загрузки!</string>
     <string name="download_fail_desc">Контрольная сумма MD5 не совпадает…</string>
-    <string name="download_md5">MD5: %1$s</string>
     <string name="downloading">Загрузка:</string>
     <string name="downloading_desc">Идёт загрузка, проверьте статус в области уведомлений.</string>
     <string name="fastboot_desc">Будет выполнена перезагрузка в режим Fastboot, если не знакомы с этим режимом, не продолжайте. Продолжить?</string>
@@ -67,7 +62,6 @@
     <string name="message_checkbox">Не показывать сообщения от Xiaomi.eu</string>
     <string name="message_checkbox_device">Больше не показывать</string>
     <string name="message_title">ПРИМЕЧАНИЕ!</string>
-    <string name="new_desc">%1$s</string>
     <string name="new_version">Найдена новая версия!</string>
     <string name="no_info">Информация недоступна</string>
     <string name="no_mirror">Все зеркала в данный момент отключены, попробуйте позже…</string>
@@ -95,7 +89,6 @@
     <string name="share_title">Поделиться с</string>
     <string name="stable">стабильная</string>
     <string name="twrp_update_warning">Чтобы использовать обновления по воздуху, необходимо указать, установлен ли на устройстве TWRP или нет:</string>
-    <string name="unit" formatted="false">%1$s %</string>
     <string name="version">Текущая версия:</string>
     <string name="weekly">Бета</string>
     <string name="wifi_recommended">Отсутствует Wi-Fi соединение</string>

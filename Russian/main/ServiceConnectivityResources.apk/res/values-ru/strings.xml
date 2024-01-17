@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_networkCaptivePortalServerUrl" />
     <string name="connectivityResourcesAppLabel">Ресурсы системных подключений</string>
     <string name="mobile_no_internet">Мобильная сеть без доступа в интернет</string>
     <string name="network_available_sign_in">Регистрация в сети</string>

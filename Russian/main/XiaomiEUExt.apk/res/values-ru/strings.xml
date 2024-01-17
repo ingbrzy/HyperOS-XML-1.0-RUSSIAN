@@ -30,7 +30,6 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="add">Добавить</string>
     <string name="afternoon">После полудня</string>
-    <string name="app_name">Расширение Xiaomi.eu</string>
     <string name="auto">Авто</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
@@ -177,7 +176,6 @@
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="status_bar_icons">Значки строки состояния</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>

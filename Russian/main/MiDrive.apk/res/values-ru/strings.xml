@@ -38,10 +38,8 @@
     <string name="ai_ppt_to_pdf_view_all">Просмотр</string>
     <string name="ai_recommend_pdf">Преобразовано в PDF</string>
     <string name="album">Галерея</string>
-    <string name="all">Все</string>
     <string name="app_function">Хранение, просмотр, загрузка файлов и прочее</string>
     <string name="app_is_running">Приложение запущено…</string>
-    <string name="app_name">Mi Drive</string>
     <string name="auto_save_to_file">Сохранено в папку \"Преобразовано в PDF\"</string>
     <string name="be_sure_to_clear_cache">Очистить кеш?</string>
     <string name="btn_recall_text_next_step_timer">Отозвать (%d сек.)</string>
@@ -491,12 +489,7 @@
     <string name="set_lock_password_dialog_title">Установите новый пароль</string>
     <string name="setting_clear_cache">Очистить кеш</string>
     <string name="setting_create_shortcut">Ярлык на рабочем столе</string>
-    <string name="setting_default_download_dir">Путь загрузки по умолчанию</string>
-    <string name="setting_default_download_dir_title">Выберите путь загрузки</string>
-    <string name="setting_no_download_path">Выберите путь загрузки по умолчанию</string>
     <string name="setting_title">Настройки</string>
-    <string name="shortcut_dialog_confirm">Создать</string>
-    <string name="shortcut_dialog_content">Создать ярлык на рабочем столе для Mi Drive?</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>

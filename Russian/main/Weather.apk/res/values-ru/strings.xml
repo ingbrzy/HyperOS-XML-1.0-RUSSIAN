@@ -76,7 +76,6 @@
     <string name="alert_weather_enable_settings_summary">Получать штормовые предупреждения</string>
     <string name="alert_weather_enable_settings_title">Штормовые предупреждения</string>
     <string name="already_voted_toast">Вы уже голосовали сегодня</string>
-    <string name="app_name">Погода</string>
     <string name="aqi_15_days_desc">15-дневный прогноз ИКВ</string>
     <string name="aqi_24_hours_desc">24-часовой прогноз ИКВ</string>
     <string name="aqi_48_hours_desc">48-часовой прогноз ИКВ</string>
@@ -101,7 +100,6 @@
     <string name="aqi_publish_time">Обновлено %1$s</string>
     <string name="aqi_quality_ambient_air_quality">Качество воздуха</string>
     <string name="aqi_quality_co_desc">Угарный газ</string>
-    <string name="aqi_quality_co_pad">CO: %1$s</string>
     <string name="aqi_quality_detail_15_days">Прогноз на 15 дней</string>
     <string name="aqi_quality_detail_24_hours">Прогноз на 24 часа</string>
     <string name="aqi_quality_detail_48_hours">Прогноз на 48 часов</string>
@@ -109,15 +107,10 @@
     <string name="aqi_quality_major_pollutants">Загрязняющие агенты</string>
     <string name="aqi_quality_map_title">Карта качества воздуха</string>
     <string name="aqi_quality_no2_desc">Диоксид азота</string>
-    <string name="aqi_quality_no2_pad">NO₂: %1$s</string>
     <string name="aqi_quality_o3_desc">Озон</string>
-    <string name="aqi_quality_o3_pad">O₃: %1$s</string>
     <string name="aqi_quality_pm10_desc">Грубые частицы</string>
-    <string name="aqi_quality_pm10_pad">PM10: %1$s</string>
     <string name="aqi_quality_pm25_desc">Мелкие частицы</string>
-    <string name="aqi_quality_pm25_pad">PM2.5: %1$s</string>
     <string name="aqi_quality_so2_desc">Диоксид серы</string>
-    <string name="aqi_quality_so2_pad">SO₂: %1$s</string>
     <string name="aqi_settings_summary">Предупреждения о качестве воздуха</string>
     <string name="aqi_settings_title">ИКВ</string>
     <string name="aqi_station_best_quality_station">Лучшая станция</string>
@@ -142,31 +135,15 @@
     <string name="button_settings_confirm_to_revoke_title">Отозвать разрешение?</string>
     <string name="button_sure_abandon">Отменить изменения?</string>
     <string name="card_item_ad_text">Реклама</string>
+<!-- ### FROM SOURCE -->
+    <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Проверьте подключение и повторите попытку</string>
     <string name="china_version_first_start_network_msg">Перед использованием приложения Погода вы должны принять %1$s и %2$s Xiaomi. Приложению для нормальной работы требуется подключение к интернету и доступ к вашему местоположению. Вы согласны?</string>
     <string name="city_exceeded_warning">Можно добавить до 10 городов</string>
     <string name="clear_net_mock_success">Макет очищен</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
-    <string name="common_google_play_services_enable_button">Включить</string>
-    <string name="common_google_play_services_enable_text">Приложение %1$s не будет работать, если вы не включите сервисы Google Play.</string>
-    <string name="common_google_play_services_enable_title">Включение сервисов Google Play</string>
-    <string name="common_google_play_services_install_button">Установить</string>
-    <string name="common_google_play_services_install_text">Приложение %1$s не будет работать без сервисов Google Play, которые отсутствуют на устройстве.</string>
-    <string name="common_google_play_services_install_title">Установка сервисов Google Play</string>
-    <string name="common_google_play_services_notification_channel_name">Доступность сервисов Google Play</string>
-    <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
-    <string name="common_google_play_services_unknown_issue">У приложения %1$s проблемы с сервисами Google Play. Повторите попытку.</string>
-    <string name="common_google_play_services_unsupported_text">Приложение %1$s не будет работать без сервисов Google Play, которые не поддерживаются на этом устройстве.</string>
-    <string name="common_google_play_services_update_button">Обновить</string>
-    <string name="common_google_play_services_update_text">Приложение %1$s не будет работать без обновления сервисов Google Play</string>
-    <string name="common_google_play_services_update_title">Обновление сервисов Google Play</string>
-    <string name="common_google_play_services_updating_text">Приложение %1$s не будет работать без сервисов Google Play, которые сейчас обновляются.</string>
-    <string name="common_google_play_services_wear_update_text">Требуется новая версия сервисов Google Play. Идёт обновление.</string>
     <string name="common_loading_text">Подождите…</string>
-    <string name="common_open_on_phone">Открыть на устройстве</string>
-    <string name="common_signin_button_text">Войти</string>
-    <string name="common_signin_button_text_long">Войти с аккаунтом Google</string>
     <string name="connect_fail">Не удалось подключиться к сети, повторите попытку</string>
     <string name="content_desc_activity_main_add_city">Добавить город</string>
     <string name="content_desc_activity_main_add_city_manage">Управление городами</string>
@@ -187,7 +164,6 @@
     <string name="daily_forecast_add_city_add">Подписаться</string>
     <string name="daily_forecast_add_city_message">Подпишитесь на погоду в %1$s для подробного прогноза.</string>
     <string name="daily_forecast_add_city_title">Следите за погодой в %1$s</string>
-    <string name="daily_forecast_card_title">%d-дневный прогноз</string>
     <string name="daily_forecast_detail_date">dd.MM</string>
     <string name="daily_forecast_no_data">"Не удалось получить данные
 Потяните вниз для обновления или проверьте настройки сети"</string>
@@ -209,7 +185,6 @@
     <string name="dialog_score_very_bad">Оч. плохо</string>
     <string name="dialog_score_very_good">Оч. хорошо</string>
     <string name="dialog_title_score">Оценить приложение</string>
-    <string name="dislike_alert_dialog_title">Почему вы не хотите видеть этот контент?</string>
     <string name="download_rsc_tips">Загрузка фонового аудио…</string>
     <string name="dynamic_weather">Погода</string>
     <string name="early_morning">Утро</string>
@@ -239,9 +214,7 @@
     <string name="exo_download_failed">Ошибка загрузки</string>
     <string name="exo_download_notification_channel_name">Загрузки</string>
     <string name="exo_download_removing">Удаление загрузок…</string>
-    <string name="exo_track_bitrate">%1$.2f Мбит/с</string>
     <string name="exo_track_mono">Моно</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Авто</string>
     <string name="exo_track_selection_none">Нет</string>
     <string name="exo_track_selection_title_audio">Аудио</string>
@@ -318,7 +291,7 @@
     <string name="index_item_download_pause">Возобновить</string>
     <string name="index_item_downloading">Загрузка</string>
     <string name="index_item_experience_now">Установить</string>
-    <string name="index_item_install_dialog" />
+    <string name="index_item_install_dialog"></string>
     <string name="index_item_install_dialog_cancel" />
     <string name="index_item_install_dialog_open" />
     <string name="index_item_install_now">Установить</string>
@@ -332,7 +305,6 @@
     <string name="indices_title_pressure">Давление</string>
     <string name="indices_title_pressure_new">Давление</string>
     <string name="indices_title_uv">УФ</string>
-    <string name="indices_title_wind_speed">Скорость ветра</string>
     <string name="indices_wind_direction_east">В</string>
     <string name="indices_wind_direction_north">С</string>
     <string name="indices_wind_direction_south">Ю</string>
@@ -466,8 +438,6 @@
     <string name="non_wifi_environment">Подключитесь к Wi-Fi для загрузки звуковых эффектов</string>
     <string name="noon">Полдень</string>
     <string name="not_set">Не задано</string>
-    <string name="notif_aqi_title">Индекс в %2$s сегодня %1$d</string>
-    <string name="notif_weather_title">Сегодня %1$s в %2$s</string>
     <string name="open">Открыть</string>
     <string name="open_browser">Открыть в браузере</string>
     <string name="open_now">Открыть</string>
@@ -486,7 +456,6 @@
     <string name="permission_exit">Выход</string>
     <string name="permission_privacy">Политика конфиденциальности (обязательно)</string>
     <string name="permission_select_all">Выбрать все</string>
-    <string name="permission_storage">Хранилище</string>
     <string name="permission_storage_introduce">Для доступа к файлам на устройстве</string>
     <string name="permission_user_protocol">Пользовательское соглашение (обязательно)</string>
     <string name="policy_settings">Условия использования</string>
@@ -504,7 +473,6 @@
     <string name="privacy_grant_success">Разрешение успешно предоставлено</string>
     <string name="privacy_policy">Политику конфиденциальности</string>
     <string name="privacy_policy_msg"><Data>Приложение содержит следующие функции:&lt;br/>• Информация о погоде для вашего местоположения&lt;br/>• Прогноз погоды&lt;br/>• Штормовые предупреждения&lt;br/>&lt;br/>Для предоставления перечисленных функций, приложению требуется сбор некоторой личной информации. Вы можете узнать, как мы используем собранную информацию в нашей &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>. Перед использованием приложения прочтите и примите наши &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%3$s\">Политику конфиденциальности&lt;/a>. Вы можете отозвать свое согласие с Политикой конфиденциальности в любое время в настройках.</Data></string>
-    <string name="privacy_policy_msg_for_gp"><Data>Приложение содержит следующие функции:&lt;br/>• Информация о погоде для вашего местоположения&lt;br/>• Прогноз погоды&lt;br/>• Штормовые предупреждения&lt;br/>&lt;br/>Для предоставления перечисленных функций, приложению требуется сбор некоторой личной информации, включая информацию о местоположении, даже если приложение закрыто или не используется. Вы можете узнать, как мы используем собранную информацию в нашей &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>. Перед использованием приложения прочтите и примите наши &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%3$s\">Политику конфиденциальности&lt;/a>. Вы можете отозвать свое согласие с Политикой конфиденциальности в любое время в настройках.</Data></string>
     <string name="privacy_revoke_failed">Не удалось отозвать разрешение. Подождите немного и повторите попытку.</string>
     <string name="privacy_revoke_success">Разрешение успешно отозвано</string>
     <string name="privacy_settings">Политика конфиденциальности</string>
@@ -537,7 +505,6 @@
     <string name="request_permission_background_location_dialog_content">Чтобы приложение всегда получало точную геопозицию, разрешите ему использовать геолокацию в фоновом режиме</string>
     <string name="request_permission_location_dialog_content">Отображение информации о погоде для текущего местоположения</string>
     <string name="request_permission_main_purpose">Отображение информации о погоде</string>
-    <string name="request_permission_read_phone_state_dialog_content">Для идентификации устройства</string>
     <string name="request_permission_storage_dialog_content">Для обмена информацией о погоде в формате изображения</string>
     <string name="retry">Повторить</string>
     <string name="revoke_fail">Не удалось подключиться к сети</string>
@@ -560,7 +527,6 @@
     <string name="search_weather_keywords">Температура;Прогноз погоды;Погода;Качество воздуха;Степень загрязнения;Влажность</string>
     <string name="select_show_city">Выбор местоположения</string>
     <string name="send">Отправить</string>
-    <string name="set">Настройки</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
     <string name="setting_about_permission">Разрешения</string>
@@ -578,9 +544,7 @@
     <string name="setting_share_weather_need">Для обмена изображениями с информацией о погоде</string>
     <string name="setting_used_to_display_weather">Для отображения актуальной информации о погоде</string>
     <string name="setting_used_to_push_reminder">Получать оповещения о погоде и предупреждения</string>
-    <string name="settings">Настройки</string>
     <string name="settings_atmospheric_pressure_atm">атм</string>
-    <string name="settings_atmospheric_pressure_default">0</string>
     <string name="settings_atmospheric_pressure_hpa">гПа</string>
     <string name="settings_atmospheric_pressure_inhg">дюйм рт.ст.</string>
     <string name="settings_atmospheric_pressure_mbar">мбар</string>
@@ -590,7 +554,6 @@
     <string name="share_button">Поделиться</string>
     <string name="share_menu_title">Поделиться</string>
     <string name="share_subject">Поделиться</string>
-    <string name="share_weather_desc">\#MIUI Weather#Сегодня %1$s %2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Не удалось сделать скриншот</string>
     <string name="shortcut_short_label_24_hour_forecast">24-часовой прогноз</string>
@@ -600,7 +563,6 @@
     <string name="size_kilo_byte">КБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
-    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
@@ -660,7 +622,6 @@
     <string name="temperature_normal_unit">%1$s°</string>
     <string name="temperature_unit_C">%1$s℃</string>
     <string name="temperature_unit_F">%1$s℉</string>
-    <string name="thanku_for_feedback">Спасибо за обратную связь, вы можете повторно открыть видео погоды на странице настроек</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>
@@ -733,7 +694,7 @@
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
-    <string name="twc_logo_title"/>
+    <string name="twc_logo_title" />
     <string name="unit">Единицы измерения</string>
     <string name="unit_temperature">Температура</string>
     <string name="unit_wind">Скорость ветра</string>
@@ -747,12 +708,9 @@
     <string name="user_notice">Внимание</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
-    <string name="video_banner_regional_weather_update">Региональные сводки погоды</string>
-    <string name="video_banner_weather_forecast">Прогноз погоды</string>
-    <string name="video_banner_weather_update">Последние сводки погоды</string>
     <string name="video_dialog_no_play" />
     <string name="video_dialog_play" />
-    <string name="video_dialog_subtitle" />
+    <string name="video_dialog_subtitle"></string>
     <string name="video_dialog_title" />
     <string name="view_forecast_item_yesterday">Вчера</string>
     <string name="view_indexes_item_day_after_tommorrow">Через 2 дня</string>
@@ -783,9 +741,7 @@
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
     <string name="xiaomi_weather_description_content">Приложение дает вам точную информацию о погоде. Виджеты \"Погода\" в строке состояния и на рабочем столе не будут работать без него должным образом. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
-    <string name="xiaomi_weather_description_content_remove">Приложение \"Погода\" является системным, удалить его нельзя. После удаления ярлыка приложения с рабочего стола, связанные виджеты и просмотр информации о погоде могут быть недоступны.</string>
     <string name="xiaomi_weather_description_title">О приложении</string>
-    <string name="xiaomi_weather_description_title_remove">Удалить \"Погода\" с рабочего стола?</string>
     <string name="yes_vote_ratio">За %1$s%%</string>
     <string name="yesterday">Вчера</string>
     <string name="your_location">Ваше местоположение</string>

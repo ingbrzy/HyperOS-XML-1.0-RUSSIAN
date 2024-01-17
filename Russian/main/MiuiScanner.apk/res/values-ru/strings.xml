@@ -53,18 +53,15 @@
     <string name="all_text">Весь текст</string>
     <string name="already_ocr_result">Автоматически выбранный текст</string>
     <string name="always">Всегда</string>
-    <string name="androidx_camera_default_config_provider" />
     <string name="app_description_content">Приложение позволяет сканировать коды, визитные карточки и документы. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
     <string name="app_description_title">О приложении</string>
     <string name="app_details">Информация о приложении:</string>
-    <string name="app_name">Сканер</string>
     <string name="back">Назад</string>
     <string name="barcode_into_rectangle">Разместите код внутри рамки</string>
     <string name="birthday">"День рождения: "</string>
     <string name="black_and_white">Ч/Б</string>
     <string name="blog">Weibo</string>
     <string name="business_card">Визитка</string>
-    <string name="business_card_result_title">Визитка</string>
     <string name="business_card_title">Разместите визитку внутри рамки</string>
     <string name="business_card_with_qr_code">Разместите визитку или QR-код внутри рамки</string>
     <string name="business_copy">Копировать</string>
@@ -92,7 +89,6 @@
     <string name="change_phone_number">Изменить номер телефона</string>
     <string name="change_wifi_info">Изменить информацию о сети</string>
     <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
-    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="check_WI_FI">Найдена сеть Wi-Fi</string>
     <string name="check_for_updates">Проверка бета-обновлений</string>
     <string name="check_phone_num">Найден номер телефона</string>
@@ -161,12 +157,6 @@
     <string name="createQRCode_hint">Введите текст</string>
     <string name="createQRCode_save">Сохранить</string>
     <string name="create_again">Обновить</string>
-    <string name="crop">Обрезать</string>
-    <string name="crop__cancel">ОТМЕНА</string>
-    <string name="crop__done">ГОТОВО</string>
-    <string name="crop__pick_error">Нет доступных источников изображений</string>
-    <string name="crop__saving">Сохранение изображения…</string>
-    <string name="crop__wait">Подождите…</string>
     <string name="crop_and_create">Обрезка и создание файла Excel…</string>
     <string name="crop_cancel_description">Отмена</string>
     <string name="crop_done_description">Готово</string>
@@ -195,7 +185,6 @@
     <string name="document_ocr_fail_no_text">Не удалось распознать текст. Повторите выделение и начните сначала.</string>
     <string name="document_ocr_result_copy">Копировать</string>
     <string name="document_ocr_result_save">Сохранить</string>
-    <string name="document_ocr_result_title">Фото документа</string>
     <string name="document_ocr_tip_msg">Распознавание…</string>
     <string name="document_read">Прочитать</string>
     <string name="document_recognize_fail_tip">Не удалось распознать документ</string>
@@ -237,7 +226,6 @@
     <string name="error_media_storage_failure">Не удалось сохранить фото</string>
     <string name="error_not_found_activity">Нет приложений для открытия PDF-файлов</string>
     <string name="error_not_found_excel_activity">Нет приложений для открытия файлов Excel</string>
-    <string name="error_null_cursor">Произошла ошибка!</string>
     <string name="error_permissions">Приложение Сканер не имеет необходимых разрешений для нормальной работы. Перейдите в Настройки и проверьте разрешения.</string>
     <string name="error_server_error">Ошибка сервера</string>
     <string name="evening">После полудня</string>
@@ -311,7 +299,6 @@
     <string name="goods_query">Продукт</string>
     <string name="got_it">Понятно</string>
     <string name="gps">Навигация</string>
-    <string name="grant_permission">Предоставить разрешение</string>
     <string name="gravity_center">по центру</string>
     <string name="gravity_left">слева</string>
     <string name="gravity_right">справа</string>
@@ -327,7 +314,6 @@
     <string name="identify_the_results">Получение результатов</string>
     <string name="if_open_result">Показывать результат сканирования в приложении</string>
     <string name="if_to_open_milogo_scanning">Распознавание логотипа Xiaomi</string>
-    <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
     <string name="immediately_try">Сканирование</string>
     <string name="immediately_try_video">Сканирование</string>
     <string name="importFailed">Не удалось импортировать</string>
@@ -713,7 +699,6 @@
     <string name="send">Отправить</string>
     <string name="send_email">Отправить email</string>
     <string name="send_mail">Отправить Email</string>
-    <string name="setting_alipay">Alipay</string>
     <string name="setting_choose_every_time">Всегда спрашивать</string>
     <string name="setting_default_function">По умолчанию</string>
     <string name="setting_function_sort">Изменить порядок</string>
@@ -721,7 +706,6 @@
     <string name="setting_preference_weixin_process_method">Коды WeChat</string>
     <string name="setting_title">Настройки</string>
     <string name="setting_use_last_choose">Запомнить предыдущий выбор</string>
-    <string name="setting_wechat">WeChat</string>
     <string name="share">Отправить</string>
     <string name="share_as_PDF">PDF</string>
     <string name="share_as_picture">Изображение</string>
@@ -772,7 +756,6 @@
     <string name="study_vendor_info">Работает на Zuoyebang</string>
     <string name="submitting">Отправка…</string>
     <string name="suggested_submission_success">Отзыв успешно отправлен</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
@@ -880,12 +863,10 @@
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
     <string name="ucrop_crop">Обрезать</string>
-    <string name="ucrop_error_input_data_is_absent">Необходимо указать входной и выходной Uri</string>
     <string name="ucrop_gif_tag">gif</string>
     <string name="ucrop_label_edit_photo">Редактирование фото</string>
     <string name="ucrop_label_original">Оригинал</string>
     <string name="ucrop_menu_crop">Обрезка</string>
-    <string name="ucrop_mutate_exception_hint">Переопределите ресурс цвета (ucrop_color_toolbar_widget) в своем приложении, чтобы он работал на pre-L устройствах</string>
     <string name="ucrop_rotate">Поворот</string>
     <string name="ucrop_scale">Масштаб</string>
     <string name="uninstall_prompt">Если во время установки возникают проблемы, перейдите в Настройки &gt; Приложения &gt; Все приложения &gt; Сканер, нажмите \"Удалить\" и попробуйте установить приложение ещё раз.</string>
@@ -934,7 +915,6 @@
     <string name="xiaoai_dialog">"Скажите Mi AI
 что отсканировать"</string>
     <string name="xiaoai_text">Маленькая кнопка</string>
-    <string name="xiaoai_vision">Сканер Mi AI</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>

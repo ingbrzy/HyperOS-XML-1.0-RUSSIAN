@@ -2,10 +2,8 @@
 <resources>
     <string name="accept">Принять</string>
     <string name="add">Добавить</string>
-    <string name="add_manual_printer">Добавить принтер</string>
     <string name="add_named">Добавить %1$s</string>
     <string name="add_printer_by_ip">Добавить принтер по IP-адресу</string>
-    <string name="app_name">Системная служба печати</string>
     <string name="certificate_update_request">Этот принтер предоставил новый сертификат безопасности, либо другое устройство имитирует его. Принять новый сертификат?</string>
     <string name="connect_hint_text">Возможно, вам потребуется одобрить это подключение на передней панели принтера.</string>
     <string name="connecting_to">Подключение к %1$s</string>
@@ -13,7 +11,6 @@
     <string name="connects_via_network">Подключение через текущую сеть к %1$s</string>
     <string name="connects_via_wifi_direct">Подключение через Wi-Fi Direct</string>
     <string name="disable_wifi_direct">Отключить Wi-Fi Direct</string>
-    <string name="enable_location">Включить</string>
     <string name="failed_connection">Не удалось подключиться к %1$s</string>
     <string name="failed_printer_connection">Не удалось подключиться к принтеру</string>
     <string name="find_wifi_direct">Найти Wi-Fi Direct принтеры</string>
@@ -54,7 +51,6 @@
     <string name="unreadable_input">Не удалось прочитать документ</string>
     <string name="waiting_to_send">Ожидание отправки…</string>
     <string name="wifi_direct">Wi-Fi Direct</string>
-    <string name="wifi_direct_location_rationale">Разрешите Службе печати включить геолокацию для поиска устройств поблизости</string>
     <string name="wifi_direct_permission_rationale">Разрешите Службе печати использовать геолокацию для поиска устройств поблизости</string>
     <string name="wifi_direct_printers">Wi-Fi Direct принтеры</string>
     <string name="wifi_direct_printing">Wi-Fi Direct печать</string>

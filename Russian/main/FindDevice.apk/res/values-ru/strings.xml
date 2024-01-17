@@ -31,7 +31,6 @@
     <string name="activate_xiaomi_account">Активировать устройство</string>
     <string name="adding_or_updating_account">Обновление аккаунта…</string>
     <string name="afternoon">После полудня</string>
-    <string name="app_name">Поиск устройства</string>
     <string name="call_notification_answer_action">Ответить</string>
     <string name="call_notification_answer_video_action">Видео</string>
     <string name="call_notification_decline_action">Отклонить</string>
@@ -43,7 +42,6 @@
     <string name="change_find_device_status_failed">Не удалось разблокировать. %s."</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
-    <string name="copy">Копировать</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Для геолокации устройства по номеру телефона, когда оно не подключено к интернету</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">Для геолокации устройства, когда оно не подключено к интернету</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Для поиска устройства и переключения в режим потери</string>
@@ -65,8 +63,6 @@
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="evening">После полудня</string>
-    <string name="expand_button_title">Дополнительно</string>
-    <string name="find_device">Поиск устройства</string>
     <string name="find_device_capture_done_notification_content">Просмотр фото, снятого удаленно через Поиск устройства на i.mi.com</string>
     <string name="find_device_capture_done_notification_title">Съёмка через Поиск устройства</string>
     <string name="find_device_capture_notification_content">Запрос из вашего аккаунта на удаленную съёмку с помощью этого устройства</string>
@@ -81,7 +77,6 @@
     <string name="find_device_error_unknown">Неизвестная ошибка (%s).</string>
     <string name="find_device_noise_title">Сигнал Поиска устройства</string>
     <string name="find_device_notice">Если устройство потеряно, посетите &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> для поиска, блокировки или удаленной очистки устройства.</string>
-    <string name="find_device_notice_sms_alert">При замене SIM карты может быть автоматически отправлено SMS для повторной активации.</string>
     <string name="find_device_notice_sms_alert_with_common_charge_hint">После смены SIM-карты будет отправлено одно &lt;font color=#0097FF>&lt;b>платное SMS&lt;/b>&lt;/font> для того чтобы обновить статус SIM-карты и убедиться, что все службы работают нормально. Оплата согласно тарифу вашего оператора.</string>
     <string name="find_device_notice_sms_alert_with_domestic_charge_hint">После смены SIM-карты будет отправлено одно &lt;font color=#0097FF>&lt;b>обычное платное SMS&lt;/b>&lt;/font> для того чтобы обновить статус SIM-карты и убедиться, что все службы работают нормально. Оплата согласно тарифу вашего оператора.</string>
     <string name="find_device_notice_sms_alert_with_internal_charge_hint">После смены SIM-карты будет отправлено одно &lt;font color=#0097FF>&lt;b>международное платное SMS&lt;/b>&lt;/font> для того чтобы обновить статус SIM-карты и убедиться, что все службы работают нормально. Оплата согласно тарифу вашего оператора.</string>
@@ -183,7 +178,6 @@
     <string name="morning">Утро</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
-    <string name="not_set">Не задано</string>
     <string name="open_wifi_settings">Настройки Wi-Fi</string>
     <string name="open_wifi_settings_china">Настройки Wi-Fi</string>
     <string name="passport_checking_vcode">Проверка пароля…</string>
@@ -193,11 +187,9 @@
     <string name="passport_trust_device">Доверять этому устройству</string>
     <string name="passport_vcode_prompt_long">Введите код подтверждения</string>
     <string name="passport_verify">Проверить</string>
-    <string name="password">Введите пароль</string>
     <string name="phone_locked">Это устройство связано с существующим аккаунтом Xiaomi (%s). Введите пароль для активации устройства.</string>
     <string name="phone_locked_account_email">, связанный email: %s</string>
     <string name="phone_locked_account_phone">, связанный номер телефона: %s</string>
-    <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="return_to_call">Вернуться к разговору</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
@@ -302,7 +294,6 @@
     <string name="unlock_error_network">Не удалось подключиться к сети</string>
     <string name="unlock_error_rpc">Ошибка RPC</string>
     <string name="unlock_error_server">Ошибка сервера</string>
-    <string name="unlock_error_ssl_hand_shake">Не удалось подключиться к серверу, попробуйте установить дату и время вручную.</string>
     <string name="unlock_error_unknown">Ошибка авторизации</string>
     <string name="unlock_error_user_name">Неверное имя пользователя</string>
     <string name="unlock_error_wrong_vcode">Код введен неверно</string>
@@ -326,8 +317,6 @@
     <string name="unlock_number">Код разблокировки: %s</string>
     <string name="unlock_wrong_captcha">Код введен неверно</string>
     <string name="unlocking">Активация…</string>
-    <string name="v7_preference_off">ОТКЛ.</string>
-    <string name="v7_preference_on">ВКЛ.</string>
     <string name="verifing_account">Проверка пароля…</string>
     <string name="verify_password_failed">Не удалось проверить ID аккаунта Xiaomi. %s.</string>
     <string name="wednesday">Среда</string>

@@ -54,7 +54,6 @@
     <string name="ai_button_single_press_desc">Запуск Mi AI</string>
     <string name="ai_button_title">О кнопке AI</string>
     <string name="album_introduction">Галерея позволяет управлять фото и видео на устройстве, редактировать их, а также синхронизировать с Xiaomi Cloud.</string>
-    <string name="app_name">Начальная настройка</string>
     <string name="application_extension_service">Службы расширения приложений</string>
     <string name="application_extension_service_introduction">Службы расширения приложений предоставляют функции входа и проверки. Для работы необходимы следующие разрешения:</string>
     <string name="application_package_introduction">Это приложение позволяет устанавливать сторонние приложения и проверяет их перед установкой.</string>
@@ -78,14 +77,12 @@
     <string name="carousel_privacy"><Data>"Перед использованием Карусели обоев прочтите и примите &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> нашего доверенного стороннего поставщика услуг."</Data></string>
     <string name="carousel_setting">Настройте экран блокировки</string>
     <string name="carousel_setting_sub">Карусель обоев будет показывать свежие изображения и истории при разблокировке устройства</string>
-    <string name="carrier_introduction">Для предоставления качественных сервисов, устройство может периодически отправлять информацию о версии устройства, идентификационные данные устройства (включая IMEI/IMSI/MSISDN/MAC-адрес, MEID/ICCID) и приблизительную геопозицию (включая идентификатор базовой станции) оператору через Wi-Fi, мобильную сеть передачи данных или бесплатное SMS. Оператор обязуется анализировать соответствующую информацию только для улучшения качества сервисов или предоставления индивидуальных услуг или технологий, и не раскрывать соответствующую информацию третьим лицам в любой форме, которая идентифицирует вас лично. Конкретное заявление оператора имеет преимущественную силу. Проконсультируйтесь с оператором относительно стоимости использования этой услуги.</string>
     <string name="carrier_introduction_china">Для предоставления качественных сервисов, запущенные процессы на устройстве (включая SystemHelper, RegService и Carrier Services) могут периодически отправлять информацию, связанную с устройством и SIM-картой (включая IMEI, IMSI, MSISDN, MEID, ICCID, MAC-адрес, версию MIUI, версию Android, модель устройства и основные аппаратные характеристики), а также приблизительную геопозицию (включая регион, координаты, идентификатор области и ID базовой станции) оператору связи через Wi-Fi, мобильную сеть или бесплатные SMS. Оператор обязуется анализировать соответствующую информацию только для улучшения качества сервисов или предоставления индивидуальных услуг или технологий, и не раскрывать соответствующую информацию третьим лицам в любой форме, которая идентифицирует вас лично. Конкретное заявление оператора имеет преимущественную силу. Проконсультируйтесь с оператором относительно стоимости использования этой услуги.</string>
     <string name="check_box_label"><Data>"Включая эту функцию, Вы принимаете &lt;a href=%1$s>Политику конфиденциальности служб межсетевого взаимодействия Xiaomi&lt;/a >."</Data></string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="clock_introduction">Это приложение можно использовать для просмотра текущего и мирового времени, для установки будильников, а также для таймера, секундомера и многого другого.</string>
     <string name="close">Закрыть</string>
     <string name="close_location_service_setting">Вы можете отключить геолокацию в Настройки &gt; Геолокация, либо ограничить разрешения для отдельных приложений в приложении Безопасность.</string>
-    <string name="cloud_service_discount">Скидки на тарифные планы</string>
     <string name="cm_terms_content">Для повышения качества предоставляемых сервисов, выбранный мобильный оператор может сохранять ваши персональные данные и сведения об устройстве на своих серверах, используя сети Wi-Fi или мобильный интернет. Эта информация будет использоваться только в статистических целях для повышения качества сервисов и предоставления персонализированного контента. Данная информация не будет использоваться в целях вашей идентификации и не будет передана третьим лицам.</string>
     <string name="cm_terms_title">Соглашение с оператором мобильной связи</string>
     <string name="compass_introduction">Это приложение можно использовать для навигации, для просмотра координат, атмосферного давления и высоты.</string>
@@ -149,7 +146,6 @@
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="evening">После полудня</string>
-    <string name="exclusive_member_merchandise">Эксклюзивные предложения</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="fast_application_introduction">Фреймворк Быстрые приложения позволяет создавать и предоставлять свои сервисы в Быстрых приложениях.</string>
     <string name="fast_pairing_introduction">Mi Link позволяет вашему устройству подключаться к Bluetooth-устройствам поблизости с помощью службы MIUI Bluetooth. Для возможности поиска устройств поблизости, разрешите приложению подключение к интернету.</string>
@@ -199,37 +195,6 @@
     <string name="interconnection_communication_introduction">Службы интернет-коммуникации Xiaomi позволяют обнаруживать, подключаться и общаться с другими устройствами Xiaomi.</string>
     <string name="interconnection_service_global_item_title">Взаимосвязь Xiaomi</string>
     <string name="interconnection_service_global_label">"&lt;Data>Взаимосвязь Xiaomi позволяет вашим устройствам взаимодействовать друг с другом по беспроводной сети. Включая этот переключатель, вы принимаете &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a >.&lt;/Data> Взаимосвязь Xiaomi.</string>
-    <string name="interconnection_service_summary">"Службы межсетевого взаимодействия Xiaomi позволяет устройствам взаимодействовать друг с другом по беспроводной связи и включают в себя Mi Smart Hub, Mi Smart Play, MIUI+ Бета, Mi Share и Трансляцию.
-Для нормальной работы, этим службам необходимы подключение к интернету и следующие разрешения:
-\u0009\u0009Mi Smart Hub:
-\u0009\u0009Включение и выключение Wi-Fi
-\u0009\u0009Для передачи файлов по Wi-Fi
-\u0009\u0009Запись звука
-\u0009\u0009Для передачи аудиопотока на подключенные устройства во время трансляции или зеркалирования экрана
-\u0009\u0009Доступ к хранилищу
-\u0009\u0009Для передачи и приёма файлов по беспроводной сети
-\u0009\u0009Mi Share:
-\u0009\u0009Доступ к файлам и фото на устройстве
-\u0009\u0009Для передачи и приёма файлов по беспроводной сети
-\u0009\u0009Геолокация
-\u0009\u0009Для передачи файлов на устройства поблизости по Wi-Fi и Bluetooth
-\u0009\u0009Включение и выключение Bluetooth
-\u0009\u0009Для поиска устройств поблизости
-\u0009\u0009Включение и выключение Wi-Fi
-\u0009\u0009Для поиска устройств поблизости и передачи файлов по беспроводной сети
-\u0009\u0009Подключение к устройствам поблизости
-\u0009\u0009Для поиска устройств поблизости и подключения к ним
-\u0009\u0009Трансляция:
-\u0009\u0009Включение и выключение Bluetooth
-\u0009\u0009Для поиска устройств поблизости
-\u0009\u0009Включение и выключение Wi-Fi
-\u0009\u0009Для поиска устройств поблизости
-\u0009\u0009Геолокация
-\u0009\u0009Для получения информации об устройстве поблизости
-\u0009\u0009Запись звука
-\u0009\u0009Для передачи аудиопотока на подключенные устройства во время трансляции
-В случае отказа предоставить необходимые разрешения, службы межсетевого взаимодействия Xiaomi будут недоступны.
-Функции могут меняться. Часть из перечисленных выше функций могут быть недоступны для некоторых моделей устройств или версий системы. Для проверки совместимости посетите www.miui.com"</string>
     <string name="interconnection_service_summary_china">"Службы межсетевого взаимодействия Xiaomi позволяет устройствам взаимодействовать друг с другом по беспроводной связи и включают в себя Mi Smart Play, трансляцию, передачу приложений, Рабочий стол+, общий буфер обмена, захват изображений с разных устройств, сетевой помощник, общие клавиатуры и мыши, общую камеру и Mi Smart Hub. Для нормальной работы служб разрешите подключение кнтернету и предоставьте следующие разрешения:
 \u0009\u0009Mi Smart Play и трансляция:
 \u0009\u0009Включение и выключение Bluetooth
@@ -314,8 +279,6 @@
     <string name="lockscreen_introduction">Карусель обоев позволяет регулярно получать новые обои на экран блокировки.</string>
     <string name="media_storage_devices">Устройства хранения мультимедиа</string>
     <string name="media_storage_introduction">Служба позволяет приложениям получать доступ к медифайлам</string>
-    <string name="member_exclusive_medal">Значок участника</string>
-    <string name="membership_rights_tip">Войдите в аккаунт Xiaomi, чтобы получить эксклюзивные преимущества</string>
     <string name="message_introduction">Это приложение можно использовать для отправки и получения SMS.</string>
     <string name="mi_account_introduction">Аккаунт Xiaomi позволяет регистрироваться, выполнять вход и управлять учётными записями.</string>
     <string name="midnight">Ночь</string>
@@ -491,7 +454,6 @@
     <string name="permission_get_imei_information_summary_settings">Для отображения информации об устройстве и технических характеристиках</string>
     <string name="permission_imei_service">Для доступа к IMEI для предоставления сервисов, связанных с устройством</string>
     <string name="permission_interaction_introduction">Для сохранения фото и видео на устройство</string>
-    <string name="permission_location">Использование геолокации</string>
     <string name="permission_location_describe">Получение текущей геопозиции</string>
     <string name="permission_location_describe_desktop_summary">Для доступа к именам сетей Wi-Fi;</string>
     <string name="permission_location_describe_fast_application_summary">Для разрешения Быстрым приложениям использовать геолокацию;</string>
@@ -584,12 +546,9 @@
     <string name="pref_title_data_slot">SIM-карта для интернета</string>
     <string name="pref_title_voice_slot">SIM-карта для вызовов</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
-    <string name="preinstall_tips">Подготовка…</string>
     <string name="privacy_content_one">Рекомендации \"Карусели обоев\" разработаны Taboola, нашим надёжным сторонним поставщиком контента. Для предоставления контента, Taboola требуется доступ и разрешение сохранять неличные данные с вашего устройства, включая язык системы и тип браузера. Вы можете узнать, как Taboola использует собранные данные в &lt;a href =\"%1$s\">Политике конфиденциальности&lt;/a> и &lt;a href =\"%2$s\">Пользовательском соглашении&lt;/a> Taboola. Прежде чем продолжить, прочтите и примите условия, приведенные в этих документах. В случае несогласия, сервисы \"Карусели обоев\" будут отключены.</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
-    <string name="privacy_provision_back">Назад</string>
     <string name="privacy_provision_more">О защите приватности</string>
-    <string name="privacy_provision_next">Далее</string>
     <string name="privacy_provision_summary">Защита приватности - обязательство, лежащее в основе дизайна наших продуктов</string>
     <string name="privacy_provision_text">Мы уважаем и защищаем вашу частную жизнь. Уделяя приоритетное внимание исследованиям и разработкам в области информационной безопасности, компания Xiaomi постоянно работает над совершенствованием методов, методов и технических решений, обеспечивающих защиту ваших данных. Мы также делимся своими последними достижениями с нашими партнерами, чтобы обеспечить вашу конфиденциальность по всем направлениям.</string>
     <string name="privacy_provision_title">Конфиденциальность</string>
@@ -688,12 +647,8 @@
     <string name="sim_card_detection_sb_esim">Активировать eSIM ></string>
     <string name="sim_card_detection_sb_nonactivated">Не активирована</string>
     <string name="sim_card_dial_card">SIM %d - вызовы</string>
-    <string name="sim_card_dial_card1">SIM 1 - вызовы</string>
-    <string name="sim_card_dial_card2">SIM 2 - вызовы</string>
     <string name="sim_card_do_not_select_dial_card">Выбирать SIM при наборе</string>
     <string name="sim_card_network_card">SIM %d - интернет</string>
-    <string name="sim_card_network_card1">SIM 1 - интернет</string>
-    <string name="sim_card_network_card2">SIM 2 - интернет</string>
     <string name="sim_dectection_next">Продолжить</string>
     <string name="sim_redetection">Проверить снова</string>
     <string name="sim_scard_detecting_check_mobile_not_available">Ваша SIM-карта не смогла подключиться к сети оператора связи. Убедитесь, что на вашем балансе достаточно средств, и повторите попытку.</string>
@@ -739,10 +694,6 @@
     <string name="term_condition_detail">Получайте ежедневно потрясающие изображения и захватывающие истории на экран блокировки. Эта функция не будет использовать ваши данные для персонализации без вашего согласия. Перед использованием этой функции, прочтите и примите &lt;a href =\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href =\"%2$s\">Пользовательское соглашение&lt;/a> стороннего поставщика контента.</string>
     <string name="terms_of_label_space">" "</string>
     <string name="terms_of_use">Условия использования</string>
-    <string name="terms_of_use_ble_htmlViewer">, поставщик геолокации, средство просмотра HTML</string>
-    <string name="terms_of_use_label">"Ваша конфиденциальность очень важна для нас. Прочитайте наши Условия использования и Политику конфиденциальности, чтобы понять, какую информацию мы собираем, как мы её используем и какие варианты доступны для Вас.
-
-Вы должны принять Условия использования и Политику конфиденциальности, прежде чем использовать MIUI. %s и компоненты аккаунта Xiaomi подключатся к интернету и получат вашу геопозицию."</string>
     <string name="terms_of_use_label_MSA">MSA</string>
     <string name="terms_of_use_label_Mistore">Системный плагин Mi Store</string>
     <string name="terms_of_use_label_RMS">Менеджер разрешений</string>
@@ -785,8 +736,6 @@
     <string name="terms_of_use_label_use_location_and_network_global">Перед использованием MIUI Вы должны согласиться с нашими Пользовательским соглашением и Политикой конфиденциальности. Мы будем защищать вашу личную информацию в соответствии с действующими законами, правилами и политикой конфиденциальности. При активации устройства, следующие службы подключатся к сети и будут использовать геолокацию:</string>
     <string name="terms_of_use_label_use_network_china">Перед использованием MIUI Вы должны согласиться с нашим Пользовательским соглашением и Политикой конфиденциальности. Мы будем защищать вашу личную информацию в соответствии с действующими законами, правилами и политикой конфиденциальности. При активации устройства, следующие службы подключатся к сети:</string>
     <string name="terms_of_use_label_wallpaper">Обои</string>
-    <string name="terms_of_use_lable_apps">Сервисы Mi, Сервис активации Mi SIM, Xiaomi Cloud, Поиск устройства, Рабочий стол, Игровой центр, MAB, MIUI Daemon и системные компоненты MSA, сервисы перевода, MIUI SDK, Быстрые приложения, Ассистент, статистика, Mi Link</string>
-    <string name="terms_of_use_lable_apps_wifi_device">Сервисы Mi, Xiaomi Cloud, Поиск устройства, Рабочий стол, Игровой центр, MAB, MIUI Daemon и системные компоненты MSA, сервисы перевода, MIUI SDK, Быстрые приложения, Ассистент, статистика, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Перед использованием этой функции вы должны принять Политику конфиденциальности Facemoji."</string>
@@ -798,7 +747,6 @@
 Перед использованием вы должны принять Политику конфиденциальности Mint Keyboard."</string>
     <string name="terms_of_use_lable_gms">Сервисы Google Play</string>
     <string name="terms_of_use_lable_smart_cards">Смарт-карты</string>
-    <string name="terms_of_use_lable_vsimcore">MConnService</string>
     <string name="terms_of_use_lable_xmsf">Xiaomi service framework</string>
     <string name="terms_privacy_policy_input_method_facemoji">Политика конфиденциальности Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">Политика конфиденциальности Kika</string>
@@ -852,24 +800,15 @@
     <string name="title_set_fingerprint">Блокировка экрана</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
-    <string name="trade_in">Трейд-ин</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
     <string name="used_date_viewing">Для проверки даты</string>
     <string name="user_agreement">Пользовательское соглашение</string>
-    <string name="user_agreement_declare">Перед использованием MIUI вы должны прочесть и принять наше Пользовательское соглашение и Политику конфиденциальности. Во время активации устройства, приложения Сервис активации Mi SIM, Xiaomi Cloud, Резервное копирование, Поиск устройства, Рабочий стол, Частые фразы, Служба интернет-коммуникаций Xiaomi, Служба перевода, MIUI Daemon, Средство просмотра HTML, MIUI SDK, Secure Element Application, Умный помощник, Батарея и производительность, Контроль батареи, Joyose, AI Настройка OS и Обновление будут использовать интернет. Смарт-карты, Менеджер разрешений и смарт-сервисы подключатся к сети и будут использовать геолокацию.</string>
-    <string name="user_agreement_declare_gmscore">Перед использованием MIUI вы должны прочесть и принять наше Пользовательское соглашение и Политику конфиденциальности. Во время активации устройства, приложения Сервис активации Mi SIM, Xiaomi Cloud, Резервное копирование, Поиск устройства, Рабочий стол, Частые фразы, Служба интернет-коммуникаций Xiaomi, Служба перевода, MIUI Daemon, Средство просмотра HTML, MIUI SDK, Secure Element Application, Умный помощник, Батарея и производительность, Контроль батареи, Joyose, AI Настройка OS и Обновление будут использовать интернет. Смарт-карты, Менеджер разрешений, ConfigUpdater и смарт-сервисы подключатся к сети и будут использовать геолокацию.</string>
-    <string name="user_agreement_declare_wifi_device">Перед использованием MIUI вы должны прочесть и принять наше Пользовательское соглашение и Политику конфиденциальности. Во время активации устройства приложения Xiaomi Cloud, Резервное копирование, Поиск устройства, Рабочий стол, Частые фразы, Служба интернет-коммуникаций Xiaomi, Служба перевода, MIUI Daemon, Средство просмотра HTML, MIUI SDK, Secure Element Application, Умный помощник, Батарея и производительность, Контроль батареи, Joyose, AI Настройка OS и Обновление будут использовать интернет. Смарт-карты, Менеджер разрешений и смарт-сервисы подключатся к сети и будут использовать геолокацию.</string>
-    <string name="user_agreement_declare_wifi_device_gmscore">Перед использованием MIUI вы должны прочесть и принять наше Пользовательское соглашение и Политику конфиденциальности. Во время активации устройства, приложения Сервис активации Mi SIM, Xiaomi Cloud, Резервное копирование, Поиск устройства, Рабочий стол, Частые фразы, Служба интернет-коммуникаций Xiaomi, Служба перевода, MIUI Daemon, Средство просмотра HTML, MIUI SDK, Secure Element Application, Умный помощник, Батарея и производительность, Контроль батареи, Joyose, AI Настройка OS и Обновление будут использовать интернет. Смарт-карты, Менеджер разрешений, ConfigUpdater и смарт-сервисы подключатся к сети и будут использовать геолокацию.</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="verify_application_security">Для проверки безопасности приложений</string>
     <string name="verify_device_security">Для проверки безопасности устройства</string>
-    <string name="voice_assist_advice">Mi AI позволяет использовать голосовое управление, но увеличивает расход заряда (+1% в час).</string>
-    <string name="voice_assist_condition">"Вы сможете использовать Mi AI:
-1. При включенном экране.
-2. При прослушивании музыки с выключенным экраном."</string>
     <string name="voice_assist_desp">Скажите \"Mi AI\" своему телефону. Mi AI распознает ваш голос и сможет управлять вашим устройством.</string>
     <string name="voice_assist_title">Голосовой помощник</string>
     <string name="wc_dialog_agree">Принимаю</string>
@@ -886,9 +825,6 @@
     <string name="wednesday_shortest">Ср</string>
     <string name="welcome">Добро пожаловать</string>
     <string name="withdraw_consent">В случае отзыва согласия, сервисы Карусели обоев будут отключены.</string>
-    <string name="xiaomi_game_discounts">Игровые промоакции</string>
-    <string name="xiaomi_membership_rights">Тарифные планы Xiaomi Cloud</string>
-    <string name="xiaomi_video_discount">Предложения Mi Видео</string>
     <string name="yesterday">Вчера</string>
     <string name="zone_picker_title">Выберите часовой пояс</string>
 </resources>

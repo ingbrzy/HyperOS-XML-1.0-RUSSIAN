@@ -29,7 +29,6 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
-    <string name="app_name">Служба расширения приложений</string>
     <string name="auth_activity_label">Коды подтверждения</string>
     <string name="auth_fingerprint_content">Проверка отпечатка…</string>
     <string name="auth_fingerprint_content_message">Прикоснитесь пальцем к сенсору</string>

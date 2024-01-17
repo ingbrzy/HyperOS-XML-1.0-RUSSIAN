@@ -56,10 +56,8 @@
     <string name="airplane">Режим полёта</string>
     <string name="airplane_mode">Режим полёта</string>
     <string name="already_in_small_freeform">Некоторые приложения уже открыты в плавающих окнах</string>
-    <string name="app_name">systemui-controls</string>
     <string name="auto_brightness_off">Автояркость отключена</string>
     <string name="auto_brightness_on">Автояркость включена</string>
-    <string name="auto_connect_disable">Без автоподключения</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Кнопки навигации отключены, для включения дважды нажмите на любую из них</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Кнопки навигации включены</string>
     <string name="bootloader">Fastboot</string>
@@ -114,7 +112,6 @@
     <string name="controls_loading_device">Переключение расположения…</string>
     <string name="controls_media_title">Медиа</string>
     <string name="controls_menu_add">Добавить</string>
-    <string name="controls_menu_edit">Изменить</string>
     <string name="controls_mijia_setup_subtitle">Выберите приложение для управления умным домом</string>
     <string name="controls_mijia_setup_subtitle_login">Войдите для управления умным домом</string>
     <string name="controls_mijia_setup_title">Mi Home умный дом</string>
@@ -130,7 +127,6 @@
     <string name="controls_pin_verify">Проверка %s</string>
     <string name="controls_pin_wrong">Неверный PIN-код</string>
     <string name="controls_providers_title">Выберите приложение</string>
-    <string name="controls_removed">Удалено</string>
     <string name="controls_seeding_in_progress">Загрузка рекомендаций</string>
     <string name="controls_structure_tooltip">Проведите, чтобы увидеть больше</string>
     <string name="controls_unsupport_toggle_toast">Устройство не поддерживает быстрые действия. Нажмите и удерживайте, чтобы открыть приложение.</string>
@@ -411,7 +407,6 @@
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Отключить</string>
     <string name="quick_settings_cellular_detail_title">Мобильный интернет</string>
     <string name="quick_settings_cellular_detail_unable_change">Изменение во время вызова невозможно</string>
-    <string name="quick_settings_circulate_workd_label">Mi Smart Hub</string>
     <string name="quick_settings_drivemode_label">Режим вождения</string>
     <string name="quick_settings_edit_label">Сортировка</string>
     <string name="quick_settings_extreme_batterysaver_label">Максимальная экономия заряда</string>
@@ -424,16 +419,6 @@
     <string name="quick_settings_mute_label">Без звука</string>
     <string name="quick_settings_nightmode_label">Тёмный режим</string>
     <string name="quick_settings_papermode_label">Режим чтения</string>
-    <string name="quick_settings_pcmode_cancel_button">Отмена</string>
-    <string name="quick_settings_pcmode_dialog_description">Режим ПК поддерживает многооконные задачи и позволяет использовать клавиатуру и мышь. При переходе в этот режим все запущенные приложения будут закрыты. Некоторые приложения могут не поддерживать режим ПК.</string>
-    <string name="quick_settings_pcmode_dialog_message_turnoff">Отключение режима ПК</string>
-    <string name="quick_settings_pcmode_dialog_message_turnon">Включение режима ПК</string>
-    <string name="quick_settings_pcmode_dialog_remember_text">Больше не показывать</string>
-    <string name="quick_settings_pcmode_error">Приложение не найдено, установите его</string>
-    <string name="quick_settings_pcmode_label">Режим ПК</string>
-    <string name="quick_settings_pcmode_ok_button">ОК</string>
-    <string name="quick_settings_pcmode_turn_off_description">После отключения режима ПК на экран будет проецироваться рабочий стол устройства. Отключить режим ПК?</string>
-    <string name="quick_settings_pcmode_turn_on_description">После включения режима ПК на экран будет проецироваться рабочий стол ПК. Включить режим ПК?</string>
     <string name="quick_settings_powermode_label">Производительность</string>
     <string name="quick_settings_quietmode_label">Не беспокоить</string>
     <string name="quick_settings_rotationlock_label">Запрет автоповорота</string>

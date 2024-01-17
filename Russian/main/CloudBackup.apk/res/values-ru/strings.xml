@@ -28,11 +28,9 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about_to_recover">Подождите…</string>
-    <string name="access_denied_info">Слишком много запросов. Повторите позже.</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
     <string name="app_is_running">Задача выполняется…</string>
-    <string name="app_name">Облачный бэкап</string>
     <string name="arrange_restore_order">Упорядочивание приложений…</string>
     <string name="as_new_device">Заменить предыдущий рабочий стол и настройки</string>
     <string name="as_new_device_summary">Удалить предыдущие копии Xiaomi Cloud</string>
@@ -45,7 +43,6 @@
     <string name="backup_action_buy_cloud_space">Получить больше места</string>
     <string name="backup_action_check_network">Проверьте настройки сети</string>
     <string name="backup_action_clean_disk_space">Освободить место</string>
-    <string name="backup_action_long_time_not_auto_backup_title">Резервное копирование</string>
     <string name="backup_action_long_time_not_backup_action">Начать</string>
     <string name="backup_action_long_time_not_backup_title">Резервное копирование</string>
     <string name="backup_action_no_space_with_wechat_off_content">Недостаточно места в облачном хранилище для резервного копирования файлов с этого устройства. Нажмите для вариантов.</string>
@@ -53,7 +50,6 @@
     <string name="backup_action_no_space_with_wechat_on_content">Недостаточно места в облачном хранилище для резервного копирования данных WeChat. Обновите тарифный план.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Недостаточно места</string>
     <string name="backup_action_retry_now">Повтор</string>
-    <string name="backup_fail_wifi_needed">Резервное копирование не удалось, требуется подключение к Wi-Fi</string>
     <string name="backup_failed_reason_app_data_error">Не удалось создать резервную копию данных WeChat</string>
     <string name="backup_failed_reason_app_usage_denied">Предоставьте необходимые разрешения для резервного копирования</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Недостаточно места в облачном хранилище для резервного копирования. Обновите тарифный план или освободите место.</string>
@@ -102,7 +98,6 @@
     <string name="can_not_backup_in_lite_mode">Нельзя выполнить резервное копирование в Простом режиме</string>
     <string name="can_not_restore_in_lite_mode">Нельзя выполнить восстановление в Простом режиме</string>
     <string name="cancel_backup">Отмена резервного копирования…</string>
-    <string name="cancel_recover_settings">Отмена</string>
     <string name="cancel_restore">Отмена…</string>
     <string name="cancel_restore_home">Отмена восстановления…</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
@@ -135,7 +130,6 @@
     <string name="cloud_back_up_frequence_choice_title">Расписание</string>
     <string name="cloud_back_up_frequence_long">Каждые %d дней</string>
     <string name="cloud_back_up_frequence_short">Каждый день</string>
-    <string name="cloud_back_up_no_network_warn">Не удалось подключиться к Wi-Fi</string>
     <string name="cloud_back_up_ok_btn">ОК</string>
     <string name="cloud_back_up_opening">Подождите…</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Обновить</string>
@@ -178,13 +172,8 @@
     <string name="cloud_restore_from_other_device">Остановить восстановление из %s и удалить копию? Это необратимое действие!</string>
     <string name="cloud_restore_task">Восстановление…</string>
     <string name="cloud_task_in_process">Остановить %s и удалить копию? Это необратимое действие!</string>
-    <string name="collect_diagnosis_log">Сбор журнала диагностики</string>
-    <string name="confirm_cancel_restore_negative">Отмена</string>
-    <string name="confirm_cancel_restore_positive">Продолжить</string>
-    <string name="confirm_cancel_restore_title">Отменить восстановление?</string>
     <string name="confirm_restore">Восстановить</string>
     <string name="confirm_restore_app_data">WeChat уже установлен на этом устройстве. Невозможно восстановить данные.</string>
-    <string name="confirm_restore_app_data_summary">На устройстве уже есть данные WeChat. Перезаписать их данными из резервной копии?</string>
     <string name="confirm_restore_summary">Рабочий стол будет перезапущен. Приложения из бэкапа будут добавлены автоматически.</string>
     <string name="confirm_restore_title">Восстановление</string>
     <string name="copy">Копировать</string>
@@ -203,17 +192,9 @@
     <string name="desktop_wait_network">Ожидание…</string>
     <string name="desktop_waiting">Ожидание</string>
     <string name="device_delete_prompt">Удалить копию \"%s\"?</string>
-    <string name="diagnosis_log_send_failed">Не удалось отправить журнал.</string>
-    <string name="diagnosis_log_sent_format">"Журнал успешно отправлен.
-ID: %s
-Отправьте этот код руководителю."</string>
     <string name="dialog_app_usage_consent_message">Функции требуется доступ к истории использования приложения, чтобы оценить размер резервных копий WeChat</string>
     <string name="dialog_app_usage_consent_title">Доступ к истории использования</string>
     <string name="dialog_app_usage_denied">Предоставьте приложению разрешение \"Доступ к истории использования\" в настройках для резервного копирования</string>
-    <string name="dialog_auto_backup_condition_normal_content">Для регулярного автоматического резервного копирования всех важных данных, в облачном хранилище должно быть достаточно места, заряд батареи более %s, устройство в ночное время заблокировано и подключено к Wi-Fi. Бэкап можно сделать в любой момент вручную.</string>
-    <string name="dialog_auto_backup_condition_normal_content_china">Для регулярного автоматического резервного копирования всех важных данных, в облачном хранилище должно быть достаточно места, заряд батареи более %s, устройство в ночное время заблокировано и подключено к Wi-Fi. Бэкап можно сделать в любой момент вручную.</string>
-    <string name="dialog_auto_backup_condition_normal_positive">Понятно</string>
-    <string name="dialog_auto_backup_condition_normal_title">Резервное копирование</string>
     <string name="dialog_backup_failed">Не удалось создать резервную копию</string>
     <string name="dialog_btn_cancel_backup">Отмена</string>
     <string name="dialog_btn_confirm2">Понятно</string>
@@ -260,7 +241,6 @@ ID: %s
     <string name="doing_calc_backup_data_size">Вычисление размера…</string>
     <string name="doing_restore_home">Восстановление рабочего стола и настроек…</string>
     <string name="done_remove">Удаление завершено</string>
-    <string name="download_home_data">Загрузка данных рабочего стола…</string>
     <string name="download_meta_again">Не удалось загрузить, повторите попытку</string>
     <string name="download_meta_failed">Не удалось загрузить данные</string>
     <string name="download_settings">Загрузка настроек рабочего стола: %s%%</string>
@@ -295,13 +275,11 @@ ID: %s
     <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
-    <string name="for_diagnosis_usage_only">Использовать только для диагностики.</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="get_device_id_error">Не удалось получить ID устройства</string>
     <string name="help_and_feedback">Помощь и обратная связь</string>
-    <string name="hint_restore_cross_space">Элементы рабочего стола могут отображаться некорректно при перемещении объектов между пространствами.</string>
     <string name="hint_restore_wechat_data">Примечание: в некоторых случаях данные WeChat могут быть не восстановлены из-за проблем с совместимостью.</string>
     <string name="home_hint_global_launcher">POCO Launcher</string>
     <string name="home_hint_other_launcher">Другой рабочий стол</string>
@@ -400,8 +378,6 @@ ID: %s
     <string name="msg_restore_with_metered_network_hint">Для загрузки будет использоваться мобильный интернет</string>
     <string name="msg_restore_with_metered_network_pattern">Будет загружено файлов: %s</string>
     <string name="network_error">Подключитесь к сети</string>
-    <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
-    <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="night">Вечер</string>
     <string name="no_account">Войдите в аккаунт Xiaomi</string>
     <string name="no_backup">Нет резервных копий в Xiaomi Cloud</string>
@@ -417,16 +393,12 @@ ID: %s
     <string name="not_set">Не задано</string>
     <string name="notification_channel_remind">Напоминание</string>
     <string name="notification_channel_service">Служба</string>
-    <string name="ok">ОК</string>
     <string name="open_backup_switch">Включить резервное копирование</string>
     <string name="open_wechat_dialog_message">Резервное копирование всех данных WeChat быстро израсходует большой объем хранилища. Если места в хранилище будет недостаточно, резервная копия не будет создана и данные могут быть потеряны. Включить?</string>
     <string name="open_wechat_dialog_negative_btn">Отмена</string>
     <string name="open_wechat_dialog_positive_btn">Включить</string>
     <string name="open_wechat_dialog_positive_btn_timer">Включить (%s сек.)</string>
     <string name="open_wechat_dialog_title">О резервном копировании WeChat</string>
-    <string name="open_wifi">Включите Wi-Fi</string>
-    <string name="open_wifi_description">Для восстановления приложений подключитесь к Wi-Fi.</string>
-    <string name="open_wifi_setting">Настройки Wi-Fi</string>
     <string name="other_device_main_space">Первое пространство</string>
     <string name="other_device_second_space">Второе пространство</string>
     <string name="page_title_more_backup_options">Доп. службы резервного копирования</string>
@@ -434,7 +406,6 @@ ID: %s
     <string name="permission_to_use">Сведения о разрешениях</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="process_whole_recovery">Восстановление \"%s\"</string>
-    <string name="progressbar_title">Проверка безопасности…</string>
     <string name="provision_back">Назад</string>
     <string name="provision_background_restore_more_data">Восстанавливать объекты в фоновом режиме</string>
     <string name="provision_error_connect_msg">Проверьте сеть и повторите попытку. Резервное копирование недоступно, когда ваше устройство отключено от сети.</string>
@@ -446,7 +417,6 @@ ID: %s
     <string name="query_restore_description">Восстановление настроек и приложений рабочего стола из резервной копии. Это действие перезапишет данные уже установленных приложений. Приложения, не включенные в резервную копию, будут перемещены на последний рабочий стол.</string>
     <string name="query_restore_summary">Найдена облачная резервная копия Xiaomi для этого устройства. Восстановить приложения и настройки или отметить устройство как новое и удалить предыдущие копии?</string>
     <string name="recover_home_settings">Восстановление настроек рабочего стола</string>
-    <string name="recover_miui_settings">Восстановление настроек системы</string>
     <string name="recover_settings_description">Не выключайте устройство</string>
     <string name="recovering">Восстановление %s</string>
     <string name="remove_again">Повторить</string>
@@ -465,14 +435,7 @@ ID: %s
     <string name="restore_app_order_retry">Повторите попытку</string>
     <string name="restore_app_order_retry_desc">"Не удалось подключиться к сети.
 Проверьте настройки сети и повторите попытку."</string>
-    <string name="restore_app_order_search_hint">Поиск объектов для установки приоритета</string>
-    <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'&gt;%s&lt;/font&gt;"</string>
-    <string name="restore_app_order_search_installed">Приложения на устройстве</string>
-    <string name="restore_app_order_search_normal">Приложения с обычным приоритетом</string>
-    <string name="restore_app_order_search_prior">Приложения с высоким приоритетом</string>
-    <string name="restore_app_order_title">Установка приоритета</string>
     <string name="restore_cloud_backup_to_phone">Восстановление данных из облака</string>
-    <string name="restore_data_summary">Этой функции требуется подключение к интернету.</string>
     <string name="restore_data_title">Восстановление данных</string>
     <string name="restore_detail_category_app_data">Данные WeChat</string>
     <string name="restore_detail_category_app_data_summary">История чатов, файлы и другие элементы (%s)</string>
@@ -487,7 +450,6 @@ ID: %s
     <string name="restore_failed_reason_disk_space_not_enough">Недостаточно места. Высвободите память.</string>
     <string name="restore_failed_reason_network_error">Ошибка сети. Повторите позже.</string>
     <string name="restore_file_empty">Нет резервных копий</string>
-    <string name="restore_finish_description">Восстановление завершено</string>
     <string name="restore_finished_notification_content">Восстановление завершено</string>
     <string name="restore_from_cloud">Восстановление из облачной резервной копии</string>
     <string name="restore_from_mimover">Передача со старого устройства с помощью Mi Mover</string>
@@ -497,10 +459,8 @@ ID: %s
     <string name="restore_header_title">Общий размер</string>
     <string name="restore_header_title2">Устройства</string>
     <string name="restore_header_title_backup_time">Время</string>
-    <string name="restore_home_failed">Не удалось восстановить рабочий стол</string>
     <string name="restore_home_screen_apps">Восстановление</string>
     <string name="restore_home_screen_apps_options">Параметры восстановления</string>
-    <string name="restore_init_description">Запуск восстановления</string>
     <string name="restore_network_pause">Приостановлено (используется мобильный интернет). Нажмите для возобновления.</string>
     <string name="restore_network_unconnect">%s (ожидание подключения)</string>
     <string name="restore_prepare_item_type_enable">Доступные резервные копии</string>
@@ -538,8 +498,6 @@ ID: %s
     <string name="self_device_main_space">Первое пространство</string>
     <string name="self_device_second_space">Второе пространство</string>
     <string name="send">Отправить</string>
-    <string name="send_diagnosis_log">Отправить журнал</string>
-    <string name="sending">Отправка…</string>
     <string name="session_action_btn_text_return_home">Рабочий стол</string>
     <string name="session_backup_apk_data_text">Создание резервной копии данных WeChat…</string>
     <string name="session_backup_apk_text">Резервное копирование рабочего стола и системных настроек…</string>
@@ -611,12 +569,9 @@ ID: %s
     <string name="success_open_cloudbackup">Резервное копирование приложений рабочего стола включено</string>
     <string name="successful_auto_backup_recommend_wechat_backup_notification_content">Автоматическое резервное копирование данных WeChat завершено. Нажмите для подробностей.</string>
     <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Бэкап WeChat</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
-    <string name="system_error_info">Система занята. Попробуйте позже.</string>
-    <string name="temporary_not_available">временно недоступно</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>
@@ -677,7 +632,6 @@ ID: %s
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
-    <string name="unknown_error_info">Неизвестная ошибка</string>
     <string name="unselected">Не выбрано</string>
     <string name="unsupported_home">Обновите MIUI до последней версии.</string>
     <string name="v7_preference_off">Откл.</string>

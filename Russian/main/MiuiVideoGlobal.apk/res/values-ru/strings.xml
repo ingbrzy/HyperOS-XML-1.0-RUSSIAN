@@ -31,7 +31,6 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
-    <string name="access_denied_info">Слишком много запросов. Повторите позже.</string>
     <string name="account_bind_secure_email_title">Добавьте электронную почту для восстановления</string>
     <string name="account_bind_secure_phone_title">Добавьте номер телефона для восстановления</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
@@ -72,16 +71,11 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="activate_email_notice">Обязательно активируйте аккаунт в течение 24 часов</string>
     <string name="activity_not_found_notice">Приложение не найдено</string>
-    <string name="ad">Реклама</string>
     <string name="ad_bar_notification_setting_sub_title">Показывать события в шторке уведомлений</string>
     <string name="ad_bar_notification_setting_title">События</string>
-    <string name="ad_buy">Покупка</string>
     <string name="ad_click_to_play">Играть</string>
-    <string name="ad_download">Загрузка</string>
     <string name="ad_flag_text">Реклама</string>
-    <string name="ad_join">Присоединиться</string>
     <string name="ad_left_time">сек. рекламы</string>
-    <string name="ad_more">Ещё</string>
     <string name="add_local_shortcut_add">Добавить</string>
     <string name="add_local_shortcut_des">Добавьте ярлык \"Моё видео\" на рабочий стол для просмотра видео одним касанием</string>
     <string name="add_search_channel_link">URL-адрес</string>
@@ -92,7 +86,6 @@
     <string name="afternoon">После полудня</string>
     <string name="agree">Принимаю</string>
     <string name="agree_and_continue">Принимаю</string>
-    <string name="agree_label">Принимаю</string>
     <string name="ai_animation_music_text">Саундтрек ИИ</string>
     <string name="ai_music_save_cancel">Отмена</string>
     <string name="ai_music_save_dialog_title">Сохранить</string>
@@ -100,15 +93,6 @@
     <string name="ai_music_save_info">Саундтрек ИИ добавлен. Сохранить видео?</string>
     <string name="ai_music_save_ok">Сохранить</string>
     <string name="ai_music_save_success">Сохранено</string>
-    <string name="ai_music_saved">Сохранено</string>
-    <string name="alert_dialog_download">Приложение уже загружено.</string>
-    <string name="alert_dialog_download_btn_hide">Скрыть</string>
-    <string name="alert_dialog_download_confirm">Начинается загрузка приложения</string>
-    <string name="alert_dialog_download_default_title">Загрузка приложения</string>
-    <string name="alert_dialog_download_fail">Не удалось загрузить приложение</string>
-    <string name="alert_dialog_download_plugin">"Загрузка и установка HD плагина: "</string>
-    <string name="alert_dialog_download_prepare">Подготовка к загрузке…</string>
-    <string name="alert_dialog_download_progress">"Загрузка приложения: "</string>
     <string name="all">Показать все</string>
     <string name="apk_download_click_resume">Нажмите, чтобы возобновить загрузку</string>
     <string name="apk_download_finish">Загрузка завершена</string>
@@ -117,7 +101,6 @@
     <string name="app_description_content">Приложение \"Mi Видео\" является системным, удалить его нельзя. Будет удалён ярлык приложения с рабочего стола. Воспроизведение видео в приложении по-прежнему будет доступно.</string>
     <string name="app_description_title">Удалить \"Mi Видео\" с рабочего стола?</string>
     <string name="app_inner_open">Открыть в приложении</string>
-    <string name="app_name">Mi Видео</string>
     <string name="area_cn">简体中文</string>
     <string name="area_en">English</string>
     <string name="area_hk_tw_mo">繁體中文</string>
@@ -126,7 +109,6 @@
     <string name="area_self">Авто</string>
     <string name="area_thailand">ภาษาไทย</string>
     <string name="area_vietnam">Tiếng Việt</string>
-    <string name="auth_again">Принимаю</string>
     <string name="auth_fail_warning">Сессия устарела. Войдите повторно.</string>
     <string name="auto_play_next_off">Автовоспроизведение откл.</string>
     <string name="auto_play_next_on">Автовоспроизведение вкл.</string>
@@ -135,7 +117,6 @@
     <string name="back_recommend_title">Посмотрите другие популярные видео</string>
     <string name="back_to_mainpage">Открыть</string>
     <string name="background_playback_enabled">Включено фоновое воспроизведение</string>
-    <string name="before_yestoday">2 дня назад</string>
     <string name="before_yestoday_new">%d д. назад</string>
     <string name="bind_sign_in_title">Добавьте аккаунт Xiaomi</string>
     <string name="boot_detail">Подробенее</string>
@@ -151,9 +132,7 @@
     <string name="btn_playlist_play_all">Воспроизвести</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_choose">Снять выбор</string>
-    <string name="cancel_label">X</string>
     <string name="cancel_subscribe_tips">Отписаться?</string>
-    <string name="canceled">Отменено</string>
     <string name="cast_ad_label">Реклама</string>
     <string name="cast_casting_to_device">Трансляция на %1$s</string>
     <string name="cast_closed_captions">Субтитры</string>
@@ -196,14 +175,11 @@
     <string name="cast_tracks_chooser_dialog_ok">ОК</string>
     <string name="cast_tracks_chooser_dialog_subtitles">Субтитры</string>
     <string name="cast_unmute">Включить звук</string>
-    <string name="catchplay_video">Catchplay</string>
     <string name="chang_definition_failed">Не удалось переключить определение, повторите позже~</string>
     <string name="change_activate_email">Изменить адрес электронной почты</string>
     <string name="change_password">Сменить пароль</string>
     <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
-    <string name="character_counter_pattern">%1$d/%2$d</string>
-    <string name="check_nothing">Ничего не выбрано</string>
     <string name="chip_text">Текст</string>
     <string name="choose">Выбрать</string>
     <string name="choose_to_signin">Да</string>
@@ -219,11 +195,9 @@
     <string name="click_to_reload_more">Нажмите для загрузки</string>
     <string name="click_to_retry">Повторить</string>
     <string name="close">Закрыть</string>
-    <string name="close_notify_panel_tips">Мини-плеер будет отображаться в панели уведомлений, когда включено фоновое воспроизведение</string>
     <string name="cloud_auto_pip_play_switch">Использовать режим \"Картинка в картинке\" автоматически</string>
     <string name="cloud_online_player">Плеер</string>
     <string name="cloud_online_switch">Персонализированные рекомендации</string>
-    <string name="cloud_online_switch_close_time">Вы можете включить персонализированные рекомендации по контенту в %s</string>
     <string name="cloud_online_switch_open_time">Показывать персонализированные рекомендации по контенту</string>
     <string name="cmp_tier_privacy_policy">Сторонние политики конфиденциальности</string>
     <string name="collect_diagnosis_log">Сбор журнала диагностики</string>
@@ -238,32 +212,6 @@
     <string name="columbus_player_speed_video">Пропустить</string>
     <string name="columbus_player_unit_sec">сек.</string>
     <string name="columbus_skip_ad">Пропустить</string>
-    <string name="com_facebook_device_auth_instructions">Перейдите на facebook.com/device и введите код, показанный выше.</string>
-    <string name="com_facebook_image_download_unknown_error">Непредвиденная ошибка при загрузке изображения.</string>
-    <string name="com_facebook_internet_permission_error_message">Для входа в WebView требуется доступ к интернету</string>
-    <string name="com_facebook_internet_permission_error_title">Ошибка AndroidManifest</string>
-    <string name="com_facebook_like_button_liked">Нравится</string>
-    <string name="com_facebook_like_button_not_liked">Нравится</string>
-    <string name="com_facebook_loading">Загрузка…</string>
-    <string name="com_facebook_loginview_cancel_action">Отмена</string>
-    <string name="com_facebook_loginview_log_in_button">Вход</string>
-    <string name="com_facebook_loginview_log_in_button_continue">Продолжить с Facebook</string>
-    <string name="com_facebook_loginview_log_in_button_long">Вход через Facebook</string>
-    <string name="com_facebook_loginview_log_out_action">Выход</string>
-    <string name="com_facebook_loginview_log_out_button">Выход</string>
-    <string name="com_facebook_loginview_logged_in_as">Вы вошли как %1$s</string>
-    <string name="com_facebook_loginview_logged_in_using_facebook">Выполнен вход через Facebook</string>
-    <string name="com_facebook_send_button_text">Отправить</string>
-    <string name="com_facebook_share_button_text">Поделиться</string>
-    <string name="com_facebook_smart_device_instructions">Чтобы привязать ваш аккаунт, откройте приложение Facebook на своем мобильном устройстве и проверьте уведомления.</string>
-    <string name="com_facebook_smart_device_instructions_or">- ИЛИ -</string>
-    <string name="com_facebook_smart_login_confirmation_cancel">Не Вы?</string>
-    <string name="com_facebook_smart_login_confirmation_continue_as">Продолжить как %1$s</string>
-    <string name="com_facebook_smart_login_confirmation_title">Подтвердите вход</string>
-    <string name="com_facebook_tooltip_default">Контроль над данными — выберите, какой информацией вы хотите делиться с приложениями.</string>
-    <string name="com_mixpanel_android_close">Закрыть</string>
-    <string name="com_mixpanel_android_done">Готово</string>
-    <string name="com_mixpanel_android_notification_image">Не удалось отобразить</string>
     <string name="com_permission_desc">Mi Видео не может получить доступ к видео на вашем устройстве. Разрешите доступ в Настройках.</string>
     <string name="com_permission_title">Предоставьте разрешения</string>
     <string name="comment_model_add_comment">Добавить комментарий</string>
@@ -285,7 +233,6 @@
     <string name="comment_model_report_success">Отчёт отправлен</string>
     <string name="comment_model_send_fail">Ошибка отправки</string>
     <string name="comment_model_send_fail_frequently">Повторите позже.</string>
-    <string name="comment_model_send_forbid_desc">Вы опубликовали несколько комментариев, содержание которых нарушают стандарты нашего сообщества. Ваш аккаунт окончательно заблокирован. Вы можете обжаловать решение, используя обратную связь в приложении.</string>
     <string name="comment_model_send_forbid_tips">Аккаунт заблокирован</string>
     <string name="comment_model_send_success">Успешно отправлен</string>
     <string name="commit_str">Отправить</string>
@@ -315,9 +262,7 @@
     <string name="confirm_bundled_phone_dialog_title">Подтвердите номер телефона</string>
     <string name="confirm_new_pwd">Подтвердите пароль</string>
     <string name="confirm_unbundled_phone_dialog_message">Этот номер телефона был связан с аккаунтом Xiaomi %2$s на %1$s. Если вы продолжите, он больше не будет связан с аккаунтом Xiaomi %3$s. Продолжить?</string>
-    <string name="content">Описание</string>
     <string name="content_can_not_null">Нельзя отправить отзыв без описания.</string>
-    <string name="continue_play">Возобновить</string>
     <string name="controller_bar_edit">Редактирование</string>
     <string name="copy">Копировать</string>
     <string name="copy_toast_msg">Ссылка скопирована в буфер обмена</string>
@@ -325,15 +270,11 @@
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="day">день</string>
-    <string name="default_filedownloader_notification_content">Идёт загрузка файла</string>
-    <string name="default_filedownloader_notification_title">Загрузка файла</string>
-    <string name="default_message_body">Текст сообщения</string>
-    <string name="default_title">Заголовок</string>
     <string name="default_upgrade_hint">"Привет!
 Mi Видео готово к обновлению.
 Обновите приложение прямо сейчас, чтобы оценить новые функции!
 Команда Mi Видео"</string>
-    <string name="define_roundedimageview"/>
+    <string name="define_roundedimageview" />
     <string name="description">Описание</string>
     <string name="desktop_widget_local_media">Медиафайлы</string>
     <string name="desktop_widget_new">Новые</string>
@@ -343,9 +284,7 @@ Mi Видео готово к обновлению.
     <string name="diagnosis_log_sent_format">"Журналы отправлены.
 ID: %s
 Отправьте этот код руководителю."</string>
-    <string name="dialog_app_comment_cancel">Отмена</string>
     <string name="dialog_app_comment_default_content">Вам нравится Mi Видео?</string>
-    <string name="dialog_app_comment_ok">ОК</string>
     <string name="dialog_app_comment_select_feedback">Могли бы вы оставить отзыв?</string>
     <string name="dialog_app_comment_select_praise">Хотите оценить приложение в Play Маркете?</string>
     <string name="dialog_app_comment_title">Оцените приложение</string>
@@ -358,8 +297,6 @@ ID: %s
     <string name="dialog_delete_bookmarks_content">Удалить закладку?</string>
     <string name="dialog_disagree_continue">Продолжить</string>
     <string name="dialog_disagree_info">В случае несогласия с Политикой конфиденциальности Mi Видео, онлайн-сервисы будут недоступны, вы сможете использовать Mi Видео только как локальный видеоплеер. Продолжить?</string>
-    <string name="dialog_disagree_privacychange_info">В случае несогласия с нашей Политикой конфиденциальности, онлайн-сервисы потоковой передачи Mi Видео будут недоступны. Нажмите \"Отмена\", чтобы вернуться, или \"Отказ\", чтобы продолжить использовать Mi Видео только как локальный видеоплеер.</string>
-    <string name="dialog_disagree_privacychange_title">Отказ</string>
     <string name="dialog_disagree_title">Политика конфиденциальности</string>
     <string name="dialog_edit_bookmarks">Изменить закладку</string>
     <string name="dialog_edit_hint_bookmarks_name">Имя закладки</string>
@@ -378,13 +315,10 @@ ID: %s
     <string name="dialog_open_internet_btn">Подлючение к сети</string>
     <string name="dialog_privacy_change_info">Мы обновили политику конфиденциальности Mi Видео в связи с корректировкой предлагаемых услуг. Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочтите и примите наши &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>.</string>
     <string name="dialog_privacy_change_title">Обновление политики конфиденциальности</string>
-    <string name="dialog_privacy_experience_plan">Присоединяйтесь к программе улучшения качества, чтобы делиться с нами пользовательскими данными и помочь нам улучшить наши продукты и сервисы.</string>
     <string name="dialog_privacy_info">"Добро пожаловать в Mi Видео! Приложение предоставляет следующие сервисы:
 &lt;br/&gt; - Онлайн-сервисы потоковой передачи
 &lt;br/&gt; - Локальный видеоплеер
 &lt;br/&gt;Для предоставления сервисов разрешите приложению Mi Видео сбор личной информации. О том, как используется собранная информация, можно узнать из нашей Политики конфиденциальности. Соответствующие настройки можно изменить в разделе Профиль > Настройки"</string>
-    <string name="dialog_privacy_info_new2">Для использования сервисов вы должны согласиться с тем, что %1$s будет собирать, обрабатывать и использовать ваши личные данные. Нажав \"Принимаю\", вы соглашаетесь с нашей Политикой конфиденциальности.</string>
-    <string name="dialog_privacy_info_new3">Для использования сервисов вы должны согласиться с тем, что %1$s будет собирать, обрабатывать и использовать ваши личные данные в соответствии с политикой конфиденциальности. Нажав \"Принимаю\", вы соглашаетесь с &lt;a href=\"%2$s\"&gt;Политикой конфиденциальности&lt;/a&gt; и &lt;a href=\"%3$s\"&gt;Пользовательским соглашением&lt;/a&gt; Xiaomi. &lt;br/&gt;&lt;br/&gt; Mi Видео получит доступ к списку приложений на устройстве для определения наличия приложений на устройстве, их версии и безопасности.</string>
     <string name="dialog_privacy_info_new4">"Добро пожаловать в Mi Видео! Приложение предоставляет следующие сервисы:
 &lt;br/&gt; - Онлайн-сервисы потоковой передачи
 &lt;br/&gt; - Локальный видеоплеер
@@ -400,8 +334,6 @@ ID: %s
     <string name="dialog_privacy_revoke_title">Отзыв согласия</string>
     <string name="dialog_privacy_revoking">Отзыв согласия…</string>
     <string name="dialog_privacy_title">Условия и положения</string>
-    <string name="dialog_revoke_privacy_info_new2">После отзыва разрешения приложение прекратит сбор данных и удалит все свои данные с серверов. Это может сделать приложение практически непригодным для использования. Отозвать разрешение?</string>
-    <string name="dialog_revoke_privacy_title">Отзыв разрешения</string>
     <string name="dialog_select_folder_content">Сохранять все последующие загрузки в эту папку?</string>
     <string name="dialog_select_folder_title">Выбор папки</string>
     <string name="dialog_set_default_later">Нет, спасибо</string>
@@ -440,29 +372,12 @@ ID: %s
     <string name="downloading">Загрузка…</string>
     <string name="early_morning">Утро</string>
     <string name="empty_channels">Управление каналами</string>
-    <string name="empty_subscribe">Подписки отсутствуют</string>
-    <string name="enable_background_audio">Воспроизводить в фоновом режиме</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="error_change_video">Ошибка воспроизведения, попробуйте другое видео</string>
-    <string name="error_details">Неожиданная ошибка</string>
-    <string name="error_drm_not_supported">Защищённый контент не поддерживается на уровнях API ниже 18</string>
-    <string name="error_drm_unknown">Неизвестная ошибка DRM</string>
-    <string name="error_drm_unsupported_scheme">Данное устройство не поддерживает требуемую схему DRM</string>
     <string name="error_dup_binded_email">Этот адрес эл. почты уже связан с другим аккаунтом Xiaomi.</string>
     <string name="error_icon_content_description">Ошибка</string>
     <string name="error_invalid_bind_address">Неверный адрес электронной почты.</string>
-    <string name="error_mg_content_not_available">Этот контент недоступен в вашей стране.</string>
-    <string name="error_mg_no_content">Контент для этого фильма недоступен. Повторите позже</string>
-    <string name="error_mg_no_content_for_tv">Контента для этого ТВ-шоу недоступен. Повторите позже</string>
-    <string name="error_msg_invalid_url">Неверный URL. Повторите позже</string>
-    <string name="error_msg_no_network">Сетевое соединение не обнаружено. Пожалуйста, убедитесь, что вы подключены к сети и попробуйте снова.</string>
-    <string name="error_msg_server_error">Сервер недоступен. Повторите позже.</string>
-    <string name="error_msg_socket_timeout">Тайм-аут сокета. Повторите позже</string>
-    <string name="error_msg_video_play_time_out">Не удается воспроизвести видео. Повторите позже.</string>
-    <string name="error_msg_video_play_time_out_title">Тайм-аут</string>
-    <string name="error_no_content">Контент не доступен.</string>
-    <string name="error_title">Сведения</string>
     <string name="evening">После полудня</string>
     <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим аккаунтом Xiaomi.</string>
     <string name="exit">Выход</string>
@@ -470,7 +385,6 @@ ID: %s
     <string name="exo_controls_cc_enabled_description">Отключить субтитры</string>
     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
     <string name="exo_controls_fastforward_description">Перемотать вперёд</string>
-    <string name="exo_controls_fullscreen_description">Полноэкранный режим</string>
     <string name="exo_controls_fullscreen_enter_description">Полноэкранный режим</string>
     <string name="exo_controls_fullscreen_exit_description">Выход из полноэкранного режима </string>
     <string name="exo_controls_hide">Скрыть элементы управления</string>
@@ -489,7 +403,6 @@ ID: %s
     <string name="exo_controls_seek_bar_description">Прогресс воспроизведения</string>
     <string name="exo_controls_settings_description">Настройки</string>
     <string name="exo_controls_show">Показать элементы управления</string>
-    <string name="exo_controls_shuffle_description">Перемешать</string>
     <string name="exo_controls_shuffle_off_description">Отключить перемешивание</string>
     <string name="exo_controls_shuffle_on_description">Включить перемешивание</string>
     <string name="exo_controls_stop_description">Остановить</string>
@@ -504,13 +417,7 @@ ID: %s
     <string name="exo_download_paused_for_network">Ожидание сети…</string>
     <string name="exo_download_paused_for_wifi">Ожидание Wi-Fi…</string>
     <string name="exo_download_removing">Удаление загрузок…</string>
-    <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_media_action_repeat_all_description">Повторить все</string>
-    <string name="exo_media_action_repeat_off_description">Не повторять</string>
-    <string name="exo_media_action_repeat_one_description">Повторить текуший</string>
-    <string name="exo_track_bitrate">%1$.2f Мбит/сек</string>
     <string name="exo_track_mono">Моно</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Альтернативный</string>
     <string name="exo_track_role_closed_captions">Субтитры</string>
     <string name="exo_track_role_commentary">Комментарий</string>
@@ -526,10 +433,7 @@ ID: %s
     <string name="exo_track_surround_7_point_1">Система объемного звука 7.1</string>
     <string name="exo_track_unknown">Неизвестный трек</string>
     <string name="expand_button_title">Дополнительно</string>
-    <string name="explore">Ознакомиться</string>
-    <string name="explore_on_mi_video">Ещё больше в Mi Видео</string>
     <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
-    <string name="facebook_application_id"/>
     <string name="failed_dup_secure_phone_number">Этот номер телефона используется другим аккаунтом Xiaomi</string>
     <string name="failed_to_fetch_data">Не удалось загрузить данные.</string>
     <string name="failure">Не удалось загрузить</string>
@@ -545,23 +449,8 @@ ID: %s
     <string name="favorite_cancel_success">Удалено из избранного</string>
     <string name="favorite_fail">Не удалось добавить в избранное. Повторите попытку.</string>
     <string name="favorite_success">Добавлено в избранное</string>
-    <string name="fcm_2_args">Первый: %1$s и второй: %2$s</string>
     <string name="fcm_fallback_notification_channel_label">Прочие</string>
-    <string name="fcm_no_args">Строка без аргументов</string>
     <string name="fcm_push_title">Популярные</string>
-    <string name="fcmpts_dialog_continue">Просмотр</string>
-    <string name="fcmpts_dialog_not_interested">Отмена</string>
-    <string name="fcmpts_dialog_two" formatted="false">Посмотрите %d секунд ещё %d видео, чтобы получить купон Mi Store.</string>
-    <string name="fcmpts_popup_final">Готово! Нажмите, чтобы активировать награды.</string>
-    <string name="fcmpts_popup_final_redeem">Активировать</string>
-    <string name="fcmpts_popup_four" formatted="false">Готово! Посмотрите %d секунд ещё %d видео, чтобы получить купон Mi Store.</string>
-    <string name="fcmpts_popup_one" formatted="false">Посмотрите сегодня %d видео, чтобы получить купон Mi Store на %d баллов.</string>
-    <string name="fcmpts_popup_one_cts">Просмотр</string>
-    <string name="fcmpts_popup_three" formatted="false">Просмотрено %d секунд. Вы заработали %d баллов!</string>
-    <string name="fcmpts_popup_three_claim">Получить</string>
-    <string name="fcmpts_popup_three_login_claim">Войти</string>
-    <string name="fcmpts_popup_two" formatted="false">Посмотрите %d секунд этого видео, чтобы получить %d баллов.</string>
-    <string name="feedback">Обратная связь</string>
     <string name="feedback_activity_title">Обратная связь</string>
     <string name="feedback_contact_empty">Введите контактную информацию</string>
     <string name="feedback_contact_title">Контактная информация</string>
@@ -582,7 +471,6 @@ ID: %s
     <string name="file_space_not_enough_tip">Недостаточно места. Освободите как минимум %d МБ и запустите приложение заново.</string>
     <string name="find_psw">Забыли пароль?</string>
     <string name="finish">Готово</string>
-    <string name="firework_privacy">Политика конфиденциальности Firework</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
@@ -607,7 +495,6 @@ ID: %s
     <string name="fw_loading">Подождите…</string>
     <string name="fw_reload_sub_title">Нажмите для повтора</string>
     <string name="fw_reload_title">Ошибка подключения к сети.</string>
-    <string name="gallery_fold_tags">Скрыть теги</string>
     <string name="gallery_folder_alias_TAOBAO">Taobao</string>
     <string name="gallery_folder_alias_camera">Камера</string>
     <string name="gallery_folder_alias_download">Загрузки</string>
@@ -625,24 +512,6 @@ ID: %s
     <string name="gallery_folder_alias_wechat">WeChat</string>
     <string name="gallery_folder_alias_youku_video">Youku</string>
     <string name="gallery_tab_all">Все</string>
-    <string name="gallery_tab_videos">Видео</string>
-    <string name="gallery_video_adjust_hint">Поддерживаются только видео 960 кадров/с</string>
-    <string name="gallery_video_adjust_text">Изменить</string>
-    <string name="gallery_video_default_music_text">Автоматически</string>
-    <string name="gallery_video_icon_is_8k">8K</string>
-    <string name="gallery_video_icon_is_record_log">ЖУРНАЛ</string>
-    <string name="gallery_video_item3_default_text">Эмоции</string>
-    <string name="gallery_video_item4_default_text">Восход</string>
-    <string name="gallery_video_item5_default_text">Сюжеты</string>
-    <string name="gallery_video_item6_default_text">Радость</string>
-    <string name="gallery_video_local_music_text">Выберите файл</string>
-    <string name="gallery_video_music_format_error">Не удалось добавить саундтрек к выбранному видео</string>
-    <string name="gallery_video_music_text">Саундтрек</string>
-    <string name="gallery_video_no_music_text">Нет</string>
-    <string name="gallery_video_operate_text">Регулировка замедленной съёмки</string>
-    <string name="gallery_video_save_video">Создание видео…</string>
-    <string name="gallery_video_slow_edit">Замедленная съёмка</string>
-    <string name="gallery_view_tags">Показать теги</string>
     <string name="galleryplus_already_cloud_member">Используется VIP-подписка для воспроизведения</string>
     <string name="galleryplus_check_network">Настройки</string>
     <string name="galleryplus_chose_play_speed">Скорость воспроизведения: %1$.1fX</string>
@@ -705,10 +574,6 @@ ID: %s
     <string name="galleryplus_orientation_lock">Автоповорот выключен</string>
     <string name="galleryplus_orientation_unlock">Автоповорот включён</string>
     <string name="galleryplus_permission_content">Предоставьте приложению Mi Видео необходимые разрешения, чтобы использовать эту функцию.</string>
-    <string name="galleryplus_permission_content2">"Чтобы использовать эту функцию, предоставьте приложению следующие разрешения:
-
-1. Доступ к хранилищу
-2. Доступ к ID устройства"</string>
     <string name="galleryplus_permission_content_opt">Для нормальной работы Mi Видео предоставьте необходимые разрешения. Выполните очистку данных приложения и снова откройте приложение.</string>
     <string name="galleryplus_permission_content_opt2">"Для нормальной работы Mi Video предоставьте необходимые разрешения. Очистите все данные приложения в Настройках и снова откройте приложение.
 Эта операция не повлияет на файлы в Галерее."</string>
@@ -780,14 +645,11 @@ ID: %s
     <string name="get_ph_ticket">Получить код</string>
     <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 аккаунтов Xiaomi. Вы не можете добавить новый аккаунт.</string>
     <string name="get_phone_verifycode_exceed_limit">На этот номер отправлено слишком много кодов подтверждения. Повторите попытку через 24 часа.</string>
-    <string name="google_application_id"/>
-    <string name="got_it">Понятно</string>
+    <string name="google_application_id" />
     <string name="goto_sign_up">Создать аккаунт</string>
     <string name="gps_prompt_context">Загрузить с использованием мобильного интернета?</string>
     <string name="gps_prompt_title">Советы</string>
-    <string name="grant_write_settings_permission">Предоставьте разрешение для управления яркостью плеера</string>
     <string name="have_learned">Понятно</string>
-    <string name="hello_blank_fragment">Привет пустой фрагмент</string>
     <string name="hidden_channels">Следующие каналы не будут отображаться на главной странице.</string>
     <string name="hide">Скрыть</string>
     <string name="hide_video_toast">Этот объект был скрыт. Вы можете найти и управлять скрытыми объектами в разделе \"На устройстве\" > \"Папки\" > \"Скрытые объекты\".</string>
@@ -796,22 +658,12 @@ ID: %s
     <string name="history">История</string>
     <string name="history_local_video">Локальные</string>
     <string name="history_online_video">Онлайн</string>
-    <string name="hot">Популярные</string>
     <string name="i_know">Понятно</string>
     <string name="icon_content_description">Иконка диалога</string>
-    <string name="id_namespace">hungama</string>
     <string name="identity">Идентификация</string>
     <string name="incentive_details">Подробности</string>
     <string name="incentive_dialog_cancel_not_interested">Отмена</string>
-    <string name="incentive_dialog_continue_to_watch">Продолжить</string>
-    <string name="incentive_dialog_default_message">Посмотрите ещё %1$s, чтобы получить %2$s!</string>
-    <string name="incentive_dialog_default_title">Продолжить просмотр?</string>
-    <string name="incentive_dialog_exit">Выход</string>
-    <string name="incentive_dialog_negative_give_up">Нет, спасибо</string>
-    <string name="incentive_dialog_negative_play_next_video">Следующее видео</string>
     <string name="incentive_dialog_ok_receive_task">Завершено</string>
-    <string name="incentive_dialog_positive_get_credits">Получить баллы</string>
-    <string name="incentive_dialog_positive_login_and_get_credits">Вход</string>
     <string name="incentive_exchange">Получить</string>
     <string name="incentive_exchange_code">Код</string>
     <string name="incentive_exchange_code_copy">Копировать</string>
@@ -856,11 +708,9 @@ ID: %s
     <string name="inline_mute_click_tip">Нажмите, чтобы включить звук</string>
     <string name="input_email_address_notice">Этот адрес электронной почты будет использоваться для подтверждения вашего аккаунта</string>
     <string name="input_new_pwd">Введите новый пароль</string>
-    <string name="input_size_tips">Можно ввести до 1000 символов</string>
     <string name="input_size_tips_new">Можно ввести до %d символов</string>
     <string name="introduction">Введение</string>
     <string name="isornot_your_mi_account">Это ваш аккаунт Xiaomi?</string>
-    <string name="issue">Проблема</string>
     <string name="item_card_all_replies">Все ответы</string>
     <string name="item_card_continue_play">Автовоспроизведение</string>
     <string name="item_card_more_trailers">Ещё</string>
@@ -874,18 +724,10 @@ ID: %s
     <string name="item_title_unknown">Неизвестное название</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="just_a_second">Подождите…</string>
-    <string name="language_later_setting_tips">Вы можете изменить предпочитаемый язык в разделе Профиль > Язык.</string>
     <string name="language_select_tips">"Выберите предпочитаемый язык
 видео"</string>
     <string name="language_setting_tips">Выберите предпочитаемый язык, чтобы получить более релевантные рекомендации. Вы можете изменить предпочитаемый язык в разделе Профиль > Язык.</string>
-    <string name="language_setting_tips_dialog">Предпочитаемый язык можно выбрать в разделе Аккаунт > Язык.</string>
     <string name="later">Позже</string>
-    <string name="lbl_connection_failed_alert_title">Ошибка соединения</string>
-    <string name="lbl_player_local_video_deleted_alert_dialog_text">Это видео не может быть воспроизведено.</string>
-    <string name="lbl_player_no_network">Сетевое соединение не обнаружено. Убедитесь, что вы подключены к сети и попробуйте снова.</string>
-    <string name="lbl_player_response_failed_alert_dialog_text">Ваш запрос не может быть обработан сейчас. Повторите позже.</string>
-    <string name="lbl_setting_playback_streaming_auto">Авто</string>
-    <string name="lbl_url_alert">Сведения</string>
     <string name="library_roundedimageview_libraryDescription">Быстрый ImageView (Drawable), который поддерживает закругленные углы на основе оригинального примера от Romain Guy.</string>
     <string name="liuliang">Данные</string>
     <string name="live_now">Сейчас в эфире</string>
@@ -923,7 +765,6 @@ ID: %s
     <string name="local_play_end_download_title">Загрузите любимые видео</string>
     <string name="local_play_end_drag_up_guide">Нажмите или проведите вверх для воспроизведения Shorts</string>
     <string name="local_play_recommend_guide_card_bottom">Другие видео</string>
-    <string name="local_play_recommend_guide_card_title">Рекомендуемые</string>
     <string name="local_play_tip">Воспроизведение видео на устройстве</string>
     <string name="local_push_random_title_1">Посмотрите самые популярные видео за сегодня</string>
     <string name="local_push_random_title_10">Смотрите, наслаждайтесь и делитесь самыми популярными видео за сегодня</string>
@@ -950,8 +791,6 @@ ID: %s
     <string name="local_subtitle_choose_language_text">Язык</string>
     <string name="local_subtitle_exemption_hint">Поиск субтитров на opensubtitle.org</string>
     <string name="local_subtitle_input_keyword_text">Ключевые слова</string>
-    <string name="local_subtitle_search_result_text">Результаты</string>
-    <string name="local_subtitle_searching_text">Поиск…</string>
     <string name="local_tip_act_for_android_u">Изменить</string>
     <string name="local_tip_info_for_android_u">Вы разрешили Mi Видео отображать только некоторые видео.</string>
     <string name="local_tip_info_for_no_audio">Не удается получить доступ к аудио, сохраненному на устройстве. Сначала предоставьте необходимые разрешения.</string>
@@ -978,8 +817,6 @@ ID: %s
     <string name="local_video_time">Длительность</string>
     <string name="local_zoom_adjust_button">Переключить режим</string>
     <string name="lock_screen">Экран блокировки</string>
-    <string name="logging_normal">По умолчанию</string>
-    <string name="logging_verbose">Подробный</string>
     <string name="login">Вход</string>
     <string name="login_tip">Войдите в систему, чтобы получать наши ответы.</string>
     <string name="logo_neverthink">Куратор Neverthink.tv</string>
@@ -990,7 +827,6 @@ ID: %s
     <string name="long_video_you_may_also_like">Также может понравиться</string>
     <string name="look_look_agin">Рекомендации</string>
     <string name="look_main">Ознакомление</string>
-    <string name="lp_base_folder">SD-карта</string>
     <string name="lp_play_mode_list_loop">Повторять все</string>
     <string name="lp_play_mode_pause">Однократно</string>
     <string name="lp_play_mode_shuffle">Перемешивание вкл.</string>
@@ -1000,86 +836,40 @@ ID: %s
     <string name="lp_speed_toast">Воспроизведение на скорости %sX…</string>
     <string name="lp_videoView_error_button">Понятно</string>
     <string name="lp_videoView_error_text_unknown">Невозможно воспроизвести видео.</string>
-    <string name="lp_videoView_error_title">Не удалось воспроизвести</string>
     <string name="lp_video_info_title">Сведения</string>
     <string name="lp_video_zoom_crop">Обрезать</string>
     <string name="lp_video_zoom_fit_screen">По размеру экрана</string>
     <string name="lp_video_zoom_stretch">Растянуть</string>
     <string name="lp_video_zoom_title">Масштаб</string>
     <string name="lv_advance_sound">Улучшение звука</string>
-    <string name="lv_airkan_control_device_des">Для управления воспроизведением коснитесь панели внизу экрана.</string>
     <string name="lv_airkan_device_my_device">Моё устройство</string>
-    <string name="lv_airkan_device_xiaomi_phone">Мой телефон</string>
     <string name="lv_airkan_playing">Трансляция на %s</string>
-    <string name="lv_airkan_tips">Нажмите для трансляции</string>
-    <string name="lv_app_check_failed">Не удалось проверить пакет установки</string>
-    <string name="lv_app_click_to_install">Нажмите для обновления</string>
-    <string name="lv_app_download_failed">Не удалось загрузить пакет установки, повторите попытку.</string>
-    <string name="lv_app_downloaded">Загрузка Mi Видео завершена</string>
-    <string name="lv_app_downloading">Загрузка Mi Видео…</string>
     <string name="lv_audio_changed">Новая звуковая дорожка</string>
     <string name="lv_audio_title">Звуковая дорожка</string>
     <string name="lv_audio_track">Звуковая дорожка</string>
-    <string name="lv_auto_update">Обновить позже</string>
     <string name="lv_brightness">Яркость</string>
     <string name="lv_cast">Трансляция</string>
-    <string name="lv_check_delete_file">Выберите объекты для удаления</string>
-    <string name="lv_check_send_file">Можно отправить только 1 файл за один раз</string>
-    <string name="lv_check_send_file_new">Можно отправить до %d файлов за один раз</string>
-    <string name="lv_confirm_delete_history">Удалить выбранные объекты?</string>
-    <string name="lv_confirm_delete_videos">Удалить объекты?</string>
-    <string name="lv_confirm_hide_videos">Скрыть видео?</string>
-    <string name="lv_confirm_unhide_videos">Отменить скрытие видео?</string>
-    <string name="lv_deleting">Удаление…</string>
     <string name="lv_device_list">Устройства</string>
     <string name="lv_device_list_seaching">&lt;Нет устройств&gt;</string>
     <string name="lv_do_not_show_this_again">Больше не показывать</string>
     <string name="lv_favor">Избранное</string>
-    <string name="lv_find_new_version">Доступно обновление</string>
-    <string name="lv_find_videos">Повторить поиск видео</string>
-    <string name="lv_folder_null">Неизвестная папка</string>
     <string name="lv_fullscreen">На весь экран</string>
     <string name="lv_hide_folder">Скрытые видео</string>
-    <string name="lv_hide_prompt">Пароль установлен. Просматривайте скрытые объекты в папке \"Скрытые видео\".</string>
     <string name="lv_history">История</string>
-    <string name="lv_history_null">Нет объектов</string>
-    <string name="lv_home_favorites">Избранное</string>
-    <string name="lv_home_localt">Локальные</string>
-    <string name="lv_home_recent">Недавние</string>
     <string name="lv_home_settings">Настройки</string>
-    <string name="lv_input_password">Введите пароль</string>
     <string name="lv_local_folder">Папки</string>
-    <string name="lv_local_video">Видео</string>
-    <string name="lv_media_type_unsported">Невозможно воспроизвести данный формат видео.</string>
     <string name="lv_menu_delete">Удалить (%d)</string>
     <string name="lv_menu_hide">Скрыть</string>
     <string name="lv_menu_selectAll">Выбрать все</string>
-    <string name="lv_menu_send">Отправить</string>
-    <string name="lv_menu_unhide">Показать</string>
-    <string name="lv_mplayer_error_io">Не удалось прочитать медиафайл</string>
-    <string name="lv_mplayer_error_malformed">Недопустимый медиафайл</string>
-    <string name="lv_mplayer_error_server_died">Ошибка медиа-сервера</string>
-    <string name="lv_mplayer_error_timed_out">Время ожидания истекло</string>
-    <string name="lv_ready_to_install">Mi Видео готово к установке</string>
     <string name="lv_screen_shot_failure">Не удалось сделать скриншот, повторите попытку.</string>
     <string name="lv_screen_shot_failure_tips">Обновите Mi Видео для сохранения скриншотов</string>
     <string name="lv_screen_shot_success">Скриншот сохранён</string>
-    <string name="lv_screenrecord_failure">Ошибка записи, повторите попытку.</string>
-    <string name="lv_screenrecord_share_gif">Отправить GIF</string>
-    <string name="lv_screenrecord_share_video">Отправить видео</string>
-    <string name="lv_screenrecord_slience">Ваша система не поддерживает запись звука. Видео записано без звука.</string>
-    <string name="lv_screenrecord_success">Запись завершена. Вы можете поделиться ей.</string>
-    <string name="lv_send_title">Отправить</string>
-    <string name="lv_set_password">Задайте пароль для просмотра скрытых видео</string>
     <string name="lv_setting">Настройки</string>
     <string name="lv_share_tips">Скриншот сохранён. Можно поделиться им.</string>
-    <string name="lv_skip_update">Не сейчас</string>
     <string name="lv_storage_external_sdcard">Внешний накопитель</string>
     <string name="lv_storage_internal_sdcard">Хранилище</string>
-    <string name="lv_storage_root_dir">Вы уже находитесь в корневой папке</string>
     <string name="lv_subtitle_add_subtitle_failed">Не удалось добавить субтитры. Убедитесь, что файл не повреждён.</string>
     <string name="lv_subtitle_changed">Новые субтитры</string>
-    <string name="lv_subtitle_current_dir">Текущая папка</string>
     <string name="lv_subtitle_folder_up">Предыдущая папка</string>
     <string name="lv_subtitle_font_color_title">Цвет текста</string>
     <string name="lv_subtitle_font_size_title">Размер текста</string>
@@ -1087,14 +877,10 @@ ID: %s
     <string name="lv_subtitle_manual_add_sub">Субтитры успешно добавлены</string>
     <string name="lv_subtitle_no_subtitle">Субтитры недоступны</string>
     <string name="lv_subtitle_non_subtitle_file">Нет файла субтитров</string>
-    <string name="lv_subtitle_offset_add_1s">+1 сек.</string>
     <string name="lv_subtitle_offset_add_1s_new">+%d сек.</string>
-    <string name="lv_subtitle_offset_add_dot5s">+0.5 сек.</string>
     <string name="lv_subtitle_offset_add_dot5s_new">+%.1f сек.</string>
     <string name="lv_subtitle_offset_normal">Не смещать субтитры</string>
-    <string name="lv_subtitle_offset_sub_1s">-1 сек.</string>
     <string name="lv_subtitle_offset_sub_1s_new">-%d сек.</string>
-    <string name="lv_subtitle_offset_sub_dot5s">-0.5 сек.</string>
     <string name="lv_subtitle_offset_sub_dot5s_new">-%.1f сек.</string>
     <string name="lv_subtitle_onlinesub_language">Язык: %s</string>
     <string name="lv_subtitle_onlinesub_loading">Загрузка субтитров…</string>
@@ -1103,24 +889,16 @@ ID: %s
     <string name="lv_subtitle_onlinesub_right_declare_content">Загружайте онлайн-субтитры с www.opensubtitles.org</string>
     <string name="lv_subtitle_onlinesub_save_failed">Не удалось добавить субтитры</string>
     <string name="lv_subtitle_onlinesub_save_success">Субтитры успешно добавлены</string>
-    <string name="lv_subtitle_onlinesub_search_keyword">Введите ключевые слова</string>
     <string name="lv_subtitle_onlinesub_search_notfound">Не удалось обнаружить субтитры</string>
     <string name="lv_subtitle_onlinesub_size_string_b">Размер: %s Б</string>
     <string name="lv_subtitle_onlinesub_title">Онлайн субтитры</string>
     <string name="lv_subtitle_open_subtitle_file_title">Найти файл субтитров</string>
-    <string name="lv_subtitle_preoffset_max">Нельзя сместить более чем на 5 сек.</string>
     <string name="lv_subtitle_preoffset_max_new">Нельзя сместить более чем на %d сек.</string>
     <string name="lv_subtitle_subonline_non_network">Не удалось подключиться к сети. Проверьте подключение и повторите попытку.</string>
     <string name="lv_subtitle_synchronization_title">Синхронизация</string>
     <string name="lv_subtitle_title">Субтитры</string>
     <string name="lv_subtitle_track">Субтитры</string>
-    <string name="lv_unhide_prompt">Пароль установлен. Теперь вы можете просматривать не скрытые объекты.</string>
-    <string name="lv_updating">Обновление…</string>
     <string name="lv_use_notch">Показать вырез</string>
-    <string name="lv_videoView_error_text_invalid_progressive_playback">Видео не может быть воспроизведены на этом устройстве.</string>
-    <string name="lv_videoView_error_text_unknown">Невозможно воспроизвести видео.</string>
-    <string name="lv_videoView_error_title">Невозможно воспроизвести видео</string>
-    <string name="lv_video_null">Нет видео</string>
     <string name="lv_volume">Громкость</string>
     <string name="manage">Управление</string>
     <string name="manager_request_Content">"Из-за политики управления файлами в Android, Mi Видео не может получить доступ к видео из других приложений.
@@ -1151,9 +929,15 @@ ID: %s
     <string name="material_timepicker_text_input_mode_description">Ввод времени в текстовом режиме</string>
     <string name="mediation_ad">Реклама</string>
     <string name="mediation_ad_can_not_share">Не удалось поделиться этим видео</string>
+<!-- ### FROM SOURCE -->
+    <string name="mediation_russian_ad">Реклама</string>
     <string name="member">VIP</string>
     <string name="message_notify">Уведомление о новом сообщении</string>
     <string name="mgmi_ad_mid_wait">Сделайте перерыв</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_ad_sdk_gdt">gdt</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_ad_sdk_saifeikesi">AppicAD</string>
     <string name="mgmi_adform_dsc">Реклама·%s</string>
     <string name="mgmi_apk_download_finish_title">Ваши приложения</string>
     <string name="mgmi_apk_download_no_permission_title">Разрешите доступ к внутреннему хранилищу</string>
@@ -1161,7 +945,102 @@ ID: %s
     <string name="mgmi_banner_pop_close">Закрыть</string>
     <string name="mgmi_banner_pop_fire">Комментарии</string>
     <string name="mgmi_boot_ad_skip">Пропустить</string>
-    <string name="mi_video">Mi Видео</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_buy_app">Buy Now</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_call_phone">ring up</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_can_close_ad">Skip now</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_can_close_ad_pre">You can skip ads in %1$d s</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_close_bubble_text">Not interested, click to close</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_common_cancel">cancel</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_common_confim">confirm</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_common_continue">continue</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_common_continue_download">Download</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_confim_leave">You are leaving MGTV app, are you sure?</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_confirm_download">Sure to download the file?</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_down_load_app">Download</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_download_is_caching">Cacheing</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_download_no_permission_cancel">not support</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_download_no_permission_sure">Go to setting</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_enter_app">Open App</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_enter_mimiprogram">Mini Program</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_feed_download">Download</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_feed_install_app">Install</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_feed_replay">Replay</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_feed_scheme_app">Open App</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_feed_wifi_notice">Auto play when wifi connected</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_file_not_exists">File is lost！</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_float_vote">vote</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_have_a_rest">Take a break,more after the commercial~</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_load_failed_please_try_again">Loading failed; please retry.</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_loading_video">Loading video</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_player_ad">Ad</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_player_ad_skip">Ad-free for VIP</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_player_learn_More">Learn more</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_player_learn_More_CN">·Learn more</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_player_learn_More_ext">Learn more</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_player_prepareing_to_play">Playing soon</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_ssl_error">The website is certificate has security issues</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_ssp_ad_title">ssp</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_str_downloading">Downloading</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_str_start_download">entered the download</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_template_ad">Ad</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_template_ad_count_pre">Ad ·</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_template_detail">More info</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_template_download">Download</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgmi_vip_skip">Apply for VIP to skip ad</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgplayer_continue_play">Continue</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgplayer_error_message">Server busy, try again late</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgplayer_lock_tip">Please unlock your phone screen！</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgplayer_locked">locked</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgplayer_unlocked">unlocked</string>
+<!-- ### FROM SOURCE -->
+    <string name="mgplayer_wifi_tip">The video playing will use your data, continue?</string>
     <string name="mi_video_pip_mode">Картинка в картинке</string>
     <string name="midnight">Ночь</string>
     <string name="miuix_access_state_desc">Выбрано</string>
@@ -1206,7 +1085,6 @@ ID: %s
     <string name="moment_tab_video">Записи</string>
     <string name="moment_tab_wechat">WeChat</string>
     <string name="moment_tab_whatsapp">WhatsApp</string>
-    <string name="moment_title_my_videos">Мои видео</string>
     <string name="monday">Понедельник</string>
     <string name="monday_short">Пн</string>
     <string name="monday_shortest">Пн</string>
@@ -1271,9 +1149,7 @@ ID: %s
     <string name="mr_controller_stop_casting">Прекратить трансляцию</string>
     <string name="mr_controller_volume_slider">Регулятор громкости</string>
     <string name="mr_dialog_default_group_name">Группа</string>
-    <string name="mr_dialog_device_header">Трансляция на устройство</string>
     <string name="mr_dialog_groupable_header">Добавить устройство</string>
-    <string name="mr_dialog_route_header">Воспроизведение в группе</string>
     <string name="mr_dialog_transferable_header">Групповое воспроизведение</string>
     <string name="mr_system_route_name">Система</string>
     <string name="mr_user_route_category_name">Устройства</string>
@@ -1317,20 +1193,13 @@ ID: %s
     <string name="need_update_app">Обновите Mi Видео для использования всех функций</string>
     <string name="network_connect_info">Ошибка подключения к сети. Проверьте настройки и повторите попытку.</string>
     <string name="network_error_and_retry_tip">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
-    <string name="network_error_info">Ошибка сети. Проверьте настройки и повторите попытку.</string>
     <string name="network_error_tip">Не удалось подключиться. Проверьте параметры сети.</string>
     <string name="network_failed">Ошибка подключения к сети</string>
-    <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
-    <string name="neverthink_player_loading">Загрузка видео с Neverthink…</string>
-    <string name="new_channel_tip">Взгляните на новые каналы!</string>
     <string name="newyearfestival_go_to_draw_prizes">Розыгрыш призов</string>
     <string name="newyearfestival_watch_the_video_to_draw_prizes">Посмотрите видео для участия в розыгрыше призов</string>
-    <string name="next">Далее</string>
-    <string name="next_step">Далее</string>
     <string name="nick_name">Псевдоним</string>
     <string name="night">Вечер</string>
     <string name="no_account">Вход не выполнен</string>
-    <string name="no_app_found_error">Приложение не найдено</string>
     <string name="no_history">Ничего нет</string>
     <string name="no_kandan">Список пуст</string>
     <string name="no_longer_prompt">Больше не показывать</string>
@@ -1344,7 +1213,6 @@ ID: %s
     <string name="noon">Полдень</string>
     <string name="not_connect_wifi_tip">Загрузка файлов с использованием мобильного интернета может привести к дополнительным тратам. Всё равно загрузить?</string>
     <string name="not_set">Не задано</string>
-    <string name="not_show">Больше не показывать</string>
     <string name="not_support_share">Не удалось поделиться</string>
     <string name="notice_comment_action">%s прокомментировал ваш пост</string>
     <string name="notice_comment_action_deleted">Комментарий был удалён</string>
@@ -1367,10 +1235,7 @@ ID: %s
     <string name="notifications_permission_confirm">Разрешить</string>
     <string name="notifications_permission_decline">Запретить</string>
     <string name="notifications_permission_title">Разрешить приложению отправлять уведомления?</string>
-    <string name="notify_apk_installed">Загрузка завершена</string>
     <string name="notify_tool">инструмент уведомлений</string>
-    <string name="off">[откл.]</string>
-    <string name="off_tip_firework_recommend">Вы больше не будете получать персонализированные рекомендации по контенту от Firework.</string>
     <string name="offline_ad_free">Оффлайн-реклама</string>
     <string name="offline_notification_text">Нажмите для просмотра рекламы, сохранённой в автономном режиме</string>
     <string name="offline_notification_title">Просмотр рекламы</string>
@@ -1380,7 +1245,6 @@ ID: %s
     <string name="offline_opt_in_message">Вы получите уведомление со ссылкой на сайт рекламодателя для просмотра, когда сеть снова будет доступна</string>
     <string name="offline_opt_in_title">Просмотр рекламы</string>
     <string name="ok">ОК</string>
-    <string name="on_tip_firework_recommend">Включены персонализированные рекомендации по контенту от Firework</string>
     <string name="online_play_hint">Например: http://www.example.com/video.mp4</string>
     <string name="online_play_start_loading_tip">Подождите…</string>
     <string name="online_play_start_ready_loading_tip_b">Загрузка: %.2f Б/сек.</string>
@@ -1391,64 +1255,18 @@ ID: %s
     <string name="order_recently_subscribe">Новые подписки</string>
     <string name="order_recently_updated">Недавние</string>
     <string name="out_of_memory_background_playback_is_suspended">Фоновое воспроизведение приостановлено из-за нехватки памяти</string>
-    <string name="ovp_alert_dialog_download_install_task">Загрузка HD плагина…</string>
     <string name="ovp_buffering_video_netplay_label_v5">Буферизация…</string>
-    <string name="ovp_category">Категории</string>
-    <string name="ovp_confirm_delete_favor">Удалить выбранные объекты из избранного?</string>
-    <string name="ovp_default_plugin_name">HD плагин</string>
     <string name="ovp_detail_back_to_watch_more">Посмотрите новое на главной странице</string>
-    <string name="ovp_detail_collapse_summary">Скрыть</string>
-    <string name="ovp_detail_collect">В избранное</string>
-    <string name="ovp_detail_comment">Комментарий</string>
-    <string name="ovp_detail_deeplink_collect">Добавлено в избранное</string>
-    <string name="ovp_detail_deeplink_plugin_download_error">Не удалось загрузить плагин</string>
-    <string name="ovp_detail_deeplink_plugin_downloading">Загрузка плагина</string>
-    <string name="ovp_detail_deeplink_plugin_install_error">Не удалось установить плагин</string>
-    <string name="ovp_detail_deeplink_unCollect">Удалено из избранного</string>
-    <string name="ovp_detail_douban_score">Оценка Douban</string>
-    <string name="ovp_detail_download">Загрузить</string>
-    <string name="ovp_detail_has_empty_cp">Видео сейчас недоступно.</string>
-    <string name="ovp_detail_more_episode">ЕЩЕ</string>
-    <string name="ovp_detail_more_summary">Ещё</string>
-    <string name="ovp_detail_require_pay">В аренду</string>
-    <string name="ovp_detail_require_subscription">Требуется подписка</string>
-    <string name="ovp_detail_score">"Оценка: "</string>
-    <string name="ovp_detail_shortcut">Ярлык</string>
-    <string name="ovp_detail_summary">Описание</string>
-    <string name="ovp_detail_v_all_episode">Все эпизоды</string>
-    <string name="ovp_detail_v_episode">Эпизод</string>
-    <string name="ovp_detail_v_episode_all">Эпизоды: %2$d/%1$d</string>
-    <string name="ovp_detail_v_episode_count">Обновлено до эпизода %d</string>
-    <string name="ovp_detail_v_episode_download_null">Не удалось загрузить этот эпизод</string>
-    <string name="ovp_detail_v_variety_episode_count">Обновлено до сезона %s</string>
-    <string name="ovp_episode_suffix">"Эп. %d "</string>
-    <string name="ovp_favor">Избранное</string>
-    <string name="ovp_favor_null">Ничего нет</string>
-    <string name="ovp_feedback_title">Отзыв о Mi Видео</string>
     <string name="ovp_hint_new">Обновление</string>
     <string name="ovp_hint_the_latest_version">Обновлений нет</string>
-    <string name="ovp_home_folder_is_null_jump_upfolder_tip">Не удалось обнаружить медиафайл. Переход в папку верхнего уровня.</string>
-    <string name="ovp_home_item_camera">Галерея</string>
-    <string name="ovp_home_item_download">Загрузки</string>
-    <string name="ovp_home_item_folder">Файлы</string>
-    <string name="ovp_home_local">Локально</string>
-    <string name="ovp_home_me">Аккаунт</string>
     <string name="ovp_home_no_data_callback">Ошибка получения данных. Потяните вниз для обновления.</string>
-    <string name="ovp_home_online">Онлайн</string>
-    <string name="ovp_home_online_content_title">В интернете</string>
-    <string name="ovp_info_video_loading">Подождите…</string>
     <string name="ovp_load_playinfo_failure">Не удалось загрузить данные</string>
-    <string name="ovp_loading_video_netplay_label_v5">Подождите…</string>
-    <string name="ovp_local_videos_title">Локальные видео</string>
-    <string name="ovp_navigation_category">Категории</string>
     <string name="ovp_navigation_content">Контент</string>
     <string name="ovp_navigation_darkmode">Тёмный режим</string>
     <string name="ovp_navigation_favorites">Избранное</string>
     <string name="ovp_navigation_feedback">Отзыв</string>
     <string name="ovp_navigation_history">История</string>
-    <string name="ovp_navigation_home">Главная</string>
     <string name="ovp_navigation_language">Язык</string>
-    <string name="ovp_navigation_localvideo">Локальные</string>
     <string name="ovp_navigation_notice">Уведомления</string>
     <string name="ovp_navigation_playlist">Плейлисты</string>
     <string name="ovp_navigation_score">Оценить приложение</string>
@@ -1457,35 +1275,15 @@ ID: %s
     <string name="ovp_navigation_version_update">Проверка обновлений</string>
     <string name="ovp_player_cached_error_btn">Онлайн видео</string>
     <string name="ovp_player_cached_error_hint_info">Воспроизведение сейчас недоступно</string>
-    <string name="ovp_player_plugin_dlg_neg_btn">Закрыть</string>
-    <string name="ovp_player_plugin_dlg_no_content">Плагины видеоплеера не установлены.</string>
-    <string name="ovp_player_plugin_dlg_title">Плагины видеоплеера</string>
-    <string name="ovp_player_update_dialog_info">Для воспроизведения этого видео обновите плагин Mi Видео до последней версии. Обновить?</string>
-    <string name="ovp_player_update_info">"Невозможно воспроизвести видео.
-Обновите Mi Видео до последней версии."</string>
     <string name="ovp_playlist">Плейлист</string>
-    <string name="ovp_plugin_install_failure">Не удалось установить плагин</string>
     <string name="ovp_resolution_auto">Автоматически</string>
     <string name="ovp_resolution_not_support">Нельзя изменить разрешение для этого видео</string>
     <string name="ovp_resolution_title">Разрешение</string>
-    <string name="ovp_search_key_not_null">Введите ключевые слова</string>
-    <string name="ovp_select_ci">Выберите эпизод</string>
-    <string name="ovp_select_related_video">Похожие видео</string>
     <string name="ovp_setting_clear_cache_success">Очистка кэша завершена</string>
     <string name="ovp_setting_clear_cache_text">Очистить файлы кэша на устройстве</string>
-    <string name="ovp_setting_clear_cache_title">Очистка кэша</string>
     <string name="ovp_setting_privacy_policy_title">Политика конфиденциальности</string>
-    <string name="ovp_setting_privacy_switch_tips">После отзыва разрешения некоторые функции будут недоступны</string>
-    <string name="ovp_setting_privacy_switch_title">Доступ к личным данным</string>
     <string name="ovp_setting_user_agreement_title">Пользовательское соглашение</string>
-    <string name="ovp_setting_version_info_title">Версия</string>
     <string name="ovp_start_error_msg">Невозможно воспроизвести видео</string>
-    <string name="ovp_video_bad_network_condition">Ошибка подключения к сети.</string>
-    <string name="ovp_video_create_video_error_info">Не удалось инициализировать плагин. Подождите немного и повторите попытку.</string>
-    <string name="ovp_video_invalid_cp_info">Не удалось загрузить данные. Перезапустите приложение.</string>
-    <string name="ovp_video_loading">Подготовка %1$s…</string>
-    <string name="ovp_video_plugin_installation">Установка %1$s…</string>
-    <string name="ovp_video_plugin_installation_failure">Не удалось установить %1$s</string>
     <string name="ovp_video_plugin_installation_two">Подождите…</string>
     <string name="page_empty">Ничего нет</string>
     <string name="page_title_language">Языковые предпочтения</string>
@@ -1494,7 +1292,6 @@ ID: %s
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
     <string name="passport_activate_token_expired">Код устарел. Повторите попытку.</string>
     <string name="passport_area_code_title">Код региона</string>
-    <string name="passport_auth_title"/>
     <string name="passport_bad_authentication">Неверное имя пользователя или пароль</string>
     <string name="passport_barcode_add_account_prompt">Чтобы добавить аккаунт, отсканируйте QR-код снова после входа в систему.</string>
     <string name="passport_can_not_receive_verification_code">Не удается получить проверочный код?</string>
@@ -1583,16 +1380,6 @@ ID: %s
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="pay_d">Кеширование видео с таким разрешением доступно только VIP</string>
     <string name="permission_continue">Продолжить</string>
-    <string name="permission_info">"Mi Видео требуется доступ к IMEI вашего устройства для:
- 
-Тонкой настройки сервисов под ваше устройство;
-Повышения безопасности вашего аккаунта."</string>
-    <string name="permission_info1">Mi Видео требуется доступ к номеру IMEI вашего устройства для:</string>
-    <string name="permission_info2">Тонкой настройки сервисов под ваше устройство;</string>
-    <string name="permission_info3">Повышения безопасности вашего аккаунта</string>
-    <string name="permission_phone">Вызовы</string>
-    <string name="permission_phone_desc">Для доступа к состоянию устройства и приостановка воспроизведения во время вызовов</string>
-    <string name="permission_storage">Хранилище</string>
     <string name="permission_storage_desc">Для доступа к файлам, отображения и воспроизведения видео</string>
     <string name="permission_title">Предоставьте разрешения</string>
     <string name="pgc_push_title">Подписки</string>
@@ -1601,21 +1388,11 @@ ID: %s
     <string name="phone_num_use_for">Функции номера телефона:</string>
     <string name="phone_number">Номер телефона</string>
     <string name="photoPickerNotFoundText">Нет доступных фото.</string>
-    <string name="ping_platform">ПРИЛОЖЕНИЕ</string>
-    <string name="ping_property">видео</string>
     <string name="pip">Картинка в картинке</string>
     <string name="pip_not_supported_toast">Обновите MIUI, чтобы использовать функцию \"Картинка в картинке\"</string>
-    <string name="play_list_delete_title">Удалить плейлист?</string>
-    <string name="play_list_detial_add">Добавить видео</string>
-    <string name="play_list_detial_delete">Удалить</string>
-    <string name="play_list_detial_play">Воспроизвести</string>
-    <string name="play_list_detial_rename">Переименовать</string>
     <string name="play_list_save_dialog_create">Создать плейлист</string>
     <string name="play_list_save_dialog_title">Добавить в плейлист</string>
     <string name="play_list_sign_in_dialog_message">Войдите в свою учётную запись Google, чтобы просмотреть все ваши плейлисты</string>
-    <string name="play_list_user_local">Локальные</string>
-    <string name="play_list_user_online">Онлайн</string>
-    <string name="player_replay_btn_text">повтор</string>
     <string name="playlist_create">Создать</string>
     <string name="playlist_detail_recomm_title">Рекомендованные плейлисты</string>
     <string name="playlist_finish">Готово</string>
@@ -1624,7 +1401,6 @@ ID: %s
     <string name="playlist_new">Новое</string>
     <string name="playlist_no_more">Больше нет видео</string>
     <string name="playlist_no_videos">Нет видео</string>
-    <string name="playlist_offline">Этот плейлист больше не доступен.</string>
     <string name="playlist_remove">Удалить</string>
     <string name="playlist_title">Плейлист</string>
     <string name="playlist_view_more">Ещё</string>
@@ -1645,8 +1421,6 @@ ID: %s
     <string name="plus_gallery_mediatype_longvideo">Длинные видео</string>
     <string name="plus_gallery_mediatype_quanjing">Панорамы</string>
     <string name="plus_gallery_nocontents">Пусто.</string>
-    <string name="plus_gallery_title_mediatype">Тип файла</string>
-    <string name="plus_gallery_title_othergallery">Другие альбомы</string>
     <string name="plus_gallery_video_title_mediatype">Категории видео</string>
     <string name="plus_gallery_video_title_othergallery">Другие видео</string>
     <string name="plus_loading_text">Загрузка объектов…</string>
@@ -1735,14 +1509,6 @@ ID: %s
     <string name="plus_search_barhint">Поиск локальных видео</string>
     <string name="plus_search_guide">Поиск видео</string>
     <string name="plus_search_result_empty">Нет результатов</string>
-    <string name="plus_share_channel_qq">QQ</string>
-    <string name="plus_share_channel_qzone">Qzone</string>
-    <string name="plus_share_channel_wechat">WeChat</string>
-    <string name="plus_share_channel_wechat_moments">Моменты WeChat</string>
-    <string name="plus_share_channel_weibo">Weibo</string>
-    <string name="plus_shortcut">Локальные видео</string>
-    <string name="plus_shortcut_created_succ">Ярлык добавлен на рабочий стол</string>
-    <string name="plus_shortcut_existed">Ярлык уже существует</string>
     <string name="plus_sort_title">Сортировка</string>
     <string name="plus_sort_type_default">По умолчанию</string>
     <string name="plus_sort_type_duration">Длина</string>
@@ -1754,7 +1520,6 @@ ID: %s
     <string name="popup_click_for_download_video">Загрузить</string>
     <string name="popup_pip_activate_button">Настройки</string>
     <string name="popup_pip_not_activated">Разрешите Mi Видео использовать функцию \"Картинка в картинке\"</string>
-    <string name="popup_recommend_text">Откройте для себя новые видео</string>
     <string name="popup_window_home_tip">Загрузка онлайн-видео</string>
     <string name="popup_window_small_tag_tip">Нажмите на метку, чтобы просмотреть все видео в этой категории.</string>
     <string name="pre_ad">·РЕКЛАМА</string>
@@ -1766,13 +1531,8 @@ ID: %s
     <string name="privacy_revoke_setting">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности Mi Видео.</string>
     <string name="privacy_revoke_subtitle">Отзыв согласия с Политикой конфиденциальности Mi Видео</string>
     <string name="privacy_revoke_title">Отзыв согласия</string>
-    <string name="privatestr">MIIBSw</string>
-    <string name="pro_prize_popup_style_one">Удалить рекламу для %s</string>
-    <string name="pro_prize_popup_style_two">Разблокировать доп. возможности для %s</string>
-    <string name="progressbar_title">Проверка на наличие проблем безопасности…</string>
     <string name="psw_hint">Пароль</string>
     <string name="psw_sign_in">Войти с паролем</string>
-    <string name="publicstr">MIIBtz</string>
     <string name="publish_time">опубликовано:</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Потяните вверх для обновления…</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">Подождите…</string>
@@ -1781,27 +1541,20 @@ ID: %s
     <string name="pull_to_refresh_refreshing_label">Подождите…</string>
     <string name="pull_to_refresh_release_label">Отпустите для обновления…</string>
     <string name="push_message_switch">Push-уведомления</string>
-    <string name="push_message_tips">Включите для получения push-уведомлений</string>
     <string name="pw_channels">Каналы</string>
-    <string name="qq_application_id"/>
+    <string name="qq_application_id" />
     <string name="question_click_bottom_tab">Нажмите на ярлык, чтобы открыть веб-сайт</string>
-    <string name="question_click_with_light">Нажмите кнопку загрузки после того, как она станет активной</string>
     <string name="question_edit_url_here">Введите адрес или поисковый запрос</string>
     <string name="question_how_to_download_video">Как загрузить видео?</string>
     <string name="question_known">Понятно</string>
-    <string name="question_look_video_here">Загруженные видео будут сохранены здесь</string>
     <string name="question_next">Далее</string>
     <string name="question_step">Пропустить</string>
-    <string name="read_and_agree">Принимаю</string>
     <string name="recommend_channels">Рекомендуемые каналы</string>
     <string name="recommend_online_switch">Онлайн рекомендации</string>
-    <string name="recommend_online_switch_open_time">Эта функция будет автоматически включена %s</string>
     <string name="recommend_online_tips">Включите для получения онлайн рекомендаций</string>
-    <string name="recommend_page_replay">ПОВТОР</string>
     <string name="recommend_slide_to_more">Проведите, чтобы загрузить больше</string>
     <string name="recommend_switch_alert">Перейдите в раздел Настройки в Mi Видео, чтобы удалить эту секцию</string>
     <string name="recommend_to_you">Рекомендуемое</string>
-    <string name="reject_all_label">Отклонить все</string>
     <string name="reload_sub_title">Нажмите, чтобы повторить.</string>
     <string name="reload_title">Ошибка подключения к сети.</string>
     <string name="remaining_space">Доступно: %s</string>
@@ -1820,7 +1573,6 @@ ID: %s
     <string name="report_content_rubbish">Спам или недостоверная информация</string>
     <string name="report_content_sexy">Сексуально откровенное содержание</string>
     <string name="report_content_violence">Разжигание ненависти</string>
-    <string name="report_fail">Произошла ошибка. Повторите попытку.</string>
     <string name="report_success">Отчёт успешно отправлен</string>
     <string name="request_camera_permission_message">"Мы будем защищать вашу личную информацию в соответствии с действующими законами и правилами. Для нормальной работы приложению требуется следующее разрешение:&lt;br>&lt;br>&lt;b>Доступ к камере (для установки фото профиля)&lt;/b>&lt;br>&lt;br>В случае отказа предоставить разрешение, вы не сможете использовать некоторые функции этого приложения, однако основной функционал останется доступен. Ограничить или отозвать разрешение можно в любое время в Настройках."</string>
     <string name="resend_active_email">Повторить</string>
@@ -1832,9 +1584,6 @@ ID: %s
     <string name="restart_phone_bind_title">Изменение номера для восстановления</string>
     <string name="restore_channel_list">Сбросить настройки?</string>
     <string name="retry">Повторить</string>
-    <string name="reveal">Поворот</string>
-    <string name="reveal_tip">Поверните устройство для лучшего просмотра</string>
-    <string name="revoke">Отозвать</string>
     <string name="s1">Сохранить изображение</string>
     <string name="s2">Разрешить объявлению сохранить изображение в галерее?</string>
     <string name="s3">Разрешить</string>
@@ -1849,12 +1598,6 @@ ID: %s
     <string name="saturday_shortest">Сб</string>
     <string name="save">СОХРАНИТЬ</string>
     <string name="save_cancel_toast">Нажмите \"Назад\" ещё раз для отмены сохранения</string>
-    <string name="screenrecord_cancel">Проблемы совместимости</string>
-    <string name="screenrecord_nosupport_record">Запись экрана пока не поддерживается на этом устройстве.</string>
-    <string name="screenshot_8k">8K скриншоты</string>
-    <string name="screenshot_8k_save_toast">8K скриншот сохранён в %s</string>
-    <string name="screenshot_8k_saving">Сохранение 8K скриншота…</string>
-    <string name="screenshot_8k_share">Отправить</string>
     <string name="search">Поиск</string>
     <string name="search_bar_hint">Поиск видео</string>
     <string name="search_bar_video_download_hint">Поиск или URL-адрес</string>
@@ -1886,14 +1629,11 @@ ID: %s
     <string name="shake_or_click_to_open_ad">Встряхните или нажмите для просмотра</string>
     <string name="shake_to_open_ad">Встряхните для просмотра</string>
     <string name="share">Поделиться</string>
-    <string name="share_fail">Произошла ошибка. Проверьте настройки сети и повторите попытку.</string>
-    <string name="share_success">Отправлено</string>
     <string name="share_text_before_link">Смотрите и загружайте видео бесплатно в Mi Видео</string>
     <string name="share_ugc_content">Обратите внимание на %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Присоединиться</string>
     <string name="share_ugc_waitting">Создание ссылки…</string>
     <string name="shorts_assemble_ad_recommend">Рекомендуемое</string>
-    <string name="show_options_label">Показать параметры</string>
     <string name="show_the_location">Тип уведомлений</string>
     <string name="sign_in">Выполняется вход</string>
     <string name="sign_in_google_account">Вход с аккаунтом Google</string>
@@ -1906,11 +1646,7 @@ ID: %s
     <string name="slide_or_click_to_open_ad">Проведите или нажмите для просмотра</string>
     <string name="slide_save_message">Создание видео…</string>
     <string name="slide_to_open_ad">Проведите для просмотра</string>
-    <string name="small_video_cancel_button">Отмена</string>
-    <string name="small_video_download_button">Загрузить</string>
     <string name="small_video_load_more_hint">Проведите вверх, чтобы увидеть больше видео</string>
-    <string name="small_video_snack_download_description">Загрузите SnackVideo, чтобы смотреть новые видео от избранных авторов</string>
-    <string name="small_video_snack_download_title">SnackVideo</string>
     <string name="small_video_tab_expose_hint">Нажмите для просмотра других видеороликов</string>
     <string name="sms_send_success">Отправлено</string>
     <string name="sns_access_token_expired_warning">Превышено время авторизации. Войдите в аккаунт заново.</string>
@@ -1972,7 +1708,6 @@ ID: %s
     <string name="start_download_tip">Добавлено в очередь. Проверьте прогресс в Профиль &gt; Загрузки.</string>
     <string name="storage_external_sdcard">SD-карта</string>
     <string name="storage_internal_sdcard">Хранилище</string>
-    <string name="storage_permission_denied">Отказано в доступе к хранилищу</string>
     <string name="str_donwload">Загрузить</string>
     <string name="str_downloading">Загрузка</string>
     <string name="str_retry_download">Ошибка загрузки, повторите попытку</string>
@@ -1990,45 +1725,27 @@ ID: %s
     <string name="subscribe_login_for_video">Войдите в свой аккаунт Google, чтобы просмотреть все подписки</string>
     <string name="subscribed">ПОДПИСАНЫ</string>
     <string name="subscriptions">Подписки</string>
-    <string name="subtitle_add_subtitle_failed">Не удалось добавить субтитры. Убедитесь, что файл не повреждён.</string>
-    <string name="subtitle_manual_add_sub">Субтитры успешно добавлены</string>
     <string name="subtitle_none">Нет субтитров</string>
-    <string name="subtitle_offset_normal">Не смещать субтитры</string>
-    <string name="subtitle_padding_default_hint">Настройка субтитров…</string>
     <string name="suggested_publishers">Рекомендованные аккаунты</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
     <string name="sure_to_logout">Выйти из системы?</string>
     <string name="switch_ratio_pause">Скорость воспроизведения нестабильна. Возврат к скорости по умолчанию.</string>
-    <string name="symbol_rmb">¥</string>
-    <string name="sync_favorites_limit">В избранном более 500 видео. Чтобы продолжить синхронизацию, нам придётся удалить несколько старых видео.</string>
     <string name="sync_favorites_limit_new">В избранном более %d видео. Чтобы продолжить синхронизацию, нам придётся удалить несколько старых видео.</string>
     <string name="sync_favorites_message">Синхронизировать избранное на этом устройстве с вашим аккаунтом? Более не доступные объекты будут удалены.</string>
     <string name="sync_favorites_title">Синхронизировать избранное</string>
-    <string name="system_error_info">Система занята. Повторите позже.</string>
     <string name="t_check_hide_file">Выберите объекты для скрытия</string>
     <string name="t_check_unhide_file">Выберите объекты для отображения</string>
-    <string name="t_downloading">Загрузка:</string>
     <string name="t_exit_app">Нажмите ещё раз для выхода.</string>
-    <string name="t_lv_check_delete_history">Выберите объекты для удаления</string>
-    <string name="t_lv_check_hide_file">Выберите видео для скрытия</string>
-    <string name="t_lv_check_unhide_file">Выберите видео для показа</string>
-    <string name="t_lv_downloading_new_version">Загрузка обновлений…</string>
-    <string name="t_lv_no_new_version">Нет обновлений</string>
-    <string name="t_lv_password_limit">Пароль должен содержать не менее 4 символов</string>
     <string name="t_lv_password_limit_new">Пароль должен содержать не менее %d символов</string>
     <string name="t_lv_password_null">Пароль не может быть пустым</string>
-    <string name="t_lv_password_wrong">Неверный пароль. Повторите попытку.</string>
     <string name="t_lv_search_null">Введите ключевые слова</string>
     <string name="t_lv_subtitle_padding_default_hint">Настройка субтитров…</string>
     <string name="t_network_error">Произошла ошибка сети.</string>
-    <string name="t_ovp_check_delete_favor">Выберите объекты для удаления</string>
-    <string name="t_password_limit">Пароль должен содержать не менее 4 символов</string>
     <string name="t_password_limit_new">Пароль должен содержать не менее %d символов</string>
     <string name="t_password_null">Пароль не может быть пустым</string>
     <string name="t_password_wrong">Неверный пароль. Повторите попытку.</string>
-    <string name="t_start_download">Начинается загрузка:</string>
     <string name="tab_name_download">Загрузки</string>
     <string name="tab_name_local">Локальные</string>
     <string name="tab_name_me">Профиль</string>
@@ -2036,7 +1753,6 @@ ID: %s
     <string name="tab_name_movies">Фильмы</string>
     <string name="tab_name_trending">Рекомендуемые</string>
     <string name="tab_name_video">Видео</string>
-    <string name="tab_name_vk">Видео VK</string>
     <string name="tab_playlist_local">Локальные</string>
     <string name="tab_playlist_online">Онлайн</string>
     <string name="talkback_ad_clicked">Реклама</string>
@@ -2046,6 +1762,10 @@ ID: %s
     <string name="talkback_voice_search">Голосовой поиск</string>
     <string name="target_sdk_version_30_upgrade_tips">Некоторые видео могут быть недоступны для просмотра из-за ограничений Android 11. Нажмите \"Файлы\", чтобы найти другие видео</string>
     <string name="temporary_not_available">Эта функция пока недоступна</string>
+<!-- ### FROM SOURCE -->
+    <string name="test_text_description">Qui asperiores quasi et omnis quidem et quam iure est repellendus repellat. Quo voluptatem ipsa sed aliquid libero ut pariatur similique eum facilis quia quo consequatur ipsam eos deserunt odio qui voluptas quod. Ut voluptatem earum ut odio facilis aut expedita possimus nam quia dolorum ut maxime recusandae At vitae nesciunt. At maiores voluptatem et laudantium recusandae sit perferendis eligendi 33 soluta optio in fugit pariatur aut magni molestiae et Quis veniam.</string>
+<!-- ### FROM SOURCE -->
+    <string name="test_text_title">Sit repudiandae aspernatur qui error autem.</string>
     <string name="text_default_ad_description">Реклама</string>
     <string name="text_default_ad_title">Возможно вам понравится</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
@@ -2098,8 +1818,6 @@ ID: %s
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
-    <string name="tip_auth_again">Из-за отсутствия соглашения с условиями Политики конфиденциальности стороннего поставщика контента, мы не можем отображать видеоконтент из Moments. Нажмите кнопку ниже, для согласия с Политикой конфиденциальности и доступа к этой функции.</string>
-    <string name="tip_author_click">Нажмите, чтобы просмотреть больше видео из этого аккаунта</string>
     <string name="tip_content_or">ИЛИ</string>
     <string name="tip_download_video_to_save_here">%d. Видео будет сохранено в ваших загрузках</string>
     <string name="tip_enter_the_website">%d. Откройте веб-сайт или приложение</string>
@@ -2110,25 +1828,20 @@ ID: %s
     <string name="tip_play_a_video">%d. Воспроизведите видео</string>
     <string name="tip_playlist_guide_hint_a">Смотрите видео из ваших плейлистов в Google</string>
     <string name="tip_playlist_guide_hint_b">Смотрите без рекламы видео из плейлистов YouTube</string>
-    <string name="tip_pop"><Data>Контент из Moments предоставляется Firework. Для улучшения впечатления от просмотра и получения релевантных рекомендаций по контенту, разрешите Firework собирать, обрабатывать и использовать вашу личную информацию в соответствии с Политикой конфиденциальности. Перед использованием этого сервиса прочтите и примите &lt;a href=\"%1$s\">Политику конфиденциальности Firework&lt;/a>.</Data></string>
     <string name="tip_storage_used_space" formatted="false">Использовано: %.2f из %.2f ГБ</string>
     <string name="tip_subscribe_guide_hint_a">Посмотрите авторов из ваших подписок в Google</string>
     <string name="tip_subscribe_guide_hint_b">Смотрите без рекламы новые видео с каналов YouTube, на которые вы подписаны</string>
     <string name="tip_tap_download_button">%d. Нажите \"Загрузить\"</string>
-    <string name="tip_topic_click">Нажмите, чтобы найти больше видео по этой теме</string>
     <string name="title_ab_loop">Повтор A-B</string>
     <string name="title_bookmarks">Закладки</string>
     <string name="title_continue_to_borwser">Открыть в браузере</string>
     <string name="title_download_setting">Настройки загрузки</string>
-    <string name="title_firework_recommend">Рекомендации Firework</string>
     <string name="title_history">История</string>
     <string name="title_mangotv_history_sub" formatted="false">%s (эпизод %d)</string>
     <string name="title_mangotv_subtitle_language">Язык субтитров</string>
     <string name="title_more_wonderful_smallvideo">Другие короткие видео</string>
-    <string name="title_publisher">Создатели</string>
     <string name="title_select_directory">Выбор папки</string>
     <string name="title_selected">Выбрано</string>
-    <string name="title_subscribe">Подписки</string>
     <string name="toast_bookmark_add_success">Закладка добавлена</string>
     <string name="toast_bookmark_already_created">Эта закладка уже существует</string>
     <string name="toast_bookmark_edit_success">Закладка изменена</string>
@@ -2147,7 +1860,6 @@ ID: %s
     <string name="toast_incentive_redeem_fail_prize_expired_error">Не удалось получить. Подождите немного и повторите попытку.</string>
     <string name="toast_incentive_redeem_fail_short_of_storage_2002">В настоящее время эта награда недоступна. Повторите позже.</string>
     <string name="toast_m3u8_download_path_tip">Нельзя изменить путь загрузки для контента в формате m3u8.</string>
-    <string name="toast_no_data">Недоступно на данный момент. Попробуйте позже.</string>
     <string name="toast_play_error_tip">Невозможно воспроизвести этот файл</string>
     <string name="toast_request_too_frequently">Подождите</string>
     <string name="toast_share_failed">Не удалось поделиться. Повторите позже.</string>
@@ -2155,57 +1867,212 @@ ID: %s
     <string name="tomorrow">Завтра</string>
     <string name="tool_bar_notification_setting_sub_title">Отображать панель инструментов в шторке уведомлений</string>
     <string name="tool_bar_notification_setting_title">Панель инструментов</string>
-    <string name="top_bar_game_desc">Откройте для себя новые игры</string>
-    <string name="top_bar_game_title">Игровой канал</string>
-    <string name="trending_history_continue_watching">Продолжить просмотр</string>
-    <string name="trending_scroll_load_more">Свайп вверх для просмотра других видео</string>
     <string name="try_look">Продолжить бесплатный просмотр</string>
     <string name="trylook_end">Бесплатный просмотр окончен</string>
     <string name="tt_ad_clicked_text">Нажатий на рекламу</string>
     <string name="tt_ad_close_text">Реклама закрыта</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_ad_data_error">Response data error</string>
     <string name="tt_ad_is_closed">Объявления закрыты</string>
     <string name="tt_ad_showed_text">Просмотрено роликов</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_adslot_empty">No request ad slot</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_adslot_id_error">Illegal ad slot id</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_adslot_size_empty">Empty ad slot size</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_adtype_not_match_rit">Ad slot id error</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_app_empty">No request app</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_banner_ad_load_image_error">Banner loading failed</string>
     <string name="tt_choose_language">ru</string>
     <string name="tt_click_to_replay">Нажмите, чтобы повторить</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_content_type">Http content type error</string>
     <string name="tt_count_down_view">Пропустить</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_access_method_pass">Illegal access method</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_ad_able_false_msg">Prohibit request ads by compliance, please check COPPA/CCPA/GDPR settings</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_ad_sec_false_msg">Security Check Failed</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_ad_type">Illegal ad type</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_adtype_differ">Ad type error</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_apk_sign_check_error">Illegal apk sha1 value</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_bidding_type">Placement is not bidding type, please check placement bidding type</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_code_adcount_error">Incorrect number of ad</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_code_click_event_error">Click event error</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_device_ip">Please check the country of the IP of the ad requesting device in service country</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_empty_content">IP is empty or ua is empty</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_image_size">Illegal image size</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_interstitial_version">The sdk version used for the new insertion style is too low. Please upgrade to version 3550 and above</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_media_id">Illegal media id</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_media_type">Illegal media type</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_new_register_limit">New ad slot exceeded daily request limit</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_origin_ad_error">Origin type error</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_package_name">Package name error</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_redirect">Redirect error</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_request_invalid">Invalid request</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_slot_id_app_id_differ">SlotId and AppId match error</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_splash_ad_type">Splash ad type error</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_union_os_error">Os type error</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_union_sdk_too_old">Sdk version too low</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_unknow">Unknown error</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_update_version">Please update to version 2310 or later</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_error_verify_reward">Reward verify error</string>
     <string name="tt_feedback_experience_text">Мы будем и дальше улучшать наши услуги.</string>
     <string name="tt_feedback_submit_text">Вы уже оставили отзыв! Пожалуйста, не отправляйте его повторно.</string>
     <string name="tt_feedback_thank_text">Спасибо за отзыв!</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_frequent_call_erroe">Ad requests are too frequent</string>
     <string name="tt_get_reward">Наград выдано</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_init_setting_config_not_complete">Setting initialization is not completed</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_insert_ad_load_image_error">Interstitial loading failed</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_lack_android_manifest_configuration">Initialization check error, please check the AndroidManifest</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_load_creative_icon_error">Icon loading failed</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_load_creative_icon_response_error">Icon loading error</string>
     <string name="tt_load_failed_text">Ошибка загрузки рекламного ролика</string>
     <string name="tt_load_success_text">Реклама успешно загружена</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_loading_language">Landing page loading……</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_logo_cn">AD</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_logo_en">AD</string>
     <string name="tt_msgPlayable">Завершите просмотр, чтобы получить награду</string>
     <string name="tt_negtiveBtnBtnText">Покинуть</string>
     <string name="tt_negtive_txt">Отмена</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_net_error">Network error</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_no_ad">No ad</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_no_ad_parse">Parsing data without ad</string>
     <string name="tt_no_thank_you">Нет, спасибо</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_parse_fail">Parsing error</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_playable_btn_play">experience now</string>
     <string name="tt_postiveBtnText">Продолжить</string>
     <string name="tt_postiveBtnTextPlayable">Продолжить просмотр</string>
     <string name="tt_postive_txt">ОК</string>
     <string name="tt_privacy_title">Политика конфиденциальности</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_reder_ad_load_timeout">Template loading timeout</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_render_diff_template_invalid">Template diff invalid</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_render_fail_meta_invalid">Template invalid</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_render_fail_template_parse_error">Template parsing error</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_render_fail_timeout">Render timeout</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_render_fail_unknown">Render failed unknown</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_render_main_template_invalid">Main template invalid</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_render_render_parse_error">Render parsing failed</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_request_body_error">Request entity is empty</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_request_pb_error">Http request pb error</string>
     <string name="tt_reward_full_skip">Пропустить через %1$s сек.</string>
     <string name="tt_reward_msg">Посмотрите видео целиком, чтобы получить награду</string>
     <string name="tt_reward_video_show_error">Ошибка отображения видео с наградой</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_ror_code_show_event_error">Show event error</string>
     <string name="tt_skip_ad_time_text">Можно пропустить через s %d сек.</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_slide_up_3d">wipe up</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_splash_ad_load_image_error">Splash loading failed</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_splash_brush_mask_hint">Jump to details page or third party application</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_splash_brush_mask_title">Slide or click to Polish</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_splash_cache_expired_error">Cache expired</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_splash_cache_parse_error">Cache parsing failed</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_splash_default_click_shake">Shake or click to learn more</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_splash_not_have_cache_error">No splash cache</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_splash_rock_text">Go to details page or third-party application</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_splash_rock_top_text">Shake or click the icon</string>
     <string name="tt_splash_skip_tv">3 сек. | Пропустить</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_splash_wriggle_text">Go to details page or third-party application</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_splash_wriggle_top_text">Twist the phone</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_splash_wriggle_top_text_style_17">Twist the phone or tap the icon</string>
     <string name="tt_sys_error">Системная ошибка</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_template_load_fail">main template load fail !</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_text_privacy_app_version">Version：V</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_text_privacy_development">Developer：</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_toast_ad_on_rewarded">Ad on rewarded</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_toast_later_download">Download later</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_toast_no_ad">No Ad to Show, Please Load Ad</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_toast_start_loading">Start Loading</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_toast_tiktok_ad_failed">TikTok Ad Failed to load, error code is:</string>
     <string name="tt_try_now">Попробуй</string>
     <string name="tt_txt_skip">Пропустить</string>
     <string name="tt_video_retry_des">Ошибка загрузки. Нажмите, чтобы попробовать снова</string>
+<!-- ### FROM SOURCE -->
+    <string name="tt_wap_empty">No request wap</string>
     <string name="tt_yes_i_agree">Принимаю</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
-    <string name="txt_cancel_download">ОТМЕНИТЬ ПЕРЕДАЧУ</string>
-    <string name="txt_download_complete">Загрузка завершена</string>
-    <string name="txt_watch_now">ПОСМОТРЕТЬ</string>
     <string name="type_content">Контент</string>
     <string name="type_issue">Проблема</string>
     <string name="type_suggestion">Рекомендация</string>
     <string name="ugc_no_net">Ошибка подключения к сети. Проверьте настройки и повторите попытку.</string>
     <string name="ui_common_title_back">Назад</string>
-    <string name="ui_log_tip">Нажмите на эту область для скрытия, нажмите и удерживайте для очистки старых журналов. Перетаскивайте журналы вручную.</string>
     <string name="unknow">Неизвестно</string>
-    <string name="unknown_error_info">Неизвестная ошибка</string>
     <string name="update">Обновить</string>
     <string name="update_email_address_dialog_message">Перед изменением электронной почты для восстановления необходимо подтвердить вашу личность.</string>
     <string name="update_email_address_dialog_title">Обновить адрес электронной почты для восстановления</string>
@@ -2217,34 +2084,22 @@ ID: %s
     <string name="user_id_hint">Эл. почта/Номер телефона/ID аккаунта Xiaomi</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
-    <string name="v_agree">Принимаю</string>
     <string name="v_app_name">Mi Видео</string>
     <string name="v_cancel">Отмена</string>
-    <string name="v_canceled">Отменено</string>
     <string name="v_click_to_retry">Повторить</string>
     <string name="v_code_title">Введите код подтверждения</string>
     <string name="v_confirm_hide_videos">Скрыть выбранные объекты?</string>
     <string name="v_confirm_unhide_videos">Отображать выбранные объекты?</string>
-    <string name="v_data_empty">Нет объектов</string>
-    <string name="v_exit">Выход</string>
-    <string name="v_finish">Готово</string>
     <string name="v_input_password">Введите пароль</string>
-    <string name="v_login">Войти</string>
     <string name="v_menu_hide">Скрыть</string>
     <string name="v_more">Ещё</string>
-    <string name="v_network_failed">Произошла ошибка сети.</string>
     <string name="v_next">Далее</string>
     <string name="v_ok">ОК</string>
     <string name="v_online_play">Трансляция онлайн</string>
     <string name="v_pw_need_update_app">Обновите Mi Видео для использования всех функций</string>
     <string name="v_save">Сохранить</string>
     <string name="v_search">Поиск</string>
-    <string name="v_selectall">Выбрать все</string>
-    <string name="v_selectnull">Снять выбор</string>
     <string name="v_set_password">Установить пароль</string>
-    <string name="v_symbol_rmb">¥</string>
-    <string name="v_txt_login">Войдите в систему для синхронизации избранного</string>
-    <string name="v_update">Обновить</string>
     <string name="version_update_install_apk_fail">Ошибка установки</string>
     <string name="video_already_download_tip">Файл уже загружен</string>
     <string name="video_download_btn">Загрузки</string>
@@ -2281,7 +2136,6 @@ ID: %s
     <string name="vp_VideoView_error_button">ОК</string>
     <string name="vp_VideoView_error_text_unknown">Произошла ошибка</string>
     <string name="vp_VideoView_error_title">Неизвестная ошибка</string>
-    <string name="vp_app_name">Видеоплеер</string>
     <string name="vp_copyright_unsported_audio">Невозможно воспроизвести звуковую дорожку видео из-за ограничений авторских прав</string>
     <string name="vp_copyright_unsported_video">Невозможно воспроизвести видео из-за ограничений авторских прав</string>
     <string name="vp_hardware_unsported">Видео не может быть воспроизведено на этом устройстве.</string>
@@ -2291,14 +2145,9 @@ ID: %s
     <string name="vp_upcoming_title">Далее</string>
     <string name="watermark_label_prefix">AdMob –</string>
     <string name="website_button_add_bookmarks">Добавить закладку</string>
-    <string name="wechat_application_id"/>
-    <string name="wechat_scope"/>
-    <string name="wechat_state"/>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
-    <string name="weibo_application_id"/>
-    <string name="weibo_redirect_uri"/>
     <string name="welcome_tip_content1">Мощный локальный видеоплеер</string>
     <string name="welcome_tip_content2">Миллионы видео для просмотра онлайн или загрузки</string>
     <string name="welcome_tip_explore_more">Ознакомиться</string>
@@ -2316,24 +2165,12 @@ ID: %s
     <string name="widget_more_channel_click">Просмотр ТВ-каналов</string>
     <string name="widget_trending_click">Просмотр популярных сегодня видео</string>
     <string name="widget_trending_today">Популярное сегодня</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$s Б</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">Не удалось подключиться к диспетчеру загрузки, проверьте его состояние в разделе «Управление приложениями».</string>
-    <string name="xiaomi_update_sdk_dialog_message">Доступна версия %1$s
-Размер: %2$s</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">Доступна версия %1$s
-Размер инкрементного обновления: %2$s</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s обновление!</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Накопитель недоступен, проверьте SD-карту.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s КБ</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$s МБ</string>
     <string name="yandex_ads_internal_after_timer_value">сек.</string>
     <string name="yandex_ads_internal_before_timer_value">До получения награды осталось</string>
     <string name="yandex_ads_internal_go">Перейти</string>
     <string name="yandex_ads_internal_install">Установить</string>
     <string name="yandex_ads_internal_install_from_google_play">Установить из Google Play</string>
     <string name="yandex_ads_internal_instream_ad_position">%1$d из %2$d</string>
-    <string name="yandex_ads_internal_instream_advertiser_social">Социальная реклама</string>
-    <string name="yandex_ads_internal_instream_advertiser_yandex">Реклама</string>
     <string name="yandex_ads_internal_instream_call_to_action">Перейти ➔</string>
     <string name="yandex_ads_internal_instream_skip">Пропустить</string>
     <string name="yandex_ads_internal_instream_sponsored_social">СОЦИАЛЬНАЯ РЕКЛАМА</string>
@@ -2357,7 +2194,6 @@ ID: %s
     <string name="ytb_account">Аккаунты</string>
     <string name="ytb_author_video">Видео</string>
     <string name="ytb_login">Войти</string>
-    <string name="ytb_login_btn">Войти</string>
     <string name="ytb_login_hint">Войдите для просмотра подписок на YouTube</string>
     <string name="ytb_logout">Выход</string>
     <string name="ytb_play_next">Следующее</string>

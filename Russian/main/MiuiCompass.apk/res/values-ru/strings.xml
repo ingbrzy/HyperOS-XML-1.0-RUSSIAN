@@ -40,11 +40,9 @@
     <string name="altitude_uncalibrate_refresh">Повторить</string>
     <string name="altitude_uncalibrate_tip">Ошибка калибровки</string>
     <string name="altitude_unit">м</string>
-    <string name="angle">%.0f</string>
     <string name="app_description_content">Приложение используется для навигации и ориентирования. Перед удалением приложения убедитесь, что сможете обойтись без этих функций.</string>
     <string name="app_description_title">О приложении</string>
     <string name="app_label">Компас</string>
-    <string name="app_name">Настройка</string>
     <string name="calibrate_failed">Калибровка высоты не удалась</string>
     <string name="calibrate_failed_no_location">Калибровка не удалась. Ошибка геолокации.</string>
     <string name="calibrate_failed_timeout">Калибровка не удалась. Ошибка сервера.</string>
@@ -66,7 +64,6 @@
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="dialog_body_no_network">Подключитесь к Wi-Fi или включите мобильный интернет.</string>
     <string name="dialog_body_no_network_china">Подключитесь к Wi-Fi или включите мобильный интернет.</string>
-    <string name="dialog_body_no_network_global">Подключитесь к Wi-Fi или включите мобильный интернет.</string>
     <string name="dialog_calibrat_altitude">Калибровка…</string>
     <string name="dialog_title_no_network">Не удалось подключиться к сети</string>
     <string name="direction_east">В</string>

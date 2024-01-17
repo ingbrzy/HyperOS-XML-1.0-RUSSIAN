@@ -2,7 +2,6 @@
 <resources>
     <string name="action_call">Вызов: %s</string>
     <string name="action_text">Отправка SMS на номер %s</string>
-    <string name="app_name">Теги</string>
     <string name="button_done">Готово</string>
     <string name="call_notification_answer_action">Ответить</string>
     <string name="call_notification_answer_video_action">Видео</string>

@@ -69,6 +69,8 @@
     <string name="ad_in_downloading">Загрузка</string>
     <string name="ad_in_installing">Установка</string>
     <string name="ad_installing">Установка…</string>
+<!-- ### FROM SOURCE -->
+    <string name="ad_sub_textview_divider">m</string>
     <string name="ad_tag_text_1">Популярное</string>
     <string name="ad_tag_text_2">Тренд</string>
     <string name="add">Добавить</string>
@@ -80,7 +82,6 @@
     <string name="allow">Предоставлено</string>
     <string name="already_latest_version">Обновлений нет</string>
     <string name="already_newest_version">Обновление не требуется</string>
-    <string name="am">AM</string>
     <string name="anonymous_resource_link_error">Не удалось добавить</string>
     <string name="anonymous_resource_link_hint">Некоторые ресурсы не были добавлены в аккаунт. Добавить сейчас?</string>
     <string name="anonymous_resource_link_now">Добавить</string>
@@ -99,7 +100,6 @@
     <string name="app_ad_title">Ежедневные рекомендации</string>
     <string name="app_disable_transparent_wallpaper">Не использовать прозрачные обои</string>
     <string name="app_enable_transparent_wallpaper">Включить прозрачные обои</string>
-    <string name="app_name">Темы</string>
     <string name="app_name_pad">Персонализация</string>
     <string name="application_list_permission_desc">Приложения, совместимые с прозрачными обоями</string>
     <string name="application_notify_title">Внимание</string>
@@ -188,7 +188,6 @@
     <string name="community_cta_dialog_des">Сторонние темы теперь поддерживают виджет Xiaomi Community. Разрешите приложению Темы доступ к вашему идентификатору аккаунта Xiaomi и статусам Xiaomi Community для возможности их просмотра здесь.</string>
     <string name="community_cta_dialog_ok">Разрешить</string>
     <string name="community_cta_dialog_title">Предоставьте разрешения</string>
-    <string name="community_entrance_summary">Поиск тематического контента в Xiaomi Community</string>
     <string name="community_entrance_title">Виджет часов Xiaomi Community</string>
     <string name="community_message_trigger_disabled">Откл.</string>
     <string name="community_message_trigger_triggered">Вкл.</string>
@@ -215,9 +214,6 @@
     <string name="custom_storage_permission_desc">Разрешите доступ к хранилищу для настройки персонализации и сохранения загруженных компонент. Разрешение можно предоставить в Настройки > Конфиденциальность.</string>
     <string name="custom_storage_permission_desc_above_eleven">Разрешите доступ к хранилищу для настройки персонализации. Разрешение можно предоставить в Настройки > Конфиденциальность.</string>
     <string name="custom_widget">Рекомендуемые виджеты</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="de_apply_icons">Иконки</string>
@@ -226,7 +222,6 @@
     <string name="de_author_following">В подписках</string>
     <string name="de_component_aod_author">Автор</string>
     <string name="de_component_author">Автор</string>
-    <string name="de_component_font_author">Автор</string>
     <string name="de_component_tags">Теги</string>
     <string name="de_icon_text_comment">Комментарий</string>
     <string name="de_icon_text_discuss">Обсудить</string>
@@ -317,7 +312,6 @@
     <string name="dynamic_large_icon_not_support_current_type">%s не поддерживается для этой динамической иконки</string>
     <string name="dynamic_video_wallpaper">24-часовые обои</string>
     <string name="early_morning">Утро</string>
-    <string name="empty"/>
     <string name="enable_all_free_mode">Загрузить</string>
     <string name="enable_aod_list">Включить Активный экран</string>
     <string name="enable_transparent_wallpaper">Использовать прозрачные обои</string>
@@ -354,7 +348,6 @@
     <string name="exo_controls_seek_bar_description">Прогресс воспроизведения</string>
     <string name="exo_controls_settings_description">Настройки</string>
     <string name="exo_controls_show">Показать элементы управления</string>
-    <string name="exo_controls_shuffle_description">Перемешать</string>
     <string name="exo_controls_shuffle_off_description">Отключить перемешивание</string>
     <string name="exo_controls_shuffle_on_description">Включить перемешивание</string>
     <string name="exo_controls_stop_description">Остановить</string>
@@ -369,7 +362,6 @@
     <string name="exo_download_paused_for_network">Ожидание сети…</string>
     <string name="exo_download_paused_for_wifi">Ожидание WiFi…</string>
     <string name="exo_download_removing">Удаление загрузок…</string>
-    <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_mono">Моно</string>
     <string name="exo_track_role_alternate">Альтернативный</string>
     <string name="exo_track_role_closed_captions">Субтитры</string>
@@ -399,7 +391,6 @@
     <string name="find_more_wallpapers">Другие обои</string>
     <string name="first_page_recommend">Рекомендуемые</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
     <string name="fmt_date_numeric_year_month">MM.yyyy</string>
@@ -455,12 +446,24 @@
     <string name="format_full_month_of_year">MMMM</string>
     <string name="format_hour_minute">%1$s:%2$s</string>
     <string name="format_lunar_calendar_month_day_desc">Дата по китайскому традиционному календарю: %s</string>
+<!-- ### FROM SOURCE -->
+    <string name="format_lunar_calendar_solar_terms">%1$s %2$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="format_minute_desc">%s</string>
+<!-- ### FROM SOURCE -->
+    <string name="format_month_and_day">%1$s/%2$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="format_month_day_desc">%1$s %2$s</string>
     <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, дата по китайскому традиционному календарю: %3$s, праздники: %4$s</string>
     <string name="format_month_day_style1">d.MMM</string>
     <string name="format_month_day_style2">d.M</string>
     <string name="format_month_day_week">EEE, dd MMM</string>
+<!-- ### FROM SOURCE -->
+    <string name="format_month_day_week_desc">%1$s %2$s, %3$s</string>
     <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, дата по китайскому традиционному календарю: %4$s</string>
     <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, праздники: %4$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="format_number_hour_desc">%s</string>
     <string name="format_solar_lunar_calendar_month_day_desc">Праздники: %1$s, дата по китайскому традиционному календарю: %2$s</string>
     <string name="format_week_day_style1">EE d</string>
     <string name="format_week_day_style1_desc">%1$s, день месяца: %2$s</string>
@@ -480,16 +483,23 @@
     <string name="has_mamual_hide_theme">Скрытые</string>
     <string name="has_mamual_hide_wallpaper">Скрытые</string>
     <string name="head_portraits">Фото профиля</string>
+<!-- ### FROM SOURCE -->
+    <string name="health_chart_calories_schedule_format_desc">%1$s, %2$s</string>
     <string name="health_chart_calories_unit">ккал</string>
     <string name="health_chart_sleep_time_format">%1$s ч. %2$s мин.</string>
     <string name="health_chart_sleep_time_good">достаточно</string>
     <string name="health_chart_sleep_time_low">недостаточно</string>
     <string name="health_chart_sleep_time_normal">хорошее</string>
     <string name="health_chart_sleep_time_very_good">отличное</string>
+<!-- ### FROM SOURCE -->
+    <string name="health_chart_sport_time_schedule_format_desc">%1$s, %2$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="health_chart_stand_schedule_format_desc">%1$s, %2$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="health_chart_step_count_schedule_format_desc">%1$s, %2$s</string>
     <string name="health_chart_step_count_unit">Шаги</string>
     <string name="health_no_data">Нет данных</string>
     <string name="health_sleep_desc">Длительность: %1$s, качество сна: %2$s</string>
-    <string name="hide_free">Скрыть бесплатные %1$s</string>
     <string name="hide_free_aod">Не показывать бесплатные темы</string>
     <string name="hide_free_font">Скрыть бесплатные шрифты</string>
     <string name="hide_free_icons">Не показывать бесплатные иконки</string>
@@ -514,6 +524,8 @@
     <string name="home_apply_success">Обои рабочего стола установлены</string>
     <string name="home_daily">Яркие моменты</string>
     <string name="humidity_format">Влажность: %s</string>
+<!-- ### FROM SOURCE -->
+    <string name="humidity_format_with_unit">%s</string>
     <string name="i_know">Понятно</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="icon_pad_setting_find_more_title">Онлайн</string>
@@ -608,7 +620,6 @@
     <string name="lockstyle_personal_settings">Настройки</string>
     <string name="login_theme">Войти в Темы</string>
     <string name="long_click_can_hide_resource">Удерживайте элементы для скрытия</string>
-    <string name="loop_wallpaper_is_here">Новые функции</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Выберите AM или PM</string>
     <string name="material_hour_selection">Часы</string>
@@ -789,7 +800,6 @@ mm"</string>
     <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Начало – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Окончание</string>
-    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Диапазон дат</string>
     <string name="mtrl_picker_range_header_unselected">Начало – Окончание</string>
     <string name="mtrl_picker_save">Сохранить</string>
@@ -811,7 +821,6 @@ mm"</string>
     <string name="need_to_open_application_permission_desc">Чтобы узнать, какие приложения совместимы с прозрачными обоями, разрешите Темам доступ к списку приложений на устройстве</string>
     <string name="need_to_open_permission">Предоставьте разрешения</string>
     <string name="need_to_open_storage_permission_desc">Для возможности загружать и использовать компоненты в Tемах, разрешите доступ к хранилищу</string>
-    <string name="network_exception">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="new_resource_price_unit"> Mi</string>
     <string name="night">Вечер</string>
     <string name="no_cta_agreed">GetApps не имеет CTA-разрешений</string>
@@ -825,8 +834,6 @@ mm"</string>
     <string name="no_net_work_connection">Проверьте настройки сети и повторите попытку.</string>
     <string name="no_network_desc">Не удалось подключиться к сети</string>
     <string name="no_network_please_retry">Проверьте настройки сети и повторите попытку</string>
-    <string name="no_used_title">не используется</string>
-    <string name="no_used_wallpaper">не используется</string>
     <string name="no_wallpaper">Ничего нет</string>
     <string name="noon">Полдень</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
@@ -888,7 +895,6 @@ mm"</string>
     <string name="phone_log_in_theme">Войти в Темы</string>
     <string name="phone_log_in_theme_detail"><Data>Я принимаю &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a>&lt;/font> и &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>&lt;/font> приложения Темы, а также &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a>&lt;/font> аккаунта Xiaomi (для входа с использованием системного аккаунта).</Data></string>
     <string name="playing_ringtone">Воспроизведение</string>
-    <string name="pm">PM</string>
     <string name="pref_lockscreen_magazine_summary">Замена обоев на слайд-шоу изображений из различных категорий</string>
     <string name="pref_privacy_policy">Политика конфиденциальности</string>
     <string name="pref_read_write_function_detail">Изменение настроек персонализации и сохранение загруженных компонентов</string>
@@ -1023,9 +1029,6 @@ mm"</string>
     <string name="pull_down_view_refresh">Обновить</string>
     <string name="pull_down_view_title">Что нового</string>
     <string name="purchased">Заказы</string>
-    <string name="purchased_list">Купленные</string>
-    <string name="purchased_list_current">Оптимизированные</string>
-    <string name="purchased_list_legacy">Устаревшие</string>
     <string name="rain_probability_desc">Вероятность осадков: %s</string>
     <string name="read_and_agree_account_privacy"><Data>Я принимаю &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Пользовательское cоглашение&lt;/a>&lt;/font> и &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a>&lt;/font> аккаунта Xiaomi.</Data></string>
     <string name="recently_used">Недавние</string>
@@ -1069,7 +1072,6 @@ mm"</string>
     <string name="resource_comment_average_score">Оценки</string>
     <string name="resource_comment_bad_comments">Плохие</string>
     <string name="resource_comment_current_version">Текущая версия</string>
-    <string name="resource_comment_date">%1$02d-%2$02d</string>
     <string name="resource_comment_detainment_fail">Отменить</string>
     <string name="resource_comment_detainment_msg">Вы ещё не отправили отзыв. Отменить изменения?</string>
     <string name="resource_comment_detainment_success">Остаться</string>
@@ -1152,8 +1154,6 @@ mm"</string>
     <string name="resource_expand_full_text">Развернуть</string>
     <string name="resource_failed_to_load_list">Не удалось загрузить темы</string>
     <string name="resource_free_download">Скачать бесплатно</string>
-    <string name="resource_free_trial_15_days">Пробная версия на 15 дней</string>
-    <string name="resource_free_use_last_one_day">Пробный период заканчивается завтра</string>
     <string name="resource_get_auth_checking">Проверка…</string>
     <string name="resource_get_auth_exceed_max_limit_tips">У вас уже есть 10 устройств, авторизованных на этом аккаунте</string>
     <string name="resource_get_auth_exceed_max_limit_tips_pad">Вы можете использовать персонализацию с этим аккаунтом не более чем на 10 устройствах</string>
@@ -1184,7 +1184,6 @@ mm"</string>
     <string name="resource_no_result">Ничего не найдено</string>
     <string name="resource_notification_default">Уведомления</string>
     <string name="resource_on_trial">Пробная версия: %1$s</string>
-    <string name="resource_on_use">Используется: %1$s</string>
     <string name="resource_online">Онлайн</string>
     <string name="resource_online_picker">Выбор онлайн</string>
     <string name="resource_pack_confirm">Куплено компонентов: %1$d. Выгоднее купить комплект целиком.</string>
@@ -1247,11 +1246,8 @@ mm"</string>
     <string name="resource_title_rank">Лучшие</string>
     <string name="resource_title_select_ringtone">Выбор на устройстве</string>
     <string name="resource_title_subject">Рекомендуемые</string>
-    <string name="resource_trial_15_days_end_title">15-дневный пробный период окончен</string>
-    <string name="resource_trial_15_days_immediately">Пробная версия на 15 дней сейчас</string>
     <string name="resource_trial_days">(пробная версия: %1$d д.)</string>
     <string name="resource_trial_days_hours">(пробная версия: %1$d д. %2$d ч.)</string>
-    <string name="resource_trial_end_change">Изменить</string>
     <string name="resource_trial_end_get_mibi">Получение Mi Credits</string>
     <string name="resource_trial_end_jump_hint">Перенаправление…</string>
     <string name="resource_trial_end_message">Пробный период для %1$s окончен. Приобретите ресурс, если он вам понравился.</string>
@@ -1307,15 +1303,12 @@ mm"</string>
     <string name="send">Отправить</string>
     <string name="server_internal_error">Ошибка сервера. Повторите позже.</string>
     <string name="server_message">Горячая линия: 400–100–5678</string>
-    <string name="service_btn_text_know">Ознакомиться</string>
-    <string name="service_btn_text_try">Попробовать</string>
     <string name="set_as_colorring">Установить рингтон</string>
     <string name="set_calling">Установить</string>
     <string name="set_color_ring_back_tone">Сигнал вызова</string>
     <string name="set_home_wallpaper_failed">"%s. Не удалось применить обои."</string>
     <string name="set_wallpaper_group_success">Обои \"%1$s\" применены</string>
     <string name="setting_font_online">Онлайн шрифты</string>
-    <string name="settings">Настройки</string>
     <string name="settings_search_keyword_font_free">Бесплатные шрифты</string>
     <string name="settings_search_keyword_font_home">Шрифты рабочего стола</string>
     <string name="settings_search_keyword_font_input">Шрифты ввода</string>
@@ -1340,7 +1333,6 @@ mm"</string>
     <string name="share_theme_content_text">"Вы можете скачать отличную тему \"%1$s\" здесь: %2$s. От "</string>
     <string name="share_to_qq">QQ</string>
     <string name="share_to_weibo">Weibo</string>
-    <string name="share_vipaccount">Xiaomi Community</string>
     <string name="share_wallpaper_content_text">"Вы можете скачать отличные обои \"%1$s\" здесь: %2$s. От "</string>
     <string name="shortcut_add">Добавить</string>
     <string name="shortcut_cancel">Нет, спасибо</string>
@@ -1669,7 +1661,6 @@ mm"</string>
     <string name="using_theme_next_automatic_update">Автообновление тем</string>
     <string name="using_theme_next_automatic_update_summary">Автоматически обновлять загруженные темы через Wi-Fi</string>
     <string name="using_theme_show_ad">Получать рекомендации</string>
-    <string name="using_wallpaper_personal">Персонализированные обои</string>
     <string name="uvi_format">УФИ %1$s %2$s</string>
     <string name="uvi_format_desc">УФ-индекс: %1$s, %2$s</string>
     <string name="v7_preference_off">ОТКЛ.</string>

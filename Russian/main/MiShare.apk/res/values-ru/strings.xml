@@ -30,7 +30,6 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
     <string name="agree_desc">Предоставьте обязательные разрешения, перечисленные выше.</string>
-    <string name="app_name">Mi Share</string>
     <string name="asus">Asus</string>
     <string name="asus_phone">Asus</string>
     <string name="blackshark">Black Shark</string>
@@ -53,7 +52,6 @@
     <string name="cancel_task">Отмена</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
-    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
     <string name="complete">Готово</string>
     <string name="confirm_cancel_receive">Если вы отмените передачу, файлы не будут приняты. Отменить передачу?</string>
     <string name="confirm_cancel_task_files">Отменить передачу файлов %1$s?</string>
@@ -370,7 +368,6 @@
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="some_files_receive_completed">Просмотр полученных файлов в %1$s</string>
-    <string name="somepc_send_much_file_to_you_files">%1$s отправил вам более 200 файлов…</string>
     <string name="somepc_send_muchfile_files">%1$s отправил вам более %2$d файлов…</string>
     <string name="start_advertise">НАЧАТЬ ПУБЛИКАЦИЮ</string>
     <string name="start_receive_much_files_from_pc">Получено более %2$d файлов от %1$s…</string>

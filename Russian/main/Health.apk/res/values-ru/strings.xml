@@ -86,8 +86,6 @@
     <string name="altitude">Высота</string>
     <string name="altitude_pressure_hint">*Рассчитано по давлению воздуха, может быть погрешность</string>
     <string name="altitude_range">Высота</string>
-    <string name="am">AM</string>
-    <string name="app_name">plugin.health.analyze</string>
     <string name="app_setting">Приложения</string>
     <string name="audio_permission_dialog_desc">Разрешение на запись звука было отклонено, предоставьте его</string>
     <string name="audio_permission_dialog_title">Запись звука</string>
@@ -227,7 +225,6 @@
     <string name="climbing">Восхождение</string>
     <string name="close">Отключить</string>
     <string name="close_once">Отключить однократно</string>
-    <string name="close_stand_detection_tip">Напоминание о разминке отключено, не забывайте двигаться и записывать</string>
     <string name="close_stand_notice_and_detection_tip">Обнаружение активности и напоминания отключены</string>
     <string name="close_stand_notice_tip">Обнаружение активности отключено, рекомендуем включить автоматическое обнаружение после запуска функции</string>
     <string name="collapse">Скрыть</string>
@@ -307,9 +304,6 @@
     <string name="date_format_y_m_d_h_m_s">dd.MM.yyyy HH:mm:ss</string>
     <string name="date_format_y_m_d_notranslate">dd.MM.yyyy</string>
     <string name="date_format_yyyy_m_d_h_m">dd.MM.yyyy HH:mm</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="date_week_index">"yyyy, ww 'неделя'"</string>
@@ -418,7 +412,6 @@ ID:%s
     <string name="dialog_user_agreement_purpose">Добро пожаловать в приложение Здоровье! Это приложение можно использовать для подсчёта шагов, отслеживания сна, менструального цикла, веса, синхронизации статистики с облаком.</string>
     <string name="dialog_user_agreement_purpose2">Добро пожаловать в приложение Здоровье! Это приложение можно использовать для подсчёта шагов, отслеживания сна, менструального цикла, веса и многого другого.</string>
     <string name="diastolic_pressure">Диастолическое</string>
-    <string name="disable">Отключить</string>
     <string name="discard_update">Нет, спасибо</string>
     <string name="divider">/</string>
     <string name="divider_format1">%1$s/%2$s</string>
@@ -446,9 +439,7 @@ ID:%s
     <string name="emergency_contact">Экстренный контакт</string>
     <string name="emergency_lock_show_subtitle">Мед. паспорт экстренной помощи можно посмотреть на экране блокировки, нажав \"SOS\", затем \"Мед. паспорт\</string>
     <string name="emergency_lock_show_title">Доступ на экране блокировки</string>
-    <string name="empty" />
     <string name="empty_data">-</string>
-    <string name="enable">Включить</string>
     <string name="enable_go_now">Включить</string>
     <string name="enable_not_now">Не сейчас</string>
     <string name="enable_right_now">Отключить</string>
@@ -502,7 +493,6 @@ ID:%s
 Если ваше устройство указано здесь, вы можете добавить источники данных вручную в меню Источники данных > Добавить источник данных."</string>
     <string name="exercise_question_answer_two">2. Иногда датчики движения могут не подключаться. Перезагрузите телефон и проверьте, нормально ли работает отслеживание в данных случаях.</string>
     <string name="exercise_question_title">Почему вы не видите свою статистику?</string>
-    <string name="exercise_recog_confirm" formatted="false">%3s между %1s-%2s?</string>
     <string name="exercise_recog_confirm_ridding">Вы ездили на велосипеде с %1$s до %2$s?</string>
     <string name="exercise_recog_confirm_run">Вы бегали с %1$s до %2$s?</string>
     <string name="exercise_recog_confirm_stair_climb">Вы поднимались по ступеням с %1$s до %2$s?</string>
@@ -554,7 +544,6 @@ ID:%s
     <string name="finished_rate">Завершено %1$d%%</string>
     <string name="first_aid_card">Мед. паспорт</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
     <string name="fmt_date_numeric_year_month">MM.yyyy</string>
@@ -655,7 +644,6 @@ ID:%s
     <string name="hr_detect_fps_jitter">Не удалось измерить пульс. Попробуйте снова.</string>
     <string name="hr_detect_paused">Приостановлено</string>
     <string name="hr_detect_principle_desc_1">Вы можете измерить пульс, прикрыв пальцем вспышку и камеру телефона. Вспышка камеры используется в качестве источника света, камера детектирует изменения в кровотоке. Частота пульса определяется на основе анализа повторяющихся паттернов в кровотоке.</string>
-    <string name="hr_detect_principle_desc_2">Тесты показывают, что погрешность этого метода составляет около 2 ударов в минуту.</string>
     <string name="hr_detect_principle_desc_3">Обратите внимание, что такие факторы, как температура, оттенок кожи или движение, могут привести к неточностям в измерении. Выполните несколько измерений, чтобы убедиться, что текущие показания точны. Результаты предназначены только для справки, данный метод измерения не может заменить профессиональное медицинское оборудование.</string>
     <string name="hr_detect_principle_title">Измерение пульса</string>
     <string name="hr_detect_report_title">Отчёт</string>
@@ -667,7 +655,6 @@ ID:%s
     <string name="hr_detect_state_reseting_desc">Измерение во время отдыха или сразу после сна</string>
     <string name="hr_disable_in_split_screen">Измерение пульса недоступно при разделении экрана</string>
     <string name="hr_disturb_detect">Измерение прервано</string>
-    <string name="hr_disturb_detect_desc">Начать сначала. Не шевелите пальцем во время измерения.</string>
     <string name="hr_finger_permission_desc">Xiaomi Health требуется доступ к сканеру отпечатков пальцев для измерения пульса. Разрешить?</string>
     <string name="hr_fp_area">Сканер отпечатков</string>
     <string name="hr_fp_detect_desc">При измерениях используется свет в области сканера отпечатков пальцев под экраном. Частота пульса определяется на основе анализа повторяющихся паттернов в кровотоке.</string>
@@ -690,7 +677,6 @@ ID:%s
     <string name="hr_pre_detect">"Полностью накройте вспышку и камеру
 одним пальцем"</string>
     <string name="hr_pre_detect_finger">Проверка…</string>
-    <string name="hr_pre_detect_finger_desc">Проверка, полностью ли закрыты вспышка и камера. Не шевелите пальцем.</string>
     <string name="hr_re_detect_title">Начать сначала</string>
     <string name="hr_report_active_desc">Измерение пульса сразу после тренировок может помочь вам оценивать и корректировать их. Тренировки разной интенсивности имеют свои оптимальные зоны пульса. Слишком высокий пульс может негативно сказываться на самочувствии, приводить к головокружению, стеснению в груди или другим недомоганиям. Слишком низкий пульс может говорить о низкой эффективности тренировки.</string>
     <string name="hr_report_active_high_desc">Высокая интенсивность. Сердце и легкие работают достаточно напряженно.</string>
@@ -1011,14 +997,11 @@ ID:%s
     <string name="morning">"AM "</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
-    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_cancel">Отмена</string>
     <string name="mtrl_picker_confirm">ОК</string>
     <string name="mtrl_picker_date_format">d MMM yyyy</string>
-    <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Выбор даты</string>
     <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
-    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
     <string name="mtrl_picker_range_header_title">Диапазон дат</string>
     <string name="mtrl_picker_range_header_unselected">Начало - Окончание</string>
     <string name="muscle_rate">Мышцы</string>
@@ -1111,7 +1094,6 @@ ID:%s
     <string name="play">Воспроизведение</string>
     <string name="play_button_content_description">Воспроизведение</string>
     <string name="please_choose">Выберите</string>
-    <string name="pm">PM</string>
     <string name="pool_swimming">Бассейн</string>
     <string name="predict_menstruation">Ожидаемые</string>
     <string name="preference_about">О приложении</string>
@@ -1309,7 +1291,6 @@ ID:%s
     <string name="sleep_deep_light_analysis">Легкий сон и глубокий сон</string>
     <string name="sleep_deep_light_close_tip">Анализ глубокого сна выключен</string>
     <string name="sleep_deep_light_no_data">Пока нет данных</string>
-    <string name="sleep_deep_light_no_data_improvement">Не удалось обнаружить фазы сна. Мы работаем над улучшением алгоритмов. Оставайтесь с нами!</string>
     <string name="sleep_detection_enable">Анализ цикла сна</string>
     <string name="sleep_detection_feedback">Обратная связь</string>
     <string name="sleep_detection_guide_four_description">Отслеживание сна будет потреблять около 1%% заряда батареи в день.</string>
@@ -1357,7 +1338,6 @@ ID:%s
     <string name="sleep_goal_not_compliance">Недостаток сна</string>
     <string name="sleep_goal_not_upto_standard">Недостаток сна</string>
     <string name="sleep_health_model_hint">Рекомендации по оценке сна, предоставленные Miao Health</string>
-    <string name="sleep_incomplete_deep_light_data_tip">Почему информация о свете и глубоком сне неполна?</string>
     <string name="sleep_keep_hard">Проблемы с засыпанием</string>
     <string name="sleep_light">Легкий сон</string>
     <string name="sleep_management_content1">Установите напоминания о том, чтобы вовремя ложиться спать и вставать</string>
@@ -1475,14 +1455,6 @@ ID:%s
     <string name="solar_term_white_dews">Белые росы</string>
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
-    <string name="splash_edit_basic_save_btn">Далее</string>
-    <string name="splash_header_subtitle">"Регулярные упражнения и сон
-смогут улучшить ваше здоровье."</string>
-    <string name="splash_header_title">Здравоохранение утверждает:</string>
-    <string name="splash_next_btn">Ввести основные данные</string>
-    <string name="splash_title">"В приложении Здоровье можно задать цели активности
-и получить советы
-на основе введенных личных данных."</string>
     <string name="sport_audio_permission_dialog_content">Разрешите приложению доступ к микрофону для распознавания и отслеживания тренировок по звукам</string>
     <string name="sport_audio_permission_dialog_desc">Отслеживание тренировок по звукам</string>
     <string name="sport_audio_permission_dialog_title">Предоставьте разрешения</string>
@@ -1594,7 +1566,6 @@ ID:%s
     <string name="suggestion_move_title">Время размяться!</string>
     <string name="suggestion_title">Советы</string>
     <string name="suitable">Подходящее</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
@@ -1662,8 +1633,6 @@ ID:%s
     <string name="tb_exercise_list_sport">%1$s. Расстояние в километрах: %2$s. Время окончания: %3$s. Источник данных: %4$s. Нажмите, чтобы просмотреть подробную информацию.</string>
     <string name="tb_exercise_list_sport_one">%1$s. Продолжительность: %2$s. Время окончания: %3$s. Источник данных: %4$s. Нажмите, чтобы просмотреть подробную информацию.</string>
     <string name="tb_exercise_list_walk">Количество шагов: %1$s. Время окончания: %2$s. Нажмите, чтобы просмотреть подробную информацию.</string>
-    <string name="tb_exercise_sport_no_distance">%1$s. Продолжительность: %2$s. Сожжено калорий: %3$s.</string>
-    <string name="tb_exercise_sport_normal">%1$s. Дальность: %2$s. Продолжительность : %3$s. Сожжено калорий: %4$s.</string>
     <string name="tb_exercise_sport_sum">Отчёт об упражнении. %1$s. Нажмите, чтобы просмотреть подробную информацию.</string>
     <string name="tb_exercise_steps_no_data">Нет данных о шагах. Текущая цель: %1$d. Нажмите, чтобы просмотреть подробную информацию.</string>
     <string name="tb_exercise_steps_no_goal">Количество шагов: %1$d. Нажмите, чтобы просмотреть подробную информацию.</string>
@@ -1858,12 +1827,6 @@ ID:%s
     <string name="total_distance_label">Общее расстояние</string>
     <string name="total_slip">Количество гребков</string>
     <string name="total_time_label">Общее время</string>
-    <string name="tracking_progress_labe_pull_to_refresh">потяните для обновления</string>
-    <string name="tracking_progress_labe_refreshed">обновление завершено</string>
-    <string name="tracking_progress_labe_refreshing">обновление</string>
-    <string name="tracking_progress_labe_release_to_refresh">отпустите для обновления</string>
-    <string name="tracking_progress_labe_up_nodata">нет данных</string>
-    <string name="tracking_progress_labe_up_refresh">потяните для обновления</string>
     <string name="treadmill">Беговая дорожка</string>
     <string name="treble_duration">Громкий звук</string>
     <string name="treble_sum_duration">Громкий звук</string>
@@ -1946,16 +1909,6 @@ ID:%s
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">Не удалось подключиться к диспетчеру загрузки, проверьте его состояние в разделе «Управление приложениями».</string>
-    <string name="xiaomi_update_sdk_dialog_message">"Доступна версия %1$s
-Размер: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Доступна версия %1$s
-Размер инкрементного обновления: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s обновление!</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Накопитель недоступен, проверьте SD-карту.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s КБ</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$s МБ</string>
     <string name="year">Год</string>
     <string name="yesterday">Вчера</string>
     <string name="yoga">Йога</string>

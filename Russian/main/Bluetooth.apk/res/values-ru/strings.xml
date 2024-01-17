@@ -34,7 +34,6 @@
     <string name="afternoon">После полудня</string>
     <string name="airplane_error_msg">В режиме полёта нельзя использовать Bluetooth.</string>
     <string name="airplane_error_title">Режим полёта</string>
-    <string name="app_name">Bluetooth</string>
     <string name="aptx_notification_aptx">Это устройство поддерживает Qualcomm® aptX™</string>
     <string name="aptx_notification_aptx_adaptive">Это устройство поддерживает Qualcomm® aptX™ Adaptive</string>
     <string name="aptx_notification_aptx_hd">Это устройство поддерживает Qualcomm® aptX™ HD</string>
@@ -84,7 +83,6 @@
     <string name="bt_enable_title" />
     <string name="bt_error_btn_ok">ОК</string>
     <string name="bt_share_picker_label">Bluetooth</string>
-    <string name="bt_sm_2_1">На SD-карте нет места для сохранения файла с устройства \"%1$s\"</string>
     <string name="bt_sm_2_1_default">На SD-карте нет места для сохранения файла с устройства \"%1$s\"</string>
     <string name="bt_sm_2_1_nosdcard">На USB-накопителе нет места для сохранения файла с устройства \"%1$s\"</string>
     <string name="bt_sm_2_2">Необходимое свободное место: %1$s</string>
@@ -268,14 +266,12 @@
     <string name="pbap_session_key_dialog_title">Введите ключ сеанса для %1$s</string>
     <string name="permdesc_bluetoothAcceptlist">Приложение сможет временно внести Bluetooth-устройство в список разрешённых и позволить ему отправлять файлы на ваше устройство без подтверждения</string>
     <string name="permdesc_bluetoothShareManager">Приложение получит доступ к диспетчеру обмена файлами по Bluetooth и сможет использовать его для передачи файлов.</string>
-    <string name="permdesc_bluetoothWhitelist">Приложение сможет временно внести Bluetooth-устройство в список разрешённых и позволить ему отправлять файлы на ваше устройство без подтверждения</string>
     <string name="permdesc_handoverStatus">Позволяет получать информацию о статусе передачи по Bluetooth.</string>
     <string name="permlab_bluetoothAcceptlist">Доступ для Bluetooth-устройств из списка разрешённых</string>
     <string name="permlab_bluetoothShareManager">Доступ к диспетчеру загрузки</string>
-    <string name="permlab_bluetoothWhitelist">Доступ для Bluetooth-устройств из списка разрешённых</string>
     <string name="permlab_handoverStatus">Приём широковещательной передачи с BT</string>
     <string name="phonebook_advance_feature_support">Поддержка телефонной книги</string>
-    <string name="process"/>
+    <string name="process" />
     <string name="remote_pbap_version_change">Изменение версии профиля внешней телефонной книги</string>
     <string name="remote_phonebook_feature_downgrade">Понижение функции внешней телефонной книги</string>
     <string name="repair_for_adv_phonebook_feature">Повторное сопряжение для улучшенной функции телефонной книги</string>
@@ -285,13 +281,12 @@
     <string name="saturday_shortest">Сб</string>
     <string name="search_menu_title">Поиск</string>
     <string name="send">Отправить</string>
-    <string name="sharedUserId"/>
+    <string name="sharedUserId" />
     <string name="size_byte">Б</string>
     <string name="size_giga_byte">ГБ</string>
     <string name="size_kilo_byte">КБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
-    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="snapdragon_sound_notification_content">Устройство поддерживает технологию Snapdragon Sound™</string>
     <string name="snapdragon_sound_notification_title">Bluetooth</string>
@@ -324,7 +319,6 @@
     <string name="status_connection_error">Не удалось установить соединение.</string>
     <string name="status_file_error">Ошибка хранилища.</string>
     <string name="status_forbidden">Передача запрещена на принимающем устройстве.</string>
-    <string name="status_no_sd_card">Отсутствует SD-карта. Вставьте SD-карту для сохранения переданных файлов.</string>
     <string name="status_no_sd_card_default">Отсутствует SD-карта. Вставьте SD-карту для сохранения переданных файлов.</string>
     <string name="status_no_sd_card_nosdcard">Отсутствует USB-накопитель.</string>
     <string name="status_not_accept">Контент не поддерживается.</string>
@@ -336,7 +330,6 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
-    <string name="switch_audio_device_bt">Bluetooth</string>
     <string name="switch_audio_device_bt_a2dp">Bluetooth (Мультимедиа)</string>
     <string name="switch_audio_device_bt_a2dp_summary">Воспроизведение мультимедиа на подключённом устройстве</string>
     <string name="switch_audio_device_bt_hfp">Bluetooth (Вызовы)</string>
@@ -417,7 +410,6 @@
     <string name="upload_fail_cancel">Закрыть</string>
     <string name="upload_fail_line1">Файл не был отправлен на устройство \"%1$s\".</string>
     <string name="upload_fail_line1_2">Файл: %1$s</string>
-    <string name="upload_fail_ok">Повторить</string>
     <string name="upload_line1">Куда: \"%1$s\"</string>
     <string name="upload_line3">Тип файла: %1$s (%2$s)</string>
     <string name="upload_line5">Отправка файла…</string>

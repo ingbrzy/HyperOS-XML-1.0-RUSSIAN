@@ -28,10 +28,25 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accessibility_fingerprint_dialog_help_area">Область сообщений справки</string>
+<!-- ### FROM SOURCE -->
+    <string name="accessibility_keyboard_delete_button">Delete</string>
+<!-- ### FROM SOURCE -->
+    <string name="accessibility_keyboard_letter_board_caps_lock_button">Caps lock</string>
+<!-- ### FROM SOURCE -->
+    <string name="accessibility_keyboard_letter_board_shift2number_button">Numbers</string>
+<!-- ### FROM SOURCE -->
+    <string name="accessibility_keyboard_letter_board_shift2symbol_button">Symbols</string>
+<!-- ### FROM SOURCE -->
+    <string name="accessibility_keyboard_ok_button">Enter</string>
+<!-- ### FROM SOURCE -->
+    <string name="accessibility_keyboard_symbol_board_shift2letter_button">Letters</string>
+<!-- ### FROM SOURCE -->
+    <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Symbol lock</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
-    <string name="app_name">MIUI+</string>
     <string name="app_no_storage_permission">Разрешите %1$s доступ к хранилищу в  Настройки > Приложения > %2$s > Разрешения</string>
+<!-- ### FROM SOURCE -->
+    <string name="app_not_support_subscreen">"Can't maximize this window"</string>
     <string name="app_opened_in_new_window">Приложение открыто в новом окне</string>
     <string name="call_error_notify_button">Переключиться</string>
     <string name="call_error_notify_content">Вы можете переключиться обратно на телефон, чтобы продолжить разговор.</string>
@@ -40,23 +55,24 @@
     <string name="cancel_button">Отмена</string>
     <string name="cast_mcc_tips_button_cancel">Отмена</string>
     <string name="cast_mcc_tips_button_ok">Настройки</string>
-    <string name="cast_mcc_tips_message">Чтобы избежать задержек при использовании MIUI+, подключите оба устройства к одной сети Wi-Fi</string>
-    <string name="cast_mcc_tips_message_china">Чтобы избежать задержек при использовании MIUI+, подключите оба устройства к одной сети Wi-Fi</string>
-    <string name="cast_mcc_tips_title">Изменение настроек Wi-Fi</string>
     <string name="cast_mcc_tips_title_china">Изменение настроек Wi-Fi</string>
     <string name="circulate_cta_agree">Принимаю</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_cta_all_purpose">Home screen+ is a part of Xiaomi Interconnectivity Services. It allows you to view and interact with the Home screens of other connected devices. To be able to work normally, this service needs to connect to the internet and requires the following permissions:</string>
     <string name="circulate_cta_app_name">Xiaomi Interconnectivity</string>
     <string name="circulate_cta_desc_phone_miui15_14">Добро пожаловать в Xiaomi Interconnectivity! Это приложение можно использовать для трансляции экрана, воспроизведения мультимедиа на разных устройствах, использования Mi Smart Play, подключения устройств и передачи приложений. Для нормальной работы приложению необходимы подключение к интернету и следующие разрешения:</string>
     <string name="circulate_cta_exit">Выход</string>
     <string name="circulate_cta_new_app_name">Рабочий стол+</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_cta_premission_bluetooth">For connecting devices and transferring data between them via Bluetooth</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_cta_premission_microphone">For transferring audio to other devices during casting and screen mirroring</string>
     <string name="circulate_cta_premission_sound_subtitle">Для трансляции аудиопотока на подключенные устройства</string>
     <string name="circulate_cta_premission_sound_title">Запись звука</string>
     <string name="circulate_cta_premission_storage_pad_title">Доступ к файлам в хранилище</string>
     <string name="circulate_cta_premission_storage_subtitle">Для отправки и получения файлов</string>
     <string name="circulate_cta_premission_storage_title">Доступ к файлам в хранилище</string>
-    <string name="circulate_cta_premission_wlan_subtitle">Для передачи файлов и подключения устройств через Wi-Fi</string>
     <string name="circulate_cta_premission_wlan_subtitle_china">Для передачи файлов и подключения устройств через Wi-Fi</string>
-    <string name="circulate_cta_premission_wlan_title">Включение и выключение Wi-Fi</string>
     <string name="circulate_cta_premission_wlan_title_china">Включение и выключение Wi-Fi</string>
     <string name="circulate_cta_user_agreement">Прежде чем продолжить, прочтите и примите наши &lt;txt href=\"%1$s\">Пользовательское соглашение&lt;/txt> и &lt;txt href=\"%2$s\">Политику конфиденциальности&lt;/txt>.</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
@@ -73,14 +89,16 @@
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="default_boss_terminal_name">ПК Xiaomi</string>
     <string name="default_error_msg">Неизвестная ошибка</string>
+<!-- ### FROM SOURCE -->
+    <string name="desktop_switch_is_closed">Home screen+ is turned off</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_busy">Device is busy. Wait a minute or two and try again.</string>
     <string name="device_max_screen_count_toast">Устройство поддерживает открытие только двух окон одновременно</string>
     <string name="display_max_screen_count_toast">В этой версии можно открыть не более двух окон</string>
     <string name="display_not_support_secondary_toast">Не удается открыть это приложение в новом окне</string>
     <string name="download_aborted">Передача не удалась из-за прерванного соединения</string>
     <string name="download_cancel">Отмена</string>
-    <string name="download_canceled">Загрузка отменена</string>
     <string name="download_canceled_title">Отклонено %1$s</string>
-    <string name="download_failed">Сбой загрузки</string>
     <string name="download_hide">Скрыть</string>
     <string name="download_receiving">Получение… %1$s/%2$s</string>
     <string name="download_succeeded_title">Получено %1$s</string>
@@ -92,12 +110,8 @@
     <string name="enable_power_save_mode_notification_success_content">Включена экономия заряда батареи на устройстве</string>
     <string name="enable_power_save_mode_notification_success_title">Экономия заряда</string>
     <string name="enable_wifi_alert_cancel">Отмена</string>
-    <string name="enable_wifi_alert_message">Включите Wi-Fi для подключения к другим устройствам. Включить сейчас?</string>
     <string name="enable_wifi_alert_message_china">Включите Wi-Fi для подключения к другим устройствам. Включить сейчас?</string>
-    <string name="enable_wifi_alert_message_for_photo_relay">MIUI+ позволяет легко переключаться между устройствами, когда нужно отредактировать фото, сделанные на другом устройстве. Включить Wi-Fi для использования функции Handoff?</string>
-    <string name="enable_wifi_alert_message_for_photo_relay_china">MIUI+ позволяет легко переключаться между устройствами, когда нужно отредактировать фото, сделанные на другом устройстве. Включить Wi-Fi для использования функции Handoff?</string>
     <string name="enable_wifi_alert_ok">Включить</string>
-    <string name="enable_wifi_alert_title">Включение Wi-Fi</string>
     <string name="enable_wifi_alert_title_china">Включение Wi-Fi</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
@@ -146,12 +160,39 @@
     <string name="guide_window_btn_know">Понятно</string>
     <string name="guide_window_operation">Проведите от края к центру экрана</string>
     <string name="guide_window_title">Назад</string>
+<!-- ### FROM SOURCE -->
+    <string name="handoff_cta_all_purpose">Welcome to Xiaomi Interconnectivity Services! They allow you to start tasks on one device and continue with them in the same app on other connected devices. To be able to work normally, these services need to connect to the internet.</string>
+<!-- ### FROM SOURCE -->
+    <string name="handoff_switch_is_closed">App handoff is turned off</string>
+<!-- ### FROM SOURCE -->
+    <string name="hint_password">Enter password</string>
+<!-- ### FROM SOURCE -->
+    <string name="hint_password_error">Incorrect password</string>
+<!-- ### FROM SOURCE -->
+    <string name="hint_unlock_password">Enter password to unlock</string>
     <string name="http_buffer_size">Размер кэша HTTP</string>
     <string name="invisible_mode_dialog_cancel">Отмена</string>
-    <string name="invisible_mode_dialog_message">Использование MIUI+ недоступно. Отключите режим инкогнито.</string>
     <string name="invisible_mode_dialog_positive">Отключить</string>
     <string name="invisible_mode_dialog_title">Режим инкогнито</string>
     <string name="invisible_mode_toast">Отключите режим инкогнито</string>
+<!-- ### FROM SOURCE -->
+    <string name="keyboard_error_subtitle">Unlock on \"%s\"</string>
+<!-- ### FROM SOURCE -->
+    <string name="keyboard_error_title">Too many attempts</string>
+<!-- ### FROM SOURCE -->
+    <string name="keyboard_key_back">Back</string>
+<!-- ### FROM SOURCE -->
+    <string name="keyboard_key_exit">Exit</string>
+<!-- ### FROM SOURCE -->
+    <string name="keyboard_key_space">Space</string>
+<!-- ### FROM SOURCE -->
+    <string name="keyboard_num_back_btn">Exit</string>
+<!-- ### FROM SOURCE -->
+    <string name="keyboard_num_close_btn">Back</string>
+<!-- ### FROM SOURCE -->
+    <string name="keyboard_num_delete_btn">Delete</string>
+<!-- ### FROM SOURCE -->
+    <string name="keyboard_title">Enter screen lock for \"%s\"</string>
     <string name="keyguard_accessibility_pattern_unlock">"Графический ключ"</string>
     <string name="loading">Подождите…</string>
     <string name="loading_view_abort_close_text">Закрыть</string>
@@ -159,8 +200,6 @@
 Закройте эту страницу и повторите попытку."</string>
     <string name="loading_view_load_timeout">Соединение прервано</string>
     <string name="loading_view_load_timeout_close">Понятно</string>
-    <string name="loading_view_load_timeout_sub">"Убедитесь, что Wi-Fi включен на обоих устройствах и они находятся близко друг к другу.
-Вы можете начать другой сеанс на своем ПК."</string>
     <string name="loading_view_load_timeout_sub_china">"Убедитесь, что Wi-Fi включен на обоих устройствах и они находятся близко друг к другу.
 Вы можете начать другой сеанс на своем ПК."</string>
     <string name="lock_layout_sub">Разблокируйте, чтобы продолжить</string>
@@ -181,16 +220,69 @@
     <string name="low_battery_notification_content">Уровень заряда на %1$s менее %2$s</string>
     <string name="low_battery_notification_content_default">Уровень заряда менее %1$s</string>
     <string name="low_battery_notification_title">Низкий заряд батареи</string>
-    <string name="low_version_dialog_message">Обновите MIUI+ на ПК или загрузите последнюю версию с сайта plus.miui.com</string>
-    <string name="low_version_dialog_title">Обновление MIUI+</string>
     <string name="message_log">Журналы сообщений</string>
-    <string name="mi_drop">Mi Share</string>
     <string name="midnight">Ночь</string>
     <string name="mirror_call_closed">Вызов принят другим устройством</string>
-    <string name="mirror_to_float_window_mode">Плавающее окно</string>
-    <string name="mirror_to_full_screen_mode">Полноэкранный режим</string>
+<!-- ### FROM SOURCE -->
+    <string name="mirror_have_been_opened">Home screen+ is on</string>
+<!-- ### FROM SOURCE -->
+    <string name="mirror_to_settings_connectivity_remote_pad_content">You can turn on Xiaomi Interconnectivity on your tablet in Settings > Interconnectivity.</string>
+<!-- ### FROM SOURCE -->
+    <string name="mirror_to_settings_connectivity_remote_pad_title">Xiaomi Interconnectivity is off</string>
+<!-- ### FROM SOURCE -->
+    <string name="mirror_to_settings_connectivity_remote_pc_content">You can turn on Xiaomi Interconnectivity on your computer in Settings > Interconnectivity.</string>
+<!-- ### FROM SOURCE -->
+    <string name="mirror_to_settings_connectivity_remote_pc_title">Xiaomi Interconnectivity is off</string>
+<!-- ### FROM SOURCE -->
+    <string name="mirror_to_settings_phone_content">Turn on Home screen+ now?</string>
+<!-- ### FROM SOURCE -->
+    <string name="mirror_to_settings_remote_pad_content">You can turn on Home screen+ in Settings > Interconnectivity.</string>
+<!-- ### FROM SOURCE -->
+    <string name="mirror_to_settings_remote_pad_title">Turn on Home screen+ on the tablet</string>
+<!-- ### FROM SOURCE -->
+    <string name="mirror_to_settings_remote_pc_content">You can turn on Home screen+ in Settings > Interconnectivity.</string>
+<!-- ### FROM SOURCE -->
+    <string name="mirror_to_settings_remote_pc_title">Turn on Home screen+ on the computer</string>
+<!-- ### FROM SOURCE -->
+    <string name="mirror_to_settings_title">Turn on Home screen+</string>
     <string name="mishare_interrupting_message">Завершить сеанс Mi Share и прервать все текущие передачи?</string>
     <string name="mishare_interrupting_title">Завершение сеанса</string>
+<!-- ### FROM SOURCE -->
+    <string name="miui15_app_name">Device interconnectivity services</string>
+<!-- ### FROM SOURCE -->
+    <string name="miui15_cta_app_name">Xiaomi Interconnectivity</string>
+<!-- ### FROM SOURCE -->
+    <string name="miui15_cta_desc_phone">Xiaomi Interconnectivity Services allow your devices to interact with each other wirelessly. You can use Xiaomi Interconnectivity Services to control devices, transfer audio and video playback, combine device features, or start tasks on one device and continue with them in the same app on other connected devices. To be able to work normally, these services need to connect to the internet and require the following permissions:</string>
+<!-- ### FROM SOURCE -->
+    <string name="miui15_cta_permission_bluetooth_subtitle">For connecting devices and transferring data between them</string>
+<!-- ### FROM SOURCE -->
+    <string name="miui15_cta_permission_mac_address_subtitle">For discovering nearby devices</string>
+<!-- ### FROM SOURCE -->
+    <string name="miui15_cta_permission_obtain_information_subtitle">While recording or casting, the service providing this feature can capture any sensitive information that is displayed on your screen or played from your device, including sensitive information such as audio, passwords, payment info, photos, and messages</string>
+<!-- ### FROM SOURCE -->
+    <string name="miui15_cta_permission_sound_subtitle">For recording local audio during casting and screen mirrorring</string>
+<!-- ### FROM SOURCE -->
+    <string name="miui15_cta_permission_storage_subtitle">For casting and transferring content from this device</string>
+<!-- ### FROM SOURCE -->
+    <string name="miui15_cta_permission_transferring_data_subtitle">For transferring data between connected devices</string>
+<!-- ### FROM SOURCE -->
+    <string name="miui15_cta_permission_wlan_subtitle_china">For transferring items and connecting devices via Wi-Fi</string>
+<!-- ### FROM SOURCE -->
+    <string name="miui15_cta_premission_wlan_title_china">Turn Wi-Fi on and off</string>
+<!-- ### FROM SOURCE -->
+    <string name="miui15_invisible_mode_dialog_message">"Can't use device interconnectivity services when you're incognito. Turn off Incognito mode first."</string>
+<!-- ### FROM SOURCE -->
+    <string name="miui15_low_version_dialog_message">Update software on your computer or download the latest version from plus.miui.com.</string>
+<!-- ### FROM SOURCE -->
+    <string name="miui15_low_version_dialog_title">Update device interconnectivity services</string>
+<!-- ### FROM SOURCE -->
+    <string name="miui15_nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Couldn't connect to the computer. Make sure you've turned on Wi-Fi and Bluetooth on both your mobile device and computer and that your computer is running Xiaomi PC Manager."</string>
+<!-- ### FROM SOURCE -->
+    <string name="miui15_privacy_all_purpose">Device interconnectivity services allow you to connect your phone to a computer and combine two devices into one working station.</string>
+<!-- ### FROM SOURCE -->
+    <string name="miui15_privacy_pad_all_purpose">Device interconnectivity services allow you to combine your mobile devices into one working station so you can use the apps from your phone on your tablet, answer calls on another device, use shared clipboard, transfer items, and cast screen content.</string>
+<!-- ### FROM SOURCE -->
+    <string name="miui15_scanner_lower_version_toast">Update software on your computer to connect</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
@@ -198,9 +290,6 @@
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
-    <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
@@ -263,23 +352,16 @@
     <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="nfc_account_number_is_inconsistent">Ваше устройство и планшет используют разные учетные записи Xiaomi. Для передачи файлов войдите в одну и ту же учетную запись Xiaomi на обоих устройствах.</string>
-    <string name="nfc_check_the_touch_device">Для подключения устройств, Wi-Fi и Bluetooth также должны быть включены и на другом устройстве. Проверьте, разрешено ли подключение для других устройств в Настройки > Подключения > Подключенные устройства, и повторите попытку.</string>
     <string name="nfc_check_the_touch_device_china">Для подключения устройств, Wi-Fi и Bluetooth также должны быть включены и на другом устройстве. Проверьте, разрешено ли подключение для других устройств в Настройки > Подключения > Подключенные устройства, и повторите попытку.</string>
-    <string name="nfc_check_wifi_and_bluetooth">Проверьте состояние Wi-Fi и Bluetooth</string>
     <string name="nfc_check_wifi_and_bluetooth_china">Проверьте состояние Wi-Fi и Bluetooth</string>
     <string name="nfc_circulation_failed">Не удалось передать</string>
     <string name="nfc_connect_fail">Не удалось подключиться. Попробуйте позже.</string>
     <string name="nfc_connect_fail_pad">Не удалось подключиться</string>
     <string name="nfc_connecting">Подключение…</string>
     <string name="nfc_login">Вход</string>
-    <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Для подключения других устройств, необходимо включить Wi-Fi и Bluetooth на этом устройстве. Включить?</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">Для подключения других устройств, необходимо включить Wi-Fi и Bluetooth на этом устройстве. Включить?</string>
-    <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc">Не удалось подключиться к ПК. Убедитесь, что Wi-Fi и Bluetooth включены на обоих устройствах.</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc_china">Не удалось подключиться к ПК. Убедитесь, что Wi-Fi и Bluetooth включены на обоих устройствах.</string>
     <string name="nfc_no_xiaomi_account">Для передачи файлов войдите в ту же учетную запись Xiaomi, которую используете на планшете</string>
-    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">Не удалось подключиться к ПК. Убедитесь, что Wi-Fi и Bluetooth включены на обоих устройствах, и что на ПК запущен MIUI+.</string>
-    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">Не удалось подключиться к ПК. Убедитесь, что Wi-Fi и Bluetooth включены на обоих устройствах, и что на ПК запущен MIUI+.</string>
-    <string name="nfc_wifi_and_bluetooth">Включите Wi-Fi и Bluetooth</string>
     <string name="nfc_wifi_and_bluetooth_china">Включите Wi-Fi и Bluetooth</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
@@ -299,13 +381,12 @@
     <string name="notify_connected_message_pad">Выполняйте задачи на подключенном ПК или используйте это устройство в качестве расширения экрана</string>
     <string name="notify_connected_title">Подключено к %1$s</string>
     <string name="ok">ОК</string>
+<!-- ### FROM SOURCE -->
+    <string name="ok_button">Got it</string>
     <string name="open_folder">Открыть</string>
     <string name="pad_fullscreen_sink_activity_label">Моё устройство</string>
-    <string name="pad_mirror_device_locked_tips_1">Устройство заблокировано</string>
-    <string name="pad_mirror_device_locked_tips_2">Коснитесь экрана, чтобы разбудить устройство</string>
     <string name="pad_mirror_device_locked_tips_3">Коснитесь дважды, чтобы разбудить</string>
     <string name="pad_mirror_disconnect_tips_1">Соединение потеряно</string>
-    <string name="pad_mirror_disconnect_tips_2">Убедитесь, что Wi-Fi и Bluetooth включены на обоих устройствах, и повторите попытку.</string>
     <string name="pad_mirror_disconnect_tips_2_china">Убедитесь, что Wi-Fi и Bluetooth включены на обоих устройствах, и повторите попытку.</string>
     <string name="pad_pc_app_introduction_summary">Используйте приложения для планшетов на ПК</string>
     <string name="pad_pc_app_introduction_title">Приложения</string>
@@ -322,20 +403,9 @@
     <string name="pad_settings_click_toast_msg">Подключитесь с помощью Mi Smart Hub на ПК</string>
     <string name="pad_settings_connect_pad_group">Работа с планшетом</string>
     <string name="pad_settings_connect_pc_group">Работа с ПК</string>
-    <string name="pad_settings_connect_phone_group">Работа с устройством</string>
-    <string name="pad_settings_connect_summary1">Откройте Mi Smart Share на ПК и выберите Трансляция. Mi Smart Share можно загрузить на сайте www.miui.com</string>
-    <string name="pad_settings_connect_summary2">Отсканируйте QR-код на экране ПК. Для сканирования используйте Сканер, Камеру или Mi Браузер.</string>
     <string name="pad_settings_current_device_tip">Используйте автоподключение к другим устройствам, связанным с вашим аккаунтом Xiaomi</string>
-    <string name="pad_settings_feature_characteristics_summary_1">Копируйте текст на мобильном устройстве и вставляйте на ПК, добавляйте изображения, синхронизируйте правки в документах.</string>
-    <string name="pad_settings_feature_characteristics_summary_2">Перетаскивайте файлы для передачи на устройство или с него.</string>
-    <string name="pad_settings_feature_characteristics_summary_3">Для автоподключения просто приблизьте устройство к ранее подключённому ПК.</string>
-    <string name="pad_settings_feature_dnd_summary">Показывать уведомления мобильного устройства на ПК</string>
-    <string name="pad_settings_feature_dnd_summary_phone">Показывать уведомления мобильного устройства на ПК</string>
-    <string name="pad_settings_feature_dnd_title">Режим \"Не беспокоить\"</string>
-    <string name="pad_settings_feature_intro">О функции</string>
     <string name="pad_settings_handoff_app_summary">Продолжайте работу в том же приложении на другом устройстве</string>
     <string name="pad_settings_handoff_app_title">Приложения</string>
-    <string name="pad_settings_handoff_category_title">Использование Handoff</string>
     <string name="pad_settings_handoff_clipboard_summary">Копируйте данные на одном устройстве и вставляйте на другом</string>
     <string name="pad_settings_handoff_clipboard_title">Буфер обмена</string>
     <string name="pad_settings_handoff_device_title">Подключённое устройство</string>
@@ -349,17 +419,12 @@
     <string name="pad_settings_handoff_video_title">Видео</string>
     <string name="pad_settings_handoff_wps_summary">Продолжайте работу с документами на другом устройстве</string>
     <string name="pad_settings_handoff_wps_title">Документы</string>
-    <string name="pad_settings_how_use">Использование Handoff</string>
     <string name="pad_settings_pad_handoff_summary">Используйте функцию Handoff для работы с приложениями, документами и буфером обмена, для просмотра видео на других устройствах, связанным с вашим аккаунтом Xiaomi</string>
     <string name="pad_settings_pc_history_title">История подключений</string>
     <string name="pad_settings_pc_trusted_title">Автоподключение</string>
     <string name="pad_settings_pc_use_tile">О функции</string>
     <string name="pad_settings_phone_handoff_summary">Используйте функцию Handoff для работы с приложениями, документами и буфером обмена, для просмотра видео на других устройствах, связанным с вашим аккаунтом Xiaomi</string>
     <string name="pad_settings_phone_handoff_title">Функция Handoff</string>
-    <string name="pad_settings_scanner_summary">Подключение с помощью QR-кода</string>
-    <string name="pad_settings_trusted_delete_dialog_msg">Автоподключение к этому устройству будет недоступно после удаления из списка</string>
-    <string name="pad_settings_trusted_tips">Автоподключение к выбранным устройствам поблизости при включенных Bluetooth и Wi-Fi</string>
-    <string name="pad_settings_trusted_tips_china">Автоподключение к выбранным устройствам поблизости при включенных Bluetooth и Wi-Fi</string>
     <string name="pc_account_connect_cta_again">Повторное подключение к ПК</string>
     <string name="pc_cooperate_duplicate_title">Рабочий стол ПК</string>
     <string name="pc_cooperate_extend_title">Расширение рабочего стола ПК</string>
@@ -370,7 +435,8 @@
     <string name="pc_cooperate_guide_screenshot">Скриншот</string>
     <string name="pc_cooperate_guide_task">Задачи</string>
     <string name="pc_cooperate_guide_undo">Отмена (Ctrl+Z)</string>
-    <string name="pc_settings_current_device_tip">Автоподключение к ПК с запущенным MIUI+ и входом в используемый аккаунт Xiaomi</string>
+<!-- ### FROM SOURCE -->
+    <string name="pc_low_version_toast">Update software on your computer</string>
     <string name="pcmode_not_support_multi_window">Режим ПК не поддерживает отображение нескольких окон</string>
     <string name="permission_access_nearby_device">Доступ к устройствам поблизости</string>
     <string name="phone_pad_app_introduction_summary">Продолжайте работу в том же приложении на другом устройстве</string>
@@ -393,13 +459,10 @@
     <string name="phone_pc_message_introduction_title">Общий буфер обмена</string>
     <string name="phone_settings_current_device_tip">Используйте автоподключение к другим устройствам, связанным с вашим аккаунтом Xiaomi</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
-    <string name="privacy_all_purpose">Добро пожаловать в MIUI+! Это приложение можно использовать для объединения мобильного устройства и ПК в одну рабочую станцию.</string>
-    <string name="privacy_describe_change_wifi_state">Для подключения устройств и передачи файлов по Wi-Fi</string>
     <string name="privacy_describe_change_wifi_state_china">Для подключения устройств и передачи файлов по Wi-Fi</string>
     <string name="privacy_describe_location">Для поиска ПК поблизости и передачи файлов</string>
     <string name="privacy_describe_record_audio">Для перенаправления вывода звука на ПК</string>
     <string name="privacy_describe_storage">Для отправки и приёма файлов</string>
-    <string name="privacy_pad_all_purpose">Добро пожаловать в MIUI+! Это приложение можно использовать для объединения мобильных устройств в одну рабочую станцию. MIUI+ позволяет пользоваться приложениями и отвечать на вызовы на другом устройстве, использовать общий буфер обмена, передавать файлы и транслировать содержимое экрана.</string>
     <string name="privacy_pad_describe_change_wifi_state">Для отображения содержимого экрана</string>
     <string name="privacy_pad_describe_record_audio">Для передачи аудиопотока на другое устройство во время трансляции</string>
     <string name="privacy_pad_describe_storage">Для передачи файлов между устройствами</string>
@@ -412,10 +475,49 @@
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="save_failed">Не удалось сохранить</string>
-    <string name="scanner_lower_version_toast">Обновите MIUI+ на ПК для подключения</string>
     <string name="scanner_uninstalled_text">Приложение Сканер не установлено на устройстве. Сначала установите приложение.</string>
     <string name="scanner_uninstalled_title">Приложение не установлено</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_connecting">Connecting…</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_failed_to_open">"Couldn't connect"</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_failed_to_open_due_to_hotspot">Turn off portable hotspot and try again</string>
     <string name="screen_num_over_limit">Достигнут лимит количества окон</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_permission_notification_sub_title">Unlock device to grant permission</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_permission_notification_title">"%s wants to use this device's screen"</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_permission_pad_dialog_btn">Got it</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_permission_pad_dialog_title">Grant permissions on the other device</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_permission_pad_tips_denied">Open Settings > Interconnectivity > Interconnectivity and permissions on %s to allow other devices to view and interact with its screen content.</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_permission_pad_tips_prompt">Grant permissions on %s</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_permission_phone_dialog_cancel_btn">Cancel</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_permission_phone_dialog_setting_btn">Settings</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_permission_phone_dialog_title">Permissions required</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_permission_phone_tips_denied">"%s isn't allowed to view and interact with this device's screen content. Change your preferences to \"Always allow\" to be able to use this feature."</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_permission_request_desc">For allowing %s to display content and operate across devices</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_permission_request_mirror">Home screen+</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_permission_request_relay">App handoff</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_record_notification_btn">Stop</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_record_notification_sub_title">"%s is recording this device's screen"</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_record_notification_title">Recording screen…</string>
+<!-- ### FROM SOURCE -->
+    <string name="screen_succeed_to_open">Connected successfully</string>
     <string name="search_menu_title">Поиск</string>
     <string name="seize_cancel">Отмена</string>
     <string name="seize_content">Для передачи файлов необходимо завершить совместный доступ к экрану. Завершить?</string>
@@ -423,16 +525,12 @@
     <string name="seize_title">Завершение доступа к экрану</string>
     <string name="send">Отправить</string>
     <string name="settings_bluetooth_enable_summary">Включите Bluetooth для поиска устройств поблизости</string>
-    <string name="settings_connect">Как подключиться</string>
     <string name="settings_connect_more_help">Помощь</string>
-    <string name="settings_connect_pc_group">Работа с ПК</string>
     <string name="settings_connect_summary1">Загрузите и установите MIUI+ на ПК: https://plus.miui.com</string>
     <string name="settings_connect_summary2">Отсканируйте QR-код на экране ПК. Для сканирования используйте Сканер, Камеру или Mi Браузер.</string>
     <string name="settings_connect_title1">Шаг 1</string>
     <string name="settings_connect_title2">Шаг 2</string>
     <string name="settings_current_device">Подключённое устройство</string>
-    <string name="settings_feature">Особые возможности</string>
-    <string name="settings_feature_characteristics">Особые возможности</string>
     <string name="settings_feature_characteristics_summary_1">Копируйте текст на устройстве и вставляйте на ПК, добавляйте изображения, синхронизируйте изменения в документах</string>
     <string name="settings_feature_characteristics_summary_2">Перетаскивайте файлы для передачи на устройство и с устройства</string>
     <string name="settings_feature_characteristics_summary_3">Поднесите устройство к ранее подключённому ПК для автоматического подключения</string>
@@ -441,15 +539,7 @@
     <string name="settings_feature_characteristics_title_3">Автоподключение</string>
     <string name="settings_feature_dnd_summary">Отключить уведомления, когда устройство подключено к ПК</string>
     <string name="settings_feature_dnd_title">Режим \"Не беспокоить\"</string>
-    <string name="settings_feature_files_drag_summary">Перетаскивайте файлы для передачи на устройство и с него.</string>
-    <string name="settings_feature_files_drag_title">Передача файлов</string>
     <string name="settings_feature_intro">О функции</string>
-    <string name="settings_feature_keep_screen_summary">Держать устройство разблокированным для предотвращения отключения</string>
-    <string name="settings_feature_keep_screen_title">Не блокировать экран</string>
-    <string name="settings_feature_multi_window_summary">Щелкните правой кнопкой мыши на копии экрана устройства, чтобы создать новую копию.</string>
-    <string name="settings_feature_multi_window_title">Несколько окон</string>
-    <string name="settings_feature_pc_edit_files_summary">Щелкните правой кнопкой мыши на файлах в Галерее или Проводнике, чтобы отредактировать их на ПК.</string>
-    <string name="settings_feature_pc_edit_files_title">Редактирование на ПК</string>
     <string name="settings_handoff_enable_bluetooth">Включите Bluetooth для поиска устройств поблизости</string>
     <string name="settings_history">История подключений</string>
     <string name="settings_history_clear">Очистить</string>
@@ -460,7 +550,6 @@
     <string name="settings_history_yesterday_connect_time">Вчера: %1$s</string>
     <string name="settings_home">MIUI+</string>
     <string name="settings_home_device_disconnect">Отключиться</string>
-    <string name="settings_home_device_group">Подключённое устройство</string>
     <string name="settings_home_sub_title">Объедините устройство и ПК в одно целое</string>
     <string name="settings_home_tips">MIUI+ транслирует экран мобильного устройства на ПК, позволяя на нем взаимодействовать с устройством, обмениваться файлами и редактировать их</string>
     <string name="settings_how_use">Подключение</string>
@@ -471,30 +560,33 @@
     <string name="settings_nfc_transfer_title">Передача через NFC</string>
     <string name="settings_pad">Планшет</string>
     <string name="settings_pad_handoff_title">Автоподключение</string>
+<!-- ### FROM SOURCE -->
+    <string name="settings_page">Home screen+</string>
+<!-- ### FROM SOURCE -->
+    <string name="settings_page_default_seat">Phone screen position</string>
     <string name="settings_pc">ПК</string>
     <string name="settings_pc_handoff_title">Подключение к ПК</string>
-    <string name="settings_pc_history_title">История подключений</string>
-    <string name="settings_pc_trusted_title">Автоподключение</string>
     <string name="settings_pc_use_tile">О функции</string>
     <string name="settings_permission_description">Сведения о разрешениях</string>
     <string name="settings_phone">Телефон</string>
     <string name="settings_phone_handoff_title">Автоподключение</string>
     <string name="settings_privacy_policy">Политика конфиденциальности</string>
     <string name="settings_scanner_button">Сканер</string>
-    <string name="settings_scanner_summary">Подключение с помощью QR-кода</string>
     <string name="settings_trusted">Автоподключение</string>
     <string name="settings_trusted_delete">Удалить</string>
     <string name="settings_trusted_delete_dialog_msg">После удаления устройства из списка, автоматическое подключение к нему будет недоступно</string>
     <string name="settings_trusted_delete_dialog_title">Удаление устройства</string>
     <string name="settings_trusted_device_group">Устройства с автоподключением</string>
     <string name="settings_trusted_device_none">Нет устройств</string>
-    <string name="settings_trusted_tips">Автоматически подключаться к выбранным устройствам поблизости при включенном Bluetooth или Wi-Fi</string>
     <string name="settings_trusted_tips_china">Автоматически подключаться к выбранным устройствам поблизости при включенном Bluetooth или Wi-Fi</string>
-    <string name="share_pc_abort_dialog_message">Убедитесь, что Bluetooth и Wi-Fi включены на обоих устройствах, затем снова запустите сеанс на ПК.</string>
     <string name="share_pc_abort_dialog_message_china">Убедитесь, что Bluetooth и Wi-Fi включены на обоих устройствах, затем снова запустите сеанс на ПК.</string>
     <string name="share_pc_abort_dialog_ok">ОК</string>
     <string name="share_pc_abort_dialog_title">Соединение прервано</string>
     <string name="share_pc_file_transfer_finish">Передача завершена</string>
+<!-- ### FROM SOURCE -->
+    <string name="share_pc_file_transfer_part_failed">"Couldn't transfer some files. Wait a minute or two and try again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="share_pc_file_transfer_try_later">Wait a minute or two and try again.</string>
     <string name="share_pc_folder_error_dialog_message">Перетаскивание папок и их передача в настоящее время не поддерживается.</string>
     <string name="share_pc_folder_error_dialog_ok">ОК</string>
     <string name="share_pc_folder_error_dialog_title">Ошибка передачи</string>
@@ -502,6 +594,8 @@
     <string name="share_pc_folder_multi_error_dialog_ok">ОК</string>
     <string name="share_pc_folder_multi_error_dialog_title">Не удалось передать все файлы</string>
     <string name="share_stop_share_to_start_screen">Завершите трансляцию для возможности общего доступа к экрану</string>
+<!-- ### FROM SOURCE -->
+    <string name="share_to_settings_phone_content">Turn on Xiaomi Interconnectivity now?</string>
     <string name="share_to_settings_title">Xiaomi Interconnectivity</string>
     <string name="sink_pc_click_again_to_finish_extent">Нажмите ещё раз, чтобы отключить расширение экрана</string>
     <string name="sink_pc_click_again_to_finish_mirror">Нажмите ещё раз, чтобы остановить трансляцию содержимого экрана</string>
@@ -510,7 +604,6 @@
     <string name="size_kilo_byte">КБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
-    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="softap_connect_fail_message">Не удалось подключиться</string>
     <string name="softap_dialog_cancel">Отмена</string>
@@ -518,7 +611,6 @@
     <string name="softap_dialog_ok">ОК</string>
     <string name="softap_dialog_title">Подключение к %1$s</string>
     <string name="softap_notification_action">Подключиться</string>
-    <string name="softap_notification_message">Нет доступных сетей Wi-Fi. Подключиться к этой точке доступа?</string>
     <string name="softap_notification_message_china">Нет доступных сетей Wi-Fi. Подключиться к этой точке доступа?</string>
     <string name="softap_notification_title">Подключение к %1$s</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
@@ -547,18 +639,19 @@
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="sub_screen_lock_message">"Разблокируйте устройство,
 чтобы продолжить"</string>
+<!-- ### FROM SOURCE -->
+    <string name="subscreen_exception_hint">"Device isn't updated to the latest version. Display errors may occur."</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
     <string name="switch_wlan_action">Подключиться</string>
     <string name="switch_wlan_failed">Ошибка подключения</string>
-    <string name="switch_wlan_failed_desc">Не удалось автоматически подключиться к этой сети Wi-Fi. Попробуйте подключиться вручную в настройках.</string>
     <string name="switch_wlan_failed_desc_china">Не удалось автоматически подключиться к этой сети Wi-Fi. Попробуйте подключиться вручную в настройках.</string>
     <string name="switch_wlan_success">Подключено</string>
-    <string name="switch_wlan_tips">Подключение к одной сети</string>
     <string name="switch_wlan_tips_china">Подключение к одной сети</string>
-    <string name="switch_wlan_tips_desc">Подключиться к той же сети Wi-Fi, к которой подключено другое устройство?</string>
     <string name="switch_wlan_tips_desc_china">Подключиться к той же сети Wi-Fi, к которой подключено другое устройство?</string>
+<!-- ### FROM SOURCE -->
+    <string name="switch_wlan_tips_desc_pad_china">You can connect to the same Wi-Fi network as the other device for better experience. Connect now?</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>
@@ -605,7 +698,6 @@
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
-    <string name="tip_connect_fail_for_hotspot">Ошибка подключения. Отключите портативную точку доступа и повторите попытку.</string>
     <string name="to_settings">Настройки</string>
     <string name="toast_calling_warning">Завершите текущий вызов и повторите попытку</string>
     <string name="today">Сегодня</string>
@@ -625,16 +717,12 @@
     <string name="worker_authorization_title">Подключиться?</string>
     <string name="worker_authorization_trusted">Подключаться всегда</string>
     <string name="worker_authorization_trusted_only_once">Подключиться один раз</string>
-    <string name="worker_authorized">%1$s принял ваш запрос</string>
-    <string name="worker_connect_cancel_tips">Отмена</string>
     <string name="worker_connect_fail_btn_retry">Повтор</string>
     <string name="worker_connect_fail_message">Произошла сетевая ошибка. Повторите попытку позже.</string>
     <string name="worker_connect_fail_title">Ошибка подключения</string>
     <string name="worker_connect_help">Помощь</string>
     <string name="worker_connecting_message">Подключение…</string>
     <string name="worker_try_join_in_connected_state">Успешно подключено</string>
-    <string name="worker_try_join_in_connecting_state">Подключение устройства…</string>
     <string name="worker_try_join_pc_when_pad_adv_connected">Это устройство сейчас подключено к другому устройству. Повторите попытку позже.</string>
-    <string name="worker_try_join_pc_when_pad_adv_connected_title">Не удалось подключиться к MIUI+</string>
     <string name="yesterday">Вчера</string>
 </resources>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MiCloudSync</string>
     <string name="error_data_in_transfer">Синхронизация завершится через %s ч.</string>
     <string name="error_forbidden">Синхронизация отключена из-за проблем с вашим аккаунтом Xiaomi.</string>
     <string name="error_not_acceptable">Синхронизация отключена.</string>

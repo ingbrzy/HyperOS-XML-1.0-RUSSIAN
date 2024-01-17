@@ -49,7 +49,6 @@
     <string name="airspace_users_full">Не удалось создать рабочее пространство</string>
     <string name="alwaysUsePrompt">Запомнить выбор</string>
     <string name="appData">Приложения</string>
-    <string name="app_name">Ядро системы безопасности</string>
     <string name="app_switch_key">Недавние</string>
     <string name="application_label">Настройки ввода</string>
     <string name="au_pay">au PAY</string>
@@ -186,7 +185,6 @@
     <string name="dialog_verify">Проверка отпечатка</string>
     <string name="dialog_verify_fingerprint_retry">Не удалось проверить отпечаток. Попробуйте снова.</string>
     <string name="dir_switch_out_all_photos">Second space Gallery</string>
-    <string name="disable">Отключить</string>
     <string name="disable_power_key_long_press_under_keyguard">Отключить меню кнопки \"Питание\"</string>
     <string name="diy_suppression_summary">Настройка размера области на краях экрана для игнорирования случайных касаний</string>
     <string name="diy_suppression_title">Пользовательские настройки</string>
@@ -205,14 +203,6 @@
     <string name="early_morning">Утро</string>
     <string name="edge_mode_state_summary">Область на краях экрана не будет реагировать на касания</string>
     <string name="edge_mode_state_title">Игнорировать случайные касания</string>
-    <string name="enable">Включить</string>
-    <string name="encrypt_space_delete_dialog_click_message">*Если вам не нужно перемещать данные, %s</string>
-    <string name="encrypt_space_delete_dialog_click_message_action">пересоздайте второе пространство.</string>
-    <string name="encrypt_space_delete_dialog_message">Вы собираетесь обновить систему. После обновления данные второго пространства станут несовместимыми. Во избежание этого переместите все данные в первое пространство, удалите второе пространство и создайте его заново.</string>
-    <string name="encrypt_space_delete_dialog_positive_text">Переместить</string>
-    <string name="encrypt_space_delete_dialog_title">Внимание</string>
-    <string name="encrypt_space_delete_notification_message">Для успешного обновления устройства удалите второе пространство и создайте его заново.</string>
-    <string name="encrypt_space_delete_notification_title">Второе пространство</string>
     <string name="ent_activating">Активация…</string>
     <string name="ent_activation">Активировать</string>
     <string name="ent_activation_hint">Введите код предприятия вместе с кодом лицензии для активации режима предприятия. После этого будут включены корпоративные службы.</string>
@@ -358,7 +348,6 @@
     <string name="guide_pwd_detail_title">"Защитите свои данные
 Входите во второе пространство с экрана блокировки"</string>
     <string name="guide_setting_guide_title">Управление вторым пространством</string>
-    <string name="guide_start_ads_text">Совершенно новый уровень безопасности</string>
     <string name="guide_start_text">Два пространства. Одно устройство.</string>
     <string name="guide_swipe_up_down">Свайп вверх и вниз</string>
     <string name="has_created_second_space">"Вы можете открыть Второе пространство.
@@ -698,7 +687,6 @@
     <string name="notificationTitle">Ярлык в шторке уведомлений</string>
     <string name="notification_from_owner_user">Показывать уведомления от первого пространства</string>
     <string name="notification_from_second_user">Показывать уведомления от второго пространства</string>
-    <string name="notification_recommend_title">Топ 12 приложений для второго пространства</string>
     <string name="notification_setting_second_space">Настройте второе пространство</string>
     <string name="notification_setting_second_space_desc">Задайте пароль второго пространства и переместите данные</string>
     <string name="notification_tof_gesture_content_text">Включите эту функцию, чтобы выполнять различные действия не касаясь экрана</string>
@@ -707,7 +695,6 @@
     <string name="openPasswordGuard">Задать пароль</string>
     <string name="openSuccess">Включено</string>
     <string name="opened">Вкл</string>
-    <string name="optimize_now">Оптимизировать</string>
     <string name="other">Другое</string>
     <string name="otherSettings">Прочие настройки</string>
     <string name="other_advanced_settings">Дополнительные настройки</string>
@@ -752,8 +739,6 @@
     <string name="remove_button">Удалить</string>
     <string name="remove_button_time">Удалить (%d сек.)</string>
     <string name="remove_second_space_msg">Все данные приложений второго пространства будут потеряны после его удаления. Удалить второе пространство?</string>
-    <string name="remove_user_click_message">*Если у вас нет важных объектов во втором пространстве, %s</string>
-    <string name="remove_user_click_message_action">вы можете удалить его и перезагрузить устройство.</string>
     <string name="removingSpace">Удаление второго пространства…</string>
     <string name="repeat_scanner_fingerprint">Добавить снова</string>
     <string name="reset_passwd_success">Пароль успешно сброшен</string>
@@ -787,14 +772,6 @@
     <string name="screen_key_press">Простое нажатие кнопок</string>
     <string name="screen_key_press_action">Функция нажатия</string>
     <string name="screen_shot">Скриншот</string>
-    <string name="sdcardfs_dialog_message">Это обновление включает в себя новую файловую систему. Старые данные могут быть несовместимы с ней. Для решения этой проблемы выполните действия по установке обновления. В ходе обновления ваше устройство будет дважды перезагружено.</string>
-    <string name="sdcardfs_dialog_title">Важное обновление</string>
-    <string name="sdcradfs_dialog_in_owner_message">"Это обновление включает в себя новую файловую систему. Старые данные могут быть несовместимы с ней. Для обновления переместите объекты из второго пространства, перезагрузите устройство и создайте второе пространство заново.
-Если вы не обновитесь, клоны приложений могут работать неправильно."</string>
-    <string name="sdcradfs_dialog_in_owner_title">Второе пространство</string>
-    <string name="sdcradfs_dialog_in_sec_message">"Для обновления вы должны удалить второе пространство, а затем создать его заново. Переместите объекты из второго пространства в первое и перезагрузите устройство для завершения обновления.
-Если вы не обновитесь, клоны приложений могут работать неправильно."</string>
-    <string name="sdcradfs_dialog_in_sec_title">Важное обновление</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_menu_title">Поиск</string>
     <string name="search_result_text">Приложения не найдены</string>
@@ -871,7 +848,6 @@
     <string name="size_kilo_byte">КБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
-    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="skip">Пропустить</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
@@ -906,7 +882,6 @@
     <string name="space_create_guide_title_1">Защита личной жизни</string>
     <string name="space_create_guide_title_2">Всегда под рукой</string>
     <string name="space_create_guide_title_3">Полная безопасность</string>
-    <string name="space_created_success">Второе пространство создано</string>
     <string name="space_deleted">Это пространство было удалено</string>
     <string name="space_des_default">Изолированное пространство с зашифрованными данными</string>
     <string name="space_finger_sub_text">Добавьте отпечаток для быстрого перехода</string>
@@ -992,7 +967,6 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
-    <string name="support_desc">Сервисы безопасности предоставлены Spaces Mobile</string>
     <string name="sure_to_use">Подтвердить</string>
     <string name="switchDataSummary">Перемещение объектов между пространствами</string>
     <string name="switch_apps_settings">Настройки приложений</string>

@@ -28,10 +28,48 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accessibility_work_profile_app_description">Рабочий профиль: %s</string>
+<!-- ### FROM SOURCE -->
+    <string name="action_drag_label_move_bottom">Move to bottom</string>
+<!-- ### FROM SOURCE -->
+    <string name="action_drag_label_move_down">Move down</string>
+<!-- ### FROM SOURCE -->
+    <string name="action_drag_label_move_top">Move to top</string>
+<!-- ### FROM SOURCE -->
+    <string name="action_drag_label_move_up">Move up</string>
+<!-- ### FROM SOURCE -->
+    <string name="active_calories_burned_lowercase_label">active calories burned</string>
     <string name="active_calories_burned_read_content_description">Чтение данных о том, сколько сожжено калорий во время активности</string>
+<!-- ### FROM SOURCE -->
+    <string name="active_calories_burned_uppercase_label">Active calories burned</string>
     <string name="active_calories_burned_write_content_description">Запись данных о том, сколько сожжено калорий во время активности</string>
+<!-- ### FROM SOURCE -->
+    <string name="activity_category_lowercase">activity</string>
+<!-- ### FROM SOURCE -->
+    <string name="activity_category_uppercase">Activity</string>
+<!-- ### FROM SOURCE -->
+    <string name="activity_type_australian_football">Australian football</string>
+<!-- ### FROM SOURCE -->
+    <string name="aggregation_total">Total: %s</string>
     <string name="all_categories_title">Все категории</string>
+<!-- ### FROM SOURCE -->
+    <string name="all_entries_button">See all entries</string>
+<!-- ### FROM SOURCE -->
+    <string name="app_access_title">App access</string>
     <string name="app_label">Здоровье и спорт</string>
+<!-- ### FROM SOURCE -->
+    <string name="app_perms_content_provider_24h">Accessed in past 24 hours</string>
+<!-- ### FROM SOURCE -->
+    <string name="app_priority_button">App priority</string>
+<!-- ### FROM SOURCE -->
+    <string name="app_update_needed_banner_button">Check for updates</string>
+<!-- ### FROM SOURCE -->
+    <string name="app_update_needed_banner_description_multiple">Some apps need to be up-to-date in order to keep working with Health Connect</string>
+<!-- ### FROM SOURCE -->
+    <string name="app_update_needed_banner_description_single">%1$s needs to be up-to-date in order to keep working with Health Connect</string>
+<!-- ### FROM SOURCE -->
+    <string name="app_update_needed_banner_title">App update needed</string>
+<!-- ### FROM SOURCE -->
+    <string name="app_update_needed_seen">App Update Seen</string>
     <string name="arm_curl">Сгибание рук</string>
     <string name="auto_delete_button">Автоматическое удаление</string>
     <string name="auto_delete_header">Укажите период, по истечении которого данные будут автоматически удаляться из приложения \"Здоровье и спорт\".</string>
@@ -44,9 +82,17 @@
     <string name="badminton">Бадминтон</string>
     <string name="ball_slam">Бросок мяча об пол</string>
     <string name="barbell_shoulder_press">Жим штанги от плеч</string>
+<!-- ### FROM SOURCE -->
+    <string name="basal_body_temperature_lowercase_label">basal body temperature</string>
     <string name="basal_body_temperature_read_content_description">Чтение данных о базальной температуре тела</string>
+<!-- ### FROM SOURCE -->
+    <string name="basal_body_temperature_uppercase_label">Basal body temperature</string>
     <string name="basal_body_temperature_write_content_description">Запись данных о базальной температуре тела</string>
+<!-- ### FROM SOURCE -->
+    <string name="basal_metabolic_rate_lowercase_label">basal metabolic rate</string>
     <string name="basal_metabolic_rate_read_content_description">Чтение данных об интенсивности основного обмена</string>
+<!-- ### FROM SOURCE -->
+    <string name="basal_metabolic_rate_uppercase_label">Basal metabolic rate</string>
     <string name="basal_metabolic_rate_write_content_description">Запись данных об интенсивности основного обмена</string>
     <string name="baseball">Бейсбол</string>
     <string name="basketball">Баскетбол</string>
@@ -59,27 +105,55 @@
     <string name="blood_glucose_before_meal">Перед едой</string>
     <string name="blood_glucose_fasting">Натощак</string>
     <string name="blood_glucose_general">Вне зависимости от приема пищи</string>
+<!-- ### FROM SOURCE -->
+    <string name="blood_glucose_lowercase_label">blood glucose</string>
     <string name="blood_glucose_read_content_description">Чтение данных об уровне глюкозы в крови</string>
+<!-- ### FROM SOURCE -->
+    <string name="blood_glucose_uppercase_label">Blood glucose</string>
     <string name="blood_glucose_write_content_description">Запись данных об уровне глюкозы в крови</string>
     <string name="blood_pressure">%1$s/%2$s мм рт. ст.</string>
     <string name="blood_pressure_left_arm">Левое плечо</string>
     <string name="blood_pressure_left_wrist">Левое запястье</string>
     <string name="blood_pressure_long">%1$s/%2$s мм ртутного столба</string>
+<!-- ### FROM SOURCE -->
+    <string name="blood_pressure_lowercase_label">blood pressure</string>
     <string name="blood_pressure_read_content_description">Чтение данных о давлении</string>
     <string name="blood_pressure_right_arm">Правое плечо</string>
     <string name="blood_pressure_right_wrist">Правое запястье</string>
+<!-- ### FROM SOURCE -->
+    <string name="blood_pressure_uppercase_label">Blood pressure</string>
     <string name="blood_pressure_write_content_description">Запись данных о давлении</string>
+<!-- ### FROM SOURCE -->
+    <string name="body_fat_lowercase_label">body fat</string>
     <string name="body_fat_read_content_description">Чтение данных о проценте жира</string>
+<!-- ### FROM SOURCE -->
+    <string name="body_fat_uppercase_label">Body fat</string>
     <string name="body_fat_write_content_description">Запись данных о проценте жира</string>
+<!-- ### FROM SOURCE -->
+    <string name="body_measurements_category_lowercase">body measurements</string>
+<!-- ### FROM SOURCE -->
+    <string name="body_measurements_category_uppercase">Body measurements</string>
     <string name="body_position_lying_down">Лежа</string>
     <string name="body_position_reclining">Полулежа</string>
     <string name="body_position_sitting_down">Сидя</string>
     <string name="body_position_standing_up">Стоя</string>
+<!-- ### FROM SOURCE -->
+    <string name="body_temperature_lowercase_label">body temperature</string>
     <string name="body_temperature_read_content_description">Чтение данных о температуре тела</string>
+<!-- ### FROM SOURCE -->
+    <string name="body_temperature_uppercase_label">Body temperature</string>
     <string name="body_temperature_write_content_description">Запись данных о температуре тела</string>
+<!-- ### FROM SOURCE -->
+    <string name="body_water_mass_lowercase_label">body water mass</string>
     <string name="body_water_mass_read_content_description">Чтение данных о массе воды в организме</string>
+<!-- ### FROM SOURCE -->
+    <string name="body_water_mass_uppercase_label">Body water mass</string>
     <string name="body_water_mass_write_content_description">Запись данных о массе воды в организме</string>
+<!-- ### FROM SOURCE -->
+    <string name="bone_mass_lowercase_label">bone mass</string>
     <string name="bone_mass_read_content_description">Чтение данных о массе костей</string>
+<!-- ### FROM SOURCE -->
+    <string name="bone_mass_uppercase_label">Bone mass</string>
     <string name="bone_mass_write_content_description">Запись данных о массе костей</string>
     <string name="boot_camp">Основная подготовка</string>
     <string name="bottomsheet_action_collapse">Свернуть нижний лист</string>
@@ -88,6 +162,8 @@
     <string name="bottomsheet_drag_handle_clicked">Перетащите указатель, дважды коснувшись его</string>
     <string name="bottomsheet_drag_handle_content_description">Перетащите указатель</string>
     <string name="boxing">Бокс</string>
+<!-- ### FROM SOURCE -->
+    <string name="browse_data_category">Browse data</string>
     <string name="burpee">Отжимания с прыжком</string>
     <string name="caffeine">Кофеин</string>
     <string name="calcium">Кальций</string>
@@ -100,9 +176,17 @@
     <string name="call_notification_ongoing_text">Текущий вызов</string>
     <string name="call_notification_screening_text">Фильтрация входящего вызова</string>
     <string name="calories">{count,plural, =1{1 калория}one{# калория}few{# калории}many{# калорий}other{# калории}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="calories_long">{count, plural, =1 {1 calorie} other {# calories}}</string>
     <string name="can_read">%s: чтение</string>
     <string name="can_write">%s: запись</string>
+<!-- ### FROM SOURCE -->
+    <string name="cant_see_all_your_apps_description">"If you can't see an installed app, it may not be compatible with Health Connect yet"</string>
+<!-- ### FROM SOURCE -->
+    <string name="cervical_mucus_lowercase_label">cervical mucus</string>
     <string name="cervical_mucus_read_content_description">Чтение данных о цервикальной слизи</string>
+<!-- ### FROM SOURCE -->
+    <string name="cervical_mucus_uppercase_label">Cervical mucus</string>
     <string name="cervical_mucus_write_content_description">Запись данных о цервикальной слизи</string>
     <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышено ограничение на количество символов (%1$d из %2$d)</string>
@@ -112,6 +196,8 @@
     <string name="cholesterol">Холестерин</string>
     <string name="chromium">Хром</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
+<!-- ### FROM SOURCE -->
+    <string name="confirming_message_x_months">{count, plural, =1{Health Connect will auto-delete new data after # month. Setting this will also delete existing data older than # month.} other{Health Connect will auto-delete new data after # months. Setting this will also delete existing data older than # months.} }</string>
     <string name="confirming_question_all">Навсегда удалить все данные?</string>
     <string name="confirming_question_app_data_all">Навсегда удалить все данные приложения \"%s\"?</string>
     <string name="confirming_question_app_data_one_day">Навсегда удалить данные приложения \"%s\" за последние 24 часа?</string>
@@ -130,32 +216,70 @@
     <string name="confirming_question_delete_button">Удалить</string>
     <string name="confirming_question_go_back_button">Назад</string>
     <string name="confirming_question_message">У связанных приложений больше не будет доступа к этим данным платформы \"Здоровье и спорт\".</string>
+<!-- ### FROM SOURCE -->
+    <string name="confirming_question_message_menstruation">This will delete all menstruation entries from %1$s to %2$s.</string>
     <string name="confirming_question_one_day">Навсегда удалить данные всех типов за последние 24 часа?</string>
     <string name="confirming_question_one_month">Навсегда удалить данные всех типов за последние 30 дней?</string>
     <string name="confirming_question_one_week">Навсегда удалить данные всех типов за последние 7 дней?</string>
     <string name="confirming_question_single_entry">Навсегда удалить эту запись?</string>
+<!-- ### FROM SOURCE -->
+    <string name="confirming_question_x_months">{count, plural, =1{Auto-delete data after # month?} other{Auto-delete data after # months?} }</string>
     <string name="connected_apps_all_apps_connected_subtitle">Приложений с доступом: %1$s</string>
     <string name="connected_apps_button_no_permissions_subtitle">Нет</string>
     <string name="connected_apps_button_subtitle">Приложений с доступом: %1$s из %2$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="connected_apps_empty_list_section_title">"You don't currently have any compatible apps installed"</string>
     <string name="connected_apps_one_app_connected_subtitle">Приложений с доступом: %1$s</string>
     <string name="connected_apps_section_title">Доступ разрешен</string>
+<!-- ### FROM SOURCE -->
+    <string name="connected_apps_subtitle">Manage your apps and permissions</string>
+<!-- ### FROM SOURCE -->
+    <string name="connected_apps_text">Control which apps can access data stored in Health Connect. Tap an app to review the data it can read or write.</string>
     <string name="connected_apps_title">Разрешения для приложений</string>
     <string name="copper">Медь</string>
     <string name="copy">Копировать</string>
     <string name="cricket">Крикет</string>
     <string name="crunch">Скручивания</string>
+<!-- ### FROM SOURCE -->
+    <string name="cycle_tracking_category_lowercase">cycle tracking</string>
+<!-- ### FROM SOURCE -->
+    <string name="cycle_tracking_category_uppercase">Cycle tracking</string>
+<!-- ### FROM SOURCE -->
+    <string name="cycling_cadence_series_range">%1$s - %2$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="cycling_cadence_series_range_long">from %1$s to %2$s</string>
     <string name="cycling_rpm">{count,plural, =1{1 об/мин}one{# об/мин}few{# об/мин}many{# об/мин}other{# об/мин}}</string>
     <string name="cycling_rpm_long">{count,plural, =1{1 оборот в минуту}one{# оборот в минуту}few{# оборота в минуту}many{# оборотов в минуту}other{# оборота в минуту}}</string>
     <string name="dancing">Танцы</string>
     <string name="data_access_empty_message">Приложения больше не могут считывать или записывать данные \"%1$s\". В приложении \"Здоровье и спорт\" нет данных \"%2$s\".</string>
     <string name="data_access_exercise_description">Сведения о времени и типе тренировок, количестве кругов, повторений, подходов, гребков и т. д.</string>
     <string name="data_access_sleep_description">Сведения о сне, например о его фазах.</string>
+<!-- ### FROM SOURCE -->
+    <string name="data_entry_header">%1$s • %2$s</string>
     <string name="data_point_action_content_description">Параметры записи</string>
+<!-- ### FROM SOURCE -->
+    <string name="data_title">Data and access</string>
     <string name="data_type_separator">", "</string>
     <string name="date_owner_format">%1$s • %2$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="date_range">%1$s - %2$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="date_range_long">from %1$s to %2$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="day_duration">%1$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="day_duration_accessibility">{count, plural, =1 {1 day} other {# days}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="day_hour_duration">%1$s and %2$s</string>
     <string name="deadlift">Становая тяга</string>
     <string name="default_error">Произошла ошибка. Повторите попытку.</string>
     <string name="delete_all_data_button">Удалить все данные</string>
+<!-- ### FROM SOURCE -->
+    <string name="delete_app_data">Delete app data</string>
+<!-- ### FROM SOURCE -->
+    <string name="delete_button_content_description">Delete data</string>
+<!-- ### FROM SOURCE -->
+    <string name="delete_category_data_button">Delete %s data</string>
     <string name="delete_data_notification_channel_name">Удаление данных</string>
     <string name="delete_data_notification_ticker_text">Удаление данных приложения \"Здоровье и спорт\"</string>
     <string name="delete_data_notification_title">Удаление данных приложения \"Здоровье и спорт\"</string>
@@ -167,9 +291,17 @@
     <string name="delete_dialog_success_got_it_button">ОК</string>
     <string name="delete_dialog_success_message">Они больше не доступны в приложении \"Здоровье и спорт\".</string>
     <string name="delete_dialog_success_title">Данные удалены</string>
+<!-- ### FROM SOURCE -->
+    <string name="delete_permission_type_data_button">Delete this data</string>
     <string name="delete_progress_indicator">Удаление данных…</string>
+<!-- ### FROM SOURCE -->
+    <string name="deletion_started_category_list_section">Data to be deleted from these</string>
     <string name="deletion_started_done_button">Готово</string>
     <string name="deletion_started_title">Существующие данные будут удалены</string>
+<!-- ### FROM SOURCE -->
+    <string name="deletion_started_x_months">{count, plural, =1{Health Connect will delete all data older than # months. It may take a day for these changes to appear in your connected apps.} other{Health Connect will delete all data older than # months. It may take a day for these changes to appear in your connected apps.} }</string>
+<!-- ### FROM SOURCE -->
+    <string name="denied_apps_banner_button">See details</string>
     <string name="denied_apps_banner_message_many_apps">Сервис \"Здоровье и спорт\" отозвал разрешения для приложений \"%1$s\", \"%2$s\", \"%3$s\" и других.</string>
     <string name="denied_apps_banner_message_one_app">Сервис \"Здоровье и спорт\" отозвал разрешения для приложения \"%s\".</string>
     <string name="denied_apps_banner_message_three_apps">Сервис \"Здоровье и спорт\" отозвал разрешения для приложений \"%1$s\", \"%2$s\" и \"%3$s\".</string>
@@ -180,10 +312,28 @@
 
 Это значит, что у них больше не будет доступа к вашим данным. Если приложение ранее записывало данные, оно появится в списке неактивных приложений."</string>
     <string name="denied_apps_dialog_title">Почему сервис \"Здоровье и спорт\" отзывает разрешения для приложений</string>
+<!-- ### FROM SOURCE -->
+    <string name="dest_title">destination title</string>
     <string name="dietary_fiber">Клетчатка</string>
     <string name="disconnect_all_apps">Запретить доступ для всех приложений</string>
+<!-- ### FROM SOURCE -->
+    <string name="distance_km">{dist, plural, =1 {1 km} other {# km}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="distance_km_long">{dist, plural, =1 {1 kilometer} other {# kilometers}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="distance_lowercase_label">distance</string>
+<!-- ### FROM SOURCE -->
+    <string name="distance_miles">{dist, plural, =1 {1 mile} other {# miles}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="distance_miles_long">{dist, plural, =1 {1 mile} other {# miles}}</string>
     <string name="distance_read_content_description">Чтение данных о расстоянии</string>
+<!-- ### FROM SOURCE -->
+    <string name="distance_unit_kilometers_label">Kilometers</string>
+<!-- ### FROM SOURCE -->
+    <string name="distance_unit_miles_label">Miles</string>
     <string name="distance_unit_title">Расстояние</string>
+<!-- ### FROM SOURCE -->
+    <string name="distance_uppercase_label">Distance</string>
     <string name="distance_write_content_description">Запись данных о расстоянии</string>
     <string name="double_arm_triceps_extension">Французский жим</string>
     <string name="dumbbell_curl_left_arm">Сгибание левой руки с гантелью</string>
@@ -194,7 +344,11 @@
     <string name="dumbbell_triceps_extension_left_arm">Разгибание левой руки с гантелью из-за головы</string>
     <string name="dumbbell_triceps_extension_right_arm">Разгибание правой руки с гантелью из-за головы</string>
     <string name="dumbbell_triceps_extension_two_arm">Разгибание рук с гантелями из-за головы</string>
+<!-- ### FROM SOURCE -->
+    <string name="elevation_gained_lowercase_label">elevation gained</string>
     <string name="elevation_gained_read_content_description">Чтение данных о достигнутой высоте</string>
+<!-- ### FROM SOURCE -->
+    <string name="elevation_gained_uppercase_label">Elevation gained</string>
     <string name="elevation_gained_write_content_description">Запись данных о достигнутой высоте</string>
     <string name="elevation_meters">{count,plural, =1{1 м}one{# м}few{# м}many{# м}other{# м}}</string>
     <string name="elevation_meters_long">{count,plural, =1{1 метр}one{# метр}few{# метра}many{# метров}other{# метра}}</string>
@@ -209,10 +363,18 @@
     <string name="error_icon_content_description">Ошибка</string>
     <string name="exercise_class">Спортзал</string>
     <string name="exercise_laps_header">Круги</string>
+<!-- ### FROM SOURCE -->
+    <string name="exercise_lowercase_label">exercise</string>
     <string name="exercise_read_content_description">Чтение данных о тренировках</string>
+<!-- ### FROM SOURCE -->
+    <string name="exercise_route_lowercase_label">exercise route</string>
     <string name="exercise_route_read_content_description">Чтение маршрута тренировки</string>
+<!-- ### FROM SOURCE -->
+    <string name="exercise_route_uppercase_label">Exercise route</string>
     <string name="exercise_route_write_content_description">Запись маршрута тренировки</string>
     <string name="exercise_segments_header">Сегменты тренировки</string>
+<!-- ### FROM SOURCE -->
+    <string name="exercise_uppercase_label">Exercise</string>
     <string name="exercise_write_content_description">Запись данных о тренировках</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="export_data_button">Экспорт данных</string>
@@ -221,7 +383,11 @@
     <string name="feet_inches_format_long">%1$s %2$s</string>
     <string name="fencing">Фехтование</string>
     <string name="floors_climbed">{count,plural, =1{1 этаж}one{# этаж}few{# этажа}many{# этажей}other{# этажа}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="floors_climbed_lowercase_label">floors climbed</string>
     <string name="floors_climbed_read_content_description">Чтение количества пройденных этажей</string>
+<!-- ### FROM SOURCE -->
+    <string name="floors_climbed_uppercase_label">Floors climbed</string>
     <string name="floors_climbed_write_content_description">Запись количества пройденных этажей</string>
     <string name="flow_heavy">Обильные выделения</string>
     <string name="flow_light">Скудные выделения</string>
@@ -232,6 +398,8 @@
     <string name="football_american">Американский футбол</string>
     <string name="football_australian">Австралийский футбол</string>
     <string name="forward_twist">Поворот вперед</string>
+<!-- ### FROM SOURCE -->
+    <string name="free_up_space_button">Free up space</string>
     <string name="frisbee_disc">Фрисби</string>
     <string name="front_raise">Подъем рук с весом перед собой</string>
     <string name="golf">Гольф</string>
@@ -240,20 +408,64 @@
     <string name="guided_breathing">Тренировка дыхания</string>
     <string name="gymnastics">Гимнастика</string>
     <string name="handball">Гандбол</string>
+<!-- ### FROM SOURCE -->
+    <string name="hc_get_started_link">https://support.google.com/android?p=get_started_hc</string>
     <string name="health_connect_summary">Доступ к данным о здоровье</string>
     <string name="health_permission_header_description">Приложения с этим разрешением могут читать и записывать данные о вашем здоровье и физической форме</string>
     <string name="heart_rate_long_value">{count,plural, =1{1 удар в минуту}one{# удар в минуту}few{# удара в минуту}many{# ударов в минуту}other{# удара в минуту}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="heart_rate_lowercase_label">heart rate</string>
     <string name="heart_rate_read_content_description">Чтение данных о пульсе</string>
+<!-- ### FROM SOURCE -->
+    <string name="heart_rate_series_range">%1$s - %2$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="heart_rate_series_range_long">from %1$s to %2$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="heart_rate_uppercase_label">Heart rate</string>
     <string name="heart_rate_value">{count,plural, =1{1 уд/мин}one{# уд/мин}few{# уд/мин}many{# уд/мин}other{# уд/мин}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="heart_rate_variability_lowercase_label">heart rate variability</string>
     <string name="heart_rate_variability_read_content_description">Чтение данных об изменении пульса</string>
+<!-- ### FROM SOURCE -->
+    <string name="heart_rate_variability_uppercase_label">Heart rate variability</string>
     <string name="heart_rate_variability_write_content_description">Запись данных об изменении пульса</string>
     <string name="heart_rate_write_content_description">Запись данных о пульсе</string>
+<!-- ### FROM SOURCE -->
+    <string name="height_cm">{height, plural, =1 {1 cm} other {# cm}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="height_cm_long">{height, plural, =1 {1 centimeter} other {# centimeters}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="height_ft_compacted">{height, plural, =1 {1′} other {#′}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="height_ft_long">{height, plural, =1 {1 foot} other {# feet}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="height_in_compacted">{height, plural, =1 {1″} other {#″}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="height_in_long">{height, plural, =1 {1 inch} other {# inches}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="height_lowercase_label">height</string>
     <string name="height_read_content_description">Чтение данных о росте</string>
+<!-- ### FROM SOURCE -->
+    <string name="height_unit_centimeters_label">Centimeters</string>
+<!-- ### FROM SOURCE -->
+    <string name="height_unit_feet_label">Feet &amp; Inches</string>
     <string name="height_unit_title">Рост</string>
+<!-- ### FROM SOURCE -->
+    <string name="height_uppercase_label">Height</string>
     <string name="height_write_content_description">Запись данных о росте</string>
+<!-- ### FROM SOURCE -->
+    <string name="help">Help</string>
+<!-- ### FROM SOURCE -->
+    <string name="help_and_feedback">Help &amp; feedback</string>
+<!-- ### FROM SOURCE -->
+    <string name="help_feedback_label">Help &amp; feedback</string>
     <string name="high_intensity_interval_training">Высокоинтенсивная интервальная тренировка</string>
     <string name="hiking">Пеший туризм</string>
+<!-- ### FROM SOURCE -->
+    <string name="hip_circumference_lowercase_label">hip circumference</string>
     <string name="hip_circumference_read_content_description">Чтение данных об окружности бедер</string>
+<!-- ### FROM SOURCE -->
+    <string name="hip_circumference_uppercase_label">Hip circumference</string>
     <string name="hip_circumference_write_content_description">Запись данных об окружности бедер</string>
     <string name="hip_thrust">Ягодичный мостик</string>
     <string name="home_subtitle">Управляйте данными о физической активности и здоровье с телефона и контролируйте доступ приложений к этой информации.</string>
@@ -262,7 +474,11 @@
     <string name="hour_minute_duration_accessibility">%1$s %2$s</string>
     <string name="hour_minute_duration_short">%1$s ч. %2$s м.</string>
     <string name="hula_hoop">Вращение обруча</string>
+<!-- ### FROM SOURCE -->
+    <string name="hydration_lowercase_label">hydration</string>
     <string name="hydration_read_content_description">Чтение данных об уровне жидкости в организме</string>
+<!-- ### FROM SOURCE -->
+    <string name="hydration_uppercase_label">Hydration</string>
     <string name="hydration_write_content_description">Запись данных об уровне жидкости в организме</string>
     <string name="ice_hockey">Хоккей</string>
     <string name="ice_skating">Коньки на льду</string>
@@ -272,31 +488,59 @@
     <string name="inactive_apps_section_message">У этих приложений больше нет доступа, но их данные по-прежнему хранятся в сервисе \"Здоровье и спорт\".</string>
     <string name="inactive_apps_section_title">Неактивные приложения</string>
     <string name="install_type_instant">Приложение с мгновенным запуском</string>
+<!-- ### FROM SOURCE -->
+    <string name="intermenstrual_bleeding_lowercase_label">intermenstrual bleeding</string>
+<!-- ### FROM SOURCE -->
+    <string name="intermenstrual_bleeding_read_content_description">Read intermenstrual bleeding</string>
+<!-- ### FROM SOURCE -->
+    <string name="intermenstrual_bleeding_uppercase_label">Intermenstrual bleeding</string>
+<!-- ### FROM SOURCE -->
+    <string name="intermenstrual_bleeding_write_content_description">Write intermenstrual bleeding</string>
     <string name="iodine">Йод</string>
     <string name="iron">Железо</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="jump_rope">Скакалка</string>
     <string name="jumping_jack">Прыжки \"ноги вместе – ноги врозь\"</string>
     <string name="kettlebell_swing">Махи гирей</string>
+<!-- ### FROM SOURCE -->
+    <string name="kilograms_long_label">{count, plural, =1 {1 kilogram} other {# kilograms}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="kilograms_short_label">{count, plural, =1 {1 kg} other {# kg}}</string>
     <string name="kj">{count,plural, =1{1 кДж}one{# кДж}few{# кДж}many{# кДж}other{# кДж}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="kj_long">{count, plural, =1 {1 kilojoule} other {# kilojoules}}</string>
     <string name="lat_pull_down">Тяга верхнего блока</string>
     <string name="lateral_raise">Подъемы гантелей через стороны</string>
+<!-- ### FROM SOURCE -->
+    <string name="lean_body_mass_lowercase_label">lean body mass</string>
     <string name="lean_body_mass_read_content_description">Чтение данных о сухой массе тела</string>
+<!-- ### FROM SOURCE -->
+    <string name="lean_body_mass_uppercase_label">Lean body mass</string>
     <string name="lean_body_mass_write_content_description">Запись данных о сухой массе тела</string>
     <string name="leg_curl">Сгибание ног</string>
     <string name="leg_extension">Разгибание ног</string>
     <string name="leg_press">Жим ногами</string>
     <string name="leg_raise">Подъём ног</string>
+<!-- ### FROM SOURCE -->
+    <string name="liter">{count, plural, =1 {1 L} other {# L}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="liter_long">{count, plural, =1 {1 liter} other {# liters}}</string>
     <string name="loading">Подождите…</string>
     <string name="lunge">Выпады</string>
     <string name="magnesium">Магний</string>
     <string name="manage_data_section">Управление данными</string>
+<!-- ### FROM SOURCE -->
+    <string name="manage_permissions">Manage permissions</string>
     <string name="manage_permissions_learn_more">Ознакомиться с политикой конфиденциальности</string>
     <string name="manage_permissions_manage_app_header">Управление приложением</string>
     <string name="manage_permissions_rationale">На данные, которые вы предоставляете приложению \"%1$s\", распространяется его политика конфиденциальности.</string>
     <string name="manage_permissions_read_header">Разрешено чтение данных</string>
     <string name="manage_permissions_time_frame">Приложение \"%1$s\" получит доступ к данным, добавленным после %2$s.</string>
     <string name="manage_permissions_write_header">Разрешена запись данных</string>
+<!-- ### FROM SOURCE -->
+    <string name="manage_your_settings">Manage your settings and privacy</string>
+<!-- ### FROM SOURCE -->
+    <string name="manage_your_settings_description">Change app permissions and manage your data at any time</string>
     <string name="manganese">Марганец</string>
     <string name="martial_arts">Боевые искусства</string>
     <string name="material_clock_display_divider">:</string>
@@ -314,6 +558,8 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Установите время</string>
     <string name="material_timepicker_text_input_mode_description">Ввод времени в текстовом режиме</string>
+<!-- ### FROM SOURCE -->
+    <string name="meal_name">Name</string>
     <string name="mealtype_breakfast">Завтрак</string>
     <string name="mealtype_dinner">Ужин</string>
     <string name="mealtype_label">Прием пищи</string>
@@ -321,14 +567,114 @@
     <string name="mealtype_snack">Перекус</string>
     <string name="mealtype_unknown">Неизвестно</string>
     <string name="meditation">Медитация</string>
+<!-- ### FROM SOURCE -->
+    <string name="menstruation_lowercase_label">menstruation</string>
     <string name="menstruation_read_content_description">Чтение данных о менструации</string>
+<!-- ### FROM SOURCE -->
+    <string name="menstruation_uppercase_label">Menstruation</string>
     <string name="menstruation_write_content_description">Запись данных о менструации</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_app_update_needed_action">Before continuing, update the Health Connect app to the latest version.</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_app_update_needed_notification_title">Health Connect update needed</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_complete_notification_action">Open</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_complete_notification_title">Health Connect integration complete</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_in_progress_notification_title">Health Connect integration in progress</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_in_progress_permissions_dialog_button_got_it">Got it</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_in_progress_permissions_dialog_content">"Health Connect is being integrated with the Android system.
+
+You'll get a notification when the process is complete and you can use %1$s with Health Connect."</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_in_progress_permissions_dialog_content_apps">"Health Connect is being integrated with the Android system.
+
+You'll get a notification when the process is complete and you can use Health Connect."</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_in_progress_permissions_dialog_title">Health Connect integration in progress</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_in_progress_screen_integration_details">"Health Connect is being integrated with the Android system.
+
+It may take some time while your data and permissions are being transferred."</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_in_progress_screen_integration_dont_close">"Don't close the app until you get a notification that the process is complete."</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_in_progress_screen_title">Integration in progress</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_module_update_needed_action">Before continuing, update your phone system.</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_module_update_needed_notification_title">System update needed</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_module_update_needed_restart">"If you've already updated your phone system, try restarting your phone to continue the integration"</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_more_space_needed_notification_content">Health Connect needs %1$s of storage space on your phone to continue integrating.</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_more_space_needed_notification_title">More space needed</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_more_space_needed_screen_details">"Health Connect needs %1$s of storage space on your phone in order for the integration to continue.
+
+Clear some space on your phone and then try again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_more_space_needed_screen_title">More space needed</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_not_complete_dialog_button">Got it</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_not_complete_dialog_content">"You'll get a notification when it becomes available again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_not_complete_dialog_seen">Migration Not Complete Seen</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_not_complete_dialog_title">"Health Connect integration didn't complete"</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_not_complete_notification_action">Read more</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_not_complete_notification_title">"Health Connect integration didn't complete"</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_paused_notification_content">Health Connect is being integrated with the Android system. Tap to continue</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_paused_notification_title">Integration paused</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_paused_screen_details">"The Health Connect app closed while it was being integrated with the Android system.
+
+Click resume to reopen the app and continue transferring your data and permissions."</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_paused_screen_details_timeout">In order to keep your Health Connect data, complete this within %1$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_paused_screen_title">Integration paused</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_pending_permissions_dialog_button_continue">Continue</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_pending_permissions_dialog_button_start_integration">Start integration</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_pending_permissions_dialog_content">Health Connect is ready to be integrated with your Android system. If you give %1$s access now, some features may not work until integration is complete.</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_pending_permissions_dialog_content_apps">Health Connect is ready to be integrated with your Android system. If you give apps access now, some features may not work until integration is complete.</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_pending_permissions_dialog_title">Health Connect integration</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_update_needed_notification_action">Update now</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_update_needed_notification_content">Start this update so that Health Connect can continue integrating with your system settings</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_update_needed_screen_details">Health Connect is being integrated with the Android system so you can access it directly from your settings.</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_update_needed_screen_title">Update needed</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_whats_new_dialog_button">Got it</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_whats_new_dialog_content">You can now access Health Connect directly from your settings. Uninstall the Health Connect app any time.</string>
+<!-- ### FROM SOURCE -->
+    <string name="migration_whats_new_dialog_title">"What's new"</string>
     <string name="millimoles_per_liter">{count,plural, =1{1 ммоль/л}one{# ммоль/л}few{# ммоль/л}many{# ммоль/л}other{# ммоль/л}}</string>
     <string name="millimoles_per_liter_long">{count,plural, =1{1 миллимоль на литр}one{# миллимоль на литр}few{# миллимоля на литр}many{# миллимолей на литр}other{# миллимоля на литр}}</string>
     <string name="milliseconds">{count,plural, =1{1 мс}one{# мс}few{# мс}many{# мс}other{# мс}}</string>
     <string name="milliseconds_long">{count,plural, =1{1 миллисекунда}one{# миллисекунда}few{# миллисекунды}many{# миллисекунд}other{# миллисекунды}}</string>
     <string name="minute_duration">%1$s мин.</string>
     <string name="minute_duration_accessibility">{count,plural, =1{1 минута}one{# минута}few{# минуты}many{# минут}other{# минуты}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="module_update_needed_seen">Module Update Seen</string>
     <string name="molybdenum">Молибден</string>
     <string name="monounsaturated_fat">Мононенасыщенные жиры</string>
     <string name="mountain_climber">Упражнение \"Альпинист\"</string>
@@ -365,24 +711,42 @@
     <string name="mtrl_timepicker_confirm">ОК</string>
     <string name="mucus_creamy">Кремообразные</string>
     <string name="mucus_dry">Без выделений</string>
+<!-- ### FROM SOURCE -->
+    <string name="mucus_egg_white">Egg white</string>
     <string name="mucus_heavy">Много</string>
     <string name="mucus_light">Мало</string>
     <string name="mucus_medium">Средне</string>
     <string name="mucus_sticky">Липкие</string>
     <string name="mucus_unusual">Необычные</string>
     <string name="mucus_watery">Водянистые</string>
+<!-- ### FROM SOURCE -->
+    <string name="nav_app_bar_navigate_up_description">Navigate up</string>
+<!-- ### FROM SOURCE -->
+    <string name="nav_app_bar_open_drawer_description">Open navigation drawer</string>
     <string name="navigation_next_day">Следующий день</string>
     <string name="navigation_previous_day">Предыдущий день</string>
+<!-- ### FROM SOURCE -->
+    <string name="navigation_selected_day">Selected day</string>
     <string name="niacin">Ниацин</string>
     <string name="no_apps_allowed">Не разрешен ни одному приложению</string>
     <string name="no_apps_denied">Не запрещён ни одному приложению</string>
     <string name="no_categories">В приложении \"Здоровье и спорт\" нет данных.</string>
     <string name="no_data">Нет данных</string>
+<!-- ### FROM SOURCE -->
+    <string name="no_recent_access">No apps recently accessed Health Connect</string>
     <string name="no_results">Ничего не найдено</string>
     <string name="not_connected_apps_section_title">Доступ запрещён</string>
     <string name="not_set">Не задано</string>
     <string name="nutrient_with_value">%1$s: %2$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="nutrition_category_lowercase">nutrition</string>
+<!-- ### FROM SOURCE -->
+    <string name="nutrition_category_uppercase">Nutrition</string>
+<!-- ### FROM SOURCE -->
+    <string name="nutrition_lowercase_label">nutrition</string>
     <string name="nutrition_read_content_description">Чтение данных о питании</string>
+<!-- ### FROM SOURCE -->
+    <string name="nutrition_uppercase_label">Nutrition</string>
     <string name="nutrition_write_content_description">Запись данных о питании</string>
     <string name="onboarding_description">Health Connect хранит ваши данные о физической активности и здоровье, а также синхронизирует работу разных приложений на телефоне.</string>
     <string name="onboarding_get_started_button_text">Начать</string>
@@ -394,17 +758,35 @@
     <string name="ovulation_inconclusive">Неоднозначный результат</string>
     <string name="ovulation_negative">Отрицательный</string>
     <string name="ovulation_positive">Положительный</string>
+<!-- ### FROM SOURCE -->
+    <string name="ovulation_test_lowercase_label">ovulation test</string>
     <string name="ovulation_test_read_content_description">Чтение данных о тестах на овуляцию</string>
+<!-- ### FROM SOURCE -->
+    <string name="ovulation_test_uppercase_label">Ovulation test</string>
     <string name="ovulation_test_write_content_description">Запись данных о тестах на овуляцию</string>
+<!-- ### FROM SOURCE -->
+    <string name="oxygen_saturation_lowercase_label">oxygen saturation</string>
     <string name="oxygen_saturation_read_content_description">Чтение данных об уровне кислорода в крови</string>
+<!-- ### FROM SOURCE -->
+    <string name="oxygen_saturation_uppercase_label">Oxygen saturation</string>
     <string name="oxygen_saturation_write_content_description">Запись данных об уровне кислорода в крови</string>
     <string name="paddling">Гребля</string>
     <string name="pantothenic_acid">Пантотеновая кислота</string>
     <string name="paragliding">Парапланеризм</string>
     <string name="password_toggle_content_description">Показать пароль</string>
+<!-- ### FROM SOURCE -->
+    <string name="pause">Pause</string>
     <string name="percent" formatted="false">{value,plural, =1{1 %}one{# %}few{# %}many{# %}other{# %}}</string>
     <string name="percent_long">{value,plural, =1{1 процент}one{# процент}few{# процента}many{# процентов}other{# процента}}</string>
     <string name="period_day">День менструации: %1$d из %2$d</string>
+<!-- ### FROM SOURCE -->
+    <string name="permdesc_readCaloriesBurned">Allows the app to read the calories burned</string>
+<!-- ### FROM SOURCE -->
+    <string name="permgroupdesc_health">access your health data</string>
+<!-- ### FROM SOURCE -->
+    <string name="permgrouplab_health">Health Connect</string>
+<!-- ### FROM SOURCE -->
+    <string name="permission_types_title">Your data</string>
     <string name="permissions_and_data_header">Разрешения и данные</string>
     <string name="permissions_disconnect_all_dialog_disconnect">Запретить</string>
     <string name="permissions_disconnect_all_dialog_message">"Ни одно из ваших приложений больше не сможет получать доступ к информации в сервисе \"Здоровье и спорт\" или добавлять ее. Уже имеющиеся данные не будут удалены.
@@ -417,24 +799,56 @@
 
 Это не повлияет на другие разрешения, такие как доступ к сведениям о местоположении, камере или микрофону."</string>
     <string name="permissions_disconnect_dialog_title">Удалить все разрешения?</string>
+<!-- ### FROM SOURCE -->
+    <string name="permlab_readCaloriesBurned">Read calories burned</string>
     <string name="phosphorus">Фосфор</string>
     <string name="pilates">Пилатес</string>
     <string name="plank">Планка</string>
     <string name="playstore_app_title">Google Play</string>
+<!-- ### FROM SOURCE -->
+    <string name="playstore_collection_url">https://play.google.com/store/apps/collection/promotion_all__health_connect</string>
+<!-- ### FROM SOURCE -->
+    <string name="playstore_manage_apps_url">https://play.google.com/apps</string>
+<!-- ### FROM SOURCE -->
+    <string name="playstore_package_name">com.android.vending</string>
     <string name="polyunsaturated_fat">Полиненасыщенные жиры</string>
     <string name="potassium">Калий</string>
+<!-- ### FROM SOURCE -->
+    <string name="pounds_long_label">{count, plural, =1 {1 pound} other {# pounds}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="pounds_short_label">{count, plural, =1 {1 lb} other {# lb}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="power_lowercase_label">power</string>
     <string name="power_read_content_description">Чтение данных о мощности</string>
+<!-- ### FROM SOURCE -->
+    <string name="power_uppercase_label">Power</string>
     <string name="power_write_content_description">Запись данных о мощности</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
+<!-- ### FROM SOURCE -->
+    <string name="previously_opened">Previously Opened</string>
+<!-- ### FROM SOURCE -->
+    <string name="priority_dialog_message">If more than one app adds %s data, Health Connect prioritizes the app highest in this list. Drag apps to reorder them.</string>
+<!-- ### FROM SOURCE -->
+    <string name="priority_dialog_positive_button">Save</string>
+<!-- ### FROM SOURCE -->
+    <string name="priority_dialog_title">Set app priority</string>
     <string name="protein">Белок</string>
     <string name="pull_up">Подтягивания</string>
     <string name="punch">Удары</string>
     <string name="racquetball">Ракетбол</string>
+<!-- ### FROM SOURCE -->
+    <string name="range_after_x_months">{count, plural, =1{After # month}other{After # months}}</string>
     <string name="range_never">Не удалять автоматически</string>
+<!-- ### FROM SOURCE -->
+    <string name="range_off">Off</string>
     <string name="read_data_access_label">Чтение: %s</string>
+<!-- ### FROM SOURCE -->
+    <string name="read_permission_category">Allow “%1$s” to read</string>
     <string name="recent_access_header">Доступ за последнее время</string>
     <string name="recent_access_screen_description">Посмотрите, какие приложения получали доступ к вашим данным за последние %1$d ч.</string>
     <string name="repetitions">{count,plural, =1{1 повт.}one{# повт.}few{# повт.}many{# повт.}other{# повт.}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="repetitions_format">%1$s: %2$s</string>
     <string name="repetitions_long">{count,plural, =1{1 повтор}one{# повтор}few{# повтора}many{# повторов}other{# повтора}}</string>
     <string name="request_permissions_allow">Открыть доступ</string>
     <string name="request_permissions_allow_all">Разрешить все</string>
@@ -452,11 +866,37 @@
     <string name="request_route_info_header_title">Маршруты тренировок включают в себя данные о местоположении</string>
     <string name="request_route_info_who_can_see_data_summary">Только в приложения, у которых есть доступ к маршрутам тренировок.</string>
     <string name="request_route_info_who_can_see_data_title">Куда передается эта информация?</string>
+<!-- ### FROM SOURCE -->
+    <string name="respiratory_rate_lowercase_label">respiratory rate</string>
     <string name="respiratory_rate_read_content_description">Чтение данных о частоте дыхания</string>
+<!-- ### FROM SOURCE -->
+    <string name="respiratory_rate_uppercase_label">Respiratory rate</string>
+<!-- ### FROM SOURCE -->
+    <string name="respiratory_rate_value">{count, plural, =1 {1 rpm} other {# rpm}}</string>
     <string name="respiratory_rate_value_long">{count,plural, =1{1 вдох в минуту}one{# вдох в минуту}few{# вдоха в минуту}many{# вдохов в минуту}other{# вдоха в минуту}}</string>
     <string name="respiratory_rate_write_content_description">Запись данных о частоте дыхания</string>
+<!-- ### FROM SOURCE -->
+    <string name="rest">Rest</string>
+<!-- ### FROM SOURCE -->
+    <string name="resting_heart_rate_lowercase_label">resting heart rate</string>
     <string name="resting_heart_rate_read_content_description">Чтение данных о пульсе в покое</string>
+<!-- ### FROM SOURCE -->
+    <string name="resting_heart_rate_uppercase_label">Resting heart rate</string>
     <string name="resting_heart_rate_write_content_description">Запись данных о пульсе в покое</string>
+<!-- ### FROM SOURCE -->
+    <string name="resume_button">Resume</string>
+<!-- ### FROM SOURCE -->
+    <string name="resume_migration_banner_button">Continue</string>
+<!-- ### FROM SOURCE -->
+    <string name="resume_migration_banner_description">Tap to continue integrating Health Connect with the Android system. In order to keep your data, complete this within %1$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="resume_migration_banner_description_fallback">Tap to continue integrating Health Connect with the Android system.</string>
+<!-- ### FROM SOURCE -->
+    <string name="resume_migration_banner_title">Resume integration</string>
+<!-- ### FROM SOURCE -->
+    <string name="resume_migration_notification_content">In order to keep your data, complete this within %1$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="resume_migration_notification_title">Resume Health Connect integration</string>
     <string name="riboflavin">Рибофлавин</string>
     <string name="rock_climbing">Скалолазание</string>
     <string name="roller_hockey">Хоккей на роликах</string>
@@ -468,25 +908,68 @@
     <string name="sailing">Парусный спорт</string>
     <string name="saturated_fat">Насыщенные жиры</string>
     <string name="scuba_diving">Дайвинг</string>
+<!-- ### FROM SOURCE -->
+    <string name="search_breadcrumbs_data">Health Connect > Data and access</string>
+<!-- ### FROM SOURCE -->
+    <string name="search_breadcrumbs_permissions">Health Connect > App permissions</string>
+<!-- ### FROM SOURCE -->
+    <string name="search_connected_apps">Search apps</string>
+<!-- ### FROM SOURCE -->
+    <string name="search_keywords_data">health connect, health data, health categories, data access, activity, body measurements, cycle tracking, nutrition, sleep, vitals</string>
+<!-- ### FROM SOURCE -->
+    <string name="search_keywords_home">fitness, wellness</string>
+<!-- ### FROM SOURCE -->
+    <string name="search_keywords_permissions">permissions</string>
+<!-- ### FROM SOURCE -->
+    <string name="search_menu_title">Search</string>
+<!-- ### FROM SOURCE -->
+    <string name="see_all_categories">See all categories</string>
     <string name="see_all_compatible_apps">Посмотреть все совместимые приложения</string>
+<!-- ### FROM SOURCE -->
+    <string name="see_all_compatible_apps_description">Find apps on Google Play</string>
     <string name="select_all_apps_title">Все приложения</string>
     <string name="selenium">Селен</string>
     <string name="send_feedback">Отправить отзыв</string>
+<!-- ### FROM SOURCE -->
+    <string name="send_feedback_description">"Tell us which health &amp; fitness apps you'd like to work with Health Connect"</string>
+<!-- ### FROM SOURCE -->
+    <string name="session_title">%1$s, %2$s</string>
     <string name="set_auto_delete_button">Настроить автоматическое удаление</string>
     <string name="set_units_label">Выбрать единицы измерения</string>
     <string name="settings_and_help_header">Настройки и справка</string>
+<!-- ### FROM SOURCE -->
+    <string name="settingslib_learn_more_text">Learn more</string>
+<!-- ### FROM SOURCE -->
+    <string name="sexual_activity_lowercase_label">sexual activity</string>
     <string name="sexual_activity_protected">С защитой</string>
     <string name="sexual_activity_read_content_description">Чтение данных о сексуальной активности</string>
     <string name="sexual_activity_unprotected">Без защиты</string>
+<!-- ### FROM SOURCE -->
+    <string name="sexual_activity_uppercase_label">Sexual activity</string>
     <string name="sexual_activity_write_content_description">Запись данных о сексуальной активности</string>
+<!-- ### FROM SOURCE -->
+    <string name="share_data">Share data with your apps</string>
+<!-- ### FROM SOURCE -->
+    <string name="share_data_description">Choose the data each app can read or write to Health Connect</string>
     <string name="shoulder_press">Жим от плеч</string>
     <string name="show_recent_access_entries_button_title">Посмотреть все недавние операции</string>
     <string name="single_arm_triceps_extension">Подъем гантели над головой</string>
     <string name="sit_up">Подъем корпуса</string>
     <string name="skating">Коньки</string>
     <string name="skiing">Лыжный спорт</string>
+<!-- ### FROM SOURCE -->
+    <string name="sleep_category_lowercase">sleep</string>
+<!-- ### FROM SOURCE -->
+    <string name="sleep_category_uppercase">Sleep</string>
+<!-- ### FROM SOURCE -->
+    <string name="sleep_lowercase_label">sleep</string>
     <string name="sleep_read_content_description">Чтение данных о сне</string>
     <string name="sleep_session_default">Сон: %1$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="sleep_session_with_notes">"%1$s 
+%2$s"</string>
+<!-- ### FROM SOURCE -->
+    <string name="sleep_session_with_one_field">%1$s</string>
     <string name="sleep_stage_awake">бодрствование</string>
     <string name="sleep_stage_awake_in_bed">пробуждение</string>
     <string name="sleep_stage_deep">крепкий сон</string>
@@ -496,6 +979,8 @@
     <string name="sleep_stage_rem">быстрый сон</string>
     <string name="sleep_stage_sleeping">сон</string>
     <string name="sleep_stage_unknown">неизвестно</string>
+<!-- ### FROM SOURCE -->
+    <string name="sleep_uppercase_label">Sleep</string>
     <string name="sleep_write_content_description">Запись данных о сне</string>
     <string name="snowboarding">Сноуборд</string>
     <string name="snowshoeing">Ходьба на снегоступах</string>
@@ -508,20 +993,40 @@
     <string name="specimen_source_serum">Сыворотка</string>
     <string name="specimen_source_tears">Слезы</string>
     <string name="specimen_source_whole_blood">Цельная кровь</string>
+<!-- ### FROM SOURCE -->
+    <string name="speed_lowercase_label">speed</string>
     <string name="speed_read_content_description">Чтение данных о скорости</string>
+<!-- ### FROM SOURCE -->
+    <string name="speed_uppercase_label">Speed</string>
     <string name="speed_write_content_description">Запись данных о скорости</string>
     <string name="spotting">Мажущие выделения</string>
+<!-- ### FROM SOURCE -->
+    <string name="spotting_lowercase_label">spotting</string>
     <string name="spotting_read_content_description">Чтение данных о мажущих выделениях</string>
+<!-- ### FROM SOURCE -->
+    <string name="spotting_uppercase_label">Spotting</string>
     <string name="spotting_write_content_description">Запись данных о мажущих выделениях</string>
     <string name="squash">Сквош</string>
     <string name="squat">Приседания</string>
     <string name="stair_climbing">Подъем по лестнице</string>
     <string name="stair_climbing_machine">Степпер</string>
+<!-- ### FROM SOURCE -->
+    <string name="steps_lowercase_label">steps</string>
     <string name="steps_per_minute">{value,plural, =1{1 шаг/мин}one{# шаг/мин}few{# шаг/мин}many{# шаг/мин}other{# шаг/мин}}</string>
     <string name="steps_per_minute_long">{value,plural, =1{1 шаг в минуту}one{# шаг в минуту}few{# шага в минуту}many{# шагов в минуту}other{# шага в минуту}}</string>
     <string name="steps_read_content_description">Чтение количества шагов</string>
+<!-- ### FROM SOURCE -->
+    <string name="steps_uppercase_label">Steps</string>
     <string name="steps_value">{count,plural, =1{1 шаг}one{# шаг}few{# шага}many{# шагов}other{# шага}}</string>
     <string name="steps_write_content_description">Запись количества шагов</string>
+<!-- ### FROM SOURCE -->
+    <string name="stone_long_label">{count, plural, =1 {1 stone} other {# stones}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="stone_pound_long_label">{stone_part} {pound_part}</string>
+<!-- ### FROM SOURCE -->
+    <string name="stone_pound_short_label">{stone_part} {pound_part}</string>
+<!-- ### FROM SOURCE -->
+    <string name="stone_short_label">{count, plural, =1 {1 st} other {# st}}</string>
     <string name="strength_training">Силовая тренировка</string>
     <string name="stretching">Растяжка</string>
     <string name="sugar">Сахар</string>
@@ -557,6 +1062,10 @@
     <string name="temperature_unit_title">Температура</string>
     <string name="tennis">Теннис</string>
     <string name="thiamin">Тиамин</string>
+<!-- ### FROM SOURCE -->
+    <string name="things_to_try">Things to try</string>
+<!-- ### FROM SOURCE -->
+    <string name="time_range">%1$s - %2$s</string>
     <string name="time_range_all">Все</string>
     <string name="time_range_long">С %1$s до %2$s</string>
     <string name="time_range_message_all">Все данные, добавленные в Health Connect за выбранный период времени, будут навсегда удалены.</string>
@@ -569,18 +1078,36 @@
     <string name="time_range_one_week">За последние 7 дней</string>
     <string name="time_range_title">Выберите данные для удаления</string>
     <string name="today_header">Сегодня</string>
+<!-- ### FROM SOURCE -->
+    <string name="total_calories_burned_lowercase_label">total calories burned</string>
     <string name="total_calories_burned_read_content_description">Чтение данных об общем количестве сожженных калорий</string>
+<!-- ### FROM SOURCE -->
+    <string name="total_calories_burned_uppercase_label">Total calories burned</string>
     <string name="total_calories_burned_write_content_description">Запись данных об общем количестве сожженных калорий</string>
     <string name="total_carbohydrate">Углеводы</string>
     <string name="total_fat">Жиры</string>
     <string name="trans_fat">Трансжиры</string>
+<!-- ### FROM SOURCE -->
+    <string name="try_again_button">Try again</string>
+<!-- ### FROM SOURCE -->
+    <string name="units_cancel">Cancel</string>
     <string name="units_title">Единицы измерения</string>
     <string name="unsaturated_fat">Ненасыщенные жиры</string>
+<!-- ### FROM SOURCE -->
+    <string name="update_button">Update</string>
     <string name="upper_twist">Поворот туловища</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="velocity_speed_km">{value,plural, =1{1 км/ч}one{# км/ч}few{# км/ч}many{# км/ч}other{# км/ч}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="velocity_speed_km_long">{value, plural, =1 {1 kilometer per hour} other {# kilometers per hour}}</string>
     <string name="velocity_speed_miles">{value,plural, =1{1 мил/ч}one{# мил/ч}few{# мил/ч}many{# мил/ч}other{# мил/ч}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="velocity_speed_miles_long">{value, plural, =1 {1 mile per hour} other {# miles per hour}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="vitals_category_lowercase">vitals</string>
+<!-- ### FROM SOURCE -->
+    <string name="vitals_category_uppercase">Vitals</string>
     <string name="vitamin_a">Витамин A</string>
     <string name="vitamin_b12">Витамин B12</string>
     <string name="vitamin_b6">Витамин B6</string>
@@ -592,32 +1119,52 @@
     <string name="vo2_heart_rate_ratio">Частота сердцебиения</string>
     <string name="vo2_max">{value,plural, =1{1 мл/кг/мин}one{# мл/кг/мин}few{# мл/кг/мин}many{# мл/кг/мин}other{# мл/кг/мин}}</string>
     <string name="vo2_max_long">{value,plural, =1{1 миллилитр кислорода на килограмм массы тела в минуту}one{# миллилитр кислорода на килограмм массы тела в минуту}few{# миллилитра кислорода на килограмм массы тела в минуту}many{# миллилитров кислорода на килограмм массы тела в минуту}other{# миллилитра кислорода на килограмм массы тела в минуту}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="vo2_max_lowercase_label">VO2 max</string>
     <string name="vo2_max_read_content_description">Чтение данных о максимальном потреблении кислорода</string>
+<!-- ### FROM SOURCE -->
+    <string name="vo2_max_uppercase_label">VO2 max</string>
     <string name="vo2_max_write_content_description">Запись данных о максимальном потреблении кислорода</string>
     <string name="vo2_metabolic_cart">Метаболограф</string>
     <string name="vo2_multistage_fitness_test">Многоэтапный фитнес-тест</string>
     <string name="vo2_other">Другое</string>
     <string name="vo2_rockport_fitness_test">Тест Рокпорта</string>
     <string name="volleyball">Волейбол</string>
+<!-- ### FROM SOURCE -->
+    <string name="waist_circumference_lowercase_label">waist circumference</string>
     <string name="waist_circumference_read_content_description">Чтение данных об окружности талии</string>
+<!-- ### FROM SOURCE -->
+    <string name="waist_circumference_uppercase_label">Waist circumference</string>
     <string name="waist_circumference_write_content_description">Запись данных об окружности талии</string>
     <string name="walking">Ходьба</string>
     <string name="water_polo">Водное поло</string>
     <string name="watt_format">{value,plural, =1{1 Вт}one{# Вт}few{# Вт}many{# Вт}other{# Вт}}</string>
     <string name="watt_format_long">{value,plural, =1{1 ватт}one{# ватт}few{# ватта}many{# ватт}other{# ватта}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="weight_lowercase_label">weight</string>
     <string name="weight_read_content_description">Чтение данных о весе</string>
     <string name="weight_unit_kilogram_label">Килограммы</string>
     <string name="weight_unit_pound_label">Фунты</string>
     <string name="weight_unit_stone_label">Стоуны</string>
     <string name="weight_unit_title">Вес</string>
+<!-- ### FROM SOURCE -->
+    <string name="weight_uppercase_label">Weight</string>
     <string name="weight_write_content_description">Запись данных о весе</string>
     <string name="weightlifting">Тяжелая атлетика</string>
+<!-- ### FROM SOURCE -->
+    <string name="whats_new_dialog_seen">Whats New Seen</string>
     <string name="wheelchair">Езда в инвалидной коляске</string>
     <string name="wheelchair_pushes">{count,plural, =1{1 толчок}one{# толчок}few{# толчка}many{# толчков}other{# толчка}}</string>
+<!-- ### FROM SOURCE -->
+    <string name="wheelchair_pushes_lowercase_label">wheelchair pushes</string>
     <string name="wheelchair_pushes_read_content_description">Чтение количества толчков коляски</string>
+<!-- ### FROM SOURCE -->
+    <string name="wheelchair_pushes_uppercase_label">Wheelchair pushes</string>
     <string name="wheelchair_pushes_write_content_description">Запись количества толчков коляски</string>
     <string name="workout">Тренировка</string>
     <string name="write_data_access_label">Запись: %s</string>
+<!-- ### FROM SOURCE -->
+    <string name="write_permission_category">Allow “%1$s” to write</string>
     <string name="yesterday_header">Вчера</string>
     <string name="yoga">Йога</string>
     <string name="zinc">Цинк</string>

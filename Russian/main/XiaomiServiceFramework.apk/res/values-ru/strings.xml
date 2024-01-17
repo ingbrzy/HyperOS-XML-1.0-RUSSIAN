@@ -28,7 +28,6 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accept">ОК</string>
-    <string name="app_name">Xiaomi Service Framework</string>
     <string name="app_update_dialog_btn_bg_update">Обновить</string>
     <string name="app_update_dialog_btn_cancel">Отмена</string>
     <string name="app_update_dialog_btn_update">Обновить</string>
@@ -45,7 +44,6 @@ ID устройства - это действительный IMEI или MAC а
     <string name="pop_up_allow_notify_dialog">Разрешить</string>
     <string name="pop_up_deny_notify_dialog">Отклонить</string>
     <string name="search_menu_title">Поиск</string>
-    <string name="size_unit_byte">%1$s Б</string>
     <string name="size_unit_gigabyte">%1$s ГБ</string>
     <string name="size_unit_kilobyte">%1$s КБ</string>
     <string name="size_unit_megabyte">%1$s МБ</string>

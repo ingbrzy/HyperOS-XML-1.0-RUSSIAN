@@ -142,6 +142,277 @@
     <string name="ai_album_setting_sub_title">Разрешить алгоритмам ИИ определять людей, места и объекты на ваших фото, чтобы вы могли быстрее их находить</string>
     <string name="ai_album_setting_title">Определять объекты на фото</string>
     <string name="ai_cancel">Отмена</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_cancel_image_message">"Uploaded photos won't be saved if you stop now."</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_cancel_image_title">Stop creating this AI image?</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_confirm">OK</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_confirm_cancel_image_btn">Stop</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_confirm_create_image">Create AI image</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_confirm_delete_image_message">"You won't be able to create new photos based on this image after you delete it."</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_confirm_delete_image_title">Delete AI image?</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_continue_create_btn">Continue</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_continue_update_image_btn">Continue</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_continue_upload_photo">Continue</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_create_ai_image">Create AI image</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_create_image_fail">"Couldn't create AI image due to a server error. Try again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_create_image_fail_by_illegal_photo">"Looks like the photos you uploaded violate our community standards.
+Try creating the AI image with different photos."</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_create_image_fail_by_net">"Couldn't create AI image. Our servers are too busy now. Try again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_create_image_photo_tip">Photos will be deleted from our servers after the AI image is created</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_create_image_queue_time">%1$s | %2$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_create_image_tip">Photos will be deleted from our servers after the AI image is created</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_create_remain_time" formatted="false">Waiting time: %1s %2s</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_creating_image_tip">"You'll receive a notification when your image is ready"</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_creating_image_title">Creating AI image…</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_creation_button">Create portrait</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_creation_button_msg">Create more portraits</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_creation_container_title">History</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_creation_count_limit_msg">"Can't create more portraits today. Come back tomorrow!"</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_creation_delete_msg">Delete this history record now?</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_creation_delete_title">Attention</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_creation_recreate_button">Start over</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_creation_save_failed_msg">"Couldn't save. Try again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_creation_save_success_msg">Saved successfully</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_creation_wait_message">Creating… | %1$s | %2$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_cta_agree_btn">Allow</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_cta_dialog_message">Allow Gallery to connect to the internet to be able to create AI portraits.</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_cta_dialog_title">Permissions required</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_cta_refuse_btn">No thanks</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_deal_file_tip">"Don't leave this page"</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_deal_file_title">Processing photos…</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_deal_tile_text">Calculating required time…</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_delete_image_fail">"Couldn't delete. Try again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_delete_image_progress_message">Deleting…</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_delete_image_success">Deleted AI image successfully</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_download_filter_photo_so_confirm_btn">Download</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_download_filter_photo_so_downloading">Downloading plug-in…</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_download_filter_photo_so_message">To be able to use all AI portrait features, download the plug-in first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_download_filter_photo_so_title">Download plug-in</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_download_filter_so_fail_toast">"Couldn't download plug-in. Try again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_enhance_bar_default">Generate HD image</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_enhance_bar_failed">"Couldn't generate HD image"</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_ensure_exit_select_message">"You'll have to select photos again next time."</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_ensure_exit_select_title">Exit now?</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_entrance_description">Create an AI image based on photos of people and generate their portraits</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_entrance_title">AI portrait</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_exit">Exit</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_filter_album_tag">People with insufficient photos were filtered out</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_free_creation_button">Create</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_free_creation_container_msg">For example: A walk on the beach</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_free_creation_container_title">Enter description</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_free_creation_illegal_text_toast">This text violates our community standards. Rewrite your message.</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_free_creation_random_button">Random</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_free_creation_text_container_tips">"Our AI image generator is constantly improving. If you aren't satisfied with the results, you can always try again a bit later!"</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_free_creation_text_count_exceed_limit">The text you entered is too long</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_free_creation_text_illage">This description violates our community standards</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_free_theme_subtitle">Based on descriptions</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_free_theme_title">Text based</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_get_it_btn">Got it</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_go_to_select_photo">Select photos</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_has_image_tip">AI image created</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_have_a_think_btn">Cancel</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_illegal_photo_tip">"Looks like the photos you selected violate our community standards.
+Select other photos instead and try again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_image_count_limit_msg">"Can't create more AI images today. Come back tomorrow!"</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_image_creating_failed_msg">"Couldn't create image for %s"</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_image_creating_msg">Creating image for %s</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_image_manager_re_create_tip">Add or delete photos to update your AI image</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_image_manager_title">Manage AI image</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_image_not_creatable">"AI image is being updated now. Try again after it's done."</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_image_over_limit_button_cancel">Got it</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_image_over_limit_button_create">Continue</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_image_over_limit_title">"Can't create AI image"</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_image_privacy_message"><Data>"Welcome to AI portraits!&lt;br/>To be able to provide services to you, we need to collect the necessary personal information:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. To create AI portraits, you'll have to upload &lt;b>photos of people&lt;/b> to our servers. We'll collect and process the information about their &lt;b>faces&lt;/b> to generate an AI model.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. When you upload &lt;b>photos of people&lt;/b>, we'll sync &lt;b>their names and profile photos&lt;/b> from the corresponding albums and associate this information with AI images.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. When you create AI images based on text, we'll collect the &lt;b>description&lt;/b> you provide in order to generate images.&lt;br/>We only collect personal information that is necessary for the specific features of our products and services that you use. You can learn how we collect and process personal information in the &lt;a href=\"%4$s\">AI Portraits Privacy Policy&lt;/a>.&lt;br/>Read and agree to &lt;a href=\"%5$s\">AI Portraits User Agreement&lt;/a> and &lt;a href=\"%6$s\">AI Portraits Privacy Policy&lt;/a> before you continue."</Data></string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_input_name_hint">Enter name</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_loading">Just a sec…</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_multi_window_tip">"This page can't be viewed in Split screen"</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_network_failed">"Couldn't connect to the network. Wait a minute or two and try again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_new_name_title">Name this AI image</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_no_access_message">"Looks like you aren't a Beta tester now. Apply on Xiaomi Community to start creating portraits using AI!"</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_no_access_title">Beta tester permissions required</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_no_net_toast">"Couldn't connect to the network. Try again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_normal_theme_button">Create</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_photo_upload_fail">"Couldn't upload. Try again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_photos_upload_fail_tip">"%s's photos haven't been uploaded yet. You can continue uploading photos now."</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_preview_failed_retry_button">Try again</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_privacy_tip_1">ID photo</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_privacy_tip_2">Birthday portrait</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_privacy_tip_input">Text description</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_privacy_title">Privacy statement</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_re_create_image">Try again</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_ready_to_have_try">Start</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_recreate_image_cancel_text_btn">Continue</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_recreate_image_confirm_text_btn">Select</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_recreate_image_dialog_msg">You can continue uploading photos or select new ones.</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_recreate_image_dialog_title">"%s's photos haven't been uploaded"</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_refuse_update_toast">Select new photos to be able to update this AI image</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_people_sub_title" formatted="false">%1d–%2d best photos will be selected automatically</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_people_title">Select a person to create their AI image</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_complete_description" formatted="false">"Select %1d–%2d face or half body shots.
+Best shots were selected automatically. You can add more photos manually."</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_complete_toast">Filtered best shots automatically</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_count">Selected photos (%d)</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_error_guide_blur">Blurry</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_error_guide_group_photo">Group shots</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_error_guide_mask">Face covered</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_error_guide_title">Incorrect</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_full_toast">Too many photos selected. Delete some of them and try again.</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_guide_description">Upload face or half body shots of the same person</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_guide_title">How to select photos</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_manual">Select manually</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_need_select_manual">Not enough photos. Add more.</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_next_step">Next</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_no_result_toast">"Can't create an AI image based on these photos. Select other photos instead."</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_over_time_toast">Best shots were selected automatically. Add more photos manually.</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_right_guide_face">Front facing</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_right_guide_multi_bg">Diverse backgrounds</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_right_guide_multi_clothes">Different clothes</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_right_guide_title">Correct</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_select_photo_time_out">"Couldn't select photos automatically. Select manually instead."</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_theme_scene_select">Select scene</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_theme_square_footer_tip">Stay tuned for new scenes!</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_theme_square_title">Create portraits</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_tip_title">Attention</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_update_full_description">"Can't update anymore. Come back next month!"</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_update_image">Update AI image</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_update_image_confirm_message">Updated image will be generated based on the selected photo.</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_update_image_confirm_title">Update AI image?</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_update_warn_message">Remember that an AI image can be updated only once every month. Continue anyway?</string>
+<!-- ### FROM SOURCE -->
+    <string name="ai_use_photo_tip">Used photos</string>
+<!-- ### FROM SOURCE -->
+    <string name="album_ai_creative">AI portraits</string>
     <string name="album_ai_description">Люди, места, объекты</string>
     <string name="album_ai_international_description">Люди</string>
     <string name="album_ai_international_title">Люди</string>
@@ -255,20 +526,13 @@
     <string name="annula_sports_title">Движение вперёд</string>
     <string name="app_is_launching">%s запускается…</string>
     <string name="app_is_launching_common">Запуск приложения…</string>
-    <string name="app_name">Галерея</string>
     <string name="app_name_view_picture">Галерея</string>
     <string name="app_name_view_video">Просмотреть видео</string>
     <string name="app_summary">Управление и редактирование фото и видео на устройстве и в Xiaomi Cloud</string>
     <string name="app_summary_2">Хранение, управление и редактирование фото и видео на устройстве</string>
     <string name="apply">Применить</string>
-    <string name="art_still_cancel_download">Отмена</string>
-    <string name="art_still_download">Загрузить</string>
     <string name="art_still_download_failed_for_notwork">Не удалось загрузить. Проверьте настройки сети и повторите попытку.</string>
-    <string name="art_still_download_sdk_without_wifi_msg">Устройство не подключено к Wi-Fi. Загрузить плагин через мобильный интернет?</string>
-    <string name="art_still_download_sdk_without_wifi_msg_china">Устройство не подключено к Wi-Fi. Загрузить плагин через мобильный интернет?</string>
     <string name="art_still_download_sdk_without_wifi_title">Загрузка плагина \"Арт\"</string>
-    <string name="art_still_download_with_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным тратам. Загрузить?</string>
-    <string name="art_still_download_with_metered_network_title">Мобильный интернет</string>
     <string name="art_still_load_data_fail">Ошибка загрузки</string>
     <string name="art_still_module_finish">Плагин \"Арт\" успешно загружен</string>
     <string name="art_still_module_loading">Загрузка плагина \"Арт\"…</string>
@@ -338,7 +602,6 @@
     <string name="backup_automatically_title">Автосинхронизация</string>
     <string name="backup_battery_low_desc">Вы можете возобновить синхронизацию</string>
     <string name="backup_battery_low_title">Низкий заряд батареи</string>
-    <string name="backup_category_title">БЭКАП</string>
     <string name="backup_close">Закрыть</string>
     <string name="backup_cloud_space_low_btn_text">Добавить</string>
     <string name="backup_cloud_space_low_desc">%1$s в Xiaomi Cloud | Доступно %2$s</string>
@@ -354,10 +617,7 @@
     <string name="backup_dirty_num">Всего: %s</string>
     <string name="backup_dirty_tip">Не выгруженные фото и видео</string>
     <string name="backup_disable_message">Галерее необходимо очистить кеш после отключения синхронизации с облаком.</string>
-    <string name="backup_display">Напоминание</string>
     <string name="backup_file_over_size_desc">Фото размером более %1$s и видео размером более %2$s не могут быть выгружены.</string>
-    <string name="backup_google_description">Защитите свои фото с помощью резервного копирования в аккаунт Google</string>
-    <string name="backup_google_name">Google Фото</string>
     <string name="backup_immediately">Начать</string>
     <string name="backup_need_sync_desc">Нажмите для продолжения</string>
     <string name="backup_need_sync_title">Выгрузка остановлена</string>
@@ -367,10 +627,6 @@
     <string name="backup_no_wifi_btn_text">Продолжить</string>
     <string name="backup_no_wifi_desc">Доступна выгрузка файлов через мобильный интернет</string>
     <string name="backup_no_wifi_title">Выгрузка возобновится после подключения к Wi-Fi</string>
-    <string name="backup_off_des">Включите синхронизацию с облаком для автоматического резервного копирования фото и видео</string>
-    <string name="backup_onedrive_description">Защита фото в облаке и доступ к ним на любом устройстве</string>
-    <string name="backup_onedrive_name">Microsoft OneDrive</string>
-    <string name="backup_onedrive_single_name">OneDrive</string>
     <string name="backup_only_in_wifi">Синхронизация только по Wi-Fi</string>
     <string name="backup_only_in_wifi_summary">Никогда не использовать мобильный интернет для синхронизации фото или видео</string>
     <string name="backup_only_wifi_dialog_message">Использовать мобильный интернет для синхронизации фото и видео?</string>
@@ -424,9 +680,11 @@
     <string name="btn_sure">ОК</string>
     <string name="burst_image_download_item_title" formatted="false">Загрузка оригинала (%s|%s)</string>
     <string name="burst_photo_enter">Серия</string>
+<!-- ### FROM SOURCE -->
+    <string name="burst_photo_preview_thumbnail_content_description">Photo %d</string>
     <string name="burst_preview_title">Серийный снимок</string>
     <string name="burst_save_all">Сохранить все фото</string>
-    <string name="burst_save_choice_title" formatted="false">Выбрано %d из %d</string>
+    <string name="burst_save_choice_title">Выбрано %d из %d</string>
     <string name="burst_save_dialog_title">Выберите, какие фото сохранить</string>
     <string name="burst_save_error_msg">Ошибка сохранения</string>
     <string name="burst_save_processing">Обработка…</string>
@@ -687,7 +945,6 @@
     <string name="continue_back_up_gp_btn_setup">Открыть</string>
     <string name="continue_back_up_gp_msg">Чтобы включть резервное копирование необходимо открыть Google Фото</string>
     <string name="continue_back_up_gp_title">Открытие Google Фото</string>
-    <string name="continue_feedback">Дополнительный отзыв</string>
     <string name="continue_migration_msg">Часть фото и видео перенесены в Google Фото. Возобновите передачу, чтобы не потерять остальные файлы, когда синхронизация с Xiaomi Cloud станет недоступной.</string>
     <string name="continue_migration_ok">ОК</string>
     <string name="continue_migration_title">Возобновление передачи</string>
@@ -803,18 +1060,12 @@ ID: %s
     <string name="download_tip">Загрузка</string>
     <string name="download_title">Подготовка файлов…</string>
     <string name="download_type_origin">Оригинальные файлы</string>
-    <string name="download_type_origin_desc">Оригинальные файлы</string>
     <string name="download_type_origin_subtitle_china">Оригинальные изображения занимают больше места на устройстве и могут быть загружены только через Wi-Fi</string>
     <string name="download_type_origin_title">Оригиналы</string>
     <string name="download_type_thumbnail">Высокое качество</string>
-    <string name="download_type_thumbnail_desc">Высокое качество</string>
     <string name="download_type_thumbnail_subtitle">Изображения высокого качества выглядят почти так же, как и оригинальные, но занимают меньше места на устройстве</string>
     <string name="download_type_thumbnail_title">Высокое качество</string>
     <string name="download_type_title">Качество изображений</string>
-    <string name="download_with_metered_network_msg">Загрузка оригинальных файлов может привести к дополнительным тратам. Загрузить?</string>
-    <string name="download_with_metered_network_title">Мобильный интернет</string>
-    <string name="download_without_wifi_msg">Использование мобильного интернета для загрузки файлов увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
-    <string name="download_without_wifi_title">Предупреждение о трафике</string>
     <string name="downloading_desc">%1$d/%2$d</string>
     <string name="downloading_dialog_message">Вы можете выбрать качество загруженных изображений или отключить автоматическую загрузку в Настройках.</string>
     <string name="downloading_title">Загрузка фото из Xiaomi Cloud</string>
@@ -993,22 +1244,8 @@ ID: %s
     <string name="file_cannot_print">Не удается распечатать этот файл</string>
     <string name="file_cannot_screen_throw">Не удается транслировать этот файл</string>
     <string name="file_sending">Передача файлов…</string>
-    <string name="filter_bi_bw">Ч/Б</string>
-    <string name="filter_bi_dusk">Сумерки</string>
-    <string name="filter_bi_lilt">Ритм</string>
-    <string name="filter_bi_memory">Память</string>
-    <string name="filter_bi_pink">Розовый</string>
-    <string name="filter_bi_retro">Ретро</string>
-    <string name="filter_bi_romantic">Романтика</string>
-    <string name="filter_bi_sepia">Сепия</string>
-    <string name="filter_bi_strong">Сильный</string>
-    <string name="filter_bi_sunny">Солнечный</string>
-    <string name="filter_bi_tea">Чайный</string>
-    <string name="filter_bi_warm">Теплый</string>
     <string name="filter_category_black_white">Ч/Б</string>
     <string name="filter_category_classic">Классика</string>
-    <string name="filter_category_film">Плёнка</string>
-    <string name="filter_category_food">Еда</string>
     <string name="filter_category_fresh">Свежесть</string>
     <string name="filter_category_general">Общие</string>
     <string name="filter_category_master">Мастер</string>
@@ -1017,29 +1254,10 @@ ID: %s
     <string name="filter_category_night_scene">Ночь</string>
     <string name="filter_category_popular">Популярное</string>
     <string name="filter_category_portrait">Портрет</string>
-    <string name="filter_category_scene">Пейзаж</string>
     <string name="filter_category_sky">Небо</string>
     <string name="filter_category_texture">Ритм</string>
     <string name="filter_category_travel">Путешествия</string>
-    <string name="filter_film_blackwhite">Ч/Б</string>
-    <string name="filter_film_classic">Классика</string>
-    <string name="filter_film_dew">Роса</string>
-    <string name="filter_film_fade">Блеклый</string>
-    <string name="filter_film_film">Плёнка</string>
-    <string name="filter_film_grey">Серый</string>
-    <string name="filter_film_quiet">Покой</string>
-    <string name="filter_film_style">Поэзия</string>
-    <string name="filter_film_time">Время</string>
-    <string name="filter_food_barbecue">Барбекю</string>
-    <string name="filter_food_caramel">Карамель</string>
-    <string name="filter_food_cookies">Печенье</string>
-    <string name="filter_food_delicious">Лакомство</string>
-    <string name="filter_food_dessert">Десерт</string>
-    <string name="filter_food_fruit">Фрукты</string>
-    <string name="filter_food_latte">Латте</string>
     <string name="filter_food_orangeflavor">Мандарин</string>
-    <string name="filter_food_softdrink">Лимонад</string>
-    <string name="filter_food_wholemeal">Зерна</string>
     <string name="filter_general_blackice">Чёрный лед</string>
     <string name="filter_general_blackwhite">Ч/Б</string>
     <string name="filter_general_delicious">Лакомство</string>
@@ -1048,7 +1266,6 @@ ID: %s
     <string name="filter_general_greenorange">Лайм</string>
     <string name="filter_general_japanese">Свежесть</string>
     <string name="filter_general_lilt">Ритм</string>
-    <string name="filter_general_movie">Плёнка</string>
     <string name="filter_general_nature">Натуральный</string>
     <string name="filter_general_past">Прошлое</string>
     <string name="filter_general_pink">Румянец</string>
@@ -1083,22 +1300,8 @@ ID: %s
     <string name="filter_movie_rome">Рим</string>
     <string name="filter_movie_summer">Лето</string>
     <string name="filter_movie_to">T&amp;O</string>
-    <string name="filter_movie_travel">Путешествие</string>
     <string name="filter_movie_wonderful">Чудо</string>
-    <string name="filter_night_scene">Сумерки</string>
     <string name="filter_original">Нет</string>
-    <string name="filter_people_bw">Ч/Б</string>
-    <string name="filter_people_fairytale">Дети</string>
-    <string name="filter_people_japanese">Свежесть</string>
-    <string name="filter_people_lilt">Ритм</string>
-    <string name="filter_people_maze">Лабиринт</string>
-    <string name="filter_people_movie">Фильм</string>
-    <string name="filter_people_nature">Натуральный</string>
-    <string name="filter_people_pink">Румянец</string>
-    <string name="filter_people_riddle">Конфета</string>
-    <string name="filter_people_sepia">Сепия</string>
-    <string name="filter_people_story">История</string>
-    <string name="filter_people_tea">Чай</string>
     <string name="filter_popular_agave">Агава</string>
     <string name="filter_popular_autumn">Осень</string>
     <string name="filter_popular_blackred">Сангрия</string>
@@ -1116,7 +1319,6 @@ ID: %s
     <string name="filter_popular_humanity">Документальный</string>
     <string name="filter_popular_icesnow">Снегопад</string>
     <string name="filter_popular_kamakura">Камакура</string>
-    <string name="filter_popular_lnk">Чернила</string>
     <string name="filter_popular_mango">Манго</string>
     <string name="filter_popular_navy">Морской</string>
     <string name="filter_popular_pearl">Жемчуг</string>
@@ -1125,12 +1327,10 @@ ID: %s
     <string name="filter_popular_purple">Пурпур</string>
     <string name="filter_popular_retro_powder">Пудра</string>
     <string name="filter_popular_shallow_summer">Июнь</string>
-    <string name="filter_popular_smokegreen">Шалфей</string>
     <string name="filter_popular_summercloud">Летнее облако</string>
     <string name="filter_popular_sunset">Вечер</string>
     <string name="filter_popular_sunset_gold">Сияние</string>
     <string name="filter_popular_wakakusa">Вакакуса</string>
-    <string name="filter_popular_watergreen">Изумруд</string>
     <string name="filter_popular_windchime">Колокольчик</string>
     <string name="filter_popular_wintersun">Середина зимы</string>
     <string name="filter_popular_youth">Молодежь</string>
@@ -1144,15 +1344,6 @@ ID: %s
     <string name="filter_portrait_painting">Картина</string>
     <string name="filter_portrait_pink_orange">Цитрус</string>
     <string name="filter_portrait_protist">Оригинал</string>
-    <string name="filter_portrait_waterblue">Аквамарин</string>
-    <string name="filter_scene_city">Город</string>
-    <string name="filter_scene_df">Туман</string>
-    <string name="filter_scene_koizora">Любовь</string>
-    <string name="filter_scene_lomo">Ломо</string>
-    <string name="filter_scene_neon">Неон</string>
-    <string name="filter_scene_series">Отражения</string>
-    <string name="filter_scene_vivid">Яркий</string>
-    <string name="filter_scene_warm">Солнце</string>
     <string name="filter_single_sky">Небо</string>
     <string name="filter_sky_bikong">Лазурь</string>
     <string name="filter_sky_chenguang">Утренняя заря</string>
@@ -1232,7 +1423,6 @@ ID: %s
     <string name="flash_off">Без вспышки</string>
     <string name="flash_on">Со вспышкой</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
     <string name="fmt_date_numeric_year_month">MM.yyyy</string>
@@ -1280,8 +1470,6 @@ ID: %s
     <string name="getverifycode_seconde">сек.</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">" ГБ"</string>
-    <string name="global_cloud_action_upgrade_onedrive">Обновление OneDrive</string>
-    <string name="global_cloud_full_space_tip_message">Обновите тарифный план облачного хранилища для возможности резервного копирования всех фото и видео в облако</string>
     <string name="global_pad">Планшет</string>
     <string name="global_pc">ПК</string>
     <string name="global_phone">Устройство</string>
@@ -1362,14 +1550,10 @@ ID: %s
     <string name="hybrid_service_unavailiable">Сервис недоступен</string>
     <string name="hybrid_try_again">Повторить</string>
     <string name="i_know">Понятно</string>
-    <string name="id_photo_cancel_download">Отмена</string>
-    <string name="id_photo_download">Загрузить</string>
     <string name="id_photo_download_failed_for_notwork">Не удалось загрузить. Проверьте настройки сети и повторите попытку.</string>
     <string name="id_photo_download_sdk_without_wifi_msg">Устройство не подключено к Wi-Fi. Загрузить плагин через мобильный интернет?</string>
     <string name="id_photo_download_sdk_without_wifi_msg_china">Устройство не подключено к Wi-Fi. Загрузить плагин через мобильный интернет?</string>
     <string name="id_photo_download_sdk_without_wifi_title">Загрузка плагина \"Фото на документы\"</string>
-    <string name="id_photo_download_with_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным тратам. Загрузить?</string>
-    <string name="id_photo_download_with_metered_network_title">Мобильный интернет</string>
     <string name="id_photo_load_data_fail">Ошибка загрузки</string>
     <string name="id_photo_module_finish">Плагин \"Фото на документы\" успешно загружен</string>
     <string name="id_photo_module_loading">Загрузка плагина \"Фото на документы\"…</string>
@@ -1451,8 +1635,6 @@ ID: %s
     <string name="last_some_performance_title">Увиденное мною</string>
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
-    <string name="limit_height">Высота должна быть &gt; 0</string>
-    <string name="limit_width">Ширина должна быть &gt; 0</string>
     <string name="live_photo">Динамический снимок</string>
     <string name="load_complete">Больше ничего нет</string>
     <string name="load_failed">Не удалось загрузить данные, нажмите для повтора</string>
@@ -1470,7 +1652,6 @@ ID: %s
     <string name="loading_image">Загрузка фото…</string>
     <string name="loading_image_thumbnail">Загрузка эскиза фото…</string>
     <string name="loading_members">Загрузка пользователей…</string>
-    <string name="loading_processing_tip">Обработка фото…</string>
     <string name="loading_suspend">Загрузка возобновится после подключения к Wi-Fi</string>
     <string name="loading_text_format">Удаление личной информации…</string>
     <string name="loading_video">Загрузка видео…</string>
@@ -1493,7 +1674,6 @@ ID: %s
     <string name="macarons_download_dialog_title">Загрузка плагина</string>
     <string name="macarons_download_dialog_without_wifi_confirm">Загрузить</string>
     <string name="macarons_download_dialog_without_wifi_message">Не удалось подключиться к Wi-Fi. Вы можете использовать мобильный интернет для загрузки плагина Волшебная виньетка."</string>
-    <string name="macarons_download_fail">Не удалось загрузить плагин. Проверьте настройки сети и повторите попытку.</string>
     <string name="macarons_download_later">Повторите позже</string>
     <string name="macarons_download_network_fail">Не удалось загрузить плагин. Проверьте настройки сети и повторите попытку.</string>
     <string name="macarons_download_other_fail">Не удалось загрузить из-за ошибки</string>
@@ -1544,22 +1724,16 @@ ID: %s
     <string name="magic_make_save_1">Сохранить макет</string>
     <string name="magic_make_save_title">Сохранить фото</string>
     <string name="magic_make_save_title2">Сохранить фото и макет</string>
-    <string name="magic_matting_cancel_download">Отмена</string>
-    <string name="magic_matting_download">Загрузить</string>
     <string name="magic_matting_download_failed_for_notwork">Не удалось загрузить. Проверьте настройки сети и повторите попытку.</string>
     <string name="magic_matting_download_sdk_without_wifi_msg">Устройство не подключено к Wi-Fi. Загрузить плагин через мобильный интернет?</string>
     <string name="magic_matting_download_sdk_without_wifi_msg_china">Устройство не подключено к Wi-Fi. Загрузить плагин через мобильный интернет?</string>
     <string name="magic_matting_download_sdk_without_wifi_title">Загрузка плагина \"Магия\"</string>
-    <string name="magic_matting_download_with_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным тратам. Загрузить?</string>
-    <string name="magic_matting_download_with_metered_network_title">Мобильный интернет</string>
     <string name="magic_matting_error_px">Данный размер изображения не поддерживается</string>
     <string name="magic_matting_face_fail">Не удалось обработать</string>
     <string name="magic_matting_load_data_fail">Ошибка загрузки</string>
     <string name="magic_matting_module_finish">Плагин \"Магия\" успешно загружен</string>
     <string name="magic_matting_module_loading">Загрузка плагина \"Магия\"…</string>
     <string name="magic_max_px">Изображение слишком большое</string>
-    <string name="magic_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным тратам. Загрузить?</string>
-    <string name="magic_metered_network_title">Мобильный интернет</string>
     <string name="magic_mix_px">Изображение слишком маленькое</string>
     <string name="magic_more_fact">Несколько человек на фото</string>
     <string name="magic_more_no_fact">Удалось найти людей на фото</string>
@@ -1600,7 +1774,6 @@ ID: %s
     <string name="main_save_compress">Сжать и сохранить</string>
     <string name="main_save_error_msg">Не удалось сохранить изменения из-за ошибки</string>
     <string name="main_save_origin">Сохранить оригинал</string>
-    <string name="manager_backup">Управление</string>
     <string name="manual_hide_manage">Добавить файлы \".nomedia\"</string>
     <string name="manual_hide_state">Файлы \".nomedia\" добавлены</string>
     <string name="map_album">Карта</string>
@@ -1626,6 +1799,8 @@ ID: %s
     <string name="mark_operation_succeeded">Успешно добавлено</string>
     <string name="mark_people_ignore_info_message">Нажмите и удерживайте фото людей для добавления их в группы</string>
     <string name="media_type_burst_photo">Серийные снимки</string>
+<!-- ### FROM SOURCE -->
+    <string name="media_type_cinematic">Movie mode</string>
     <string name="media_type_clone_photo">Клоны</string>
     <string name="media_type_doc_photo">Документы</string>
     <string name="media_type_fast_motion_video">Таймлапс</string>
@@ -1660,21 +1835,7 @@ ID: %s
     <string name="merge_album">Объединить</string>
     <string name="merge_album_title">Объединить с человеком</string>
     <string name="messagelist_sender_self">Я</string>
-    <string name="mi_10i">Mi 10I</string>
-    <string name="mi_10t">Mi 10T</string>
-    <string name="mi_10t_lite">Mi 10T Lite</string>
-    <string name="mi_11i">Mi 11i</string>
-    <string name="mi_11x">Mi 11X</string>
-    <string name="mi_11x_pro">Mi 11X Pro</string>
-    <string name="mi_9_lite">Mi 9 Lite</string>
-    <string name="mi_9t">Mi 9T</string>
-    <string name="mi_9t_pro">Mi 9T Pro</string>
-    <string name="mi_drop">Mi Share</string>
     <string name="mi_mover_working_desc">Передача файлов…</string>
-    <string name="mi_note_10">Mi Note 10</string>
-    <string name="mi_pad_5">Xiaomi Pad 5</string>
-    <string name="mi_pad_5_pro">Xiaomi Pad 5 Pro</string>
-    <string name="mi_pad_5_pro_5g">Xiaomi Pad 5 Pro 5G</string>
     <string name="micloud_introduce">Автоматически синхронизировать фото и видео (требуется Xiaomi аккаунт)</string>
     <string name="midnight">Ночь</string>
     <string name="migrate_gp_bottom_msg_0">Для переноса файлов в Google Фото, добавьте аккаунт Google и предоставьте Xiaomi следующее разрешение:</string>
@@ -1705,9 +1866,6 @@ ID: %s
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
-    <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
@@ -1817,7 +1975,6 @@ ID: %s
     <string name="movie_audio_quiet">Дзен</string>
     <string name="movie_audio_summertime">Лето</string>
     <string name="movie_audio_vitality">Энергия</string>
-    <string name="movie_cancel_download">Отмена</string>
     <string name="movie_change_to_long_video">Вы выбрали более %d фото. Будет создано длинное видео.</string>
     <string name="movie_content_describe_add">Добавить фото</string>
     <string name="movie_content_describe_delete">Удалить фото</string>
@@ -1825,15 +1982,10 @@ ID: %s
     <string name="movie_content_describe_play">Воспроизведение</string>
     <string name="movie_customer_unsupport_audio_file">Этот аудиоформат не поддерживается</string>
     <string name="movie_delete_disable">Для создания клипа нужно не менее 3 фото.</string>
-    <string name="movie_download">Загрузить</string>
     <string name="movie_download_failed">Ошибка загрузки</string>
     <string name="movie_download_failed_for_notwork">Ошибка загрузки. Подключитесь к сети и повторите попытку.</string>
     <string name="movie_download_sdk_without_wifi_msg">Отсутствует подключение к Wi-Fi. Загрузить требуемый плагин (3 МБ) через мобильный интернет?</string>
     <string name="movie_download_sdk_without_wifi_title">Предупреждение о трафике</string>
-    <string name="movie_download_with_metered_network_msg">Загрузка исходных файлов может привести к дополнительным тратам. Загрузить?</string>
-    <string name="movie_download_with_metered_network_title">Мобильный интернет</string>
-    <string name="movie_download_without_wifi_msg">Использование мобильного интернета для загрузки файлов увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
-    <string name="movie_download_without_wifi_title">Предупреждение о трафике</string>
     <string name="movie_edit">Изменить</string>
     <string name="movie_edit_photo">Фото</string>
     <string name="movie_full_screen">Полноэкранное</string>
@@ -1955,7 +2107,6 @@ ID: %s
     <string name="online_video_vip_transcoding">"Потоковая передача для VIP…
 При первом использовании этой функции перекодирование может занять некоторое время."</string>
     <string name="open">ОК</string>
-    <string name="open_backup">Включить</string>
     <string name="open_public_message">Создайте ссылку, чтобы поделиться с друзьями</string>
     <string name="open_public_title">Общий доступ</string>
     <string name="open_settings">Настройки</string>
@@ -2151,7 +2302,6 @@ ID: %s
     <string name="permission_custom_cta_network_button_negative">Выход</string>
     <string name="permission_custom_cta_network_button_positive">Принимаю</string>
     <string name="permission_custom_cta_network_title">Внимание</string>
-    <string name="permission_location">Использование геолокации</string>
     <string name="permission_location_desc">Для отображения фото и видео на карте</string>
     <string name="permission_optional_category">Необязательные разрешения</string>
     <string name="permission_phone_desc">Синхронизация на связанных устройствах недавно удаленных файлов в Xiaomi Cloud</string>
@@ -2236,8 +2386,6 @@ ID: %s
     <string name="photo_editor_remover2_download_finish">AI Erase 2.0 успешно загружен</string>
     <string name="photo_editor_remover2_download_sdk_without_wifi_msg">Устройство не подключено к Wi-Fi. Загрузить AI Erase 2.0 (%1$d MБ) через мобильный интернет?</string>
     <string name="photo_editor_remover2_download_sdk_without_wifi_title">Загрузка AI Erase 2.0</string>
-    <string name="photo_editor_remover2_download_with_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным тратам. Загрузить?</string>
-    <string name="photo_editor_remover2_download_with_metered_network_title">Мобильный интернет</string>
     <string name="photo_editor_remover2_edit_type_free">Вручную</string>
     <string name="photo_editor_remover2_edit_type_line">Удалить линии</string>
     <string name="photo_editor_remover2_edit_type_people">Удалить людей</string>
@@ -2324,46 +2472,11 @@ ID: %s
     <string name="photodetail_rename_success">Успешно переименовано</string>
     <string name="photodetail_rename_title">Переименование</string>
     <string name="photodetail_rename_too_long">Имя файла слишком длинное</string>
-    <string name="photomovie_audio_custom">На устройстве</string>
-    <string name="photomovie_audio_default">Память</string>
-    <string name="photomovie_audio_kawaii">Романтика</string>
-    <string name="photomovie_audio_light">Баллада</string>
-    <string name="photomovie_audio_linear">Рок</string>
-    <string name="photomovie_audio_none">Нет</string>
-    <string name="photomovie_audio_soft">Укулеле</string>
-    <string name="photomovie_audio_sport">Техно</string>
-    <string name="photomovie_cancel_download">Отмена</string>
-    <string name="photomovie_delete_disable">Для создания клипа нужно не менее %d фото.</string>
-    <string name="photomovie_download">Загрузить</string>
-    <string name="photomovie_download_failed">Ошибка загрузки</string>
-    <string name="photomovie_download_failed_for_notwork">Ошибка загрузки. Подключитесь к сети и повторите попытку.</string>
-    <string name="photomovie_download_without_wifi_msg">Использование мобильного интернета для загрузки файлов увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
-    <string name="photomovie_download_without_wifi_title">Предупреждение о трафике</string>
-    <string name="photomovie_exit_cancel">Отмена</string>
-    <string name="photomovie_exit_confirm">Выход</string>
-    <string name="photomovie_exit_content">Все изменения будут потеряны. Выйти?</string>
-    <string name="photomovie_exit_title">Выход</string>
-    <string name="photomovie_item_name">Клип</string>
-    <string name="photomovie_return">Назад</string>
-    <string name="photomovie_save">Сохранить</string>
-    <string name="photomovie_save_failed">Ошибка сохранения</string>
-    <string name="photomovie_save_successfully">Сохранено</string>
-    <string name="photomovie_saving">Создание клипа…</string>
-    <string name="photomovie_tab_edit">Редактор</string>
-    <string name="photomovie_tab_music">Музыка</string>
-    <string name="photomovie_tab_template">Шаблон</string>
-    <string name="photomovie_template_default">Медленный</string>
-    <string name="photomovie_template_kawaii">Чары</string>
-    <string name="photomovie_template_light">Бриз</string>
-    <string name="photomovie_template_linear">Дорога</string>
-    <string name="photomovie_template_soft">Молодость</string>
-    <string name="photomovie_template_sport">Энергия</string>
     <string name="pic_to_pdf_a4_format">Формат A4</string>
     <string name="pic_to_pdf_all_not_support">Выбранные изображения не могут быть сохранены как PDF</string>
     <string name="pic_to_pdf_exit_notice">PDF-файл не будет сохранён, если вы выйдете сейчас. Выйти?</string>
     <string name="pic_to_pdf_not_support_video">Видео не может быть сохранено как PDF</string>
     <string name="pic_to_pdf_preview_loading">Загрузка…</string>
-    <string name="pic_to_pdf_save_in">Сохранить PDF в %s</string>
     <string name="pic_to_pdf_saved_in_fileexplorer">Успешно сохранено. Посмотреть в Проводнике.</string>
     <string name="pick_from_contact">Выбрать из контактов</string>
     <string name="pick_people_cover_fail">Произошла ошибка. Повторите попытку.</string>
@@ -2494,52 +2607,7 @@ ID: %s
     <string name="recovery_not_synced_reason">Не удалось восстановить</string>
     <string name="recovery_not_synced_solution">Подключитесь к сети для восстановления.</string>
     <string name="recovery_rename">Переименовать</string>
-    <string name="redmi_10x">Redmi 10X</string>
-    <string name="redmi_10x_4g">Redmi 10X 4G</string>
-    <string name="redmi_10x_pro">Redmi 10X Pro</string>
-    <string name="redmi_6">Redmi 6</string>
-    <string name="redmi_6_pro">Redmi 6 Pro</string>
-    <string name="redmi_6a">Redmi 6A</string>
-    <string name="redmi_7a">Redmi 7A</string>
-    <string name="redmi_8">Redmi 8</string>
-    <string name="redmi_8a">Redmi 8A</string>
-    <string name="redmi_9">Redmi 9</string>
-    <string name="redmi_k20">Redmi K20</string>
-    <string name="redmi_k20_pro">Redmi K20 Pro</string>
-    <string name="redmi_k30">Redmi K30</string>
-    <string name="redmi_k30_5g">Redmi K30 5G</string>
-    <string name="redmi_k30_pro">Redmi K30 Pro</string>
-    <string name="redmi_k30_ultra">Redmi K30 Ultra</string>
-    <string name="redmi_k30s">Redmi K30S Ultra</string>
-    <string name="redmi_k40">Redmi K40</string>
-    <string name="redmi_k40_g">Redmi K40 Gaming Edition</string>
-    <string name="redmi_k40_pro">Redmi K40 Pro</string>
-    <string name="redmi_note_10">Redmi Note 10</string>
-    <string name="redmi_note_10_lite">Redmi Note 10 Lite</string>
-    <string name="redmi_note_10_pro">Redmi Note 10 Pro</string>
-    <string name="redmi_note_5">Redmi Note 5</string>
-    <string name="redmi_note_6_pro">Redmi Note 6 Pro</string>
-    <string name="redmi_note_7">Redmi Note 7</string>
-    <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
-    <string name="redmi_note_8">Redmi Note 8</string>
-    <string name="redmi_note_8_pro">Redmi Note 8 Pro</string>
-    <string name="redmi_note_9">Redmi Note 9</string>
-    <string name="redmi_note_9_pro">Redmi Note 9 Pro</string>
-    <string name="redmi_note_9_pro_max">Redmi Note 9 Pro Max</string>
-    <string name="redmi_note_9s">Redmi Note 9S</string>
     <string name="refocus_desc">Перефокусировка</string>
-    <string name="refocus_discard_confirm_message">Сохранить изменения?</string>
-    <string name="refocus_discard_negative_btn">Не сохранять</string>
-    <string name="refocus_discard_positive_btn">Сохранить</string>
-    <string name="refocus_photo_not_support">Невозможно применить размытие к этому фото</string>
-    <string name="refocus_save_cancel">Отмена</string>
-    <string name="refocus_save_title">Выберите формат</string>
-    <string name="refocus_save_to_photo">Сохранить как фото</string>
-    <string name="refocus_save_to_video">Сохранить как видео</string>
-    <string name="refocus_saving">Сохранение…</string>
-    <string name="refocus_title">Размытие</string>
-    <string name="refocus_type_static">Степень размытия</string>
-    <string name="refocus_type_video">Световые следы</string>
     <string name="register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="register_by_local_phone_short_text">Создать аккаунт</string>
     <string name="relation_text_empty_alert">Добавьте информацию об отношениях</string>
@@ -2602,8 +2670,6 @@ ID: %s
     <string name="risk_control_deleted_message">Кто-то удалил некоторые файлы из Галереи в облаке, используя %3$s на %1$s в %2$s. Это были вы?</string>
     <string name="risk_control_deleted_time">HH:mm</string>
     <string name="risk_control_deleted_title">Предупреждение безопасности</string>
-    <string name="rog">ROG</string>
-    <string name="rog_phone">ROG</string>
     <string name="rubbish_album_move_to_other_album_success">Вы можете найти эти файлы в альбоме \"Другие\".</string>
     <string name="rubbish_nomedia_manager_button_text">Альбомы с файлами \".nomedia\"</string>
     <string name="runtime_permission_ungranted">Невозможно использовать Галерею без необходимых разрешений</string>
@@ -2618,8 +2684,6 @@ ID: %s
     <string name="saf_secret_album_guide">Предоставьте приложению разрешение для отображения содержимого приватного альбома</string>
     <string name="same_name_album_exist_and_toast">Альбом с таким именем уже существует. Создан альбом \"%s\".</string>
     <string name="same_new_and_old_pwd">Новый пароль должен отличаться от текущего</string>
-    <string name="samsung">Samsung</string>
-    <string name="samsung_phone">Samsung</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -2759,14 +2823,36 @@ ID: %s
     <string name="security_share_subtitle_no_hide">Содержит геопозицию</string>
     <string name="see_ignore_faces">Просмотреть пропущенные фото</string>
     <string name="see_more_settings">Дополнительно</string>
+<!-- ### FROM SOURCE -->
+    <string name="segment_change_background">Change background</string>
+<!-- ### FROM SOURCE -->
+    <string name="segment_copy">Copy</string>
+<!-- ### FROM SOURCE -->
+    <string name="segment_copy_fail">"Couldn't copy"</string>
+<!-- ### FROM SOURCE -->
+    <string name="segment_copy_processing">Copying…</string>
+<!-- ### FROM SOURCE -->
+    <string name="segment_copy_success">Copied successfully</string>
+<!-- ### FROM SOURCE -->
+    <string name="segment_no_result">"Couldn't detect the subject of this photo"</string>
+<!-- ### FROM SOURCE -->
+    <string name="segment_save">Save</string>
+<!-- ### FROM SOURCE -->
+    <string name="segment_save_fail">"Couldn't save"</string>
+<!-- ### FROM SOURCE -->
+    <string name="segment_save_processing">Saving…</string>
+<!-- ### FROM SOURCE -->
+    <string name="segment_save_success">Saved to Gallery</string>
+<!-- ### FROM SOURCE -->
+    <string name="segment_send">Send</string>
+<!-- ### FROM SOURCE -->
+    <string name="segment_send_processing">Preparing to send…</string>
     <string name="select_all">Выбрать все</string>
-    <string name="select_backup">Выбор резервной копии</string>
     <string name="select_image_operation">Добавление фото</string>
     <string name="select_item_face">"Это '%s'?"</string>
     <string name="select_origin_tip">Оригинал (%s)</string>
     <string name="send">Отправить</string>
     <string name="send_diagnosis_log">Отправить журнал</string>
-    <string name="send_dolby_vision_duration_more_than_40s">Видео Dolby Vision более 4 минут можно передать только в исходном формате, который может не поддерживаться принимающим устройством. Всё равно продолжить?</string>
     <string name="send_dolby_vision_video_continue">Продолжить</string>
     <string name="send_email_activate_message">Письмо с подтверждением отправлено</string>
     <string name="send_file_beautify_failed">Не удалось отправить</string>
@@ -2778,7 +2864,8 @@ ID: %s
     <string name="send_public_url">Отправить ссылку на альбом</string>
     <string name="send_secret_file_failed">Не удалось отправить</string>
     <string name="send_secret_file_space_low">Недостаточно места</string>
-    <string name="send_too_many_files_error">За один раз можно отправить до %d файлов</string>
+<!-- ### FROM SOURCE -->
+    <string name="send_special_video_duration_more_than_40s">Processed videos that are longer than %d minutes can only be shared in their original format, which might not be compatible with the receiving device. Continue anyway?</string>
     <string name="service_error">Ошибка сервера</string>
     <string name="service_is_provided_by_miui_cloud_service">Сервис предоставляется Xiaomi Cloud</string>
     <string name="set_as_baby_lock_wallpaper">Установить как обои экрана блокировки</string>
@@ -2909,7 +2996,6 @@ ID: %s
     <string name="size_kilo_byte">КБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
-    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="skip_query_account">Пропустить</string>
     <string name="sky_dynamic">Динамичное</string>
@@ -3258,6 +3344,8 @@ ID: %s
     <string name="text_item_type_talkback_spot_yiheyuan">Летний дворец</string>
     <string name="text_item_type_talkback_spot_zhangjiajie">Чжанцзяцзе</string>
     <string name="text_recognition">Распознавание текста</string>
+<!-- ### FROM SOURCE -->
+    <string name="text_segment">Photo cutout</string>
     <string name="text_tab_bubble">Выноска</string>
     <string name="text_tab_city">Город</string>
     <string name="text_tab_festival">Праздник</string>
@@ -3334,10 +3422,44 @@ ID: %s
     <string name="tip_capture_time">Дата съёмки:</string>
     <string name="tip_file_info">Файл:</string>
     <string name="tip_file_path">Расположение:</string>
+<!-- ### FROM SOURCE -->
+    <string name="tip_leica_authentic">Leica Authentic</string>
+<!-- ### FROM SOURCE -->
+    <string name="tip_leica_vibrant">Leica Vibrant</string>
     <string name="tip_not_download">Нет на устройстве. Будет загружено из Xiaomi Cloud при воспроизведении.</string>
     <string name="tip_screenshot_package_info">Имя приложения:</string>
     <string name="tips_for_photo_page_selection">Нажмите на файл для просмотра</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
+<!-- ### FROM SOURCE -->
+    <string name="title_dynamicfeature_ai_image">dynamicfeature_ai_image</string>
+<!-- ### FROM SOURCE -->
+    <string name="title_dynamicfeature_aimode_7350">Feature_aimode_7350</string>
+<!-- ### FROM SOURCE -->
+    <string name="title_dynamicfeature_aimode_8450">Feature_aimode_8450</string>
+<!-- ### FROM SOURCE -->
+    <string name="title_dynamicfeature_aimode_8550">Feature_aimode_8550</string>
+<!-- ### FROM SOURCE -->
+    <string name="title_dynamicfeature_basefeature_ffmpeg">Feature_basefeature_ffmpeg</string>
+<!-- ### FROM SOURCE -->
+    <string name="title_dynamicfeature_basefeature_imagefeature">Feature_basefeature_imagefeature</string>
+<!-- ### FROM SOURCE -->
+    <string name="title_dynamicfeature_basefeature_map">Feature_baseFeature_map</string>
+<!-- ### FROM SOURCE -->
+    <string name="title_dynamicfeature_basefeature_videocompress">Feature_basefeature_videocompress</string>
+<!-- ### FROM SOURCE -->
+    <string name="title_dynamicfeature_story_7350">Feature_story_7350</string>
+<!-- ### FROM SOURCE -->
+    <string name="title_dynamicfeature_story_8450">Feature_story_8450</string>
+<!-- ### FROM SOURCE -->
+    <string name="title_dynamicfeature_story_8550">Feature_story_8550</string>
+<!-- ### FROM SOURCE -->
+    <string name="title_dynamicfeature_story_8650">Feature_story_8650</string>
+<!-- ### FROM SOURCE -->
+    <string name="title_dynamicfeature_story_basefeature">Feature_story_basefeature</string>
+<!-- ### FROM SOURCE -->
+    <string name="title_dynamicfeature_story_default">Feature_story_default</string>
+<!-- ### FROM SOURCE -->
+    <string name="title_dynamicfeature_story_mtk">Feature_story_mtk</string>
     <string name="title_set_name">Введите имя</string>
     <string name="title_tip">Внимание</string>
     <string name="title_warn">Предупреждение</string>
@@ -3421,8 +3543,6 @@ ID: %s
     <string name="trash_menu_delete">Удалить</string>
     <string name="trash_menu_recovery">Восстановить</string>
     <string name="trash_purge_all">Все фото и видео будут удалены из облака. Вы не сможете их восстановить. Удалить?</string>
-    <string name="trash_purge_all_cloud">Все файлы в корзине будут безвозвратно удалены из облака и со всех подключённых устройств. Всё равно удалить?</string>
-    <string name="trash_purge_all_local">Все файлы в корзине будут удалены без возможности восстановления. Всё равно удалить?</string>
     <string name="trash_purge_all_media">Удалить навсегда все файлы из облака и со всех подключённых устройств? Вы не можете отменить это действие.</string>
     <string name="trash_purge_dialog_title">Очистка корзины</string>
     <string name="trash_purge_positive_button">Удалить</string>
@@ -3536,17 +3656,11 @@ ID: %s
     <string name="video_editor_auto_trim">Автообрезка</string>
     <string name="video_editor_auto_trim_tip">Обрезка видео…</string>
     <string name="video_editor_cancel">Отменить</string>
-    <string name="video_editor_cancel_download">Отмена</string>
     <string name="video_editor_done">Готово</string>
     <string name="video_editor_down_load_later">Позже</string>
     <string name="video_editor_down_load_no_wifi_tips">Подключитесь к Wi-Fi для загрузки</string>
     <string name="video_editor_down_load_now">Загрузить</string>
-    <string name="video_editor_download">Загрузить</string>
     <string name="video_editor_download_failed_for_notwork">Ошибка загрузки. Подключитесь к сети и повторите попытку.</string>
-    <string name="video_editor_download_with_metered_network_msg">Загрузка исходных файлов может привести к дополнительным тратам. Загрузить?</string>
-    <string name="video_editor_download_with_metered_network_title">Мобильный интернет</string>
-    <string name="video_editor_download_without_wifi_msg">Использование мобильного интернета для загрузки файлов увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
-    <string name="video_editor_download_without_wifi_title">Предупреждение о трафике</string>
     <string name="video_editor_encode_video">Кодирование видео…</string>
     <string name="video_editor_encode_video_error">Не удалось кодировать видео</string>
     <string name="video_editor_fatal_error">Неизвестная ошибка</string>
@@ -3585,7 +3699,6 @@ ID: %s
     <string name="video_editor_res_download_failed_tips">Ошибка загрузки, проверьте настройки сети и повторите попытку</string>
     <string name="video_editor_res_download_mobil_network_confirm_msg">Загрузить саундтреки через мобильный интернет?</string>
     <string name="video_editor_res_download_mobil_network_confirm_title">Предупреждение о трафике</string>
-    <string name="video_editor_res_not_load_dialog_msg">Загрузить саундтреки для использования этой функции (более 20 МБ).</string>
     <string name="video_editor_return">Назад</string>
     <string name="video_editor_save">Сохранить</string>
     <string name="video_editor_smart_effect_beat">Бит</string>
@@ -3627,14 +3740,10 @@ ID: %s
     <string name="video_editor_watermark">Водяной знак</string>
     <string name="video_err">Не удалось воспроизвести видео</string>
     <string name="video_not_exist">Видео не существует</string>
-    <string name="video_post_cancel_download">Отмена</string>
-    <string name="video_post_download">Загрузить</string>
     <string name="video_post_download_failed_for_notwork">Не удалось загрузить. Проверьте настройки сети и повторите попытку.</string>
     <string name="video_post_download_sdk_without_wifi_msg">Устройство не подключено к Wi-Fi. Загрузить плагин через мобильный интернет?</string>
     <string name="video_post_download_sdk_without_wifi_msg_china">Устройство не подключено к Wi-Fi. Загрузить плагин через мобильный интернет?</string>
     <string name="video_post_download_sdk_without_wifi_title">Загрузка плагина \"Видеоэффекты\"</string>
-    <string name="video_post_download_with_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным тратам. Загрузить?</string>
-    <string name="video_post_download_with_metered_network_title">Мобильный интернет</string>
     <string name="video_post_load_data_fail">Ошибка загрузки</string>
     <string name="video_post_module_finish">Плагин \"Видеоэффекты\" успешно загружен</string>
     <string name="video_post_module_loading">Загрузка плагина \"Видеоэффекты\"…</string>
@@ -3682,7 +3791,6 @@ ID: %s
     <string name="vlog_bottom_view_edit">Редактирование</string>
     <string name="vlog_bottom_view_exit">Выход</string>
     <string name="vlog_bottom_view_save">Сохранить</string>
-    <string name="vlog_cancel_download">Отмена</string>
     <string name="vlog_caption">Текст</string>
     <string name="vlog_caption_add">Добавить</string>
     <string name="vlog_caption_ai_cancel">Отмена</string>
@@ -3714,7 +3822,6 @@ ID: %s
     <string name="vlog_clip_sort">Упорядочить видео</string>
     <string name="vlog_clip_zoom">Разведите или сведите два пальца для увеличения или уменьшения числа фреймов в предпросмотре</string>
     <string name="vlog_cloud_file_download">Облачные файлы</string>
-    <string name="vlog_download">Загрузка</string>
     <string name="vlog_download_btn">Загрузить</string>
     <string name="vlog_download_cloud_file_retry">Не удалось загрузить файлы из облака. Повторите попытку.</string>
     <string name="vlog_download_cloud_file_without_wifi_msg">Не удалось подключиться к Wi-Fi.  Вы можете использовать мобильный интернет для загрузки файлов из облака (%s).</string>
@@ -3722,8 +3829,6 @@ ID: %s
     <string name="vlog_download_failed_for_notwork">Не удалось загрузить. Проверьте настройки сети и повторите попытку.</string>
     <string name="vlog_download_sdk_without_wifi_msg">Не удалось подключиться к Wi-Fi.  Вы можете использовать мобильный интернет для загрузки видеоредактора.</string>
     <string name="vlog_download_sdk_without_wifi_title">Загрузка видеоредактора…</string>
-    <string name="vlog_download_with_metered_network_msg">Использование мобильного интернета для загрузки исходных файлов может привести к дополнительным тратам. Загрузить?</string>
-    <string name="vlog_download_with_metered_network_title">Мобильный интернет</string>
     <string name="vlog_downloading_cloud_file">Загрузка файлов из облака…</string>
     <string name="vlog_editor_talkback_ratio_239_1">Два целых тридцать девять десятых к одному</string>
     <string name="vlog_end_of_film">Закрытие</string>
@@ -3915,11 +4020,11 @@ ID: %s
     <string name="widget_talkback_custom">Галерея. Выбранные изображения.</string>
     <string name="widget_talkback_recommend">Галерея. Моменты.</string>
     <string name="xiaomi">Mi</string>
-    <string name="xiaomi_phone">Xiaomi</string>
     <string name="xiaomi_account_not_exists_toast">Xiaomi аккаунт не существует</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
+    <string name="xiaomi_phone">Xiaomi</string>
     <string name="yes">Да</string>
     <string name="yesterday">Вчера</string>
     <string name="you_are">Вы в детстве</string>

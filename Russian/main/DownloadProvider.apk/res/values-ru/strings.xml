@@ -202,7 +202,6 @@
     <string name="notif_title_file_size">Всего: %1$d</string>
     <string name="notif_title_multiple_downloading">Загружается файлов: %1$d</string>
     <string name="notif_title_single_downloading">Загрузка файла (%1$s)</string>
-    <string name="notification_dld_msg">Управление загружаемыми приложениями</string>
     <string name="notification_download_complete">Загрузка завершена.</string>
     <string name="notification_download_failed">Ошибка загрузки.</string>
     <string name="notification_download_success_more">Загружено: %1$d</string>
@@ -232,15 +231,10 @@
     <string name="permlab_downloadManager">Доступ к Загрузкам</string>
     <string name="permlab_downloadManagerAdvanced">Расширенные функции Загрузок</string>
     <string name="permlab_downloadWithoutNotification">Загрузка файлов без уведомления</string>
-    <string name="permlab_seeAllExternal">Просмотр загрузок на SD-карте</string>
     <string name="petabyteShort">" ПБ"</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_notif_content">Нажмите для информации.</string>
     <string name="privacy_notif_title">Ускорение Xunlei включено</string>
-    <string name="privacy_tip_cancel">Отмена</string>
-    <string name="privacy_tip_content">Использовать ускорение Xunlei для увеличения скорости загрузки? URL-адрес загрузки будет загружен на серверы Xunlei. Также, будут загружены данные аккаунта Xiaomi для проверки активных подписок на эту услугу.</string>
-    <string name="privacy_tip_ok">ОК</string>
-    <string name="privacy_tip_title">Использовать ускорение Xunlei?</string>
     <string name="recall_tip">Установите \"Загрузки\"
 чтобы использовать все функции</string>
     <string name="recommend_installing">Установка…</string>

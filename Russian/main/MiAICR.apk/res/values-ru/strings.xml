@@ -29,27 +29,68 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
-    <string name="bottomsheet_action_collapse">Свернуть нижний лист</string>
-    <string name="bottomsheet_action_expand">Развернуть нижний лист</string>
-    <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
-    <string name="bottomsheet_drag_handle_clicked">Перетащите указатель, дважды коснувшись его</string>
-    <string name="bottomsheet_drag_handle_content_description">Перетащите указатель</string>
-    <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
-    <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
-    <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_cta_main_purpose">On-device cognition engine can recognize situations, learn about your preferences, and provide you with more accurate and personalized services.</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_cta_optional_Perm_Location_Desc">Access and edit files stored on the device</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_cta_runtime_Perm_Location_Desc">For accessing your current location</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_func_detail_msg">Recognizes and predicts situations and provides personalized services</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_func_name">On-device cognition engine</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_func_open">On-device cognition engine</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_permission_declaration">Permissions details</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_permission_location">Location information</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_permission_location_msg">For accessing your current location</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_permission_related">Permissions</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_permission_runtime_msg">For accessing past location information stored on the device in order to provide more accurate and personalized services</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_permission_storage">Access files stored on device</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_permission_storage_msg">For accessing past location information stored on the device</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_privacy_request">Authorization</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_privacy_revoke">Withdrawal of consent</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_privacy_revoke_and">Withdrawing your consent will turn off this feature</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_privacy_revoke_dialog_message">"If you continue, you'll withdraw your consent to the Privacy Policy of On-device cognition engine. We will cease to collect your personal information, and the personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As On-device cognition engine provides its services based on the collection of necessary personal information, your withdrawal of consent will be held as refusing to accept these services."</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_privacy_revoke_dialog_negative">Withdraw</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_privacy_revoke_dialog_negative_count">Withdraw (%ds)</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_privacy_revoke_dialog_positive">Cancel</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_privacy_revoke_dialog_title">Withdrawal of consent</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_privacy_setting">Privacy</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_privacy_statement_show">View Privacy Policy</string>
+<!-- ### FROM SOURCE -->
+    <string name="cognition_privacy_statement_string">Privacy Policy</string>
     <string name="copy">Копировать</string>
+<!-- ### FROM SOURCE -->
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">For accessing your current location</string>
+<!-- ### FROM SOURCE -->
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">For accessing past location information stored on the device</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="early_morning">Утро</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
-    <string name="error_a11y_label">Ошибка: недопустимо</string>
-    <string name="error_icon_content_description">Ошибка</string>
     <string name="evening">После полудня</string>
     <string name="expand_button_title">Дополнительно</string>
-    <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
@@ -69,23 +110,6 @@
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
-    <string name="icon_content_description">Иконка диалога</string>
-    <string name="item_view_role_description">Вкладка</string>
-    <string name="material_clock_display_divider">:</string>
-    <string name="material_clock_toggle_content_description">Выберите AM или PM</string>
-    <string name="material_hour_selection">Часы</string>
-    <string name="material_hour_suffix">"%1$s ч."</string>
-    <string name="material_minute_selection">Минуты</string>
-    <string name="material_minute_suffix">%1$s мин.</string>
-    <string name="material_slider_range_end">Конец диапазона,</string>
-    <string name="material_slider_range_start">Начало диапазона,</string>
-    <string name="material_timepicker_am">AM</string>
-    <string name="material_timepicker_clock_mode_description">Ввод времени в режиме часов</string>
-    <string name="material_timepicker_hour">Часы</string>
-    <string name="material_timepicker_minute">Минуты</string>
-    <string name="material_timepicker_pm">PM</string>
-    <string name="material_timepicker_select_time">Установите время</string>
-    <string name="material_timepicker_text_input_mode_description">Ввод времени в текстовом режиме</string>
     <string name="midnight">Ночь</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
@@ -98,7 +122,6 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
-    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -155,223 +178,14 @@
     <string name="month_september_shortest">Сен</string>
     <string name="more">Ещё</string>
     <string name="morning">Утро</string>
-    <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
-    <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">Новые уведомления: %1$d</string>
-    <string name="mtrl_picker_a11y_next_month">Следующий месяц</string>
-    <string name="mtrl_picker_a11y_prev_month">Предыдущий месяц</string>
-    <string name="mtrl_picker_announce_current_range_selection">Начало: %1$s – Окончание: %2$s</string>
-    <string name="mtrl_picker_announce_current_selection">Текущий выбор: %1$s</string>
-    <string name="mtrl_picker_announce_current_selection_none">не выбрано</string>
-    <string name="mtrl_picker_cancel">Отмена</string>
-    <string name="mtrl_picker_confirm">ОК</string>
-    <string name="mtrl_picker_date_header_title">Выбор даты</string>
-    <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
-    <string name="mtrl_picker_day_of_week_column_header">День: %1$s</string>
-    <string name="mtrl_picker_end_date_description">Окончание %1$s</string>
-    <string name="mtrl_picker_invalid_format">Неверный формат.</string>
-    <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
-    <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
-    <string name="mtrl_picker_invalid_range">Неверный диапазон.</string>
-    <string name="mtrl_picker_navigate_to_current_year_description">Перейти к выбору года %1$d</string>
-    <string name="mtrl_picker_navigate_to_year_description">Перейти к выбору года %1$s</string>
-    <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
-    <string name="mtrl_picker_range_header_only_end_selected">Начало – %1$s</string>
-    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Окончание</string>
-    <string name="mtrl_picker_range_header_title">Диапазон дат</string>
-    <string name="mtrl_picker_range_header_unselected">Начало – Окончание</string>
-    <string name="mtrl_picker_save">Сохранить</string>
-    <string name="mtrl_picker_start_date_description">Начало %1$s</string>
-    <string name="mtrl_picker_text_input_date_hint">Дата</string>
-    <string name="mtrl_picker_text_input_date_range_end_hint">Окончание</string>
-    <string name="mtrl_picker_text_input_date_range_start_hint">Начало</string>
-    <string name="mtrl_picker_today_description">Сегодня %1$s</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Календарь</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Выбрать день</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
-    <string name="mtrl_timepicker_cancel">Отмена</string>
-    <string name="mtrl_timepicker_confirm">ОК</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
     <string name="not_set">Не задано</string>
-    <string name="passport_access_denied">Доступ запрещен</string>
-    <string name="passport_account_crop_user_avatar">Обрезать фото</string>
-    <string name="passport_account_empty_user_name">Введите имя</string>
-    <string name="passport_account_error_all_space_user_name">Имя не может содержать только пробелы</string>
-    <string name="passport_account_error_invalid_user_name">"Имя не может содержать &lt;, >, или /"</string>
-    <string name="passport_account_error_longer_user_name">Имя не может быть длиннее %d символов</string>
-    <string name="passport_account_error_shorter_user_name">Имя должно быть длиннее %d символов</string>
-    <string name="passport_account_error_user_name">Неверное имя. Попробуйте другое.</string>
-    <string name="passport_account_invalid_user_avatar">Неверный формат фото</string>
-    <string name="passport_account_name">"Аккаунт: %1$s "</string>
-    <string name="passport_account_no_set">Не задано</string>
-    <string name="passport_account_none_bind_info">Не задано</string>
-    <string name="passport_account_none_user_name">Не задано</string>
-    <string name="passport_account_secure_info_pref_title">Сведения об аккаунте</string>
-    <string name="passport_account_security_info_pref_title">Сведения о безопасности</string>
-    <string name="passport_account_user_avatar">Фото профиля</string>
-    <string name="passport_account_user_avatar_from_album">Галерея</string>
-    <string name="passport_account_user_avatar_from_camera">Камера</string>
-    <string name="passport_account_user_base_info">Основная информация</string>
-    <string name="passport_account_user_details">Личная информация</string>
-    <string name="passport_account_user_email">Адрес электронной почты для восстановления</string>
-    <string name="passport_account_user_gender">Пол</string>
-    <string name="passport_account_user_id">ID Xiaomi аккаунта</string>
-    <string name="passport_account_user_name">Псевдоним</string>
-    <string name="passport_account_user_name_dialog_title">Введите имя</string>
-    <string name="passport_account_user_phone">Номер телефона для восстановления</string>
-    <string name="passport_activity_not_found_notice">Приложение не найдено</string>
-    <string name="passport_agree">Принимаю</string>
-    <string name="passport_area_code_title">Код страны</string>
-    <string name="passport_attention">Внимание</string>
-    <string name="passport_auth_fail_warning">Сессия устарела. Войдите повторно.</string>
-    <string name="passport_back">Назад</string>
-    <string name="passport_bad_authentication">Неверное имя пользователя или пароль</string>
-    <string name="passport_can_not_recevie_verify_code">Не получили код?</string>
-    <string name="passport_change_password">Изменить пароль</string>
-    <string name="passport_check_security">Проверка наличия угроз безопасности…</string>
-    <string name="passport_checking_account">Проверка пароля…</string>
-    <string name="passport_clear_input">Очистить введённые данные</string>
-    <string name="passport_copy_link">Копировать URL</string>
-    <string name="passport_copy_to_clipboard_successful">Скопировано</string>
-    <string name="passport_dialog_captcha_title">Код</string>
-    <string name="passport_dialog_doing_login">Вход…</string>
-    <string name="passport_dialog_doing_register">Создание аккаунта…</string>
-    <string name="passport_dialog_is_my_account">Да</string>
-    <string name="passport_dialog_is_your_mi_account">Это ваш аккаунт Xiaomi?</string>
-    <string name="passport_dialog_loading">Подождите…</string>
-    <string name="passport_dialog_nick_name_prefix">Псевдоним: %s</string>
-    <string name="passport_dialog_phone_number_prefix">Номер телефона: %s</string>
-    <string name="passport_dialog_register_other">Нет, создать новый</string>
-    <string name="passport_doing_query_account">Проверка аккаунта…</string>
-    <string name="passport_error_auth_fail">Сессия устарела, войдите повторно</string>
-    <string name="passport_error_device_id">Не удалось получить ID устройства</string>
-    <string name="passport_error_dup_binded_email">Этот адрес электронной почты уже связан с другим аккаунтом Xiaomi</string>
-    <string name="passport_error_empty_password">Введите пароль</string>
-    <string name="passport_error_empty_pwd">Пароль не может быть пустым</string>
-    <string name="passport_error_empty_user_id">Введите имя пользователя</string>
-    <string name="passport_error_invalid_bind_address">Неверный адрес электронной почты</string>
-    <string name="passport_error_length_limit">Текст слишком длинный</string>
-    <string name="passport_error_network">Не удалось подключиться к сети</string>
-    <string name="passport_error_no_password_user">Вы ещё не задали пароль. Войдите с помощью SMS.</string>
-    <string name="passport_error_phone">Неверный номер телефона</string>
-    <string name="passport_error_server">Ошибка сервера</string>
-    <string name="passport_error_sms_limit">На этот номер было отправлено слишком много проверочных кодов. Повторите позже.</string>
-    <string name="passport_error_ticket_invalid">Неверный код</string>
-    <string name="passport_error_timeout_network_error">Таймаут запроса</string>
-    <string name="passport_error_token_expired">Срок действия кода истек. Пробуйте снова.</string>
-    <string name="passport_error_unknow_error">Ошибка</string>
-    <string name="passport_error_unknow_host_network_error">Не удалось подключиться к сети</string>
-    <string name="passport_error_unknow_network_error">Ошибка сети</string>
-    <string name="passport_error_unknown">Ошибка авторизации</string>
-    <string name="passport_error_user_name">Неверное имя пользователя</string>
-    <string name="passport_error_user_password">Пароли не совпадают</string>
-    <string name="passport_exceed_binded_phone_times_notice">Этот номер телефона уже связан с другим аккаунтом Xiaomi</string>
-    <string name="passport_facebook_login_btn_content_description">Войти с помощью Facebook</string>
-    <string name="passport_frequency_try_later">Слишком много запросов. Повторите попытку позже.</string>
-    <string name="passport_get_login_type_next">Далее</string>
-    <string name="passport_get_phone_verifycode_exceed_limit">На этот номер было отправлено слишком много проверочных кодов. Повторите попытку через 24 часа.</string>
-    <string name="passport_google_login_btn_content_description">Войти с помощью Google</string>
-    <string name="passport_help">Помощь</string>
-    <string name="passport_i_know">Понятно</string>
-    <string name="passport_identification_expired">Код устарел, начните сначала</string>
-    <string name="passport_input_captcha_hint">Введите код с картинки</string>
-    <string name="passport_input_email_address_notice">Этот адрес электронной почты будет использоваться для подтверждения вашего аккаунта</string>
-    <string name="passport_input_password_hint">Введите пароль</string>
-    <string name="passport_input_phone_number_hint">Введите номер телефона</string>
-    <string name="passport_input_verify_code">Введите проверочный код</string>
-    <string name="passport_input_voice_captcha_hint">Введите голосовой защитный код</string>
-    <string name="passport_input_voice_hint">Введите голосовой код</string>
-    <string name="passport_login_by_local_phone_long_text">Войти в систему</string>
-    <string name="passport_login_by_local_phone_short_text">Войти</string>
-    <string name="passport_login_other">Другой аккаунт Xiaomi</string>
-    <string name="passport_login_register_by_local_phone_long_text">Создать аккаунт</string>
-    <string name="passport_login_with_sns">Другие способы входа</string>
-    <string name="passport_logout_account">Выйти</string>
-    <string name="passport_mi_account_first_title">Аккаунт будет создан автоматически, если этот номер телефона используется впервые</string>
-    <string name="passport_mi_account_title">Вход с помощью аккаунта Xiaomi</string>
-    <string name="passport_network_error">Ошибка сети</string>
-    <string name="passport_network_error_hint">Проверьте URL-адрес и повторите попытку, или скопируйте его и откройте в браузере</string>
-    <string name="passport_network_timeout">Не удалось подключиться к сети. Повторите попытку.</string>
-    <string name="passport_next">Далее</string>
-    <string name="passport_no_account">Вход не выполнен</string>
-    <string name="passport_open_settings">Настройки</string>
-    <string name="passport_page_load_failed">Не удалось открыть страницу</string>
-    <string name="passport_password_login_btn">Войти</string>
-    <string name="passport_password_not_show">Не показывать пароль</string>
-    <string name="passport_password_show">Показать пароль</string>
-    <string name="passport_phone_auto_login_register_with_local_number">Создать аккаунт</string>
-    <string name="passport_photo_picker_not_found">Фото не найдены</string>
-    <string name="passport_qq_login_btn_content_description">Вход через QQ</string>
-    <string name="passport_querying_phone_info">Запрос данных аккаунта…</string>
-    <string name="passport_quick_login_title">Введите пароль</string>
-    <string name="passport_reging">Создание аккаунта…</string>
-    <string name="passport_register_by_local_phone_long_text">Создать аккаунт</string>
-    <string name="passport_register_by_local_phone_short_text">Создать</string>
-    <string name="passport_register_restricted">С этим номером связано слишком много аккаунтов, выберите другой</string>
-    <string name="passport_relogin_notice">Необходимо выполнить вход повторно</string>
-    <string name="passport_request_agree">Разрешить</string>
-    <string name="passport_request_camera_permission_message">"Мы будем защищать вашу личную информацию в соответствии с действующими законами и правилами. Для нормальной работы приложению требуется следующее разрешение:&lt;br>&lt;br>&lt;b>Доступ к камере (для установки фото профиля)&lt;/b>&lt;br>&lt;br>В случае отказа предоставить разрешение, вы не сможете использовать некоторые функции этого приложения, однако основной функционал останется доступен. Ограничить или отозвать разрешение можно в любое время в Настройках."</string>
-    <string name="passport_request_cancel">Отмена</string>
-    <string name="passport_request_error_invalid_token">Не удалось проверить</string>
-    <string name="passport_request_error_network">Ошибка сети. Проверьте настройки и повторите попытку.</string>
-    <string name="passport_request_error_unknown">Произошла системная ошибка. Вернитесь назад и повторите попытку.</string>
-    <string name="passport_request_gallery_permission_message">Разрешите доступ к Галерее:&lt;br />Для установки фото профиля</string>
-    <string name="passport_resend_email_reach_limit_message">Запрошено слишком много писем для подтверждения. Убедитесь, что они не попали в папку для спама.</string>
-    <string name="passport_resend_email_reach_limit_title">Лимит попыток</string>
-    <string name="passport_resend_ticket">Отправить код повторно</string>
-    <string name="passport_retry">Повтор</string>
-    <string name="passport_same_new_and_old_pwd">Новый пароль должен отличаться от текущего</string>
-    <string name="passport_send_sms_to">Код отправлен на %1$s</string>
-    <string name="passport_send_too_many_code">На этот номер отправлено слишком много кодов подтверждения. Подождите 24 часа и повторите попытку.</string>
-    <string name="passport_sending_vcode">Отправка кода…</string>
-    <string name="passport_service_error">Ошибка сервера</string>
-    <string name="passport_set_password_no_phone_msg">Добавьте номер телефона для защиты аккаунта.</string>
-    <string name="passport_skip_query_account">Пропустить</string>
-    <string name="passport_sns_access_token_expired_warning">Сеанс истек. Войдите снова, чтобы повторно подключить эту учетную запись.</string>
-    <string name="passport_sns_bind_limit">Слишком много попыток. Попробуйте выбрать другой способ входа.</string>
-    <string name="passport_system_error">Система не отвечает. Подождите немного и повторите попытку.</string>
-    <string name="passport_talkback_image_captcha">Защитный код с картинки</string>
-    <string name="passport_talkback_switch_image_captcha">Переключиться на защитный код с картинки</string>
-    <string name="passport_talkback_switch_voice_captcha">Переключиться на голосовой защитный код</string>
-    <string name="passport_talkback_voice_captcha">Голосовой защитный код</string>
-    <string name="passport_ticket_send_by_second">Отправить через %d</string>
-    <string name="passport_to_forget_password">Забыли пароль?</string>
-    <string name="passport_to_password_login">Войти с помощью пароля</string>
-    <string name="passport_to_verify_code_login">Войти с помощью SMS</string>
-    <string name="passport_unknown_error">Неизвестная ошибка</string>
-    <string name="passport_unknown_host_network_error">Проверьте настройки сети и повторите попытку</string>
-    <string name="passport_user_agreement_hint_3rd_app"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, а также &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> аккаунта Xiaomi."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> аккаунта Xiaomi, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> аккаунта Xiaomi, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> аккаунта Xiaomi, а также &lt;a href=\"%5$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> аккаунта Xiaomi."</Data></string>
-    <string name="passport_user_agreement_hint_first_login">Если вы впервые используете этот номер телефона, аккаунт будет создан автоматически.</string>
-    <string name="passport_user_agreement_hint_with_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> аккаунта Xiaomi, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> аккаунта Xiaomi, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> аккаунта Xiaomi, а также &lt;a href=\"%3$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
-    <string name="passport_user_avatar_update_title">Фото профиля</string>
-    <string name="passport_user_avatar_uploading">Подождите…</string>
-    <string name="passport_user_id_hint">Email/номер телефона/ID аккаунта Xiaomi</string>
-    <string name="passport_user_name_phone_number">Номер телефона</string>
-    <string name="passport_user_password_hint">Пароль</string>
-    <string name="passport_vcode_what_app_send_prompt">Код подтверждения WhatsApp будет отправлен на номер для восстановления (&lt;font color=#1F93FF>%s&lt;/font>).</string>
-    <string name="passport_wechat_not_install">Сначала установите WeChat</string>
-    <string name="passport_weibo_login_btn_content_description">Вход через Weibo</string>
-    <string name="passport_weixin_login_btn_content_description">Вход через WeChat</string>
-    <string name="passport_wrong_captcha">Код введен неверно</string>
-    <string name="passport_wrong_phone_number_format">Неверный формат номера телефона</string>
-    <string name="passport_wrong_vcode">Код введен неверно</string>
-    <string name="passport_wrong_voice">Код введен неверно</string>
-    <string name="password_toggle_content_description">Показать пароль</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="search_menu_title">Поиск</string>
-    <string name="searchview_clear_text_content_description">Удалить текст</string>
-    <string name="searchview_navigation_content_description">Назад</string>
     <string name="send">Отправить</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>

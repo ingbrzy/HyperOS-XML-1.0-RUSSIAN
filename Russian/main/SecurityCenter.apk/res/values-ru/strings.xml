@@ -107,7 +107,7 @@
 "</string>
     <string name="access_control_need_to_unlock_nofingerprint">Введите пароль Защиты приложений</string>
     <string name="accessibility_gameboosterservice_description">Включите для приглушения входящих звонков WeChat в процессе игры</string>
-    <string name="accessibility_service_description"/>
+    <string name="accessibility_service_description" />
     <string name="action_button_text_100">Начать</string>
     <string name="action_button_text_60">Исправить</string>
     <string name="action_button_text_60_80">Исправить</string>
@@ -129,7 +129,6 @@
     <string name="activity_title_apps_settings">Приложения</string>
     <string name="activity_title_auto_start_manager">Автозапуск</string>
     <string name="activity_title_auto_start_manager_global">Автозапуск в фоне</string>
-    <string name="activity_title_create_shortcut">Ярлыки</string>
     <string name="activity_title_garbage_cleanup">Очистка</string>
     <string name="activity_title_license_manager">Разрешения</string>
     <string name="activity_title_networkassistants">Трафик</string>
@@ -224,7 +223,6 @@
     <string name="antivirus_choose_engine_settings">Настройки сигнатур</string>
     <string name="antivirus_choose_engine_title">Сигнатуры</string>
     <string name="antivirus_detect_apps_dialog_cancel">Оставить</string>
-    <string name="antivirus_detect_apps_dialog_content">%s классифицируется Национальным центром по борьбе с мошенничеством как приложение для финансового мошенничества и представляет угрозу безопасности.</string>
     <string name="antivirus_detect_apps_dialog_content_text">Это приложение может представлять угрозу безопасности вашей личной информации</string>
     <string name="antivirus_detect_apps_dialog_message">Если сотрудники службы поддержки, представители власти или люди, которых вы можете знать, просят вас использовать это приложение, <Data>&lt;font color=#F22424>сначала удостоверьтесь в их личности&lt;/font>.</Data></string>
     <string name="antivirus_detect_apps_dialog_message_reject_permission">Разрешения для этого приложения были ограничены. Изменить их можно здесь: %s.</string>
@@ -287,52 +285,14 @@
     <string name="app_behavior_about_negative">Сообщить о неточностях</string>
     <string name="app_behavior_about_positive">ОК</string>
     <string name="app_behavior_about_setting">Настройки</string>
-    <string name="app_behavior_access_gallery">%1s - доступ к Галерее</string>
-    <string name="app_behavior_access_gallery_single">Доступ к Галерее</string>
-    <string name="app_behavior_access_sociality">%1s - доступ к файлам приложений соцсетей</string>
-    <string name="app_behavior_access_sociality_single">Доступ к файлам приложений соцсетей</string>
     <string name="app_behavior_allowed">Разрешить</string>
-    <string name="app_behavior_audio">%1s - доступ к микрофону</string>
-    <string name="app_behavior_audio_bg">%1s - доступ к микрофону в фоновом режиме</string>
-    <string name="app_behavior_audio_bg_single">Доступ к микрофону в фоновом режиме</string>
-    <string name="app_behavior_audio_single">Доступ к микрофону</string>
-    <string name="app_behavior_autostart">%1s - автозапуск</string>
     <string name="app_behavior_autostart_single">Автозапуск</string>
-    <string name="app_behavior_calendar">%1s - доступ к календарю</string>
-    <string name="app_behavior_calendar_bg">%1s - доступ к календарю в фоновом режиме</string>
-    <string name="app_behavior_calendar_bg_single">Доступ к календарю в фоновом режиме</string>
-    <string name="app_behavior_calendar_single">Доступ к календарю</string>
-    <string name="app_behavior_calllog">%1s - доступ к журналу вызовов</string>
-    <string name="app_behavior_calllog_bg">%1s - доступ к журналу вызовов в фоновом режиме</string>
-    <string name="app_behavior_calllog_bg_single">Доступ к журналу вызовов в фоновом режиме</string>
-    <string name="app_behavior_calllog_single">Доступ к журналу вызовов</string>
-    <string name="app_behavior_callphone">%1s - вызов</string>
-    <string name="app_behavior_callphone_single">Вызов</string>
-    <string name="app_behavior_camera">%1s - доступ к камере</string>
-    <string name="app_behavior_camera_single">Доступ к камере</string>
-    <string name="app_behavior_clipboard">%1s - доступ к буферу обмена</string>
-    <string name="app_behavior_clipboard_bg">%1s - доступ к буферу обмена в фоновом режиме</string>
-    <string name="app_behavior_clipboard_bg_new">%1s - копирование в буфер обмена в фоновом режиме</string>
-    <string name="app_behavior_clipboard_bg_single">Доступ к буферу обмена в фоновом режиме</string>
-    <string name="app_behavior_clipboard_bg_single_new">Копирование в буфер обмена в фоновом режиме</string>
-    <string name="app_behavior_clipboard_new">%1s - копирование в буфер обмена</string>
-    <string name="app_behavior_clipboard_read_bg_single">Чтение буфера обмена в фоновом режиме</string>
-    <string name="app_behavior_clipboard_read_single">Чтение буфера обмена</string>
-    <string name="app_behavior_clipboard_single">Доступ к буферу обмена</string>
-    <string name="app_behavior_clipboard_single_new">Копирование в буфер обмена</string>
-    <string name="app_behavior_contacts">%1s - доступ к контактам</string>
-    <string name="app_behavior_contacts_bg">%1s - доступ к контактам в фоновом режиме</string>
-    <string name="app_behavior_contacts_bg_single">Доступ к контактам в фоновом режиме</string>
-    <string name="app_behavior_contacts_single">Доступ к контактам</string>
     <string name="app_behavior_dashboard_desc">Активность за последние %d ч.</string>
     <string name="app_behavior_dashboard_total_usage_title">Все записи</string>
     <string name="app_behavior_dashboard_usage">Действия</string>
     <string name="app_behavior_dashboard_usage_list_title">По разрешениям</string>
     <string name="app_behavior_dashboard_usage_unit">%1$s / %2$s</string>
-    <string name="app_behavior_delete_pic">%1s - удаление файлов из Галереи</string>
-    <string name="app_behavior_delete_pic_single">Удаление файлов из Галереи</string>
     <string name="app_behavior_denied">Отклонить</string>
-    <string name="app_behavior_desc_allow_once">Разрешено в %1$s</string>
     <string name="app_behavior_desc_allowed">Разрешено</string>
     <string name="app_behavior_desc_allowed_at">Разрешено в %s</string>
     <string name="app_behavior_desc_allowed_on_background">Разрешено в фоновом режиме</string>
@@ -341,74 +301,21 @@
     <string name="app_behavior_desc_denied_at">Отклонено в %s</string>
     <string name="app_behavior_desc_denied_on_background">Отклонено в фоновом режиме</string>
     <string name="app_behavior_desc_denied_on_background_at">Отклонено в фоновом режиме в %s</string>
-    <string name="app_behavior_desc_deny_once">Отклонено в %1$s</string>
     <string name="app_behavior_desc_other_perm_allowed">Активность: %s</string>
     <string name="app_behavior_desc_other_perm_denied">Активность за последние %d ч.</string>
-    <string name="app_behavior_desc_virtual_once">Отправлена пустая информация в %1$s</string>
     <string name="app_behavior_door">Действия</string>
-    <string name="app_behavior_get_install">%1s - доступ к списку приложений</string>
-    <string name="app_behavior_get_install_single">Доступ к списку приложений</string>
-    <string name="app_behavior_global_settings_perm_tips">Показывать уведомление в строке состояния, когда приложения используют микрофон или камеру</string>
     <string name="app_behavior_header_time">d MMMM</string>
     <string name="app_behavior_key_audio">Доступ к микрофону</string>
     <string name="app_behavior_key_camera">Доступ к камере</string>
     <string name="app_behavior_key_location">Использование геолокации</string>
-    <string name="app_behavior_key_protect">Включить уведомления</string>
     <string name="app_behavior_link_start">Цепной запуск</string>
     <string name="app_behavior_list_load_more">Загрузка…</string>
-    <string name="app_behavior_location">%1s - использование геолокации</string>
-    <string name="app_behavior_location_bg">%1s - геолокация в фоновом режиме</string>
-    <string name="app_behavior_location_bg_single">Геолокация в фоновом режиме</string>
-    <string name="app_behavior_location_single">Использование геолокации</string>
-    <string name="app_behavior_media_volume">%1s - изменение громкости</string>
-    <string name="app_behavior_media_volume_bg">%1s - изменение громкости в фоновом режиме</string>
-    <string name="app_behavior_media_volume_bg_single">Изменение громкости в фоновом режиме</string>
-    <string name="app_behavior_media_volume_single">Изменение громкости</string>
     <string name="app_behavior_menu_about">О записи действий приложений</string>
-    <string name="app_behavior_monitor_off">Отключение уведомлений</string>
-    <string name="app_behavior_monitor_off_content">Отключить уведомления о действиях этого приложения?</string>
-    <string name="app_behavior_monitor_off_positive">Отключить</string>
-    <string name="app_behavior_monitor_off_select">Больше не показывать</string>
-    <string name="app_behavior_monitor_tips_if_trust">Можно отключить уведомления о действиях, если вы доверяете этому приложению</string>
-    <string name="app_behavior_monitor_tips_key">Уведомления о действиях</string>
-    <string name="app_behavior_monitor_tips_summary">Вы будете получать уведомления, когда приложения используют геолокацию, получают доступ к камере, микрофону или личной информации в фоновом режиме.</string>
     <string name="app_behavior_no_recorder">Ничего нет</string>
-    <string name="app_behavior_notification_audio_now_one">%1s - используется микрофон</string>
-    <string name="app_behavior_notification_audio_now_two" formatted="false">%1s и %2s используют микрофон</string>
-    <string name="app_behavior_notification_camera_one">%1s - используется камера</string>
-    <string name="app_behavior_notification_camera_two" formatted="false">%1s и %2s используют камеру</string>
-    <string name="app_behavior_notification_location_one">%1s - используется геолокация</string>
-    <string name="app_behavior_notification_location_two" formatted="false">%1s и %2s используют геолокацию</string>
-    <string name="app_behavior_notification_title_calllog_read">%1s - чтение журнала вызовов в фоновом режиме</string>
-    <string name="app_behavior_notification_title_calllog_write">%1s - изменение журнала вызовов в фоновом режиме</string>
-    <string name="app_behavior_notification_title_clipboard_read">%1s - чтение буфера обмена в фоновом режиме</string>
-    <string name="app_behavior_notification_title_clipboard_write">%1s - изменение буфера обмена в фоновом режиме</string>
-    <string name="app_behavior_notification_title_contact_read">%1s - доступ к контактам в фоновом режиме</string>
-    <string name="app_behavior_notification_title_contact_write">%1s - изменение контактов в фоновом режиме</string>
-    <string name="app_behavior_notification_title_just_audio">%1s - доступ к микрофону в фоновом режиме</string>
-    <string name="app_behavior_notification_title_just_location">%1s - геолокация в фоновом режиме</string>
-    <string name="app_behavior_notification_title_multi">Действия приложений</string>
-    <string name="app_behavior_notification_title_now_audio">%1s - используется микрофон в фоновом режиме</string>
-    <string name="app_behavior_notification_title_now_location">%1s - геолокация в фоновом режиме</string>
-    <string name="app_behavior_notification_title_single_group">%1s - выполнено несколько действий</string>
-    <string name="app_behavior_notification_title_storage">%1s - изменены файлы в фоновом режиме</string>
     <string name="app_behavior_now_running">Запущено</string>
     <string name="app_behavior_perm_allow_always_danger_tip">Приложения могут выполнять конфиденциальные действия, если им предоставлены разрешения</string>
     <string name="app_behavior_perm_change_dialog_desc_title">О разрешении:</string>
-    <string name="app_behavior_perm_change_tip_allow">Действие (%1s) разрешено</string>
-    <string name="app_behavior_perm_change_tip_ask">Запрашивать разрешение для действия (%1s)</string>
-    <string name="app_behavior_perm_change_tip_deny">Действие (%1s) отклонено</string>
-    <string name="app_behavior_perm_change_tip_foreground">Действие (%1s) разрешено в активном режиме</string>
-    <string name="app_behavior_perm_change_tip_virtual">Отправить пустую информацию (%1s)</string>
-    <string name="app_behavior_phonenum">%1s - доступ к номеру телефона</string>
-    <string name="app_behavior_phonenum_single">Доступ к номеру телефона</string>
-    <string name="app_behavior_phonestate">%1s - получение информации об устройстве</string>
-    <string name="app_behavior_phonestate_single">Получение информации об устройстве</string>
     <string name="app_behavior_privacy_manager">Уведомления о действиях</string>
-    <string name="app_behavior_read_clipboard">%1s - чтение из буфера обмена</string>
-    <string name="app_behavior_read_clipboard_bg">%1s - чтение из буфера обмена в фоновом режиме</string>
-    <string name="app_behavior_recognition">%1s - доступ к данным о здоровье и активности</string>
-    <string name="app_behavior_recognition_single">Доступ к данным о здоровье и активности</string>
     <string name="app_behavior_record_cancel">Отмена</string>
     <string name="app_behavior_record_close">Отключить</string>
     <string name="app_behavior_record_close_title">Запись действий</string>
@@ -416,46 +323,14 @@
     <string name="app_behavior_record_open">Включить</string>
     <string name="app_behavior_record_open_content_text">Отслеживание действий приложений помогает избежать угроз безопасности</string>
     <string name="app_behavior_record_setting_button_title">Показать</string>
-    <string name="app_behavior_record_setting_show_system">Действия системных служб</string>
     <string name="app_behavior_record_setting_show_system_desc">Показывать действия основных системных служб. Для обеспечения стабильности системы эти службы используют необходимые разрешения, некоторые из которых нельзя ограничить.</string>
     <string name="app_behavior_record_setting_show_system_title">Действия системных служб</string>
     <string name="app_behavior_record_setting_title">Записи действий</string>
     <string name="app_behavior_record_show_system">Показать системные приложения</string>
-    <string name="app_behavior_search">Поиск</string>
-    <string name="app_behavior_sensor">%1s - доступ к данным датчиков о состоянии организма</string>
-    <string name="app_behavior_sensor_single">Доступ к данным датчиков о состоянии организма</string>
-    <string name="app_behavior_settings_category_perm">Уведомление об использовании</string>
-    <string name="app_behavior_settings_category_privacy">Защита личной информации</string>
-    <string name="app_behavior_settings_perm_tips">Показывать уведомление в строке состояния, когда приложение использует геолокацию, микрофон или камеру в фоновом режиме</string>
-    <string name="app_behavior_settings_privacy_tips">Уведомлять о доступе к контактам, журналу вызовов или выполнении конфиденциальных действий</string>
     <string name="app_behavior_share_file">Отправка файлов</string>
     <string name="app_behavior_share_picture">Отправка изображений</string>
-    <string name="app_behavior_sms_read">%1s - чтение SMS</string>
-    <string name="app_behavior_sms_read_single">Чтение SMS</string>
-    <string name="app_behavior_sms_send">%1s - отправка SMS</string>
-    <string name="app_behavior_sms_send_single">Отправка SMS</string>
-    <string name="app_behavior_start_from_app" formatted="false">%2s - запуск приложения %1s</string>
-    <string name="app_behavior_start_from_app_single">%1s - запуск из приложения</string>
-    <string name="app_behavior_start_from_launcher">%1s - запуск с рабочего стола</string>
-    <string name="app_behavior_start_from_launcher_single">Запуск с рабочего стола</string>
-    <string name="app_behavior_start_from_notification">%1s - запуск из уведомления</string>
-    <string name="app_behavior_start_from_notification_single">Запуск из уведомления</string>
-    <string name="app_behavior_start_from_recent">%1s - запуск из Недавних задач</string>
-    <string name="app_behavior_start_from_recent_single">Запуск из Недавних задач</string>
-    <string name="app_behavior_start_from_widget">%1s - запуск виджетом</string>
-    <string name="app_behavior_start_from_widget_single">Запуск виджетом</string>
-    <string name="app_behavior_storage">%1s - доступ к файлам</string>
-    <string name="app_behavior_storage_bg">%1s - доступ к файлам в фоновом режиме</string>
-    <string name="app_behavior_storage_bg_single">Доступ к файлам в фоновом режиме</string>
-    <string name="app_behavior_storage_single">Доступ к файлам</string>
-    <string name="app_behavior_this_run">Недавно</string>
     <string name="app_behavior_time_today">Сегодня</string>
     <string name="app_behavior_time_yesterday">Вчера</string>
-    <string name="app_behavior_wakepath" formatted="false">%1s - запуск приложения %2s</string>
-    <string name="app_behavior_wakepath_single">Запуск приложения %2s</string>
-    <string name="app_behavior_warning_audio_title">%1s - используется микрофон в фоновом режиме</string>
-    <string name="app_behavior_warning_content">Завершить процесс, если разрешение отсутствует</string>
-    <string name="app_behavior_warning_location_title">%1s - используется геолокация</string>
     <string name="app_bg_restrict_dialog_message">Ограничение фоновых подключений может помешать нормальной работе приложения. Например, оно больше не сможет получать сообщения или обновлять данные.</string>
     <string name="app_check_no_issue">Проблемы с питанием не найдены. Отлично!</string>
     <string name="app_classification_activity_label">Все приложения</string>
@@ -514,16 +389,12 @@
     <string name="app_manager_copy_pkg_to_clip">Скопировано в буфер обмена</string>
     <string name="app_manager_data_size">Данные</string>
     <string name="app_manager_default_cleared">Действия по умолчанию сброшены</string>
-    <string name="app_manager_default_close_summary">Действия по умолчанию не установлены</string>
-    <string name="app_manager_default_open_summary">Вы назначили это приложение для некоторых действий по умолчанию</string>
-    <string name="app_manager_default_open_title">Сброс действий по умолчанию</string>
     <string name="app_manager_defaults_setting">Приложения по умолчанию</string>
     <string name="app_manager_details_electric_title">Батарея</string>
     <string name="app_manager_details_storage_title">Память</string>
     <string name="app_manager_details_title">Сведения</string>
     <string name="app_manager_details_traffic_title">Трафик</string>
     <string name="app_manager_disable">Запретить</string>
-    <string name="app_manager_disable_dlg_text">Если вы отключите это приложение, работа других приложений может быть нарушена.</string>
     <string name="app_manager_disable_dlg_title">Отключить системное приложение?</string>
     <string name="app_manager_disable_text">Отключить</string>
     <string name="app_manager_disabled">Отключено</string>
@@ -547,7 +418,6 @@
     <string name="app_manager_has_not_data">Данных нет</string>
     <string name="app_manager_have_not_consume">Данных нет</string>
     <string name="app_manager_hide_system_server">Скрыть системные приложения</string>
-    <string name="app_manager_install_other_app">Установка из неизвестных источников</string>
     <string name="app_manager_manage_space">Очистить</string>
     <string name="app_manager_memory">ОЗУ</string>
     <string name="app_manager_menu_clear_data">Очистить</string>
@@ -595,9 +465,6 @@
     <string name="app_manager_systemapp_setting">Настройки системных приложений</string>
     <string name="app_manager_tab_app">Приложения</string>
     <string name="app_manager_tab_manager">Управление</string>
-    <string name="app_manager_thumbnail_blur_summary">Размывать миниатюру приложения в Недавних</string>
-    <string name="app_manager_thumbnail_blur_title">Размытие миниатюры</string>
-    <string name="app_manager_thumbnail_shield_summary">Маскировать превью приложений в Недавних</string>
     <string name="app_manager_title">Приложения</string>
     <string name="app_manager_to_appstore">Откройте для себя новые приложения</string>
     <string name="app_manager_total_size">Всего</string>
@@ -610,19 +477,15 @@
     <string name="app_manager_uninstall_xspace_app_dlg_msg">Удаление клона приложения очистит все его данные.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_title">Удалить клон приложения?</string>
     <string name="app_manager_unstall_application">Удалить</string>
-    <string name="app_manager_update">Обновить</string>
-    <string name="app_manager_updater_notify_message">Обновите приложения для доступа к новым функциям</string>
     <string name="app_managere_not_have_app">Пусто</string>
     <string name="app_manger_des_separator">", "</string>
     <string name="app_mobile">Мобильный интернет</string>
-    <string name="app_name">Защита приложений</string>
     <string name="app_name_na">Трафик</string>
     <string name="app_name_pad">Безопасность</string>
     <string name="app_name_phone">Безопасность</string>
     <string name="app_name_securitycenter">Безопасность</string>
     <string name="app_name_securitycenter_new">Безопасность</string>
     <string name="app_not_installed_toast">Приложение не найдено</string>
-    <string name="app_perm_manager_service">Разрешения</string>
     <string name="app_permission_use_group_calendar">Календарь</string>
     <string name="app_permission_use_group_calendar_des">Чтение и редактирование календаря</string>
     <string name="app_permission_use_group_camera">Камера</string>
@@ -684,11 +547,7 @@
     <string name="app_running_tip_dialog_positive">Закрыть</string>
     <string name="app_running_tip_dialog_text">Это приложение работает в фоновом режиме. Вы можете закрыть приложение, чтобы ускорить работу устройства и снизить расход батареи.</string>
     <string name="app_running_tip_dialog_title">Закрытие %1$s</string>
-    <string name="app_running_tip_uninstall">Удалить приложение</string>
     <string name="app_settings_link">Доп. настройки в приложении</string>
-    <string name="app_statusbar_audio_now">Используется микрофон</string>
-    <string name="app_statusbar_camera_now">Используется камера</string>
-    <string name="app_statusbar_location_now">Используется геолокация</string>
     <string name="app_summary">Поддержка личных и групповых красных пакетов</string>
     <string name="app_usage_half_year">Последние %d месяцев</string>
     <string name="app_usage_more_year">Больше %d года назад</string>
@@ -699,7 +558,6 @@
     <string name="app_usage_one_week">Последние %d дней</string>
     <string name="app_usage_recently">Работало недавно</string>
     <string name="app_usage_year">В течение %d года</string>
-    <string name="app_version">"Версия: "</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Очистить %s кеша WeChat для освобождения места</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">Очистка кэша</string>
@@ -1023,9 +881,7 @@
     <string name="battery_status_unknown">Неизвестная ошибка</string>
     <string name="battery_temperature_title">Температура</string>
     <string name="beauty_fc_assistant">Помощник фронтальной камеры</string>
-    <string name="beauty_fc_assistant_summary">Дополнительные функции для фронтальной камеры</string>
     <string name="beauty_fc_assistant_summary_common">Дополнительные функции для фронтальной камеры</string>
-    <string name="beauty_fc_assistant_summary_new">Показывать настройки для улучшения и рассеянного света при использовании фронтальной камеры</string>
     <string name="beauty_fc_auto_brightness">Авторегулировка яркости рассеянного света</string>
     <string name="beauty_fc_fill_lamp">Рассеянный свет</string>
     <string name="beauty_fc_fill_lamp_new">Фронтальный рассеянный свет</string>
@@ -1176,7 +1032,6 @@
     <string name="bottom_func_guide_default_text">Дополнительные функции</string>
     <string name="bottom_notice_title">Свайп вверх для панели инструментов</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
-    <string name="brand_diagnostic">Диагностика бренда оператора</string>
     <string name="btn_back">Назад</string>
     <string name="btn_finish_diagnostic">ОК</string>
     <string name="btn_start_diagnostic">Диагностика сети</string>
@@ -1256,21 +1111,18 @@
     <string name="card_main_applock_summary">Защита паролем выбранных приложений</string>
     <string name="card_main_applock_title">Защита приложений</string>
     <string name="card_main_deepclean_action">Очистить</string>
-    <string name="card_main_deepclean_facebook_title">"Очистка Facebook"</string>
     <string name="card_main_deepclean_qq_title">Очистка QQ</string>
     <string name="card_main_deepclean_summary">Удаление ненужных данных, файлов и приложений</string>
     <string name="card_main_deepclean_title">"Глубокая очистка"</string>
     <string name="card_main_deepclean_wechat_action">Очистить</string>
     <string name="card_main_deepclean_wechat_summary">Очистка кэша WeChat для освобождения места</string>
     <string name="card_main_deepclean_wechat_title">Очистка WeChat</string>
-    <string name="card_main_deepclean_whatsapp_title">Очистка WhatsApp</string>
     <string name="card_main_facebookclean_title">Очистка Facebook</string>
     <string name="card_main_galleryclean_title">Удаление фото</string>
     <string name="card_main_gamebooster_summary">Улучшение производительности и управления в играх</string>
     <string name="card_main_gamebooster_title">Ускорение игр</string>
     <string name="card_main_hbassistant_summary">Используйте данный инструмент для быстрой ловли конвертов</string>
     <string name="card_main_hbassistant_title">Красные конверты</string>
-    <string name="card_main_hwtest_title">"Тестирование устройства"</string>
     <string name="card_main_monthreport_action">Просмотреть</string>
     <string name="card_main_netcheck_action">Тестировать</string>
     <string name="card_main_netcheck_summary">Тестирование сети на наличие проблем</string>
@@ -1419,7 +1271,6 @@
     <string name="conversation_summary_new">Улучшение, субтитры и другие функции во время аудио- и видеовызовов</string>
     <string name="conversation_title">Инструменты конференц-связи</string>
     <string name="copy">Копировать</string>
-    <string name="correction_attention_dialog_message">Идёт корректировка настроек. Дождитесь завершения и повторите попытку.</string>
     <string name="cpu_usage_android_system">Система Android</string>
     <string name="cpu_usage_process_run_time_little_time">Менее 1 мин.</string>
     <string name="cpu_usage_process_run_time_little_time_new">Менее %d мин.</string>
@@ -1500,9 +1351,6 @@
     <string name="data_usage_no_total_package_body">Нажмите для настройки.</string>
     <string name="data_usage_no_total_package_body_dual">Лимит трафика для %s не настроен</string>
     <string name="data_usage_no_total_package_title">Настройте лимит трафика</string>
-    <string name="data_usage_protected_dialog_message">"Мобильный интернет отключён во избежание дополнительных расходов.
-
-Оператор связи может взимать дополнительную плату при дальнейшем использовании мобильного интернета."</string>
     <string name="data_usage_protected_notify_message">Мобильный интернет отключён во избежание дополнительных расходов.</string>
     <string name="data_usage_protected_notify_title">Вы уже использовали 5 ГБ мобильного трафика</string>
     <string name="data_usage_warning_body">Нажмите для просмотра.</string>
@@ -1543,13 +1391,10 @@
     <string name="descx_quick_scan_preparation">Подождите…</string>
     <string name="detail_app_button">О приложении</string>
     <string name="details_subtitle">Подробности</string>
-    <string name="dev_sign_notification_content">Сейчас вы используете бета-версию Android 12. Ваши отзывы помогут нам выявить и устранить проблемы. Спасибо за участие в этой программе!</string>
-    <string name="dev_sign_notification_title">Бета-версия Android 12</string>
     <string name="device_manager_apply_step_1">Активировать администратора устройства?</string>
     <string name="device_manager_apply_step_2">"Активация администратора устройства для этого приложения может привести к раскрытию ваших личных данных.
 Все данные на вашем устройстве могут быть удалены, а пароль блокировки экрана сброшен."</string>
     <string name="device_manager_apply_step_3">Прежде чем продолжить, убедитесь, что вы осознаете все возможные риски. Активировать администратора устройства?</string>
-    <string name="diagnostic_attention_dialog_message">Идёт диагностика %1$s. Дождитесь завершения и повторите попытку.</string>
     <string name="dialog_app_roaming_message">%1$s не может использовать мобильный интернет в роуминге. Только приложения из списка исключений могут использовать мобильный интернет.</string>
     <string name="dialog_app_roaming_title">%1$s без доступа в интернет</string>
     <string name="dialog_btn_delete_icon">Удалить</string>
@@ -1562,10 +1407,8 @@
     <string name="dialog_msg_auto_start_declare_global">Некоторые приложения могут некорректно сообщать, что MIUI не разрешила их запуск. Проверьте разрешения, выданные отдельным приложениям, в Настройках.</string>
     <string name="dialog_msg_create_icon_content">Добавить ярлык на рабочий стол?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">Больше не показывать</string>
-    <string name="dialog_msg_delete_icon_content">Приложение Безопасность позволяет очищать мусор на устройстве, находить и обезвреживать вирусы, экономить заряд батареи, управлять разрешениями и многое другое.</string>
     <string name="dialog_msg_delete_icon_content_pad">Приложение Безопасность позволяет очищать мусор на устройстве, находить и обезвреживать вирусы, экономить заряд батареи, управлять разрешениями и многое другое.</string>
     <string name="dialog_msg_delete_icon_content_phone">Приложение Безопасность позволяет очищать мусор на устройстве, находить и обезвреживать вирусы, экономить заряд батареи, управлять разрешениями и многое другое.</string>
-    <string name="dialog_msg_delete_icon_title">Удалить ярлык с рабочего стола?</string>
     <string name="dialog_msg_delete_icon_title_pad">Удалить ярлык с рабочего стола?</string>
     <string name="dialog_msg_delete_icon_title_phone">Удалить ярлык с рабочего стола?</string>
     <string name="dialog_msg_install_manager_content">Установить приложение Безопасность?</string>
@@ -1762,8 +1605,6 @@
     <string name="ew_alert_emergency_text_single">Показать медицинскую карту</string>
     <string name="ew_alert_help_earthquake_title">Сейсмическая волна прибыла</string>
     <string name="ew_alert_help_place_navigation">Навигация</string>
-    <string name="ew_alert_help_place_text">При необходимости отправляйтесь в ближайший приют для безопасности и получения необходимой помощи.</string>
-    <string name="ew_alert_help_place_title">Ближайшее убежище</string>
     <string name="ew_alert_help_safe_title">Предупреждение об опасности</string>
     <string name="ew_alert_help_tips">"Сохраняйте спокойствие и будьте начеку. Держитесь подальше от висящих предметов, не поднимайтесь на лифте. Найдите безопасное место и укройтесь."</string>
     <string name="ew_alert_no_contact">Добавьте экстренный контакт в Безопасность &gt; Предупреждения о землетрясении</string>
@@ -1776,7 +1617,6 @@
     <string name="ew_arrive_text_tips">Сейсмическая волна прибыла: %s</string>
     <string name="ew_button_confirm">Принимаю</string>
     <string name="ew_button_exit">Выход</string>
-    <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;"Эта функция предоставляет уведомления о предстоящих землетрясениях и воспроизводить звуковое предупреждение. Вы сможете найти ближайшее убежище, позвонить вашему экстренному контактному лицу и предъявить свою медицинскую карту, если потребуется. &lt;br&gt;Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и Политикой конфиденциальности. &lt;br&gt;Этой функции для нормальной работы требуются следующие разрешения для сбора вашей личной информации: &lt;br&gt;&#8226; Геолокация: &lt;br&gt;Использование геолокации для предупреждении о землетрясениях. &lt;br&gt;В случае отказа предоставить такие разрешения или поделиться своей личной информацией, вы не сможете использовать эту функцию. В этом случае можно отключить эту функцию или не включать её. &lt;br&gt;Перед использованием этой функции, вы должны прочесть и принять нашу Политику конфиденциальности."&lt;/Data&gt;</string>
     <string name="ew_city_support_tip">* Поддерживаются только предупреждения %s</string>
     <string name="ew_click_locate">Нажмите для получения геопозиции</string>
     <string name="ew_close">Отключить оповещение</string>
@@ -1832,7 +1672,6 @@
     <string name="ew_guide_start_agree">Включить</string>
     <string name="ew_guide_start_find_area">Поиск области</string>
     <string name="ew_guide_start_warning_range">В настоящее время предупреждение о землетрясениях доступны в зоне покрытия центра предупреждения о землетрясениях Чэнду, Научно-исследовательского института по уменьшению опасности стихийных бедствий. Конкретные районы можно найти в разделе Управление.</string>
-    <string name="ew_guide_statement_text">&lt;Data&gt;"Этот отказ от ответственности распространяется на всех пользователей (далее - Вы), которые включают функцию предупреждения о землетрясении. Соглашаясь с этим отказом от ответственности, вы заключаете юридический договор с Xiaomi Inc. и её дочерними компаниями (далее - Xiaomi). Вы признаете, что прочитали все содержание этого заявления об отказе от ответственности, и вы полностью понимаете и соглашаетесь со всеми положениями этого заявления об отказе от ответственности; в противном случае, вы должны отключить функцию предупреждения о землетрясении.&lt;br&gt; &lt;b&gt;Специальное заявление&lt;/b&gt;&lt;br&gt; Функция предупреждения о землетрясении сейчас доступна только в отдельных регионах. Для других регионов функция будут доступна в ближайшее время. &lt;br&gt; &lt;b&gt;Отказ от ответственности&lt;/b&gt;&lt;br&gt; Функции предупреждения о землетрясении предоставлены Xiaomi в приложении Безопасность. Вы должны понимать, что информация о предупреждении землетрясения предоставляется правительственными агентствами раннего предупреждения. Xiaomi не курирует такие агентства и не имеет контроля над ними.&lt;br&gt; Xiaomi не обещает и не гарантирует точность, обоснованность и своевременность информации о предупреждении землетрясения, а также не гарантирует, что служба предупреждения о землетрясении удовлетворит все ваши потребности.&lt;br&gt; Получение информации о предупреждении землетрясения требует, чтобы ваше устройство было подключено к мобильной сети. Отказы сторонней линии связи, технические проблемы, сбои сетевого или оконечного оборудования, нестабильность системы и другие различные форс-мажорные обстоятельства могут помешать вам получать информацию о предупреждении землетрясения. Xiaomi не несет никакой ответственности за любые убытки, вызванные такими событиями.&lt;br&gt; Вы должны понимать, что эта функция предоставляется только для ознакомления. Полученное предупреждение может прийти за несколько секунд до начала землетрясения. Вы несете единоличную ответственность за риски и последствия любых действий, которые вы совершаете на основе информации, предоставленной этой функцией.&lt;br&gt;"&lt;/Data&gt;</string>
     <string name="ew_guide_statement_text_new">"Этот отказ от ответственности распространяется на всех пользователей (далее - Вы), которые включают функцию предупреждения о землетрясении. Соглашаясь с этим отказом от ответственности, вы заключаете юридически обязывающий договор с Xiaomi Inc. и её аффилированными лицами (далее - Xiaomi). Вы признаете, что прочитали все содержание этого заявления об отказе от ответственности, и вы полностью понимаете и соглашаетесь со всеми положениями этого заявления об отказе от ответственности; в противном случае, вы должны отключить функцию предупреждения о землетрясении.
 В соответствии с действующими законами и постановлениями, Xiaomi предоставит вам услуги раннего предупреждения в зависимости от районов мониторинга раннего предупреждения о землетрясениях, охватываемой соответствующими агентствами. То есть, когда вы включите функцию предупреждения о землетрясениях, вы сможете получать предупреждения о землетрясениях для определённых районов. Конкретные зоны покрытия можно найти в Настройках.
 Эта функция предоставляет вам функцию предупреждения о землетрясениях. Вы должны понимать, что информация о землетрясении предоставляется Институтом уменьшения опасности стихийных бедствий Чэнду. Xiaomi не курирует эту организацию и не контролирует её.
@@ -1958,7 +1797,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="exit_dialog_garbage_clean_title">Очистите мусор</string>
     <string name="exit_dialog_homepage_optimise_message">Индекс производительности вашего устройства ниже 80 баллов. Оптимизировать его?</string>
     <string name="exit_dialog_release_memory_positive_button">Закрыть</string>
-    <string name="exit_dialog_release_memory_title"><Data>Ускорение устройства на &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
     <string name="exit_dialog_release_memory_title_new"><Data>Ускорение устройства на &lt;font color=#0099ff>%s&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">Заполнено более 80% хранилища. Освободите место, удалив неиспользуемые приложения.</string>
     <string name="exit_dialog_release_storage_message_new">Заполнено более %s хранилища. Освободите место, удалив неиспользуемые приложения.</string>
@@ -1980,7 +1818,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="exo_controls_pause_description">Приостановить</string>
     <string name="exo_controls_play_description">Воспроизвести</string>
     <string name="exo_controls_playback_speed">Скорость</string>
-    <string name="exo_controls_playback_speed_normal">Нормальная</string>
     <string name="exo_controls_previous_description">Предыдущий</string>
     <string name="exo_controls_repeat_all_description">Повторять все</string>
     <string name="exo_controls_repeat_off_description">Не повторять</string>
@@ -2003,7 +1840,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="exo_download_paused_for_network">Ожидание сети…</string>
     <string name="exo_download_paused_for_wifi">Ожидание Wi-Fi…</string>
     <string name="exo_download_removing">Удаление загрузок…</string>
-    <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_player_time_seperate">/</string>
     <string name="exo_track_mono">Моно</string>
     <string name="exo_track_role_alternate">Альтернативный</string>
@@ -2094,7 +1930,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="first_aid_card_airplane_title">Вызовы и подключение к сети недоступны</string>
     <string name="first_aid_card_consume_power_button1">Ограничить</string>
     <string name="first_aid_card_consume_power_button2">Отключить</string>
-    <string name="first_aid_card_consume_power_summary1">Разрешён автозапуск более 5 приложений. Ограничьте их число для экономии заряда.</string>
     <string name="first_aid_card_consume_power_summary2">Отключите точку доступа для экономии заряда</string>
     <string name="first_aid_card_consume_power_summary_app">Разрешён автозапуск более %d приложений. Ограничьте их число для экономии заряда.</string>
     <string name="first_aid_card_consume_power_title">Расход батареи</string>
@@ -2143,9 +1978,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="five_percent_total_pkg">%s (5%% от месячного лимита)</string>
     <string name="fixed_cellular_data_quota_monthly">Ежемесячный лимит трафика</string>
     <string name="fixed_package_tips">Ежемесячный фиксированный трафик (за превышение взимается дополнительная плата)</string>
-    <string name="fixed_traffic_by_month">Ежемесячный фиксированный трафик</string>
     <string name="fixed_traffic_quota">Фиксированный лимит трафика (необязательно）</string>
-    <string name="fixed_traffic_value_by_month">Ежемесячный фиксированный лимит трафика</string>
     <string name="float_window">Плавающее окно</string>
     <string name="float_window_summary">Быстрый переход на страницу с помощью встряхивания</string>
     <string name="float_window_tips">Устройство Xiaomi</string>
@@ -2196,10 +2029,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="full_fill_oprator_and_location">Предоставьте информацию об операторе и местоположении</string>
     <string name="full_fill_sim_location">Укажите местоположение</string>
     <string name="fully_informed_privacy">Настройки уведомлений</string>
-    <string name="function_auto_reject_detail">"О функции:
-1. Во время игры все входящие звонки на SIM-карту без мобильного интернета будут автоматически отклонены.
-2. Вы увидите уведомления о пропущенных звонках, а вызывающий абонент услышит звуковое сообщение о том, что вы сейчас заняты.
-3. Эта функция поддерживается только мобильными операторами в Китае."</string>
     <string name="function_auto_reject_detail_new">"О функции:
 %1$d. Во время игры все входящие звонки на SIM-карту без мобильного интернета будут автоматически отклонены.
 %2$d. Вы увидите уведомления о пропущенных звонках, а вызывающий абонент услышит звуковое сообщение о том, что вы сейчас заняты.
@@ -2263,7 +2092,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gamebooster_dialog_recover">Продлить</string>
     <string name="gamebooster_dialog_start_booster">Начать</string>
     <string name="gamebooster_lowbattery_notification_summary">Подключите зарядное устройство.</string>
-    <string name="gamebooster_lowbattery_notification_title">Заряд менее 5%%</string>
     <string name="gamebooster_main_activity_back">Назад</string>
     <string name="gamebooster_network_dialog_cn_message">Ускорению игр необходимы разрешения для подключения к интернету и для геолокации. Разрешить?</string>
     <string name="gamebooster_network_dialog_message">Разрешить подключение к интернету для использования всех функций Ускорения игр?</string>
@@ -2434,14 +2262,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_game_macro_bubble_tips">Попробуйте макросы</string>
     <string name="gb_game_macro_toast_tips">"Попробуйте макросы!
 Записывайте последовательности действий и используйте их в любое время!"</string>
-    <string name="gb_game_mode">Режим отображения</string>
-    <string name="gb_game_mode_change">Переключение между режимами отображения</string>
     <string name="gb_game_mode_change_btn_right">Перезапустить</string>
     <string name="gb_game_mode_change_message">Перезапустить игру, чтобы применить изменения?</string>
     <string name="gb_game_mode_change_new">Переключение между макетами</string>
     <string name="gb_game_mode_change_title">Перезапуск игры</string>
     <string name="gb_game_mode_choose_game_area">Активная область</string>
-    <string name="gb_game_mode_choose_title">Режим отображения</string>
     <string name="gb_game_mode_choose_title_new">Выбор макета</string>
     <string name="gb_game_mode_empty">Ничего нет</string>
     <string name="gb_game_mode_fill">Весь экран</string>
@@ -2460,7 +2285,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_game_ratio_top">Сверху</string>
     <string name="gb_game_time_toast">Таймер уже доступен!</string>
     <string name="gb_game_tips_restart">Игра будет перезапущена для применения изменений</string>
-    <string name="gb_game_video_ai_record_finish_tips">AI записи при ускорении игр: %d</string>
     <string name="gb_game_video_bottom_tips">Пересматривайте ключевые моменты игровых сессий в Ускорении игр. Записи будут автоматически удалены через 7 дней.</string>
     <string name="gb_game_video_bottom_tips_new">Пересматривайте ключевые моменты игровых сессий в Ускорении игр. Записи будут автоматически удалены через %d д.</string>
     <string name="gb_game_video_item_tag">Ключевые моменты</string>
@@ -2491,9 +2315,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_msg_transparent_dispaly_summary">Прозрачные</string>
     <string name="gb_network_status_bad">Произошла ошибка подключения.</string>
     <string name="gb_new_feature">Новая функция</string>
-    <string name="gb_ngtb_cpu">CPU</string>
-    <string name="gb_ngtb_fps">FPS</string>
-    <string name="gb_ngtb_gpu">GPU</string>
     <string name="gb_not_support_on_device">Это приложение не может быть использовано на внешнем экране</string>
     <string name="gb_operat_frequently">Не так быстро!</string>
     <string name="gb_performace_guide_disable_desc"><Data>"Переключение в сбалансированный режим в Ускорении игр недоступно, если включён общесистемный производительный режим. Настройки режима можно изменить в приложении &lt;a href=\"#\">Безопасность&lt;/a>."</Data></string>
@@ -2515,7 +2336,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_predownload_dialog_confirm">Включить</string>
     <string name="gb_predownload_dialog_message_china"><Data>"Включите автозагрузку обновлений игр при подключении к Wi-Fi и выключенном экране. Таким образом, вам будут доступны новые версии игр сразу после их выхода.&lt;br>&lt;br>Перед использованием этой функции необходимо принять &lt;a href=\"%1$s\">Заявление об обновлениях в фоновом режиме&lt;/a>."</Data></string>
     <string name="gb_predownload_dialog_title">Доступны обновления в фоновом режиме</string>
-    <string name="gb_predownload_message">Обновляйте King of Glory, Game for Peace и другие игры в фоновом режиме, когда устройство не используется</string>
     <string name="gb_predownload_message_new">Включите автообновление совместимых игр в фоновом режиме, когда устройство не используется</string>
     <string name="gb_predownload_noti_message">%2$1.2f ГБ обновления уже загружено. Оно станет доступно, как только выйдет новая версия.</string>
     <string name="gb_predownload_noti_title">Обновление %s завершено</string>
@@ -2628,12 +2448,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_voice_changer_setting_realtime_subtitle">Попробуйте изменение голоса в реальном времени</string>
     <string name="gb_voice_changer_setting_realtime_title">Обратная связь в реальном времени</string>
     <string name="gb_voice_changer_setting_rights">Условия использования и Политика конфиденциальности</string>
-    <string name="gb_voice_changer_toast_window_bubble_tips">"Попробуйте 3-дневную пробную
-версию Синтезатора голоса!"</string>
     <string name="gb_voice_changer_toast_window_new_tips">"Попробуйте Синтезатор голоса!
 Переключайтесь между разными персонажами и спецэффектами".</string>
     <string name="gb_voice_changer_toast_window_open">Включён эффект \"%s\"</string>
-    <string name="gb_voice_changer_toast_window_vip_expire">Подписка истекает. Продлите подписку, чтобы получить преимущества!</string>
     <string name="gb_voice_changer_trial_gender_dialog">Загружена пробная версия! Выберите пол для соответствующих эффектов и рекомендаций.</string>
     <string name="gb_voice_changer_trial_gender_dialog_title">Пробная версия</string>
     <string name="gb_voice_changer_trial_progress_dialog_message">Загрузка пробной версии…</string>
@@ -2662,27 +2479,19 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_xunyou_gift_type_two">Ускорение Xunyou на 2 дня</string>
     <string name="gb_xunyou_gift_type_two_new">Ускорение Xunyou на %d д.</string>
     <string name="gd_app_edit_done">Готово</string>
-    <string name="gd_app_edit_title">Добавить приложения</string>
     <string name="gd_app_edit_title_new">Редактирование ярлыков</string>
     <string name="gd_dock_shortcut_fullscreen">Полноэкранный режим</string>
     <string name="gd_dock_shortcut_splitescreen">Разделение экрана</string>
     <string name="gd_setting_conversation">Инструменты конференц-связи</string>
     <string name="gd_setting_conversation_desc">Набор функций для использования в полноэкранных аудио- и видеовызовах</string>
-    <string name="gd_setting_desc_action1">Открытие плавающего окна</string>
-    <string name="gd_setting_desc_action2">Использование ярлыков</string>
     <string name="gd_setting_group_custom_gtb_apps">Игры</string>
-    <string name="gd_setting_group_custom_line_location">Положение панели</string>
     <string name="gd_setting_group_custom_settings">Персонализация</string>
     <string name="gd_setting_group_custom_vtb_apps">Видеоприложения</string>
-    <string name="gd_setting_group_smart_tool_box">Боковая панель</string>
     <string name="gd_setting_group_title_switch">Сценарии отображения</string>
     <string name="gd_setting_gtb">Во время игр</string>
     <string name="gd_setting_gtb_desc">Специальные функции для игр</string>
     <string name="gd_setting_guide_one">Нажмите, чтобы открыть плавающее окно</string>
-    <string name="gd_setting_guide_three">Свайп от края для открытия внутриигровой панели</string>
-    <string name="gd_setting_guide_two">Свайп от края для открытия панели инструментов видео</string>
     <string name="gd_setting_miui_dock">Всегда показывать</string>
-    <string name="gd_setting_shorthand">Быстрые заметки</string>
     <string name="gd_setting_title">Боковая панель</string>
     <string name="gd_setting_vtb">При воспроизведении видео</string>
     <string name="gd_setting_vtb_desc">Специальные функции для воспроизведения видео</string>
@@ -2715,7 +2524,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="go_to_mi_sim">Нажмите, чтобы использовать Mi SIM.</string>
     <string name="go_to_send">Отправить</string>
     <string name="go_to_setting_fingerprint">Настройки</string>
-    <string name="google_base_app_fail">Не удалось загрузить. Убедитесь, что приложению Безопасность разрешён доступ в интернет.</string>
     <string name="google_base_app_install_choice">Приложение для нормальной работы требует наличия Google Services Framework, загрузить и установить?</string>
     <string name="google_base_app_installed">Успешно установлено</string>
     <string name="google_base_app_installing">Установка…</string>
@@ -2754,15 +2562,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gs_autobooster_dialog_message">Если вы используете сервисы ускорения Xunyou, откройте игры на указанной странице.</string>
     <string name="gs_call_handsfree">Ответ по громкой связи</string>
     <string name="gs_call_handsfree_mute">Режим \"Без звука\"</string>
-    <string name="gs_dialog_confirm_close_msg">Ярлык будет удалён с рабочего стола. Перейдите в Безопасность &gt; Настройки для его восстановления.</string>
-    <string name="gs_dialog_confirm_close_title">Отключение</string>
     <string name="gs_forbid_autosync">Ограничить синхронизацию</string>
     <string name="gs_game_ai_record">Запись с использованием AI</string>
-    <string name="gs_game_ai_record_subtitle">Включите автоматическую запись ключевых моментов игровой сессии. Записи автоматически удаляются через 7 дней, но вы можете сохранить их отдельно после каждой игровой сессии.</string>
     <string name="gs_game_disturb_msg">Режим \"Не беспокоить\"</string>
     <string name="gs_game_duration">Время</string>
     <string name="gs_game_manual_record">Запись вручную</string>
-    <string name="gs_game_manual_record_subtitle">Используйте плавающий ярлык для ручной записи ключевых моментов игровой сессии длительностью до 30 секунд. Записи автоматически удаляются через 7 дней.</string>
     <string name="gs_game_manual_record_subtitle_child">При использовании этой функции могут быть некоторые проблемы:</string>
     <string name="gs_game_manual_record_subtitle_child_carton">Запись игровых сессий требует более высокого энергопотребления и может приводить к подтормаживанию.</string>
     <string name="gs_game_manual_record_subtitle_child_conflict">Другие функции записи экрана могут работать неправильно.</string>
@@ -3031,7 +2835,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="lockpattern_pattern_confirmed_header">Ваш новый графический ключ:</string>
     <string name="lockpattern_pattern_entered_header">Графический ключ записан</string>
     <string name="lockpattern_recording_inprogress">Уберите палец, когда закончите</string>
-    <string name="lockpattern_recording_intro_header">Соедините не менее 4 точек для создания ключа</string>
     <string name="lockpattern_retry_button_text">Начать заново</string>
     <string name="lockpattern_settings_help_how_to_record">Как задать графический ключ</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Слишком много неудачных попыток</string>
@@ -3094,11 +2897,9 @@ Xiaomi не обещает и не гарантирует точность, до
 для калибровки"</string>
     <string name="main_tc_wait_result">"Ожидание ответа
 оператора"</string>
-    <string name="main_tobe_added_desc">Мобильный трафик от ¥0.03/МБ</string>
     <string name="main_today_used">Расход за сегодня</string>
     <string name="main_toolbar_custom_service">Обслуживание клиентов</string>
     <string name="main_toolbar_firewall">Сетевые подключения</string>
-    <string name="main_toolbar_misim">Mi SIM</string>
     <string name="main_toolbar_purchase">Пополнение баланса</string>
     <string name="main_toolbar_recharge_record">Пополнение</string>
     <string name="main_toolbar_statistic">Расход трафика</string>
@@ -3161,8 +2962,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="memory_check_content">Освобождено: %s</string>
     <string name="memory_clean_memory_size_tip">Память</string>
     <string name="memory_clean_no_need_clean">Всё в порядке</string>
-    <string name="memory_clean_no_need_clean_1" formatted="false">"Освобождено %s. 
-Ускорено на %d%%."</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Освобождено %s.
 Ускорено на %s."</string>
     <string name="memory_clear_unused">Память очищена (%s)</string>
@@ -3188,7 +2987,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="menu_item_notification_antispam_text_avail">Антиспам</string>
     <string name="menu_item_notification_antispam_text_normal">Антиспам</string>
     <string name="menu_item_notification_garbage_text">%s</string>
-    <string name="menu_item_notification_optimize_text">%d%% занято</string>
     <string name="menu_item_notification_optimize_text_new">%s занято</string>
     <string name="menu_item_notification_power_text">Заряд</string>
     <string name="menu_item_notification_title">Виджет в шторке уведомлений</string>
@@ -3217,7 +3015,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="menu_summary_networkassistants_3">Трафика достаточно</string>
     <string name="menu_summary_networkassistants_4">Трафик заканчивается</string>
     <string name="menu_summary_optimize_manage">Очистка памяти</string>
-    <string name="menu_summary_optimize_manage_1">Ускорьте на %d%%</string>
     <string name="menu_summary_optimize_manage_1_new">Ускорьте на %s</string>
     <string name="menu_summary_power_manager">Экономия заряда увеличивает время между зарядками</string>
     <string name="menu_summary_power_manager_1">Заряжена</string>
@@ -3263,9 +3060,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
-    <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
@@ -3464,7 +3258,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="network_traffic_warning_title">Трафик системных приложений</string>
     <string name="networkchanged_exception_summary">Произведено подключение к другой сети. Повторите диагностику.</string>
     <string name="networkchanged_exception_title">Подключена другая сеть</string>
-    <string name="never">Один раз</string>
     <string name="never_new">%d раз</string>
     <string name="new_condition_communication">Взаимодействие</string>
     <string name="new_condition_event">Событие</string>
@@ -3481,7 +3274,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="nickname">Псевдоним</string>
     <string name="night">Вечер</string>
     <string name="no_game">Не удалось найти игры</string>
-    <string name="no_limit_by_month">Безлимитный трафик</string>
     <string name="no_open">Не сейчас</string>
     <string name="no_privacy_permission">Согласие с Политикой конфиденциальности не требуется</string>
     <string name="no_sim_card_by_tips">Для предупреждений о балансе и лимите трафика необходимо вставить SIM-карту</string>
@@ -3542,7 +3334,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="notification_link_cleaner_3001">Удалите мусор WeChat для ускорения работы устройства</string>
     <string name="notification_link_cleaner_3002">Удалите мусор WeChat</string>
     <string name="notification_link_cleaner_4000">Удалите мусор QQ</string>
-    <string name="notification_link_optimizemanage_1011">%d%% места занято. Выполните очистку.</string>
     <string name="notification_link_optimizemanage_1011_new">%s места занято. Выполните очистку.</string>
     <string name="notification_low_battery_need_charge">Подключите зарядное устройство</string>
     <string name="notification_low_battery_open_save_mode">Включите экономию заряда</string>
@@ -3559,7 +3350,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="notification_masked_subtitle">Скрыть содержимое уведомлений защищённых приложений</string>
     <string name="notification_optimize_button_text">Очистить</string>
     <string name="notification_optimize_message">Выполните очистку для ускорения работы</string>
-    <string name="notification_optimize_title">%d%% памяти занято</string>
     <string name="notification_optimize_title_new">%s памяти занято</string>
     <string name="notification_power_consume_issue_summary">Высокий расход батареи</string>
     <string name="notification_power_consume_suggest_summary">Исправьте проблемы для экономии заряда</string>
@@ -4110,13 +3900,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_usage_deny_w_contacts_once">%1$s | Отказано в редактировании контактов</string>
     <string name="permission_usage_deny_wake_path_once">%1$s | Отказано в автозапуске %2$s</string>
     <string name="permission_usage_deny_wakepath_once">%1$s | Запрещено</string>
-    <string name="permission_usage_media_aural_app">%1s - доступ к аудиофайлам</string>
-    <string name="permission_usage_media_visual_app">%1s - доступ к фото и видео</string>
     <string name="permission_usage_now">Сейчас</string>
     <string name="permission_usage_now_access">Доступ сейчас</string>
     <string name="permission_usage_projection_screen_once">%1$s｜Чтение или запись содержимого экрана</string>
     <string name="permission_usage_projection_screen_use">Чтение или запись содержимого экрана</string>
-    <string name="permission_usage_projection_screen_use_app">%1s - чтение или запись содержимого экрана</string>
     <string name="permission_usage_terminal_camera_once">%1$s | Использование камеры</string>
     <string name="permission_usage_terminal_camera_use">Используется камера</string>
     <string name="permission_usage_terminal_screen_once">%1$s | Взаимодействие с экраном</string>
@@ -4166,10 +3953,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="popular_action_app_lock_summary">Дополнительная защита и конфиденциальность приложений</string>
     <string name="popular_action_app_lock_title">Защита приложений</string>
     <string name="popular_action_app_lock_title_global">Защита приложений</string>
-    <string name="popular_action_app_manager_summary">Управление приложениями</string>
-    <string name="popular_action_app_manager_title">Приложения</string>
-    <string name="popular_action_auto_launch_manager_summary">Автозапуск приложений</string>
-    <string name="popular_action_auto_launch_manager_title">Автозапуск</string>
     <string name="popular_action_card_title">Трафик</string>
     <string name="popular_action_first_aid_summary">Поиск и устранение проблем на устройстве</string>
     <string name="popular_action_first_aid_title">Устранение проблем</string>
@@ -4232,7 +4015,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_list_item_deep_save_title">Глубокая экономия</string>
     <string name="power_center_list_item_haptic_feedback">Отключить виброотклик</string>
     <string name="power_center_list_item_haptic_feedback_summary">Не сопровождать жесты и нажатия виброоткликом</string>
-    <string name="power_center_list_item_set_lockscreen_time">Спящий режим после 30 сек. бездействия</string>
     <string name="power_center_list_item_set_lockscreen_time_holder">Заблокировать устройство после %d сек. бездействия</string>
     <string name="power_center_list_item_set_lockscreen_time_new">Спящий режим после %d сек. бездействия</string>
     <string name="power_center_list_item_set_lockscreen_time_summary">Выключенный экран экономит заряд</string>
@@ -4340,50 +4122,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_main_battery_last_hour_minute">Заряда хватит на %1$s ч. %2$s мин.</string>
     <string name="power_main_battery_last_hour_minute_screen_on">Осталось %1$s %2$s экранного времени</string>
     <string name="power_main_open_last_hour_minute_screen_on">Включите, чтобы добавить %1$s %2$s экранного времени</string>
-    <string name="power_mode_airplane_mode">Режим полёта</string>
-    <string name="power_mode_auto_clean_memery_lock_screen">Через %1$d мин.</string>
-    <string name="power_mode_auto_clean_memory">Очистка процессов</string>
-    <string name="power_mode_auto_clean_memory_in_five_minutes">Через 5 мин.</string>
-    <string name="power_mode_auto_clean_memory_in_one_minute">Через 1 мин.</string>
-    <string name="power_mode_auto_clean_memory_in_ten_minutes">Через 10 мин.</string>
-    <string name="power_mode_auto_clean_memory_never">Никогда</string>
-    <string name="power_mode_bluetooth">Bluetooth</string>
-    <string name="power_mode_choose_summary_change">Настройки были изменены</string>
-    <string name="power_mode_chooser_button_text">Применить</string>
-    <string name="power_mode_cpu_state">Режим ЦП</string>
-    <string name="power_mode_cpu_state_balance">Баланс</string>
-    <string name="power_mode_cpu_state_balance_desc">Увеличение производительности только по необходимости</string>
-    <string name="power_mode_cpu_state_performance">Производительность</string>
-    <string name="power_mode_cpu_state_performance_desc">Приоритет производительности над батареей</string>
-    <string name="power_mode_gps">GPS</string>
-    <string name="power_mode_internet">Сети</string>
-    <string name="power_mode_keep_state">По умолчанию</string>
-    <string name="power_mode_my_mode">свой режим</string>
-    <string name="power_mode_my_mode_summary">пользовательский режим экономии заряда</string>
-    <string name="power_mode_screen_brightness">Яркость</string>
-    <string name="power_mode_screen_brightness_automatic">Авто: %1$d%%</string>
-    <string name="power_mode_screen_brightness_manual">Ручная: %1$d%%</string>
-    <string name="power_mode_sleep">Выключение экрана</string>
-    <string name="power_mode_sleep_in_minutes">Через %1$d мин.</string>
-    <string name="power_mode_sleep_in_seconds">Через %1$d сек.</string>
-    <string name="power_mode_sleep_never">Никогда</string>
-    <string name="power_mode_switch_off">Выключить</string>
-    <string name="power_mode_switch_on">Включить</string>
-    <string name="power_mode_synchronization">Синхронизация</string>
-    <string name="power_mode_touch_with_ring">Звук при нажатии</string>
-    <string name="power_mode_touch_with_vibration">Вибрация при нажатии</string>
-    <string name="power_mode_vibration">Вибрация</string>
-    <string name="power_mode_vibration_no">Отключена</string>
-    <string name="power_mode_vibration_silence">В беззвучном режиме</string>
-    <string name="power_mode_vibration_yes">Включена</string>
-    <string name="power_mode_wifi">Wi-Fi</string>
-    <string name="power_new_choose_mode">Выбор режима</string>
-    <string name="power_notify_lowbattery">заряд менее %1$d%%</string>
     <string name="power_off_warning_button_ok">Понятно</string>
     <string name="power_off_warning_message">Батарея разряжена. Устройство выключится через %d сек. Подключите зарядное устройство.</string>
     <string name="power_off_warning_notification_title">Устройство скоро выключится</string>
-    <string name="power_optimize__set_lockscreen_time_holder">Блокировать устройство после %d секунд бездействия</string>
-    <string name="power_optimize__set_lockscreen_time_summary">Блокировать устройство для экономии заряда</string>
     <string name="power_optimize_aod_summary">Устройство экономит заряд, когда экран выключен</string>
     <string name="power_optimize_auto_brightness">Включить авторегулировку яркости</string>
     <string name="power_optimize_auto_brightness_summary">Авторегулировка яркости экономит заряд</string>
@@ -4437,22 +4178,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_port_damp_notify_title">Влага в порту зарядки</string>
     <string name="power_rank_surface_flinger">Рендеринг</string>
     <string name="power_rank_system">Система Android</string>
-    <string name="power_recovery_mode">Восстановлен \"%1$s\"</string>
-    <string name="power_save_choose_mode">Режим</string>
-    <string name="power_save_choose_recovery_mode">Режим</string>
-    <string name="power_save_low_battery_auto_save_title">Автопереключение</string>
-    <string name="power_save_low_battery_option_recovery_title">Если батарея заряжена</string>
-    <string name="power_save_low_battery_option_summary">Когда заряд батареи будет выше установленного порога, устройство вернется к недавнему режиму.</string>
-    <string name="power_save_low_battery_option_title">Если батарея разряжена</string>
-    <string name="power_save_low_battery_percentage_fifty">50%</string>
-    <string name="power_save_low_battery_percentage_forty">40%</string>
-    <string name="power_save_low_battery_percentage_ten">10%</string>
-    <string name="power_save_low_battery_percentage_thirty">30%</string>
-    <string name="power_save_low_battery_percentage_twenty">20%</string>
-    <string name="power_save_low_battery_seekbar_title">Переключать режим, когда заряда менее %1$d%%</string>
-    <string name="power_save_low_battery_title">Автопереключение</string>
     <string name="power_save_mode">Экономия заряда</string>
-    <string name="power_save_mode_auto_exit_summary">Автоматически отключать экономию заряда при уровне 60% и более</string>
     <string name="power_save_mode_auto_exit_summary_new">Экономия будет отключена при уровне %s и выше</string>
     <string name="power_save_mode_auto_exit_title">Автоотключение</string>
     <string name="power_save_mode_close_aod_display_summary">Отключать Активный экран при экономии заряда</string>
@@ -4470,26 +4196,12 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_save_mode_start_time">Начало</string>
     <string name="power_save_mode_summary">Ограничение фоновой активности и отключение синхронизации</string>
     <string name="power_save_model_open">Экономия заряда включена</string>
-    <string name="power_save_on_time_auto_save_title">По расписанию</string>
-    <string name="power_save_on_time_default_time">00:00</string>
-    <string name="power_save_on_time_end_time_summary">Окончание</string>
     <string name="power_save_on_time_end_time_summary_na">Окончание</string>
-    <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
-    <string name="power_save_on_time_goout_title">По прошествии этого времени вернуться к</string>
-    <string name="power_save_on_time_option_recovery_title">Режим по окончании периода</string>
-    <string name="power_save_on_time_option_summary">По окончании периода устройство вернется в недавний режим</string>
-    <string name="power_save_on_time_option_title">Выбор режима</string>
-    <string name="power_save_on_time_start_time_summary">Начало</string>
     <string name="power_save_on_time_start_time_summary_na">Начало</string>
-    <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
-    <string name="power_save_on_time_title">Расписание</string>
     <string name="power_save_ps_clean">Очистка кэша при блокировке устройства</string>
-    <string name="power_save_ps_close_setting">Отключение служб и функций с высоким энергопотреблением (синхронизация, GPS, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
     <string name="power_save_ps_close_setting_3">Отключение служб и функций с высоким энергопотреблением (%1$s, %2$s, %3$s)</string>
     <string name="power_save_ps_close_setting_4">Отключение служб и функций с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s)</string>
     <string name="power_save_ps_close_setting_5">Отключение служб и функций с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
-    <string name="power_save_ps_close_setting_5g">Отключение служб и функций с высоким энергопотреблением (синхронизация, 5G подключение, GPS, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
-    <string name="power_save_ps_close_setting_5g_q">Отключение служб и функций с высоким энергопотреблением (синхронизация, 5G подключение, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
     <string name="power_save_ps_close_setting_5gnet">5G подключение</string>
     <string name="power_save_ps_close_setting_6">Отключение служб и функций с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
     <string name="power_save_ps_close_setting_7">Отключение служб и функций с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
@@ -4498,7 +4210,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_save_ps_close_setting_gps">GPS</string>
     <string name="power_save_ps_close_setting_haptic">виброотклик</string>
     <string name="power_save_ps_close_setting_pickupwakeup">\"Пробуждать при взятии в руки\"</string>
-    <string name="power_save_ps_close_setting_q">Отключение служб и функций с высоким энергопотреблением (синхронизация, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
     <string name="power_save_ps_close_setting_sync">синхронизация</string>
     <string name="power_save_ps_description_title">Будут выполнены следующие действия:</string>
     <string name="power_save_ps_freeze">Заморозка приложений, работающих в фоновом режиме</string>
@@ -4529,8 +4240,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_settings_saver_title">Экономия заряда при блокировке</string>
     <string name="power_settings_shape">Графический</string>
     <string name="power_settings_top">Полоска вверху экрана</string>
-    <string name="power_subtitle_lowbattery">Экономия заряда при разряженной батарее</string>
-    <string name="power_subtitle_ontime">Экономия заряда по расписанию</string>
     <string name="power_superpower_title_systemui_highpower">Оставшееся время</string>
     <string name="power_superpower_title_systemui_lowpower">Подключите зарядное устройство</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -4731,15 +4440,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_app_permission_manage_title">Управление разрешениями</string>
     <string name="privacy_apps">Скрытие приложений</string>
     <string name="privacy_apps_add">Добавить</string>
-    <string name="privacy_apps_begin_use">Начать</string>
     <string name="privacy_apps_button_know">Понятно</string>
-    <string name="privacy_apps_category_title">Скрытые приложения</string>
-    <string name="privacy_apps_checkbox_remind_choice">Больше не показывать</string>
     <string name="privacy_apps_close">Закрыть</string>
     <string name="privacy_apps_enable_summary">Перемещение приложений в скрытую папку и удаление их иконок с рабочего стола</string>
     <string name="privacy_apps_go_to_use">Начать</string>
-    <string name="privacy_apps_manage">Приложения</string>
-    <string name="privacy_apps_manage_dialog_title">О скрытых приложениях</string>
     <string name="privacy_apps_manager_dialog_message">После скрытия этого приложения его иконка не будет отображаться на рабочем столе. Скрыть приложение?</string>
     <string name="privacy_apps_next_stup">Далее</string>
     <string name="privacy_apps_password_enable_summay">Запрашивать пароль защиты приложений для скрытых приложений</string>
@@ -4811,7 +4515,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_flares_recent_detail_more">Приложение использовало конфиденциальное разрешение</string>
     <string name="privacy_global_guide_permission_guide_text">Когда приложения используют микрофон или камеру, в строке состояния будет отображаться уведомление. Нажмите на него, чтобы посмотреть каким приложением используется.</string>
     <string name="privacy_guide_permission_guide_text">Показывать уведомление в строке состояния, когда приложения используют геолокацию, микрофон или камеру в фоновом режиме.</string>
-    <string name="privacy_guide_permission_use_text">MIUI будет собирать статистику использования приложениями конфиденциальных разрешений, включая геолокацию, доступ к контактам, журналу вызовов, микрофону и хранилищу. Данная статистика может быть использована для более тонкой настройки разрешений.</string>
     <string name="privacy_hide_other_permissions">Скрыть другие разрешения</string>
     <string name="privacy_informed_title">Статистика</string>
     <string name="privacy_input_icon_layout_status_bg_content_enable">Защищено</string>
@@ -4827,7 +4530,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_look_all_permission_status">Все разрешения</string>
     <string name="privacy_look_all_permission_times">Все действия</string>
     <string name="privacy_look_privacy">Политика конфиденциальности</string>
-    <string name="privacy_manage_title">Управление</string>
+    <string name="privacy_manage_title" />
     <string name="privacy_mask_summary">Вместо реального идентификатора приложениям будет предоставлен виртуальный ID (OAID). Это не позволит приложениям отслеживать ваши действия и предпочтения и защитит конфиденциальность.</string>
     <string name="privacy_mask_title">Виртуальный ID включён</string>
     <string name="privacy_mode_dialog_title">Режим \"Гость\"</string>
@@ -4860,9 +4563,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_pop_record">Микрофон использовался</string>
     <string name="privacy_pop_storage">Хранилище использовалось</string>
     <string name="privacy_prompt_tc_sms_report_message">Ваш номер телефона и данные оператора будут зашифрованы и загружены на серверы Mi для обновления статистики трафика.</string>
-    <string name="privacy_prompt_traffic_adjust_message">"После начала калибровки MIUI подключится к сети, зашифрует данные об операторе, номере телефона, IMEI и аккаунте Xiaomi, и загрузит их на серверы Xiaomi. Это нужно для получения от оператора шаблона калибровки и определения возможности покупки данных в вашем расположении.
-
-Во время калибровки MIUI отправит оператору SMS для получения шаблона калибровки."</string>
     <string name="privacy_prompt_upload">Отправить</string>
     <string name="privacy_protect_summary">Защита ваших личных данных</string>
     <string name="privacy_protect_title">Защита приватности</string>
@@ -5006,8 +4706,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="prompt_unknown">Не определено</string>
     <string name="protect_data_security">Изолированные данные</string>
     <string name="protect_data_security_detail">Данные, генерируемые клавиатурой, будут изолированы и недоступны для других приложений.</string>
-    <string name="protect_screen_information">Экран защищён</string>
-    <string name="protect_screen_information_detail">Скриншоты или запись экрана во время набора текста недоступны</string>
     <string name="protocol_exception_title">Диагностика сетевого протокола</string>
     <string name="protocol_loop_back_exception_summary">Ошибка диагностики. Чтобы уведомить нас о проблеме, войдите в приложение \"Отчёт\" и отправьте журнал с вашего устройства.</string>
     <string name="provision_back">Назад</string>
@@ -5074,7 +4772,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="report_success">Отчёт отправлен</string>
     <string name="report_warning">Отправить %1$s SMS в Xiaomi? Эти сообщения и телефонные номера, с которых они были отправлены, будут загружены на серверы Xiaomi для рассмотрения. Любая личная информация, связанная с этими сообщениями, останется анонимной.</string>
     <string name="report_warning_title">Внимание</string>
-    <string name="required_permissions">"Обязательные разрешения "</string>
     <string name="required_permissions_desc">эти разрешения необходимы для основных функций и служб приложения</string>
     <string name="reset_data_dialog_message">Это устройство не связано с вашим аккаунтом Xiaomi. Не удается восстановить или сбросить пароль. Создайте резервную копию всех важных данных и выполните сброс настроек. При этом все данные будут удалены навсегда, а ваша SD-карта будет отформатирована.</string>
     <string name="reset_data_dialog_ok">Сброс настроек</string>
@@ -5150,8 +4847,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="scan_status_not_complete">Не завершено</string>
     <string name="scan_status_risk">Найдены угрозы</string>
     <string name="scan_status_safe">Система защищена</string>
-    <string name="scan_widget_guide_title">Новый виджет</string>
-    <string name="scanning_bar_number">%d%%</string>
     <string name="scanning_bar_number_new">%s</string>
     <string name="screen_share_protection_negative_button">Отмена</string>
     <string name="screen_share_protection_summary">Приложение, которое используется, содержит вашу личную информацию, которая может быть видна другим людям во время трансляции содержимого экрана. Всё равно продолжить?</string>
@@ -5195,7 +4890,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="securityadd_update_tips_message">Обновите плагин службы безопасности, чтобы получить доступ к новейшим игровым функциям. %1$d МБ будет загружено.</string>
     <string name="securityadd_update_tips_now">Обновить</string>
     <string name="securityadd_update_tips_title">Обновление</string>
-    <string name="securitycenter_tab_title">Безопасность</string>
     <string name="see_all_app_behavior_record">Все действия</string>
     <string name="see_detail">Подробности</string>
     <string name="see_more_content">Обновите Игры для просмотра новинок</string>
@@ -5222,7 +4916,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="setting_privacy_password">Задайте графический ключ</string>
     <string name="setting_wireless_reverse_charging_fg_control_summary">Остановить обратную беспроводную зарядку, когда заряд этого устройства меньше %s</string>
     <string name="setting_wireless_reverse_charging_summary">Поместите устройство, поддерживающее беспроводную зарядку Qi (например, телефон или носимое устройство), в центр задней панели этого устройства</string>
-    <string name="settings">Настройки трафика</string>
     <string name="settings_battery_consume_abnormal_summary">Уведомлять о быстром разряде батареи</string>
     <string name="settings_battery_consume_abnormal_title">Уведомления о разряде</string>
     <string name="settings_battery_power_save_suggest_title">Рекомендации по экономии</string>
@@ -5281,7 +4974,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sim_car_absent_title">Это устройство потеряно</string>
     <string name="sim_card_absent_intercept_tip">Если не будет введен пароль разблокировки, активируется \"Режим пропажи\".</string>
     <string name="sim_card_absent_warning_voice">SIM-карта извлечена. Введите пароль разблокировки.</string>
-    <string name="sim_location_diagnostic">Диагностика местоположения</string>
     <string name="sim_location_error_dialog_message">Ваша SIM-карта из региона %1$s. Это не совпадает с регионом, введенным вручную (%2$s). Изменить регион SIM-карты на %3$s?</string>
     <string name="sim_location_error_notify_message">Нажмите для изменения местоположения SIM-карты.</string>
     <string name="sim_location_error_notify_title">Ошибка SIM карты</string>
@@ -5379,7 +5071,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="size_kilo_byte">КБ</string>
     <string name="size_mega_byte">MБ</string>
     <string name="size_peta_byte">ПБ</string>
-    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="skin_change_close_toast">Изменения вступят в силу при следующем запуске Безопасности</string>
     <string name="sms_address">Регионы</string>
@@ -5697,7 +5388,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="st_title_sim_card">%1$s - SIM %2$s</string>
     <string name="st_title_whitelist_numbers">Белый список</string>
     <string name="start">Вкл</string>
-    <string name="start_diagnostic_botton">Начать</string>
     <string name="start_downloading_app">Начинается загрузка: %1$s</string>
     <string name="start_game">Начать</string>
     <string name="status_bar_network_flow_content">Сегодня: %1$s&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Остаток: %2$s</string>
@@ -5765,7 +5455,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="storage_clear_cache_large">Очистить %s</string>
     <string name="storage_clear_more_tools">Доп. инструменты</string>
     <string name="storage_clear_video">Очистить кеш видео</string>
-    <string name="storage_compact_warning">Настройка нескольких разрешений</string>
     <string name="storage_compact_warning_desc">Разрешения для доступа к фото, видео- и аудиофайлам для этого приложения должны быть изменены одновременно. Изменение одного из этих разрешений приведет к изменению всех разрешений.</string>
     <string name="storage_deepclean_entry">Глубокая очистка</string>
     <string name="storage_dialog_unmountable">"^1 не работает. 
@@ -5823,12 +5512,6 @@ Xiaomi не обещает и не гарантирует точность, до
 
 Во избежание потери данных, сделайте резервную копию на другом носителе.</string>
     <string name="storage_wizard_format_confirm_v2_title">Форматирование</string>
-    <string name="stranger_call_dialog_add_block_list">Блокировать</string>
-    <string name="stranger_call_dialog_add_contacts">Новый контакт</string>
-    <string name="stranger_call_dialog_notification_body">Добавить в контакты или заблокировать этот номер</string>
-    <string name="stranger_call_dialog_notification_title_format">Неизвестный номер %s</string>
-    <string name="stranger_call_dialog_subtitle_format">%s нет среди ваших контактов. Можно добавить этот номер телефона в контакты или заблокировать его.</string>
-    <string name="stranger_call_dialog_title">"Неизвестный номер "</string>
     <string name="suggest_app_tolock">Предложения</string>
     <string name="suggest_app_tolock_masked">Содержимое скрыто</string>
     <string name="suggest_app_tolock_unmasked">Содержимое отображается</string>
@@ -5846,7 +5529,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="summary_cloud_space_almost_full">Добавьте место</string>
     <string name="summary_cloud_space_full">Получите больше места в облачном хранилище, а также доступ к новым функциям</string>
     <string name="summary_cmcc_app_check">Не удалось проверить некоторые приложения</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_condition_charge_to_target">Когда батарея заряжена до</string>
     <string name="summary_condition_charge_to_target_percent">Когда батарея заряжена до %d%%</string>
     <string name="summary_condition_close_absorbed_mode">После отключения Режима медитации</string>
@@ -5894,7 +5576,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="summary_permission">Избегайте нежелательных платежей и защищайте личные данные</string>
     <string name="summary_permission_root">Устройство имеет ROOT-доступ. Это может повлиять на безопасность устройства.</string>
     <string name="summary_power_optimizer">Понижение производительности при низком заряде батареи</string>
-    <string name="summary_rcs_switch">Бесплатная отправка SMS другим абонентам China Mobile</string>
     <string name="summary_realname_verify">Подтвердите вашу личность, чтобы сделать платежи более безопасными.</string>
     <string name="summary_restrict_data_usage">Вы ограничили трафик для этого приложения.</string>
     <string name="summary_result_screen_brightness_format">Установить яркость экрана %s</string>
@@ -5913,7 +5594,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="superpower_dialog_button_ok">ОК</string>
     <string name="superpower_dialog_massage">"Ультраэкономия заряда ограничивает большинство функций, расходующих батарею, и снижает производительность устройства, чтобы обеспечить базовую функциональность (звонки, SMS и подключение к сети) как можно дольше. Включить ультраэкономию?"</string>
     <string name="superpower_dialog_title">Включить</string>
-    <string name="superpower_notification_new_title">Заряд менее %d%%</string>
     <string name="superpower_notification_new_title_new">Заряд менее %s</string>
     <string name="superpower_notification_summary">Зарядите устройство или включите ультраэкономию заряда</string>
     <string name="superpower_notification_time_12">EEEE, d MMMM</string>
@@ -6042,45 +5722,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="task_title_charge">Зарядка</string>
     <string name="task_title_nfc">NFC</string>
     <string name="tc_cmd_invalid">Недопустимый шаблон</string>
-    <string name="tc_diagnostic_all_error_notification_summary">Нажмите для отправки отчёта.</string>
-    <string name="tc_diagnostic_all_error_notification_title">Не удалось завершить диагностику</string>
-    <string name="tc_diagnostic_brand_error_notification_summary">Нажмите для изменения типа сети.</string>
-    <string name="tc_diagnostic_brand_error_notification_title">Неверный тип сети</string>
-    <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Неверный бренд оператора&lt;br/&gt;&lt;br/&gt;Установленный: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Реальный: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
-    <string name="tc_diagnostic_complete">Готово</string>
-    <string name="tc_diagnostic_fragment_default">"О диагностике
-1. Устройство подключится к сети оператора, отправит бесплатное сообщение и будет ждать ответа. Это может занять около 5 минут.
-2. Эту страницу можно покинуть на время диагностики, процесс будет выполняться в фоновом режиме."</string>
-    <string name="tc_diagnostic_location_error_notification_summary">Нажмите для изменения местоположения.</string>
-    <string name="tc_diagnostic_location_error_notification_title">Неверное местоположение</string>
-    <string name="tc_diagnostic_notification_sumarry">Нажмите для просмотра результатов.</string>
-    <string name="tc_diagnostic_notification_summary">Не удалось скорректировать 5 раз подряд. Нажмите для запуска диагностики.</string>
-    <string name="tc_diagnostic_notification_title">Диагностика оператора</string>
-    <string name="tc_diagnostic_onekey_repair_botton">Исправить</string>
-    <string name="tc_diagnostic_operator_error_notification_summary">Нажмите для изменения оператора.</string>
-    <string name="tc_diagnostic_operator_error_notification_title">Неверный оператор</string>
-    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Неверный оператор&lt;br/&gt;&lt;br/&gt;Установленный: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Реальный: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
-    <string name="tc_diagnostic_repair_and_continue">Исправить и продолжить</string>
-    <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Диагностика завершена, исправлено местоположение.&lt;/font&gt;"</string>
-    <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Диагностика завершена, исправлены местоположение и данные оператора.&lt;/font&gt;"</string>
-    <string name="tc_diagnostic_repair_success_toast">Изменения внесены</string>
-    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Не удалось завершить диагностику&lt;br/&gt;&lt;br/&gt;Отправьте отчёт, чтобы помочь MIUI улучшить инструменты диагностики&lt;/font&gt;"</string>
-    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Неверное местоположение&lt;br/&gt;&lt;br/&gt;Установленное: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Реальное: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
-    <string name="tc_diagnostic_status_error_brand">Ошибка поиска сети оператора</string>
-    <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Ошибка&lt;/font&gt;"</string>
-    <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;Нет сетевого подключения&lt;/font&gt;"</string>
-    <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;Ошибка получения данных&lt;/font&gt;"</string>
-    <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Верно&lt;/font&gt;"</string>
-    <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Сеть отвечает&lt;/font&gt;"</string>
-    <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Тайм-аут&lt;/font&gt;"</string>
-    <string name="tc_diagnostic_status_updating">Тестирование…</string>
-    <string name="tc_diagnostic_success_notification_summary">Отправьте отчёт, чтобы помочь MIUI улучшить инструменты диагностики</string>
-    <string name="tc_diagnostic_success_notification_title">Сеть и бренд оператора установлены верно</string>
-    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Сеть и бренд оператора установлены верно&lt;br/&gt;&lt;br/&gt;Не удалось выполнить корректировку:&lt;br/&gt;1. Статистика оператора может быть ненадёжной в начале или в конце месяца.&lt;br/&gt;2. Функции Безопасности не были обновлены.&lt;br/&gt;&lt;br/&gt;Отправьте отчёт, чтобы помочь MIUI улучшить инструменты диагностики&lt;/font&gt;&gt;"</string>
-    <string name="tc_diagnostic_title">Диагностика оператора</string>
-    <string name="tc_diagnostic_upload_button">Отчёт</string>
-    <string name="tc_diagnostic_upload_no_network">Спасибо за ваш отчёт! Он будет отправлен, когда устройство подключится к сети.</string>
-    <string name="tc_diagnostic_upload_success">Спасибо за ваш отчёт!</string>
     <string name="tc_get_cmd_error">Ошибка получения шаблона</string>
     <string name="tc_parse_error">Ошибка разбора SMS</string>
     <string name="tc_receive_timeout">Время калибровки истекло</string>
@@ -6121,8 +5762,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="tc_sms_report_upload_when_net">Спасибо за ваш отчёт!</string>
     <string name="tc_web_correct_error">Ошибка калибровки</string>
     <string name="ten_percent_total_pkg">%s (10%% от месячного лимита)</string>
-    <string name="terminal_behavior_camera">%1s - доступ к камере устройства</string>
-    <string name="terminal_behavior_screen">%1s - доступ к экрану устройства</string>
     <string name="terminal_flars_current_camera">Используется камера устройства</string>
     <string name="terminal_flars_current_screen">Используется экран устройства</string>
     <string name="terminal_flars_current_screen_camera">Используются камера и экран устройства</string>
@@ -6301,7 +5940,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_permission_root">ROOT-доступ</string>
     <string name="title_permission_yes">Управление разрешениями включено</string>
     <string name="title_power_optimizer">Экономия заряда</string>
-    <string name="title_rcs_switch">Включить сообщения China Mobile</string>
     <string name="title_realname_verify">Проверка ID</string>
     <string name="title_reply">Отзыв</string>
     <string name="title_restrict_data_usage">%s не может подключиться к интернету?</string>
@@ -6475,9 +6113,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="unlock_pattern_to_bind_fingerprint">Введите графический ключ для активации отпечатка</string>
     <string name="unlock_set_unlock_password_summary">Комбинируйте разные символы</string>
     <string name="unlock_set_unlock_password_title">Пароль</string>
-    <string name="unlock_set_unlock_pattern_summary">Соедините не менее 4 точек</string>
     <string name="unlock_set_unlock_pattern_title">Графический ключ</string>
-    <string name="unlock_set_unlock_pin_summary">Введите 4 цифры</string>
     <string name="unlock_set_unlock_pin_title">PIN-код</string>
     <string name="untrust_app_perm_install_list">Разрешить доступ к списку приложений на устройстве</string>
     <string name="untrust_app_perm_network">Разрешить подключение к сети</string>
@@ -6487,7 +6123,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="untrust_app_perm_warn">Приложение получено из неизвестного источника и может представлять угрозу безопасности и конфиденциальности. Предоставляйте нижеперечисленные разрешения только после тщательного рассмотрения и по необходимости.</string>
     <string name="unused_apps_switch">Приостановить работу неиспользуемых приложений</string>
     <string name="unused_apps_switch_summary">Удалить разрешения и временные файлы, отключить уведомления</string>
-    <string name="updating_diagnostic_botton">Анализ данных…</string>
     <string name="upgrade_tvm_component_desc">Для обеспечения безопасности транзакций обновите плагин Phone Key Component</string>
     <string name="upgrade_tvm_component_title">Обновление плагина Phone Key Component</string>
     <string name="usage_sorted_activity_lable">Расход трафика</string>
@@ -6811,7 +6446,23 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="weight_heavy">Толстый</string>
     <string name="weight_light">Тонкий</string>
     <string name="whitelist_prefix_add_hint">Все номера с этим префиксом будут добавлены в белый список</string>
+<!-- ### FROM SOURCE -->
+    <string name="widget_appbehavior_apps_count">28</string>
+<!-- ### FROM SOURCE -->
+    <string name="widget_cleaner_size">529</string>
     <string name="widget_cleaner_size_unit">" МБ"</string>
+<!-- ### FROM SOURCE -->
+    <string name="widget_health_size">86</string>
+<!-- ### FROM SOURCE -->
+    <string name="widget_power_size">90</string>
+<!-- ### FROM SOURCE -->
+    <string name="widget_power_size_unit">%</string>
+<!-- ### FROM SOURCE -->
+    <string name="widget_ramjat_size">732</string>
+<!-- ### FROM SOURCE -->
+    <string name="widget_safe_size">315.89</string>
+<!-- ### FROM SOURCE -->
+    <string name="widget_safe_size_1">23.6</string>
     <string name="wifi_danger_dialog_messgae">Текущая сеть Wi-Fi может представлять угрозу безопасности. Используйте с осторожностью.</string>
     <string name="wifi_danger_dialog_tips">Управление безопасностью Wi-Fi доступно в Безопасность &gt; Антивирус &gt; Настройки &gt; Wi-Fi.</string>
     <string name="wifi_danger_dialog_title">Сеть Wi-Fi не защищена</string>
@@ -6849,9 +6500,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
     <string name="xiaomi_privacy_protection_measures">Способы защиты приватности</string>
-    <string name="xspace_warning_dialog_button">Понятно</string>
-    <string name="xspace_warning_dialog_message">Из-за ограничений в Android %d, все клоны приложений имеют доступ только к своим созданным и сохранённым фото и видео</string>
-    <string name="xspace_warning_dialog_title">Внимание</string>
     <string name="xunyou_net_booster">Ускорение сети</string>
     <string name="xunyou_net_booster_detail">Использовать сервисы ускорения Xunyou для игр</string>
     <string name="xunyou_pay_webview">Сервисы Xunyou</string>

@@ -7,7 +7,6 @@
 Если вы не запрашивали этого, не разрешайте выполнение операции."</string>
     <string name="backup_confirm_title">Полное резервное копирование</string>
     <string name="backup_enc_password_optional">Чтобы зашифровать все резервные данные, введите пароль:</string>
-    <string name="backup_enc_password_required">На устройстве включено шифрование. Оно будет применено и к резервной копии данных. Введите пароль.</string>
     <string name="backup_enc_password_text">Введите пароль для шифрования всех резервных данных. Если поле останется пустым, будет использован текущий пароль:</string>
     <string name="current_password_text">Введите пароль для резервного копирования:</string>
     <string name="deny_backup_button_label">Не создавать резервную копию</string>

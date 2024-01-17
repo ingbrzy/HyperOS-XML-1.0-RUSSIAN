@@ -29,7 +29,6 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
-    <string name="app_name">Плавающие окна</string>
     <string name="bottom_bar_smallwindow_drag_text">Перетащите сюда, чтобы закрепить</string>
     <string name="bottom_bar_smallwindow_text">Отпустите, чтобы закрепить</string>
     <string name="bubble_app_empty_page">Не удалось приложения, поддерживающие всплывающие чаты</string>
@@ -178,7 +177,6 @@
     <string name="freeform_recommend_open_switch_title">Умные рекомендации</string>
     <string name="freeform_slide_to_small_freeform">Уменьшение окна</string>
     <string name="freeform_slide_to_small_freeform_summary">Перетащите панель действий плавающего окна в правый верхний угол</string>
-    <string name="freeform_slide_to_small_freeform_summary_pad">Перетащите угол, чтобы свернуть приложение</string>
     <string name="freeform_vedio_description">"Варианты открытия плавающего окна:
 · Потяните вниз панель действий плавающего окна.
 · Нажмите кнопку \"Плавающие окна\" в Недавних и выберите приложение.
@@ -291,7 +289,6 @@
     <string name="month_september_shortest">Сен</string>
     <string name="more">Ещё</string>
     <string name="morning">Утро</string>
-    <string name="multi_window_cvw">Плавающее окно</string>
     <string name="multi_window_cvw_summary">Перетащите угол, чтобы переключиться на плавающее окно или изменить его размер</string>
     <string name="multi_window_cvw_summary_global">Перетащите угол, чтобы переключиться на плавающее окно или изменить его размер</string>
     <string name="multi_window_cvw_title">Плавающее окно</string>
