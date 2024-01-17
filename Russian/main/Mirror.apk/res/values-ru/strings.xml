@@ -37,6 +37,7 @@
     <string name="call_error_notify_content">Вы можете переключиться обратно на телефон, чтобы продолжить разговор.</string>
     <string name="call_error_notify_title">Нестабильное сетевое соединение</string>
     <string name="cancel">Отмена</string>
+    <string name="cancel_button">Отмена</string>
     <string name="cast_mcc_tips_button_cancel">Отмена</string>
     <string name="cast_mcc_tips_button_ok">Настройки</string>
     <string name="cast_mcc_tips_message">Чтобы избежать задержек при использовании MIUI+, подключите оба устройства к одной сети Wi-Fi</string>
@@ -44,9 +45,10 @@
     <string name="cast_mcc_tips_title">Изменение настроек Wi-Fi</string>
     <string name="cast_mcc_tips_title_china">Изменение настроек Wi-Fi</string>
     <string name="circulate_cta_agree">Принимаю</string>
-    <string name="circulate_cta_app_name">Mi Smart Hub</string>
-    <string name="circulate_cta_desc_phone">Добро пожаловать в Mi Smart Hub! Это приложение можно использовать для трансляции содержимого экрана, воспроизведения мультимедиа на разных устройствах, для использования Mi Smart Play, MIUI+ и обмена между приложениями. Для нормальной работы приложению необходимы подключение к интернету и следующие разрешения:</string>
+    <string name="circulate_cta_app_name">Xiaomi Interconnectivity</string>
+    <string name="circulate_cta_desc_phone_miui15_14">Добро пожаловать в Xiaomi Interconnectivity! Это приложение можно использовать для трансляции экрана, воспроизведения мультимедиа на разных устройствах, использования Mi Smart Play, подключения устройств и передачи приложений. Для нормальной работы приложению необходимы подключение к интернету и следующие разрешения:</string>
     <string name="circulate_cta_exit">Выход</string>
+    <string name="circulate_cta_new_app_name">Рабочий стол+</string>
     <string name="circulate_cta_premission_sound_subtitle">Для трансляции аудиопотока на подключенные устройства</string>
     <string name="circulate_cta_premission_sound_title">Запись звука</string>
     <string name="circulate_cta_premission_storage_pad_title">Доступ к файлам в хранилище</string>
@@ -100,6 +102,9 @@
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="evening">После полудня</string>
+    <string name="exit_mirror_desktop">Рабочий стол+</string>
+    <string name="exit_mirror_desktop_description">Отключить Рабочий стол+?</string>
+    <string name="exit_mirror_desktop_ok">Отключить</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="file_transferring">Идёт передача файлов.  Повторите попытку позже.</string>
     <string name="fingerprint_dialog_touch_sensor">Коснитесь сенсора отпечатков</string>
@@ -147,6 +152,7 @@
     <string name="invisible_mode_dialog_positive">Отключить</string>
     <string name="invisible_mode_dialog_title">Режим инкогнито</string>
     <string name="invisible_mode_toast">Отключите режим инкогнито</string>
+    <string name="keyguard_accessibility_pattern_unlock">"Графический ключ"</string>
     <string name="loading">Подождите…</string>
     <string name="loading_view_abort_close_text">Закрыть</string>
     <string name="loading_view_abort_text">"Время соединения истекло.
@@ -159,6 +165,12 @@
 Вы можете начать другой сеанс на своем ПК."</string>
     <string name="lock_layout_sub">Разблокируйте, чтобы продолжить</string>
     <string name="lock_layout_title">ПК заблокирован</string>
+    <string name="lockscreen_access_pattern_area">"Область ввода графического ключа."</string>
+    <string name="lockscreen_access_pattern_cell_added">"Ячейка добавлена"</string>
+    <string name="lockscreen_access_pattern_cell_added_verbose">"Ячейка %1$s добавлена"</string>
+    <string name="lockscreen_access_pattern_cleared">"Графический ключ сброшен"</string>
+    <string name="lockscreen_access_pattern_detected">"Графический ключ введен"</string>
+    <string name="lockscreen_access_pattern_start">"Ввод графического ключа"</string>
     <string name="log_warning">Включение журнала может повлиять на безопасность и производительность. Используйте только при необходимости.</string>
     <string name="login_xiaomi_account_cancel">Отмена</string>
     <string name="login_xiaomi_account_goto_login">Вход</string>
@@ -193,6 +205,7 @@
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
     <string name="miuix_appcompat_deselect_all_description">Отмена выделения</string>
+    <string name="miuix_appcompat_edit">Редактирование</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
@@ -337,11 +350,11 @@
     <string name="pad_settings_handoff_wps_summary">Продолжайте работу с документами на другом устройстве</string>
     <string name="pad_settings_handoff_wps_title">Документы</string>
     <string name="pad_settings_how_use">Использование Handoff</string>
-    <string name="pad_settings_pad_handoff_summary">Используйте функцию Handoff для работы с приложениями, документами и буфером обмена, для просмотра видео на других устройствах, связанным с вашим Xiaomi аккаунтом</string>
+    <string name="pad_settings_pad_handoff_summary">Используйте функцию Handoff для работы с приложениями, документами и буфером обмена, для просмотра видео на других устройствах, связанным с вашим аккаунтом Xiaomi</string>
     <string name="pad_settings_pc_history_title">История подключений</string>
     <string name="pad_settings_pc_trusted_title">Автоподключение</string>
     <string name="pad_settings_pc_use_tile">О функции</string>
-    <string name="pad_settings_phone_handoff_summary">Используйте функцию Handoff для работы с приложениями, документами и буфером обмена, для просмотра видео на других устройствах, связанным с вашим Xiaomi аккаунтом</string>
+    <string name="pad_settings_phone_handoff_summary">Используйте функцию Handoff для работы с приложениями, документами и буфером обмена, для просмотра видео на других устройствах, связанным с вашим аккаунтом Xiaomi</string>
     <string name="pad_settings_phone_handoff_title">Функция Handoff</string>
     <string name="pad_settings_scanner_summary">Подключение с помощью QR-кода</string>
     <string name="pad_settings_trusted_delete_dialog_msg">Автоподключение к этому устройству будет недоступно после удаления из списка</string>
@@ -489,8 +502,9 @@
     <string name="share_pc_folder_multi_error_dialog_ok">ОК</string>
     <string name="share_pc_folder_multi_error_dialog_title">Не удалось передать все файлы</string>
     <string name="share_stop_share_to_start_screen">Завершите трансляцию для возможности общего доступа к экрану</string>
-    <string name="sink_pc_click_again_to_finish_extent">Нажмите еще раз, чтобы отключить расширение экрана</string>
-    <string name="sink_pc_click_again_to_finish_mirror">Нажмите еще раз, чтобы остановить трансляцию содержимого экрана</string>
+    <string name="share_to_settings_title">Xiaomi Interconnectivity</string>
+    <string name="sink_pc_click_again_to_finish_extent">Нажмите ещё раз, чтобы отключить расширение экрана</string>
+    <string name="sink_pc_click_again_to_finish_mirror">Нажмите ещё раз, чтобы остановить трансляцию содержимого экрана</string>
     <string name="size_byte">Б</string>
     <string name="size_giga_byte">ГБ</string>
     <string name="size_kilo_byte">КБ</string>
@@ -592,6 +606,7 @@
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
     <string name="tip_connect_fail_for_hotspot">Ошибка подключения. Отключите портативную точку доступа и повторите попытку.</string>
+    <string name="to_settings">Настройки</string>
     <string name="toast_calling_warning">Завершите текущий вызов и повторите попытку</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>

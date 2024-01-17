@@ -29,6 +29,26 @@
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">%d мин. назад</item>
     </plurals>
+    <plurals name="car_map_hour">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
+    </plurals>
+    <plurals name="car_map_kilometre">
+        <item quantity="other">%d км</item>
+        <item quantity="one">%d км</item>
+    </plurals>
+    <plurals name="car_map_kilometre_decimal">
+        <item quantity="other">%.1f км</item>
+        <item quantity="one">%.1f км</item>
+    </plurals>
+    <plurals name="car_map_meter">
+        <item quantity="other">%d м</item>
+        <item quantity="one">%d м</item>
+    </plurals>
+    <plurals name="car_map_minute">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+    </plurals>
     <plurals name="circulate_audio_group_subtitle_format">
         <item quantity="other">%1$d устройств</item>
         <item quantity="one">%1$d устройство</item>
@@ -38,6 +58,10 @@
         <item quantity="other">%1$d устройств</item>
         <item quantity="one">%1$d устройство</item>
         <item quantity="few">%1$d устройства</item>
+    </plurals>
+    <plurals name="controller_auth_count_down">
+        <item quantity="other">Введите код от %1$s (%2$d сек.)</item>
+        <item quantity="one">Введите код от %1$s (%2$d сек.)</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
@@ -73,5 +97,9 @@
         <item quantity="other">%d минут назад</item>
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
+    </plurals>
+    <plurals name="remember_number_habit">
+        <item quantity="other">Запомнено шаблонов: %1$d</item>
+        <item quantity="one">Запомнено шаблонов: %1$d</item>
     </plurals>
 </resources>

@@ -519,7 +519,7 @@
     <string name="new_trans_intro_question_4">4. Почему не все приложения перенесены?</string>
     <string name="new_trans_intro_question_5">5. Почему пароли некоторых сторонних учётных записей приложений не передаются успешно?</string>
     <string name="new_trans_intro_question_6">6. Почему данные приложения не могут быть перенесены с другого устройства?</string>
-    <string name="new_trans_intro_question_7">7. Если я остановлю Mi Mover в процессе переноса, мне придется начинать сначала?</string>
+    <string name="new_trans_intro_question_7">7. Если я остановлю Mi Mover в процессе переноса, мне придётся начинать сначала?</string>
     <string name="new_trans_intro_question_8">8. Почему моя история WeChat исчезла на новом устройстве?</string>
     <string name="new_wait_link_first">1. Откройте Mi Mover на вашем старом устройстве.
 2. Нажмите \"Я отправитель\" и подождите немного.
@@ -644,6 +644,7 @@
     <string name="prompt_before_transmission_message4_title">Сохранение подключения</string>
     <string name="prompt_before_transmission_message5_summary">Беспроводная передача больших объемов данных может приводить к нагреву устройства, что является нормальным.</string>
     <string name="prompt_before_transmission_message5_title">Нагрев устройства</string>
+    <string name="prompt_before_transmission_tablet_message3_title">Включено второе пространство</string>
     <string name="provisiion_set_old_pad_summary">Используйте Mi Mover для импорта данных со старого устройства без подключения к интернету</string>
     <string name="provisiion_set_old_phone">Импорт со старого устройства</string>
     <string name="provisiion_set_old_phone_summary">Используйте Mi Mover для импорта данных со старого устройства без подключения к интернету</string>
@@ -685,8 +686,9 @@
 - Доступ к хранилищу"</string>
     <string name="request_all_permission_title">Предоставьте разрешения</string>
     <string name="request_permission">Разрешить</string>
+    <string name="require_permission">Нажмите, чтобы предоставить разрешение для передачи файлов</string>
     <string name="restore_data_to_device_content">"Ваши данные были синхронизированы с Xiaomi Cloud.
-Войдите в ваш Xiaomi аккаунт, чтобы восстановить их."</string>
+Войдите в свой аккаунт Xiaomi, чтобы восстановить их."</string>
     <string name="restore_data_to_device_title">Восстановление данных на этом устройстве</string>
     <string name="revoke">Отозвать</string>
     <string name="revoke_agree">Отзыв согласия</string>
@@ -709,12 +711,14 @@
     <string name="scanner_permission_alert_ok">Настройки</string>
     <string name="scanner_quit_alert_btn_negative">Выход</string>
     <string name="scanner_quit_alert_btn_positive">Не выходите</string>
-    <string name="scanner_quit_alert_message">Если вы выйдете из Mi Mover сейчас, вам придется снова выполнить сопряжение устройств. Выйти в любом случае?</string>
+    <string name="scanner_quit_alert_message">Если вы выйдете из Mi Mover сейчас, вам придётся снова выполнить сопряжение устройств. Выйти в любом случае?</string>
     <string name="scanner_quit_alert_title">Выйти сейчас?</string>
     <string name="scanner_send_dialog_btn">Понятно</string>
     <string name="scanner_send_dialog_message">Не выключайте Wi-Fi и не переключайтесь между сетями во время передачи.</string>
     <string name="scanner_size_selected">Выбрано: %s</string>
+    <string name="scanner_subtitle_prd">Внимательно прочитайте следующую информацию, прежде чем отмечать каждый элемент и начинать передачу</string>
     <string name="scanner_time_remained">Расчётное время передачи: %s</string>
+    <string name="scanner_title_prd">Важная информация</string>
     <string name="scanner_title_tip">Данные для передачи</string>
     <string name="scanner_wechat_overwrite_hit">Из-за ограничений сторонних приложений, история чатов и другие данные приложения на новом устройстве будут заменены данными со старого, после завершения передачи.</string>
     <string name="search_action_mode_cancel">Отмена</string>
@@ -752,13 +756,14 @@
     <string name="sender_scanning_code">Поместите изображение в рамку</string>
     <string name="sender_scanning_connecting">Подключение к новому устройству…</string>
     <string name="set_app_suspend">Выполняется резервное копирование этого приложения. Дождитесь завершения и повторите попытку.</string>
-    <string name="set_new_device_account">Синхронизация с Xiaomi аккаунтом</string>
+    <string name="set_new_device_account">Синхронизация с аккаунтом Xiaomi</string>
     <string name="set_new_device_lock">Настройка защиты</string>
     <string name="set_new_device_more">Дополнительные системные настройки…</string>
     <string name="set_new_device_navigationbar">Настройка системной навигации</string>
     <string name="set_new_device_title">Настройка нового устройства…</string>
     <string name="set_new_device_wlan">Настройка Wi-Fi</string>
     <string name="settings_phone">Настройки телефона</string>
+    <string name="settings_photo">Настройки Галереи</string>
     <string name="settings_powerkeeper">Данные счётчика шагов</string>
     <string name="settings_sms">Настройки сообщений</string>
     <string name="settings_system">Настройки системы</string>

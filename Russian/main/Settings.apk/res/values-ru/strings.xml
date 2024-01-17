@@ -3766,7 +3766,7 @@ ID: %s
     <string name="dual_clock_open_message">Двойные часы будут отображаться на экране блокировки и рабочем столе.</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
-    <string name="dual_wifi">Двухдиапазонный Wi-Fi</string>
+    <string name="dual_wifi">Ускорение с помощью двухдиапазонного Wi-Fi</string>
     <string name="dual_wifi_acceleration">Ускорение</string>
     <string name="dual_wifi_auto_disable">Автоматическое отключение ускорения</string>
     <string name="dual_wifi_auto_disable_summary">Отключение от дополнительной сети Wi-Fi при выключенном экране для экономии заряда</string>

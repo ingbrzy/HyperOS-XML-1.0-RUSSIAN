@@ -1099,6 +1099,7 @@
     <string-array name="message_type"></string-array>
     <string-array name="mi1_led_color_values"></string-array>
     <string-array name="mi2_wifi_security"></string-array>
+    <array name="mi_default_blend_colors"></array>
     <string-array name="mi_stat_cancel_survey_key"></string-array>
     <string-array name="mi_stat_success_survey_key"></string-array>
     <string-array name="mibi_nopassword_pay_threshold"></string-array>
@@ -1714,6 +1715,7 @@
     <string-array name="triple_tone_entriess_right_TWS01"></string-array>
     <string-array name="triple_tone_entry_values"></string-array>
     <string-array name="triple_tone_entry_values_TWS01"></string-array>
+    <string-array name="trusted_certificates"></string-array>
     <string-array name="tts_demo_string_langs"></string-array>
     <string-array name="tts_demo_strings"></string-array>
     <string-array name="tts_rate_values"></string-array>

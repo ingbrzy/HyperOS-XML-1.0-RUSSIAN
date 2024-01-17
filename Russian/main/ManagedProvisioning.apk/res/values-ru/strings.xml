@@ -107,7 +107,7 @@
     <string name="device_already_set_up">Настройка %1$s уже выполнена</string>
     <string name="device_doesnt_allow_encryption_contact_admin">%1$s не поддерживает функцию шифрования, необходимую для настройки. Обратитесь за помощью к своему ИТ-администратору.</string>
     <string name="device_has_reset_protection_contact_admin">На этом %1$s включена защита от сброса к заводским настройкам. Обратитесь за помощью к своему ИТ-администратору.</string>
-    <string name="device_owner_cancel_cancel">Отмена</string>
+    <string name="device_owner_cancel_cancel">Прервать</string>
     <string name="device_owner_cancel_message">Прервать настройку и удалить все данные с устройства?</string>
     <string name="device_owner_description">Это устройство будет защищено и управляться вашей организацией</string>
     <string name="device_owner_error_ok">ОК</string>
