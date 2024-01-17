@@ -863,18 +863,6 @@
     <string name="rcs_send_rms_remind_title">Используйте 5G Сообщения</string>
     <string name="rcs_service_agreement">Условия использования</string>
     <string name="rcs_service_clear_all">Очистить всё</string>
-<!-- ### FROM SOURCE -->
-    <string name="rcs_service_dm">dm</string>
-<!-- ### FROM SOURCE -->
-    <string name="rcs_service_dm_url_runner">Runner</string>
-<!-- ### FROM SOURCE -->
-    <string name="rcs_service_dm_url_runner_maap">Runner Maap</string>
-<!-- ### FROM SOURCE -->
-    <string name="rcs_service_http_tip">http://</string>
-<!-- ### FROM SOURCE -->
-    <string name="rcs_service_https_tip">https://</string>
-<!-- ### FROM SOURCE -->
-    <string name="rcs_service_register">register</string>
     <string name="rcs_setting">Настройки 5G Сообщений</string>
     <string name="rcs_silence_message">Приглушать уведомления</string>
     <string name="rcs_summary_auto_resend_mms">Отправлять мультимедийные 5G сообщения в виде MMS через мобильную сеть, когда нет подключения Wi-Fi. Оплата взимается согласно тарифу вашего оператора.</string>
