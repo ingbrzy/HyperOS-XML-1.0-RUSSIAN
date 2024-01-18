@@ -67,7 +67,7 @@
     <string name="wifi_connect_default_application">Приложение</string>
     <string name="wifi_disable_mac_randomization_dialog_confirm_text">Изменить настройки</string>
     <string name="wifi_disable_mac_randomization_dialog_failure">Не удалось изменить настройки конфиденциальности</string>
-    <string name="wifi_disable_mac_randomization_dialog_message">"%1$s может потребоваться MAC-адрес устройства для подключения. Это может позволить отследить местоположение вашего устройства с помощью устройств поблизости. 
+    <string name="wifi_disable_mac_randomization_dialog_message">"%1$s может потребоваться MAC-адрес устройства для подключения. Это позволяет отслеживать местоположение вашего устройства с помощью устройств поблизости. 
 
 Если вы продолжите, %1$s изменит ваши настройки конфиденциальности и попытается подключиться снова."</string>
     <string name="wifi_disable_mac_randomization_dialog_network_not_found">Сеть не найдена</string>

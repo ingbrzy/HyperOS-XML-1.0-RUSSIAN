@@ -1228,7 +1228,7 @@
     <string name="connect_internet_by_mobiledata">Мобильный интернет</string>
     <string name="connect_internet_by_usbshare">Интернет по USB</string>
     <string name="connect_internet_by_wifi">Wi-Fi</string>
-    <string name="connected_device_application_flow_permission">Разрешения на передачу приложений</string>
+    <string name="connected_device_application_flow_permission">Разрешения переноса приложений</string>
     <string name="connected_device_camera_collaboration_permission">Разрешения подключённой камеры</string>
     <string name="connected_device_camera_permission">Разрешения камеры</string>
     <string name="connected_device_notification_permission">Разрешения уведомлений</string>
@@ -1250,15 +1250,15 @@
     <string name="connected_devices_notification">Уведомления</string>
     <string name="connected_devices_notification_desc">Отображать уведомления этого устройства на близлежащих устройствах, связанных с этим аккаунтом</string>
     <string name="connected_devices_notification_title">Разрешить вышеуказанному устройству отображать уведомления этого устройства?</string>
-    <string name="connected_devices_permission">Взаимосвязь и разрешения</string>
-    <string name="connected_devices_permission_settings">Взаимосвязь и разрешения</string>
+    <string name="connected_devices_permission">Взаимосвязанность и разрешения</string>
+    <string name="connected_devices_permission_settings">Взаимосвязанность и разрешения</string>
     <string name="connected_devices_record">Запись</string>
     <string name="connected_devices_record_desc">Разрешить близлежащим устройствам, связанным с этим аккаунтом, запись аудио на этом устройстве</string>
     <string name="connected_devices_record_title">Разрешить вышеуказанному устройству запись аудио на этом устройстве?</string>
     <string name="connected_devices_screen">Экран</string>
     <string name="connected_devices_screen_desc">Разрешить близлежащим устройствам, связанным с этим аккаунтом, просматривать содержимое экрана этого устройства и взаимодействовать с ним</string>
     <string name="connected_devices_screen_title">Разрешить вышеуказанному устройству просматривать содержимое экрана этого устройства и взаимодействовать с ним?</string>
-    <string name="connected_interconnection">Взаимосвязь</string>
+    <string name="connected_interconnection">Взаимосвязанность</string>
     <string name="connecting">Подключение…</string>
     <string name="continue_install">Установить</string>
     <string name="continue_set">Продолжить настройку</string>
@@ -2535,7 +2535,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="grant_dialog_button_deny_and_dont_ask_again">Запретить и больше не спрашивать</string>
     <string name="group_audio">Музыка и аудио</string>
     <string name="group_clipboard">Буфер обмена</string>
-    <string name="group_connect_device">Взаимосвязь</string>
+    <string name="group_connect_device">Взаимосвязанность</string>
     <string name="group_file">Файлы и документы</string>
     <string name="group_head_data_ai_clipboard">Защита буфера обмена</string>
     <string name="group_head_data_ai_clipboard_desc">Разрешить системе управлять доступом приложений к буферу обмена</string>
@@ -3723,7 +3723,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permisison_usage_menu_camera">Камера</string>
     <string name="permisison_usage_menu_location">Геолокация</string>
     <string name="permisison_usage_menu_mic">Микрофон</string>
-    <string name="permisison_usage_menu_terminal">Взаимосвязь</string>
+    <string name="permisison_usage_menu_terminal">Взаимосвязанность</string>
     <string name="permisison_usage_now_camera">Приложение сейчас использует камеру</string>
     <string name="permisison_usage_now_location">Приложение сейчас использует геолокацию</string>
     <string name="permisison_usage_now_mic">Приложение сейчас использует микрофон</string>

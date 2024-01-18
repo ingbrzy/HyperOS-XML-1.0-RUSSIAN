@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>А</item>
         <item>Б</item>
@@ -58,5 +84,57 @@
         <item>Э</item>
         <item>Ю</item>
         <item>Я</item>
+    </string-array>
+    <string-array name="settings_search_connect_car">
+        <item>Комбинирование приложений</item>
+        <item>Взаимосвязанность/Комбинирование приложений</item>
+        <item>Функции автомобиля</item>
+    </string-array>
+<!-- ### FROM SOURCE -->
+    <string-array name="settings_search_connection_home">
+        <item>Взаимосвязанность</item>
+        <item>Взаимосвязанность/Взаимосвязанность</item>
+        <item>Device interconnectivity, Device interconnectivity services, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, smart connection, Mi Smart Hub, Interconnectivity, Duo, Xiaomi phone, Xiaomi laptop, Multiscreen, Duet, casting, combine apps, handoff, App handoff, Mirror, Xiaomi Ecosystem, device connection</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Конфиденциальность</item>
+        <item>Взаимосвязанность/Конфиденциальность</item>
+        <item>Конфиденциальность и Взаимосвязанность, Конфиденциальность</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Службы Взаимосвязанности</item>
+        <item>Взаимосвязанность/Службы Взаимосвязанности</item>
+        <item>Службы Взаимосвязанности</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>Перенос приложений</item>
+        <item>Взаимосвязанность/Перенос приложений</item>
+        <item>Перенос приложений, передача, перенос</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Вызовы</item>
+        <item>Взаимосвязанность/Вызовы</item>
+        <item>Вызовы</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Взаимодействие в сети</item>
+        <item>Взаимосвязанность/Взаимодействие в сети</item>
+        <item>Взаимодействие в сети, модем, общая точка доступа</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Рабочий стол+</item>
+        <item>Взаимосвязанность/Рабочий стол+</item>
+        <item>Рабочий стол+, Mi Smart Hub, общий доступ к экрану</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Буфер обмена</item>
+        <item>Взаимосвязанность/Буфер обмена</item>
+        <item>Буфер обмена</item>
+    </string-array>
+<!-- ### FROM SOURCE -->
+    <string-array name="settings_search_share_notify">
+        <item>Cross-device notifications</item>
+        <item>Взаимосвязанность/Notifications</item>
+        <item>Cross-device notifications</item>
     </string-array>
 </resources>

@@ -653,12 +653,12 @@
     <string name="permission_des_get_installed_apps">Получение информации об установленных приложениях</string>
     <string name="permission_des_get_tasks">Мониторинг используемых приложений</string>
     <string name="permission_des_manage_own_calls">Переадресация входящих вызовов</string>
-    <string name="permission_des_permlab_bluetooth_scan">Обнаружение устройств поблизости и подключение к ним, в т.ч. по Bluetooth</string>
+    <string name="permission_des_permlab_bluetooth_scan">Поиск устройств поблизости и подключение к ним, включая устройства Bluetooth</string>
     <string name="permission_des_read_calendar">Чтение мероприятий календаря</string>
     <string name="permission_des_read_call_log">Чтение информации о входящих и исходящих вызовах</string>
     <string name="permission_des_read_cell_broadcasts">Чтение широковещательных передач</string>
-    <string name="permission_des_read_contacts">Для распознавания контактов и частоты общения с ними</string>
-    <string name="permission_des_read_external_storage">Доступ к фото, документам и другим медиафайлам на устройстве</string>
+    <string name="permission_des_read_contacts">Распознавание контактов и частоты взаимодействия с ними</string>
+    <string name="permission_des_read_external_storage">Доступ к документам, фото и другим медиафайлам на устройстве</string>
     <string name="permission_des_read_phone_numbers">Чтение номеров телефонов на устройстве</string>
     <string name="permission_des_read_phone_state">Доступ к состоянию вызова и информации о мобильной сети</string>
     <string name="permission_des_read_sms">Просмотр SMS-сообщений на наличие паролей и банковской информации</string>
@@ -905,7 +905,7 @@
     <string name="settings_security_mode_status_off_msg">Откл.</string>
     <string name="settings_security_mode_status_on_msg">Безопасный режим включен</string>
     <string name="settings_security_mode_title_off_msg">Безопасный режим</string>
-    <string name="side_sheet_accessibility_pane_title">Боковой лист</string>
+    <string name="side_sheet_accessibility_pane_title">Боковая панель</string>
     <string name="single_authorize">Разрешить один раз</string>
     <string name="size_byte">Б</string>
     <string name="size_giga_byte">ГБ</string>

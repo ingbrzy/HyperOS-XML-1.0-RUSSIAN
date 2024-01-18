@@ -295,7 +295,7 @@
     <string name="pc_device_model_name">ПК</string>
     <string name="pc_redmi_device_model_name">Ноутбук Redmi</string>
     <string name="pc_xiaomi_device_model_name">Ноутбук Xiaomi</string>
-    <string name="permission_apply_purpose">Разрешите Mi Share обнаружение устройств поблизости и подключение к ним для передачи файлов</string>
+    <string name="permission_apply_purpose">Разрешите Mi Share поиск устройств поблизости и подключение к ним для передачи файлов</string>
     <string name="permission_denied_hint">Предоставьте необходимые разрешения для использования Mi Share</string>
     <string name="permission_related">Разрешения</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>

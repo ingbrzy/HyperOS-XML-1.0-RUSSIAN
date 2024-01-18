@@ -1511,7 +1511,7 @@
     <string name="permgroupdesc_contacts">доступ к контактам</string>
     <string name="permgroupdesc_location">доступ к данным о местоположении устройства</string>
     <string name="permgroupdesc_microphone">записывать аудио</string>
-    <string name="permgroupdesc_nearby_devices">обнаружение устройств поблизости и подключение</string>
+    <string name="permgroupdesc_nearby_devices">поиск устройств поблизости и подключение</string>
     <string name="permgroupdesc_notifications">показ уведомлений</string>
     <string name="permgroupdesc_phone">осуществлять вызовы и управлять ими</string>
     <string name="permgroupdesc_readMediaAural">доступ к музыке и аудио на вашем устройстве</string>

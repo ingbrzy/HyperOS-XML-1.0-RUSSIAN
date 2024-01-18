@@ -148,7 +148,7 @@
     <string name="evening">После полудня</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="fast_application_introduction">Фреймворк Быстрые приложения позволяет создавать и предоставлять свои сервисы в Быстрых приложениях.</string>
-    <string name="fast_pairing_introduction">Mi Link позволяет вашему устройству подключаться к Bluetooth-устройствам поблизости с помощью службы MIUI Bluetooth. Для возможности поиска устройств поблизости, разрешите приложению подключение к интернету.</string>
+    <string name="fast_pairing_introduction">Mi Link позволяет вашему устройству подключаться к Bluetooth-устройствам поблизости с помощью службы MIUI Bluetooth. Для поиска устройств поблизости, разрешите приложению подключение к интернету.</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
