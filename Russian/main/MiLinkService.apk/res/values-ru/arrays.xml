@@ -90,11 +90,10 @@
         <item>Взаимосвязанность/Комбинирование приложений</item>
         <item>Функции автомобиля</item>
     </string-array>
-<!-- ### FROM SOURCE -->
     <string-array name="settings_search_connection_home">
         <item>Взаимосвязанность</item>
         <item>Взаимосвязанность/Взаимосвязанность</item>
-        <item>Device interconnectivity, Device interconnectivity services, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, smart connection, Mi Smart Hub, Interconnectivity, Duo, Xiaomi phone, Xiaomi laptop, Multiscreen, Duet, casting, combine apps, handoff, App handoff, Mirror, Xiaomi Ecosystem, device connection</item>
+        <item>Взаимодействие устройств, Службы взаимодействия устройств, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, умное подключение, Mi Smart Hub, Взаимосвязанность, Duo, Телефон Xiaomi, Ноутбук Xiaomi, Мультиэкран, Duet, трансляция, Комбинирование приложений, передача, Перенос приложений, Зеркало, Экосистема Xiaomi, подключение устройства</item>
     </string-array>
     <string-array name="settings_search_connection_privacy">
         <item>Конфиденциальность</item>
@@ -131,10 +130,9 @@
         <item>Взаимосвязанность/Буфер обмена</item>
         <item>Буфер обмена</item>
     </string-array>
-<!-- ### FROM SOURCE -->
     <string-array name="settings_search_share_notify">
-        <item>Cross-device notifications</item>
-        <item>Взаимосвязанность/Notifications</item>
-        <item>Cross-device notifications</item>
+        <item>Уведомления между устройствами</item>
+        <item>Взаимосвязанность/Уведомления</item>
+        <item>Уведомления между устройствами</item>
     </string-array>
 </resources>
