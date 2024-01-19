@@ -137,7 +137,7 @@
     <string name="cm_privacy_dialog_allow">Принимаю</string>
     <string name="cm_privacy_dialog_cancel">Отмена</string>
     <string name="cm_privacy_dialog_spannable_tips">Политика конфиденциальности</string>
-    <string name="cm_privacy_dialog_tips">"Сервис Умные сообщения предоставляется вашим оператором. Для предоставления сервиса приложению требуются подключение к интернету и разрешение использовать геолокацию. Перед использованием сервиса примите %1s вашего оператора связи."</string>
+    <string name="cm_privacy_dialog_tips">"Сервис Умные сообщения предоставляется вашим оператором. Для предоставления сервиса приложению требуются доступ к интернету и разрешение использовать геолокацию. Перед использованием сервиса примите %1s вашего оператора связи."</string>
     <string name="cm_privacy_dialog_title">Внимание</string>
     <string name="cmcc_privacy">Соглашение о конфиденциальности China Mobile</string>
     <string name="cn_privacy_dialog_title">Внимание</string>
@@ -454,7 +454,7 @@
     <string name="mms_block_hint">"Этот отправитель отсутствует в ваших контактах.
 Это сообщение может быть нежелательным."</string>
     <string name="mms_block_hint_highlight">Блокировка MMS</string>
-    <string name="mms_main_purpose_new">Для обеспечения основных сервисов, разрешите приложению подключение к интернету, а также включите Mi Сообщения и Умные сообщения.</string>
+    <string name="mms_main_purpose_new">Для обеспечения основных сервисов, разрешите приложению доступ к интернету, а также включите Mi Сообщения и Умные сообщения.</string>
     <string name="mms_mi_message_main_purpose">Добро пожаловать в Mi Сообщения! Для активации этого сервиса необходима отправка SMS. Ваш оператор связи может взимать плату за это сообщение.</string>
     <string name="mms_mi_message_request_notice">Используйте Mi Сообщения с максимальной отдачей</string>
     <string name="mms_mx_privacy_policy">Политика конфиденциальности Mi Сообщений</string>
@@ -1015,8 +1015,8 @@
     <string name="slideshow_activity">Слайд-шоу</string>
     <string name="small_window_log_text">Камера не может работать в многооконном режиме</string>
     <string name="smart_message_title">Умные сообщения</string>
-    <string name="smart_messages_network_allow_message">Приложению \"Mi Сообщения\" необходимо подключение к интернету для нормальной работы его служб. Разрешить сейчас?</string>
-    <string name="smart_messages_network_allow_title">Требуется подключение к интернету</string>
+    <string name="smart_messages_network_allow_message">Для правильной работы приложению \"Mi Сообщения\" требуется доступ к интернету. Разрешить сейчас?</string>
+    <string name="smart_messages_network_allow_title">Требуется доступ к интернету</string>
     <string name="smart_msg_privacy_policy">Политика конфиденциальности Умных сообщений</string>
     <string name="smart_msg_privacy_policy_revoke">Отозвать согласие с Политикой конфиденциальности Умные сообщения</string>
     <string name="sms_full_body">Недостаточно места на устройстве. Входящие сообщения будут отклонены.</string>

@@ -242,7 +242,7 @@
     <string name="data_usage_warning_summary">Using your mobile data connection to stream high quality music may increase your data usage charges.</string>
     <string name="date_format_str">dd.MM.yyyy</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
-    <string name="declaration_main_content">"Мы будем защищать вашу личную информацию в соответствии с соответствующими законами, нормативными актами и Политикой конфиденциальности. Для нормальной работы этому приложению необходимо подключение к интернету и следующие разрешения для сбора вашей личной информации:
+    <string name="declaration_main_content">"Мы будем защищать вашу личную информацию в соответствии с соответствующими законами, нормативными актами и Политикой конфиденциальности. Для правильной работы этому приложению требуется доступ к интернету, а также следующие разрешения для сбора вашей личной информации:
 "</string>
     <string name="declaration_main_purpose">Добро пожаловать в приложение FM-радио! Это приложение можно использовать для прослушивания программ местных и онлайн-радиостанций.</string>
     <string name="default_songtab_name">Категории</string>

@@ -164,7 +164,7 @@
     <string name="morning">Утро</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
-    <string name="phrase_network_tip_summary">Для синхронизации часто используемых фраз с облаком и использования на всех устройствах, разрешите приложению подключение к интернету</string>
+    <string name="phrase_network_tip_summary">Для синхронизации часто используемых фраз с облаком и использования на всех устройствах, разрешите приложению доступ к интернету</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>

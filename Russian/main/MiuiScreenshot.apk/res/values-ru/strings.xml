@@ -63,7 +63,7 @@
     <string name="copy_dialog_content">Скриншоты будут автоматически добавляться в буфер обмена. Отключить эту функцию можно в Настройках, выполнив поиск \"Добавление в буфер обмена\".</string>
     <string name="copy_dialog_title">Внимание</string>
     <string name="copy_success_toast">Успешно скопировано</string>
-    <string name="cta_agree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
+    <string name="cta_agree_desc">Разрешите приложению доступ к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
     <string name="cta_btn_agree">Принять</string>
     <string name="cta_btn_disagree">Отмена</string>
     <string name="cta_main_purpose">Добро пожаловать в Редактор скриншотов! Приложение можно использовать для обрезки и редактирования скриншотов. Для нормальной работы разрешите ему доступ к интернету, аудио- и видеофайлам на устройстве.</string>
@@ -114,7 +114,7 @@
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="functions_are_being_developed">Эта функция будет доступна в ближайшее время. Следите за обновлениями!</string>
-    <string name="global_main_purpose">Добро пожаловать в Редактор скриншотов! Это приложение можно использовать для обрезки и редактирования скриншотов. Для нормальной работы приложению необходимо подключение к интернету.</string>
+    <string name="global_main_purpose">Добро пожаловать в Редактор скриншотов! Это приложение можно использовать для обрезки и редактирования скриншотов. Для нормальной работы приложению требуется доступ к интернету.</string>
     <string name="global_pad">Планшет</string>
     <string name="global_pc">ПК</string>
     <string name="global_phone">Устройство</string>

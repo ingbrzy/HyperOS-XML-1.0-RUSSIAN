@@ -162,7 +162,7 @@
     <string name="corpus_label_global">Все</string>
     <string name="corpus_label_web">Интернет</string>
     <string name="corpus_selection_heading">Поиск</string>
-    <string name="cta_declaration">Приложению Поиск для нормальной работы требуется подключение к интернету, использование геолокации, доступ к контактам.</string>
+    <string name="cta_declaration">Приложению Поиск для нормальной работы требуется доступ к интернету, доступ к контактам, а также использование геолокации.</string>
     <string name="cta_declaration_ignore">Больше не показывать</string>
     <string name="cta_declaration_negative_text">Выход</string>
     <string name="cta_declaration_positive_text">Разрешить</string>
@@ -372,7 +372,7 @@
     <string name="morning">Утро</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="network_unavailable">Не удалось подключиться к сети</string>
-    <string name="new_cta_agree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
+    <string name="new_cta_agree_desc">Разрешите приложению доступ к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
     <string name="new_cta_declaration_location">Предоставление точных данных о погоде, местных сервисов и офлайн-магазинов</string>
     <string name="new_cta_declaration_read_contacts">Поиск контактов</string>
     <string name="new_cta_main_purpose">Поиск на устройстве и в интернете (включая контакты, сообщения, заметки, закладки браузера, настройки, новости, приложения, музыку, видео и другое)</string>

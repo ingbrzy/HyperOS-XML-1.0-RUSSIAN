@@ -47,7 +47,7 @@
     <string name="alert_title_backup_to_miasist">Резервное копирование через Mi PC Suite</string>
     <string name="alert_title_restore_from_miasist">Восстановление через Mi PC Suite</string>
     <string name="already_enable_encrypt">Шифрование включено</string>
-    <string name="alternative_ui_content">Функция позволяет осуществлять резервное копирование и восстановление с помощью мобильного устройства или ПК. Для нормальной работы функции требуются подключение к интернету и следующие обязательные разрешения:</string>
+    <string name="alternative_ui_content">Функция позволяет осуществлять резервное копирование и восстановление с помощью мобильного устройства или ПК. Для правильной работы функции требуются доступ к интернету и следующие обязательные разрешения:</string>
     <string name="apps_and_data_item_desc">Приложение и данные</string>
     <string name="apps_item_desc">Приложение</string>
     <string name="auto_backup">Расписание</string>
@@ -1080,7 +1080,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="user_name">Apple ID или почта</string>
     <string name="user_name_null">Имя не может быть пустым</string>
     <string name="user_notice_declaration_ignore">Больше не показывать</string>
-    <string name="user_notice_message">Приложению для нормальной работы требуется подключение к интернету.</string>
+    <string name="user_notice_message">Приложению для правильной работы требуется доступ к интернету.</string>
     <string name="user_notice_title">Внимание</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>

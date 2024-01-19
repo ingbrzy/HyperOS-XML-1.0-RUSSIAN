@@ -500,7 +500,7 @@
     <string name="refresh_empty_data">Не удалось загрузить данные. Повторите позже.</string>
     <string name="refresh_fail">Не удалось подключиться к сети</string>
     <string name="reminder_from_xiaomi_weather_app">Оповещения погоды</string>
-    <string name="request_cta_connect_net">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
+    <string name="request_cta_connect_net">Разрешите приложению доступ к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
     <string name="request_permission_background_location_dialog_content">Чтобы приложение всегда получало точную геопозицию, разрешите ему использовать геолокацию в фоновом режиме</string>
     <string name="request_permission_location_dialog_content">Отображение информации о погоде для текущего местоположения</string>
     <string name="request_permission_main_purpose">Отображение информации о погоде</string>

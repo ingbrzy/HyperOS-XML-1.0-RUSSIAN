@@ -40,7 +40,7 @@
     <string name="add_to_widget">Добавить в виджет</string>
     <string name="added_category">Добавленные</string>
     <string name="afternoon">После полудня</string>
-    <string name="aggree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
+    <string name="aggree_desc">Разрешите приложению доступ к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
     <string name="agree">Принимаю</string>
     <string name="app_all_purpose">"Добро пожаловать в Проводник!
 Это приложение можно использовать для управления файлами на устройстве.

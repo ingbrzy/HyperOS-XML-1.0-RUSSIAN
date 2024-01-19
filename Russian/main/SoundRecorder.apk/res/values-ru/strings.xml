@@ -30,7 +30,7 @@
     <string name="access_denied_info">Слишком много запросов. Повторите позже.</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
-    <string name="agree_description">Разрешите приложению подключение к интернету для использования всех его функций.</string>
+    <string name="agree_description">Разрешите приложению доступ к интернету для использования всех его функций.</string>
     <string name="alert_message_clear_records">Удалить выбранные записи?</string>
     <string name="alert_message_delete_record_title">Удаление записи</string>
     <string name="allowed">Предоставлено</string>
@@ -262,7 +262,7 @@
     <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="network_tip_dialog_cancel">Отмена</string>
-    <string name="network_tip_dialog_content">Приложению Диктофон для нормальной работы требуется подключение к интернету. Разрешить?</string>
+    <string name="network_tip_dialog_content">Приложению Диктофон для нормальной работы требуется доступ к интернету. Разрешить?</string>
     <string name="network_tip_dialog_ok">Разрешить</string>
     <string name="network_tip_dialog_title">Подключение к интернету</string>
     <string name="new_saf_permission_dialog_content">"Разрешения обновлены. Предоставьте приложению Диктофон доступ к записям вызовов.

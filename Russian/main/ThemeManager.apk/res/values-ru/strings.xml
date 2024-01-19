@@ -1400,7 +1400,7 @@ mm"</string>
     <string name="system_aod_dialog_message">Сначала включите Активный экран в Настройках.</string>
     <string name="system_aod_dialog_positive_button">Настройки</string>
     <string name="system_aod_dialog_title">Активный экран отключён</string>
-    <string name="system_cta_agree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
+    <string name="system_cta_agree_desc">Разрешите приложению доступ к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
     <string name="system_cta_all_purpose">"Добро пожаловать в приложение Темы! 
 Это приложение можно использовать для управления темами, обоями, мелодиями и шрифтами. "</string>
     <string name="system_cta_all_purpose_fold">Добро пожаловать в Обои и персонализация! Это приложение можно использовать для управления темами Активного дисплея, обоями, рингтонами и шрифтами.</string>

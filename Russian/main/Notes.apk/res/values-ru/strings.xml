@@ -92,12 +92,12 @@
     <string name="continuous_default_hint">Копируйте текст, сохраняйте изображения и скриншоты как выдержки</string>
     <string name="continuous_new_excerpt_title">Новая выдержка</string>
     <string name="copy">Копировать</string>
-    <string name="cta_agree_desc">Разрешите приложению подключение к интернету и предоставьте дополнительные разрешения для использования всех функций.</string>
+    <string name="cta_agree_desc">Разрешите приложению доступ к интернету и предоставьте дополнительные разрешения для использования всех функций.</string>
     <string name="cta_confirm_cancel">Не разрешать</string>
     <string name="cta_confirm_ok">Разрешить</string>
-    <string name="cta_dialog_message">Приложению Заметки для нормальной работы необходимо подключение к интернету, разрешение на запись звука и доступ к вашим контактам. Разрешить?</string>
+    <string name="cta_dialog_message">Приложению Заметки для нормальной работы требуется доступ к интернету, а также разрешение на запись звука и доступ к вашим контактам. Разрешить?</string>
     <string name="cta_dialog_title">Предоставьте разрешения</string>
-    <string name="cta_v2_agree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше</string>
+    <string name="cta_v2_agree_desc">Разрешите приложению доступ к интернету и предоставьте обязательные разрешения, перечисленные выше</string>
     <string name="cta_v2_app_purpose_v12">Добро пожаловать в Заметки! Это приложение можно использовать для создания задач и заметок, содержащих текст, изображения и аудио.</string>
     <string name="cta_v2_app_purpose_v12_lite">Добро пожаловать в Заметки! Это приложение можно использовать для создания заметок и задач.</string>
     <string name="data_empty_note">Заметки отсутствуют</string>
@@ -561,7 +561,7 @@
     <string name="permission_intro_phone">Для маркировки заметок, сделанных во время вызовов</string>
     <string name="permission_intro_storage">Для сохранения заметок и вложений</string>
     <string name="permission_microphone_desc">Создание голосовых заметок</string>
-    <string name="permission_network_for_cloud_desc">Для синхронизации заметок с облаком, необходимо подключение к интернету. Могут использоваться мобильные данные. Подключиться?</string>
+    <string name="permission_network_for_cloud_desc">Для синхронизации заметок с облаком, требуется доступ к интернету. Подключиться?</string>
     <string name="permission_photos_desc">Для добавления изображений в заметки</string>
     <string name="permission_photos_desc_pad">Для добавления изображений в заметки</string>
     <string name="permission_read_contact_desc">Связывание заметок, созданных во время вызовов, с контактами</string>

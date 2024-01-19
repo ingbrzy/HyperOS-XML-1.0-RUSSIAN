@@ -1597,7 +1597,7 @@ ID:%s
     <string name="open_personalized_services">Включите службы персонализации, чтобы получить доступ к этой функции.</string>
     <string name="open_private_folder">Отпустите для просмотра скрытых папок</string>
     <string name="open_settings">Перейти к настройкам</string>
-    <string name="open_voice_permission">Разрешите микрофону подключение к интернету</string>
+    <string name="open_voice_permission">Разрешите микрофону доступ к интернету</string>
     <string name="open_whatsapp_status">Посмотрите статусы WhatsApp</string>
     <string name="operation_delete">Удалить</string>
     <string name="operation_delete_confirm_message">Удалить?</string>
@@ -2560,9 +2560,9 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="voice_check_network">Проверьте настройки сети и повторите попытку.</string>
     <string name="voice_connect_network">Не удалось подключиться к сети.</string>
     <string name="voice_description">Голосовой поиск</string>
-    <string name="voice_network_connection">Голосовому поиску для нормальной работы необходимо подключение к интернету.</string>
+    <string name="voice_network_connection">Голосовому поиску для работы требуется доступ к интернету.</string>
     <string name="voice_permission_name">Воспроизведение звука</string>
-    <string name="voice_search_permission">Голосовому поиску для нормальной работы необходим доступ к микрофону.</string>
+    <string name="voice_search_permission">Голосовому поиску для для работы требуется доступ к микрофону.</string>
     <string name="voice_semantic_analysis">Браузер сможет анализировать семантику после того, как вы разрешите ему подключение.</string>
     <string name="voice_sub_title">Не знаете, что сказать? Попробуйте открыть mi.com</string>
     <string name="voice_title">Скажите команду…</string>

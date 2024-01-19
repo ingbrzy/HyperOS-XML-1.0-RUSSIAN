@@ -2094,7 +2094,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gamebooster_lowbattery_notification_summary">Подключите зарядное устройство.</string>
     <string name="gamebooster_main_activity_back">Назад</string>
     <string name="gamebooster_network_dialog_cn_message">Ускорению игр необходимы разрешения для подключения к интернету и для геолокации. Разрешить?</string>
-    <string name="gamebooster_network_dialog_message">Разрешить подключение к интернету для использования всех функций Ускорения игр?</string>
+    <string name="gamebooster_network_dialog_message">Разрешить доступ к интернету для использования всех функций Ускорения игр?</string>
     <string name="gamebooster_network_dialog_title">Некоторые функции недоступны</string>
     <string name="gamebooster_push_expiring_soon_button">Продлить</string>
     <string name="gamebooster_push_expiring_soon_title">Ускорение игр</string>
@@ -5637,7 +5637,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="system_app_permission_instruction">Этому приложению необходимы определённые разрешения для работы основных системных сервисов. Управление разрешениями для этого приложения ограничено, так как изменение разрешений приведет к сбоям в работе системы.</string>
     <string name="system_application">Системное приложение</string>
     <string name="system_permission_declare_agree">Принимаю</string>
-    <string name="system_permission_declare_analytics_declare">Благодарим Вас за участие в нашей программе улучшения качества. Для правильной работы этой функции необходимы подключение к интернету и разрешения для сбора данных. Эти данные собираются только для статистических целей и не будут использоваться для вашей идентификации.</string>
+    <string name="system_permission_declare_analytics_declare">Благодарим Вас за участие в нашей программе улучшения качества. Для правильной работы этой функции требуются доступ к интернету и разрешения для сбора данных. Эти данные собираются только для статистических целей и не будут использоваться для вашей идентификации.</string>
     <string name="system_permission_declare_disagree">Выход</string>
     <string name="system_permission_declare_double_link">&lt;Data&gt;Перед использованием необходимо принять &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="system_permission_declare_main_purpose" formatted="false">"Добро пожаловать в %1s!
@@ -5654,9 +5654,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="system_permission_declare_no_say_no_non_mandatory">Это приложение не сможет работать корректно, если вы не предоставите необходимые разрешения или не разрешите сбор и использование данных.</string>
     <string name="system_permission_declare_optional">Для обеспечения дополнительных сервисов при использовании приложения, могут потребоваться следующие разрешения: %s. Настройки разрешений всегда можно изменить в настройках.</string>
     <string name="system_permission_declare_privacy_declare">"Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и Политикой конфиденциальности. 
-Приложению требуются подключение к интернету и следующие разрешения для сбора личной информации:"</string>
+Приложению требуются доступ к интернету и следующие разрешения для сбора личной информации:"</string>
     <string name="system_permission_declare_privacy_no_network">Приложению для нормальной работы необходимы следующие разрешения:</string>
-    <string name="system_permission_declare_privacy_no_permission">Приложению требуются подключение к интернету и разрешения для сбора личной информации. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и Политикой конфиденциальности.</string>
+    <string name="system_permission_declare_privacy_no_permission">Приложению требуются доступ к интернету и разрешения для сбора личной информации. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и Политикой конфиденциальности.</string>
     <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Перед использованием необходимо принять &lt;a href=\"%1$s\"&gt;Политику конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="system_permission_declare_revoke_system">Можно выйти из этого приложения.</string>
     <string name="system_permission_declare_revoke_uninstallable">Можно выйти, удалить это приложение или отозвать авторизацию в Безопасность &gt; Приложения &gt; Разрешения &gt; Другие разрешения.</string>

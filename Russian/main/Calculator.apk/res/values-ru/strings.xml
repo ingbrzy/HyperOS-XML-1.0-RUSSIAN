@@ -70,7 +70,7 @@
     <string name="convertion_unit_finance">Финансовые расчёты</string>
     <string name="copy">Копировать</string>
     <string name="cosDesc">косинус</string>
-    <string name="cta_desc">Добро пожаловать в Калькулятор! Это приложение сочетает в себе функции обычного калькулятора с разными конвертерами и прочими функциями. Для нормальной работы приложению необходимо подключение к интернету.</string>
+    <string name="cta_desc">Добро пожаловать в Калькулятор! Это приложение сочетает в себе функции обычного калькулятора с разными конвертерами и прочими функциями. Для правильной работы приложению требуется доступ к интернету.</string>
     <string name="currency_update_connect_to_get_data">Курсы валют предоставлены Webull. Подключитесь к сети для получения актуальных данных.</string>
     <string name="currency_update_support">Курсы валют предоставлены Webull.</string>
     <string name="currency_update_time_format">Курсы валют предоставлены Webull (%s)</string>
@@ -361,7 +361,7 @@
     <string name="permission_option_miui12">Необязательные разрешения</string>
     <string name="permission_privacy_link">Используя это приложение, вы соглашаетесь с Пользовательским соглашением и Политикой конфиденциальности</string>
     <string name="permission_purpose_miui12_system">Добро пожаловать в Калькулятор! Это приложение сочетает в себе функции обычного калькулятора с различными конвертерами и прочими функциями.</string>
-    <string name="permission_remove_desc_miui12">Разрешите приложению подключение к интернету и предоставьте дополнительные разрешения, чтобы использовать все его функции</string>
+    <string name="permission_remove_desc_miui12">Разрешите приложению доступ к интернету и предоставьте дополнительные разрешения, чтобы использовать все его функции</string>
     <string name="permission_title_miui12">Внимание</string>
     <string name="piDesc">пи</string>
     <string name="plusDesc">плюс</string>

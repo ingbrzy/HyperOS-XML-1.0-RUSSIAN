@@ -1153,7 +1153,7 @@
     <string name="user_experience_revoke_switch">Программа улучшения качества</string>
     <string name="user_notice_button_exit">Отмена</string>
     <string name="user_notice_button_ok">ОК</string>
-    <string name="user_notice_message">Используя этот продукт, вы принимаете %1$s и %2$s Xiaomi. Для нормальной работы некоторых функций требуется подключение к интернету, использование геолокации, доступ к контактам и SMS.</string>
+    <string name="user_notice_message">Используя этот продукт, вы принимаете %1$s и %2$s Xiaomi. Для работы некоторых функций требуется доступ к интернету, доступ к контактам и SMS, использование геолокации.</string>
     <string name="user_notice_title">Внимание</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>

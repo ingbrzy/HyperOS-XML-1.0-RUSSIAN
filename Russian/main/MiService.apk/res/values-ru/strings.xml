@@ -136,7 +136,7 @@
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
     <string name="permission_agree">Принимаю</string>
-    <string name="permission_china_version_msg">&lt;Data&gt;Нажав \"Принимаю\", вы соглашаетесь с &lt;a href=\"%1$s\"&gt;Условиями использования&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политикой конфиденциальности&lt;/a&gt;. Для правильной работы приложению необходимо подключение к интернету.&lt;/Data&gt;</string>
+    <string name="permission_china_version_msg">&lt;Data&gt;Нажав \"Принимаю\", вы соглашаетесь с &lt;a href=\"%1$s\"&gt;Условиями использования&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политикой конфиденциальности&lt;/a&gt;. Для правильной работы приложению требуется доступ к интернету.&lt;/Data&gt;</string>
     <string name="permission_complete">Готово</string>
     <string name="permission_contacts_info">Доступ к информации об аккаунте</string>
     <string name="permission_contacts_introduce">Для входа с помощью аккаунта Xiaomi</string>

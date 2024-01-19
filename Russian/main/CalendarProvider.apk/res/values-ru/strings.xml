@@ -9,7 +9,7 @@
     <string name="calendar_storage">Хранилище календаря</string>
     <string name="channel_description" />
     <string name="channel_name">Напоминания календаря</string>
-    <string name="cta_notice">Откройте календарь и разрешите ему подключение к интернету.</string>
+    <string name="cta_notice">Откройте календарь и разрешите ему доступ к интернету.</string>
     <string name="debug_tool_delete_button">Удалить</string>
     <string name="debug_tool_email_body">К сообщению приложена база данных календаря со всеми встречами и личной информацией. Обращайтесь с ней осторожно.</string>
     <string name="debug_tool_email_sender_picker">Выберите приложение</string>

@@ -165,7 +165,7 @@
     <string name="bh_online_service">Онлайн поддержка</string>
     <string name="bh_open_carrier_services_short">Сервисы Mi Carrier</string>
     <string name="bh_open_carrier_services_short_reason">Для использования этой функции, включите сервисы Mi Carrier</string>
-    <string name="bh_option_agree_dec">Перед использованием приложения разрешите сервисам Mi Carrier подключение к интернету и предоставьте необходимые разрешения</string>
+    <string name="bh_option_agree_dec">Перед использованием приложения разрешите сервисам Mi Carrier доступ к интернету и предоставьте необходимые разрешения</string>
     <string name="bh_order_detail">Информация о заказе</string>
     <string name="bh_order_id">Номер заказа</string>
     <string name="bh_order_loading">Подождите…</string>
@@ -443,7 +443,7 @@
     <string name="cta_content_seg1"><Data>"&lt;strong>Важное замечание
 Нажав \"Принимаю\" ниже, вы принимаете &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Соглашение об обслуживании аккаунта Xiaomi&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Пользовательское соглашение Mi Roaming&lt;/a>&lt;/font> и &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Политику конфиденциальности&lt;/a>&lt;/font>. Внимательно прочтите эти документы и изучите все соответствующие положения и условия.&lt;/strong>"</Data></string>
     <string name="cta_content_seg2">
-Для нормальной работы приложению Mi Roaming требуется подключение к интернету и доступ к информации о вашем местоположении. Приложение может собирать, использовать и передавать вашу личную информацию. Ваша личная информация будет защищена в соответствии с местными законами и постановлениями .</string>
+Для работы приложению Mi Roaming требуется доступ к интернету, а также доступ к информации о вашем местоположении. Приложение может собирать, использовать и передавать вашу личную информацию. Ваша личная информация будет защищена в соответствии с местными законами и постановлениями .</string>
     <string name="cta_dialog_cancel">Выход</string>
     <string name="cta_dialog_ok">Принимаю</string>
     <string name="cta_dialog_title">Условия и положения</string>

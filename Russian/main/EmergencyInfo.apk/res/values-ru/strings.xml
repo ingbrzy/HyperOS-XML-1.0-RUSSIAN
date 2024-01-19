@@ -703,7 +703,7 @@
     <string name="tts_default_rate_summary">Скорость чтения текста</string>
     <string name="tts_default_rate_title">Скорость речи</string>
     <string name="tts_default_sample_string">Это пример синтезированной речи</string>
-    <string name="tts_engine_network_required">Синтезатору речи для этого языка требуется подключение к интернету.</string>
+    <string name="tts_engine_network_required">Синтезатору речи для этого языка требуется доступ к интернету.</string>
     <string name="tts_engine_preference_section_title">Система по умолчанию</string>
     <string name="tts_engine_security_warning">Данная система синтеза речи может записывать произносимые слова, включая личные данные, такие как пароли и номера кредитных карт. Это осуществляет система %s. Разрешить использование этой системы синтеза речи?</string>
     <string name="tts_engine_settings_button">Настройки синтеза речи</string>

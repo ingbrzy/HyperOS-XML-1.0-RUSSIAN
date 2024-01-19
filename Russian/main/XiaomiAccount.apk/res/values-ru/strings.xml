@@ -937,7 +937,7 @@ ID вашего аккаунта: %s"</string>
     <string name="user_agreement_device_permission_desc">Для обеспечения безопасности среды авторизации</string>
     <string name="user_agreement_device_permission_title">Доступ к информации об устройстве</string>
     <string name="user_agreement_must_permission_msg">Обязательные разрешения (для основных функций и сервисов приложения)</string>
-    <string name="user_agreement_permission_summary_msg">Аккаунт Xiaomi позволяет получить доступ ко всем сервисам Xiaomi. Для нормальной работы приложению необходимы подключение к интернету и следующие разрешения:</string>
+    <string name="user_agreement_permission_summary_msg">Аккаунт Xiaomi позволяет получить доступ ко всем сервисам Xiaomi. Для нормальной работы приложению требуются доступ к интернету и следующие разрешения:</string>
     <string name="user_agreement_read_phone_permission_desc">Для входа с использованием номера телефона</string>
     <string name="user_agreement_read_phone_permission_title">Чтение телефонных номеров</string>
     <string name="user_agreement_use_account_msg">Аккаунт Xiaomi позволяет получить доступ ко всем сервисам Xiaomi</string>

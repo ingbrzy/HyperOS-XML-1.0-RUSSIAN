@@ -502,7 +502,7 @@
     <string name="pa_picker_detail_suit_price_already_bought">Приобретено</string>
     <string name="pa_picker_detail_suit_price_placeholder">5 Mi Coin</string>
     <string name="pa_picker_detail_theme_app_cta">Настройки</string>
-    <string name="pa_picker_detail_theme_app_cta_pre">"Чтобы использовать этот виджет, разрешите приложению Темы подключение к интернету. "</string>
+    <string name="pa_picker_detail_theme_app_cta_pre">"Чтобы использовать этот виджет, разрешите приложению Темы доступ к интернету. "</string>
     <string name="pa_picker_detail_theme_app_need_login">Вход</string>
     <string name="pa_picker_detail_theme_app_need_login_pre">"Войдите в аккаунт Xiaomi. "</string>
     <string name="pa_picker_detail_view_more">Ещё</string>
@@ -536,8 +536,8 @@
     <string name="pa_picker_no_relevant_content">Ничего не найдено</string>
     <string name="pa_picker_order_go_to_allow_cta">Разрешить</string>
     <string name="pa_picker_order_go_to_login">Войти</string>
-    <string name="pa_picker_order_login_xiaomi_account">Войдите в аккаунт Xiaomi, чтобы иметь использовать эту функцию</string>
-    <string name="pa_picker_order_theme_app_cta_pre">Разрешите приложению подключение к интернету, чтобы иметь использовать эту функцию</string>
+    <string name="pa_picker_order_login_xiaomi_account">Войдите в аккаунт Xiaomi, чтобы использовать эту функцию</string>
+    <string name="pa_picker_order_theme_app_cta_pre">Разрешите приложению доступ к интернету, чтобы использовать эту функцию</string>
     <string name="pa_picker_permission_denied">"Ленте виджетов требуется доступ к статусу установки
 для отображения виджетов."</string>
     <string name="pa_picker_purchase_order">Приобретено</string>

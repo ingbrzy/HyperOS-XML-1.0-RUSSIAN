@@ -202,8 +202,8 @@
     <string name="circulate_controlphone_title">Управление устройством</string>
     <string name="circulate_cta_agree">Принимаю</string>
     <string name="circulate_cta_app_name">Взаимосвязанность Xiaomi</string>
-    <string name="circulate_cta_desc_lite_phone">Службы Взаимосвязанности Xiaomi позволяют вашим устройствам взаимодействовать друг с другом по беспроводной сети. Для нормальной работы служб необходимы подключение к интернету и следующие разрешения:</string>
-    <string name="circulate_cta_desc_phone">Добро пожаловать в Взаимосвязанность Xiaomi! Это приложение можно использовать для трансляции содержимого экрана, воспроизведения мультимедиа на разных устройствах, для использования Mi Smart Play, MIUI+ и обмена между приложениями. Для нормальной работы приложению необходимы подключение к интернету и следующие разрешения:</string>
+    <string name="circulate_cta_desc_lite_phone">Службы Взаимосвязанности Xiaomi позволяют вашим устройствам взаимодействовать друг с другом по беспроводной сети. Для нормальной работы служб требуется доступ к интернету, а также следующие разрешения:</string>
+    <string name="circulate_cta_desc_phone">Добро пожаловать в Взаимосвязанность Xiaomi! Это приложение можно использовать для трансляции содержимого экрана, воспроизведения мультимедиа на разных устройствах, для использования Mi Smart Play, MIUI+ и обмена между приложениями. Для нормальной работы приложению требуется доступ к интернету, а также следующие разрешения:</string>
     <string name="circulate_cta_exit">Выход</string>
     <string name="circulate_cta_premission_bluetooth_subtitle">Для подключения устройств и передачи данных между ними</string>
     <string name="circulate_cta_premission_get_installed_apps_subtitle">Для доступа к списку приложений на мобильном устройстве и зеркалирования экрана на ПК</string>
@@ -404,9 +404,9 @@
     <string name="connect_settings_withdraw_consent">Отзыв согласия</string>
     <string name="connection_failed">Не удалось подключить камеру</string>
     <string name="console_guide_btn_got_it">Понятно</string>
-    <string name="console_guide_subtitle_hang_up">Можно продолжать трансляцию при выключенном экране устройства (это может привести к повышенному расходу батареи).</string>
-    <string name="console_guide_subtitle_private">Можно включить скрытие всплывающих уведомлений, входящих вызовов и другой конфиденциальной информацию</string>
-    <string name="console_guide_subtitle_small_window">Можно свернуть окно во время трансляции для работы с  другими приложениями</string>
+    <string name="console_guide_subtitle_hang_up">Можно продолжать трансляцию когда экран устройства отключен. Эта функция поможет снизить расход заряда.</string>
+    <string name="console_guide_subtitle_private">Не показывать всплывающие уведомления, входящие вызовы и другие личные объекты на внешнем мониторе</string>
+    <string name="console_guide_subtitle_small_window">Можно свернуть транслируемое окно, чтобы использовать  другие приложения</string>
     <string name="controller_auth_cancel">Отмена</string>
     <string name="controller_auth_title">Проверка дистанционного управления</string>
     <string name="copy">Копировать</string>
@@ -907,9 +907,9 @@
     <string name="privacy_action_failed">Не удалось отозвать согласие</string>
     <string name="privacy_agree">Принимаю</string>
     <string name="privacy_confirm_revoke_and_exit_btn">Отозвать</string>
-    <string name="privacy_detail">Прежде чем продолжить, разрешите этому приложению подключение к интернету и предоставьте необходимые разрешения.</string>
+    <string name="privacy_detail">Прежде чем продолжить, разрешите этому приложению доступ к интернету и предоставьте необходимые разрешения.</string>
     <string name="privacy_detail_extra">Некоторые функции предоставляются сторонним поставщиком услуг HappyCast. Используя эту функцию, вы принимаете &lt;a href=\"%1$s\"&gt;Политику конфиденциальности HappyCast&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Юридическое заявление HappyCast&lt;/a&gt;.</string>
-    <string name="privacy_explain">Добро пожаловать в приложение Трансляция! Это приложение можно использовать для вывода содержимого экрана на внешний монитор. Для корректной работы приложению необходимо подключение к интернету и следующие разрешения:</string>
+    <string name="privacy_explain">Добро пожаловать в приложение Трансляция! Это приложение можно использовать для вывода содержимого экрана на внешний монитор. Для корректной работы приложению требуется доступ к интернету, а также следующие разрешения:</string>
     <string name="privacy_give_up_revoke_btn">Отмена</string>
     <string name="privacy_i_know_btn">Продолжить</string>
     <string name="privacy_negative">Отмена</string>
@@ -963,9 +963,9 @@
     <string name="privacy_setting_show_lelink_policy">Политика конфиденциальности HappyCast</string>
     <string name="privacy_setting_show_policy">Политика конфиденциальности</string>
     <string name="privacy_setting_show_user_agreement">Пользовательское соглашение</string>
-    <string name="privacy_text_1">"Добро пожаловать в приложение Трансляция! Трансляция позволяет проецировать содержимое с телефона на внешний монитор.
+    <string name="privacy_text_1">"Добро пожаловать в Трансляция! Приложение позволяет передавать изображение с экрана устройства на внешний монитор.
 Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и Политикой конфиденциальности. Некоторые функции предоставляются сторонним поставщиком услуг HappyCast. Перед использованием этой функции прочтите и примите &lt;a href=\"%2$s\"&gt;Юридическое заявление HappyCast&lt;/a&gt; и &lt;a href=\"%1$s\"&gt;Политику конфиденциальности HappyCast&lt;/a&gt;.
-Приложению для нормальной работы необходимы подключение к интернету и разрешения на сбор личной информации:"</string>
+Для правильной работы приложению необходимы доступ к интернету и разрешения на сбор личной информации:"</string>
     <string name="privacy_text_2">"В случае отказа предоставить разрешения, вы не сможете использовать приложение. В таком случае вы можете удалить это приложение, выйти или ограничить разрешения в настройках.
 Перед использованием прочтите и примите наши &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt;."</string>
     <string name="privacy_text_pemission">"　　• Использование Wi-Fi для обнаружения и подключения устройств.
@@ -1009,11 +1009,11 @@
     <string name="screen_projection_characteristics">Специальные функции</string>
     <string name="screen_projection_characteristics_cast_summary">Трансляция изображения с экрана устройства на телевизор.</string>
     <string name="screen_projection_characteristics_hang_up_summary_new">Выключите экран мобильного устройства во время трансляции, чтобы сэкономить заряд и избежать перегрева</string>
-    <string name="screen_projection_characteristics_off_screen_summary">Трансляция с выключенным экраном уменьшает расход батареи.</string>
+    <string name="screen_projection_characteristics_off_screen_summary">Вы можете продолжать трансляцию, когда экран вашего устройства отключен. Эта функция поможет снизить расход батареи.</string>
     <string name="screen_projection_characteristics_off_screen_title">Трансляция с выключенным экраном</string>
-    <string name="screen_projection_characteristics_privacy_protect_summary">Запрет отображения всплывающих уведомлений, входящих вызовов и другой личной информации на внешнем мониторе.</string>
+    <string name="screen_projection_characteristics_privacy_protect_summary">Не показывать всплывающие уведомления, входящие вызовы и другие личные данные на внешнем мониторе.</string>
     <string name="screen_projection_characteristics_privacy_protect_title">Скрытие личной информации</string>
-    <string name="screen_projection_characteristics_private_summary_new">Защита конфиденциальности: во время трансляции ваше устройство не будет отображать всплывающие уведомления, входящие вызовы и другие конфиденциальные объекты</string>
+    <string name="screen_projection_characteristics_private_summary_new">Защита конфиденциальности: во время трансляции ваше устройство не будет отображать всплывающие уведомления, входящие вызовы и другие конфиденциальные данные</string>
     <string name="screen_projection_characteristics_small_window_summary">Свёрнутое окно во время трансляции дает возможность пользоваться другими функциями и приложениями на телефоне.</string>
     <string name="screen_projection_characteristics_small_window_summary_new">Трансляция экрана и показ содержимого в плавающем окне во время использования других приложений</string>
     <string name="screen_projection_characteristics_small_window_title">Сворачивание окна</string>

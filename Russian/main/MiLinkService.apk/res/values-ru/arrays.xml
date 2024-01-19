@@ -93,22 +93,22 @@
     <string-array name="settings_search_connection_home">
         <item>Взаимосвязанность</item>
         <item>Взаимосвязанность/Взаимосвязанность</item>
-        <item>Взаимодействие устройств, Службы взаимодействия устройств, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, умное подключение, Mi Smart Hub, Взаимосвязанность, Duo, Телефон Xiaomi, Ноутбук Xiaomi, Мультиэкран, Duet, трансляция, Комбинирование приложений, передача, Перенос приложений, Зеркало, Экосистема Xiaomi, подключение устройства</item>
+        <item>Взаимодействие устройств, Службы взаимодействия устройств, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, умное подключение, Mi Smart Hub, Взаимосвязанность, Duo, телефон Xiaomi, ноутбук Xiaomi, Несколько экранов, Дуэт, трансляция, Комбинирование приложений, handoff, handoff для приложений, Повтор экрана, Экосистема Xiaomi, подключение устройства</item>
     </string-array>
     <string-array name="settings_search_connection_privacy">
         <item>Конфиденциальность</item>
         <item>Взаимосвязанность/Конфиденциальность</item>
-        <item>Конфиденциальность и Взаимосвязанность, Конфиденциальность</item>
+        <item>Конфиденциальность и взаимосвязанность, конфиденциальность</item>
     </string-array>
     <string-array name="settings_search_connection_service">
-        <item>Службы Взаимосвязанности</item>
-        <item>Взаимосвязанность/Службы Взаимосвязанности</item>
-        <item>Службы Взаимосвязанности</item>
+        <item>Взаимосвязанность Xiaomi</item>
+        <item>Взаимосвязанность/Взаимосвязанность Xiaomi</item>
+        <item>Службы взаимосвязанности Xiaomi, взаимосвязанность Xiaomi</item>
     </string-array>
     <string-array name="settings_search_relay_app">
-        <item>Перенос приложений</item>
-        <item>Взаимосвязанность/Перенос приложений</item>
-        <item>Перенос приложений, передача, перенос</item>
+        <item>Handoff для приложений</item>
+        <item>Взаимосвязанность/Handoff для приложений</item>
+        <item>Перенос приложений, Handoff, перенос</item>
     </string-array>
     <string-array name="settings_search_relay_call">
         <item>Вызовы</item>
@@ -118,12 +118,12 @@
     <string-array name="settings_search_relay_network">
         <item>Взаимодействие в сети</item>
         <item>Взаимосвязанность/Взаимодействие в сети</item>
-        <item>Взаимодействие в сети, модем, общая точка доступа</item>
+        <item>Взаимодействие в сети, режим модема, общая точка доступа</item>
     </string-array>
     <string-array name="settings_search_share_Launcher">
         <item>Рабочий стол+</item>
-        <item>Взаимосвязанность/Рабочий стол+</item>
-        <item>Рабочий стол+, Mi Smart Hub, общий доступ к экрану</item>
+        <item>Службы взаимосвязанности/Рабочий стол+</item>
+        <item>Рабочий стол+, Mi Smart Hub, дублирование экрана</item>
     </string-array>
     <string-array name="settings_search_share_clipboard">
         <item>Буфер обмена</item>
@@ -131,8 +131,8 @@
         <item>Буфер обмена</item>
     </string-array>
     <string-array name="settings_search_share_notify">
-        <item>Уведомления между устройствами</item>
+        <item>Уведомления на нескольких устройствах</item>
         <item>Взаимосвязанность/Уведомления</item>
-        <item>Уведомления между устройствами</item>
+        <item>Уведомления на нескольких устройствах</item>
     </string-array>
 </resources>

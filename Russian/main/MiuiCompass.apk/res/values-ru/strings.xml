@@ -58,7 +58,7 @@
     <string name="close">Закрыть</string>
     <string name="compass_settings">Настройки</string>
     <string name="copy">Копировать</string>
-    <string name="cta_agree_desc">Разрешите приложению подключение к интернету и предоставьте дополнительные разрешения, чтобы использовать все его функции.</string>
+    <string name="cta_agree_desc">Разрешите приложению доступ к интернету и предоставьте дополнительные разрешения, чтобы использовать все его функции.</string>
     <string name="cta_v2_app_purpose">определение направления, получение информации о координатах, атмосферном давлении, текущей высоте.</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
@@ -198,13 +198,13 @@
     <string name="month_september_shortest">Сен</string>
     <string name="more">Ещё</string>
     <string name="morning">Утро</string>
-    <string name="network_dialog_message">Приложению Компас необходимо подключение к интернету для доступа к более точным данным о высоте. Разрешить?</string>
+    <string name="network_dialog_message">Приложению Компас требуется доступ к интернету для получения более точных данных о высоте. Разрешить?</string>
     <string name="network_dialog_negative">Отмена</string>
     <string name="network_dialog_positive">Разрешить</string>
     <string name="network_dialog_title">Предоставьте разрешения</string>
     <string name="new_cta_app_purpose">Отображение направления и координат</string>
-    <string name="new_cta_app_purpose_one">Добро пожаловать в приложение Компас! С помощью этого приложения можно определять стороны света, широту и долготу, атмосферное давление и высоту. Для работы приложению необходимо подключение к интернету.</string>
-    <string name="new_cta_app_purpose_two">Добро пожаловать в приложение Компас! С помощью этого приложения можно определять стороны света, широту и долготу. Для работы приложению необходимо подключение к интернету.</string>
+    <string name="new_cta_app_purpose_one">Добро пожаловать в приложение Компас! С помощью этого приложения можно определять стороны света, широту и долготу, атмосферное давление и высоту. Для работы приложению требуется доступ к интернету.</string>
+    <string name="new_cta_app_purpose_two">Добро пожаловать в приложение Компас! С помощью этого приложения можно определять стороны света, широту и долготу. Для работы приложению требуется доступ к интернету.</string>
     <string name="new_cta_v2_app_purpose">Отображение направления, координат, атмосферного давления и текущей высоты</string>
     <string name="new_permission_camera_desc">Для предпросмотра в реальном времени</string>
     <string name="new_permission_location_desc">Для отображения координат</string>

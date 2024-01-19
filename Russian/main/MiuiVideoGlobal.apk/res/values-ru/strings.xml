@@ -520,7 +520,7 @@ ID: %s
     <string name="galleryplus_click_to_higher_definition">Нажмите дважды для предпросмотра в HD</string>
     <string name="galleryplus_copyright_unsported_audio">Невозможно воспроизвести звуковую дорожку видео из-за ограничений авторских прав</string>
     <string name="galleryplus_copyright_unsported_video">Невозможно воспроизвести видео из-за ограничений авторских прав</string>
-    <string name="galleryplus_cta_tips">Вы можете помочь нам улучшить наш сервис, зарегистрировавшись в программе улучшения качества и разрешив приложению Mi Видео подключение к интернету. Согласны?</string>
+    <string name="galleryplus_cta_tips">Вы можете помочь нам улучшить наш сервис, зарегистрировавшись в программе улучшения качества и разрешив приложению Mi Видео доступ к интернету. Согласны?</string>
     <string name="galleryplus_double_tap_to_higher_definition">Нажмите дважды для предпросмотра в HD</string>
     <string name="galleryplus_fr_unsupport_restore_speed">Неподдерживаемая частота кадров. Переключение на обычную скорость.</string>
     <string name="galleryplus_gallery_fold_tags">Скрыть теги</string>
@@ -566,7 +566,7 @@ ID: %s
     <string name="galleryplus_notification_linkvideo_title5">Транслируйте бесплатно любимые шоу</string>
     <string name="galleryplus_notification_try_now_btn">Попробовать</string>
     <string name="galleryplus_notification_type_link_video">Локальные видео</string>
-    <string name="galleryplus_online_cta">Приложению Mi Видео для нормальной работы необходимо подключение к интернету. Разрешить?</string>
+    <string name="galleryplus_online_cta">Приложению Mi Видео для нормальной работы требуется доступ к интернету. Разрешить?</string>
     <string name="galleryplus_online_cta_agree">Разрешить</string>
     <string name="galleryplus_online_cta_disagree">Выход</string>
     <string name="galleryplus_online_cta_title">Условия и положения</string>
