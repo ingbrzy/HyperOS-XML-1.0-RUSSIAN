@@ -662,9 +662,9 @@
         <item quantity="one">Удалите %d остаточное APK</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
-        <item quantity="other">%d проблем с питанием</item>
-        <item quantity="one">%d проблема с питанием</item>
-        <item quantity="few">%d проблемы с питанием</item>
+        <item quantity="other">%d причин быстрого разряда</item>
+        <item quantity="one">%d причина быстрого разряда</item>
+        <item quantity="few">%d причины быстрого разряда</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
         <item quantity="other">Можно оптимизировать %d пунктов</item>
@@ -1192,9 +1192,9 @@
         <item quantity="few">раз(а)</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d проблем</item>
-        <item quantity="one">%d проблема</item>
-        <item quantity="few">%d проблемы</item>
+        <item quantity="other">%d причин быстрого разряда</item>
+        <item quantity="one">%d причина быстрого разряда</item>
+        <item quantity="few">%d причины быстрого разряда</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d д. "</item>
@@ -1230,9 +1230,9 @@
         <item quantity="few">Устранить %d проблемы с питанием</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">Устранить %d проблем с питанием</item>
-        <item quantity="one">Устранить %d проблему с питанием</item>
-        <item quantity="few">Устранить %d проблемы с питанием</item>
+        <item quantity="other">Устранить %d причин быстрого разряда</item>
+        <item quantity="one">Устранить %d причину быстрого разряда</item>
+        <item quantity="few">Устранить %d причины быстрого разряда</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
         <item quantity="other">%d рекомендаций</item>
@@ -1415,9 +1415,9 @@
         <item quantity="few">Найдено %d проблемы с питанием, решите их</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
-        <item quantity="other">Устранено %d проблем с питанием</item>
-        <item quantity="one">Устранена %d проблема с питанием</item>
-        <item quantity="few">Устранено %d проблемы с питанием</item>
+        <item quantity="other">Устранены %d причин быстрого разряда</item>
+        <item quantity="one">Устранена %d причина быстрого разряда</item>
+        <item quantity="few">Устранены %d причины быстрого разряда</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">Сброс настроек (%d сек.)</item>

@@ -104,19 +104,18 @@
         <item quantity="one">&lt;Data>Найдено &lt;font color=#0097FF>%d&lt;/font> видео&lt;/Data></item>
     </plurals>
     <plurals name="deepclean_apk_summary">
-        <item quantity="other">Найдено %d APK, можно удалить ненужные</item>
-        <item quantity="one">Найден %d APK, можно удалить ненужные</item>
-        <item quantity="few">Найдено %d APK, можно удалить ненужные</item>
+        <item quantity="other">Можно удалить %d APK</item>
+        <item quantity="one">Можно удалить %d APK</item>
     </plurals>
     <plurals name="deepclean_app_summary">
-        <item quantity="other">Найдено %d приложений, можно удалить ненужные</item>
-        <item quantity="one">Найдено %d приложение, можно удалить ненужные</item>
-        <item quantity="few">Найдено %d приложения, можно удалить ненужные</item>
+        <item quantity="other">Можно удалить %d приложений</item>
+        <item quantity="one">Можно удалить %d приложение</item>
+        <item quantity="few">Можно удалить %d приложения</item>
     </plurals>
     <plurals name="deepclean_cache_summary">
-        <item quantity="other">Найдено %d файлов, можно удалить ненужные</item>
-        <item quantity="one">Найден %d файл, можно удалить ненужные</item>
-        <item quantity="few">Найдено %d файла, можно удалить ненужные</item>
+        <item quantity="other">Можно удалить %d файлов</item>
+        <item quantity="one">Можно удалить %d файл</item>
+        <item quantity="few">Можно удалить %d файла</item>
     </plurals>
     <plurals name="deepclean_install_info_desc1">
         <item quantity="other">Установлено %d приложений</item>
@@ -124,19 +123,17 @@
         <item quantity="few">Установлено %d приложения</item>
     </plurals>
     <plurals name="deepclean_large_summary">
-        <item quantity="other">Найдено %d файлов, можно удалить ненужные</item>
-        <item quantity="one">Найден %d файл, можно удалить ненужные</item>
-        <item quantity="few">Найдено %d файла, можно удалить ненужные</item>
+        <item quantity="other">Можно удалить %d файлов</item>
+        <item quantity="one">Можно удалить %d файл</item>
+        <item quantity="few">Можно удалить %d файла</item>
     </plurals>
     <plurals name="deepclean_similar_summary">
-        <item quantity="other">Найдено %d фото, можно удалить ненужные</item>
-        <item quantity="one">Найдено %d фото, можно удалить ненужные</item>
-        <item quantity="few">Найдено %d фото, можно удалить ненужные</item>
+        <item quantity="other">Можно удалить %d фото</item>
+        <item quantity="one">Можно удалить %d фото</item>
     </plurals>
     <plurals name="deepclean_video_summary">
-        <item quantity="other">Найдено %d видео, можно удалить ненужные</item>
-        <item quantity="one">Найдено %d видео, можно удалить ненужные</item>
-        <item quantity="few">Найдено %d видео, можно удалить ненужные</item>
+        <item quantity="other">Можно удалить %d видео</item>
+        <item quantity="one">Можно удалить %d видео</item>
     </plurals>
     <plurals name="dialog_content_delete_image_confirm">
         <item quantity="other">Удалить %d фото?</item>

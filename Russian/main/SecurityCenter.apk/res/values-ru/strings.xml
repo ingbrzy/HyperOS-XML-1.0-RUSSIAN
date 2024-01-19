@@ -1785,7 +1785,6 @@
     <string name="ew_first_start_network_title">Условия и положения</string>
     <string name="ew_get_location">Поиск</string>
     <string name="ew_global_default_signature">EEWS BMKG</string>
-    <string name="ew_global_service_scope_external_link" />
     <string name="ew_global_signature">"Информация предоставлена EEWS BMKG
 При техподдержке Xiaomi &amp; ICL"</string>
     <string name="ew_global_signature_template">"Информация предоставлена %s
@@ -3138,7 +3137,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="menu_summary_antivirus">Проверка устройства</string>
     <string name="menu_summary_app_manager">Управление приложениями</string>
     <string name="menu_summary_garbage_cleanup">Мусор не найден</string>
-    <string name="menu_summary_garbage_cleanup_ex">Освободить %s</string>
+    <string name="menu_summary_garbage_cleanup_ex">Освободите %s</string>
     <string name="menu_summary_garbage_cleanup_new">Занято %d%%</string>
     <string name="menu_summary_garbage_cleanup_new_new">Занято %s</string>
     <string name="menu_summary_networkassistants">Управление трафиком</string>
@@ -3771,9 +3770,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_main_sub_battery_text_hour_minute">Осталось: %1$s ч. %2$s мин.</string>
     <string name="pc_more_battery_feature">Дополнительные функции</string>
     <string name="pc_more_power_rank_apps">Другие приложения</string>
-    <string name="pc_night_charge_protect_summary">Автоматическая регулировка продолжительности зарядки для продления срока службы батареи</string>
+    <string name="pc_night_charge_protect_summary">Авторегулировка продолжительности зарядки для продления срока службы батареи</string>
     <string name="pc_night_charge_protect_title">Защита от перезаряда в ночное время</string>
-    <string name="pc_night_sleep_mode_summary">Автоматическое отключение некоторых функций для экономии заряда батареи при обнаружении режима сна</string>
+    <string name="pc_night_sleep_mode_summary">Автоотключение некоторых функций для экономии заряда батареи при обнаружении режима сна</string>
     <string name="pc_night_sleep_mode_title">Ночной режим</string>
     <string name="pc_no_more_remind">Не напоминать</string>
     <string name="pc_ordinary_charge_summary">Всегда разрешать зарядку до %1$s</string>
@@ -3798,7 +3797,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_search_keywords_capacity">Емкость</string>
     <string name="pc_search_keywords_property">Производительность</string>
     <string name="pc_settings_title">Батарея</string>
-    <string name="pc_smart_discharge_checkbox_summary">При использовании приложений навигации, зарядка будет автоматически прекращена по достижению заданного уровня заряда. Функция не будет работать, если включена Экономия заряда или Ультраэкономия заряда.</string>
+    <string name="pc_smart_discharge_checkbox_summary">При использовании функций навигации, зарядка будет автоматически прекращена при достижении заданного уровня заряда. Экономия заряда будет отключена.</string>
     <string name="pc_smart_discharge_checkbox_title">Автоотключение зарядки</string>
     <string name="pc_smart_discharge_drop_down_title">Настройки автоотключения</string>
     <string name="pc_smart_discharge_protect_notifi_summary">Для защиты аккумулятора при использовании приложений навигации, зарядка автоматически прекращается по достижению заданного уровня заряда</string>
@@ -4135,7 +4134,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_batteryrank_all">Общее использование</string>
     <string name="power_center_batteryrank_hardware">Устройство: %s</string>
     <string name="power_center_batteryrank_software">Программы: %s</string>
-    <string name="power_center_batteryscan_normal">Проблемы не найдены. Посмотреть результаты.</string>
+    <string name="power_center_batteryscan_normal">Всё в порядке</string>
     <string name="power_center_charge_status">Зарядка</string>
     <string name="power_center_charge_time">%1$sдо конца зарядки</string>
     <string name="power_center_consume_fast">Быстрый разряд</string>
@@ -4166,7 +4165,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_optimize_title">Рекомендации</string>
     <string name="power_center_power_save_summary_text">Увеличить автономность до %1$d ч. %2$d мин.</string>
     <string name="power_center_power_save_title_text">Экономия заряда</string>
-    <string name="power_center_problem_title">Устранение проблем</string>
+    <string name="power_center_problem_title">Быстрый разряд</string>
     <string name="power_center_reduce_dpi_summary">QHD+ сильнее расходует батарею</string>
     <string name="power_center_reduce_resolution">Уменьшить разрешение экрана</string>
     <string name="power_center_repeat">Повтор</string>
@@ -4849,10 +4848,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="qucick_replay_instrument">Использовать быстрые ответы в уведомлениях выбранных мессенджеров (например, WhatsApp, WeChat, QQ)</string>
     <string name="quick_optimize_checking">Проверка…</string>
     <string name="quick_optimize_no_fix_issue_subtitle">Автономность не увеличена</string>
-    <string name="quick_optimize_no_fix_issue_title">Оптимизация питания не выполнена</string>
-    <string name="quick_optimize_no_issue">Оптимизация питания не требуется</string>
+    <string name="quick_optimize_no_fix_issue_title">Причины быстрого разряда не устранены</string>
+    <string name="quick_optimize_no_issue">Проблемы не обнаружены</string>
     <string name="quick_optimize_no_issue_subtitle">Всё в порядке</string>
-    <string name="quick_optimize_no_issue_title">Оптимизация питания не требуется</string>
+    <string name="quick_optimize_no_issue_title">Проблемы не обнаружены</string>
     <string name="quick_optimize_sub_battery_text">Осталось около %s</string>
     <string name="quick_optimize_sub_summary_text">Добавлено %s к автономности</string>
     <string name="quick_optimize_sub_summary_with_battery_text">Добавлено %1$s, осталось около %2$s</string>
@@ -5553,7 +5552,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="storage_app_detail_qq_cleaner">QQ Cleaner</string>
     <string name="storage_app_detail_sdcard">Данные приложения</string>
     <string name="storage_app_detail_system">Размер приложения</string>
-    <string name="storage_app_detail_third_clean_size">Освободить %s</string>
+    <string name="storage_app_detail_third_clean_size">Освободите %s</string>
     <string name="storage_app_detail_total">Всего занято</string>
     <string name="storage_app_detail_uninstall_app">Удалить приложение</string>
     <string name="storage_app_detail_uninstall_dialog_message">Удаление приложения очистит все его данные.</string>
