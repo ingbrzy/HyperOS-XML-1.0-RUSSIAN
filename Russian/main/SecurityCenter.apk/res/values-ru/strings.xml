@@ -1228,7 +1228,7 @@
     <string name="connect_internet_by_mobiledata">Мобильный интернет</string>
     <string name="connect_internet_by_usbshare">Интернет по USB</string>
     <string name="connect_internet_by_wifi">Wi-Fi</string>
-    <string name="connected_device_application_flow_permission">Разрешения переноса приложений</string>
+    <string name="connected_device_application_flow_permission">Разрешения приложений handoff</string>
     <string name="connected_device_camera_collaboration_permission">Разрешения подключённой камеры</string>
     <string name="connected_device_camera_permission">Разрешения камеры</string>
     <string name="connected_device_notification_permission">Разрешения уведомлений</string>
@@ -1267,8 +1267,8 @@
     <string name="conversation_settings_top">"· Используйте панель инструментов конференц-связи во время полноэкранных аудио- и видеовызовов.
 · Перечень функций зависит от модели устройства."</string>
     <string name="conversation_sider_tips">Попробуйте новые инструменты конференц-связи для улучшения качества связи</string>
-    <string name="conversation_summary">Улучшение, транскрипция субтитров и другие функции во время аудио- и видеовызовов</string>
-    <string name="conversation_summary_new">Улучшение, субтитры и другие функции во время аудио- и видеовызовов</string>
+    <string name="conversation_summary">Функция \"Улучшение\", транскрипция в виде субтитров и другие функции во время аудио- и видеовызовов.</string>
+    <string name="conversation_summary_new">Функция \"Улучшение\", субтитры и другие функции во время аудио- и видеовызовов.</string>
     <string name="conversation_title">Инструменты конференц-связи</string>
     <string name="copy">Копировать</string>
     <string name="cpu_usage_android_system">Система Android</string>
