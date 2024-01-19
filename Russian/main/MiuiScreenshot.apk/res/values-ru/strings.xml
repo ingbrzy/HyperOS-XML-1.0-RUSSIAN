@@ -127,6 +127,10 @@
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
     <string name="loading_text_format" formatted="false">Удаление личной информации из фотографий (%d/%d)…</string>
+    <string name="long_screenshot_content_auto">Формирование скриншота…</string>
+    <string name="long_screenshot_content_loading">Подождите…</string>
+    <string name="long_screenshot_content_manual">Установите вручную конец скриншота, затем нажмите \"Готово\".</string>
+    <string name="long_screenshot_done">Готово</string>
     <string name="long_screenshot_error">Не удалось сделать скриншот. Попробуйте снова.</string>
     <string name="long_screenshot_guide_text">"Нажмите для создания
 скриншота с прокруткой"</string>
@@ -135,6 +139,7 @@
     <string name="long_screenshot_processing">Обработка…</string>
     <string name="long_screenshot_processing_description_accessibility">Обработка</string>
     <string name="long_screenshot_stop">Готово</string>
+    <string name="long_screenshot_title">Прокрутка скриншота</string>
     <string name="long_screenshot_top_msg">Создание скриншота…</string>
     <string name="long_screenshot_top_msg_description_accessibility">Создание скриншота</string>
     <string name="long_screenshot_top_msg_manual">Обрежьте скриншот и нажмите кнопку для завершения</string>

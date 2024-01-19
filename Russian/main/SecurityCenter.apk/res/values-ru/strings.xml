@@ -2667,6 +2667,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="group_clipboard">Буфер обмена</string>
     <string name="group_connect_device">Взаимосвязанность</string>
     <string name="group_file">Файлы и документы</string>
+    <string name="group_file_less_t">Доступ к файлам и медиа</string>
     <string name="group_head_data_ai_clipboard">Защита буфера обмена</string>
     <string name="group_head_data_ai_clipboard_desc">Разрешить системе управлять доступом приложений к буферу обмена</string>
     <string name="group_head_data_camera_desc">Отключите, чтобы ограничить доступ к камере для всех приложений</string>
@@ -3178,6 +3179,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="mi_sim_link_custom">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>%2$s&lt;/U>&lt;/font>"</string>
     <string name="mian_page_primary_txt">Зарубежный роуминг</string>
     <string name="mic">Микрофон</string>
+    <string name="mic_noise_reduction_mode_standard">Стандартный</string>
+    <string name="mic_noise_reduction_mode_ultimate">По выбору</string>
+    <string name="mic_noise_reduction_voiceprint_desc">Сохранять аудио только от указанного пользователя</string>
     <string name="midnight">Ночь</string>
     <string name="midrop_post_notification_contentTitle">Нужно передать файлы?</string>
     <string name="miui_blur_location">Включить для всех приложений геолокацию пониженной точности</string>
@@ -3684,6 +3688,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_battery_history_total_consumption_title">Энергопотребление</string>
     <string name="pc_battery_history_usetime_title">Активный режим</string>
     <string name="pc_battery_low_health_reminder">Пора менять батарею</string>
+    <string name="pc_button_go_to_setting">Настройки</string>
     <string name="pc_category_charge_settings">Настройки зарядки</string>
     <string name="pc_charged_auto_close_summary">Отключить, когда заряд батареи ​%1$s или полный</string>
     <string name="pc_charged_auto_close_title">Отключить после зарядки</string>
@@ -3723,6 +3728,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_going_to_exit_extreme_mode">Выход из режима гибернации</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Устройство заряжается. Режим гибернации отключён.</string>
     <string name="pc_going_to_extreme_mode">Вход в режим гибернации</string>
+    <string name="pc_handle_battery_level">Держатель</string>
     <string name="pc_have_no_battery_issue">В порядке</string>
     <string name="pc_hide_more_power_rank_apps">Скрыть</string>
     <string name="pc_hidemode_normal">Баланс</string>
@@ -3777,16 +3783,19 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_no_more_remind">Не напоминать</string>
     <string name="pc_ordinary_charge_summary">Всегда разрешать зарядку до %1$s</string>
     <string name="pc_ordinary_charge_title">Обычная зарядка</string>
-    <string name="pc_performance_mode_dialog_summary">Устройство сможет работать в течение %s в производительном режиме. Обратите внимание, что режим увеличит расход батареи и может привести к перегреву.</string>
-    <string name="pc_performance_mode_dialog_summary2">Производительность будет повышена. Это увеличит расход батареи и может привести к перегреву. Включить?</string>
+    <string name="pc_performance_mode_dialog_summary">Устройство сможет работать в течение %s в производительном режиме. Обратите внимание, в этом режиме увеличится расход заряда и возможен перегрев.</string>
+    <string name="pc_performance_mode_dialog_summary2">Производительность будет повышена. Это увеличит расход заряда и возможен перегрев. Включить?</string>
     <string name="pc_performance_mode_dialog_title">Производительный режим</string>
-    <string name="pc_performance_mode_noti_summary">Повышенный расход батареи и возможен перегрев</string>
+    <string name="pc_performance_mode_noti_summary">Повышенный расход заряда, возможен перегрев</string>
     <string name="pc_performance_mode_noti_title">Производительный режим</string>
+    <string name="pc_phone_battery_level">Телефон</string>
     <string name="pc_power_consume_check">Проверка батареи</string>
     <string name="pc_power_consume_check_ing">Проверка…</string>
+    <string name="pc_power_mode_has_performance">Производительный режим включён</string>
     <string name="pc_power_save_settings_new">Настройки экономии заряда</string>
     <string name="pc_remind_close_cover_to_charge_summary">Сложите устройство для более быстрой и стабильной зарядки</string>
     <string name="pc_remind_close_cover_to_charge_title">Сложите для зарядки</string>
+    <string name="pc_reminder_always_protect_summary">Ограничение зарядки для продления срока службы батареи</string>
     <string name="pc_save_charge">Зарядка</string>
     <string name="pc_save_other_setting">Другие настройки</string>
     <string name="pc_save_power">Экономия заряда</string>
@@ -3816,6 +3825,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_wait_device_cools_down">Дождитесь, когда устройство остынет, чтобы использовать эту функцию</string>
     <string name="pc_wireless_charge_adjust_position_summary">Поместите на беспроводное зарядное устройство</string>
     <string name="pc_wireless_charge_adjust_position_title">Быстрая зарядка</string>
+    <string name="pc_wireless_charging_special_stand_summary1">Установите устройство на комплектную подставку беспроводного зарядного устройства</string>
+    <string name="pc_wireless_charging_special_stand_summary2">Установите устройство на комплектную подставку беспроводного зарядного устройства для лучшей производительности зярядки</string>
+    <string name="pc_wireless_charging_special_stand_title">Используйте комплектную зарядную подставку</string>
+    <string name="pc_wireless_handle_connected">Устройство подключено</string>
+    <string name="pc_wireless_handle_title">Беспроводной держатель камеры</string>
     <string name="pc_work_in_save_mode">Экономия заряда</string>
     <string name="pc_work_in_super_save_mode">Ультраэкономия заряда</string>
     <string name="pc_xiaoai_create_auto_task">Новая задача из Mi AI</string>
@@ -3881,6 +3895,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_group_camera">Это разрешение позволяет приложениям использовать камеру для фото- и видеосъемки.</string>
     <string name="permission_group_contact">Это разрешение позволяет приложениям получать доступ к контактам, просматривать или редактировать их.</string>
     <string name="permission_group_file">Это разрешение позволяет приложениям получать доступ ко всем файлам на устройстве.</string>
+    <string name="permission_group_file_less_t">Это разрешение позволяет приложениям получать доступ к фото, видео, аудио и другим файлам на устройстве</string>
     <string name="permission_group_image_video">Это разрешение позволяет приложениям получать доступ к фото и видео на устройстве.</string>
     <string name="permission_group_location">Это разрешение позволяет приложениям получать геопозицию с помощью сетей или спутников.</string>
     <string name="permission_group_microphone">Это разрешение позволяет приложениям использовать микрофон для записи аудио.</string>
@@ -4256,6 +4271,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_main_battery_last_hour_minute">Заряда хватит на %1$s ч. %2$s мин.</string>
     <string name="power_main_battery_last_hour_minute_screen_on">Осталось %1$s %2$s экранного времени</string>
     <string name="power_main_open_last_hour_minute_screen_on">Включите, чтобы добавить %1$s %2$s экранного времени</string>
+    <string name="power_ntc_dialog_btn_finish">Понятно</string>
+    <string name="power_ntc_dialog_msg">Отключите зарядное устройство. Очистите и высушите порт для зарядки, прежде чем использовать его снова.</string>
+    <string name="power_ntc_dialog_title">Обнаружен инородный предмет или жидкость</string>
     <string name="power_off_warning_button_ok">Понятно</string>
     <string name="power_off_warning_message">Батарея разряжена. Устройство выключится через %d сек. Подключите зарядное устройство.</string>
     <string name="power_off_warning_notification_title">Устройство скоро выключится</string>
@@ -4433,6 +4451,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_manage_apps_location_information">Настройка использования геолокации</string>
     <string name="pp_manage_track">Мониторинг трекеров</string>
     <string name="pp_manage_track_summary">Обнаружение и отключение трекеров, встроенных в приложения. Трекеры могут передавать ваши персональные идентификаторы, получая доступ к данным во внутренней памяти, или использовать общие SDK для отслеживания вашей активности.</string>
+    <string name="pp_none_read_clipboard_item">Не уведомлять</string>
     <string name="pp_one_app_two_use">Несколько аккаунтов</string>
     <string name="pp_one_phone_two_space">Одно устройство как два</string>
     <string name="pp_only_allow_permission_during_this_run">Однократное разрешение</string>
@@ -4464,6 +4483,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_private_photo_album_detail">Шифрование и защита с помощью пароля конфиденциальности</string>
     <string name="pp_prohibit_use_camera_in_background">Запрет использования камеры в фоновом режиме</string>
     <string name="pp_prohibit_use_camera_in_background_detail">По умолчанию приложениям недоступно использование камеры в фоновом режиме</string>
+    <string name="pp_protect_read_clipboard_item">Защитить</string>
     <string name="pp_read_phone_info_summary">Доступ к информации о SIM-карте</string>
     <string name="pp_record_msg">Запись звука</string>
     <string name="pp_safe_box">Личное пространство</string>
@@ -4478,6 +4498,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_special_permission_settings">Специальные разрешения</string>
     <string name="pp_special_permission_settings_detail">Контроль использования специальных разрешений</string>
     <string name="pp_storage_msg">Память устройства</string>
+    <string name="pp_toast_read_clipboard">Уведомление о доступе приложений к буферу обмена</string>
+    <string name="pp_toast_read_clipboard_item">Уведомление</string>
     <string name="pp_understanding_privacy">Действия</string>
     <string name="pp_virtual_identity_manager">Виртуальный ID</string>
     <string name="pp_virtual_identity_summary">Вместо реального идентификатора приложениям будет предоставлен виртуальный ID (OAID). Это защитит конфиденциальность и позволит контролировать отслеживание приложениями ваших действий и предпочтений.</string>
@@ -4763,6 +4785,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_risk_result_protection">Защита приватности</string>
     <string name="privacy_risk_result_screen_fuzzy">Размытие миниатюр</string>
     <string name="privacy_risk_result_screen_fuzzy_msg">Размытие миниатюр конфиденциальных приложений в Недавних</string>
+    <string name="privacy_risk_result_screen_shield_msg">Приложения с конфиденциальной личной информацией будут отображаться в Недавних в виде размытых миниатюр</string>
     <string name="privacy_risk_result_set_btn">Настройки</string>
     <string name="privacy_risk_result_success_empty_msg">Все хорошо!</string>
     <string name="privacy_risk_result_success_msg">Все проблемы исправлены!</string>
@@ -5720,6 +5743,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="summary_usb">Препятствуйте проникновению вирусов через USB</string>
     <string name="summary_virus">Удаление вирусов для безопасности устройства</string>
     <string name="summary_virus_cloudscan">Загружать названия и данные приложений на сервер и проверять на наличие вирусов</string>
+    <string name="summary_virus_scan_model">Устранять эти риски безопасности незамедлительно</string>
     <string name="summary_virus_update">Получайте обновления сигнатур автоматически</string>
     <string name="summary_xiaomi_roaming">0.01 юаня за 1 МБ мобильного интернета в роуминге.</string>
     <string name="sunday">Воскресенье</string>
@@ -6312,6 +6336,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="vb_movie_power_hint">"Режим \"Театр\" обеспечивает захватывающие впечатления во время просмотра.
 Устройство может сильнее нагреваться и расходовать заряд."</string>
     <string name="vb_movie_subtitle">Требуется высокая производительность</string>
+    <string name="vb_mv_style_close_toast">Стиль отключен</string>
     <string name="vb_power_performance_mode_conflict_toast">Функция недоступна в производительном режиме</string>
     <string name="vb_power_save_mode_conflict_toast">Функция недоступна при включенной экономии заряда</string>
     <string name="vb_quick_func_auto_bgm">Распознавание фоновой музыки</string>
@@ -6385,6 +6410,7 @@ Xiaomi не обещает и не гарантирует точность, до
 Включение функции приведет к отключению других."</string>
     <string name="vb_video_super_division_tips">"Не хватает четкости?
 Попробуйте увеличить разрешение!"</string>
+    <string name="vb_vison_dynamic_enhance_close_toast">Расширанная анимация отключена.</string>
     <string name="vb_voice_adjust">Режим \"Театр\"</string>
     <string name="verify_shut_down_password_content">Требовать ввода пароля, если устройство выключено в заблокированном состоянии</string>
     <string name="verify_shut_down_password_title">Подтверждение выключения</string>

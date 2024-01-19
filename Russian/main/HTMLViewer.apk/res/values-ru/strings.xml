@@ -165,6 +165,8 @@
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="search_menu_title">Поиск</string>
+    <string name="security_for_pad">Безопасность</string>
+    <string name="security_for_phone">Безопасность</string>
     <string name="send">Отправить</string>
     <string name="settings_ad_loading">Подождите…</string>
     <string name="settings_ad_loading_unavailable">Не удалось загрузить данные.</string>

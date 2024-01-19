@@ -1293,6 +1293,10 @@
         <item quantity="other">Включите, чтобы добавить %s мин. экранного времени</item>
         <item quantity="one">Включите, чтобы добавить %s мин. экранного времени</item>
     </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">Понятно (%d)</item>
+        <item quantity="one">Понятно (%d)</item>
+    </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">Понятно (%d сек.)</item>
         <item quantity="one">Понятно (%d сек.)</item>
@@ -1547,6 +1551,11 @@
         <item quantity="other">Удалено %d вирусов</item>
         <item quantity="one">Удалён %d вирус</item>
         <item quantity="few">Удалено %d вируса</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d вирусов или небезопасных приложений</item>
+        <item quantity="one">%d вирус или небезопасное приложение</item>
+        <item quantity="few">%d вируса или небезопасных приложения</item>
     </plurals>
     <plurals name="traffic_setting_app_count">
         <item quantity="other">%d</item>

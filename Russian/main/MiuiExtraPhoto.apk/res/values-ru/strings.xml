@@ -290,6 +290,7 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="talkback_auto_crop_selection_hint">%1$s. %2$s.</string>
     <string name="talkback_ratio_16_9">Шестнадцать на девять</string>
     <string name="talkback_ratio_1_1">Один к одному</string>
     <string name="talkback_ratio_3_4">Три на четыре</string>
