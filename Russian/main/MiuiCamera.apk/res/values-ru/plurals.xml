@@ -121,11 +121,20 @@
         <item quantity="one">Удалить %1$d черновик?</item>
         <item quantity="few">Удалить %1$d черновика?</item>
     </plurals>
+    <plurals name="manual_picture_style_desc_custom_add_max">
+        <item quantity="other">Можно добавить до %d пресетов</item>
+        <item quantity="one">Можно добавить до %d пресета</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">Выбрано %d объектов</item>
         <item quantity="one">Выбран %d объект</item>
         <item quantity="few">Выбрано %d объекта</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новых уведомлений</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d минут назад</item>
         <item quantity="one">1 минуту назад</item>

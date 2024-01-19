@@ -540,6 +540,7 @@
     <string name="toast_enter_silent_mode">Запись. Режим \"Без звука\" включён.</string>
     <string name="toast_exit_silent_mode">Запись завершена. Режим \"Без звука\" отключён.</string>
     <string name="toast_max_record_time">Приложение \"%1$s\" поддерживает максимальное время записи: %2$s</string>
+    <string name="toast_stop">Запись остановлена</string>
     <string name="toast_uninstall_fileexplorer">Проводник не установлен</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>

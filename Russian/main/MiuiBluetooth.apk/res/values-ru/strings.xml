@@ -164,6 +164,7 @@
     <string name="fast_connect_device_headset_reset">Нажмите и удерживайте кнопку на устройстве</string>
     <string name="fast_connect_device_message_audio_share">Транслировать аудио на эту пару наушников</string>
     <string name="fast_connect_device_replace_current_device">Переключить устройство</string>
+    <string name="fast_connect_device_reset_audio_share">Нажмите и удерживайте 2 секунды для сброса</string>
     <string name="fast_connect_device_start_audio_share">ОК</string>
     <string name="fast_connect_device_title_audio_share">Слушать через %1$s</string>
     <string name="fast_connect_device_title_audio_share_fail">Не удалось подключиться к %1$s. Повторите попытку.</string>

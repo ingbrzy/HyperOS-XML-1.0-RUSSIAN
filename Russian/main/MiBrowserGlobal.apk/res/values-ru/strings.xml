@@ -1580,7 +1580,7 @@ ID:%s
     <string name="novel_continue_read_popup">Читать</string>
     <string name="novel_tab_popup">Смотрите новейшие книги здесь</string>
     <string name="novel_tab_popup_ok">ОК</string>
-    <string name="occupy">Занято %d%</string>
+    <string name="occupy">Занято %s</string>
     <string name="offline_notification_text">Нажмите для просмотра рекламы, сохранённой в автономном режиме</string>
     <string name="offline_notification_title">Просмотр рекламы</string>
     <string name="offline_opt_in_confirm">ОК</string>

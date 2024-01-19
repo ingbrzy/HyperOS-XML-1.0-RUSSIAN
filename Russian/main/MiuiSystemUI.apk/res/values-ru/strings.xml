@@ -1408,6 +1408,8 @@ mm"</string>
     <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Выберите &lt;font color=#a5220e&gt;\"Wipe &amp;amp; Reset\"&lt;/font&gt; и дождитесь перезагрузки устройства.</Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Как стереть данные?</string>
     <string name="phone_locked_string">Устройство заблокировано</string>
+    <string name="phone_locked_string_owner_user">Слишком много неудачных попыток ввести пароль первого пространства. Устройство заблокировано.</string>
+    <string name="phone_locked_string_second_user">Слишком много неудачных попыток ввести пароль второго пространства. Устройство заблокировано.</string>
     <string name="pip_close">Закрыть режим \"Картинка в картинке\"</string>
     <string name="pip_collapse">Свернуть</string>
     <string name="pip_edu_text">Нажмите дважды <annotation icon="home_icon">HOME</annotation> для управления</string>

@@ -787,6 +787,7 @@
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">ч.</string>
     <string name="time_picker_label_minute">мин.</string>
+    <string name="to_view_alarm_content">Нажмите для просмотра</string>
     <string name="toast_cancel_to_insert_image">Не удалось добавить изображение</string>
     <string name="toast_excerpt_end">Выдержка создана</string>
     <string name="toast_excerpt_no_content">Ничего нет</string>
