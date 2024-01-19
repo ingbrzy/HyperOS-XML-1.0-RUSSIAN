@@ -484,7 +484,7 @@
     <string name="save_not_backup_reason_cloud_space_not_enough_dialog_message">Хотите оформить подписку на облачные сервисы Xiaomi, чтобы получить больше места для хранения в облаке и другие льготы?</string>
     <string name="save_not_backup_reason_cloud_space_not_enough_dialog_title">Недостаточно места</string>
     <string name="save_not_backup_reason_disk_space_not_enough">Недостаточно места на устройстве</string>
-    <string name="save_not_backup_reason_disk_space_not_enough_dialog_message">Для создания резервной копии требуется не менее % хранилища. Освободите место на устройстве и повторите попытку.</string>
+    <string name="save_not_backup_reason_disk_space_not_enough_dialog_message">Для создания резервной копии требуется не менее %s хранилища. Освободите место на устройстве и повторите попытку.</string>
     <string name="save_not_backup_reason_disk_space_not_enough_dialog_title">Недостаточно места на устройстве</string>
     <string name="save_not_backup_reason_get_installed_apps_denied_message">Предоставьте необходимые разрешения для этой функции. Когда появится запрос, выберите \"Разрешать всегда\". Открыть Настройки?</string>
     <string name="save_not_backup_reason_network_error">Ошибка сети</string>
