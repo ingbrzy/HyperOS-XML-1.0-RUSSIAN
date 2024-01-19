@@ -1959,7 +1959,7 @@
     <string name="sms_control_yes">Разрешить</string>
     <string name="sms_premium_short_code_details">С мобильного счёта будут списаны средства</string>
     <string name="sms_short_code_confirm_allow">Отправить</string>
-    <string name="sms_short_code_confirm_always_allow">Всегда разрешать</string>
+    <string name="sms_short_code_confirm_always_allow">Разрешать всегда</string>
     <string name="sms_short_code_confirm_deny">Отмена</string>
     <string name="sms_short_code_confirm_message">Из приложения %1$s будет отправлено сообщение на номер %2$s.</string>
     <string name="sms_short_code_confirm_never_allow">Не разрешать</string>

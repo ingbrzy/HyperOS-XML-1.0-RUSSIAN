@@ -690,7 +690,7 @@
     <string name="joox_download_tab_title">JOOX</string>
     <string name="joox_download_title">Загрузки JOOX</string>
     <string name="joox_privacy_desc">Политика конфиденциальности JOOX (необязательное)</string>
-    <string name="joox_privacy_tips_content">Перед использованием онлайн-сервисов прочитайте и примите &lt;a href="/link/click"&gt;Политику конфиденциальности JOOX&lt;/a&gt;.</string>
+    <string name="joox_privacy_tips_content">Перед использованием онлайн-сервисов прочтите и примите &lt;a href="/link/click"&gt;Политику конфиденциальности JOOX&lt;/a&gt;.</string>
     <string name="joox_privacy_tips_title">Политика конфиденциальности JOOX</string>
     <string name="joox_recommend_artist_title">Рекомендуемые исполнители</string>
     <string name="joox_recommend_playlist_title">Рекомендуемые плейлисты</string>

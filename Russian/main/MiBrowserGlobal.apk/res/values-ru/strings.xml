@@ -1036,7 +1036,7 @@ ID:%s
     <string name="intercept_panel_item_action_voice">Воспроизведение звука</string>
     <string name="intercept_panel_item_allow">Разрешено</string>
     <string name="intercept_panel_item_btn">Разрешить один раз</string>
-    <string name="intercept_panel_item_status_allow">Всегда разрешать</string>
+    <string name="intercept_panel_item_status_allow">Разрешать всегда</string>
     <string name="intercept_panel_item_status_ask_allow">Разрешено в этот раз</string>
     <string name="intercept_panel_item_status_ask_disallow">Запрещено в этот раз</string>
     <string name="intercept_panel_item_status_disallow">Запрещать по умолчанию</string>
@@ -1955,7 +1955,7 @@ ID:%s
     <string name="privacy_improve_performance">Программа улучшения качества</string>
     <string name="privacy_improve_performance_desc">Разрешить Xiaomi собирать и анализировать пользовательские данные для улучшения продуктов и сервисов</string>
     <string name="privacy_message">Перед использованием Браузера примите &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Условия использования&lt;/a>&lt;/font> и &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Политику конфиденциальности&lt;/a>&lt;/font>.</string>
-    <string name="privacy_message_main_tips_first">Для работы базовых сервисов, приложению Браузер необходимо разрешение на сбор некоторой личной информации. Как обрабатывается собранная информация, можно узнать в нашей Политике конфиденциальности. Согласие с Политикой конфиденциальности Браузера можно отзвать в любое время в Настройки > Приватность и безопасность. Перед использованием Браузера прочтите и примите наше Пользовательское соглашение и Политику конфиденциальности.</string>
+    <string name="privacy_message_main_tips_first">Для работы базовых сервисов, приложению Браузер необходимо разрешение на сбор некоторой личной информации. Как обрабатывается собранная информация, можно узнать в нашей Политике конфиденциальности. Согласие с Политикой конфиденциальности Браузера можно отозвать в любое время в Настройки > Приватность и безопасность. Перед использованием Браузера прочтите и примите наше Пользовательское соглашение и Политику конфиденциальности.</string>
     <string name="privacy_message_main_tips_second">Для поиска приложений на этом устройстве, Браузеру необходим доступ к информации об установленных приложениях. Информация не будет никуда передаваться.</string>
     <string name="privacy_message_welcome">Добро пожаловать в Браузер! Приложение предоставляет следующие возможности:</string>
     <string name="privacy_message_welcome_tip_first">- Быстрый и безопасный просмотр веб-страниц</string>

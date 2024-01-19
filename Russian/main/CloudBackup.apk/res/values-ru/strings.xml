@@ -214,7 +214,7 @@
     <string name="dialog_cloud_space_not_enough">Для создания резервной копии требуется %1$s свободного места в облачном хранилище. Обновите тарифный план.</string>
     <string name="dialog_content_cancel_backup">В случае отмены резервного копирования, уже загруженные данные будут потеряны. Отменить?</string>
     <string name="dialog_content_cancel_restore">В случае отмены восстановления, уже восстановленные данные будут сохранены. Отменить?</string>
-    <string name="dialog_get_installed_apps_consent_message">Для автоматического резервного копирования разрешите в Настройках приложению доступ к списку приложений на устройстве и выберите \"Всегда разрешать\"</string>
+    <string name="dialog_get_installed_apps_consent_message">Для автоматического резервного копирования разрешите в Настройках приложению доступ к списку приложений на устройстве и выберите \"Разрешать всегда\"</string>
     <string name="dialog_get_installed_apps_consent_title">Предоставьте разрешения</string>
     <string name="dialog_msg_overwrite_backup">Локальная резервная копия отличается от копии в Xiaomi Cloud. Если вы продолжите, текущая копия перезапишет предыдущую.</string>
     <string name="dialog_msg_restore_require_wlan">Для восстановления из резервной копии требуется подключение к Wi-Fi.</string>
@@ -486,7 +486,7 @@
     <string name="save_not_backup_reason_disk_space_not_enough">Недостаточно места на устройстве</string>
     <string name="save_not_backup_reason_disk_space_not_enough_dialog_message">Для создания резервной копии требуется не менее % хранилища. Освободите место на устройстве и повторите попытку.</string>
     <string name="save_not_backup_reason_disk_space_not_enough_dialog_title">Недостаточно места на устройстве</string>
-    <string name="save_not_backup_reason_get_installed_apps_denied_message">Предоставьте необходимые разрешения для этой функции. Когда появится запрос, выберите \"Всегда разрешать\". Открыть Настройки?</string>
+    <string name="save_not_backup_reason_get_installed_apps_denied_message">Предоставьте необходимые разрешения для этой функции. Когда появится запрос, выберите \"Разрешать всегда\". Открыть Настройки?</string>
     <string name="save_not_backup_reason_network_error">Ошибка сети</string>
     <string name="save_not_backup_reason_no_server_response">Сервер занят. Попробуйте выполнить резервное копирование вручную.</string>
     <string name="save_not_backup_reason_override">Для этих устройств требуется резервное копирование вручную</string>
@@ -511,7 +511,7 @@
     <string name="session_failed_disk_no_space_restore_detail">Для восстановления требуется не менее %s</string>
     <string name="session_failed_disk_no_space_title">Недостаточно места. Очистите хранилище и повторите попытку.</string>
     <string name="session_failed_dist_no_space_btn_text">Очистка</string>
-    <string name="session_failed_get_installed_apps_denied_detail">Для автоматического резервного копирования разрешите в Настройках приложению доступ к списку приложений на устройстве и выберите \"Всегда разрешать\"</string>
+    <string name="session_failed_get_installed_apps_denied_detail">Для автоматического резервного копирования разрешите в Настройках приложению доступ к списку приложений на устройстве и выберите \"Разрешать всегда\"</string>
     <string name="session_failed_get_installed_apps_denied_title">Предоставьте разрешения</string>
     <string name="session_failed_no_server_response_title">Не удалось подключиться к серверу</string>
     <string name="session_failed_override_detail">Локальное резервное копирование отличается от резервного копирования в Xiaomi Cloud. Текущая резервная копия перезапишет предыдущую. Продолжить?</string>

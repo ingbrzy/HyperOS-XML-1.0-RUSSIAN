@@ -931,7 +931,7 @@
     <string name="permission_calendar_subtitle">Для синхронизации мероприятий из электронной почты с календарем</string>
     <string name="permission_calendar_title">Доступ к мероприятиям календаря</string>
     <string name="permission_des_calendar">Для синхронизации мероприятий календаря</string>
-    <string name="permission_des_contact">Для синхронизации контактов электронной почты с контактами на устройстве. Выберите \"Всегда разрешать\", чтобы избежать проблем с синхронизацией.</string>
+    <string name="permission_des_contact">Для синхронизации контактов электронной почты с контактами на устройстве. Выберите \"Разрешать всегда\", чтобы избежать проблем с синхронизацией.</string>
     <string name="permission_des_external_storage">Для создания новых электронных писем, сохранения и добавления вложений</string>
     <string name="permission_get_accounts_subtitle">Для входа в систему и управления учётными записями системы</string>
     <string name="permission_phone_status_subtitle">Для идентификации различных устройств</string>

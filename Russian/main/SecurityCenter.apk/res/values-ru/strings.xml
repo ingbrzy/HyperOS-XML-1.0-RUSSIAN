@@ -525,7 +525,7 @@
     <string name="app_predict_privacy_content">Этот сервис использует алгоритмы, действующие в рамках механизмов защиты приватности и изучающие использование приложений на устройстве. Это позволяет давать рекомендации по приложениям, которые, скорее всего, нужны вам в данный момент.</string>
     <string name="app_predict_privacy_privacy_policy_text">Политику конфиденциальности</string>
     <string name="app_predict_privacy_title">Рекомендации по приложениям</string>
-    <string name="app_predict_privacy_user_agreement_privacy_policy_text">Прежде чем продолжить, прочитайте и примите %1$s и %2$s.</string>
+    <string name="app_predict_privacy_user_agreement_privacy_policy_text">Прежде чем продолжить, прочтите и примите %1$s и %2$s.</string>
     <string name="app_predict_privacy_user_agreement_text">Пользовательское соглашение</string>
     <string name="app_predict_search_btn_cancel_text">Отмена</string>
     <string name="app_predict_search_empty">Приложения не найдены</string>

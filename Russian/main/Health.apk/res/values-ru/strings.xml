@@ -789,7 +789,7 @@ ID:%s
     <string name="lock_show_dialog_title">Внимание</string>
     <string name="lock_show_solve_description">Для включения доступа к мед. паспорту экстренней помощи на экране блокировки, разрешите приложению Здоровье отображение на экране блокировки</string>
     <string name="lock_show_solve_go">Настройки</string>
-    <string name="lock_show_solve_path">Нажмите \"Настройки\" ниже, выберите \"Доступ на экране блокировки\", затем \"Всегда разрешать\".</string>
+    <string name="lock_show_solve_path">Нажмите \"Настройки\" ниже, выберите \"Доступ на экране блокировки\", затем \"Разрешать всегда\".</string>
     <string name="lock_show_solve_title">Доступ на экран блокировки</string>
     <string name="lock_support_description">Мед. паспорт экстренной помощи можно посмотреть на экране блокировки, нажав \"SOS\", затем \"Мед. паспорт\"</string>
     <string name="lock_support_description2">Не можете найти мед. паспорт на экране блокировки?</string>

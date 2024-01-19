@@ -116,7 +116,7 @@
     <string name="car_card_warm_default_none">-</string>
     <string name="car_crad_air_control_text">Климат-контроль</string>
     <string name="car_seat_can_not_use">Недоступно</string>
-    <string name="cast_auth_count_down">Введите код  с \"%1$s\" для начала трансляции (%2$d сек.)</string>
+    <string name="cast_auth_count_down">Введите код с \"%1$s\" для начала трансляции (%2$d сек.)</string>
     <string name="cast_auth_title">Ввод кода</string>
     <string name="cast_image_des">Руководство</string>
     <string name="casting_tips">Трансляция…</string>
@@ -202,10 +202,10 @@
     <string name="circulate_controlphone_title">Управление устройством</string>
     <string name="circulate_cta_agree">Принимаю</string>
     <string name="circulate_cta_app_name">Взаимосвязанность Xiaomi</string>
-    <string name="circulate_cta_desc_lite_phone">Службы Взаимосвязанности Xiaomi позволяют вашим устройствам взаимодействовать друг с другом по беспроводной сети. Для нормальной работы служб требуется доступ к интернету, а также следующие разрешения:</string>
-    <string name="circulate_cta_desc_phone">Добро пожаловать в Взаимосвязанность Xiaomi! Это приложение можно использовать для трансляции содержимого экрана, воспроизведения мультимедиа на разных устройствах, для использования Mi Smart Play, MIUI+ и обмена между приложениями. Для нормальной работы приложению требуется доступ к интернету, а также следующие разрешения:</string>
+    <string name="circulate_cta_desc_lite_phone">Службы взаимосвязанности Xiaomi позволяют вашим устройствам взаимодействовать друг с другом по беспроводной сети. Для нормальной работы служб требуются доступ к интернету и следующие разрешения:</string>
+    <string name="circulate_cta_desc_phone">Службы взаимосвязанности Xiaomi позволяют вашим устройствам взаимодействовать друг с другом по беспроводной сети. Для нормальной работы служб требуются доступ к интернету и следующие разрешения:</string>
     <string name="circulate_cta_exit">Выход</string>
-    <string name="circulate_cta_premission_bluetooth_subtitle">Для подключения устройств и передачи данных между ними</string>
+    <string name="circulate_cta_premission_bluetooth_subtitle">Для подключения устройств и передачи данных между ними по Bluetooth</string>
     <string name="circulate_cta_premission_get_installed_apps_subtitle">Для доступа к списку приложений на мобильном устройстве и зеркалирования экрана на ПК</string>
     <string name="circulate_cta_premission_mac_address_subtitle">Для поиска устройств поблизости</string>
     <string name="circulate_cta_premission_obtain_information_subtitle">Во время записи или трансляции служба, предоставляющая эту функцию, может захватывать любую конфиденциальную информацию (аудиозаписи, пароли, платежные данные, фото или сообщения), которая отображается на вашем экране или воспроизводится с вашего устройства</string>
@@ -213,10 +213,10 @@
     <string name="circulate_cta_premission_sound_subtitle">Для записи звука во время трансляции и зеркалирования экрана</string>
     <string name="circulate_cta_premission_sound_title">Запись звука</string>
     <string name="circulate_cta_premission_storage_pad_title">Доступ к файлам в хранилище</string>
-    <string name="circulate_cta_premission_storage_subtitle">Для отправки и получения файлов</string>
+    <string name="circulate_cta_premission_storage_subtitle">Для трансляции и передачи контента с этого устройства</string>
     <string name="circulate_cta_premission_storage_title">Доступ к хранилищу</string>
-    <string name="circulate_cta_premission_transferring_data_subtitle">Для передачи данных между подключенными устройствами</string>
-    <string name="circulate_cta_premission_wlan_subtitle_china">Для передачи данных и подключения устройств через Wi-Fi</string>
+    <string name="circulate_cta_premission_transferring_data_subtitle">Для передачи данных между подключёнными устройствами</string>
+    <string name="circulate_cta_premission_wlan_subtitle_china">Для подключения устройств через Wi-Fi и передачи данных</string>
     <string name="circulate_cta_premission_wlan_title">Включение и выключение Wi-Fi</string>
     <string name="circulate_cta_user_agreement">Прежде чем продолжить, прочтите и примите наши &lt;txt href=\"%1$s\">Пользовательское соглашение&lt;/txt> и &lt;txt href=\"%2$s\">Политику конфиденциальности&lt;/txt>.</string>
     <string name="circulate_device_type_name_mijia">Устройства \"умного\" дома</string>
@@ -404,9 +404,9 @@
     <string name="connect_settings_withdraw_consent">Отзыв согласия</string>
     <string name="connection_failed">Не удалось подключить камеру</string>
     <string name="console_guide_btn_got_it">Понятно</string>
-    <string name="console_guide_subtitle_hang_up">Можно продолжать трансляцию когда экран устройства отключен. Эта функция поможет снизить расход заряда.</string>
+    <string name="console_guide_subtitle_hang_up">Можно продолжать трансляцию, когда экран устройства отключен. Эта функция поможет снизить расход заряда.</string>
     <string name="console_guide_subtitle_private">Не показывать всплывающие уведомления, входящие вызовы и другие личные объекты на внешнем мониторе</string>
-    <string name="console_guide_subtitle_small_window">Можно свернуть транслируемое окно, чтобы использовать  другие приложения</string>
+    <string name="console_guide_subtitle_small_window">Можно свернуть транслируемое окно, чтобы использовать другие приложения</string>
     <string name="controller_auth_cancel">Отмена</string>
     <string name="controller_auth_title">Проверка дистанционного управления</string>
     <string name="copy">Копировать</string>
@@ -529,7 +529,7 @@
     <string name="global_privacy_negative">Отмена</string>
     <string name="global_privacy_positive">Принимаю</string>
     <string name="global_privacy_screencast">Во время записи или трансляции, сервису будет доступна любая конфиденциальная информация, отображаемая на экране или воспроизводимая с устройства, включая пароли, платежные данные, аудиозаписи, фото и сообщения.</string>
-    <string name="global_privacy_tip"><Data>Для обеспечения основных сервисов и оптимизации трансляции, разрешите сбор некоторой личной информации. Как мы обрабатываем собранную информацию, можно узнать в нашей &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>. Согласие всегда можно отзвать в настройках.</Data></string>
+    <string name="global_privacy_tip"><Data>Для обеспечения основных сервисов и оптимизации трансляции, разрешите сбор некоторой личной информации. Как мы обрабатываем собранную информацию, можно узнать в нашей &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>. Согласие всегда можно отозвать в настройках.</Data></string>
     <string name="hang_up">Трансляция с выключенным экраном</string>
     <string name="hang_up_alert_dialog_content">При выключении экрана трансляция будет продолжаться. Чтобы включить экран, нажмите кнопку питания.</string>
     <string name="hang_up_alert_dialog_neg">Отмена</string>
@@ -550,7 +550,7 @@
 %2$d. Некоторые телевизоры Xiaomi или других брендов не поддерживают smart screening, в этом случае необходимо подключить телевизор к телефону в той же самой беспроводной сети."</string>
     <string name="help_page_text_06_global">"%1$d. Mi TV, Mi Box и Mi Projector:
 Для лучшего эффекта подключите мобильное устройство и внешний монитор к одной сети Wi-Fi. Если они подключены к разным сетям, может потребоваться больше времени, чтобы найти внешний монитор и подключиться.
-Примечание: cтарые Mi TV могут не поддерживать трансляцию в разных сетях.
+Примечание: старые Mi TV могут не поддерживать трансляцию в разных сетях.
 %2$d. Если вы используете телевизоры, телевизионные приставки или проекторы других брендов, подключите устройство и внешний монитор к одной сети Wi-Fi.
 Если два устройства не могут быть подключены к одной сети, включите Miracast на внешнем мониторе. Названия функции Miracast может отличаться."</string>
     <string name="help_page_text_06_new_1">Телевизоры, ТВ-приставки и проекторы Xiaomi:</string>
@@ -874,7 +874,7 @@
     <string name="notification_rc_title">Ассистент Xiaomi TV</string>
     <string name="notification_show_more">Доп. функции</string>
     <string name="notify">Трансляция работает в фоновом режиме</string>
-    <string name="notify_content">работает  в фоне</string>
+    <string name="notify_content">работает в фоне</string>
     <string name="notify_str">DistributedHardwareService</string>
     <string name="notify_wifiap_dialog_msg">Чтобы отсканировать код и настроить сеть, сначала отключите точку доступа.</string>
     <string name="notify_wifiap_dialog_negative">Понятно</string>
@@ -886,7 +886,7 @@
     <string name="onehop_mirror_guide_message_text_2">Выберите фото, видео и другие файлы из Галереи или Проводника для передачи на ПК</string>
     <string name="onehop_mirror_guide_message_title">Mi Smart Hub</string>
     <string name="open_game_accelerate">Включить Ускорение игр</string>
-    <string name="p2p_location_des">Для подключения  устройства к внешним мониторам</string>
+    <string name="p2p_location_des">Для подключения устройства к внешним мониторам</string>
     <string name="paipai_connect_btn_text">Готово</string>
     <string name="paipai_connect_tv1_text">Подключение к устройству</string>
     <string name="paipai_connect_tv2_text">Передача данных</string>
@@ -937,11 +937,11 @@
     <string name="privacy_positive">Согласиться</string>
     <string name="privacy_read_statement">Сначала ознакомьтесь и согласитесь с Условиями использования</string>
     <string name="privacy_revoke_agree_detail_content">"%1$d. Прежде чем продолжить, убедитесь, что у вас есть право отозвать согласие.
-%2$d. После отзыва согласия уже собранная и сохраненная личная информация будет удалена в течение определенного срока в соответствии с действующими законами и нормами, если не требуется иное. Поскольку службы взаимодействия предоставляются на основе сбора необходимой персональной информации, отзыв вашего согласия будет рассматриваться как отказ от получения соответствующих служб. Отзыв согласия не повлияет на обычное использование других функций и служб.
+%2$d. После отзыва согласия уже собранная и сохраненная личная информация будет удалена в течение определенного срока в соответствии с действующими законами и нормами, если не требуется иное. Поскольку службы взаимосвязанности предоставляются на основе сбора необходимой персональной информации, отзыв вашего согласия будет рассматриваться как отказ от использования служб взаимосвязанности. Отзыв согласия не повлияет на использование других функций и служб.
 %3$d. Отзыв согласия является необратимым действием. Помните, что после отзыва согласия вы не сможете пересмотреть свое решение."</string>
     <string name="privacy_revoke_agree_detail_prompt">Заявление об отзыве согласия с Политикой конфиденциальности взаимосвязанности Xiaomi</string>
     <string name="privacy_revoke_agree_detail_title">Перед тем как отозвать свое согласие, ознакомьтесь и согласитесь с \"Заявлением об отзыве согласия с Политикой конфиденциальности взаимосвязанности Xiaomi\".</string>
-    <string name="privacy_revoke_agree_introduce">Если вы продолжите, то отзовете свое согласие с Политикой конфиденциальности взаимосвязанности Xiaomi. Уже собранная и сохраненная персональная информация будет удалена в течение определенного срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку услуги межсетевого взаимодействия предоставляются на основе сбора необходимой персональной информации, ваш отзыв согласия будет рассматриваться как отказ от получения услуг межсетевого взаимодействия. Отзыв согласия не повлияет на обычное использование других функций и служб.</string>
+    <string name="privacy_revoke_agree_introduce">Если вы продолжите, то отзовете свое согласие с Политикой конфиденциальности взаимосвязанности Xiaomi. Уже собранная и сохраненная персональная информация будет удалена в течение определенного срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку службы взаимосвязанности предоставляются на основе сбора необходимой персональной информации, ваш отзыв согласия будет рассматриваться как отказ от использования служб взаимосвязанности. Отзыв согласия не повлияет на использование других функций и служб.</string>
     <string name="privacy_revoke_agree_warning_map_text">Внимание!</string>
     <string name="privacy_revoke_confirm_cancel">Отмена</string>
     <string name="privacy_revoke_confirm_message">Вы не сможете использовать функции трансляции, если не разрешите нам сбор некоторой личной информации для предоставления сервисов. Отозвать согласие с Политикой конфиденциальности HappyCast?</string>
@@ -1188,7 +1188,7 @@
     <string name="upgrade_edit_mijia">Изменить</string>
     <string name="upgrade_help_menu">Помощь</string>
     <string name="upgrade_help_title">Помощь в обновлении</string>
-    <string name="upgrade_login_dialog_message">Войдите в аккаунт Xiaomi Account для просмотра подключённых устройств</string>
+    <string name="upgrade_login_dialog_message">Войдите в аккаунт Xiaomi для просмотра подключённых устройств</string>
     <string name="upgrade_login_dialog_sure">Войти</string>
     <string name="upgrade_login_dialog_title">Вход в аккаунт Xiaomi</string>
     <string name="upgrade_no_devices">Обновления отсутствуют</string>

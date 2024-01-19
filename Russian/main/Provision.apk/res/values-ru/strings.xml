@@ -195,7 +195,7 @@
     <string name="interconnection_communication_introduction">Службы интернет-коммуникации Xiaomi позволяют обнаруживать, подключаться и общаться с другими устройствами Xiaomi.</string>
     <string name="interconnection_service_global_item_title">Взаимосвязанность Xiaomi</string>
     <string name="interconnection_service_global_label">"&lt;Data>Взаимосвязанность Xiaomi позволяет вашим устройствам взаимодействовать друг с другом по беспроводной сети. Включая этот переключатель, вы принимаете &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a >.&lt;/Data> Взаимосвязанность Xiaomi.</string>
-    <string name="interconnection_service_summary_china">"Службы межсетевого взаимодействия Xiaomi позволяет устройствам взаимодействовать друг с другом по беспроводной связи и включают в себя Mi Smart Play, трансляцию, передачу приложений, Рабочий стол+, общий буфер обмена, захват изображений с разных устройств, сетевой помощник, общие клавиатуры и мыши, общую камеру и Mi Smart Hub. Для нормальной работы служб разрешите подключение кнтернету и предоставьте следующие разрешения:
+    <string name="interconnection_service_summary_china">"Службы взаимосвязанности Xiaomi позволяет устройствам взаимодействовать друг с другом по беспроводной связи и включают в себя Mi Smart Play, трансляцию, Handoff для приложений, Рабочий стол+, общий буфер обмена, захват изображений с разных устройств, сетевой помощник, общие клавиатуры и мыши, общую камеру и Mi Smart Hub. Для нормальной работы служб взаимосвязанности разрешите доступ к интернету и предоставьте следующие разрешения:
 \u0009\u0009Mi Smart Play и трансляция:
 \u0009\u0009Включение и выключение Bluetooth
 \u0009\u0009Для поиска устройств поблизости и подключения по Bluetooth
@@ -213,7 +213,7 @@
 \u0009\u0009Для распознавания подключенных устройств
 \u0009\u0009Доступ к содержимому экрана
 \u0009\u0009Для доступа к содержимому экрана во время записи или трансляции, включая приватную информацию, такую как аудио, пароли, фото, сообщения и т. д.
-\u0009\u0009Передача приложений и Рабочий стол+:
+\u0009\u0009Handoff для приложений и Рабочий стол+:
 \u0009\u0009Включение и выключение Bluetooth
 \u0009\u0009Для поиска устройств поблизости через Bluetooth
 \u0009\u0009Включение и выключение Wi-Fi
@@ -256,9 +256,9 @@
 \u0009\u0009Доступ к фото, видео и аудио на устройстве
 \u0009\u0009Для отправки и получения контента
 В случае отказа предоставить необходимые разрешения, вы не сможете использовать эти службы.
-Доступные службы могут различаться в зависимости от версии системы и модели устройства. Подробнее на %s."</string>
-    <string name="interconnection_service_summary_global">Функции Взаимосвязанность Xiaomi могут различаться в зависимости от модели устройства и версии системы. Посетите официальный сайт для подробностей.</string>
-    <string name="interconnection_service_title">Службы межсетевого взаимодействия Xiaomi</string>
+Доступные службы взаимосвязанности могут различаться в зависимости от версии системы и модели устройства. Подробнее на %s."</string>
+    <string name="interconnection_service_summary_global">Функции взаимосвязанности Xiaomi могут различаться в зависимости от модели устройства и версии системы. Посетите официальный сайт для подробностей.</string>
+    <string name="interconnection_service_title">Службы взаимосвязанности Xiaomi</string>
     <string name="item_contents_wwarning">В случае потери устройства и отсутствия блокировки, устройство и ваши личные данные будут доступны другим людям. Всё равно пропустить?</string>
     <string name="item_facerecognition">Разблокировка по лицу</string>
     <string name="item_fingerprint">Отпечаток пальца</string>
@@ -278,7 +278,7 @@
     <string name="location_location">Аварийно-спасательные службы могут получить вашу текущую геопозицию по запросу</string>
     <string name="lockscreen_introduction">Карусель обоев позволяет регулярно получать новые обои на экран блокировки.</string>
     <string name="media_storage_devices">Устройства хранения мультимедиа</string>
-    <string name="media_storage_introduction">Служба позволяет приложениям получать доступ к медифайлам</string>
+    <string name="media_storage_introduction">Служба позволяет приложениям получать доступ к медиафайлам</string>
     <string name="message_introduction">Это приложение можно использовать для отправки и получения SMS.</string>
     <string name="mi_account_introduction">Аккаунт Xiaomi позволяет регистрироваться, выполнять вход и управлять учётными записями.</string>
     <string name="midnight">Ночь</string>
@@ -625,9 +625,9 @@
     <string name="service_name_security">Безопасность</string>
     <string name="service_name_service_framework">Xiaomi Services Framework</string>
     <string name="service_name_systemdesktop">Плагин службы Рабочего стола</string>
-    <string name="service_policy">&lt;Data&gt;Прочитайте и примите &lt;a href=\"%1$s\"&gt;Политику конфиденциальности&lt;/a &gt;.&lt;/Data&gt;</string>
+    <string name="service_policy">&lt;Data&gt;Прочтите и примите &lt;a href=\"%1$s\"&gt;Политику конфиденциальности&lt;/a &gt;.&lt;/Data&gt;</string>
     <string name="service_policy_adjust_content">Политика конфиденциальности Xunlei</string>
-    <string name="service_policy_download"><Data>Перед использованием сервиса, прочитайте и примите &lt;a href=\"%1$s\"&gt;Политику конфиденциальности Xunlei&lt;/a &gt;.</Data></string>
+    <string name="service_policy_download"><Data>Перед использованием сервиса, прочтите и примите &lt;a href=\"%1$s\"&gt;Политику конфиденциальности Xunlei&lt;/a &gt;.</Data></string>
     <string name="service_privacy_index">Политика конфиденциальности</string>
     <string name="service_security_over_r"><Data>Прочтите и примите нашу &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a></Data></string>
     <string name="service_sim_activation">Активация SIM-карты</string>

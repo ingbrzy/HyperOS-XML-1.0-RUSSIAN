@@ -93,7 +93,7 @@
     <string-array name="settings_search_connection_home">
         <item>Взаимосвязанность</item>
         <item>Взаимосвязанность/Взаимосвязанность</item>
-        <item>Взаимодействие устройств, Службы взаимодействия устройств, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, умное подключение, Mi Smart Hub, Взаимосвязанность, Duo, телефон Xiaomi, ноутбук Xiaomi, Несколько экранов, Дуэт, трансляция, Комбинирование приложений, handoff, handoff для приложений, Повтор экрана, Экосистема Xiaomi, подключение устройства</item>
+        <item>Взаимосвязанность устройств, Службы взаимосвязанности устройств, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, умное подключение, Mi Smart Hub, Взаимосвязанность, Duo, телефон Xiaomi, ноутбук Xiaomi, Несколько экранов, Дуэт, трансляция, Комбинирование приложений, handoff, handoff для приложений, Повтор экрана, Экосистема Xiaomi, подключение устройства</item>
     </string-array>
     <string-array name="settings_search_connection_privacy">
         <item>Конфиденциальность</item>

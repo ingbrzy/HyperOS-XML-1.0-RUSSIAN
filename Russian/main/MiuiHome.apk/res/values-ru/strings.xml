@@ -637,7 +637,7 @@
     <string name="recent_menu_item_lock">Закрепить</string>
     <string name="recent_menu_item_unlock">Открепить</string>
     <string name="recent_menu_item_worldcirculate">Перенос задач</string>
-    <string name="recent_menu_item_worldcirculate_disable">Не удалось перенести задачи приложения между подключенными устройствами</string>
+    <string name="recent_menu_item_worldcirculate_disable">Не удалось перенести задачи приложения между подключёнными устройствами</string>
     <string name="recents_app_info_button_label">О приложении</string>
     <string name="recents_config_title">Недавние</string>
     <string name="recents_dimiss_task">Очистить</string>

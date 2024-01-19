@@ -159,7 +159,7 @@
     <string name="dialog_rating_desc_less">Могли бы вы оставить отзыв?</string>
     <string name="dialog_rating_desc_perfect">Хотите оценить приложение в GetApps?</string>
     <string name="dialog_rating_title">Оцените приложение</string>
-    <string name="dialog_request_all_permission_content">"Чтобы перенести данные со старого устройства на новое, приложению необходимы подключение к интернету и следующие разрешения:
+    <string name="dialog_request_all_permission_content">"Чтобы перенести данные со старого устройства на новое, приложению требуется доступ к интернету, а также следующие разрешения:
 • Доступ к фото, аудио и видео
 • Доступ к сообщениям, контактам и журналу вызовов
 • Доступ к хранилищу
@@ -171,7 +171,7 @@
 Это приложение можно использовать для переноса данных со старого устройства на новое. 
 Данные будут передаваться только между двумя устройствами и не будут загружаться на наши серверы. 
 "</string>
-    <string name="dialog_request_permission_message_buttom_content">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
+    <string name="dialog_request_permission_message_buttom_content">Разрешите приложению доступ к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
     <string name="dialog_request_permission_message_extra_summary">Эти разрешения необходимы для доступа к основным функциям и службам приложения.</string>
     <string name="dialog_request_permission_message_extra_title">Обязательные разрешения</string>
     <string name="dialog_request_permission_message_link" formatted="false">Используя это приложение, вы принимаете Пользовательское соглашение и Политику конфиденциальности.</string>
@@ -665,7 +665,7 @@
     <string name="scanner_send_dialog_btn">Понятно</string>
     <string name="scanner_send_dialog_message">Не выключайте Wi-Fi и не переключайтесь между сетями во время передачи.</string>
     <string name="scanner_size_selected">Выбрано: %s</string>
-    <string name="scanner_subtitle_prd">Внимательно прочитайте следующую информацию, прежде чем отмечать каждый элемент и начинать передачу</string>
+    <string name="scanner_subtitle_prd">Внимательно прочтите следующую информацию, прежде чем отмечать каждый элемент и начинать передачу</string>
     <string name="scanner_time_remained">Расчётное время передачи: %s</string>
     <string name="scanner_title_prd">Важная информация</string>
     <string name="scanner_title_tip">Данные для передачи</string>
