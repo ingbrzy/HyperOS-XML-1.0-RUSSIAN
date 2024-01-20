@@ -33,7 +33,7 @@
     <string name="HIPS_Perm_Location_Desc">Получение точной геопозиции (GPS и сети)</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Устройства поблизости</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Поиск устройств поблизости и подключение по Bluetooth и Wi-Fi</string>
-    <string name="HIPS_Perm_PhoneID">Информация об устройстве</string>
+    <string name="HIPS_Perm_PhoneID">Информация о вызовах</string>
     <string name="HIPS_Perm_PhoneID_Desc">Доступ к номеру телефона, IMEI и IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Доступ к номеру телефона и состоянию устройства</string>
     <string name="HIPS_Perm_ROOT">ROOT-доступ</string>
