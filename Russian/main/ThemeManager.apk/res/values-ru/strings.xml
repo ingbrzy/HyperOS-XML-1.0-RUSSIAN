@@ -141,7 +141,7 @@
     <string name="backup_theme_progress_message">Сохранение…</string>
     <string name="backup_theme_success_message">Сохранение текущей темы завершено.</string>
     <string name="basic_mode">Оффлайн-режим</string>
-    <string name="basic_mode_desc">Темы не будут подключаться к интернету и будут использовать только локальный контент. Ваша личная информация собираться не будет.</string>
+    <string name="basic_mode_desc">Приложению запрещён доступ к интернету, разрешён доступ только к медиафайлам на устройстве. Никакая ваша личная информация собираться не будет.</string>
     <string name="boot_audio_dialog_cancel">Отмена</string>
     <string name="boot_audio_dialog_confirm">ОК</string>
     <string name="boot_audio_dialog_content">Мелодия загрузки отключена. Включить обратно и применить эту мелодию?</string>
@@ -150,7 +150,7 @@
     <string name="both_all_apply_success">Обои установлены</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="browse_mode">Онлайн-режим</string>
-    <string name="browse_mode_desc">Темы будут подключаться к интернету и использовать как локальный, так и онлайн-контент. Ваша личная информация собираться не будет.</string>
+    <string name="browse_mode_desc">Приложению разрешён доступ к интернету для загрузки онлайн-контента и доступ к медиафайлам на устройстве. Никакая ваша личная информация собираться не будет.</string>
     <string name="browser_local_resource">Локальные ресурсы</string>
     <string name="can_not_apply">Не удалось применить</string>
     <string name="can_not_apply_error">Этот формат видео не поддерживается</string>
