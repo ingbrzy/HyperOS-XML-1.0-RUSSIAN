@@ -825,7 +825,7 @@
     <string name="enter_callbarring_password">Введите пароль запрета вызовов (%d символа)</string>
     <string name="enter_esim_manager">Управление eSIM</string>
     <string name="enter_esim_manager_title">Управление eSIM</string>
-    <string name="enter_input">USSD запрос должен содержать от %d до %d символов. Повторите попытку.</string>
+    <string name="enter_input">USSD запрос должен содержать от %1$d до %2$d символов. Повторите попытку.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">PIN SIM-карты:</string>
     <string name="entertainment_news_settings">Развлечения</string>
@@ -1152,7 +1152,7 @@
     <string name="messageCFNRy">Номер для переадресации вызовов без ответа</string>
     <string name="messageCFU">Всегда переадресовывать на этот номер</string>
     <string name="messageCFU_kr">Сетевой сервис для перенаправления всех входящих вызовов и текстовых сообщений на указанный номер. Необходима подписка на этот сервис. С вас будет взиматься ежемесячная плата. Свяжитесь с центром поддержки (%1$d+[Отправить]), чтобы подписаться или отказаться от этого сервиса. Введите %2$s+[номер для переадресации] [Отправить], чтобы включить, или %3$s[Отправить], чтобы отключить.</string>
-    <string name="messageCW_kr">Бесплатный сетевой сервис для ответа на второй вызов во время разговора, переводя первый в режим удержания. Введите %s[Отправить] чтобы включить, или %s[Отправить], чтобы отключить.</string>
+    <string name="messageCW_kr">Бесплатный сетевой сервис для ответа на второй вызов во время разговора, переводя первый в режим удержания. Введите %1$s[Отправить] чтобы включить, или %2$s[Отправить], чтобы отключить.</string>
     <string name="messageCallBarring">Введите пароль</string>
     <string name="message_decode_error">Ошибка декодирования сообщения.</string>
     <string name="mhh_disable">Медицинские учреждения отключены</string>

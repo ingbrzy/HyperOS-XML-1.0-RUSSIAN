@@ -412,7 +412,7 @@
     <string name="burst_photo_preview_thumbnail_content_description">Фото %d</string>
     <string name="burst_preview_title">Серийный снимок</string>
     <string name="burst_save_all">Сохранить все фото</string>
-    <string name="burst_save_choice_title">Выбрано %d из %d</string>
+    <string name="burst_save_choice_title">Выбрано %1$d из %2$d</string>
     <string name="burst_save_dialog_title">Выберите, какие фото сохранить</string>
     <string name="burst_save_error_msg">Ошибка сохранения</string>
     <string name="burst_save_processing">Обработка…</string>
