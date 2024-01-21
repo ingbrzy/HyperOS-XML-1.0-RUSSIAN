@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">Принять</string>
-    <string name="apm_enabled_first_time_message">Функция Wi-Fi останется включенной в режиме полёта. Вы можете отключить ее, если хотите.</string>
+    <string name="apm_enabled_first_time_message">Функция Wi-Fi останется включенной в режиме полёта. Вы можете отключить её, если хотите.</string>
     <string name="apm_enabled_first_time_title">Функция Wi-Fi остается включенной</string>
     <string name="decline">Отклонить</string>
     <string name="dlg_ok">ОК</string>

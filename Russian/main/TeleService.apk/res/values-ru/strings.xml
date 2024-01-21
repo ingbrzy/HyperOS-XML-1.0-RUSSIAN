@@ -724,7 +724,7 @@
     <string name="dsda_end_call_toast">Предыдущий сеанс связи завершен</string>
     <string name="dsda_summary">Режим ожидания с двумя SIM-картами 5G+4G поддерживается выбранными сетями</string>
     <string name="dsda_title">Включить 5G+4G DSDA</string>
-    <string name="dsda_turn_off">Двойной активный режим отключен. Перезагрузите устройство.</string>
+    <string name="dsda_turn_off">Двойной активный режим отключён. Перезагрузите устройство.</string>
     <string name="dsda_turn_on">Двойной активный режим включен. Перезагрузите устройство.</string>
     <string name="dsds_dialog_cancel">Отмена</string>
     <string name="dsds_dialog_confirm">Перезагрузить</string>

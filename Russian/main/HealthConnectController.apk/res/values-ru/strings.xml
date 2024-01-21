@@ -407,7 +407,7 @@
     <string name="period_day">День менструации: %1$d из %2$d</string>
     <string name="permissions_and_data_header">Разрешения и данные</string>
     <string name="permissions_disconnect_all_dialog_disconnect">Запретить</string>
-    <string name="permissions_disconnect_all_dialog_message">"Ни одно из ваших приложений больше не сможет получать доступ к информации в сервисе \"Здоровье и спорт\" или добавлять ее. Уже имеющиеся данные не будут удалены.
+    <string name="permissions_disconnect_all_dialog_message">"Ни одно из ваших приложений больше не сможет получать доступ к информации в сервисе \"Здоровье и спорт\" или добавлять её. Уже имеющиеся данные не будут удалены.
 
 Это не повлияет на другие разрешения приложений, такие как доступ к сведениям о местоположении, камере или микрофону."</string>
     <string name="permissions_disconnect_all_dialog_title">Запретить доступ для всех приложений?</string>

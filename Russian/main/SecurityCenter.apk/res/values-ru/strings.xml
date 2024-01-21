@@ -6336,7 +6336,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="vb_movie_power_hint">"Режим \"Театр\" обеспечивает захватывающие впечатления во время просмотра.
 Устройство может сильнее нагреваться и расходовать заряд."</string>
     <string name="vb_movie_subtitle">Требуется высокая производительность</string>
-    <string name="vb_mv_style_close_toast">Стиль отключен</string>
+    <string name="vb_mv_style_close_toast">Стиль отключён</string>
     <string name="vb_power_performance_mode_conflict_toast">Функция недоступна в производительном режиме</string>
     <string name="vb_power_save_mode_conflict_toast">Функция недоступна при включенной экономии заряда</string>
     <string name="vb_quick_func_auto_bgm">Распознавание фоновой музыки</string>

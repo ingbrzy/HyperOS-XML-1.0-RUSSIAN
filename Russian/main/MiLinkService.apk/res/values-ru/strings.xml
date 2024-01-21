@@ -404,7 +404,7 @@
     <string name="connect_settings_withdraw_consent">Отзыв согласия</string>
     <string name="connection_failed">Не удалось подключить камеру</string>
     <string name="console_guide_btn_got_it">Понятно</string>
-    <string name="console_guide_subtitle_hang_up">Можно продолжать трансляцию, когда экран устройства отключен. Эта функция поможет снизить расход заряда.</string>
+    <string name="console_guide_subtitle_hang_up">Можно продолжать трансляцию, когда экран устройства отключён. Эта функция поможет снизить расход заряда.</string>
     <string name="console_guide_subtitle_private">Не показывать всплывающие уведомления, входящие вызовы и другие личные объекты на внешнем мониторе</string>
     <string name="console_guide_subtitle_small_window">Можно свернуть транслируемое окно, чтобы использовать другие приложения</string>
     <string name="controller_auth_cancel">Отмена</string>
@@ -986,7 +986,7 @@
     <string name="prompt_camera_prepare">Подключение…</string>
     <string name="prompt_camera_success">Подключено</string>
     <string name="quick_settings">Настройки</string>
-    <string name="quick_settings_close_tips">Функция включена. Вы можете в любое время отключить ее в разделе \"Настройки\" > \"Уведомления и строка состояния\".</string>
+    <string name="quick_settings_close_tips">Функция включена. Вы можете в любое время отключить её в разделе \"Настройки\" > \"Уведомления и строка состояния\".</string>
     <string name="quick_settings_device_dialog_check_box">Больше не показывать</string>
     <string name="quick_settings_device_dialog_message">Если вы включите эту функцию, то не сможете обнаруживать телевизоры, колонки и автомобили поблизости через Центр управления. Включить функцию?</string>
     <string name="quick_settings_device_dialog_positive">Включить</string>
@@ -1009,7 +1009,7 @@
     <string name="screen_projection_characteristics">Специальные функции</string>
     <string name="screen_projection_characteristics_cast_summary">Трансляция изображения с экрана устройства на телевизор.</string>
     <string name="screen_projection_characteristics_hang_up_summary_new">Выключите экран мобильного устройства во время трансляции, чтобы сэкономить заряд и избежать перегрева</string>
-    <string name="screen_projection_characteristics_off_screen_summary">Вы можете продолжать трансляцию, когда экран вашего устройства отключен. Эта функция поможет снизить расход батареи.</string>
+    <string name="screen_projection_characteristics_off_screen_summary">Вы можете продолжать трансляцию, когда экран вашего устройства отключён. Эта функция поможет снизить расход батареи.</string>
     <string name="screen_projection_characteristics_off_screen_title">Трансляция с выключенным экраном</string>
     <string name="screen_projection_characteristics_privacy_protect_summary">Не показывать всплывающие уведомления, входящие вызовы и другие личные данные на внешнем мониторе.</string>
     <string name="screen_projection_characteristics_privacy_protect_title">Скрытие личной информации</string>

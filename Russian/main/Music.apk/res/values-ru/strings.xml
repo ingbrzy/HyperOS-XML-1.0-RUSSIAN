@@ -566,7 +566,7 @@
     <string name="headset_and_audio_effect_category">Звуковые эффекты</string>
     <string name="headset_and_audio_effect_summary">Наушники и настройки звука</string>
     <string name="headset_and_audio_effect_title">Звуковые эффекты</string>
-    <string name="hgm_failed_to_connect_hint">Проверьте настройки сети и повторите попытку. Если проблема заключается в ошибке сервера hungama, мы исправим ее как можно скорее.</string>
+    <string name="hgm_failed_to_connect_hint">Проверьте настройки сети и повторите попытку. Если проблема заключается в ошибке сервера hungama, мы исправим её как можно скорее.</string>
     <string name="hgm_has_offline">Не удается воспроизвести музыку, предоставленную hungama.</string>
     <string name="hgm_network_request_error_toast">Не удалось подключиться к серверам hungama. Повторите попытку.</string>
     <string name="hgm_vip_btn_desc">Начните пробный период</string>

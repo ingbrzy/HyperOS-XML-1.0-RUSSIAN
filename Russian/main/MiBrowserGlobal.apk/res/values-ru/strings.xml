@@ -2646,7 +2646,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_intercept_track_record_empty_hint">Нет веб-сайтов</string>
     <string name="web_permission_domain_manage_page_title">Веб-сайты</string>
     <string name="web_permission_empty_item_desc">Вы ещё не добавляли пользовательские настройки.</string>
-    <string name="web_permission_intercept_guide_page_ad_desc">Слишком много рекламы? Заблокируйте ее, чтобы очистить веб-страницы от всего лишнего.</string>
+    <string name="web_permission_intercept_guide_page_ad_desc">Слишком много рекламы? Заблокируйте её, чтобы очистить веб-страницы от всего лишнего.</string>
     <string name="web_permission_intercept_guide_page_download_desc">Запретить автоматические загрузки.</string>
     <string name="web_permission_intercept_guide_page_permission_desc">Узнайте, какие действия веб-сайты выполняют втайне от вас, и контролируйте разрешённые действия.</string>
     <string name="web_permission_intercept_guide_page_title">Защитите свою конфиденциальность</string>

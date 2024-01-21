@@ -1256,7 +1256,7 @@ ID: %s
     <string name="home_page_empty_action_new">Импорт со старого устройства</string>
     <string name="home_page_label">Фото</string>
     <string name="home_sdcard_op_tip_msg">Не удалось выполнить это действие для всех выбранных изображений. Размонтируйте и снова смонтируйте SD-карту.</string>
-    <string name="home_sdcard_tip_msg">SD-карта доступна только для чтения. Размонтируйте и смонтируйте ее снова в Настройки > Телефон > Хранилище.</string>
+    <string name="home_sdcard_tip_msg">SD-карта доступна только для чтения. Размонтируйте и смонтируйте её снова в Настройки > Телефон > Хранилище.</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Пропустить</string>
     <string name="homepage_allphotos_tip_dialog_button_positive">ОК</string>
     <string name="homepage_allphotos_tip_dialog_description_all">Все</string>

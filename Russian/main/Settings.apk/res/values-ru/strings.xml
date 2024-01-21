@@ -127,10 +127,10 @@
     <string name="accessibility_clear">Очистить</string>
     <string name="accessibility_close_tab">Закрыть текущую вкладку</string>
     <string name="accessibility_color_and_motion_title">Цвет и движение</string>
-    <string name="accessibility_color_correction_auto_added_qs_tooltip_content">Коррекция цвета добавлена в Быстрые настройки. Чтобы включить или отключить ее, проведите вниз по экрану.</string>
+    <string name="accessibility_color_correction_auto_added_qs_tooltip_content">Коррекция цвета добавлена в Быстрые настройки. Чтобы включить или отключить её, проведите вниз по экрану.</string>
     <string name="accessibility_color_correction_qs_tooltip_content">Вы также можете добавить коррекцию цвета в Быстрые настройки в верхней части экрана</string>
     <string name="accessibility_color_inversion_about_title">Об инверсии цветов</string>
-    <string name="accessibility_color_inversion_auto_added_qs_tooltip_content">Инверсия цветов добавлена в Быстрые настройки. Чтобы включить или отключить ее, проведите вниз по экрану.</string>
+    <string name="accessibility_color_inversion_auto_added_qs_tooltip_content">Инверсия цветов добавлена в Быстрые настройки. Чтобы включить или отключить её, проведите вниз по экрану.</string>
     <string name="accessibility_color_inversion_footer_learn_more_content_description">Подробнее об инверсии цветов…</string>
     <string name="accessibility_color_inversion_qs_tooltip_content">Вы также можете добавить инверсию цветов в Быстрые настройки в верхней части экрана</string>
     <string name="accessibility_control_timeout_about_title">О времени на выполнение действия</string>
@@ -8391,12 +8391,12 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more" />
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_setup">Когда вы видите этот значок, используйте разблокировку отпечатком для аутентификации в приложениях или подтверждения платежа.</string>
     <string name="security_settings_fingerprint_v2_home_screen_text">Используйте отпечаток, чтобы разблокировать устройство или подтвердить свою личность, например для входа в приложения.</string>
-    <string name="security_settings_require_screen_on_to_auth_description">"Разблокировать устройство касанием, даже если экран отключен. Это повышает вероятность случайной разблокировки."</string>
+    <string name="security_settings_require_screen_on_to_auth_description">"Разблокировать устройство касанием, даже если экран отключён. Это повышает вероятность случайной разблокировки."</string>
     <string name="security_settings_require_screen_on_to_auth_keywords">"Экран, разблокировка"</string>
     <string name="security_settings_require_screen_on_to_auth_title">"Разблокировать даже при выключенном экране"</string>
     <string name="security_settings_sfps_animation_a11y_label">"Процент выполнения: %d"</string>
     <string name="security_settings_sfps_enroll_find_sensor_message">Сканер отпечатков пальцев находится на кнопке питания. Это плоская кнопка рядом с приподнятой кнопкой громкости сбоку устройства</string>
-    <string name="security_settings_sfps_enroll_find_sensor_title">"Прикоснитесь к кнопке питания, не нажимая ее"</string>
+    <string name="security_settings_sfps_enroll_find_sensor_title">"Прикоснитесь к кнопке питания, не нажимая её"</string>
     <string name="security_settings_sfps_enroll_finger_center_title">"Приложите центральную часть подушечки пальца к сканеру отпечатков"</string>
     <string name="security_settings_sfps_enroll_fingertip_title">"Приложите кончик пальца к сканеру отпечатков"</string>
     <string name="security_settings_sfps_enroll_left_edge_title">"Приложите левый край пальца к сканеру отпечатков"</string>

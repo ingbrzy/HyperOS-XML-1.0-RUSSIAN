@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="AI_diwbkiad_dekete_model">Удалить модель</string>
-    <string name="AI_download_delete_message">Если вы удалите модель Mi AI Image Creator, то больше не сможете использовать ее функции. Удалить?</string>
+    <string name="AI_download_delete_message">Если вы удалите модель Mi AI Image Creator, то больше не сможете использовать её функции. Удалить?</string>
     <string name="AI_download_delete_neg">Отмена</string>
     <string name="AI_download_delete_pos">Удалить</string>
     <string name="AI_download_delete_title">Удалить модель?</string>

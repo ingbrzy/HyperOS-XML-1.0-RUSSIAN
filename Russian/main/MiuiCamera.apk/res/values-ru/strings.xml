@@ -67,7 +67,7 @@
     <string name="accessibility_camera_shutter_finish">Фото сделано</string>
     <string name="accessibility_camera_switch_capture_recording">Переключение режимов фото и видео</string>
     <string name="accessibility_camera_ultra_wide_bokeh_off">Режим съёмки в полный рост включён</string>
-    <string name="accessibility_camera_ultra_wide_bokeh_on">Режим съёмки в полный рост отключен</string>
+    <string name="accessibility_camera_ultra_wide_bokeh_on">Режим съёмки в полный рост отключён</string>
     <string name="accessibility_camera_video_960fps_120">%dFPS</string>
     <string name="accessibility_camera_video_960fps_240">%dFPS</string>
     <string name="accessibility_camera_video_960fps_960">%dFPS</string>
@@ -570,7 +570,7 @@
     <string name="cinemaster_toast_camera_disconnect">Камера %s была отключена от многокамерной системы</string>
     <string name="cinemaster_toast_monitor_all_disconnect">Все мониторы отключены</string>
     <string name="cinemaster_toast_monitor_connect">Монитор был подключен</string>
-    <string name="cinemaster_toast_monitor_disconnect">Монитор был отключен от многокамерной системы</string>
+    <string name="cinemaster_toast_monitor_disconnect">Монитор был отключён от многокамерной системы</string>
     <string name="cinemaster_toast_monitor_play_error">Камера %s была отключена от многокамерной системы из-за ошибки</string>
     <string name="cinemaster_wifi_24g_tips">Подключитесь к сети с частотой %s ГГц, чтобы ускорить работу монитора и улучшить стабильность потока.</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
