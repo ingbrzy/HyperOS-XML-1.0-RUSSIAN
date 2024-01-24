@@ -5938,9 +5938,9 @@ ID: %s
     <string name="miui_sos_contacts_category">Экстренные контакты</string>
     <string name="miui_sos_emergency_contacts">Экстренные контакты</string>
     <string name="miui_sos_emergency_delete">Удалить</string>
-    <string name="miui_sos_emergency_delivered_sms">Сообщение доставлено %1s (%2s) </string>
+    <string name="miui_sos_emergency_delivered_sms">Сообщение доставлено %1$s (%2$s)</string>
     <string name="miui_sos_emergency_delivered_sms_noname">Сообщение доставлено %1$s</string>
-    <string name="miui_sos_emergency_failed_sms">Не удалось отправить сообщение %1s (%2s)</string>
+    <string name="miui_sos_emergency_failed_sms">Не удалось отправить сообщение %1$s (%2$s)</string>
     <string name="miui_sos_emergency_failed_sms_noname">Не удалось отправить сообщение для %1s</string>
     <string name="miui_sos_emergency_title">Экстренная помощь</string>
     <string name="miui_sos_enable_switch_summary">Быстро нажмите кнопку питания 5 раз для отправки сообщения SOS с вашей геопозицией экстренным контактам</string>
@@ -6467,9 +6467,9 @@ ID: %s
     <string name="nfc_repair_btn_retry">Повторить</string>
     <string name="nfc_repair_btn_yes">Да</string>
     <string name="nfc_repair_confirm_desc">"Есть какая-либо проблема из перечисленных?
-%d. Не удается добавить или пополнить карту NFC.
-%d. Карта NFC не работает.
-%d. Не работают другие функции NFC."</string>
+%1$d. Не удается добавить или пополнить карту NFC.
+%2$d. Карта NFC не работает.
+%3$d. Не работают другие функции NFC."</string>
     <string name="nfc_repair_fail_desc">Произошла ошибка, препятствующая восстановлению функций NFC. Попробуйте ещё раз.</string>
     <string name="nfc_repair_fail_title">Ошибка восстановления</string>
     <string name="nfc_repair_ongoing">Восстановление… Не покидайте эту страницу.</string>
