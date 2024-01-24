@@ -44,7 +44,7 @@
         <item quantity="other">1 час назад</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">%d час назад</item>
+        <item quantity="other">1 час назад</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Полчаса назад</item>

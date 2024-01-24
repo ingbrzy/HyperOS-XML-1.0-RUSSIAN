@@ -1661,7 +1661,7 @@
     <string name="bluetooth_pairing_group_late_bonding">"Добавить участника в скоординированную группу"</string>
     <string name="bluetooth_pairing_key_msg">Код сопряжения Bluetooth</string>
     <string name="bluetooth_pairing_page_title">Подключение нового устройства</string>
-    <string name="bluetooth_pairing_pin_error_message">Не удалось подключиться к устройству %1$s из-за неверного PIN или ключа доступа.</string>
+    <string name="bluetooth_pairing_pin_error_message">Не удалось подключиться. Неверный PIN или ключ доступа.</string>
     <string name="bluetooth_pairing_pref_title">Подключить новое устройство</string>
     <string name="bluetooth_pairing_rejected_error_message">Устройство %1$s не разрешило подключение.</string>
     <string name="bluetooth_pairing_request">Добавить %1$s?</string>

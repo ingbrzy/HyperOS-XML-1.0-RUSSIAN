@@ -89,7 +89,6 @@
         <item>Opus</item>		
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LC3</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Выбор системы (по умолчанию)</item>
@@ -102,7 +101,6 @@
         <item>Opus</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LC3</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -127,6 +125,8 @@
         <item>Включено</item>
         <item>Включён фильтр заголовков</item>
         <item>Включён фильтр медиа-пакетов</item>
+        <item>Включён фильтр медиа-пакетов</item>
+        <item>Включён фильтр профилей</item>
 </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
         <item>Только заголовки списка контроля доступа</item>

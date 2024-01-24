@@ -259,7 +259,7 @@
     <string name="edit_event_reminder_3_days_before_time">Напомнить за %d дня</string>
     <string name="edit_event_reminder_summary">В назначенный день в %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">За 3 дня и в назначенный день в %1$s</string>
-    <string name="edit_event_reminder_summary_3_days_before_today">За %1$d дня и в назначенный день в %1$s</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">За %2$d дня и в назначенный день в %1$s</string>
     <string name="edit_event_reminder_text">%1$s в %2$s</string>
     <string name="edit_event_reminder_time">Напоминания</string>
     <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s в %3$s</string>
