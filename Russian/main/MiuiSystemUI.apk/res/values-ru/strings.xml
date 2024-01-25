@@ -1097,7 +1097,7 @@
     <string name="media_transfer_undo">Отменить</string>
     <string name="media_transfer_wired_usb_device_name">Проводные наушники</string>
     <string name="media_ttt_default_device_type">"планшет"</string>
-    <string name="megabyte_per_second"> МБ/сек</string>
+    <string name="megabyte_per_second"> МБ/с</string>
     <string name="mic_and_camera_recording_announcement">Камера и микрофон: идёт запись</string>
     <string name="mic_camera_stopped_recording_announcement">Камера и микрофон: запись остановлена</string>
     <string name="mic_recording_announcement">Микрофон: идёт запись</string>
