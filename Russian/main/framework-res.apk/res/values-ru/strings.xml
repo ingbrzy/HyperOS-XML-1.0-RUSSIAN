@@ -283,7 +283,7 @@
     <string name="app_streaming_blocked_title_for_permission_dialog">Требуется разрешение</string>
     <string name="app_streaming_blocked_title_for_playstore_dialog">"Google Play недоступен"</string>
     <string name="app_streaming_blocked_title_for_settings_dialog">Настройки устройства недоступны</string>
-    <string name="app_suspended_default_message">Приложение \"%1$s\" недоступно, т.к. находится под управлением \"%2$s\".</string>
+    <string name="app_suspended_default_message">Приложение \"%1$s\" недоступно, т. к. находится под управлением \"%2$s\".</string>
     <string name="app_suspended_more_details">Подробнее</string>
     <string name="app_suspended_title">Приложение недоступно</string>
     <string name="app_suspended_unsuspend_message">Возобновить работу приложения</string>
@@ -1928,8 +1928,8 @@
     <string name="shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
     <string name="sharing_remote_bugreport_notification_title">Отправка отчёта об ошибке</string>
     <string name="shortcut_disabled_reason_unknown">Ярлык отключён</string>
-    <string name="shortcut_restore_not_supported">Не удалось восстановить ярлык, т.к. приложение не поддерживает резервное копирование</string>
-    <string name="shortcut_restore_signature_mismatch">Не удалось восстановить ярлык, т.к. подпись приложения некорректна</string>
+    <string name="shortcut_restore_not_supported">Не удалось восстановить ярлык, т. к. приложение не поддерживает резервное копирование</string>
+    <string name="shortcut_restore_signature_mismatch">Не удалось восстановить ярлык, т. к. подпись приложения некорректна</string>
     <string name="shortcut_restore_unknown_issue">Не удалось восстановить ярлык</string>
     <string name="shortcut_restored_on_lower_version">Версия приложения устарела или несовместима с этим ярлыком</string>
     <string name="show_ime">Показывать на экране, когда физическая клавиатура включена</string>

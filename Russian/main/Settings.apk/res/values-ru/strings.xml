@@ -3090,9 +3090,9 @@ ID: %s
     <string name="disabled_by_policy_title_screen_capture">Нельзя сделать скриншот</string>
     <string name="disabled_by_policy_title_sms">Нельзя отправить SMS</string>
     <string name="disabled_by_policy_title_suspend_packages">Невозможно открыть приложение</string>
-    <string name="disabled_dependent_setting_summary">Настройку нельзя изменить, т.к. зависит от другой настройки.</string>
+    <string name="disabled_dependent_setting_summary">Настройку нельзя изменить, т. к. зависит от другой настройки.</string>
     <string name="disabled_feature">Функция недоступна</string>
-    <string name="disabled_feature_reason_slow_down_phone">Функция отключена, т.к. замедляет работу устройства</string>
+    <string name="disabled_feature_reason_slow_down_phone">Функция отключена, т. к. замедляет работу устройства</string>
     <string name="disabled_low_ram_device">Функция не поддерживается на этом устройстве</string>
     <string name="disallow_lock_screen_summary">Разрешите уведомления в \"Уведомлениях\"</string>
     <string name="disconnect">Отключить</string>
@@ -7480,7 +7480,7 @@ OTG отключается автоматически через 10 минут �
     <string name="reduce_bright_colors_intensity_start_label">Темнее</string>
     <string name="reduce_bright_colors_persist_preference_title">Сохранять после перезагрузки устройства</string>
     <string name="reduce_bright_colors_preference_intro_text">Уменьшите яркость экрана, чтобы глаза меньше уставали.</string>
-    <string name="reduce_bright_colors_preference_subtitle">"Сделайте экран темнее для удобства чтения.&lt;br/&gt;&lt;br/&gt; Это может помочь, если: &lt;ol&gt;&lt;li&gt; при минимальной яркости экран все равно слишком яркий;&lt;/li&gt; &lt;li&gt; вы используете устройство в темноте&lt;/li&gt;&lt;/ol&gt;"</string>
+    <string name="reduce_bright_colors_preference_subtitle">"Сделайте экран темнее для удобства чтения.&lt;br/&gt;&lt;br/&gt; Это может помочь, если: &lt;ol&gt;&lt;li&gt; при минимальной яркости экран всё равно слишком яркий;&lt;/li&gt; &lt;li&gt; вы используете устройство в темноте&lt;/li&gt;&lt;/ol&gt;"</string>
     <string name="reduce_bright_colors_preference_summary">Сделать экран темнее, чем при минимальной яркости</string>
     <string name="reduce_bright_colors_preference_title">Доп. уменьшение яркости</string>
     <string name="reduce_bright_colors_shortcut_title">Быстрый запуск дополнительного уменьшения яркости</string>
@@ -8530,7 +8530,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="setup_choose_unlock_pattern">Графический ключ</string>
     <string name="setup_choose_unlock_pattern_title">Задайте графический ключ</string>
     <string name="setup_choose_unlock_type_title">Настройки защиты</string>
-    <string name="setup_fingerprint_enroll_enrolling_skip_message">Вы выбрали разблокировку отпечатком. Настройка займет около минуты. Если вы пропустите её сейчас, вам все равно придётся сделать это позже.</string>
+    <string name="setup_fingerprint_enroll_enrolling_skip_message">Вы выбрали разблокировку отпечатком. Настройка займет около минуты. Если вы пропустите её сейчас, вам всё равно придётся сделать это позже.</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_title">Пропустить добавление отпечатков?</string>
     <string name="setup_fingerprint_enroll_skip_after_adding_lock_text">Добавление отпечатков занимает 1-2 минуты. Можно добавить их позже в настройках.</string>
     <string name="setup_fingerprint_enroll_skip_title">Пропустить добавление отпечатков?</string>
@@ -11225,7 +11225,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="work_profile_confirm_remove_message">Все приложения и данные, находящиеся в этом профиле, будут удалены. Продолжить?</string>
     <string name="work_profile_confirm_remove_title">Удалить рабочий профиль?</string>
     <string name="work_profile_notification_access_blocked_summary">Доступ к уведомлениям в рабочем профиле заблокирован</string>
-    <string name="work_profile_usage_access_warning">Если вы закроете приложению доступ к истории использования, администратор все равно сможет просматривать эти данные в вашем рабочем профиле.</string>
+    <string name="work_profile_usage_access_warning">Если вы закроете приложению доступ к истории использования, администратор всё равно сможет просматривать эти данные в вашем рабочем профиле.</string>
     <string name="work_ringtone_title">Рингтон рабочего телефона</string>
     <string name="work_sim_title">Рабочая SIM-карта</string>
     <string name="work_sound_permission_dialog_button_text_known">Понятно</string>
@@ -11440,7 +11440,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="zen_mode_restrict_notifications_disable_custom">Удалить пользовательские установки</string>
     <string name="zen_mode_restrict_notifications_enable_custom">Включить пользовательские установки</string>
     <string name="zen_mode_restrict_notifications_hide">Отключить полностью</string>
-    <string name="zen_mode_restrict_notifications_hide_footer">"Уведомления будут скрыты. При получении новых уведомлений устройство не будет вибрировать или издавать звуковой сигнал, но важные системные уведомления все равно будут появляться.\n\nЧтобы посмотреть скрытые уведомления после отключения режима \"Не беспокоить\", проведите по экрану сверху вниз."</string>
+    <string name="zen_mode_restrict_notifications_hide_footer">"Уведомления будут скрыты. При получении новых уведомлений устройство не будет вибрировать или издавать звуковой сигнал, но важные системные уведомления всё равно будут появляться.\n\nЧтобы посмотреть скрытые уведомления после отключения режима \"Не беспокоить\", проведите по экрану сверху вниз."</string>
     <string name="zen_mode_restrict_notifications_hide_summary">Уведомления будут полностью отключены</string>
     <string name="zen_mode_restrict_notifications_mute">Отключить звук</string>
     <string name="zen_mode_restrict_notifications_mute_footer">Уведомления будут приходить без звука и вибрации.</string>
