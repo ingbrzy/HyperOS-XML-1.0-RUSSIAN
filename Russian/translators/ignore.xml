@@ -3504,6 +3504,7 @@
     <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_vpn_settings_separator">" "</string>
+    <string name="moon_id">moon</string>
     <string name="more_setting_summary"> </string>
     <string name="more_string">+%1$s</string>
     <string name="mortgage_item_loan_ruler">@string/loan_type_title</string>
@@ -5403,6 +5404,8 @@
     <string name="vernal_equinox">春分</string>
     <string name="vernal_equinox_tradition">春分</string>
     <string name="vertical_text_divider">|</string>
+    <string name="video_effect_entry_color_fe_250">FE250</string>
+    <string name="video_effect_entry_color_fr_500">FR500</string>
     <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
     <string name="video_hybrid_tip">hybrid</string>
     <string name="video_post_module_failed">@string/error_install_connect_fail</string>
@@ -5649,6 +5652,4 @@ feedsContentId:
     <string name="zhifubao_not_found"> </string>
     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
-    <string name="video_effect_entry_color_fe_250">FE250</string>
-    <string name="video_effect_entry_color_fr_500">FR500</string>
 </resources>

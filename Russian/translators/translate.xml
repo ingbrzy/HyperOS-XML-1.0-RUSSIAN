@@ -1946,6 +1946,7 @@ ID: %s
     <string name="matches_found">"{count,plural, =1{# совпадение}one{# совпадение из {total}}few{# совпадения из {total}}many{# совпадений из {total}}other{# совпадения из {total}}}"</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Выберите AM или PM</string>
+    <string name="material_hour_24h_suffix">%1$s ч.</string>
     <string name="material_hour_selection">Часы</string>
     <string name="material_hour_suffix">"%1$s ч."</string>
     <string name="material_minute_selection">Минуты</string>
@@ -1954,6 +1955,7 @@ ID: %s
     <string name="material_slider_range_end">Конец диапазона,</string>
     <string name="material_slider_range_start">Начало диапазона,</string>
     <string name="material_slider_range_start">Начало диапазона,</string>
+    <string name="material_slider_value">Значение</string>
     <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Ввод времени в режиме часов</string>
     <string name="material_timepicker_hour">Часы</string>
@@ -3460,6 +3462,7 @@ mm"</string>
     <string name="shutdown_confirm">"Устройство будет отключено."</string>
     <string name="shutdown_confirm_question">"Завершить работу?"</string>
     <string name="shutdown_progress">"Выключение..."</string>
+    <string name="side_sheet_accessibility_pane_title">Боковая панель</string>
     <string name="silent_mode">"Режим без звука"</string>
     <string name="silent_mode_ring">"Звонок включен"</string>
     <string name="silent_mode_silent">"Звонок отключен"</string>

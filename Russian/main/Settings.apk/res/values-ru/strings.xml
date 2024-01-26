@@ -8797,6 +8797,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="slight_pause">,</string>
     <string name="slot_number">" (слот %1$d)"</string>
     <string name="slot_status_title">Информация об IMEI</string>
+    <string name="small_window_not_support_add_data_toast">Запись данных в плавающем окне недоступна. Переключитесь в полноэкранный режим и повторите попытку.</string>
     <string name="smallwindow_smartcover_title">С окошком</string>
     <string name="smart_battery_footer">Менеджер батареи определяет, какие приложения быстрее всего расходуют батарею, и предлагает ограничить их работу. Ограничение фоновых процессов может привести к нарушению работы приложений и задержке уведомлений от них.</string>
     <string name="smart_battery_manager_title">Менеджер батареи</string>
@@ -9434,7 +9435,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="taplus_title">Taplus</string>
     <string name="tare_actions_base_price">Действия (базовые затраты)</string>
     <string name="tare_actions_ctp">Действия (затраты на выполнение)</string>
-    <string name="tare_app_install">"Установить приложение"</string>
+    <string name="tare_app_install">Установить приложение</string>
     <string name="tare_balances">Баланс</string>
     <string name="tare_consumption_limits">Ограничение потребления</string>
     <string name="tare_dialog_confirm_button_title">ОК</string>

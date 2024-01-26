@@ -104,6 +104,7 @@
     <string name="add_to_secret_successful">Добавлено в приватный альбом</string>
     <string name="add_to_share_album_not_delete">Нельзя удалить фото из общего альбома</string>
     <string name="add_to_trust_device">Это доверенное устройство</string>
+    <string name="added_to_clipboard_description">Это видео не загружено на устройство. Загрузить и скопировать в буфер обмена?</string>
     <string name="added_to_clipboard_toast">Успешно скопировано</string>
     <string name="added_to_favorites">Добавлено в Избранные</string>
     <string name="added_to_favorites_desc">Добавлено в Избранные</string>
@@ -1527,6 +1528,7 @@ ID: %s
     <string name="mark_operation_succeeded">Успешно добавлено</string>
     <string name="mark_people_ignore_info_message">Нажмите и удерживайте фото людей для добавления их в группы</string>
     <string name="media_type_burst_photo">Серийные снимки</string>
+    <string name="media_type_cinematic">Фильм</string>
     <string name="media_type_clone_photo">Клоны</string>
     <string name="media_type_doc_photo">Документы</string>
     <string name="media_type_fast_motion_video">Таймлапс</string>
@@ -2549,6 +2551,18 @@ ID: %s
     <string name="security_share_subtitle_no_hide">Содержит геопозицию</string>
     <string name="see_ignore_faces">Просмотреть пропущенные фото</string>
     <string name="see_more_settings">Дополнительно</string>
+    <string name="segment_change_background">Изменить фон</string>
+    <string name="segment_copy">Копировать</string>
+    <string name="segment_copy_fail">Не удалось скопировать</string>
+    <string name="segment_copy_processing">Копирование…</string>
+    <string name="segment_copy_success">Скопировано</string>
+    <string name="segment_no_result">Не удалось определить объект на фото</string>
+    <string name="segment_save">Сохранить</string>
+    <string name="segment_save_fail">Не удалось сохранить</string>
+    <string name="segment_save_processing">Сохранение…</string>
+    <string name="segment_save_success">Сохранено в Галерее</string>
+    <string name="segment_send">Отправить</string>
+    <string name="segment_send_processing">Подготовка к отправке…</string>
     <string name="select_all">Выбрать все</string>
     <string name="select_image_operation">Добавление фото</string>
     <string name="select_item_face">"Это '%s'?"</string>
@@ -2566,6 +2580,7 @@ ID: %s
     <string name="send_public_url">Отправить ссылку на альбом</string>
     <string name="send_secret_file_failed">Не удалось отправить</string>
     <string name="send_secret_file_space_low">Недостаточно места</string>
+    <string name="send_special_video_duration_more_than_40s">Обработанное видео длительностью более %d минут может быть передано только в оригинальном формате, который может быть несовместим с принимающим устройством. Все равно продолжить?</string>
     <string name="service_error">Ошибка сервера</string>
     <string name="service_is_provided_by_miui_cloud_service">Сервис предоставляется Xiaomi Cloud</string>
     <string name="set_as_baby_lock_wallpaper">Установить как обои экрана блокировки</string>
@@ -3044,6 +3059,7 @@ ID: %s
     <string name="text_item_type_talkback_spot_yiheyuan">Летний дворец</string>
     <string name="text_item_type_talkback_spot_zhangjiajie">Чжанцзяцзе</string>
     <string name="text_recognition">Распознавание текста</string>
+    <string name="text_segment">Вырезка из фото</string>
     <string name="text_tab_bubble">Выноска</string>
     <string name="text_tab_city">Город</string>
     <string name="text_tab_festival">Праздник</string>

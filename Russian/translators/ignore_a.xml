@@ -710,6 +710,7 @@
     <string-array name="country_codes_hid_sap_5GHz_band"></string-array>
     <string-array name="country_support_esim"></string-array>
     <array name="cover_icon_arrays"></array>
+    <array name="cover_icon_n_arrays"></array>
     <string-array name="crossSimSpnFormats"></string-array>
     <array name="cross_profile_apps" />
     <string-array name="crypto_fingerprint_fallback_prefixes"></string-array>

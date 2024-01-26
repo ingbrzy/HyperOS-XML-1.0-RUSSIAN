@@ -265,6 +265,8 @@
     <string name="focus_time_exception_tip">Системное время изменилось. Режим медитации выключен.</string>
     <string name="follow_apps_settings">Используются настройки приложения</string>
     <string name="follow_sim1">Применить настройки SIM (слот 1)</string>
+    <string name="footer_global_fps">"
+%1$d. При включении производительного режима, частота обновления будет переключена на максимальное для системы значение %2$d Гц. Изменение высокой частоты обновления будет временно недоступно."</string>
     <string name="footer_max_fps" formatted="false">"
 %d. Частота обновления может быть настроена до %s Гц для поддерживаемых приложений и игр."</string>
     <string name="force_rest">Обязательные перерывы</string>
@@ -541,6 +543,7 @@
     <string name="scarlet_macaw_info">Длиннохвостые, часто разноцветные, попугаи Нового Света</string>
     <string name="screen_cancel">Отмена</string>
     <string name="screen_confirm">Включить</string>
+    <string name="screen_fps_string">Гц</string>
     <string name="screen_fps_summary_power_save">Фиксированная частота обновления экономит заряд</string>
     <string name="screen_fps_summary_smooth">Некоторые приложения автоматически увеличивают частоту обновления для качества изображения</string>
     <string name="screen_fps_title">Частота обновления</string>

@@ -887,6 +887,7 @@
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="view_all_notes">Показать все</string>
+    <string name="warn_cannot_add_more_content">Достигнута максимальная длина заметки. Дополнительно добавленное содержимое не будет сохранено.</string>
     <string name="warn_cannot_add_new_bullet">Не удалось добавить новый маркированный список, заметка слишком длинная</string>
     <string name="warn_cannot_add_new_checkbox">Не удалось добавить новый флажок, заметка слишком длинная</string>
     <string name="warn_cannot_add_new_content">Не удалось добавить новый контент, заметка слишком длинная</string>

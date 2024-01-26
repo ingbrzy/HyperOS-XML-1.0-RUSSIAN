@@ -46,7 +46,7 @@
     <string name="earth_position_title_4">"Италия
 Доломиты"</string>
     <string name="earth_summary">Колыбель человеческой цивилизации</string>
-    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_super_wallpaper_label">Земля</string>
     <string name="earth_title">Земля</string>
     <string name="earth_view_height_0" />
     <string name="earth_view_height_1" />
@@ -101,7 +101,7 @@ NASA/JPL/Университет Аризоны"</string>
     <string name="mars_position_title_3">Холмы Парамп</string>
     <string name="mars_position_title_4">Бахрам Валлис</string>
     <string name="mars_summary">Необъятные пустыни на поверхности Марса всегда манили своей таинственностью</string>
-    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_super_wallpaper_label">Марс</string>
     <string name="mars_title">Марс</string>
     <string name="mars_view_height_0">287.3 км</string>
     <string name="mars_view_height_1">256.7 км</string>
@@ -150,6 +150,9 @@ NASA/JPL/Университет Аризоны"</string>
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
+    <string name="moon_summary">Ещё один маленький шаг человечества к освоению космоса</string>
+    <string name="moon_super_wallpaper_label">Луна</string>
+    <string name="moon_title">Луна</string>
     <string name="morning">Утро</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
@@ -157,7 +160,7 @@ NASA/JPL/Университет Аризоны"</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="saturn_summary">Кольца Сатурна — это по-настоящему завораживающее зрелище</string>
-    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_super_wallpaper_label">Сатурн</string>
     <string name="saturn_title">Сатурн</string>
     <string name="search_menu_title">Поиск</string>
     <string name="snowmountain_summary">Залитые солнцем склоны горы Сигунян</string>

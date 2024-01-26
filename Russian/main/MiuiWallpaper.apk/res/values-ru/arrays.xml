@@ -74,6 +74,11 @@
         <item>Обои/Суперобои/Марс</item>
         <item>Марс;Марсианский;Суперобои;Обои</item>
     </string-array>
+    <string-array name="settings_search_moon">
+        <item>Луна</item>
+        <item>Обои/Суперобои/Луна</item>
+        <item>Космос;Луна;Суперобои;Обои</item>
+    </string-array>
     <string-array name="settings_search_saturn">
         <item>Сатурн</item>
         <item>Обои/Суперобои/Сатурн</item>
