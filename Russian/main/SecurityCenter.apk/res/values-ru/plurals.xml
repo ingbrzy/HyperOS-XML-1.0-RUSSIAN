@@ -739,9 +739,9 @@
         <item quantity="one">" мин."</item>
     </plurals>
     <plurals name="pc_can_be_optimize_numbers">
-        <item quantity="other">%d элементов</item>
-        <item quantity="one">%d элемент</item>
-        <item quantity="few">%d элемента</item>
+        <item quantity="other">%d пунктов</item>
+        <item quantity="one">%d пункт</item>
+        <item quantity="few">%d пункта</item>
     </plurals>
     <plurals name="pc_extreme_mode_count_down_title">
         <item quantity="other">Устройство разряжено. Переход в режим гибернации через %1$d сек.</item>

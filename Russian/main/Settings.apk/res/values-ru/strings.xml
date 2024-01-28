@@ -10275,9 +10275,9 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="virus_scan_app_no_risk">Угрозы не найдены</string>
     <string name="virus_scan_app_passed">Проверено</string>
     <string name="virus_scan_app_risk">Найдены угрозы</string>
-    <string name="virus_scan_app_safe_scanning">Проверка…</string>
+    <string name="virus_scan_app_safe_scanning">Проверка… </string>
     <string name="virus_scan_app_scan_finish">Проверка завершена</string>
-    <string name="virus_scan_app_scanning">Проверка…</string>
+    <string name="virus_scan_app_scanning">Проверка… </string>
     <string name="virus_scan_app_stop_scan">Остановить проверку</string>
     <string name="virus_scan_app_uninstall">Удалить: %d</string>
     <string name="virus_scan_app_waiting">Ожидание…</string>
@@ -10289,7 +10289,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="virus_scanner_manual_update">Последнее обновление: %s</string>
     <string name="virus_scanner_provider">Поддержка: %s</string>
     <string name="virus_scanner_scan">Проверить</string>
-    <string name="virus_scanner_scanning">Проверка…</string>
+    <string name="virus_scanner_scanning">Проверка… </string>
     <string name="virus_scanner_select_Cancel">Отмена</string>
     <string name="virus_scanner_select_OK">ОК</string>
     <string name="virus_scanner_select_lib">Выберите сигнатуры</string>

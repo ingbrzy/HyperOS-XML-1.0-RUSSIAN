@@ -226,19 +226,19 @@
     <string name="circulate_device_type_name_tv">ТВ</string>
     <string name="circulate_device_type_name_wifi_speaker">Колонка</string>
     <string name="circulate_device_type_name_wifi_speaker_with_screen">Сенсорная колонка</string>
-    <string name="circulate_headset_back_to_box_desc">"1. Поместите оба наушника в зарядный чехол.
+    <string name="circulate_headset_back_to_box_desc">"1. Поместите оба наушника в зарядный кейс.
 2. Зажмите кнопку на чехле.
 3. Завершите сопряжение на целевом устройстве."</string>
     <string name="circulate_headset_back_to_box_desc_err_308">Подключите наушники к ТВ</string>
     <string name="circulate_headset_back_to_box_desc_err_310">"1. Нажмите кнопку питания на пульте дистанционного управления телевизором, чтобы отключить динамики.
 2. Попробуйте подключить наушники снова, как только загорится экран."</string>
-    <string name="circulate_headset_back_to_box_desc_pad">"1. Поместите оба наушника в чехол.
+    <string name="circulate_headset_back_to_box_desc_pad">"1. Поместите оба наушника в кейс.
 2. Зажмите кнопку на чехле.
 3. Завершите сопряжение в настройках Bluetooth или с помощью всплывающего диалогового окна на устройстве."</string>
-    <string name="circulate_headset_back_to_box_desc_phone">"1. Поместите оба наушника в чехол.
+    <string name="circulate_headset_back_to_box_desc_phone">"1. Поместите оба наушника в кейс.
 2. Зажмите кнопку на чехле.
 3. Завершите сопряжение в настройках Bluetooth или с помощью всплывающего диалогового окна на устройстве."</string>
-    <string name="circulate_headset_back_to_box_desc_tv">"1. Поместите оба наушника в зарядный чехол.
+    <string name="circulate_headset_back_to_box_desc_tv">"1. Поместите оба наушника в зарядный кейс.
 2. Зажмите кнопку на чехле.
 3. Откройте список доступных устройств Bluetooth на ТВ и подтвердите сопряжение."</string>
     <string name="circulate_headset_back_to_box_subtitle">Не удалось автоматически подключить наушники. Подключите их вручную на целевом устройстве.</string>

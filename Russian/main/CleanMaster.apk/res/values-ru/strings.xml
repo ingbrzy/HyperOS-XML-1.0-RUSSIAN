@@ -496,7 +496,7 @@
     <string name="hints_quick_deep_scanning">Проверка</string>
     <string name="hints_quick_deep_uninstall">Удалить</string>
     <string name="hints_quick_prepare">Подготовка…</string>
-    <string name="hints_quick_scanning">Проверка…</string>
+    <string name="hints_quick_scanning">Проверка… </string>
     <string name="hints_residual_header_left">Остатки данных</string>
     <string name="hints_scan_has_finish">Очистка завершена</string>
     <string name="hints_scanfinish">Нет мусора</string>
@@ -882,7 +882,7 @@
     <string name="saturday_shortest">Сб</string>
     <string name="sc_allow_network_dialog_button">Разрешить</string>
     <string name="sc_allow_network_dialog_message">Разрешить приложению подключаться к интернету для получения обновлений?</string>
-    <string name="scanning">Проверка…</string>
+    <string name="scanning">Проверка… </string>
     <string name="search_history">История поиска</string>
     <string name="search_menu_title">Поиск</string>
     <string name="security_center_slogan">Безопасность. Всегда на защите.</string>

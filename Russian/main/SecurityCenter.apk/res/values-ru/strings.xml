@@ -2828,8 +2828,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="hints_scan_result_no_finish">Проверка не завершена. Начните сначала.</string>
     <string name="hints_scan_result_phone_safe">Всё в порядке</string>
     <string name="hints_scan_result_safe">Система защищена</string>
-    <string name="hints_scanning">Проверка…</string>
-    <string name="hints_scanning_text">Проверка…</string>
+    <string name="hints_scanning">Проверка… </string>
+    <string name="hints_scanning_text">Проверка… </string>
     <string name="hints_virus_apk_list_item_summary">apk</string>
     <string name="hints_virus_apk_summary">%s (apk)</string>
     <string name="hints_virus_app_list_item_summary">приложение</string>
@@ -3732,9 +3732,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_have_no_battery_issue">В порядке</string>
     <string name="pc_hide_more_power_rank_apps">Скрыть</string>
     <string name="pc_hidemode_normal">Баланс</string>
-    <string name="pc_hidemode_normal_title">Сбалансированный режим</string>
+    <string name="pc_hidemode_normal_title">Сбалансированный</string>
     <string name="pc_hidemode_performance">Скорость</string>
-    <string name="pc_hidemode_performance_title">Производительный режим</string>
+    <string name="pc_hidemode_performance_title">Производительный</string>
     <string name="pc_hidemode_power_save">Экономия</string>
     <string name="pc_high_temp_discharge_reminder">Зарядите устройство. Если устройство перегреется при разряженной батарее, это может повредить её.</string>
     <string name="pc_high_temp_protection_noti_bt_text">Понятно</string>
@@ -4124,7 +4124,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_5g_save_summary_text">Уменьшение энергопотребления 5G при определённых сценариях использования</string>
     <string name="power_center_5g_save_title_text">Экономия заряда для 5G</string>
     <string name="power_center_abnormal_consume_analysis">Аномалии питания</string>
-    <string name="power_center_auto_shutdown">Таймер питания</string>
+    <string name="power_center_auto_shutdown">Расписание питания</string>
     <string name="power_center_back">Назад</string>
     <string name="power_center_battery_all">Все</string>
     <string name="power_center_battery_app_detail">Приложения</string>
@@ -4175,8 +4175,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_night_charge_protection_setting">Дополнительные параметры в Безопасность > Батарея.</string>
     <string name="power_center_night_charge_protection_summary">Для уменьшения старения батареи, MIUI собирает статистику по зарядке, чтобы исключить избыточную непрерывную зарядку</string>
     <string name="power_center_one_key_save">Оптимизировать</string>
-    <string name="power_center_ontime_boot">Включение по расписанию</string>
-    <string name="power_center_ontime_shutdown">Выключение по расписанию</string>
+    <string name="power_center_ontime_boot">Включение устройства</string>
+    <string name="power_center_ontime_shutdown">Выключение устройства</string>
     <string name="power_center_optimize_title">Рекомендации</string>
     <string name="power_center_power_save_summary_text">Увеличить автономность до %1$d ч. %2$d мин.</string>
     <string name="power_center_power_save_title_text">Экономия заряда</string>
