@@ -5651,4 +5651,8 @@ feedsContentId:
     <string name="zhifubao_not_found"> </string>
     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
+    <string name="distributed_hardware_info">"[{\"dhOwner\":\"com.xiaomi.distaudio\",\"dhType\":\"4\",\"attr\":{\"version\":1,\"defaults\":{\"params\":[{\"channels\":2,\"bitDepth\":16,\"sampleRate\":8000}]}}},
+        {\"dhOwner\":\"com.xiaomi.distaudio\",\"dhType\":\"3\",\"attr\":{version:1,defaults:{params:[{channels:2,bitDepth:16,sampleRate:8000},{channels:2,bitDepth:16,sampleRate:44100},{channels:2,bitDepth:16,sampleRate:48000}]}}}]"</string>
+<!-- ### FROM SOURCE -->
+    <string name="feishu">Feishu</string>
 </resources>
