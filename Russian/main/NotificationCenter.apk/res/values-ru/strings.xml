@@ -173,8 +173,8 @@
     <string name="notch_and_status_bar_setting">Строка состояния</string>
     <string name="notification_display_setting">Шторка уведомлений</string>
     <string name="notification_display_style">Стиль уведомлений</string>
-    <string name="notification_fold_description1">Папка уведомлений была введена в MIUI 9. Неважные уведомления помещаются в отдельную папку.</string>
-    <string name="notification_fold_description2">MIUI запоминает, на какие уведомления вы реагируете, впоследствии использует несколько критериев для определения важности уведомлений.</string>
+    <string name="notification_fold_description1">Папка уведомлений позволяет фильтровать неважные уведомления и помещать их в отдельную папку</string>
+    <string name="notification_fold_description2">Система запоминает, на какие уведомления вы реагируете, впоследствии использует несколько критериев для определения важности уведомлений.</string>
     <string name="notification_fold_description3">Если уведомления, которые вы считаете важными, по-прежнему попадают в отдельную папку, сообщите нам. Мы будем благодарны за отзывы.</string>
     <string name="notification_fold_footer_icon_summary">Показывать значки приложений для группы неважных уведомлений</string>
     <string name="notification_fold_footer_icon_title">Показывать значки приложений</string>
@@ -184,7 +184,7 @@
     <string name="notification_keyguard_show_content">Показывать полностью</string>
     <string name="notification_keyguard_show_nothing">Не показывать</string>
     <string name="notification_style_android">Android</string>
-    <string name="notification_style_miui">MIUI</string>
+    <string name="notification_style_miui">Классический</string>
     <string name="off">Откл.</string>
     <string name="on">Вкл.</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
@@ -230,7 +230,7 @@
     <string name="summary_enable_lockscreen_notification">Уведомления разрешены</string>
     <string name="summary_enable_show_badge_notification">Метка на иконке разрешена</string>
     <string name="summary_float_enable_notification_first">Включите уведомления для показа всплывающих уведомлений</string>
-    <string name="summary_fold_importance_default">Отображение уведомлений по выбору MIUI</string>
+    <string name="summary_fold_importance_default">Отображение уведомлений по выбору системы</string>
     <string name="summary_fold_importance_important">Уведомления появятся в шторке уведомлений</string>
     <string name="summary_fold_importance_unimportant">Уведомления появятся в отдельной папке</string>
     <string name="summary_lock_screen_enable_notification_first">Включите уведомления для отображения на экране блокировки</string>

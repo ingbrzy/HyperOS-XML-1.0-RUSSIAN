@@ -101,7 +101,7 @@
         <item>Не показывать</item>
     </string-array>
     <string-array name="notification_style_entries">
-        <item>MIUI</item>
+        <item>Классический</item>
         <item>Android</item>
     </string-array>
 </resources>

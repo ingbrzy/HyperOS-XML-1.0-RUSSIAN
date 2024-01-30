@@ -110,7 +110,7 @@
     <string name="date_time_picker_has_not_set_alarm">Напоминание не установлено</string>
     <string name="date_time_picker_has_set_alarm">Напоминание установлено</string>
     <string name="db_downgrade_clear_button">Очистить данные</string>
-    <string name="db_downgrade_clear_date_reminder">Для перехода на другую версию MIUI требуется очистка данных приложения. Прежде чем это сделать, убедитесь, что вы сохранили свои заметки в облаке.</string>
+    <string name="db_downgrade_clear_date_reminder">Для перехода на другую версию системы требуется очистка данных приложения. Прежде чем это сделать, убедитесь, что вы сохранили свои заметки в облаке.</string>
     <string name="default_folder_name">Заметки</string>
     <string name="default_update_documents">Доступно обновление. Обновить?</string>
     <string name="delete_folder_dialog_tile">Удаление папки</string>
@@ -487,7 +487,7 @@
     <string name="not_now">Не сейчас</string>
     <string name="not_set">Не задано</string>
     <string name="note_dual_screen_dialog_content">Похоже, вы сейчас редактируете заметки на ПК. Чтобы избежать конфликтов при правках, закройте приложение Заметки на ПК.</string>
-    <string name="note_dual_screen_dialog_title">Использование MIUI+…</string>
+    <string name="note_dual_screen_dialog_title">Использование Screen Combo…</string>
     <string name="note_gesture_guide_step1">Для создания голосовой заметки нажмите и удерживайте кнопку \"Создать\" </string>
     <string name="note_gesture_guide_step2">Для создания папки нажмите и удерживайте заметку, затем перетащите её на другую заметку</string>
     <string name="note_gesture_guide_step3">Чтобы переместить заметку в папку, нажмите и удерживайте её, затем перетащите на папку</string>
@@ -684,7 +684,7 @@
     <string name="snippet_image_stub">Изображение</string>
     <string name="snippet_image_template">[Изображение %1$s]</string>
     <string name="sns_content_default">Поделиться фото</string>
-    <string name="sns_footer_text">Создано с помощью заметок MIUI</string>
+    <string name="sns_footer_text">Создано с помощью Mi Заметок</string>
     <string name="sns_title_edit">Поделиться заметкой</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
