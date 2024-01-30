@@ -631,7 +631,7 @@ ID:%s
     <string name="metered_play_toast_with_data">Для воспроизведения используется мобильный интернет, %s осталось</string>
     <string name="mi_fm">Mi FM</string>
     <string name="midnight">Ночь</string>
-    <string name="milink_unavaliable_please_update">Mi Link недоступен. Обновите MIUI.</string>
+    <string name="milink_unavaliable_please_update">Mi Link недоступен. Обновите систему.</string>
     <string name="missing_title">&lt;Неизвестный&gt;</string>
     <string name="miui_fm">FM Радио</string>
     <string name="miui_fm_description">Большое количество интернет-радиостанций</string>
@@ -1088,7 +1088,7 @@ ID:%s
     <string name="settings_search_title_main">Музыка</string>
     <string name="settings_search_title_notification">Уведомления</string>
     <string name="settings_search_title_vip_service">Премиальный контент</string>
-    <string name="share_append_text">От @MIUI</string>
+    <string name="share_append_text">От @Mi Радио</string>
     <string name="share_choice">Выбрать</string>
     <string name="share_chooser_title">Отправить через</string>
     <string name="share_description">От Mi Музыка</string>

@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
+    <string name="app_name">Mi Service</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
@@ -148,7 +149,7 @@
     <string name="permission_imei_disable_desc">Предоставьте приложению доступ к интернету</string>
     <string name="permission_imei_enable_desc">Предоставьте приложению доступ к интернету и вышеперечисленные разрешения</string>
     <string name="permission_location_introduce">Для отображения ближайших пунктов обслуживания</string>
-    <string name="permission_main_purpose">Демонстрация функций MIUI, отправка отзывов и подача заявок на послепродажное обслуживание.</string>
+    <string name="permission_main_purpose">Демонстрация возможностей, отправка отзывов и подача заявок на послепродажное обслуживание.</string>
     <string name="permission_privacy">Политика конфиденциальности (обязательно)</string>
     <string name="permission_region_version_msg">&lt;Data&gt;Нажав \"Принимаю\", вы соглашаетесь с &lt;a href=\"%1$s\"&gt;Пользовательским соглашением&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политикой конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="permission_select_all">Выбрать все</string>

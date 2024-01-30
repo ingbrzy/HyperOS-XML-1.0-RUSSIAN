@@ -1289,7 +1289,7 @@ ID: %s
     <string name="phone_number">Номер телефона</string>
     <string name="photoPickerNotFoundText">Нет доступных фото.</string>
     <string name="pip">Картинка в картинке</string>
-    <string name="pip_not_supported_toast">Обновите MIUI, чтобы использовать функцию \"Картинка в картинке\"</string>
+    <string name="pip_not_supported_toast">Обновите систему, чтобы использовать функцию \"Картинка в картинке\"</string>
     <string name="play_list_save_dialog_create">Создать плейлист</string>
     <string name="play_list_save_dialog_title">Добавить в плейлист</string>
     <string name="play_list_sign_in_dialog_message">Войдите в свою учётную запись Google, чтобы просмотреть все ваши плейлисты</string>

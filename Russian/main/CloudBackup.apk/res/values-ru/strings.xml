@@ -120,13 +120,13 @@
 *  Приложения, рабочий стол и обои 
 *  Настройки будильника, часов и времени 
 *  Настройки уведомлений 
-*  Настройки MIUI и системы 
+*  Настройки системы 
 Внимание: данные установленных приложений не будут сохранены в Xiaomi Cloud."</string>
     <string name="cloud_back_up_detail_discription_china">"При подключении к Wi-Fi в Xiaomi Cloud будут созданы резервные копии следующих объектов: 
 *  Приложения, рабочий стол и обои 
 *  Настройки будильника, часов и времени 
 *  Настройки уведомлений 
-*  Настройки MIUI и системы 
+*  Настройки системы 
 Внимание: данные установленных приложений не будут сохранены в Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Расписание</string>
     <string name="cloud_back_up_frequence_long">Каждые %d дней</string>
@@ -634,7 +634,7 @@
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
     <string name="unselected">Не выбрано</string>
-    <string name="unsupported_home">Обновите MIUI до последней версии.</string>
+    <string name="unsupported_home">Обновите систему до последней версии.</string>
     <string name="v7_preference_off">Откл.</string>
     <string name="v7_preference_on">Вкл.</string>
     <string name="wait_icon_download">Загрузка иконок приложений</string>

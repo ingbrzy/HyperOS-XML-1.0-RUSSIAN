@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
+    <string name="app_name">Сенсорный помощник</string>
     <string name="app_not_installed">Не установлено</string>
     <string name="applications">Приложения</string>
     <string name="category_others">Прочее</string>

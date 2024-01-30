@@ -453,7 +453,7 @@
     <string name="micloud_space_duokan_detail">Загружайте и читайте книги с помощью приложения Duokan.</string>
     <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_soundrecorder_detail">"Откройте Диктофон на устройстве Xiaomi и выберите папку с файлами, сохраненными в облаке.
-Убедитесь, что текущая учетная запись Xiaomi используется в качестве системной учетной записи MIUI."</string>
+Убедитесь, что текущий аккаунт Xiaomi используется в качестве системного аккаунта."</string>
     <string name="micloud_space_soundrecorder_title">Записи диктофона</string>
     <string name="micloud_storage_detail">Подробности</string>
     <string name="micloud_storage_family_quota">Общее пространство</string>
@@ -735,7 +735,7 @@
     <string name="share_sdk_invite_suggestion_list_error">Нет рекомендуемых людей для приглашения</string>
     <string name="share_sdk_invite_way_contact_summary">Пригласить сразу несколько человек</string>
     <string name="share_sdk_invite_way_contact_title">Приглашение по SMS</string>
-    <string name="share_sdk_invite_way_qr_code_summary">Используйте сканер WeChat или MIUI Scanner</string>
+    <string name="share_sdk_invite_way_qr_code_summary">Используйте сканер WeChat или системный сканер</string>
     <string name="share_sdk_invite_way_qr_code_title">Пригласить через QR-код</string>
     <string name="share_sdk_invite_way_wechat_summary">Пригласить людей или группы</string>
     <string name="share_sdk_invite_way_wechat_title">Пригласить через WeChat</string>
@@ -826,9 +826,9 @@
     <string name="sync_dspt">Включить синхронизацию</string>
     <string name="sync_dspt_entrance_provision">"Синхронизируйте фото, контакты, журналы вызовов и сообщения на всех устройствах. Просматривайте их в любом браузере на %s. "</string>
     <string name="sync_dspt_entrance_provision_confirm_close">Не использовать</string>
-    <string name="sync_dspt_entrance_provision_confirm_content">Системным приложениям MIUI необходим Xiaomi Cloud для создания резервных копий фото, сообщений, заметок и прочего. Xiaomi Cloud бесплатен и готов к использованию в любой момент.</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">Системным приложениям необходим Xiaomi Cloud для создания резервных копий фото, сообщений, заметок и прочего. Xiaomi Cloud бесплатен и готов к использованию в любой момент.</string>
     <string name="sync_dspt_entrance_provision_confirm_content_pad">Используйте Xiaomi Cloud для резервного копирования фото, сообщений, заметок и многого другого. Xiaomi Cloud бесплатен и готов к использованию в любой момент.</string>
-    <string name="sync_dspt_entrance_provision_confirm_content_v2">Системным приложениям MIUI необходим Xiaomi Cloud для создания резервных копий фото, сообщений, заметок и прочего. Xiaomi Cloud бесплатен и готов к использованию в любой момент.</string>
+    <string name="sync_dspt_entrance_provision_confirm_content_v2">Системным приложениям необходим Xiaomi Cloud для создания резервных копий фото, сообщений, заметок и прочего. Xiaomi Cloud бесплатен и готов к использованию в любой момент.</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Использовать</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Не использовать Xiaomi Cloud?</string>
     <string name="sync_dspt_entrance_provision_network">Приложению для работы требуется доступ к интернету. Синхронизация возможна через мобильную сеть или Wi-Fi.</string>

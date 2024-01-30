@@ -77,6 +77,7 @@
     <string name="anniversary_event_title">Годовщина: %1$s</string>
     <string name="anniversary_secondary_tag">Годовщина</string>
     <string name="app_label">Календарь</string>
+    <string name="app_name">Календарь</string>
     <string name="app_not_found">Не удалось найти приложение</string>
     <string name="aqi_level">ИКВ %d</string>
     <string name="at_least_one_channel">Не выбрано</string>
@@ -468,7 +469,7 @@
     <string name="joke_card_click_toast">Удерживайте для копирования</string>
     <string name="joke_card_icon_text">Шутки: %1$s</string>
     <string name="joke_card_long_click_toast">Скопировано</string>
-    <string name="joke_card_paste_suffix">[календарь MIUI]</string>
+    <string name="joke_card_paste_suffix">[календарь]</string>
     <string name="language_change_confirmation">Успешно изменено. Язык можно изменить в настройках календаря.</string>
     <string name="launch_weather_comment">Нажмите для получения информации о погоде</string>
     <string name="life_assistant_group_title">Помощник</string>
@@ -884,7 +885,7 @@
     <string name="setting">Настройки</string>
     <string name="setting_about_calendar_version">Версия:</string>
     <string name="setting_about_imei">IMEI:</string>
-    <string name="setting_about_miui_version">Версия MIUI:</string>
+    <string name="setting_about_miui_version">Версия:</string>
     <string name="setting_about_summary">"Версия: "</string>
     <string name="setting_accounts">Аккаунты календаря</string>
     <string name="setting_change_language">Выберите язык календаря</string>

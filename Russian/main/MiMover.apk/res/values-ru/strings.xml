@@ -34,6 +34,7 @@
     <string name="android_id_usage">Для определения версии приложения и совместимости между старыми и новыми устройствами</string>
     <string name="android_oaid">OAID</string>
     <string name="antispam">Список блокировок</string>
+    <string name="app_name">Mi Mover</string>
     <string name="app_update_64_dialog_cancel">Отмена</string>
     <string name="app_update_64_dialog_confirm">Обновить</string>
     <string name="app_update_64_dialog_title">Обновление приложений</string>
@@ -98,7 +99,7 @@
     <string name="cancel_tranfer">Отмена</string>
     <string name="cannot_use_mi_huanji_bacause_of_downloader">\"%s\" установлен в качестве службы резервного копирования. Удалите его и перезагрузите устройство, чтобы использовать Mi Mover.</string>
     <string name="cannot_use_mi_huanji_button">Понятно</string>
-    <string name="cannot_use_mi_huanji_summary">Похоже, MIUI сейчас выполняет резервное копирование. Остановите текущее резервное копирование или перезагрузите устройство, чтобы Mi Mover мог начать передачу.</string>
+    <string name="cannot_use_mi_huanji_summary">Выполняется резервное копирование, остановите его или перезагрузите устройство, чтобы Mi Mover мог начать передачу.</string>
     <string name="cannot_use_mi_huanji_title">Не могу перенести сейчас</string>
     <string name="clear_old_task_failed">Не удалось удалить старые задачи</string>
     <string name="clearable_edittext_clear_description">Очистить</string>

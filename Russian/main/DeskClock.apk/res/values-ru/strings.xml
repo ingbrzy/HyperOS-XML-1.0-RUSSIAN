@@ -57,6 +57,7 @@
     <string name="alert_volume_summary">Громкость звонка для будильников и таймеров</string>
     <string name="alert_xiaoai_ringtone_desc">Mi AI говорит…</string>
     <string name="app_label">Часы</string>
+    <string name="app_name">Часы</string>
     <string name="auto_silence_entries1">Никогда</string>
     <string name="auto_silence_entries2"><xliff id="MINUTES" refersto="1">%d</xliff> мин.</string>
     <string name="auto_silence_entries3"><xliff id="MINUTES" refersto="5">%d</xliff> мин.</string>

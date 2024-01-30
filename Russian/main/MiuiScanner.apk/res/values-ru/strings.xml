@@ -327,7 +327,7 @@
     <string name="intelligent_recognition">Распознавание</string>
     <string name="jd_shopping_title">Поиск в JD</string>
     <string name="jingdong">JD</string>
-    <string name="keywords_search_code">Сканер; Сканирование; QR-код; QR-код; Распознавание; Штрих-код; Штрих-коды; Продукт; Продукты; Alipay; WeChat; Как сканировать QR-код; Как сканировать штрих-код; Как сканировать; MIUI Сканер</string>
+    <string name="keywords_search_code">Сканер; Сканирование; QR-код; QR-код; Распознавание; Штрих-код; Штрих-коды; Продукт; Продукты; Alipay; WeChat; Как сканировать QR-код; Как сканировать штрих-код; Как сканировать; Сканер</string>
     <string name="keywords_search_document">Сканер; Сканирование документа; Сканирование документов; OCR; Сканирование текста; Сканирование</string>
     <string name="keywords_search_namecard">Сканер; Визитная карточка; Визитные карточки; Сканирование; Сканирование карточек; Карточка; Карточки; Контакты; Контакт</string>
     <string name="keywords_search_study">Сканер; Проблемы; Решение; Домашнее задание; Школа; Физика; Химия; Математика; Математика; Английский; История; Китайский</string>
@@ -352,7 +352,7 @@
     <string name="location_permissions_text">Для использования этой функции разрешите использование геолокации в настройках</string>
     <string name="logistics">Экспресс доставка</string>
     <string name="logout_service">Отзыв согласия</string>
-    <string name="low_version_tip">Чтобы использовать Сканер обновите MIUI до последней версии.</string>
+    <string name="low_version_tip">Чтобы использовать Сканер обновите систему до последней версии.</string>
     <string name="midnight">Ночь</string>
     <string name="mihome_goto_install">Установить</string>
     <string name="mihome_goto_update">Обновить</string>
@@ -410,7 +410,7 @@
     <string name="monday_short">Пн</string>
     <string name="monday_shortest">Пн</string>
     <string name="monitor_low_android">Версия Android устарела</string>
-    <string name="monitor_low_miui">Версия MIUI устарела</string>
+    <string name="monitor_low_miui">Версия системы устарела</string>
     <string name="monitor_result_option_delete">Удалить</string>
     <string name="monitor_result_option_rename">Переименовать</string>
     <string name="monitor_result_switch_text">Сохранить</string>

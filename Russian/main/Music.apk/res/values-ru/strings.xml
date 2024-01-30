@@ -101,6 +101,7 @@
     <string name="app_disable_description_content">Приложение \"Музыка\" является системным. Его отключение может повлиять на использование других приложений. Отключить?</string>
     <string name="app_disable_description_title">Отключить системное приложение?</string>
     <string name="app_label">Загрузки</string>
+    <string name="app_name">Музыка</string>
     <string name="app_notify_dialog_btn_desc">Настройки</string>
     <string name="app_notify_dialog_check_desc">Включить виджет в Шторке уведомлений, но не разрешать постоянные push-уведомления.</string>
     <string name="app_notify_dialog_path">\"Настройки\" > \"Уведомления и строка состояния\" > \"Уведомления приложений\" > \"Музыка\"</string>

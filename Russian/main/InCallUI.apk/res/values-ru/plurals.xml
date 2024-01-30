@@ -30,9 +30,9 @@
         <item quantity="one">%d мин. назад</item>
     </plurals>
     <plurals name="antispam_marked_count">
-        <item quantity="other">Отмечено %d пользователями MIUI</item>
-        <item quantity="one">Отмечено %d пользователем MIUI</item>
-        <item quantity="few">Отмечено %d пользователями MIUI</item>
+        <item quantity="other">Отмечено %d пользователями</item>
+        <item quantity="one">Отмечено %d пользователем</item>
+        <item quantity="few">Отмечено %d пользователями</item>
     </plurals>
     <plurals name="auto_disconnect_timer_tip">
         <item quantity="other">Отбой вызова через %1$s сек…</item>

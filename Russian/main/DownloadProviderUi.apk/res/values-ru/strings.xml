@@ -39,6 +39,7 @@
     <string name="afternoon">После полудня</string>
     <string name="all_share_files_content">Выбранные файлы уже удалены.</string>
     <string name="app_label">Загрузки</string>
+    <string name="app_name">Загрузки</string>
     <string name="bt_download">Загрузить</string>
     <string name="bt_path_not_exit">Данный путь не существует</string>
     <string name="bt_xunlei_open_info">Использовать Xunlei Engine для открытия таких ссылок?</string>

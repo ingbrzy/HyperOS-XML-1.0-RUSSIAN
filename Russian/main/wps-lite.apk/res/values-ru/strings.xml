@@ -54,6 +54,7 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="aboard_mail_body_content">Приложение поддерживает несколько форматов документов, имеет небольшой размер и бесплатное. Можно скачать здесь:</string>
+    <string name="app_name">pdf-android-tools</string>
     <string name="app_unknownError">Выход из-за неизвестной ошибки</string>
     <string name="chart_NotSupportedPic_bmw">Этот формат изображения не поддерживается.</string>
     <string name="chart_OtherCategoryName_bmw">Другое</string>

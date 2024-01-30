@@ -92,7 +92,7 @@
     <string name="double_click_volume_down_when_lock">Двойное нажатие \"Уменьшение громкости\"</string>
     <string name="double_knock">Двойное касание костяшкой</string>
     <string name="dump_log">Сбор журналов</string>
-    <string name="dump_log_summary">"Эта функция предназначена для создания журнала 284 в Бета версиях MIUI. Используйте её с осторожностью.
+    <string name="dump_log_summary">"Эта функция предназначена для создания журнала 284 в Бета версиях системы. Используйте её с осторожностью.
 Созданные журналы можно просмотреть в Проводнике."</string>
     <string name="dump_log_title">Об этой функции</string>
     <string name="early_morning">Утро</string>
@@ -414,7 +414,7 @@
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="preferred_app_settings_reset">Сброс настроек</string>
     <string name="preferred_app_settings_reset_button">Сбросить</string>
-    <string name="preferred_app_settings_reset_message">Все настройки приложений MIUI по умолчанию будут сброшены к заводским установкам.</string>
+    <string name="preferred_app_settings_reset_message">Все настройки приложений будут сброшены к заводским установкам</string>
     <string name="preferred_media_app_summary">Выберите музыкальный плеер</string>
     <string name="regional_screen_shot">Частичный скриншот</string>
     <string name="saturday">Суббота</string>

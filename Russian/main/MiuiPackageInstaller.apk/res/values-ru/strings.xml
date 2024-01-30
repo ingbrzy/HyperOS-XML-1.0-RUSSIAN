@@ -311,7 +311,7 @@
     <string name="miui_failed_market_code_download_failed">Не удалось загрузить</string>
     <string name="miui_failed_market_code_no_response">GetApps не отвечает</string>
     <string name="miui_failed_market_code_user_canceled">Загрузка отменена</string>
-    <string name="miui_failed_miui_system_incompatible">Установочный APK не совместим с MIUI</string>
+    <string name="miui_failed_miui_system_incompatible">Установочный APK не совместим с системой</string>
     <string name="miui_failed_newer_sdk">Версия SDK ещё не поддерживается</string>
     <string name="miui_failed_older_sdk">Версия SDK устарела</string>
     <string name="miui_failed_other">Другое</string>

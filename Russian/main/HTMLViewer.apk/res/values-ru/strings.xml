@@ -32,6 +32,7 @@
     <string name="ad_service">Рекламные сервисы</string>
     <string name="afternoon">После полудня</string>
     <string name="app_label">Просмотр HTML</string>
+    <string name="app_name">Просмотр HTML</string>
     <string name="app_name_which_call">Приложение: %s</string>
     <string name="app_version_which_call">Версия приложения: %s</string>
     <string name="autoconnect">Подключаться автоматически</string>

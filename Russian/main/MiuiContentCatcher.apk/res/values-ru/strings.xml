@@ -35,7 +35,7 @@
     <string name="auth_fingerprint_content_message">Прикоснитесь пальцем к сенсору</string>
     <string name="auth_fingerprint_content_message_error">Отпечаток не распознан. Повторите попытку</string>
     <string name="auth_fingerprint_title">Подтвердите отпечаток</string>
-    <string name="autofill_description">MIUI может шифровать и хранить ваши пароли для их последующего автоматического ввода. Xiaomi не сможет прочитать ваши зашифрованные пароли.</string>
+    <string name="autofill_description">Xiaomi может шифровать и хранить ваши пароли для их последующего автоматического ввода. Мы не сможем прочитать ваши зашифрованные пароли.</string>
     <string name="autofill_hint_email_address">Эл. почта</string>
     <string name="autofill_hint_name">Имя</string>
     <string name="autofill_hint_password">Пароль</string>
@@ -250,7 +250,7 @@
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
-    <string name="using_miui_autofill_message">Для автоматического ввода паролей MIUI сохранит на устройстве данные вашего аккаунта и пароли</string>
+    <string name="using_miui_autofill_message">Для автоматического ввода паролей, информация аккаунта и пароли будут сохранены на устройстве</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="wednesday">Среда</string>

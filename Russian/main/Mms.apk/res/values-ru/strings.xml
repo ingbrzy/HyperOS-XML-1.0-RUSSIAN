@@ -68,6 +68,7 @@
     <string name="allow_network_hint">Включите \"Обновить информацию автоматически\" или проверьте подключение к сети</string>
     <string name="already_updated">Актуально</string>
     <string name="app_label">Сообщения</string>
+    <string name="app_name">Сообщения</string>
     <string name="application_list_title">Мини-приложения</string>
     <string name="attach_group_chat">Групповой чат</string>
     <string name="attach_image">Изображение</string>

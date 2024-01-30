@@ -80,6 +80,7 @@ dd.MM"</string>
     <string name="aod_style">Тема</string>
     <string name="aod_theme_store">Темы</string>
     <string name="aod_to_close">Отключить</string>
+    <string name="app_name">MiuiAod</string>
     <string name="apply">Применить</string>
     <string name="apply_succeed">Успешно применено</string>
     <string name="aqi_format">ИКВ %s</string>

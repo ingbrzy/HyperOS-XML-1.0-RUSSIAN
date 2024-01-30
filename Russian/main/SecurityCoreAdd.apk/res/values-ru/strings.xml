@@ -49,6 +49,7 @@
     <string name="airspace_users_full">Не удалось создать рабочее пространство</string>
     <string name="alwaysUsePrompt">Запомнить выбор</string>
     <string name="appData">Приложения</string>
+    <string name="app_name">Ядро системы безопасности</string>
     <string name="app_switch_key">Недавние</string>
     <string name="application_label">Настройки ввода</string>
     <string name="au_pay">au PAY</string>
@@ -720,7 +721,7 @@
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="preferred_app_settings_reset">Сброс настроек</string>
     <string name="preferred_app_settings_reset_button">Сбросить</string>
-    <string name="preferred_app_settings_reset_message">Все настройки приложений MIUI по умолчанию будут сброшены к заводским установкам.</string>
+    <string name="preferred_app_settings_reset_message">Все настройки приложений будут сброшены к заводским установкам</string>
     <string name="preferred_media_app_summary">Выберите музыкальный плеер</string>
     <string name="privacyContactsSummary">Показывать приватные объекты во втором пространстве</string>
     <string name="privacyContactsTitle">Приватные сообщения и контакты</string>

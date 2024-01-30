@@ -37,6 +37,7 @@
     <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Symbols lock</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
+    <string name="app_name">Mirror</string>
     <string name="app_no_storage_permission">Разрешите %1$s доступ к хранилищу в Настройки > Приложения > %2$s > Разрешения</string>
     <string name="app_not_support_subscreen">Невозможно развернуть это окно</string>
     <string name="app_opened_in_new_window">Приложение открыто в новом окне</string>
@@ -448,7 +449,7 @@
     <string name="send">Отправить</string>
     <string name="settings_bluetooth_enable_summary">Включите Bluetooth для поиска устройств поблизости</string>
     <string name="settings_connect_more_help">Помощь</string>
-    <string name="settings_connect_summary1">Загрузите и установите MIUI+ на ПК: https://plus.miui.com</string>
+    <string name="settings_connect_summary1">Загрузите и установите Mi Smart Share на ПК с сайта www.miui.com</string>
     <string name="settings_connect_summary2">Отсканируйте QR-код на экране ПК. Для сканирования используйте Сканер, Камеру или Mi Браузер.</string>
     <string name="settings_connect_title1">Шаг 1</string>
     <string name="settings_connect_title2">Шаг 2</string>
@@ -470,10 +471,10 @@
     <string name="settings_history_none">Ничего нет</string>
     <string name="settings_history_today_connect_time">Сегодня: %1$s</string>
     <string name="settings_history_yesterday_connect_time">Вчера: %1$s</string>
-    <string name="settings_home">MIUI+</string>
+    <string name="settings_home">Подключённые устройства</string>
     <string name="settings_home_device_disconnect">Отключиться</string>
     <string name="settings_home_sub_title">Объедините устройство и ПК в одно целое</string>
-    <string name="settings_home_tips">MIUI+ транслирует экран мобильного устройства на ПК, позволяя на нем взаимодействовать с устройством, обмениваться файлами и редактировать их</string>
+    <string name="settings_home_tips">Screen Combo транслирует экран мобильного устройства на ПК, позволяя на нем взаимодействовать с устройством, обмениваться файлами и редактировать их</string>
     <string name="settings_how_use">Подключение</string>
     <string name="settings_log_options">Журнал</string>
     <string name="settings_more_help">Помощь</string>
@@ -628,7 +629,7 @@
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="worker_authorization_loading">Подождите…</string>
-    <string name="worker_authorization_message">После подключения используйте MIUI+ на ПК для управления элементами на мобильном устройстве.</string>
+    <string name="worker_authorization_message">После подключения используйте ПК для управления элементами на мобильном устройстве.</string>
     <string name="worker_authorization_title">Подключиться?</string>
     <string name="worker_authorization_trusted">Подключаться всегда</string>
     <string name="worker_authorization_trusted_only_once">Подключиться один раз</string>

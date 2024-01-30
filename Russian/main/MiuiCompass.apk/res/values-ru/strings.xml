@@ -111,7 +111,7 @@
     <string name="invisible_mode_dialog_negative">Отмена</string>
     <string name="invisible_mode_dialog_positive">Настройки</string>
     <string name="invisible_mode_dialog_title">Режим инкогнито</string>
-    <string name="keywords_search_compass">Компас;Калибровка компаса;Давление;Высота;Широта;Долгота;MIUI Компас;Приложение компас;Направление;Атмосферное давление;Какая высота</string>
+    <string name="keywords_search_compass">Компас;Калибровка компаса;Давление;Высота;Широта;Долгота;Компас;Приложение компас;Направление;Атмосферное давление;Какая высота</string>
     <string name="latitude">ШИРОТА</string>
     <string name="live_action">Предпросмотр в реальном времени</string>
     <string name="location_east">ДОЛГОТА (В)</string>

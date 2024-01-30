@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Звуковые эффекты</string>
     <string name="bass_boost_strength">Усиление басов</string>
     <string name="ci_extreme">Усилитель FX</string>
     <string name="classical">Классическая</string>

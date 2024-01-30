@@ -86,6 +86,7 @@
     <string name="altitude">Высота</string>
     <string name="altitude_pressure_hint">*Рассчитано по давлению воздуха, может быть погрешность</string>
     <string name="altitude_range">Высота</string>
+    <string name="app_name">Здоровье</string>
     <string name="app_setting">Приложения</string>
     <string name="audio_permission_dialog_desc">Разрешение на запись звука было отклонено, предоставьте его</string>
     <string name="audio_permission_dialog_title">Запись звука</string>

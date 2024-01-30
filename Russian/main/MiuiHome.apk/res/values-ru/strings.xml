@@ -141,7 +141,8 @@
     <string name="app_drawer_tip_title">Лента заменена на меню приложений</string>
     <string name="app_edit_icon">Изменить иконку</string>
     <string name="app_install_state">Установлено</string>
-    <string name="application_name">Рабочий стол MIUI</string>
+    <string name="app_name">Рабочий стол</string>
+    <string name="application_name">Рабочий стол</string>
     <string name="apply">Применить</string>
     <string name="apply_as_lock_screen">Применить к экрану блокировки</string>
     <string name="apply_as_wallpaper">Применить к рабочему столу</string>
@@ -422,7 +423,7 @@
     <string name="menu_search">Поиск</string>
     <string name="menu_settings">Настройки системы</string>
     <string name="menu_trans_effect">Эффекты смены экранов</string>
-    <string name="mi_wallpaper">Темы MIUI</string>
+    <string name="mi_wallpaper">Темы</string>
     <string name="midnight">Ночь</string>
     <string name="minus_one_screen">Лента виджетов</string>
     <string name="miui_screen_config_title">Настройки рабочего стола</string>

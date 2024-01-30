@@ -219,7 +219,7 @@ ID: %s
 %1$d. В каком приложении или на какой странице возникла проблема?
 %2$d. Какие действия вызвали проблему?
 %3$d. Укажите дополнительную информацию, которая может помочь нам решить эту проблему."</string>
-    <string name="feedback_description_hint_suggestion">Расскажите нам, как бы вы хотели улучшить MIUI.</string>
+    <string name="feedback_description_hint_suggestion">Расскажите нам, что бы вы хотели улучшить?</string>
     <string name="feedback_description_suggest_hint">Я хочу, чтобы вы добавили новую функцию (), поскольку мне нужно ().</string>
     <string name="feedback_detail_copy_toast">Скопировано в буфер обмена</string>
     <string name="feedback_detail_feedback_attach">Вложения</string>
@@ -405,7 +405,7 @@ ID: %s
     <string name="miui_feedback_edit_contact_info_hint">Телефон/Email</string>
     <string name="miui_feedback_edit_delete_images">Удалить изображения</string>
     <string name="miui_feedback_edit_desc_hint">Опишите проблему, с которой вы столкнулись</string>
-    <string name="miui_feedback_edit_desc_hint_suggestion">Расскажите, как бы вы хотели улучшить MIUI</string>
+    <string name="miui_feedback_edit_desc_hint_suggestion">Расскажите нам, что бы вы хотели улучшить?</string>
     <string name="miui_feedback_edit_discard_draft_dialog_button_cancel">Отмена</string>
     <string name="miui_feedback_edit_discard_draft_dialog_button_discard">Удалить</string>
     <string name="miui_feedback_edit_discard_draft_dialog_content">Любые изменения, внесенные вами в этот отчёт, будут потеряны.</string>
@@ -442,8 +442,8 @@ ID: %s
     <string name="miui_feedback_edit_storage_permission_name">Доступ к хранилищу</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">Отмена</string>
     <string name="miui_feedback_edit_submit_dialog_confirm">Принимаю</string>
-    <string name="miui_feedback_edit_submit_dialog_content">Нажав \"Принимаю\", вы соглашаетесь с Политикой конфиденциальности и Пользовательским соглашением. Информация о проблемах, включая вложения (могут содержать личные данные, информацию об устройстве и сети), будет отправлена на серверы MIUI. Это поможет нам найти решение этих проблем.</string>
-    <string name="miui_feedback_edit_submit_dialog_content_global">Ваш отчёт вместе со вложениями (если есть) и журналами (можно снять флажки с соответствующих полей для объектов, которые не хотите отправлять) будет отправлен на серверы MIUI. Журналы могут содержать личную информацию и данные вашего местоположения. Нажав \"Принимаю\", вы соглашаетесь с Политикой конфиденциальности и Пользовательским соглашением.</string>
+    <string name="miui_feedback_edit_submit_dialog_content">Нажав \"Принимаю\", вы соглашаетесь с Политикой конфиденциальности и Пользовательским соглашением. Информация о проблемах, включая вложения (могут содержать личные данные, информацию об устройстве и сети), будет отправлена на серверы Xiaomi. Это поможет нам найти решение этих проблем.</string>
+    <string name="miui_feedback_edit_submit_dialog_content_global">Ваш отчёт вместе со вложениями (если есть) и журналами (можно снять флажки с соответствующих полей для объектов, которые не хотите отправлять) будет отправлен на серверы Xiaomi. Журналы могут содержать личную информацию и данные вашего местоположения. Нажав \"Принимаю\", вы соглашаетесь с Политикой конфиденциальности и Пользовательским соглашением.</string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">Больше не показывать</string>
     <string name="miui_feedback_edit_submit_dialog_title">Отправка отчёта</string>
     <string name="miui_feedback_edit_submit_directly">Отправить</string>
@@ -724,7 +724,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="permission_imei_disable_desc">Предоставьте приложению доступ к интернету</string>
     <string name="permission_imei_enable_desc">Предоставьте приложению доступ к интернету и вышеперечисленные разрешения</string>
     <string name="permission_location_introduce">Для отображения ближайших пунктов обслуживания</string>
-    <string name="permission_main_purpose">Демонстрация функций MIUI, отправка отзывов и подача заявок на послепродажное обслуживание.</string>
+    <string name="permission_main_purpose">Демонстрация возможностей, отправка отзывов и подача заявок на послепродажное обслуживание.</string>
     <string name="permission_privacy">Политика конфиденциальности (обязательно)</string>
     <string name="permission_region_version_msg">&lt;Data&gt;Нажав \"Принимаю\", вы соглашаетесь с &lt;a href=\"%1$s\"&gt;Пользовательским соглашением&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политикой конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="permission_select_all">Выбрать все</string>
@@ -734,7 +734,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="photoPickerNotFoundText">Нет доступных фото</string>
     <string name="please_agree_protocal">Примите Протокол</string>
     <string name="please_download_gallery">Установите Галерею для просмотра</string>
-    <string name="post_miui_bbs_failed">Не удалось разместить на форуме MIUI</string>
+    <string name="post_miui_bbs_failed">Не удалось разместить на форуме</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_category_title">Конфиденциальность</string>
     <string name="privacy_policy_title">Политика конфиденциальности</string>
@@ -763,7 +763,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="reply_option_log_hint">Необязательно</string>
     <string name="reply_select_log_hint">Выберите журнал</string>
     <string name="reply_successful">Ответ успешно отправлен</string>
-    <string name="report_miui">Отчёт MIUI</string>
+    <string name="report_miui">Отправить отчёт</string>
     <string name="request_agree">Разрешить</string>
     <string name="request_camera_permission_message">"Мы будем защищать вашу личную информацию в соответствии с действующими законами и правилами. Для нормальной работы приложению требуется следующее разрешение:&lt;br>&lt;br>&lt;b>Доступ к камере (для установки фото профиля)&lt;/b>&lt;br>&lt;br>В случае отказа предоставить разрешение, вы не сможете использовать некоторые функции этого приложения, однако основной функционал останется доступен. Ограничить или отозвать разрешение можно в любое время в Настройках."</string>
     <string name="request_cancel">Отмена</string>
@@ -821,9 +821,9 @@ Email: service.jp@xiaomi.com"</string>
     <string name="stop_full_log_dialog_title">Создание журналов…</string>
     <string name="submit_dialog_cancel">Отмена</string>
     <string name="submit_dialog_confirm">Принимаю</string>
-    <string name="submit_dialog_content">&lt;Data>"Перед отправкой отчёта прочтите и примите &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a>. Проблемы, о которых вы сообщаете, а также данные, которые вы прикрепляете (включая журналы, которые могут содержать личную информацию и информацию об устройстве и сети), будут загружены на серверы MIUI. Это поможет нам в решении проблем, о которых вы сообщаете. Если проблемы связаны с несколькими устройствами, будут также загружены журналы с других устройств, где используется ваш аккаунт Xiaomi."&lt;/Data></string>
-    <string name="submit_dialog_content_global">Ваш отчёт вместе со вложениями (если есть) и журналами (можно снять флажки с соответствующих полей для объектов, которые не хотите отправлять) будет отправлен на серверы MIUI и в закрытый раздел форума MIUI для разработчиков. Информация о ваших темах и активности на форуме также будет собрана для анализа и дальнейшего общения. Журналы могут содержать личную информацию и данные вашего местоположения. Нажав \"Принимаю\", вы принимаете наши &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a>.</string>
-    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>Ваш отзыв, а также вложения (если таковые имеются) и журналы (вы можете снять флажки с соответствующих пунктов, которые вы не хотите загружать) будут отправлены на серверы MIUI. Журналы могут содержать личную информацию и данные о вашем местоположении. Нажав \"Принимаю\", вы принимаете наши &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a>.&lt;/Data></string>
+    <string name="submit_dialog_content">&lt;Data>"Перед отправкой отчёта прочтите и примите &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a>. Проблемы, о которых вы сообщаете, а также данные, которые вы прикрепляете (включая журналы, которые могут содержать личную информацию и информацию об устройстве и сети), будут загружены на серверы Xiaomi. Это поможет нам в решении проблем, о которых вы сообщаете. Если проблемы связаны с несколькими устройствами, будут также загружены журналы с других устройств, где используется ваш аккаунт Xiaomi."&lt;/Data></string>
+    <string name="submit_dialog_content_global">Ваш отчёт вместе со вложениями (если есть) и журналами (можно снять флажки с соответствующих полей для объектов, которые не хотите отправлять) будет отправлен на серверы Xiaomi и в закрытый раздел форума для разработчиков. Информация о ваших темах и активности на форуме также будет собрана для анализа и дальнейшего общения. Журналы могут содержать личную информацию и данные вашего местоположения. Нажав \"Принимаю\", вы принимаете наши &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a>.</string>
+    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>Ваш отзыв, а также вложения (если таковые имеются) и журналы (вы можете снять флажки с соответствующих пунктов, которые вы не хотите загружать) будут отправлены на серверы Xiaomi. Журналы могут содержать личную информацию и данные о вашем местоположении. Нажав \"Принимаю\", вы принимаете наши &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a>.&lt;/Data></string>
     <string name="submit_dialog_not_show_again">Больше не показывать</string>
     <string name="submit_dialog_title">Отправка отчёта</string>
     <string name="submit_feedback_info_failed">Не удалось отправить отчёт</string>
@@ -895,7 +895,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="title_frequent_question_feedback_main">Вопросы и ответы</string>
     <string name="title_mi_family">Mi Homes поблизости</string>
     <string name="title_nonsystem_app">Приложения</string>
-    <string name="title_same_question_feedback_main">Похожие проблемы на форуме MIUI</string>
+    <string name="title_same_question_feedback_main">Похожие проблемы на форуме</string>
     <string name="title_system_app">Система</string>
     <string name="title_user_guide">Руководство пользователя</string>
     <string name="toast_app_tag_required">Сначала выберите проблему</string>

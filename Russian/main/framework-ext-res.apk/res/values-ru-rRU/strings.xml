@@ -43,7 +43,7 @@
     <string name="auto_start_warning_deny">Запретить</string>
     <string name="auto_start_warning_title">Запускать %s автоматически?</string>
     <string name="autofill">Автозаполнение</string>
-    <string name="autofill_save_message">Разрешить MIUI сохранять учётные записи и пароли?</string>
+    <string name="autofill_save_message">Разрешить Xiaomi сохранять учётные записи и пароли?</string>
     <string name="autofill_save_ok">Разрешить</string>
     <string name="autofill_save_sub_message">Просматривать пароли и управлять ими можно в Настройки &gt; Пароли и защита &gt; %s</string>
     <string name="autofill_save_title">Автосохранение данных</string>
@@ -491,7 +491,7 @@
     <string name="security_permission_failed_text">Произошла ошибка, повторите позже</string>
     <string name="security_permission_network_failed_text">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
     <string name="security_permission_open_wifi_settings">Настройки Wi-Fi</string>
-    <string name="security_permission_validate_warning">Спасибо за то, что помогаете сделать MIUI лучше!</string>
+    <string name="security_permission_validate_warning">Спасибо за то, что помогаете сделать Xiaomi лучше!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi и мобильный интернет включены</string>
     <string name="security_permission_xiaomi_account_missed_text">Введите ID вашего аккаунта Xiaomi</string>
     <string name="security_share_text">Защита приватности</string>

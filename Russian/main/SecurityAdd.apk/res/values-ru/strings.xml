@@ -38,6 +38,7 @@
     <string name="app_control_title">Управление приложениями</string>
     <string name="app_market_desc">Загрузка приложений для детского пространства</string>
     <string name="app_market_title">Магазин приложений</string>
+    <string name="app_name">Плагин службы безопасности</string>
     <string name="app_select_title">Часто используемые приложения</string>
     <string name="auto_task_now_city">Текущее местоположение</string>
     <string name="auto_task_search_address_point">Поиск</string>

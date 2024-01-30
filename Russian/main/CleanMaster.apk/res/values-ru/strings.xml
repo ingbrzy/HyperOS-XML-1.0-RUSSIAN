@@ -70,6 +70,7 @@
     <string name="app_clean_group_image_send">Отправленные</string>
     <string name="app_description_content">Приложение ищет мусор на вашем устройстве и освобождает память для хранения данных. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
     <string name="app_description_title">О приложении</string>
+    <string name="app_name">Очистка</string>
     <string name="app_usage_never">Работало давно</string>
     <string name="app_usage_recently">Работало недавно</string>
     <string name="appcleaner_g_audio_summary_qq">Безвозвратное удаление голосовых сообщений QQ</string>

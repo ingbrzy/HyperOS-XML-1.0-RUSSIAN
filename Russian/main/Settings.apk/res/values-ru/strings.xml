@@ -806,6 +806,7 @@
     <string name="app_locales_picker_menu_title">Языки приложений</string>
     <string name="app_memory_use">Использование памяти</string>
     <string name="app_mobile">Мобильный интернет</string>
+    <string name="app_name">Настройки</string>
     <string name="app_name_na">Передача данных</string>
     <string name="app_names_concatenation_template_2">%1$s и %2$s</string>
     <string name="app_names_concatenation_template_3">%1$s, %2$s и %3$s</string>
@@ -5650,6 +5651,8 @@ ID: %s
     <string name="menu_hide_system">Скрыть системные процессы</string>
     <string name="menu_item_notification_power_text">Оптимизация батареи</string>
     <string name="menu_key">Кнопка \"Меню\"</string>
+<!-- ### FROM SOURCE -->
+    <string name="menu_key_communal">top_level_communal</string>
     <string name="menu_new">Новая точка доступа</string>
     <string name="menu_new_display_open">Открыть в новом окне</string>
     <string name="menu_pc_open">Открыть на ПК</string>
@@ -7131,11 +7134,11 @@ OTG отключается автоматически через 10 минут �
     <string name="preference_of_system_locale_title">Язык системы</string>
     <string name="preference_toggle_nfc_dnd_mode_summary">Не получать уведомления о нераспознанных NFC-метках</string>
     <string name="preferred_app_settings">Приложения по умолчанию</string>
-    <string name="preferred_app_settings_default">MIUI</string>
+    <string name="preferred_app_settings_default">По умолчанию</string>
     <string name="preferred_app_settings_not_selected">Не выбрано</string>
     <string name="preferred_app_settings_reset">Сброс настроек</string>
     <string name="preferred_app_settings_reset_button">Сбросить</string>
-    <string name="preferred_app_settings_reset_message">Все настройки приложений MIUI по умолчанию будут сброшены к заводским установкам.</string>
+    <string name="preferred_app_settings_reset_message">Все настройки приложений будут сброшены к заводским установкам</string>
     <string name="preferred_application_title">По умолчанию \"%s\"</string>
     <string name="preferred_application_warning_message">"Замена стандартного приложения \"%1$s может увеличить энергопотребление, снизить скорость работы устройства и подвергнуть систему риску. 
 Рекомендуется использовать стандартное приложение %2$s\"."</string>
@@ -9435,6 +9438,10 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="taplus_title">Taplus</string>
     <string name="tare_actions_base_price">Действия (базовые затраты)</string>
     <string name="tare_actions_ctp">Действия (затраты на выполнение)</string>
+<!-- ### FROM SOURCE -->
+    <string name="tare_alarm_clock">AlarmClock</string>
+<!-- ### FROM SOURCE -->
+    <string name="tare_alarmmanager">AlarmManager</string>
     <string name="tare_app_install">Установить приложение</string>
     <string name="tare_balances">Баланс</string>
     <string name="tare_consumption_limits">Ограничение потребления</string>
@@ -9451,6 +9458,8 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="tare_job_min_running">Выполняется задание (мин. приоритет)</string>
     <string name="tare_job_min_start">Запускается задание (мин. приоритет)</string>
     <string name="tare_job_timeout_penalty">Штраф за превышение времени ожидания</string>
+<!-- ### FROM SOURCE -->
+    <string name="tare_jobscheduler">JobScheduler</string>
     <string name="tare_max_consumption_limit">Максимальное ограничение потребления</string>
     <string name="tare_max_satiated_balance">Максимальный баланс при полной зарядке</string>
     <string name="tare_min_balance_addition_app_updater">"Пополнение минимального баланса при полном заряде (для обновления приложений)"</string>

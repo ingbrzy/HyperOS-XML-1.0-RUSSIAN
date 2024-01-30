@@ -1079,7 +1079,7 @@
     <string name="remove_blacklist">Разблокировать</string>
     <string name="remove_blacklist_dialog_message">Принимать вызовы и сообщения от этого номера?</string>
     <string name="remove_blacklist_dialog_title">Разблокировать этот номер?</string>
-    <string name="remove_duplicate">"MIUI поможет найти и объединить дубликаты контактов.
+    <string name="remove_duplicate">"Эта функция поможет найти и объединить дубликаты контактов.
 
 Для продолжения нажмите кнопку \"Объединить\"."</string>
     <string name="residual_time_description">%1$s д. %2$s ч.</string>

@@ -399,6 +399,7 @@
     <string name="aperture_invalid_zoomratio_tip">Невозможно настроить диафрагму с текущим коэффициентом масштабирования</string>
     <string name="aperture_near_range_tip">Невозможно настроить диафрагму при съемке крупным планом</string>
     <string name="aperture_no_wide_camera_tip">Диафрагму можно настроить только для основной камеры</string>
+    <string name="app_name">Камера</string>
     <string name="audio_focus_exit_button_text">Отключить Аудио фокус</string>
     <string name="audio_map_summary_tip">Контролируйте громкость левого и правого каналов в режиме реального времени и регулируйте с помощью ползунка</string>
     <string name="audio_track_mutex_truecolor_setting_tips">Следящий автофокус не поддерживается для видео Dolby Vision/8K/%sFPS</string>

@@ -11,14 +11,14 @@
     <string name="activate_fail_notification_title">Повторная активация</string>
     <string name="activating">Активация…</string>
     <string name="address">Адрес</string>
-    <string name="after_reset_need_restore_system_app">Похоже, выполнен сброс к заводским настройкам. Подключитесь к сети и восстановите системные приложения для нормальной работы в MIUI.</string>
+    <string name="after_reset_need_restore_system_app">Похоже, выполнен сброс к заводским настройкам. Подключитесь к сети и восстановите системные приложения для нормальной работы устройства.</string>
     <string name="afternoon">PM</string>
     <string name="birthday">День рождения</string>
     <string name="cancel_description">Отмена</string>
     <string name="check_phone_error_title">Синхронизация отключена</string>
     <string name="check_phone_io_error">Не удалось подключиться к сети</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
-    <string name="click_to_restore">Восстановите системные приложения для нормальной работы с MIUI после сброса настроек. Нажмите, чтобы начать.</string>
+    <string name="click_to_restore">Восстановите системные приложения для нормальной работы устройства после сброса настроек. Нажмите, чтобы начать.</string>
     <string name="close">Закрыть</string>
     <string name="com_android_deskclock">Часы</string>
     <string name="com_android_download_ui">Загрузки</string>
