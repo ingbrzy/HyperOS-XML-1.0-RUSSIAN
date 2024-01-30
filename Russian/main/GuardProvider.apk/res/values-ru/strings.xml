@@ -8,6 +8,7 @@
     <string name="DesTencent">Tencent</string>
     <string name="Mi">Mi</string>
     <string name="Tencent">Tencent</string>
+    <string name="app_name">Компоненты безопасности MIUI</string>
     <string name="avast_dialog_cloudscan" />
     <string name="avast_dialog_dbupdate" />
     <string name="avast_dialog_header">При использовании функции ID вашего устройства шифруется и отправляется на серверы Avast (%s).</string>

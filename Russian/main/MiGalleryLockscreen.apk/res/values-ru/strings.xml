@@ -71,6 +71,7 @@
     <string name="addcw_apply_btn_txt">Добавить обои</string>
     <string name="afternoon">После полудня</string>
     <string name="allowed">Предоставлено</string>
+    <string name="app_name">Карусель обоев</string>
     <string name="app_self_upgrade_dlg_checkbox_ignore_version">Игнорировать эту версию</string>
     <string name="app_self_upgrade_dlg_content">Доступна новая версия. Обновить сейчас?</string>
     <string name="app_self_upgrade_dlg_negative_btn">Позже</string>

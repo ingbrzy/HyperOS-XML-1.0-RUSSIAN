@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
+    <string name="app_name">Запись экрана</string>
     <string name="app_notification_channel_record_complete">Уведомления о завершенных записях</string>
     <string name="app_notification_info">Идёт запись экрана…</string>
     <string name="app_notification_record_saved">"Запись сохранена.

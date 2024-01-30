@@ -34,6 +34,7 @@
     <string name="afternoon">После полудня</string>
     <string name="airplane_error_msg">В режиме полёта нельзя использовать Bluetooth.</string>
     <string name="airplane_error_title">Режим полёта</string>
+    <string name="app_name">Bluetooth</string>
     <string name="aptx_notification_aptx">Это устройство поддерживает Qualcomm® aptX™</string>
     <string name="aptx_notification_aptx_adaptive">Это устройство поддерживает Qualcomm® aptX™ Adaptive</string>
     <string name="aptx_notification_aptx_hd">Это устройство поддерживает Qualcomm® aptX™ HD</string>

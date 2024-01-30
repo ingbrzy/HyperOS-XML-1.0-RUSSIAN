@@ -79,6 +79,7 @@ ID вашего аккаунта: %s"</string>
     <string name="add_account">Подключить аккаунт</string>
     <string name="afternoon">После полудня</string>
     <string name="agreement_and_privacy">Условия и положения</string>
+    <string name="app_name">Аккаунт Xiaomi</string>
     <string name="area_code_no_search_result">Ничего не найдено</string>
     <string name="area_code_search_hint">Поиск страны или региона</string>
     <string name="auth_fail_warning">Сессия устарела, войдите повторно</string>

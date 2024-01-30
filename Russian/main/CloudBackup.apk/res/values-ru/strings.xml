@@ -31,6 +31,7 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
     <string name="app_is_running">Задача выполняется…</string>
+    <string name="app_name">Облачный бэкап</string>
     <string name="arrange_restore_order">Упорядочивание приложений…</string>
     <string name="as_new_device">Заменить предыдущий рабочий стол и настройки</string>
     <string name="as_new_device_summary">Удалить предыдущие копии Xiaomi Cloud</string>

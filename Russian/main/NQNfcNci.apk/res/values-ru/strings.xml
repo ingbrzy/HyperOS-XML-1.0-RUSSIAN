@@ -43,6 +43,7 @@
     <string name="afternoon">После полудня</string>
     <string name="android_beam">Mi Beam</string>
     <string name="antenna_blocked_alert_link" />
+    <string name="app_name">Служба NFC</string>
     <string name="appchooser_description">Выберите приложение для сканирования</string>
     <string name="ask_nfc_tap">Коснитесь другого устройства, чтобы передать данные</string>
     <string name="beam_busy">Передача данных в процессе. Повторите попытку после завершения текущей передачи.</string>

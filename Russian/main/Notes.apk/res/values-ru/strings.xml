@@ -53,6 +53,7 @@
     <string name="alert_title_hidden_note">Напоминание о скрытой заметке</string>
     <string name="alert_title_restore">Восстановление заметки</string>
     <string name="all_terms">%1$s и %2$s</string>
+    <string name="app_name">Заметки</string>
     <string name="app_notification_info">Заметки работают в фоне</string>
     <string name="app_widget_name_create_note">Создание заметок</string>
     <string name="app_widget_name_create_todo">Создание задач</string>

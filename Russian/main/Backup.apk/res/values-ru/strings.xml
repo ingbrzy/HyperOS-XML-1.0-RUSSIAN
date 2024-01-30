@@ -48,6 +48,7 @@
     <string name="alert_title_restore_from_miasist">Восстановление через Mi PC Suite</string>
     <string name="already_enable_encrypt">Шифрование включено</string>
     <string name="alternative_ui_content">Функция позволяет осуществлять резервное копирование и восстановление с помощью мобильного устройства или ПК. Для правильной работы функции требуются доступ к интернету и следующие обязательные разрешения:</string>
+    <string name="app_name">Бэкап</string>
     <string name="apps_and_data_item_desc">Приложение и данные</string>
     <string name="apps_item_desc">Приложение</string>
     <string name="auto_backup">Расписание</string>

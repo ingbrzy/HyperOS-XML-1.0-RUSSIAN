@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
+    <string name="app_name">Плавающие окна</string>
     <string name="bottom_bar_smallwindow_drag_text">Перетащите сюда, чтобы закрепить</string>
     <string name="bottom_bar_smallwindow_text">Отпустите, чтобы закрепить</string>
     <string name="bubble_app_empty_page">Не удалось приложения, поддерживающие всплывающие чаты</string>

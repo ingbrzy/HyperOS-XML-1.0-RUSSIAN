@@ -4,6 +4,7 @@
     <string name="add">Добавить</string>
     <string name="add_named">Добавить %1$s</string>
     <string name="add_printer_by_ip">Добавить принтер по IP-адресу</string>
+    <string name="app_name">Системная служба печати</string>
     <string name="certificate_update_request">Этот принтер предоставил новый сертификат безопасности, либо другое устройство имитирует его. Принять новый сертификат?</string>
     <string name="connect_hint_text">Возможно, вам потребуется одобрить это подключение на передней панели принтера.</string>
     <string name="connecting_to">Подключение к %1$s</string>

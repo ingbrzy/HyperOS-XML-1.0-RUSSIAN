@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Обновление</string>
     <string name="battery_islow">&lt;font color=#f37981>Подключите зарядное устройство&lt;/font></string>
     <string name="battery_islow_desc">Уровень заряда аккумулятора слишком низкий для безопасной установки zip-файла, подключите зарядное устройство и попробуйте позже!</string>
     <string name="btn_changelog">Список изменений</string>

@@ -69,6 +69,7 @@
     <string name="ad_in_downloading">Загрузка</string>
     <string name="ad_in_installing">Установка</string>
     <string name="ad_installing">Установка…</string>
+    <string name="ad_sub_textview_divider">m</string>
     <string name="ad_tag_text_1">Популярное</string>
     <string name="ad_tag_text_2">Тренд</string>
     <string name="add">Добавить</string>
@@ -98,6 +99,7 @@
     <string name="app_ad_title">Ежедневные рекомендации</string>
     <string name="app_disable_transparent_wallpaper">Не использовать прозрачные обои</string>
     <string name="app_enable_transparent_wallpaper">Включить прозрачные обои</string>
+    <string name="app_name">Темы</string>
     <string name="app_name_pad">Персонализация</string>
     <string name="application_list_permission_desc">Приложения, совместимые с прозрачными обоями</string>
     <string name="application_notify_title">Внимание</string>

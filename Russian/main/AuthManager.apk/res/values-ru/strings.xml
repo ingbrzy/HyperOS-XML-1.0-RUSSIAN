@@ -137,6 +137,7 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
+    <string name="app_name">Разрешения</string>
     <string name="blur_location_is_on_tip">Для приложения %1$s включена геолокация пониженной точности. Включить точную геолокацию?</string>
     <string name="blur_location_now_tip">Включена геолокация пониженной точности</string>
     <string name="blur_location_title">Пониженная точность</string>

@@ -106,6 +106,7 @@
     <string name="activate_status_title_registering_xiaomi_account">Создание учётной записи Mi…</string>
     <string name="activate_status_title_registering_xiaomi_account_sim">Создание учётной записи Mi с использованием SIM %d…</string>
     <string name="afternoon">После полудня</string>
+    <string name="app_name">Служба активации SIM Xiaomi</string>
     <string name="checking_client">Проверка среды активации</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>

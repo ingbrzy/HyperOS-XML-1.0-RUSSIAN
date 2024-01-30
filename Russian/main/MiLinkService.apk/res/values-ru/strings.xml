@@ -33,6 +33,7 @@
     <string name="ai_app_name">CameraPermission</string>
     <string name="answering_tel1">Ответ на планшете…</string>
     <string name="answering_tel2">Передано с телефона…</string>
+    <string name="app_name">Трансляция</string>
     <string name="app_name_vtcamera">MiShareDevice</string>
     <string name="appcirculate_alert_busy_negative">Отмена</string>
     <string name="appcirculate_alert_busy_positive">Прервать</string>

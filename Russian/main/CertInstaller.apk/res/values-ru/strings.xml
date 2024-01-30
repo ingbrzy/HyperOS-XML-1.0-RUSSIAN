@@ -2,6 +2,7 @@
 <resources>
     <string name="action_missing_private_key">Для установки сертификата необходим закрытый ключ</string>
     <string name="action_missing_user_cert">Для установки закрытого ключа необходим сертификат</string>
+    <string name="app_name">Установщик сертификатов</string>
     <string name="ca_cert_is_added">CA сертификат установлен</string>
     <string name="ca_certificate">CA сертификат</string>
     <string name="cert_missing_error">Установка не выполнена, поскольку не удалось найти файл сертификата.</string>

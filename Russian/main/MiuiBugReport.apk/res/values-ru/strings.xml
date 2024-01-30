@@ -63,6 +63,7 @@
     <string name="afternoon">После полудня</string>
     <string name="app_empty">Приложения не найдены.</string>
     <string name="app_label">Обратная связь</string>
+    <string name="app_name">Обратная связь</string>
     <string name="app_search">Поиск приложений</string>
     <string name="auth_fail_warning">Сессия устарела, войдите повторно</string>
     <string name="back">Назад</string>

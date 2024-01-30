@@ -31,6 +31,7 @@
     <string name="afternoon">PM</string>
     <string name="age">Возраст</string>
     <string name="allow">Принимаю</string>
+    <string name="app_name">Калькулятор</string>
     <string name="baby_care">Забота о малыше</string>
     <string name="base_rate">Базовая процентная ставка</string>
     <string name="base_rate_first_house">Базовая процентная ставка по первому объекту (%1$s)</string>

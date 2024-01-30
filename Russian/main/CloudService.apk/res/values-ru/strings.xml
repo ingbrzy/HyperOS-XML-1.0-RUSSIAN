@@ -43,6 +43,7 @@
     <string name="alert_sync_data_merge_dialog_title">Слияние данных</string>
     <string name="alert_sync_merge_dialog_cancel">Отмена</string>
     <string name="alert_sync_merge_dialog_confirm">Включить</string>
+    <string name="app_name">Облако Xiaomi</string>
     <string name="bad_authentication">Неверное имя пользователя или пароль</string>
     <string name="browser_sync_settings_preference">Автосинхронизация</string>
     <string name="btn_return">Назад</string>

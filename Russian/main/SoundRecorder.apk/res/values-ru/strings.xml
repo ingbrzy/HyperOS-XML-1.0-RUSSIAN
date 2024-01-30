@@ -34,6 +34,7 @@
     <string name="alert_message_clear_records">Удалить выбранные записи?</string>
     <string name="alert_message_delete_record_title">Удаление записи</string>
     <string name="allowed">Предоставлено</string>
+    <string name="app_name">Диктофон</string>
     <string name="app_record">Записи</string>
     <string name="app_record_preference_title">Диктофон</string>
     <string name="back">Назад</string>

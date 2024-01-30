@@ -48,6 +48,7 @@
     <string name="app_all_purpose_global">Добро пожаловать в Проводник! Это приложение можно использовать для управления файлами на устройстве.</string>
     <string name="app_all_purpose_pad">Добро пожаловать в Проводник! Это приложение можно использовать для управления файлами на устройстве.</string>
     <string name="app_function">Управление файлами на устройстве</string>
+    <string name="app_name">Проводник</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Камера</string>
     <string name="app_name_downloadedrom">Пакеты</string>

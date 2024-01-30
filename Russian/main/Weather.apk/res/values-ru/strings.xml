@@ -76,6 +76,7 @@
     <string name="alert_weather_enable_settings_summary">Получать штормовые предупреждения</string>
     <string name="alert_weather_enable_settings_title">Штормовые предупреждения</string>
     <string name="already_voted_toast">Вы уже голосовали сегодня</string>
+    <string name="app_name">Погода</string>
     <string name="aqi_15_days_desc">15-дневный прогноз ИКВ</string>
     <string name="aqi_24_hours_desc">24-часовой прогноз ИКВ</string>
     <string name="aqi_48_hours_desc">48-часовой прогноз ИКВ</string>

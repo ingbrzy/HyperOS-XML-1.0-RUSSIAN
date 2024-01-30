@@ -48,6 +48,7 @@
     <string name="anti_flicker_mode_summary">Устранение мерцания при низкой освещенности для снижения нагрузки на глаза</string>
     <string name="anti_flicker_mode_summary_new">Устранение мерцания при низкой освещенности для снижения нагрузки на глаза</string>
     <string name="anti_flicker_title">Устранение мерцания</string>
+    <string name="app_name">Настройки</string>
     <string name="app_use">Время экрана приложения</string>
     <string name="application_sound">Звук уведомления для приложения</string>
     <string name="apply_ringtone">Применить</string>

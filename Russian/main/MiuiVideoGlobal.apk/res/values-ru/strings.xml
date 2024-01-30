@@ -101,6 +101,7 @@
     <string name="app_description_content">Приложение \"Mi Видео\" является системным, удалить его нельзя. Будет удалён ярлык приложения с рабочего стола. Воспроизведение видео в приложении по-прежнему будет доступно.</string>
     <string name="app_description_title">Удалить \"Mi Видео\" с рабочего стола?</string>
     <string name="app_inner_open">Открыть в приложении</string>
+    <string name="app_name">Mi Видео</string>
     <string name="area_cn">简体中文</string>
     <string name="area_en">English</string>
     <string name="area_hk_tw_mo">繁體中文</string>

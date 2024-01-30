@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
+    <string name="app_name">Расширение Bluetooth</string>
     <string name="audio_relay_default_device_name">Mi AI динамики</string>
     <string name="ble_device_address">MAC адрес устройства Bluetooth Smart</string>
     <string name="ble_device_profile">Профили устройства Bluetooth</string>

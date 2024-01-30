@@ -31,6 +31,7 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="active_classify">Сортировать по активности</string>
     <string name="afternoon">После полудня</string>
+    <string name="app_name">Батарея и производительность</string>
     <string name="appconfig_active_app_dialog_title">Управление активностью</string>
     <string name="base_info">Основная информация</string>
     <string name="checking_intranet">Проверка интранет-соединения…</string>
