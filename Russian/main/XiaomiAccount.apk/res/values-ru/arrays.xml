@@ -129,8 +129,8 @@
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Аккаунты</item>
-        <item>Добавление и управление сторонними аккаунтами</item>
-        <item>Аккаунты;SNS;WeChat;QQ;Weibo;Mi аккаунт;Аккаунт;Аккаунт Xiaomi</item>
+        <item>Просмотр подключенных аккаунтов WeChat и других соцсетей</item>
+        <item>разрешения;SNS;WeChat;Аккаунт Xiaomi;аккаунт</item>		
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Изменение пароля</item>
