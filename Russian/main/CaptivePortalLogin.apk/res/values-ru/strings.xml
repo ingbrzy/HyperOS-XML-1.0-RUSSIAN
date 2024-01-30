@@ -6,6 +6,7 @@
     <string name="action_continue">Продолжить</string>
     <string name="action_do_not_use_network">Не использовать эту сеть</string>
     <string name="action_use_network">Использовать эту сеть как есть</string>
+    <string name="app_name">Captive Portal Login</string>
     <string name="call_notification_answer_action">Ответить</string>
     <string name="call_notification_answer_video_action">Видео</string>
     <string name="call_notification_decline_action">Отклонить</string>

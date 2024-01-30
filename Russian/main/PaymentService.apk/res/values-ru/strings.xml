@@ -30,7 +30,9 @@
     <string name="action_settings">Настройки</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
+    <string name="app_name">Mi Coin</string>
     <string name="cancel">Отмена</string>
+    <string name="card_title">Название карты</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="confirm">ОК</string>

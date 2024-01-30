@@ -30,6 +30,7 @@
     <string name="accept">"Принять"</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
+    <string name="app_name">Подключения Wi-Fi</string>
     <string name="call_notification_answer_action">Ответить</string>
     <string name="call_notification_answer_video_action">Видео</string>
     <string name="call_notification_decline_action">Отклонить</string>

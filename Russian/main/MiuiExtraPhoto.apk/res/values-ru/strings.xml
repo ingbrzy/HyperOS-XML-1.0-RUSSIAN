@@ -30,6 +30,7 @@
     <string name="acc_return">Назад</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
+    <string name="app_name">Редактор галереи</string>
     <string name="auto_crop_full_screen">Весь экран</string>
     <string name="auto_crop_origin_photo">Оригинал</string>
     <string name="auto_crop_photo_not_support">Умная обрезка Xiaomi для этого формата фото не поддерживается</string>
