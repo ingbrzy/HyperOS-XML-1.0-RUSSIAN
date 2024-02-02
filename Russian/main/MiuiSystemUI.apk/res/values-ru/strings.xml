@@ -1835,6 +1835,7 @@ mm"</string>
     <string name="split_screen_text">Разделение экрана</string>
     <string name="start_dreams">Заставка</string>
     <string name="status_bar">Строка состояния</string>
+    <string name="status_bar_airplane">Режим полёта</string>
     <string name="status_bar_alarm">Будильник</string>
     <string name="status_bar_clock_date_format">E, d MMMM</string>
     <string name="status_bar_clock_date_format_12">E, d MMMM</string>
