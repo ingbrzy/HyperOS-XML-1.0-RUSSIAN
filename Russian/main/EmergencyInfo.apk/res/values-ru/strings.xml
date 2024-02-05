@@ -744,10 +744,10 @@
     <string name="user_add_user_item_title">Пользователь</string>
     <string name="user_add_user_message_long">"Устройством могут пользоваться несколько человек, для каждого пользователя создается собственное пространство со своими настройками и набором приложений. Настройки параметров устройства, такие как Wi-Fi, являются общими для всех.
 
-Каждый новый пользователь должен настроить свое пространство.
+Каждый новый пользователь должен настроить своё пространство.
 
 Любой пользователь может обновлять приложения для всех остальных пользователей. Настройки специальных возможностей и служб являются индивидуальными."</string>
-    <string name="user_add_user_message_short">"Каждый новый пользователь должен настроить свое пространство.
+    <string name="user_add_user_message_short">"Каждый новый пользователь должен настроить своё пространство.
 
 Любой пользователь может обновлять приложения для всех остальных пользователей."</string>
     <string name="user_add_user_title">Добавить нового пользователя?</string>
@@ -766,7 +766,7 @@
     <string name="user_set_lock_button">Установить блокировку</string>
     <string name="user_setup_button_setup_later">Не сейчас</string>
     <string name="user_setup_button_setup_now">Настроить</string>
-    <string name="user_setup_dialog_message">Новый пользователь должен настроить свое пространство</string>
+    <string name="user_setup_dialog_message">Новый пользователь должен настроить своё пространство</string>
     <string name="user_setup_dialog_title">Настроить пространство?</string>
     <string name="user_setup_profile_dialog_message">Настроить профиль?</string>
     <string name="user_switch_to_user">Переключиться на %s</string>

@@ -632,7 +632,7 @@
     <string name="pa_setting_privacy_perm_not_granted">Не предоставлено</string>
     <string name="pa_setting_privacy_perm_storage">Доступ к хранилищу</string>
     <string name="pa_setting_privacy_policy">Политика конфиденциальности</string>
-    <string name="pa_setting_privacy_policy_update_again_message">Вы не сможете пользоваться нашими сервисами, если не примите обновленную %s. Принимаете?</string>
+    <string name="pa_setting_privacy_policy_update_again_message">Вы не сможете пользоваться нашими сервисами, если не примите обновлённую %s. Принимаете?</string>
     <string name="pa_setting_privacy_policy_update_again_title">Внимание</string>
     <string name="pa_setting_privacy_policy_update_agree">Принимаю</string>
     <string name="pa_setting_privacy_policy_update_exit">Выход</string>

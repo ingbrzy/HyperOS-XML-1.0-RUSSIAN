@@ -1874,7 +1874,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="ew_push_message">Предполагаемая интенсивность: %s. Возможно легкое сотрясение рядом.</string>
     <string name="ew_push_title">Предупреждение о землетрясении для %s</string>
     <string name="ew_safe_place_no_maps_tips">Поиск недоступен. Сначала установите Baidu Maps или Amap.</string>
-    <string name="ew_setting_desc_message">Интенсивность землетрясения оценивается, основываясь на его силе, местоположении эпицентра и вашей геопозиции. Чем больше предполагаемая интенсивность, тем более разрушительным будет землетрясение в районе где вы находитесь.</string>
+    <string name="ew_setting_desc_message">Интенсивность землетрясения оценивается, основываясь на его силе, местоположении эпицентра и вашей геопозиции. Чем больше предполагаемая интенсивность, тем более разрушительным будет землетрясение в районе, где вы находитесь.</string>
     <string name="ew_setting_desc_title">Что такое предполагаемая интенсивность?</string>
     <string name="ew_setting_more_title">Подробнее о предупреждении о землетрясениях</string>
     <string name="ew_setting_normal_push_message">Когда предполагаемая интенсивность ниже порога предупреждения</string>
@@ -3609,7 +3609,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="optmizingbar_title_clear">Память</string>
     <string name="optmizingbar_title_security">Безопасность</string>
     <string name="optmizingbar_title_system">Система</string>
-    <string name="order_bh_net_empty">Ничкго нет</string>
+    <string name="order_bh_net_empty">Ничего нет</string>
     <string name="order_bh_net_error">Нет сети</string>
     <string name="organization">Организация</string>
     <string name="other">Прочие настройки</string>
@@ -3908,7 +3908,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_instruction_dont_disturb">Это разрешение позволяет приложениям включать и выключать режим \"Не беспокоить\".</string>
     <string name="permission_instruction_draw_overlay">Это разрешение позволяет приложениям отображать плавающие окна поверх любого другого интерфейса на вашем устройстве, что может повлиять на нормальное использование других приложений. Вредоносные приложения могут использовать это разрешение для чтения или сбора личной информации (например, паролей) через прозрачные плавающие окна.</string>
     <string name="permission_instruction_external_storage">Это разрешение позволяет приложениям получать доступ к фотографиям, мультимедиа и файлам на вашем устройстве. Будьте осторожны с этим разрешением, чтобы избежать ненужного разглашения личной информации.</string>
-    <string name="permission_instruction_gallery">Для защиты конфиденциальности, помимо настройки доступа приложений к файлам в собственных папках, система позволяет настроить их доступ к файлам в Галерее. Приложения с уровнем Android API 29 и выше уже поддерживают разделы хранилища, для них преключатель не предусмотрен.</string>
+    <string name="permission_instruction_gallery">Для защиты конфиденциальности, помимо настройки доступа приложений к файлам в собственных папках, система позволяет настроить их доступ к файлам в Галерее. Приложения с уровнем Android API 29 и выше уже поддерживают разделы хранилища, для них переключатель не предусмотрен.</string>
     <string name="permission_instruction_get_accounts">Это разрешение позволяет приложениям получать доступ к списку аккаунтов, хранящихся на вашем устройстве. Этот список может содержать все ваши личные аккаунты, созданные установленными приложениями, а также аккаунты соц. сетей и средств связи.</string>
     <string name="permission_instruction_get_identifier">Доступ к идентификатору устройства</string>
     <string name="permission_instruction_install_shortcuts">Это разрешение позволяет приложениям создавать ярлыки на рабочем столе.</string>
@@ -3949,8 +3949,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_instruction_send_sms">Это разрешение позволяет приложениям отправлять текстовые сообщения, за что может взиматься дополнительная плата. Вредоносные программы могут использовать это разрешение для отправки платных сообщений без вашего согласия.</string>
     <string name="permission_instruction_shake">Это разрешение позволяет приложениям отслеживать ориентацию и движения устройства (например, встряхивание, наклон и вращение).</string>
     <string name="permission_instruction_show_locked">Это разрешение позволяет приложениям отображать элементы на экране блокировки. Вредоносные программы могут использовать это разрешение для показа вам надоедливой рекламы.</string>
-    <string name="permission_instruction_sociality">Для защиты конфиденциальности, помимо настройки доступа приложений к файлам в собственных папках, система позволяет настроить их доступ к файлам приложений соцсетей. Приложения с уровнем Android API 29 и выше уже поддерживают разделы хранилища, для них преключатель не предусмотрен.</string>
-    <string name="permission_instruction_storage">Для защиты конфиденциальности, помимо настройки доступа приложений к файлам в собственных папках, система позволяет настроить их доступ к файлам в Галерее и к файлам приложений соцсетей. Приложения с уровнем Android API 29 и выше уже поддерживают разделы хранилища, для них преключатель не предусмотрен.</string>
+    <string name="permission_instruction_sociality">Для защиты конфиденциальности, помимо настройки доступа приложений к файлам в собственных папках, система позволяет настроить их доступ к файлам приложений соцсетей. Приложения с уровнем Android API 29 и выше уже поддерживают разделы хранилища, для них переключатель не предусмотрен.</string>
+    <string name="permission_instruction_storage">Для защиты конфиденциальности, помимо настройки доступа приложений к файлам в собственных папках, система позволяет настроить их доступ к файлам в Галерее и к файлам приложений соцсетей. Приложения с уровнем Android API 29 и выше уже поддерживают разделы хранилища, для них переключатель не предусмотрен.</string>
     <string name="permission_instruction_touch_pay">Это разрешение позволяет приложениям выполнять бесконтактные платежи.</string>
     <string name="permission_instruction_transfer_data_to_other_devices">Передача данных на другие устройства</string>
     <string name="permission_instruction_use_sip">Это разрешение позволяет приложениям использовать видеосервисы SIP.</string>
@@ -4722,7 +4722,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_recommend_summary">Получать персонализированные рекомендации по контенту</string>
     <string name="privacy_recommend_title">Рекомендации</string>
     <string name="privacy_revoke_category_title">Отзыв согласия</string>
-    <string name="privacy_revoke_dialog_content">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности приложения Безопасность. Сбор вашей личной информации будет прекращён. Уже собранная и сохранённая личная информация будет удалена в течение определённого периода, как того требует действующее законодательство. Поскольку приложение Безопасность предоставляет свои сервисы на основе сбора некоторой личной информации, отзыв согласия будет рассматриваться как отказ от использования сервисов приложение Безопасность.</string>
+    <string name="privacy_revoke_dialog_content">Выключая переключатель, вы отзываете своё согласие с Политикой конфиденциальности приложения Безопасность. Сбор вашей личной информации будет прекращён. Уже собранная и сохранённая личная информация будет удалена в течение определённого периода, как того требует действующее законодательство. Поскольку приложение Безопасность предоставляет свои сервисы на основе сбора некоторой личной информации, отзыв согласия будет рассматриваться как отказ от использования сервисов приложение Безопасность.</string>
     <string name="privacy_revoke_dialog_content_cn">"Если вы продолжите, согласие с Политикой конфиденциальности \"%1$s\" будет отозвано. Сбор вашей личной информации будет прекращён. Уже собранная и сохранённая личная информация будет удалена в течение определённого срока в соответствии с действующими законами и правилами, если не требуется иное.
 Поскольку \"%2$s\" предоставляет свои сервисы на основе сбора некоторой личной информации, отзыв согласия будет рассматриваться как отказ от использования сервисов \"%3$s\".
 Отозвать согласие?"</string>
@@ -4733,7 +4733,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_revoke_dialog_title_cn">Внимание</string>
     <string name="privacy_revoke_failed_dialog_content">Ошибка сервера. Повторите позже.</string>
     <string name="privacy_revoke_failed_dialog_title">Не удалось отозвать согласие</string>
-    <string name="privacy_revoke_tip_dialog_content"><Data>"Вы не сможете использовать \"%1$s\", если не примите обновленную Политику конфиденциальности. Принимаете обновленную&lt;a href=\"%3$s\">Политику конфиденциальности&lt;/a>  \"%2$s\"?"</Data></string>
+    <string name="privacy_revoke_tip_dialog_content"><Data>"Вы не сможете использовать \"%1$s\", если не примите обновлённую Политику конфиденциальности. Принимаете обновлённую&lt;a href=\"%3$s\">Политику конфиденциальности&lt;/a>  \"%2$s\"?"</Data></string>
     <string name="privacy_revoke_tip_dialog_title">Отказ от использования</string>
     <string name="privacy_revoke_title">Отзыв согласия</string>
     <string name="privacy_risk_app">Небезопасные приложения</string>
@@ -4836,7 +4836,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_thumbnail_shield_top_tip">Маскировать превью приложений в Недавних</string>
     <string name="privacy_type_open">Вкл.</string>
     <string name="privacy_update_dialog_content_1">Обновлена Политика конфиденциальности \"%s\":</string>
-    <string name="privacy_update_dialog_content_2"><Data>Прежде чем продолжить, прочтите и примите обновленную &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>.</Data></string>
+    <string name="privacy_update_dialog_content_2"><Data>Прежде чем продолжить, прочтите и примите обновлённую &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>.</Data></string>
     <string name="privacy_update_dialog_title">Обновленная Политика конфиденциальности</string>
     <string name="privacy_using_camera">Доступ к камере</string>
     <string name="privacy_using_location">Использование геолокации</string>
@@ -5074,7 +5074,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="settings_location_subtitle_no">Нет информации о местоположении</string>
     <string name="settings_negative_button_text">Не сейчас</string>
     <string name="settings_power_save_ontime_title">Расписание</string>
-    <string name="settings_privacy_revoke_desc">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности и безопасности.</string>
+    <string name="settings_privacy_revoke_desc">Выключая переключатель, вы отзываете своё согласие с Политикой конфиденциальности и безопасности.</string>
     <string name="settings_privacy_revoke_title">Отзыв согласия</string>
     <string name="settings_privacy_settings_title">Конфиденциальность</string>
     <string name="settings_share_enable_summary">Элементы, которыми вы делитесь в WeChat, будут отмечены значком</string>
@@ -6314,7 +6314,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="vb_advanced_settings">Картинка</string>
     <string name="vb_advanced_settings_after_open">После</string>
     <string name="vb_advanced_settings_before_open">До</string>
-    <string name="vb_advanced_settings_pic_stronger_desc">Повышение четкости движущихся объектов за счёт улучшения анимации. Эта функция с повышенным энергопотреблением.</string>
+    <string name="vb_advanced_settings_pic_stronger_desc">Повышение чёткости движущихся объектов за счёт улучшения анимации. Эта функция с повышенным энергопотреблением.</string>
     <string name="vb_default_mode">По умолчанию</string>
     <string name="vb_dolby_effect">Dolby Atmos</string>
     <string name="vb_dult_effect">3D LUT vision</string>
@@ -6366,7 +6366,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="vb_video_effects_immersion_sound">Иммерсивный звук</string>
     <string name="vb_video_effects_immersion_sound_summary">Эффект погружения и ощущения пространства при воспроизведении через наушники</string>
     <string name="vb_video_effects_immersion_sound_summary_new">Эффект погружения и ощущения пространства при воспроизведении поддерживаемых форматов аудио</string>
-    <string name="vb_video_effects_liquid_summary">Повышение четкости диалогов в видео</string>
+    <string name="vb_video_effects_liquid_summary">Повышение чёткости диалогов в видео</string>
     <string name="vb_video_effects_only_headphone">Работает только с наушниками</string>
     <string name="vb_video_effects_setting_black_white">Ч/Б</string>
     <string name="vb_video_effects_setting_cinema">Кино</string>
@@ -6398,9 +6398,9 @@ Xiaomi не обещает и не гарантирует точность, до
 
 Функция не работает со сглаживанием движения.
 Включение функции приведет к отключению других."</string>
-    <string name="vb_video_super_division_tips">"Не хватает четкости?
+    <string name="vb_video_super_division_tips">"Не хватает чёткости?
 Попробуйте увеличить разрешение!"</string>
-    <string name="vb_vison_dynamic_enhance_close_toast">Расширанная анимация отключена.</string>
+    <string name="vb_vison_dynamic_enhance_close_toast">Расширенная анимация отключена.</string>
     <string name="vb_voice_adjust">Режим \"Театр\"</string>
     <string name="verify_shut_down_password_content">Требовать ввода пароля, если устройство выключено в заблокированном состоянии</string>
     <string name="verify_shut_down_password_title">Подтверждение выключения</string>

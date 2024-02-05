@@ -744,8 +744,8 @@ mm"</string>
     <string name="privacy_update_confirm">Принимаю</string>
     <string name="privacy_update_quit">Выход</string>
     <string name="privacy_update_summary1">Политика конфиденциальности Карусели обоев обновлена:</string>
-    <string name="privacy_update_summary2">Прежде чем продолжить, прочтите и примите обновленную &lt;font color ='#37A5FF'>&lt;a href=\"%1$s\">Политику конфиденциальности&lt;/font>&lt;/a>."</string>
-    <string name="privacy_update_summary3">Вы не сможете использовать Карусель обоев, если не примите обновленную &lt;font color ='#37A5FF'>&lt;a href=\"%1$s\">Политику конфиденциальности&lt;/font>&lt;/a>. Принимаете?</string>
+    <string name="privacy_update_summary2">Прежде чем продолжить, прочтите и примите обновлённую &lt;font color ='#37A5FF'>&lt;a href=\"%1$s\">Политику конфиденциальности&lt;/font>&lt;/a>."</string>
+    <string name="privacy_update_summary3">Вы не сможете использовать Карусель обоев, если не примите обновлённую &lt;font color ='#37A5FF'>&lt;a href=\"%1$s\">Политику конфиденциальности&lt;/font>&lt;/a>. Принимаете?</string>
     <string name="privacy_update_title1">Обновленная политика конфиденциальности</string>
     <string name="privacy_update_title2">Внимание</string>
     <string name="prv_end">Больше ничего нет</string>

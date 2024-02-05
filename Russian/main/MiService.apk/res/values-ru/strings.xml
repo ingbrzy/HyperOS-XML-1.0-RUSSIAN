@@ -157,7 +157,7 @@
     <string name="permission_user_protocol">Пользовательское соглашение (обязательно)</string>
     <string name="privacy_policy_update_hint">"Политика конфиденциальности %1$s обновлена:
 %2$s
-Прежде чем продолжить, прочтите и примите обновленную %3$s."</string>
+Прежде чем продолжить, прочтите и примите обновлённую %3$s."</string>
     <string name="privacy_policy_update_title">Обновленная Политика конфиденциальности</string>
     <string name="public_authorize_now">Настройки</string>
     <string name="public_loading_text">Подождите…</string>
@@ -251,7 +251,7 @@
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
     <string name="user_must_known">Внимание</string>
-    <string name="user_must_known_content">Вы не сможете использовать наши сервисы, если не примите обновленную %s. Принимаете?</string>
+    <string name="user_must_known_content">Вы не сможете использовать наши сервисы, если не примите обновлённую %s. Принимаете?</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>

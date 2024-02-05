@@ -82,7 +82,7 @@
     <string name="dialog_title_recommend">Отключить рекомендации?</string>
     <string name="dialog_user_know_button1">Выход</string>
     <string name="dialog_user_know_button2">Принимаю</string>
-    <string name="dialog_user_know_content"><Data>Вы не сможете использовать эту функцию, если не примите обновленную &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>. Принимаете?"</Data></string>
+    <string name="dialog_user_know_content"><Data>Вы не сможете использовать эту функцию, если не примите обновлённую &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>. Принимаете?"</Data></string>
     <string name="dialog_user_know_title">Внимание</string>
     <string name="download">Загрузки</string>
     <string name="downloadCount">Загрузки</string>

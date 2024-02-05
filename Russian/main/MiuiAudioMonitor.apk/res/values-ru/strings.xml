@@ -82,7 +82,7 @@
     <string name="introduct_always_on">Автоматически записывать все вызовы в сторонних приложениях</string>
     <string name="introduct_open">Отображать кнопку записи во время вызовов в сторонних приложениях</string>
     <string name="introduct_open_new">Автоматически записывать голосовые вызовы и сохранять их в Диктофоне</string>
-    <string name="introduct_voice_opti_on">Оптимизация Voiceprint фильтрует шумы и позволяет голосу оставаться четким</string>
+    <string name="introduct_voice_opti_on">Оптимизация Voiceprint фильтрует шумы и позволяет голосу оставаться чётким</string>
     <string name="introduct_voip_assistant">Во время вызовов в WeChat и QQ в строке состояния будет отображаться ярлык для записи вызовов</string>
     <string name="midnight">Ночь</string>
     <string name="miliao">Mi Talk</string>

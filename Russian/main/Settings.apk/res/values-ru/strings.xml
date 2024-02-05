@@ -2542,7 +2542,7 @@
     <string name="credman_autofill_confirmation_message">"&lt;b&gt;Использовать приложение \"&lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt;\"?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; Приложение \"&lt;xliff:g id=app_name example=Provider&gt;%1$s&lt;/xliff:g&gt;\" анализирует содержимое экрана и находит поля, которые можно заполнить автоматически. Новые пароли, ключи доступа и другие данные будут сохраняться в нем."</string>
     <string name="credman_autofill_keywords">"авто, заполнение, автозаполнение, данные, ключ доступа, пароль"</string>
     <string name="credman_chosen_app_title">"Сервисы сохранения паролей, ключей доступа и данных"</string>
-    <string name="credman_confirmation_message">"&lt;b&gt;Отключить этот сервис?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt;Пароли, ключи доступа, способы оплаты и другая сохраненная информация не будут подставляться при входе. Чтобы использовать эти данные, выберите пароль, ключ доступа или сервис."</string>
+    <string name="credman_confirmation_message">"&lt;b&gt;Отключить этот сервис?&lt;/b&gt; &lt;br/&gt; &lt;br/&gt;Пароли, ключи доступа, способы оплаты и другая сохранённая информация не будут подставляться при входе. Чтобы использовать эти данные, выберите пароль, ключ доступа или сервис."</string>
     <string name="credman_confirmation_message_positive_button">"Отключить"</string>
     <string name="credman_confirmation_message_title">"Отключить %1$s?"</string>
     <string name="credman_credentials">"Дополнительные поставщики"</string>
@@ -5784,7 +5784,7 @@ ID: %s
     <string name="miheadset_game_mode">Игровой режим</string>
     <string name="miheadset_game_mode_summary">Уменьшение задержки звука во время игр</string>
     <string name="miheadset_gesture_operation">Жесты</string>
-    <string name="miheadset_hd_audio_summary">Воспроизведение %1$d-бит/%2$d кГц аудио высокой четкости</string>
+    <string name="miheadset_hd_audio_summary">Воспроизведение %1$d-бит/%2$d кГц аудио высокой чёткости</string>
     <string name="miheadset_hd_audio_title">HD аудио</string>
     <string name="miheadset_head_tracking">Отслеживание движения головы</string>
     <string name="miheadset_head_tracking_summary">Улучшенное восприятие пространства и направления для поддерживаемых аудио и видео</string>
@@ -8917,8 +8917,8 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
 Перед использованием прочтите и примите наши %s."</string>
     <string name="sos_privacy_dialog_title">Условия использования</string>
     <string name="sos_privacy_policy">Политика конфиденциальности</string>
-    <string name="sos_privacy_policy_change_endtitle">Прежде чем продолжить, прочтите и примите обновленную %s.</string>
-    <string name="sos_privacy_policy_change_message_reject">Вы не сможете использовать функцию \"Экстренная помощь\", если не примите обновленную Политику конфиденциальности. Принимаете обновленную %s?</string>
+    <string name="sos_privacy_policy_change_endtitle">Прежде чем продолжить, прочтите и примите обновлённую %s.</string>
+    <string name="sos_privacy_policy_change_message_reject">Вы не сможете использовать функцию \"Экстренная помощь\", если не примите обновлённую Политику конфиденциальности. Принимаете обновлённую %s?</string>
     <string name="sos_privacy_policy_change_subtitle">Политика конфиденциальности функции \"Экстренная помощь\" обновлена:</string>
     <string name="sos_privacy_policy_change_title">Обновленная Политика конфиденциальности</string>
     <string name="sos_privacy_policy_change_title_reject">Отказ от использования</string>
@@ -10215,7 +10215,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="user_settings_title">Пользователи</string>
     <string name="user_setup_button_setup_later">Не сейчас</string>
     <string name="user_setup_button_setup_now">Настроить</string>
-    <string name="user_setup_dialog_message">Вам потребуется передать устройство пользователю, чтобы он мог настроить свое личное пространство.</string>
+    <string name="user_setup_dialog_message">Вам потребуется передать устройство пользователю, чтобы он мог настроить своё личное пространство.</string>
     <string name="user_setup_dialog_title">Настроить профиль?</string>
     <string name="user_setup_profile_dialog_message">Настроить профиль?</string>
     <string name="user_summary_managed_profile_not_set_up">Рабочий профиль не настроен</string>

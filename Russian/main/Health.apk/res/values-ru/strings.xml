@@ -1298,7 +1298,7 @@ ID:%s
     <string name="sleep_detection_guide_four_high_power_description">Убедитесь, что ваше устройство достаточно заряжено, прежде чем ложиться спать. Низкий заряд батареи может прервать отслеживание сна.</string>
     <string name="sleep_detection_guide_four_high_power_title">Держите устройство заряженным</string>
     <string name="sleep_detection_guide_four_title">Низкое энергопотребление</string>
-    <string name="sleep_detection_guide_one_description">Когда вы спите, поместите свое устройство рядом с собой, чтобы отслеживать движения тела и генерировать статистику цикла сна.</string>
+    <string name="sleep_detection_guide_one_description">Когда вы спите, поместите своё устройство рядом с собой, чтобы отслеживать движения тела и генерировать статистику цикла сна.</string>
     <string name="sleep_detection_guide_one_title">Отслеживание вашего сна</string>
     <string name="sleep_detection_guide_schedule_hint_one">"Без графика сна статистика не будет точной. "</string>
     <string name="sleep_detection_guide_schedule_hint_two">Установите график сна.</string>
@@ -1365,7 +1365,7 @@ ID:%s
     <string name="sleep_service">Контроль сна</string>
     <string name="sleep_service_background_running">Контроля сна работает в фоновом режиме</string>
     <string name="sleep_setting_title">Настройки сна</string>
-    <string name="sleep_snore_audio_auto">Отслеживайте свое аудио</string>
+    <string name="sleep_snore_audio_auto">Отслеживайте своё аудио</string>
     <string name="sleep_snore_audio_auto_desc">Записывайте разговор, когда вы спите, и сохраняйте файл в телефоне, чтобы защитить свою конфиденциальность.</string>
     <string name="sleep_snore_audio_close_desc">Можно отключить его в настройках сна.</string>
     <string name="sleep_snore_audio_enable">Обнаружение включено</string>

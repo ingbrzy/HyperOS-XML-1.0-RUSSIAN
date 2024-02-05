@@ -740,7 +740,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="privacy_policy_title">Политика конфиденциальности</string>
     <string name="privacy_policy_update_hint">"Политика конфиденциальности %1$s обновлена:
 %2$s
-Прежде чем продолжить, прочтите и примите обновленную %3$s."</string>
+Прежде чем продолжить, прочтите и примите обновлённую %3$s."</string>
     <string name="privacy_policy_update_title">Обновленная Политика конфиденциальности</string>
     <string name="progressbar_title">Проверка безопасности…</string>
     <string name="protocal_dialog_confirm">Принимаю</string>
@@ -950,7 +950,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="user_avatar_update_title">Изменение фото профиля</string>
     <string name="user_avatar_uploading">Подождите…</string>
     <string name="user_must_known">Внимание</string>
-    <string name="user_must_known_content">Вы не сможете продолжать пользоваться нашими услугами, если не примите обновленную %s. Принимаете?</string>
+    <string name="user_must_known_content">Вы не сможете продолжать пользоваться нашими услугами, если не примите обновлённую %s. Принимаете?</string>
     <string name="user_name_phone_number">Номер телефона</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
