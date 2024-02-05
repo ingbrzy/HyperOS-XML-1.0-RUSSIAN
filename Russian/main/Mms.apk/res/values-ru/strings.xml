@@ -223,8 +223,8 @@
     <string name="dialog_choice_all_correct_as_normal">Все сообщения от %s</string>
     <string name="dialog_complain_tips">Разрешить Сообщениям подключение к сети, для возможности отчётов.</string>
     <string name="dialog_message_correct_as_ad">Все сообщения от %s (кроме проверочных кодов) будут перемещены в рекламные сообщения.</string>
-    <string name="dialog_message_fake_cell_detect_error">Скорректировать информацию об этом сообщении? Для этого MIUI необходимо загрузить номер телефона (%1$s), содержимое сообщения и информацию о ближайшем местоположении на свои серверы.</string>
-    <string name="dialog_message_mx">Mi Сообщения позволяют бесплатно отправлять сообщения другим пользователям MIUI. Для активации сервиса требуется отправка SMS. Оплата взимается согласно тарифу вашего оператора. Нажав \"Принимаю\", вы принимаете \"%1$s\" и \"%2$s\".</string>
+    <string name="dialog_message_fake_cell_detect_error">Скорректировать информацию об этом сообщении? Для этого нам нужно загрузить номер телефона (%1$s), содержимое сообщения и информацию о ближайшем местоположении на наши серверы.</string>
+    <string name="dialog_message_mx">\"Mi Сообщения\" позволяют бесплатно отправлять сообщения другим пользователям Xiaomi. Для активации сервиса требуется отправка SMS. Оплата взимается согласно тарифу вашего оператора. Перед использованием приложения необходимо принять \"%1$s\" и \"%2$s\".</string>
     <string name="dialog_quit">Выход</string>
     <string name="dialog_revoke">Отозвать</string>
     <string name="dialog_sim_locked_confirm">ОК</string>
@@ -455,9 +455,9 @@
     <string name="mms_block_hint">"Этот отправитель отсутствует в ваших контактах.
 Это сообщение может быть нежелательным."</string>
     <string name="mms_block_hint_highlight">Блокировка MMS</string>
-    <string name="mms_main_purpose_new">Для обеспечения основных сервисов, разрешите приложению доступ к интернету, а также включите Mi Сообщения и Умные сообщения.</string>
+    <string name="mms_main_purpose_new">Для обеспечения основных сервисов, разрешите приложению доступ к интернету, а также включите \"Mi Сообщения\" и \"Умные сообщения\".</string>
     <string name="mms_mi_message_main_purpose">Добро пожаловать в Mi Сообщения! Для активации этого сервиса необходима отправка SMS. Ваш оператор связи может взимать плату за это сообщение.</string>
-    <string name="mms_mi_message_request_notice">Используйте Mi Сообщения с максимальной отдачей</string>
+    <string name="mms_mi_message_request_notice">Используйте \"Mi Сообщения\" с максимальной отдачей</string>
     <string name="mms_mx_privacy_policy">Политика конфиденциальности Mi Сообщений</string>
     <string name="mms_smart_msg_main_purpose">Умные сообщения обеспечивают распознавание ID отправителей и услуги интеллектуального меню, выявляют подозрительные сообщения.</string>
     <string name="mms_smart_msg_privacy_policy">Политика конфиденциальности Умных сообщений</string>
@@ -530,17 +530,17 @@
     <string name="mx_btn_enable_now">Активировать</string>
     <string name="mx_count_dspt">Вы бесплатно отправили %1$d SMS и %2$d MMS</string>
     <string name="mx_current_status">Настройки</string>
-    <string name="mx_dspt">Бесплатно отправляйте SMS и MMS другим пользователям MIUI при подключении к Wi-Fi</string>
-    <string name="mx_dspt_listview">Бесплатно отправляйте сообщения другим пользователям MIUI</string>
+    <string name="mx_dspt">Бесплатно отправляйте SMS и MMS другим пользователям Xiaomi при подключении к Wi-Fi</string>
+    <string name="mx_dspt_listview">Бесплатно отправляйте сообщения другим пользователям Xiaomi</string>
     <string name="mx_dspt_provision_ex2">Политика конфиденциальности</string>
     <string name="mx_enable">Mi Сообщения</string>
     <string name="mx_filter_message_from_stranger">Блокировать Mi сообщения с неизвестных номеров</string>
     <string name="mx_filter_message_from_stranger_dialog_desc">Вы по-прежнему сможете получать SMS с неизвестных номеров. Включить или отключить эту функцию можно в разделе Сообщения &gt; Настройки.</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Блокировать Mi сообщения с неизвестных номеров</string>
     <string name="mx_filter_message_from_stranger_summary">Разрешить Mi сообщения только от контактов</string>
-    <string name="mx_main_purpose">"Mi Сообщения позволяют бесплатно отправлять сообщения другим пользователям MIUI через интернет.
+    <string name="mx_main_purpose">"Mi Сообщения позволяют бесплатно отправлять сообщения другим пользователям Xiaomi через интернет.
 Для активации этого сервиса необходима отправка SMS. Ваш оператор связи может взимать плату за это сообщение."</string>
-    <string name="mx_main_purpose_short">Приложение позволяет пользователям MIUI бесплатно отправлять и получать SMS и MMS сообщения.</string>
+    <string name="mx_main_purpose_short">\"Mi Сообщения\" позволяют пользователям Xiaomi бесплатно отправлять и получать SMS и MMS сообщения</string>
     <string name="mx_message">Mi Сообщения</string>
     <string name="mx_msg">Mi Сообщения</string>
     <string name="mx_offline">Не в сети</string>
@@ -667,7 +667,7 @@
     <string name="pref_title_enable_classify">Автогруппировка сообщений</string>
     <string name="pref_title_fwd_sender_info">Данные отправителя</string>
     <string name="pref_title_manage_sim_messages">Сообщения на SIM карте</string>
-    <string name="pref_title_miui_card">Отправлять как визитку MIUI</string>
+    <string name="pref_title_miui_card">Отправлять как визитку</string>
     <string name="pref_title_mms_auto_retrieval">Автозагрузка MMS</string>
     <string name="pref_title_mms_delete">Максимальное количество MMS</string>
     <string name="pref_title_mms_read_reports">Отчёт о прочтении MMS</string>
@@ -733,7 +733,7 @@
     <string name="privacy_revoke_nonetwork_ok">Понятно</string>
     <string name="privacy_revoke_nonetwork_title">Сеть недоступна</string>
     <string name="privacy_state_revoked_cancel">Отмена</string>
-    <string name="privacy_state_revoked_content">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности приложения Сообщения. Сбор вашей личной информации будет прекращён. Собранная и сохранённая личная информация будет удалена в течение определённого периода, как того требует действующее законодательство. Для предоставления сервисов Mi Сообщения и Умные сообщения, приложению Сообщения требуется сбор некоторой личной информации. Отзыв согласия будет рассматриваться как отказ от использования сервисов.</string>
+    <string name="privacy_state_revoked_content">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности приложения Сообщения. Сбор вашей личной информации будет прекращён. Собранная и сохранённая личная информация будет удалена в течение определённого периода, как того требует действующее законодательство. Для предоставления сервисов \"Mi Сообщения\" и \"Умные сообщения\", приложению требуется сбор некоторой личной информации. Отзыв согласия будет рассматриваться как отказ от использования сервисов.</string>
     <string name="privacy_state_revoked_dialog_title">Отзыв согласия</string>
     <string name="privacy_state_revoked_revoked">Отозвать</string>
     <string name="privacy_state_revoked_switch">Отзыв согласия</string>
@@ -879,8 +879,8 @@
     <string name="recipients_contain_sub_sim_number">"Похоже, что среди получателей есть дополнительный номер SIM-карты. Отправьте это сообщение, используя дополнительную SIM-карту."</string>
     <string name="recipients_over_size">Слишком много получателей.</string>
     <string name="recommend_bar_cancel">Отмена</string>
-    <string name="recommend_bar_message_mx">\"Mi Сообщения\" позволяют бесплатно отправлять сообщения другим пользователям MIUI.</string>
-    <string name="recommend_bar_message_mx_rcs">\"Mi Сообщения\" позволяют бесплатно отправлять сообщения другим пользователям MIUI и абонентам China Mobile в материковом Китае.</string>
+    <string name="recommend_bar_message_mx">\"Mi Сообщения\" позволяют бесплатно отправлять сообщения другим пользователям Xiaomi</string>
+    <string name="recommend_bar_message_mx_rcs">\"Mi Сообщения\" позволяют бесплатно отправлять сообщения другим пользователям Xiaomi и абонентам China Mobile материкового Китая.</string>
     <string name="recommend_bar_message_rcs">Сообщения China Mobile позволяют бесплатно отправлять сообщения другим абонентам China Mobile в материковом Китае.</string>
     <string name="recommend_bar_message_smart_message">Копируйте одноразовые пароли, отслеживайте посылки, используйте интеллектуальные меню и т.д.</string>
     <string name="recommend_bar_ok">Включить</string>

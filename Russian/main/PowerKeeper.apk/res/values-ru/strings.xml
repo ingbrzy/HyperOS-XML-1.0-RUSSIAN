@@ -45,7 +45,7 @@
     <string name="cloud_russion_addr">Обновить данные российского сервера</string>
     <string name="cloud_staging_addr">Обновить данные сервера отладки</string>
     <string name="config_classify">Сортировать по настройкам</string>
-    <string name="config_description">MIUI может распознавать приложения с особыми видами фоновой активности (например, мессенджеры, навигаторы, плееры) и контролировать их активность без ущерба для важных фоновых процессов</string>
+    <string name="config_description">Устройство может распознавать приложения с особыми видами фоновой активности (например, мессенджеры, навигаторы, плееры) и контролировать их активность без ущерба для важных фоновых процессов</string>
     <string name="config_mode_title">Контроль активности</string>
     <string name="config_no_restrict_description">Активность приложения не ограничивается</string>
     <string name="config_no_restrict_title">Без ограничений</string>
@@ -178,7 +178,7 @@
     <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="night">Вечер</string>
-    <string name="nonui_mode_config_description">Когда MIUI определяет, что устройство не используется, световой индикатор, сканер отпечатков и сенсорное управление отключаются для экономии заряда. Экран при получении уведомлений не включается.</string>
+    <string name="nonui_mode_config_description">Когда система определяет, что устройство не используется, световой индикатор, сканер отпечатков и сенсорное управление отключаются для экономии заряда. Экран при получении уведомлений не включается.</string>
     <string name="nonui_mode_config_title">Неинтерактивный режим</string>
     <string name="noon">Полдень</string>
     <string name="not_set">Не задано</string>
@@ -203,9 +203,9 @@
     <string name="search_result_text">Приложения не найдены</string>
     <string name="send">Отправить</string>
     <string name="show_system_app">Показать системные приложения</string>
-    <string name="sleep_config_enhance_description">Пока экран выключен, для экономии заряда MIUI закроет фоновые приложения, ограничит использование NFC, Bluetooth, GPS, мобильных данных и Wi-Fi, не будет включать экран для уведомлений.</string>
-    <string name="sleep_config_enhance_description_non_nfc">Пока экран выключен, для экономии заряда MIUI закроет фоновые приложения, ограничит использование Bluetooth, GPS, мобильных данных и Wi-Fi, не будет включать экран для уведомлений.</string>
-    <string name="sleep_config_enhance_description_pad">Пока экран выключен, для экономии заряда MIUI закроет фоновые приложения, ограничит использование Bluetooth и Wi-Fi, не будет включать экран для уведомлений.</string>
+    <string name="sleep_config_enhance_description">Для экономии заряда во время сна, будут закрыты фоновые приложения, ограничено использование NFC, Bluetooth, GPS, мобильного интернета и Wi-Fi, отключено отображение уведомлений на экране</string>
+    <string name="sleep_config_enhance_description_non_nfc">Для экономии заряда во время сна, будут закрыты фоновые приложения, ограничено использование Bluetooth, GPS, мобильного интернета и Wi-Fi, отключено отображение уведомлений на экране</string>
+    <string name="sleep_config_enhance_description_pad">Для экономии заряда во время сна, будут закрыты фоновые приложения, ограничено использование Bluetooth и Wi-Fi, отключено отображение уведомлений на экране</string>
     <string name="sleep_config_enhance_title">Режим сна</string>
     <string name="sleepmode_disclaimer_agree">Принять</string>
     <string name="sleepmode_disclaimer_cancel">Отмена</string>

@@ -2214,8 +2214,8 @@ ID:%s
     <string name="setting_swipe_up">Свайп вверх на рабочем столе</string>
     <string name="settings_search_online_apps">Магазины приложений</string>
     <string name="settings_search_online_apps_desc">Контент из магазинов приложений</string>
-    <string name="share_image_text">Посмотрите, чем я поделился! @MIUI</string>
-    <string name="share_page_text">Посмотрите, чем я поделился: %1$s @MIUI| %2$s</string>
+    <string name="share_image_text">Посмотрите, чем я поделился! @Mi Браузер</string>
+    <string name="share_page_text">Посмотрите, чем я поделился: %1$s @Mi Браузер| %2$s</string>
     <string name="share_slide_video_text">%1$s</string>
     <string name="shear_plate_permission_name">Доступ к буферу обмена и сохранение в нем данных</string>
     <string name="short_cut_name_novel">Бесплатные книги</string>

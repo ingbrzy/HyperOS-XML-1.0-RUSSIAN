@@ -57,7 +57,7 @@
     <string name="barcode_install_back">Назад</string>
     <string name="barcode_install_cancel">Отмена</string>
     <string name="barcode_install_confirm">Установить</string>
-    <string name="barcode_system_unmatch">Перед установкой Сканера обновите MIUI</string>
+    <string name="barcode_system_unmatch">Перед установкой Сканера обновите систему</string>
     <string name="barcode_to_install">Установите Сканер для продолжения</string>
     <string name="barcode_uninstalled">Приложение Сканер удалено</string>
     <string name="cancel">Отмена</string>
@@ -637,7 +637,7 @@
     <string name="update_version_alpha">Альфа</string>
     <string name="update_version_dev">Бета</string>
     <string name="update_version_stable">Стабильная</string>
-    <string name="updated_title">Установлена последняя версия MIUI</string>
+    <string name="updated_title">Установлена последняя версия</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="view_all">Все</string>

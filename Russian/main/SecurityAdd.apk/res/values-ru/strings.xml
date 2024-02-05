@@ -153,14 +153,14 @@
     <string name="face_distance_detect_title">Расстояние до экрана</string>
     <string name="fastboot_locked_answer_1">Fastboot - это традиционный способ прошивки устройств Xiaomi. Когда устройство находится в режиме Fastboot, все данные, хранящиеся на нем, могут быть изменены и стерты напрямую. Мы блокируем Fastboot, чтобы убедиться, что данные останутся в безопасности в случае утери устройства, а также для надёжности работы Поиска устройства.</string>
     <string name="fastboot_locked_answer_2">При утере устройства Fastboot гарантирует безопасность хранящихся на нем данных. Если вы разблокируете Fastboot, вы больше не сможете заблокировать устройство удаленно или стереть данные с помощью Поиска устройства. Поэтому мы не рекомендуем разблокировать Fastboot на вашем устройстве.</string>
-    <string name="fastboot_locked_answer_3">Вы должны использовать утилиту разблокировки с сайта MIUI. Чтобы разблокировать устройство, мы должны убедиться, что устройство принадлежит вам. Поэтому вам нужно войти в свой аккаунт Xiaomi и включить Поиск устройства.</string>
+    <string name="fastboot_locked_answer_3">Вы должны использовать утилиту разблокировки от Xiaomi. Чтобы разблокировать устройство, мы должны убедиться, что устройство принадлежит вам. Поэтому вам нужно войти в свой аккаунт Xiaomi и включить Поиск устройства.</string>
     <string name="fastboot_locked_question_1">Почему Fastboot должен быть заблокирован?</string>
     <string name="fastboot_locked_question_2">Существуют ли риски, связанные с разблокировкой Fastboot?</string>
     <string name="fastboot_locked_question_3">Я осознаю риск, но всё равно хочу разблокировать устройство. Что я должен сделать?</string>
     <string name="fastboot_status_locked_info">Fastboot не разблокирован на этом устройстве</string>
     <string name="fastboot_status_locked_summary">Не удалось получить ROOT-доступ</string>
     <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
-    <string name="fastboot_unlock_web_title">Посетите сайт MIUI, чтобы загрузить утилиту разблокировки.</string>
+    <string name="fastboot_unlock_web_title">Зайдите на официальный сайт, чтобы загрузить утилиту разблокировки</string>
     <string name="fingerprint_not_remind">Больше не спрашивать</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>

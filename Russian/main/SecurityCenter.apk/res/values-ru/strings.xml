@@ -270,18 +270,7 @@
     <string name="apn_exception_summary">Диагностика конфигурации APN</string>
     <string name="apn_exception_title">Проверка настроек APN</string>
     <string name="apn_exception_wap_summary">WAP сейчас нестабилен. Переключитесь на сеть.</string>
-    <string name="app_behavior_about_content_no_link">"MIUI может записывать следующие действия:
-  
-• автозапуск приложений
-• цепной запуск приложений
-• использование геолокации
-• доступ к микрофону и камере
-• доступ к контактам и календарю
-• доступ к файлам и буферу обмена
-• доступ к журналу вызовов
-• доступ к SMS и вызовам
-
-Из-за проблем совместимости версий Android, некоторые записи могут быть неточными, об этом можно сообщить в приложении \"Обратная связь\"."</string>
+    <string name="app_behavior_about_content_no_link">"Система может показать, когда приложения осуществляли автозапуск или цепной запуск других приложений, когда использовались разрешения или выполнялись конфиденциальные действия. Из-за проблем совместимости версий Android, некоторые записи могут быть неточными, об этом можно сообщить в приложении \"Обратная связь\"."</string>
     <string name="app_behavior_about_negative">Сообщить о неточностях</string>
     <string name="app_behavior_about_positive">ОК</string>
     <string name="app_behavior_about_setting">Настройки</string>
@@ -494,7 +483,7 @@
     <string name="app_manager_app_version_name">"Версия: "</string>
     <string name="app_manager_appupdate_remind">Уведомлять о наличии обновлений</string>
     <string name="app_manager_as_dlg_msg">Автозапуск приложений может привести к дополнительному расходу ОЗУ и батареи. Разрешить автозапуск?</string>
-    <string name="app_manager_as_dlg_msg_new">Автозапуск приложений может привести к дополнительному расходу ОЗУ и батареи. Чтобы повысить производительность, MIUI оптимизирует разрешения на автозапуск для редко используемых приложений.</string>
+    <string name="app_manager_as_dlg_msg_new">Автозапуск приложений может привести к дополнительному расходу ОЗУ и батареи. Чтобы повысить производительность, разрешения на автозапуск для редко используемых приложений будут оптимизированы.</string>
     <string name="app_manager_as_dlg_title">Внимание</string>
     <string name="app_manager_autostart_title">Автозапуск</string>
     <string name="app_manager_back">Назад</string>
@@ -595,7 +584,7 @@
     <string name="app_manager_uninstall">Удаление</string>
     <string name="app_manager_uninstall_button_text">Удалить</string>
     <string name="app_manager_uninstall_notify_title">Удаление редко используемых приложений</string>
-    <string name="app_manager_uninstall_protected_dlg_msg">Удаление системных приложений может нарушить работу некоторых компонентов MIUI. Удалить?</string>
+    <string name="app_manager_uninstall_protected_dlg_msg">Удаление системных приложений может нарушить работу некоторых системных компонентов. Удалить?</string>
     <string name="app_manager_uninstall_protected_dlg_title">Удаление системных приложений</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Соответствующие клоны приложений и их данные будут удалены.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">Удаление клона приложения очистит все его данные.</string>
@@ -769,7 +758,7 @@
     <string name="apps_item_sms_default_set_success">Настройка завершена</string>
     <string name="apps_item_sms_reset_button_text">Сброс настроек</string>
     <string name="apps_item_sms_title">Приложение по умолчанию изменено</string>
-    <string name="apps_item_summary_sms">%s теперь управляет SMS-сообщениями. Для стабильной и безопасной работы рекомендуется использовать системное приложение MIUI.</string>
+    <string name="apps_item_summary_sms">%s теперь управляет SMS-сообщениями. Для стабильной и безопасной работы рекомендуется использовать системное приложение.</string>
     <string name="apps_item_summary_system_rooted">Разрешён ROOT-доступ. Восстановите настройки по умолчанию чтобы избежать угроз безопасности.</string>
     <string name="apps_item_summary_system_update">В новой версии были исправлены некоторые ошибки, платежи стали более безопасными</string>
     <string name="apps_item_title_system">Обновление системы</string>
@@ -798,7 +787,7 @@
     <string name="auto_start_close">Отключить</string>
     <string name="auto_start_hint">Внимание</string>
     <string name="auto_start_hint_desc">%1$s не сможет получать входящие сообщения в режиме реального времени, если отключить для него автозапуск. Отключить?</string>
-    <string name="auto_start_tips">Чтобы повысить производительность, MIUI оптимизирует разрешения на автозапуск для редко используемых приложений</string>
+    <string name="auto_start_tips">Чтобы повысить производительность, разрешения на автозапуск для редко используемых приложений будут оптимизированы</string>
     <string name="auto_task_allow_suggestion">Рекомендации по задачам</string>
     <string name="auto_task_available_device">Доступные устройства</string>
     <string name="auto_task_condition_choose_battery_level_down">Разряд батареи до определённого уровня</string>
@@ -1422,8 +1411,8 @@
     <string name="cs_title_pickup">Шумоподавление</string>
     <string name="cs_title_smart_subtitle">Транскрипция субтитров</string>
     <string name="cs_title_ultraclear">Режим Ультра HD</string>
-    <string name="cta_HIPS_Perm_Location_Desc">Для использования информации о вашем местоположении в сервисах Центр предупреждения MIUI, Экстренная помощь, Контроль активности, Безопасность платежей, а также для приблизительной геолокации</string>
-    <string name="cta_agree_desc">Чтобы использовать наши сервисы, предоставьте приложению доступ к интернету и вышеперечисленные разрешения.</string>
+    <string name="cta_HIPS_Perm_Location_Desc">Для предоставления функций, связанных с геолокацией, в службах Центра предупреждения, Экстренней помощи, Экономии заряда и Безопасности платежей, а также в службе приблизительной геолокации</string>
+    <string name="cta_agree_desc">Для работы служб, разрешите доступ к интернету и предоставьте вышеперечисленные разрешения.</string>
     <string name="cta_close_dialog_cancel">Отмена</string>
     <string name="cta_close_dialog_content">Если вы ограничите Безопасности доступ в интернет и геолокацию, вы не сможете получать предупреждения о землетрясениях, обновлять описания вирусов и чёрные списки. Устройство станет менее безопасным. Ограничить?</string>
     <string name="cta_close_dialog_ok">Ограничить</string>
@@ -1431,8 +1420,8 @@
     <string name="cta_dialog_negative">Выйти</string>
     <string name="cta_dialog_positive">Принять</string>
     <string name="cta_dialog_title">Доступ в интернет</string>
-    <string name="cta_main_purpose">Добро пожаловать в Безопасность! Приложение и его модули (включая компоненты безопасности MIUI, системные службы и Joyose) можно использовать для освобождения места на устройстве, поиска и нейтрализации вирусов, оптимизации производительности и экономии заряда, управления приложениями и многого другого. Во время установки приложений или совершения платежей, компоненты безопасности MIUI будут осуществлять проверку безопасности, используя подключение к интернету.</string>
-    <string name="cta_main_purpose_new">Добро пожаловать в Безопасность! Приложение и его модули (включая компоненты безопасности MIUI, службы приложения и системы, а также Joyose) можно использовать для освобождения места на устройстве, поиска и нейтрализации вирусов, оптимизации производительности и экономии заряда, управления приложениями и многого другого. Во время установки приложений и совершения платежей, компоненты безопасности MIUI будут подключаться к интернету и осуществлять проверку безопасности.</string>
+    <string name="cta_main_purpose">Добро пожаловать в Безопасность! Приложение и его модули (включая системные компоненты безопасности, системные службы, Joyose и Очистку) можно использовать для освобождения места на устройстве, поиска и нейтрализации вирусов, оптимизации производительности и экономии заряда, управления приложениями и многого другого. Во время установки приложений или платежей, системные компоненты безопасности будут проверять их безопасность, используя подключение к интернету.</string>
+    <string name="cta_main_purpose_new">Добро пожаловать в Безопасность! Приложение и его модули (включая системные компоненты безопасности, службы приложения и системы, Joyose и Очистку) можно использовать для освобождения места на устройстве, поиска и нейтрализации вирусов, оптимизации производительности и экономии заряда, управления приложениями и многого другого. Во время установки приложений или платежей, системные компоненты безопасности будут проверять их безопасность, используя подключение к интернету.</string>
     <string name="cta_settings">Разрешить доступ в интернет и геолокацию</string>
     <string name="current_network_state_not_need_diagnose">Интернет-соединение работает нормально.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Для использования чёрного списка и вызова экстренных контактов для предупреждения о землетрясении</string>
@@ -1444,7 +1433,7 @@
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">Для использования чёрного списка и отправки калибровочных сообщений оператору связи</string>
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Для удаления сообщений из чёрного списка</string>
     <string name="custom_define_permission_desc_android.permission.group.SENSORS">Для обнаружения сейсмических волн при мониторинге землетрясений</string>
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Для предоставления функций, связанных с геолокацией, в сервисах Центр предупреждения MIUI, Экстренная помощь, Контроль активности, Безопасность платежей и в службах приблизительной геолокации</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Для предоставления функций, связанных с геолокацией, в службах Центра предупреждения, Экстренней помощи, Экономии заряда, Безопасности платежей и в службе приблизительной геолокации</string>
     <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Для записи звука при использовании Ускорения игр</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Для очистки корзины и антивирусного сканирования</string>
     <string name="customize_limit_pkg">%s (особый)</string>
@@ -1452,7 +1441,7 @@
     <string name="daily_card_setting_fragment_daily_card_brand">Оператор</string>
     <string name="daily_card_setting_fragment_daily_card_brand_value">Выбрать оператора</string>
     <string name="daily_card_setting_fragment_daily_card_setting">Настройки суточного тарифа</string>
-    <string name="daily_card_setting_fragment_daily_card_summary">MIUI установит лимиты трафика в соответствии с выбранным оператором. Если ваш оператор отсутствует в списке, выберите \"Другой\" и настройте суточный тариф вручную.</string>
+    <string name="daily_card_setting_fragment_daily_card_summary">Будут настроены приложения и установлены лимиты трафика, в соответствии с выбранным оператором. Если ваш оператор отсутствует в списке, выберите \"Другой\" и настройте суточный тариф вручную.</string>
     <string name="daily_card_setting_fragment_daily_package">Суточный лимит</string>
     <string name="daily_card_setting_fragment_month_package">Ежемесячный лимит</string>
     <string name="daily_card_setting_fragment_package_summary">Если ваш суточный тариф включает в себя месячный пакет, он будет использован до суточного пакета</string>
@@ -1536,7 +1525,7 @@
     <string name="dialog_change_package_type_summary">Изменение типа тарифа приведет к сбросу всех настроек передачи данных (например, лимитов трафика) до их значений по умолчанию. Изменить тип тарифа?</string>
     <string name="dialog_change_package_type_title">Изменение типа тарифа</string>
     <string name="dialog_msg_auto_start_declare">Некоторые приложения могут некорректно сообщать, что система не разрешила их запуск. Проверьте разрешения, выданные отдельным приложениям, в разделе Настройки &gt; Приложения.</string>
-    <string name="dialog_msg_auto_start_declare_global">Некоторые приложения могут некорректно сообщать, что MIUI не разрешила их запуск. Проверьте разрешения, выданные отдельным приложениям, в Настройках.</string>
+    <string name="dialog_msg_auto_start_declare_global">Некоторые приложения могут некорректно сообщать, что система не разрешила их запуск. Проверьте разрешения, выданные отдельным приложениям, в Настройках.</string>
     <string name="dialog_msg_create_icon_content">Добавить ярлык на рабочий стол?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">Больше не показывать</string>
     <string name="dialog_msg_delete_icon_content_pad">Приложение Безопасность позволяет очищать мусор на устройстве, находить и обезвреживать вирусы, экономить заряд батареи, управлять разрешениями и многое другое.</string>
@@ -1549,7 +1538,7 @@
     <string name="dialog_no_longer_alert">Больше не показывать</string>
     <string name="dialog_remobe_luckymoney_cancle">Отмена</string>
     <string name="dialog_remobe_luckymoney_ok">ОК</string>
-    <string name="dialog_remove_luckymoney">В данной версии MIUI поддерживается помощник красных конвертов. Удалить стороннее приложение?</string>
+    <string name="dialog_remove_luckymoney">Поддерживается системный помощник красных конвертов. Удалить стороннее приложение?</string>
     <string name="dialog_restrict_all_mobile_summary">Мобильный интернет %s будет ограничен для всех приложений.</string>
     <string name="dialog_restrict_all_mobile_title">Ограничение %s</string>
     <string name="dialog_restrict_all_wlan_summary">Подключение Wi-Fi будет ограничено для всех приложений.</string>
@@ -1873,7 +1862,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="ew_monitor_summary2">Передача информации, связанной с предупреждением о землетрясениях.</string>
     <string name="ew_monitor_summary3">Помощь большему количеству людей в быстром получении оповещений о землетрясениях.</string>
     <string name="ew_monitor_support">Техническая поддержка предоставляется Чэндуским институтом высоких технологий по уменьшению опасности стихийных бедствий.</string>
-    <string name="ew_monitor_support_rom">*Функция поддерживается некоторыми устройствами Xiaomi/Redmi и версиями MIUI.</string>
+    <string name="ew_monitor_support_rom">*Функция поддерживается некоторыми устройствами Xiaomi/Redmi и версиями системы</string>
     <string name="ew_monitor_thanks_tips">"Благодарим за то, что стали волонтером
 по мониторингу землетрясений № %s!"</string>
     <string name="ew_monitor_title">Волонтер по мониторингу землетрясений</string>
@@ -1885,7 +1874,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="ew_push_message">Предполагаемая интенсивность: %s. Возможно легкое сотрясение рядом.</string>
     <string name="ew_push_title">Предупреждение о землетрясении для %s</string>
     <string name="ew_safe_place_no_maps_tips">Поиск недоступен. Сначала установите Baidu Maps или Amap.</string>
-    <string name="ew_setting_desc_message">MIUI оценивает интенсивность землетрясения, основываясь на его величине, местоположении эпицентра и вашем местоположении. Чем больше предполагаемая интенсивность, тем более разрушительным будет землетрясение в вашем районе.</string>
+    <string name="ew_setting_desc_message">Интенсивность землетрясения оценивается, основываясь на его силе, местоположении эпицентра и вашей геопозиции. Чем больше предполагаемая интенсивность, тем более разрушительным будет землетрясение в районе где вы находитесь.</string>
     <string name="ew_setting_desc_title">Что такое предполагаемая интенсивность?</string>
     <string name="ew_setting_more_title">Подробнее о предупреждении о землетрясениях</string>
     <string name="ew_setting_normal_push_message">Когда предполагаемая интенсивность ниже порога предупреждения</string>
@@ -1902,7 +1891,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="ew_settings_set_level_summary">Получать предупреждения о землетрясениях при интенсивности %s или выше</string>
     <string name="ew_settings_set_level_title">Порог предупреждения о землетрясении</string>
     <string name="ew_signature_default">Центр предупреждения о землетрясениях Чэнду, Научно-исследовательский институт по уменьшению опасности стихийных бедствий</string>
-    <string name="ew_sleep_mode_alert_content">Для возможности получения ранних предупреждений о землетрясениях, MIUI отключит спящий режим. Фоновые приложения, NFC, Bluetooth, GPS, мобильные данные и Wi-Fi будут работать нормально, даже когда вы спите. Включить предупреждения о землетрясении?</string>
+    <string name="ew_sleep_mode_alert_content">Для возможности получения ранних предупреждений о землетрясениях, спящий режим будет отключен. Фоновые приложения, NFC, Bluetooth, GPS, мобильные данные и Wi-Fi будут работать, даже когда вы спите. Включить предупреждения о землетрясении?</string>
     <string name="ew_sleep_mode_alert_title">Предупреждения о землетрясениях</string>
     <string name="ew_subscribe_area_title">Управление районами</string>
     <string name="ew_subscribe_city">Добавленные районы</string>
@@ -2103,7 +2092,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="first_settings_default_location_subtitle">Удалить информацию о местоположении из общих фотографий</string>
     <string name="first_settings_default_location_title">Отправлять без информации о местоположении</string>
     <string name="first_settings_share_enable">Добавлять значок \"Безопасный обмен\"</string>
-    <string name="first_settings_share_enable_subtitle">Элементы, которыми вы делитесь в WeChat, будут отображаться со значком MIUI.</string>
+    <string name="first_settings_share_enable_subtitle">Элементы, которыми вы делитесь в WeChat, будут отмечены значком</string>
     <string name="first_settings_subtitle">Варианты безопасного обмена:</string>
     <string name="first_settings_title">Защита вашей конфиденциальности</string>
     <string name="five_percent_total_pkg">%s (5%% от месячного лимита)</string>
@@ -2804,7 +2793,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Неверный оператор?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Ваш текущий оператор: "</string>
     <string name="guide_quck_open">Включить</string>
-    <string name="guide_second_text">После выбора оператора MIUI будет ежедневно отслеживать мобильный трафик путем отправки бесплатных SMS. Если MIUI обнаружит превышение лимита, мобильный интернет будет отключён, а вам направлено уведомление.</string>
+    <string name="guide_second_text">После выбора оператора, мобильный трафик будет ежедневно отслеживаться путем отправки бесплатных SMS. При превышении лимита, мобильный интернет будет отключён, а вам направлено уведомление.</string>
     <string name="guide_wait_setting">Не сейчас</string>
     <string name="handle_bar_summary_wifi_unknown">Неизвестно</string>
     <string name="handle_bar_title_system">Система</string>
@@ -3186,8 +3175,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="midnight">Ночь</string>
     <string name="midrop_post_notification_contentTitle">Нужно передать файлы?</string>
     <string name="miui_blur_location">Включить для всех приложений геолокацию пониженной точности</string>
-    <string name="miui_optimization_close_final_tip">Отключить оптимизацию MIUI?</string>
-    <string name="miui_optimization_close_title">Эта функция предназначена для разработчиков. Отключение оптимизации MIUI может привести к:</string>
+    <string name="miui_optimization_close_final_tip">Отключить оптимизацию системы?</string>
+    <string name="miui_optimization_close_title">Эта функция предназначена для разработчиков. Отключение оптимизации системы приведёт к:</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
@@ -3389,7 +3378,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="network_speed_for_apps_title">Подключение</string>
     <string name="network_speed_for_apps_total">Скорость подключения</string>
     <string name="network_test_speed">Тест скорости Wi-Fi</string>
-    <string name="network_traffic_warning_text">MIUI не может подсчитать статистику трафика для отдельных системных приложений. Вы сможете увидеть информацию о трафике в сведениях о приложении, если оно активно использует мобильный интернет.</string>
+    <string name="network_traffic_warning_text">Не удалось подсчитать статистику трафика для некоторых системных приложений. Информация о трафике доступна в сведениях о приложении, только если приложение активно использует мобильный интернет.</string>
     <string name="network_traffic_warning_title">Трафик системных приложений</string>
     <string name="networkchanged_exception_summary">Произведено подключение к другой сети. Повторите диагностику.</string>
     <string name="networkchanged_exception_title">Подключена другая сеть</string>
@@ -3605,7 +3594,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="optimize_result_button_to_set">Установить</string>
     <string name="optimize_result_button_update_now">Обновить</string>
     <string name="optimize_result_summary_sucurity_risk">Некоторые функции безопасности отключены. Включите их, чтобы сделать устройство более безопасным:</string>
-    <string name="optimize_result_summary_system_default_settings">Используйте системные приложения MIUI для повышения уровня стабильности и безопасности системы</string>
+    <string name="optimize_result_summary_system_default_settings">Использование приложений по умолчанию повышает уровень стабильности и безопасности системы</string>
     <string name="optimize_result_title_sucurity_risk">Найдены угрозы безопасности</string>
     <string name="optimize_result_title_system_default_settings">Системные настройки по умолчанию изменены</string>
     <string name="optimize_result_title_uninstall_apps">Удаление приложений</string>
@@ -3721,7 +3710,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_fast_charge_notifi_switch_title">Уведомлять об ускорении</string>
     <string name="pc_fast_charge_notifi_title">Зарядка %d Вт</string>
     <string name="pc_fast_charge_notifi_title_on">Выключить ускорение зарядки</string>
-    <string name="pc_fast_charge_switch_summary">Включите для ускорения зарядки. MIUI отдаст приоритет скорости зарядки, обеспечивая при этом безопасность устройства. Чем меньше заряд батареи, тем быстрее скорость зарядки. Эта функция может привести к нагреву устройства.</string>
+    <string name="pc_fast_charge_switch_summary">Включите для ускорения зарядки. Функция обеспечивает приоритет скорости зарядки, защищая устройство. Чем меньше заряд батареи, тем выше скорость зарядки, устройство при этом может нагреваться.</string>
     <string name="pc_fast_charge_switch_summary_new">Уведомлять об ускорении зарядки, если подключено родное зарядное устройство и заряд батареи ниже установленного уровня</string>
     <string name="pc_fast_charge_switch_title">Ускорение зарядки</string>
     <string name="pc_fast_charge_switch_toast_message">Изменения будут применены при следующей зарядке</string>
@@ -3919,7 +3908,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_instruction_dont_disturb">Это разрешение позволяет приложениям включать и выключать режим \"Не беспокоить\".</string>
     <string name="permission_instruction_draw_overlay">Это разрешение позволяет приложениям отображать плавающие окна поверх любого другого интерфейса на вашем устройстве, что может повлиять на нормальное использование других приложений. Вредоносные приложения могут использовать это разрешение для чтения или сбора личной информации (например, паролей) через прозрачные плавающие окна.</string>
     <string name="permission_instruction_external_storage">Это разрешение позволяет приложениям получать доступ к фотографиям, мультимедиа и файлам на вашем устройстве. Будьте осторожны с этим разрешением, чтобы избежать ненужного разглашения личной информации.</string>
-    <string name="permission_instruction_gallery">Чтобы защитить конфиденциальность, MIUI позволяет отдельно настроить разрешения на доступ к Галерее для приложений, у которых есть доступ к файлам во внутренней памяти</string>
+    <string name="permission_instruction_gallery">Для защиты конфиденциальности, помимо настройки доступа приложений к файлам в собственных папках, система позволяет настроить их доступ к файлам в Галерее. Приложения с уровнем Android API 29 и выше уже поддерживают разделы хранилища, для них преключатель не предусмотрен.</string>
     <string name="permission_instruction_get_accounts">Это разрешение позволяет приложениям получать доступ к списку аккаунтов, хранящихся на вашем устройстве. Этот список может содержать все ваши личные аккаунты, созданные установленными приложениями, а также аккаунты соц. сетей и средств связи.</string>
     <string name="permission_instruction_get_identifier">Доступ к идентификатору устройства</string>
     <string name="permission_instruction_install_shortcuts">Это разрешение позволяет приложениям создавать ярлыки на рабочем столе.</string>
@@ -3960,8 +3949,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_instruction_send_sms">Это разрешение позволяет приложениям отправлять текстовые сообщения, за что может взиматься дополнительная плата. Вредоносные программы могут использовать это разрешение для отправки платных сообщений без вашего согласия.</string>
     <string name="permission_instruction_shake">Это разрешение позволяет приложениям отслеживать ориентацию и движения устройства (например, встряхивание, наклон и вращение).</string>
     <string name="permission_instruction_show_locked">Это разрешение позволяет приложениям отображать элементы на экране блокировки. Вредоносные программы могут использовать это разрешение для показа вам надоедливой рекламы.</string>
-    <string name="permission_instruction_sociality">Чтобы защитить конфиденциальность, MIUI позволяет отдельно настроить разрешения на доступ к файлам приложений соцсетей для тех приложений, у которых есть доступ к внутренней памяти. Для приложений с уровнем API 29 и выше, поддерживающих разделы памяти, выбор не предоставляется.</string>
-    <string name="permission_instruction_storage">Чтобы защитить конфиденциальность, MIUI позволяет отдельно настроить разрешения на доступ к Галерее и файлам приложений соцсетей для тех приложений, у которых есть доступ к внутренней памяти. Для приложений с уровнем API 29 и выше, поддерживающих разделы памяти, выбор не предоставляется.</string>
+    <string name="permission_instruction_sociality">Для защиты конфиденциальности, помимо настройки доступа приложений к файлам в собственных папках, система позволяет настроить их доступ к файлам приложений соцсетей. Приложения с уровнем Android API 29 и выше уже поддерживают разделы хранилища, для них преключатель не предусмотрен.</string>
+    <string name="permission_instruction_storage">Для защиты конфиденциальности, помимо настройки доступа приложений к файлам в собственных папках, система позволяет настроить их доступ к файлам в Галерее и к файлам приложений соцсетей. Приложения с уровнем Android API 29 и выше уже поддерживают разделы хранилища, для них преключатель не предусмотрен.</string>
     <string name="permission_instruction_touch_pay">Это разрешение позволяет приложениям выполнять бесконтактные платежи.</string>
     <string name="permission_instruction_transfer_data_to_other_devices">Передача данных на другие устройства</string>
     <string name="permission_instruction_use_sip">Это разрешение позволяет приложениям использовать видеосервисы SIP.</string>
@@ -4157,7 +4146,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_dialog_msg_bottom">Можно увеличить автономность до %1$d ч. %2$d мин. Включить экономию заряда?</string>
     <string name="power_center_dialog_msg_title">Включите, чтобы увеличить время работы на %1$s. Для экономии заряда будут выполнены следующие действия:</string>
     <string name="power_center_dialog_msg_title_screen_on">Вы получите %1$s экранного времени, если включите эту функцию. Следующие действия сэкономят заряд:</string>
-    <string name="power_center_dialog_msg_top">Когда включена экономия заряда, MIUI выполнит следующие действия:</string>
+    <string name="power_center_dialog_msg_top">Когда включена экономия заряда, будут выполнены следующие действия:</string>
     <string name="power_center_hints_scan_danger_result">Найдены объекты для оптимизации</string>
     <string name="power_center_list_item_auto_brightness">Автоматически регулировать яркость</string>
     <string name="power_center_list_item_battery_status_time">ч.</string>
@@ -4174,7 +4163,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_night_charge_noti_title">Включена оптимизация зарядки</string>
     <string name="power_center_night_charge_protection">Оптимизация зарядки</string>
     <string name="power_center_night_charge_protection_setting">Дополнительные параметры в Безопасность > Батарея.</string>
-    <string name="power_center_night_charge_protection_summary">Для уменьшения старения батареи, MIUI собирает статистику по зарядке, чтобы исключить избыточную непрерывную зарядку</string>
+    <string name="power_center_night_charge_protection_summary">Устройство собирает статистику по зарядке, чтобы сократить количество подзарядок и уменьшить старение батареи</string>
     <string name="power_center_one_key_save">Оптимизировать</string>
     <string name="power_center_ontime_boot">Включение устройства</string>
     <string name="power_center_ontime_shutdown">Выключение устройства</string>
@@ -4259,7 +4248,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_consume_software_total_format">Приложения: %s</string>
     <string name="power_customize_giveup_change">Отменить изменения?</string>
     <string name="power_dailog_night_charge_protection_done">Понятно</string>
-    <string name="power_dailog_night_charge_protection_summary">Батарея полностью заряжена. MIUI включила оптимизированную зарядку для уменьшения старения батареи.</string>
+    <string name="power_dailog_night_charge_protection_summary">Батарея полностью заряжена. Включена оптимизация зарядки для уменьшения старения батареи.</string>
     <string name="power_dailog_night_charge_protection_summary_new">Батарея полностью заряжена. Включена защита от перезаряда в ночное время для автоматической регулировки продолжительности зарядки и продления срока службы батареи.</string>
     <string name="power_dialog_cancel">Отмена</string>
     <string name="power_dialog_ok">ОК</string>
@@ -4422,7 +4411,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_app_permission_settings">Конфиденциальные разрешения</string>
     <string name="pp_app_permission_settings_detail">Управление конфиденциальными разрешениями приложения</string>
     <string name="pp_app_reads_clipboard_smart_reminder">Защита буфера обмена</string>
-    <string name="pp_app_reads_clipboard_smart_reminder_detail">MIUI будет управлять доступом к буферу обмена и уведомлять о доступе</string>
+    <string name="pp_app_reads_clipboard_smart_reminder_detail">Система будет управлять доступом к буферу обмена и уведомлять о доступе</string>
     <string name="pp_app_warning_permission_tips">Уведомления о действиях</string>
     <string name="pp_app_warning_permission_tips_detail">Уведомлять об использовании геолокации, доступе к микрофону или камере</string>
     <string name="pp_block_mac">Ограничение доступа к MAC-адресу</string>
@@ -4466,11 +4455,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_privacy_lab_blur_location">Пониженная точность</string>
     <string name="pp_privacy_lab_blur_location_summary">Приложениям предоставляются геоданные пониженной точности для обезличивания информации</string>
     <string name="pp_privacy_lab_clipboard">Защита буфера обмена</string>
-    <string name="pp_privacy_lab_clipboard_summary">MIUI будет принимать решения о предоставлении приложениям доступа к буферу обмена и оповещать о доступе</string>
+    <string name="pp_privacy_lab_clipboard_summary">Система будет управлять доступом к буферу обмена и уведомлять о доступе</string>
     <string name="pp_privacy_lab_operator_get_number">Доступ к номеру телефона</string>
     <string name="pp_privacy_lab_operator_get_number_summary">Приложения будут запрашивать разрешение на доступ к номеру телефона для входа в систему</string>
     <string name="pp_privacy_lab_operator_introduction">Внимание</string>
-    <string name="pp_privacy_lab_operator_introduction_summary">Приложения могут хранить номер телефона. Изменение разрешения не приведет к удалению номера телефона, если он был получен ранее.</string>
+    <string name="pp_privacy_lab_operator_introduction_summary">Приложения могут хранить номер телефона, если он был получен ранее. Изменение разрешения не приведет к удалению номера телефона.</string>
     <string name="pp_privacy_protection">Защита</string>
     <string name="pp_privacy_protection_function">Функции защиты приватности</string>
     <string name="pp_privacy_protection_lab">Лаборатория защиты приватности</string>
@@ -4507,7 +4496,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="precise_location_title">Высокая точность</string>
     <string name="pref_about_traffic_title">Общие настройки</string>
     <string name="pref_adjust_data_usage">Шаблон сообщения оператора</string>
-    <string name="pref_adjust_data_usage_summary">После изменения шаблона калибровки MIUI будет использовать его для получения статистики от оператора</string>
+    <string name="pref_adjust_data_usage_summary">После изменения шаблона калибровки, Xiaomi будет использовать его для получения статистики от оператора</string>
     <string name="pref_adjust_traffic_data">Израсходованный трафик</string>
     <string name="pref_allow_connect_network_title">Интернет-роуминг</string>
     <string name="pref_auto_adjust_traffic">Автообновление статистики</string>
@@ -4556,7 +4545,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pref_roaming_setting_gategory">Настройки</string>
     <string name="pref_special_package_setting">Особый тариф</string>
     <string name="pref_special_package_setting_summary">Управление льготным трафиком, пакетами пополнения и целевым трафиком</string>
-    <string name="pref_summary_upload_data_usage">Отправка отчётов о трафике для улучшения MIUI. Отчётность осуществляется в соответствии с нашей Политикой конфиденциальности.</string>
+    <string name="pref_summary_upload_data_usage">Присылайте отчёты об использовании трафика для улучшения работы наших продуктов и сервисов. Обработка отчётов осуществляется в соответствии с нашей Политикой конфиденциальности.</string>
     <string name="pref_title_declaration">Отказ от ответственности</string>
     <string name="pref_title_diagnostics_show_float_notification">Всплывающие уведомления</string>
     <string name="pref_title_manual_check_virus_db_update">Проверить обновления</string>
@@ -4626,15 +4615,15 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_dialog_call_item_1">Доступ к информации об устройстве</string>
     <string name="privacy_dialog_call_item_2">Осуществление вызовов</string>
     <string name="privacy_dialog_call_item_3">Доступ к состоянию устройства</string>
-    <string name="privacy_dialog_call_message">По умолчанию MIUI не позволяет сторонним приложениям выполнять следующие действия:</string>
+    <string name="privacy_dialog_call_message">По умолчанию система не позволяет сторонним приложениям выполнять следующие действия:</string>
     <string name="privacy_dialog_call_result">Вы по-прежнему сможете нормально использовать сторонние приложения и службы. Если у вас возникнут какие-либо проблемы, свяжитесь с нами.</string>
     <string name="privacy_dialog_call_title">Защита вызовов</string>
-    <string name="privacy_dialog_camera_message">В целях защиты приватности MIUI не разрешает приложениям использовать камеру в фоновом режиме</string>
+    <string name="privacy_dialog_camera_message">Для защиты приватности, система не разрешает приложениям использовать камеру в фоновом режиме</string>
     <string name="privacy_dialog_camera_title">Запрет камеры в фоновом режиме</string>
     <string name="privacy_dialog_content_part1">Добро пожаловать в Безопасность! Это приложение проверяет устройство на наличие мусора и вирусов, позволяет управлять приложениями, контролировать использование мобильного интернета, блокировать звонки и сообщения и т.д.</string>
     <string name="privacy_dialog_content_part2"><Data>Для предоставления сервисов и возможности их улучшения, приложению требуется сбор некоторой личной информации. Вы можете узнать, как мы используем собранную информацию в нашей &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>. Согласие с Политикой конфиденциальности можно отозвать в любое время в настройках.</Data></string>
     <string name="privacy_dialog_content_part3"><Data>"Перед использованием приложения прочтите и примите наши &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>. В случае несогласия с вышеупомянутым, вы не сможете использовать некоторые функции этого приложения, однако его базовая функциональность будет по-прежнему вам доступна."</Data></string>
-    <string name="privacy_dialog_danger_mission_message">В Android имеются небезопасные разрешения (например, разрешение на отправку вам push-уведомлений). Для защиты вашей конфиденциальности MIUI будет запрашивать подтверждение разрешений с вариантами их ограничения.</string>
+    <string name="privacy_dialog_danger_mission_message">В Android имеются небезопасные разрешения (например, разрешение на отправку вам push-уведомлений). Для защиты приватности, система будет запрашивать подтверждение разрешений с вариантами их ограничения.</string>
     <string name="privacy_dialog_danger_mission_title">Небезопасные разрешения</string>
     <string name="privacy_dialog_feedback">Обратная связь</string>
     <string name="privacy_dialog_message">При подключении к интернету это сообщение вместе с данными оператора будет зашифровано и загружено на серверы Mi для улучшения мониторинга трафика.</string>
@@ -4835,7 +4824,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_show_password_summary">Ненадолго показывать символы при вводе</string>
     <string name="privacy_special_permission_summary">Управление специальными разрешениями</string>
     <string name="privacy_special_permission_title">Специальные разрешения</string>
-    <string name="privacy_summary">Узнайте о защите приватности в MIUI</string>
+    <string name="privacy_summary">Ознакомьтесь с защитой приватности</string>
     <string name="privacy_thumbnail_blur_category_financial">Финансовые</string>
     <string name="privacy_thumbnail_blur_category_other">Другие</string>
     <string name="privacy_thumbnail_blur_category_photography">Фото и видео</string>
@@ -4986,7 +4975,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="safe_result_item_info_system_antivirus">Защищено от фишинговых вирусов</string>
     <string name="safe_result_item_info_system_root">ROOT-доступ не разрешён</string>
     <string name="safe_result_item_info_system_scan">Мониторинг платежей включён</string>
-    <string name="safe_result_item_info_system_version">Обновление MIUI не требуется</string>
+    <string name="safe_result_item_info_system_version">Обновление не требуется</string>
     <string name="safepay_alert_dialog_button_continue">Продолжить</string>
     <string name="safepay_alert_dialog_button_fix">Исправить</string>
     <string name="safety">Безопасность</string>
@@ -5034,12 +5023,12 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="section_title_clear_acc">Память</string>
     <string name="section_title_security_defend">Безопасность</string>
     <string name="section_title_system">Система</string>
-    <string name="security_bottom_guide_to_pm_text">Отпустите для открытия утилит</string>
+    <string name="security_bottom_guide_to_pm_text">Отпустите, чтобы открыть инструменты</string>
     <string name="security_center_auto_task">Центр задач</string>
     <string name="security_center_slogan">Безопасность</string>
     <string name="security_guide_bubble_text">Открыть</string>
-    <string name="security_guide_summary">Единое место для инструментов и утилит</string>
-    <string name="security_guide_title">Набор утилит MIUI</string>
+    <string name="security_guide_summary">Все инструменты одном месте</string>
+    <string name="security_guide_title">Набор инструментов</string>
     <string name="security_protection_bottom_slogon">Безопасность в лучшем виде</string>
     <string name="security_protection_title">Безопасность</string>
     <string name="security_scan_optimizing">Оптимизация…</string>
@@ -5050,7 +5039,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="securityadd_update_tips_title">Обновление</string>
     <string name="see_all_app_behavior_record">Все действия</string>
     <string name="see_detail">Подробности</string>
-    <string name="see_more_content">Обновите Игры для просмотра новинок</string>
+    <string name="see_more_content">Обновите Игры для улучшения игрового опыта</string>
     <string name="select_app_title_default">Запуск приложения</string>
     <string name="select_app_title_music">Воспроизведение музыки</string>
     <string name="select_province_and_city">Выберите провинцию и город</string>
@@ -5088,7 +5077,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="settings_privacy_revoke_desc">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности и безопасности.</string>
     <string name="settings_privacy_revoke_title">Отзыв согласия</string>
     <string name="settings_privacy_settings_title">Конфиденциальность</string>
-    <string name="settings_share_enable_summary">Элементы, которыми вы делитесь в WeChat, будут отображаться со значком MIUI.</string>
+    <string name="settings_share_enable_summary">Элементы, которыми вы делитесь в WeChat, будут отмечены значком</string>
     <string name="settings_share_info">Параметры безопасного обмена для отправляемых файлов из Галереи и Проводника:</string>
     <string name="settings_show_detail">Подробности</string>
     <string name="settings_tip">Для дополнительных параметров перейдите в Галерея &gt; Настройки</string>
@@ -5306,7 +5295,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sp_lock_screen_password_summary">Включение защиты</string>
     <string name="sp_lock_screen_password_title">Блокировка экрана</string>
     <string name="sp_micare_summary">Личная безопасность</string>
-    <string name="sp_micare_title">Центр предупреждений MIUI</string>
+    <string name="sp_micare_title">Центр предупреждений</string>
     <string name="sp_monitored_apps_count_zero">Нет платежных приложений с защитой</string>
     <string name="sp_monitored_apps_list_title">Безопасность платежей</string>
     <string name="sp_more_security_settings">Дополнительно</string>
@@ -5678,7 +5667,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="suggest_to_use_mi_sim">Используйте Mi Sim, чтобы избежать дополнительных расходов.</string>
     <string name="summary_app_lock_disable">Обезопасьте ваши данные с Защитой приложений</string>
     <string name="summary_app_update_new">Обновите приложения для доступа к новым функциям</string>
-    <string name="summary_auto_update">MIUI выберет наиболее подходящее время для загрузки и установки обновлений.</string>
+    <string name="summary_auto_update">Для загрузки и установки обновлений будет автоматически выбрано наиболее подходящее время</string>
     <string name="summary_background_connection">Вы ограничили фоновые подключения для этого приложения.</string>
     <string name="summary_block_calls_from_cantacts">Вызовы от контактов заблокированы.</string>
     <string name="summary_block_calls_from_strangers">Вызовы от незнакомых заблокированы.</string>
@@ -6004,7 +5993,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="thermal_tips_message">Игра в режиме ускорения процессора может привести к проблемам с перегревом.</string>
     <string name="thermal_tips_title">Внимание</string>
     <string name="third_application">Установленное приложение</string>
-    <string name="third_desktop_dialog_content">Сторонние лаунчеры могут приводить к таким проблемам, как утечка данных, быстрый разряд батареи, лаги и т.д. Только те, которые проверены MIUI, могут быть установлены в качестве лаунчера по умолчанию.</string>
+    <string name="third_desktop_dialog_content">Сторонние лаунчеры могут приводить к таким проблемам, как утечка данных, быстрый разряд, лаги и т.д. Только проверенные приложения могут быть установлены в качестве лаунчера по умолчанию.</string>
     <string name="third_desktop_dialog_ok">Понятно</string>
     <string name="third_desktop_dialog_title">Ошибка</string>
     <string name="three_percent_total_pkg">%s (3%% от месячного лимита)</string>
@@ -6088,7 +6077,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_limit_traffic_per_day">Суточный лимит</string>
     <string name="title_mifi_insurance">Расширенная гарантия</string>
     <string name="title_miui_update">Доступно обновление</string>
-    <string name="title_miui_update_latest">Обновление MIUI не требуется</string>
+    <string name="title_miui_update_latest">Обновление не требуется</string>
     <string name="title_mms_no">Антиспам отключён</string>
     <string name="title_mms_yes">Антиспам включён</string>
     <string name="title_more_setting">Дополнительные настройки</string>
@@ -6488,7 +6477,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="warningcenter_action_check">Посмотреть</string>
     <string name="warningcenter_alert_home">Расположение</string>
     <string name="warningcenter_alert_room">Комната</string>
-    <string name="warningcenter_alert_source">Центр предупреждений MIUI | Источник: %s</string>
+    <string name="warningcenter_alert_source">Центр предупреждений | Источник: %s</string>
     <string name="warningcenter_alert_time">Время</string>
     <string name="warningcenter_alert_warning_time">Получено: %s</string>
     <string name="warningcenter_disaster_all">Все предупреждения</string>
@@ -6515,7 +6504,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="warningcenter_disaster_hanchao">Похолодание</string>
     <string name="warningcenter_disaster_icon_title">Тестовое предупреждение</string>
     <string name="warningcenter_disaster_info">Опубликовано центром предупреждений CMA</string>
-    <string name="warningcenter_disaster_info_from">Центр раннего предупреждения MIUI | информация Национального центра раннего предупреждения</string>
+    <string name="warningcenter_disaster_info_from">Центр раннего предупреждения | информация Национального центра раннего предупреждения</string>
     <string name="warningcenter_disaster_info_title">О предупреждениях</string>
     <string name="warningcenter_disaster_leiyudafeng">Гроза и сильный ветер</string>
     <string name="warningcenter_disaster_level_1">Уровень I (Крайне опасный)</string>
@@ -6602,7 +6591,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="warningcenter_policeassist_privacy"><Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>.</Data></string>
     <string name="warningcenter_policeassist_title">Геолокация при экстренной ситуации</string>
     <string name="warningcenter_smarthome">Mi Home</string>
-    <string name="warningcenter_title">Центр предупреждений MIUI</string>
+    <string name="warningcenter_title">Центр предупреждений</string>
     <string name="website">Веб-сайт</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
