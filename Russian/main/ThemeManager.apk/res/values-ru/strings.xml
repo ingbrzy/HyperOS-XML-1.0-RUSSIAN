@@ -534,7 +534,7 @@
     <string name="incall_show_remove_success">Видео профиля успешно удалено</string>
     <string name="incall_show_title">Видео профиля</string>
     <string name="incompatible_dialog_cancel">Не применять</string>
-    <string name="incompatible_dialog_message">Эта тема несовместима с версией MIUI, установленной на вашем устройстве. Если Вы примените эту тему, компоненты MIUI могут работать неправильно.</string>
+    <string name="incompatible_dialog_message">Эта тема несовместима с версией системы на вашем устройстве. Некоторые компоненты темы могут работать неправильно.</string>
     <string name="incompatible_dialog_ok">ОК</string>
     <string name="incompatible_dialog_title">Проблемы совместимости</string>
     <string name="install_clock">Часы не установлены. Загрузить?</string>
@@ -669,7 +669,7 @@ mm"</string>
     <string name="miuishare_account_login_ok">Войти</string>
     <string name="miuishare_account_need_activate">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим аккаунтом Xiaomi. Активируйте ваш аккаунт Xiaomi.</string>
     <string name="miuishare_account_need_login">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим аккаунтом Xiaomi. Выполните вход в ваш аккаунт Xiaomi.</string>
-    <string name="miuishare_app_name">MIUI Share</string>
+    <string name="miuishare_app_name">Mi Share</string>
     <string name="miuishare_mini_program_title">Посмотрите обои, которые я нашел!</string>
     <string name="miuishare_no_network">Не удалось подключиться к сети.</string>
     <string name="miuishare_please_retry">Не удалось получить данные. Проверьте настройки сети и повторите попытку.</string>
@@ -842,7 +842,7 @@ mm"</string>
     <string name="online_precust_scenery">Пейзажи</string>
     <string name="online_search_hint">Поиск онлайн-ресурсов</string>
     <string name="order_list">История покупок</string>
-    <string name="ota_recovery_theme_dialog_message">Некоторые компоненты используемой темы могут быть несовместимы с новой версией MIUI. Несовместимые компоненты будут заменены на компоненты по умолчанию.</string>
+    <string name="ota_recovery_theme_dialog_message">Некоторые компоненты используемой темы могут быть несовместимы с последней версией системы. Несовместимые компоненты будут заменены компонентами по умолчанию.</string>
     <string name="ota_recovery_theme_dialog_title">Восстановление исходной темы</string>
     <string name="ota_recovery_theme_notity_btn">Восстановить</string>
     <string name="ota_recovery_theme_notity_content">Вы можете вернуться к теме, которую использовали до обновления</string>
@@ -1132,7 +1132,7 @@ mm"</string>
     <string name="resource_exchange_hint">Введите код</string>
     <string name="resource_exchange_purchase_unkown_error">Произошла неизвестная ошибка. Перейдите по ссылке http://market.xiaomi.com для просмотра статуса платежа.</string>
     <string name="resource_exchange_share_code_content">Вы получили подарочный код (%2$s) для темы \"%1$s\". Нажмите %3$s для его использования.</string>
-    <string name="resource_exchange_share_code_dlg_content">Подарочный код для темы \"%1$s\": %2$s. Когда Вы отправите код другому пользователю MIUI, он сможет использовать его для загрузки этой темы.</string>
+    <string name="resource_exchange_share_code_dlg_content">Подарочный код для темы \"%1$s\": %2$s. Когда Вы отправите код другому пользователю Xiaomi, он сможет использовать его для загрузки этой темы.</string>
     <string name="resource_exchange_share_code_dlg_title">Отправка</string>
     <string name="resource_exchange_success">Готово</string>
     <string name="resource_exchange_unavailable">Этот компонент недоступен</string>
@@ -1310,7 +1310,7 @@ mm"</string>
     <string name="share_content_text_first_theme">Попробуйте! Тема \"%1$s\" освежит вид вашего устройства.</string>
     <string name="share_content_text_first_wallpaper">Попробуйте! Обои \"%1$s\" освежат вид вашего устройства.</string>
     <string name="share_content_text_second">" Find your own style in %1$s!"</string>
-    <string name="share_content_topic">\#Персонализация MIUI#</string>
+    <string name="share_content_topic">\#Темы Xiaomi#</string>
     <string name="share_copy_theme_url">Скопировать URL темы</string>
     <string name="share_copy_url_success">Успешно скопировано</string>
     <string name="share_copy_wallpaper_url">Скопировать URL обоев</string>
@@ -1503,7 +1503,7 @@ mm"</string>
     <string name="theme_component_title_launcher">Рабочий стол</string>
     <string name="theme_component_title_lockstyle">Стиль блокировки</string>
     <string name="theme_component_title_lockwallpaper">Обои блокировки</string>
-    <string name="theme_component_title_miwallpaper">Обои MIUI</string>
+    <string name="theme_component_title_miwallpaper">Обои Xiaomi</string>
     <string name="theme_component_title_mms">Сообщения</string>
     <string name="theme_component_title_notification">Уведомления</string>
     <string name="theme_component_title_others">Прочее</string>
@@ -1752,7 +1752,7 @@ mm"</string>
     <string name="wallpaper_static">Статические</string>
     <string name="warning_miui_optimization_closed_dialog_agree">Настройки</string>
     <string name="warning_miui_optimization_closed_dialog_disagree">Применить</string>
-    <string name="warning_miui_optimization_closed_dialog_message">На устройстве не включена оптимизация MIUI, без этого данная тема не будет работать должным образом. Всё равно применить тему или включить оптимизацию MIUI в Настройках?</string>
+    <string name="warning_miui_optimization_closed_dialog_message">На устройстве отлючена оптимизация системы, эта тема не будет работать должным образом. Применить тему или включить оптимизацию системы в Настройках?</string>
     <string name="warning_miui_optimization_closed_dialog_title">Внимание</string>
     <string name="warning_subscribe_wallpaper_group_content">Включено слайд-шоу для рабочего стола. Будут добавлены %1$s.</string>
     <string name="weather_no_data">Нет данных</string>

@@ -100,7 +100,7 @@
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="decline_incoming_call">Отклонить</string>
-    <string name="default_dialer_reset_prompt">При использовании %s произошли ошибки. Переключиться на приложение для вызовов MIUI и установить его по умолчанию?</string>
+    <string name="default_dialer_reset_prompt">При использовании %s произошли ошибки. Переключиться на системное приложение для вызовов и установить его по умолчанию?</string>
     <string name="delete_icon_description">Разблокировать</string>
     <string name="developer_enhanced_call_blocking">Улучшенная блокировка вызовов</string>
     <string name="developer_title">Меню разработчика Telecom</string>

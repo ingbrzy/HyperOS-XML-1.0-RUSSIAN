@@ -609,7 +609,7 @@
         <item>Второстепенные</item>
     </string-array>
     <string-array name="check_importance_summary">
-        <item>Решение о важности уведомлений примет MIUI</item>
+        <item>Решение о важности уведомлений примет система</item>
         <item>Все уведомления в шторке уведомлений</item>
         <item>Все уведомления в отдельной папке</item>
     </string-array>
@@ -1039,7 +1039,7 @@
         <item>Второстепенные</item>
     </string-array>
     <string-array name="fold_summaries">
-        <item>Решение о важности уведомлений примет MIUI</item>
+        <item>Решение о важности уведомлений примет система</item>
         <item>Все уведомления в шторке уведомлений</item>
         <item>Все уведомления в отдельной папке</item>            
     </string-array>
@@ -1235,7 +1235,7 @@
         <item>Настройки</item>
     </string-array>
     <string-array name="notification_style_entries">
-        <item>MIUI</item>
+        <item>Система</item>
         <item>Android</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">

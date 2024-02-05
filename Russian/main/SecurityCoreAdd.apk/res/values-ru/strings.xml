@@ -198,7 +198,7 @@
     <string name="dual_animation">Анимация запуска</string>
     <string name="dual_animation_description">Показывать анимацию при запуске клонированных приложений</string>
     <string name="dump_log">Сбор журналов</string>
-    <string name="dump_log_summary">"Эта функция предназначена для создания журнала 284 в Бета версиях MIUI. Используйте её с осторожностью.
+    <string name="dump_log_summary">"Эта функция предназначена для создания журнала 284 в Бета версиях системы. Используйте её с осторожностью.
 Созданные журналы можно просмотреть в Проводнике."</string>
     <string name="dump_log_title">Об этой функции</string>
     <string name="early_morning">Утро</string>

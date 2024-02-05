@@ -443,7 +443,7 @@
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="transfer_intercept_to_remote">Не удалось передать: %1$s</string>
-    <string name="transfer_to_pc_summary">Последняя версия программного обеспечения AIoT, установленная на ноутбуках Mi, поддерживает работу с Mi Share. Список поддерживаемых моделей ноутбуков можно проверить на сайте MIUI. Если ноутбук есть в списке, но AIoT на нем не установлен, обновите BIOS и драйвер сетевого адаптера и загрузите AIoT.</string>
+    <string name="transfer_to_pc_summary">Последняя версия программного обеспечения AIoT, установленная на ноутбуках Mi, поддерживает работу с Mi Share. Список поддерживаемых моделей ноутбуков можно проверить на сайте Xiaomi. Если ноутбук есть в списке, но AIoT на нем не установлен, обновите BIOS и драйвер сетевого адаптера и загрузите AIoT.</string>
     <string name="transfer_to_pc_summary_new"><Data>Последняя версия MIUI+, установленная на ноутбуках Mi, совместима с Mi Share. Cписок поддерживаемых моделей ноутбуков можно проверить на сайте MIUI+ (&lt;a href=\"%1$s\">%2$s&lt;/a>). Если ноутбук есть в списке, но MIUI+ на нем не установлен, обновите BIOS и драйвер сетевого адаптера ноутбука, затем загрузите MIUI+.</Data></string>
     <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager теперь поддерживает Mi Share. Список поддерживаемых моделей ПК можно найти &lt;a href=\"%1$s\">здесь&lt;/a>.</Data></string>
     <string name="transfer_to_pc_title">Передача на ПК</string>
