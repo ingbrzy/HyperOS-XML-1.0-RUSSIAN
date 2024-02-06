@@ -5150,14 +5150,14 @@ ID: %s
     <string name="lock_screen_intro_skip_dialog_text_frp">Защита устройства не будет включена. Если устройство будет потеряно или украдено, либо все его данные будут удалены, его смогут использовать посторонние лица.</string>
     <string name="lock_screen_intro_skip_title">Пропустить настройку блокировки?</string>
     <string name="lock_screen_notifications_interstitial_message">Настройте отображение на экране блокировки.</string>
-    <string name="lock_screen_notifications_interstitial_message_profile">Выберите режим уведомлений профиля на заблокированном устройстве.</string>
+    <string name="lock_screen_notifications_interstitial_message_profile">Выберите режим уведомлений профиля на заблокированном устройстве</string>
     <string name="lock_screen_notifications_interstitial_title">Экран блокировки</string>
     <string name="lock_screen_notifications_interstitial_title_profile">Уведомления профиля</string>
     <string name="lock_screen_notifications_summary_disable">Не показывать уведомления</string>
     <string name="lock_screen_notifications_summary_hide">Скрывать содержимое уведомлений</string>
-    <string name="lock_screen_notifications_summary_hide_profile">Скрывать конфиденц. данные в рабочих уведомлениях</string>
+    <string name="lock_screen_notifications_summary_hide_profile">Скрывать содержимое уведомлений профиля</string>
     <string name="lock_screen_notifications_summary_show">Показывать уведомления полностью</string>
-    <string name="lock_screen_notifications_summary_show_profile">Показывать рабочие уведомления полностью</string>
+    <string name="lock_screen_notifications_summary_show_profile">Показывать уведомления профиля полностью</string>
     <string name="lock_screen_notifications_title">Конфиденциальность</string>
     <string name="lock_screen_notifs_redact">Уведомления с конфиденциальными данными</string>
     <string name="lock_screen_notifs_redact_summary">Показывать уведомления с конфиденциальными данными на экране блокировки</string>

@@ -159,9 +159,9 @@
         <item quantity="few">Через %1$d дня</item>
     </plurals>
     <plurals name="todo_terms">
-        <item quantity="other">%1$s задач</item>
-        <item quantity="one">%1$s задачу</item>
-        <item quantity="few">%1$s задачи</item>
+        <item quantity="other">Задач: %1$s</item>
+        <item quantity="one">Задач: %1$s</item>
+        <item quantity="few">Задач: %1$s</item>
     </plurals>
     <plurals name="word_count">
         <item quantity="other">%d символов</item>

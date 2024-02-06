@@ -78,13 +78,13 @@
     <string name="widget_camera_lens">Pro-объективы</string>
     <string name="widget_camera_lens_desc">Эксперименты с фокусным расстоянием</string>
     <string name="widget_clock_dual">Двойные часы</string>
-    <string name="widget_clock_dual_desc">Время в текущей и выбранной геопозициях</string>
+    <string name="widget_clock_dual_desc">Время текущего и выбранного местоположения</string>
     <string name="widget_clock_local">Текущее время</string>
-    <string name="widget_clock_local_desc">Время текущей геопозиции</string>
+    <string name="widget_clock_local_desc">Время текущего местоположения</string>
     <string name="widget_clock_simple">Время и дата</string>
-    <string name="widget_clock_simple_desc">Время и дата текущей геопозиции</string>
+    <string name="widget_clock_simple_desc">Время и дата текущего местоположения</string>
     <string name="widget_clock_weather">Погода</string>
-    <string name="widget_clock_weather_desc">Время, дата и погода в текущей геопозиции</string>
+    <string name="widget_clock_weather_desc">Время, дата и погода текущего местоположения</string>
     <string name="widget_clock_world">Мировые часы</string>
     <string name="widget_clock_world_desc">Время в других городах</string>
     <string name="widget_files_pin">Частые файлы</string>

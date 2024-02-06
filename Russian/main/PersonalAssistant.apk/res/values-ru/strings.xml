@@ -240,7 +240,7 @@
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_third_2">Выбран %s.</string>
     <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Добавить на рабочий стол.</string>
     <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Добавить в Ленту виджетов.</string>
-    <string name="pa_accessibility_picker_widget_detail_edit">Изменить</string>
+    <string name="pa_accessibility_picker_widget_detail_edit">Загрузить</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Виджет выбран. Перетащите, чтобы добавить на рабочий стол.</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Виджет выбран. Перетащите, чтобы добавить в Ленту виджетов.</string>
     <string name="pa_accessibility_picker_widget_group_all" formatted="false">Магазин виджетов. Выберите для просмотра всех виджетов для %s. Нажмите дважды для просмотра всех виджетов для %s.</string>
