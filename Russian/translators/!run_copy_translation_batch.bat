@@ -19,7 +19,6 @@ call run_copy_translation.bat %1 CertInstaller
 call run_copy_translation.bat %1 CleanMaster
 call run_copy_translation.bat %1 CloudBackup
 call run_copy_translation.bat %1 CloudService
-call run_copy_translation.bat %1 com.miui.qr
 call run_copy_translation.bat %1 com.xiaomi.macro
 call run_copy_translation.bat %1 Contacts
 call run_copy_translation.bat %1 ContactsProvider
@@ -31,19 +30,15 @@ call run_copy_translation.bat %1 EmergencyInfo
 call run_copy_translation.bat %1 ExternalStorageProvider
 call run_copy_translation.bat %1 FileExplorer
 call run_copy_translation.bat %1 FindDevice
-call run_copy_translation.bat %1 FM
 call run_copy_translation.bat %1 framework-res
 call run_copy_translation.bat %1 GuardProvider
 call run_copy_translation.bat %1 Health
 call run_copy_translation.bat %1 HealthConnectController
 call run_copy_translation.bat %1 HTMLViewer
-call run_copy_translation.bat %1 imssettings
 call run_copy_translation.bat %1 InCallUI
 call run_copy_translation.bat %1 InProcessTethering
 call run_copy_translation.bat %1 Joyose
-call run_copy_translation.bat %1 MaintenanceMode
 call run_copy_translation.bat %1 ManagedProvisioning
-call run_copy_translation.bat %1 MediaFeature
 call run_copy_translation.bat %1 MediaProvider
 call run_copy_translation.bat %1 MiAICR
 call run_copy_translation.bat %1 MiBrowserGlobal
@@ -53,13 +48,11 @@ call run_copy_translation.bat %1 MiDrive
 call run_copy_translation.bat %1 MiGalleryLockscreen
 call run_copy_translation.bat %1 MiLinkService
 call run_copy_translation.bat %1 MiMover
-call run_copy_translation.bat %1 MiRadio
 call run_copy_translation.bat %1 Mirror
 call run_copy_translation.bat %1 MiService
 call run_copy_translation.bat %1 MiSettings
 call run_copy_translation.bat %1 MiShare
 call run_copy_translation.bat %1 MiSound
-call run_copy_translation.bat %1 MiSubScreenUi
 call run_copy_translation.bat %1 MiuiAod
 call run_copy_translation.bat %1 MiuiAudioMonitor
 call run_copy_translation.bat %1 MiuiBiometric
@@ -95,7 +88,6 @@ call run_copy_translation.bat %1 NotificationCenter
 call run_copy_translation.bat %1 NQNfcNci
 call run_copy_translation.bat %1 PaymentService
 call run_copy_translation.bat %1 PersonalAssistant
-call run_copy_translation.bat %1 PowerChecker
 call run_copy_translation.bat %1 PowerKeeper
 call run_copy_translation.bat %1 PrintSpooler
 call run_copy_translation.bat %1 Provision
@@ -107,8 +99,6 @@ call run_copy_translation.bat %1 ServiceWifiResources
 call run_copy_translation.bat %1 Settings
 call run_copy_translation.bat %1 SettingsProvider
 call run_copy_translation.bat %1 Shell
-call run_copy_translation.bat %1 SmartHomePlus
-call run_copy_translation.bat %1 SoundPicker
 call run_copy_translation.bat %1 SoundRecorder
 call run_copy_translation.bat %1 Stk
 call run_copy_translation.bat %1 Tag
@@ -123,7 +113,6 @@ call run_copy_translation.bat %1 VpnDialogs
 call run_copy_translation.bat %1 VsimCore
 call run_copy_translation.bat %1 WallpaperCropper
 call run_copy_translation.bat %1 Weather
-call run_copy_translation.bat %1 WeatherProvider
 call run_copy_translation.bat %1 WfdService
 call run_copy_translation.bat %1 WifiResCommon
 call run_copy_translation.bat %1 wps-lite
