@@ -59,12 +59,6 @@
     <string name="access_change_text" formatted="false">当前选中的是第%d项, 与第%d项交换位置.</string>
     <string name="accessibility_camera_module_picker">CameraModulePicker</string>
     <string name="accessibility_casting">@string/quick_settings_casting</string>
-    <string name="accessibility_control_change_favorite">accessibility_control_change_favorite</string>
-    <string name="accessibility_control_change_unfavorite">accessibility_control_change_unfavorite</string>
-    <string name="accessibility_control_favorite">accessibility_control_favorite</string>
-    <string name="accessibility_control_favorite_position">accessibility_control_favorite_position</string>
-    <string name="accessibility_control_move">accessibility_control_move</string>
-    <string name="accessibility_control_not_favorite">accessibility_control_not_favorite</string>
     <string name="accessibility_flash_mode_button">FlashButton</string>
     <string name="accessibility_seek_bar_line">SeekBarLine</string>
     <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
@@ -159,8 +153,6 @@
     <string name="alarm_lock_screen_summary"> </string>
     <string name="alarm_lockscreen_btn"> </string>
     <string name="alarm_setting_title"> </string>
-    <string name="alarm_template">%1$s</string>
-    <string name="alarm_template_far">%1$s</string>
     <string name="alert_4371">4371</string>
     <string name="alert_4372">4372</string>
     <string name="alert_4373">4373</string>
@@ -393,8 +385,6 @@
     <string name="alipay_verify_identity_fail">验证失败，请重新操作</string>
     <string name="alipay_wait">再等一会</string>
     <string name="alipay_want_to_register">我要注册</string>
-    <string name="all_function_title">All shortcuts</string>
-    <string name="allow_notify">allow_notify</string>
     <string name="allow_tips_smart_task">allow_tips_smart_task</string>
     <string name="already_connect">已连接</string>
     <string name="already_download">已下载</string>
@@ -549,7 +539,6 @@
     <string name="app_travel_train_seat_no_split">、</string>
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
-    <string name="app_version">120</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="appcleaner_wechat_pref_size_100_MB">100 МБ</string>
     <string name="appcleaner_wechat_pref_size_1_GB">1 ГБ</string>
@@ -667,9 +656,6 @@
     <string name="autofill_phone_suffix_re">suffix</string>
     <string name="autofill_phone_suffix_separator_re">^-$</string>
     <string name="autofill_region_ignored_re">province|region|other|provincia|bairro|suburb</string>
-    <string name="autofill_save_type_debit_card">debit card</string>
-    <string name="autofill_save_type_generic_card">card</string>
-    <string name="autofill_save_type_payment_card">payment card</string>
     <string name="autofill_shipping_designator_re">ship</string>
     <string name="autofill_state_re">state|county|region|province|land|county|principality|都道府県|estado|provincia|область|省|地區</string>
     <string name="autofill_username_re">user.?name|user.?id|vollständiger.?name|用户名</string>
@@ -1941,10 +1927,6 @@
     <string name="control_quick_settings_tiles_stock"> </string>
     <string name="control_quick_settings_tiles_super_save">gps,nfc,screenshot,vibrate</string>
     <string name="control_quick_settings_tiles_super_save">gps,nfc,скриншот,вибрация</string>
-    <string name="controls_error_removed_message">controls_error_removed_message</string>
-    <string name="controls_error_removed_title">controls_error_removed_title</string>
-    <string name="controls_error_timeout">controls_error_timeout</string>
-    <string name="controls_open_app">controls_open_app</string>
     <string name="conversation_content_provider">Поставщик материалов для разговоров</string>
     <string name="conversation_single_line_name_display">%1$s:</string>
     <string name="copyright_song_count">(%1$s)</string>
@@ -2336,7 +2318,6 @@
     <string name="digit_percent">%</string>
     <string name="digital_clock_dot">:</string>
     <string name="directory_info_divider">"  |  "</string>
-    <string name="disable">disabled</string>
     <string name="discovery_data_constant_part_end">&amp;ref=com.miui.home&amp;senderPackageName=com.miui.home&amp;ext_xxx=com.miui.home &amp;show_cta=true&amp;overlayPosition=1&amp;startDownload=true&amp;showToast=true&amp;extInstallUIType=1</string>
     <string name="display_name">DisplayName</string>
     <string name="display_temperature_default">--℃</string>
@@ -2354,7 +2335,6 @@
     <string name="download_percent">%d%%</string>
     <string name="download_progress">%d%%</string>
     <string name="download_progress_detail" formatted="false">%.1fM/%.1fM</string>
-    <string name="download_running_percent">Идет загрузка, %d%%</string>
     <string name="dummy_tip">请将银行卡片正面置于此区域尝试对齐边缘。</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatlong_padding_with_0">%1$02d:%3$02d:%5$02d</string>
@@ -2395,11 +2375,9 @@
     <string name="email_package_name">com.android.email</string>
     <string name="email_suggestions_authority">com.android.email.provider</string>
     <string name="email_ui_package">com.android.email</string>
-    <string name="emergency_call_dialog_number_for_display">@android:string/lockscreen_emergency_call</string>
     <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
     <string name="empty">" "</string>
     <string name="empty_activity_title">" "</string>
-    <string name="enable">enabled</string>
     <string name="encrypt_app_aes_key">cRCaZZvSn73In2mMPjjFHeE0sEcfyB6h</string>
     <string name="enumeration_delimiter">" | "</string>
     <string name="error_message_respond_revert_01">@string/error_message_account_or_password</string>
@@ -2854,7 +2832,6 @@
     <string name="l_digit7">%d</string>
     <string name="l_digit8">%d</string>
     <string name="l_digit9">%d</string>
-    <string name="label">MIUI SDK</string>
     <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="labour_day_tradition">勞動節</string>
     <string name="language_translate_entry_chinese_cn">ZH</string>
@@ -3768,7 +3745,6 @@
     <string name="passport_wechat_application_id">wxbf03a31f4135dd16</string>
     <string name="passport_wechat_scope">snsapi_userinfo</string>
     <string name="passport_wechat_state">passport_weixin_sns_auth_state</string>
-    <string name="password">Пароль</string>
     <string name="path_password_eye"> </string>
     <string name="path_password_eye_mask_strike_through"> </string>
     <string name="path_password_eye_mask_visible"> </string>
@@ -3798,11 +3774,8 @@
     <string name="perm_payment_lab">Mi Pay</string>
     <string name="permission_camera">android.permission-group.CAMERA@1</string>
     <string name="permission_contacts">android.permission-group.CONTACTS@1</string>
-    <string name="permission_location">android.permission-group.LOCATION@1</string>
     <string name="permission_microphone">android.permission-group.MICROPHONE@0</string>
     <string name="permission_phone_state">android.permission-group.PHONE@0</string>
-    <string name="permission_read_phone_state">android.permission-group.PHONE@0@%1$s@%2$s</string>
-    <string name="permission_storage">android.permission-group.STORAGE@0</string>
     <string name="permission_storage_aural">android.permission-group.READ_MEDIA_AURAL@1</string>
     <string name="permission_storage_desc_2">@string/permission_storage_desc</string>
     <string name="permission_storage_visual">android.permission-group.READ_MEDIA_VISUAL@1</string>
@@ -3851,7 +3824,6 @@
     <string name="power_center_main_percent_formatted">%s%%</string>
     <string name="power_charging">%1$s - %2$s</string>
     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
-    <string name="power_settings_title">@string/Settings_title_power_center</string>
     <string name="pp_two_columns_img_ration">306:174</string>
     <string name="ppplugin_brackets_prompt_left">（</string>
     <string name="ppplugin_brackets_prompt_right">）</string>
@@ -4406,7 +4378,6 @@
     <string name="repeat_count_value_two">2</string>
     <string name="repeat_count_value_two_new">%d</string>
     <string name="reply_subject_label">Re:</string>
-    <string name="required_permissions"> </string>
     <string name="required_permissions_global">android.permission.READ_CALL_LOG;android.permission.WRITE_CALL_LOG;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.READ_SMS;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
     <string name="required_permissions_supportModifiable">android.permission.CAMERA;android.permission.RECORD_AUDIO;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE</string>
     <string name="resAuthority">miuibrowser</string>
@@ -4578,7 +4549,6 @@
     <string name="setting_world_cup_f">F组</string>
     <string name="setting_world_cup_g">G组</string>
     <string name="setting_world_cup_h">H组</string>
-    <string name="settings">@string/server_control_settings</string>
     <string name="settings_account_category">settings_account_category</string>
     <string name="settings_add_account">settings_add_account</string>
     <string name="settings_authority">com.android.quicksearchbox.settings</string>
@@ -4657,7 +4627,6 @@
     <string name="slow_shutter_title3">0%d</string>
     <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_rotation_cloud_data_module_config" />
-    <string name="sms">SMS</string>
     <string name="snip_pic">%1$s</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>
     <string name="snooze_duration_value_fifteen">15</string>
@@ -5297,7 +5266,6 @@
     <string name="toast_download_with_metered_network_btn_cancel">@string/base_btn_cancel</string>
     <string name="today_hot_search">今日热搜</string>
     <string name="trail_sport_target_value_desc">%1$s</string>
-    <string name="trans_intro_title">FAQ</string>
     <string name="translation_authority">com.android.quicksearchbox.translation</string>
     <string name="transport">Протокол</string>
     <string name="travel_over_days">+%d</string>
