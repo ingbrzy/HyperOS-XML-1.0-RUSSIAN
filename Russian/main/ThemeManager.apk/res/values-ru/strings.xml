@@ -550,6 +550,7 @@
     <string name="kuyin_user_agreement_content">Подписки на пользовательские рингтоны предоставлены iFlytek. Прежде чем использовать пользовательские рингтоны, Вы должны принять %s. Согласны?</string>
     <string name="kuyin_user_agreement_content_href">Политика конфиденциальности iFlytek</string>
     <string name="lab">Лаборатория тем</string>
+    <string name="label">Ярлык</string>
     <string name="large_icon_apply_fail_for_in_dock">Нельзя использовать супериконки в панели приложений</string>
     <string name="large_icon_apply_fail_for_in_folder">Нельзя использовать супериконки в папках</string>
     <string name="large_icon_apply_fail_for_in_oldmode">Супериконки не поддерживаются в Простом режиме</string>
@@ -1298,6 +1299,7 @@ mm"</string>
     <string name="set_home_wallpaper_failed">"%s. Не удалось применить обои."</string>
     <string name="set_wallpaper_group_success">Обои \"%1$s\" применены</string>
     <string name="setting_font_online">Онлайн шрифты</string>
+    <string name="settings">Настройки</string>
     <string name="settings_search_keyword_font_free">Бесплатные шрифты</string>
     <string name="settings_search_keyword_font_home">Шрифты рабочего стола</string>
     <string name="settings_search_keyword_font_input">Шрифты ввода</string>

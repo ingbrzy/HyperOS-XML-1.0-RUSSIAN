@@ -306,9 +306,11 @@
     <string name="permission_notification_description">Разрешите приложению отправку уведомлений для оповещения о записи, воспроизведении или загрузке контента.</string>
     <string name="permission_notification_dialog_description">Разрешите приложению отправку уведомлений для оповещения о текущем статусе приложения</string>
     <string name="permission_notification_title">Предоставьте разрешения</string>
+    <string name="permission_read_phone_state">Информация об устройстве</string>
     <string name="permission_read_phone_state_description">Для доступа к состоянию вызова (для автоматического прерывания записи при приёме вызова)</string>
     <string name="permission_record">Микрофон</string>
     <string name="permission_record_description">Для записи аудио</string>
+    <string name="permission_storage">Хранилище</string>
     <string name="permission_storage_description">Для управления записями и загрузки их из облака</string>
     <string name="permission_storage_description_for_download">Для загрузки записей из облака</string>
     <string name="permission_storage_description_for_manage_files">Для управления записями</string>

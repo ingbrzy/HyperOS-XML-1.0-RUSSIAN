@@ -886,6 +886,7 @@
     <string name="service_mode_telecom_fraud_protection">Защита от мошенничества</string>
     <string name="service_mode_telecom_fraud_protection_summary">Распознавание и перехват мошеннических звонков или сообщений и предотвращение мошеннических переводов</string>
     <string name="set_management_measures">Установите меры защиты</string>
+    <string name="settings">Настройки</string>
     <string name="settings_security_mode_service_list_title_off_msg">Включите Mi Защиту, чтобы воспользоваться следующими функциями:</string>
     <string name="settings_security_mode_service_list_title_on_msg">Безопасный режим предоставляет следующие возможности</string>
     <string name="settings_security_mode_service_msg_0">Новые методы борьбы с мошенничеством и защиты приватности</string>

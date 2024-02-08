@@ -456,6 +456,7 @@
     <string name="permission_exit">Выход</string>
     <string name="permission_privacy">Политика конфиденциальности (обязательно)</string>
     <string name="permission_select_all">Выбрать все</string>
+    <string name="permission_storage">Хранилище</string>
     <string name="permission_storage_introduce">Для доступа к файлам на устройстве</string>
     <string name="permission_user_protocol">Пользовательское соглашение (обязательно)</string>
     <string name="policy_settings">Условия использования</string>
@@ -544,6 +545,7 @@
     <string name="setting_share_weather_need">Для обмена изображениями с информацией о погоде</string>
     <string name="setting_used_to_display_weather">Для отображения актуальной информации о погоде</string>
     <string name="setting_used_to_push_reminder">Получать оповещения о погоде и предупреждения</string>
+    <string name="settings">Настройки</string>
     <string name="settings_atmospheric_pressure_atm">атм</string>
     <string name="settings_atmospheric_pressure_hpa">гПа</string>
     <string name="settings_atmospheric_pressure_inhg">дюйм рт.ст.</string>

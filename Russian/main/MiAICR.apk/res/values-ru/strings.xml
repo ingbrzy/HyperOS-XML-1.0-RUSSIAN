@@ -253,6 +253,7 @@
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
+    <string name="google_application_id" />
     <string name="icon_content_description">Значок диалогового окна</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="material_clock_display_divider">:</string>
@@ -264,6 +265,7 @@
     <string name="material_minute_suffix">%1$s мин.</string>
     <string name="material_slider_range_end">Конец диапазона,</string>
     <string name="material_slider_range_start">Начало диапазона,</string>
+    <string name="material_slider_value">Значение</string>
     <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Чтобы ввести время, перейдите в режим часов.</string>
     <string name="material_timepicker_hour">Час</string>
@@ -559,6 +561,7 @@
     <string name="passport_wrong_voice">Неверный код</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
+    <string name="qq_application_id" />
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -566,6 +569,7 @@
     <string name="searchview_clear_text_content_description">Удалить текст</string>
     <string name="searchview_navigation_content_description">Назад</string>
     <string name="send">Отправить</string>
+    <string name="side_sheet_accessibility_pane_title">Боковая панель</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>

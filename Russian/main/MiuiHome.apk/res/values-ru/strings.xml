@@ -360,6 +360,7 @@
 Повышенная безопасность."</string>
     <string name="key_shortcut_settings_title">Ярлыки кнопок</string>
     <string name="keyguard_multi_window_tip">Эта страница может быть отображена только в полноэкранном режиме</string>
+    <string name="label">Ярлык</string>
     <string name="launcher_icon_management">Управление ярлыками</string>
     <string name="launcher_pull_down_title">Свайп вниз</string>
     <string name="launcher_search">Поиск на рабочем столе</string>
@@ -704,6 +705,7 @@
     <string name="setting_no_word">Везде</string>
     <string name="setting_only_widget_no_word">На виджетах</string>
     <string name="setting_wallpaper_tip">Переместите или измените размер</string>
+    <string name="settings">Настройки</string>
     <string name="settings_shortcut">Настройки</string>
     <string name="shake_to_align_icons">Встряхните устройство для заполнения пустых ячеек</string>
     <string name="share">Отправить</string>

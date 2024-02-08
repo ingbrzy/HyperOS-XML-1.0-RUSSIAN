@@ -186,6 +186,7 @@
     <string name="dialog_verify">Проверка отпечатка</string>
     <string name="dialog_verify_fingerprint_retry">Не удалось проверить отпечаток. Попробуйте снова.</string>
     <string name="dir_switch_out_all_photos">Second space Gallery</string>
+    <string name="disable">Отключить</string>
     <string name="disable_power_key_long_press_under_keyguard">Отключить меню кнопки \"Питание\"</string>
     <string name="diy_suppression_summary">Настройка размера области на краях экрана для игнорирования случайных касаний</string>
     <string name="diy_suppression_title">Пользовательские настройки</string>
@@ -204,6 +205,7 @@
     <string name="early_morning">Утро</string>
     <string name="edge_mode_state_summary">Область на краях экрана не будет реагировать на касания</string>
     <string name="edge_mode_state_title">Игнорировать случайные касания</string>
+    <string name="enable">Включить</string>
     <string name="ent_activating">Активация…</string>
     <string name="ent_activation">Активировать</string>
     <string name="ent_activation_hint">Введите код предприятия вместе с кодом лицензии для активации режима предприятия. После этого будут включены корпоративные службы.</string>

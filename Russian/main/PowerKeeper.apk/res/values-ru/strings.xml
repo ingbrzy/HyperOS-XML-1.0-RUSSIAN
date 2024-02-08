@@ -66,8 +66,10 @@
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="delete_data_confirm">Удалить элемент?</string>
+    <string name="disable">Отключено</string>
     <string name="early_morning">Утро</string>
     <string name="empty_title_apps_container_list">Нет приложений</string>
+    <string name="enable">Включено</string>
     <string name="enable_sleep_mode">Включите режим сна для экономии заряда ночью</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>

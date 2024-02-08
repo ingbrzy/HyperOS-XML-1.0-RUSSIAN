@@ -704,6 +704,7 @@
     <string name="dialpad_two">%d</string>
     <string name="dialpad_wxyz">ЬЭЮЯ</string>
     <string name="dialpad_zero">%d</string>
+    <string name="disable">Отключить</string>
     <string name="disable_all_cf">Отключить все переадресации</string>
     <string name="disable_cdma_cw">Отмена</string>
     <string name="disable_cfb_forbidden">Ваш оператор не поддерживает отключение переадресации вызовов при занятом номере.</string>
@@ -767,6 +768,7 @@
     <string name="emm_cause_6">Не удалось проверить устройство. Выключите устройство, затем включите его и попробуйте снова.</string>
     <string name="emm_cause_7_8_12_13_15_16_17_22">Роуминг недоступен. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (SKT: +%1$d-%2$d-%3$d-%4$d).</string>
     <string name="empty_networks_list">Сети не найдены</string>
+    <string name="enable">Включить</string>
     <string name="enable_2g_dialog_title">Внимание</string>
     <string name="enable_2g_dialog_warn_message">После отключения 2G будут недоступны вызовы в зонах, где есть только сеть 2G. Отключить?</string>
     <string name="enable_2g_summary">Сети 2G менее безопасны, но могут обеспечивать лучшее качество связи в некоторых местах</string>

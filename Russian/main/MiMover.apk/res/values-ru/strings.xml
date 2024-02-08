@@ -548,6 +548,7 @@
     <string name="other_user_app">Сторонние приложения</string>
     <string name="other_user_app_data">Сторонние приложения и их данные</string>
     <string name="other_user_data">Данные сторонних приложений</string>
+    <string name="password">Пароль</string>
     <string name="password_null">Пароль не может быть пустым</string>
     <string name="perm_location">Геолокация</string>
     <string name="perm_manage_external_storage">Доступ ко всем файлам</string>
@@ -719,6 +720,7 @@
     <string name="size_tera_byte">ТБ</string>
     <string name="skip_transfer">Пропустить</string>
     <string name="skip_underline">Пропустить этот шаг</string>
+    <string name="sms">SMS</string>
     <string name="soft_ap_create_failed">Не удалось создать точку доступа</string>
     <string name="soft_ap_create_failed_apple">Не удалось сгенерировать QR-код</string>
     <string name="soft_ap_creating">Создание точки доступа…</string>
@@ -839,6 +841,7 @@
     <string name="trans_install_guide_old_content_first">"1. Отсканируйте этот QR-код на старом устройстве.
 2. Скачайте и установите Mi Mover.
 3. Нажмите кнопку ниже после завершения установки."</string>
+    <string name="trans_intro_title">FAQ</string>
     <string name="trans_main_activity_tutor_first">Переместите свои фотографии, контакты, сообщения, журнал вызовов,
 аудио, видео, документы и приложения на новое устройство</string>
     <string name="trans_one_key_migrate">Mi Mover</string>

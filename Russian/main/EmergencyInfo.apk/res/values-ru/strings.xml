@@ -100,6 +100,8 @@
     <string name="add_user_failed">Ошибка создания нового пользователя</string>
     <string name="address">Адрес</string>
     <string name="age">Возраст: %1$d</string>
+    <string name="alarm_template">в %1$s</string>
+    <string name="alarm_template_far">в %1$s</string>
     <string name="alarms_and_reminders_footer_title">"Разрешите приложению устанавливать будильники и планировать действия по времени. Это позволит приложению работать в фоновом режиме, но может увеличить расход батареи.
 
 В случае отмены разрешения, существующие будильники и запланированные приложением действия не будут работать."</string>

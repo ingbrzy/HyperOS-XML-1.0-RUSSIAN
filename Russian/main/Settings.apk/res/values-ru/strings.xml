@@ -625,6 +625,8 @@
     <string name="alarm_sound_title">Будильник</string>
     <string name="alarm_stop">Отключать режим \"Без звука\" при звонке будильника</string>
     <string name="alarm_stop_info">Режим \"Без звука\" будет отключён при звонке будильника</string>
+    <string name="alarm_template">в %1$s</string>
+    <string name="alarm_template_far">в %1$s</string>
     <string name="alarm_volume_option_title">Будильник</string>
     <string name="alarms_and_reminders_footer_title">"Разрешите приложению устанавливать будильники и планировать действия по времени. Это позволит приложению работать в фоновом режиме, но может увеличить расход батареи.
 
@@ -843,6 +845,7 @@
     <string name="app_switch_key">Недавние</string>
     <string name="app_uninstall_sounds_enable_title">Звук удаления приложения</string>
     <string name="app_usage_cycle">Цикл использования данных приложения</string>
+    <string name="app_version">Версия</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="application_data">Приложения</string>
     <string name="application_forbid_auto_startup">Отключить автозапуск \"%s\" в фоновом режиме?</string>
@@ -7097,6 +7100,7 @@ OTG отключается автоматически через 10 минут �
     <string name="power_remaining_more_than_subtext">Осталось больше %1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Осталось больше %1$s</string>
     <string name="power_screen">Экран</string>
+    <string name="power_settings_title">Производительность системы</string>
     <string name="power_suggestion_battery_run_out">Батарея может разрядиться на %1$s</string>
     <string name="power_usage_enhanced_debug">Осталось: %1$s (уточненный)</string>
     <string name="power_usage_history">Использование батареи</string>

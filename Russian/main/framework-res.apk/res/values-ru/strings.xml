@@ -307,9 +307,12 @@
     <string name="autofill_save_title_with_type">Сохранить %1$s в &lt;b&gt;%2$s&lt;/b&gt;?</string>
     <string name="autofill_save_type_address">Адрес</string>
     <string name="autofill_save_type_credit_card">Банковская карта</string>
-    <string name="autofill_save_type_email_address">адрес электронной почты</string>
+    <string name="autofill_save_type_debit_card">Дебетовая карта</string>
+    <string name="autofill_save_type_email_address">Адрес электронной почты</string>
+    <string name="autofill_save_type_generic_card">Карта</string>
     <string name="autofill_save_type_password">Пароль</string>
-    <string name="autofill_save_type_username">имя пользователя</string>
+    <string name="autofill_save_type_payment_card">Платёжная карта</string>
+    <string name="autofill_save_type_username">Имя пользователя</string>
     <string name="autofill_save_yes">Сохранить</string>
     <string name="autofill_update_title">Обновить в <b>%1$s</b>?</string>
     <string name="autofill_update_title_with_2types">Обновить %1$s и %2$s в <b>%3$s</b>?</string>
@@ -543,6 +546,7 @@
     <string name="emailTypeMobile">Мобильный</string>
     <string name="emailTypeOther">Другой</string>
     <string name="emailTypeWork">Рабочий</string>
+    <string name="emergency_call_dialog_number_for_display">Экстренная служба</string>
     <string name="emergency_calls_only">Только экстренные вызовы</string>
     <string name="emptyPhoneNumber">(Нет номера телефона)</string>
     <string name="enablePin">Произошла ошибка. Включите блокировку SIM-карты или карты R-UIM.</string>

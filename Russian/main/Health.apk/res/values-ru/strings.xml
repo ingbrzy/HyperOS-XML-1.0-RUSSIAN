@@ -413,6 +413,7 @@ ID:%s
     <string name="dialog_user_agreement_purpose">Добро пожаловать в приложение Здоровье! Это приложение можно использовать для подсчёта шагов, отслеживания сна, менструального цикла, веса, синхронизации статистики с облаком.</string>
     <string name="dialog_user_agreement_purpose2">Добро пожаловать в приложение Здоровье! Это приложение можно использовать для подсчёта шагов, отслеживания сна, менструального цикла, веса и многого другого.</string>
     <string name="diastolic_pressure">Диастолическое</string>
+    <string name="disable">Откл.</string>
     <string name="discard_update">Нет, спасибо</string>
     <string name="divider">/</string>
     <string name="divider_format1">%1$s/%2$s</string>
@@ -441,6 +442,7 @@ ID:%s
     <string name="emergency_lock_show_subtitle">Мед. паспорт экстренной помощи можно посмотреть на экране блокировки, нажав \"SOS\", затем \"Мед. паспорт\</string>
     <string name="emergency_lock_show_title">Доступ на экране блокировки</string>
     <string name="empty_data">-</string>
+    <string name="enable">Вкл.</string>
     <string name="enable_go_now">Включить</string>
     <string name="enable_not_now">Не сейчас</string>
     <string name="enable_right_now">Отключить</string>

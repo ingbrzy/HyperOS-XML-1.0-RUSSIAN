@@ -676,6 +676,7 @@
     <string name="app_usage_one_week">Последние %d дней</string>
     <string name="app_usage_recently">Работало недавно</string>
     <string name="app_usage_year">В течение %d года</string>
+    <string name="app_version">Версия:</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Очистить %s кеша WeChat для освобождения места</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">Очистка кэша</string>
@@ -2916,6 +2917,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="keyguard_charging_info_drained_time_format">%1$s %2$s</string>
     <string name="kilobyteShort">" КБ"</string>
     <string name="kilobyte_per_second">" КБ/с"</string>
+    <string name="label">Ярлык</string>
     <string name="label_callwait">Сигнал ожидания вызова</string>
     <string name="label_mi_stats">Mi Аналитика</string>
     <string name="last_check_canceled">Предыдущая проверка была отменена</string>
@@ -4919,6 +4921,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="report_success">Отчёт отправлен</string>
     <string name="report_warning">Отправить %1$s SMS в Xiaomi? Эти сообщения и телефонные номера, с которых они были отправлены, будут загружены на серверы Xiaomi для рассмотрения. Любая личная информация, связанная с этими сообщениями, останется анонимной.</string>
     <string name="report_warning_title">Внимание</string>
+    <string name="required_permissions">Обязательные разрешения</string>
     <string name="required_permissions_desc">эти разрешения необходимы для основных функций и служб приложения</string>
     <string name="reset_data_dialog_message">Это устройство не связано с вашим аккаунтом Xiaomi. Не удается восстановить или сбросить пароль. Создайте резервную копию всех важных данных и выполните сброс настроек. При этом все данные будут удалены навсегда, а ваша SD-карта будет отформатирована.</string>
     <string name="reset_data_dialog_ok">Сброс настроек</string>
@@ -5063,6 +5066,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="setting_privacy_password">Задайте графический ключ</string>
     <string name="setting_wireless_reverse_charging_fg_control_summary">Остановить обратную беспроводную зарядку, когда заряд этого устройства меньше %s</string>
     <string name="setting_wireless_reverse_charging_summary">Поместите устройство, поддерживающее беспроводную зарядку Qi (например, телефон или носимое устройство), в центр задней панели этого устройства</string>
+    <string name="settings">Настройки трафика</string>
     <string name="settings_battery_consume_abnormal_summary">Уведомлять о быстром разряде батареи</string>
     <string name="settings_battery_consume_abnormal_title">Уведомления о разряде</string>
     <string name="settings_battery_power_save_suggest_title">Рекомендации по экономии</string>

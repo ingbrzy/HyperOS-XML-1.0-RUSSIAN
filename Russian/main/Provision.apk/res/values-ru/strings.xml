@@ -456,6 +456,7 @@
     <string name="permission_get_imei_information_summary_settings">Для отображения информации об устройстве и технических характеристиках</string>
     <string name="permission_imei_service">Для доступа к IMEI для предоставления сервисов, связанных с устройством</string>
     <string name="permission_interaction_introduction">Для сохранения фото и видео на устройство</string>
+    <string name="permission_location">Доступ к геоданным:</string>
     <string name="permission_location_describe">Получение текущей геопозиции</string>
     <string name="permission_location_describe_desktop_summary">Для доступа к именам сетей Wi-Fi;</string>
     <string name="permission_location_describe_fast_application_summary">Для разрешения Быстрым приложениям использовать геолокацию;</string>

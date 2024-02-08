@@ -153,6 +153,7 @@
     <string name="permission_privacy">Политика конфиденциальности (обязательно)</string>
     <string name="permission_region_version_msg">&lt;Data&gt;Нажав \"Принимаю\", вы соглашаетесь с &lt;a href=\"%1$s\"&gt;Пользовательским соглашением&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политикой конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="permission_select_all">Выбрать все</string>
+    <string name="permission_storage">Хранилище</string>
     <string name="permission_storage_introduce">Для сохранения файлов на устройстве</string>
     <string name="permission_user_protocol">Пользовательское соглашение (обязательно)</string>
     <string name="privacy_policy_update_hint">"Политика конфиденциальности %1$s обновлена:

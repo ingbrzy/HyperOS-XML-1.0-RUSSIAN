@@ -89,6 +89,7 @@
     <string name="im">IM</string>
     <string name="immersion_button_close_description">Закрыть</string>
     <string name="instruction">Информация о безопасности</string>
+    <string name="label">Ярлык</string>
     <string name="midnight">AM</string>
     <string name="mobile_data_consume">Для загрузки потребуется %1$s МБ мобильного трафика. Загрузить?</string>
     <string name="mobile_data_remind">Предупреждение о трафике</string>

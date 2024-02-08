@@ -1186,6 +1186,7 @@
     <string name="smart_group_label">Умные группы</string>
     <string name="smart_group_location_label">Места</string>
     <string name="smart_group_location_unavailable">Нет кода региона</string>
+    <string name="sms">Сообщение</string>
     <string name="sms_assistant">Написать SMS %s</string>
     <string name="sms_callback">SMS: номер обратного вызова</string>
     <string name="sms_car">SMS: телефон в машине</string>

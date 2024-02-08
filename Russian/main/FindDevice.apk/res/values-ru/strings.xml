@@ -188,6 +188,7 @@
     <string name="passport_trust_device">Доверять этому устройству</string>
     <string name="passport_vcode_prompt_long">Введите код подтверждения</string>
     <string name="passport_verify">Проверить</string>
+    <string name="password">Пароль</string>
     <string name="phone_locked">Это устройство связано с существующим аккаунтом Xiaomi (%s). Введите пароль для активации устройства.</string>
     <string name="phone_locked_account_email">, связанный email: %s</string>
     <string name="phone_locked_account_phone">, связанный номер телефона: %s</string>

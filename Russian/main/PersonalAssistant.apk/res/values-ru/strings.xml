@@ -68,6 +68,7 @@
     <string name="friday_shortest">Пт</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="item_view_role_description">Вкладка</string>
+    <string name="label">Ярлык</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Выберите AM или PM</string>
     <string name="material_hour_selection">Часы</string>

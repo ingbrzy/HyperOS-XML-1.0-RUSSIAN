@@ -199,6 +199,7 @@ ID вашего аккаунта: %s"</string>
     <string name="dropdown_menu">Выпадающее меню</string>
     <string name="early_morning">Утро</string>
     <string name="empty_device_list">Ничего нет</string>
+    <string name="enable">Настройки</string>
     <string name="ep_unsupported">Устройство не поддерживает вход в аккаунт Xiaomi</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
@@ -320,6 +321,7 @@ ID вашего аккаунта: %s"</string>
     <string name="kr_permission_phone_desc">Для защиты вашего аккаунта</string>
     <string name="kr_permission_sms_desc">Для автозаполнения проверочных кодов</string>
     <string name="kr_permission_storage_desc">Для сохранения журналов диагностики</string>
+    <string name="label">Ярлык</string>
     <string name="login_3rd_app_with_system_account">Войти в %s</string>
     <string name="login_check_find_device">Получение данных безопасности…</string>
     <string name="login_check_find_device_failed_title">Не удалось проверить безопасность</string>
