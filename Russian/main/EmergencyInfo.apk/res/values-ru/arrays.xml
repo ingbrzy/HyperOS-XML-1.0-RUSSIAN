@@ -125,7 +125,6 @@
         <item>Включено</item>
         <item>Включён фильтр заголовков</item>
         <item>Включён фильтр медиа-пакетов</item>
-        <item>Включён фильтр медиа-пакетов</item>
         <item>Включён фильтр профилей</item>
 </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
