@@ -1547,6 +1547,10 @@ ID: %s
     <string name="slide_save_message">Создание видео…</string>
     <string name="slide_to_open_ad">Проведите для просмотра</string>
     <string name="small_video_load_more_hint">Проведите вверх, чтобы увидеть больше видео</string>
+    <string name="small_video_report">Пожаловаться</string>
+    <string name="small_video_report_dialog_title">Выберите причину</string>
+    <string name="small_video_report_submit">Отправить</string>
+    <string name="small_video_report_success">Благодарим за отзыв!</string>
     <string name="small_video_tab_expose_hint">Нажмите для просмотра других видеороликов</string>
     <string name="sms_send_success">Отправлено</string>
     <string name="sns_access_token_expired_warning">Превышено время авторизации. Войдите в аккаунт заново.</string>

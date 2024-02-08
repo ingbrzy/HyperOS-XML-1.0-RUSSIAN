@@ -207,6 +207,7 @@
     <string name="autologin_bar_hide_text">Скрыть</string>
     <string name="autologin_bar_login_text">Войти</string>
     <string name="autologin_bar_text">Войти как</string>
+    <string name="back">Назад</string>
     <string name="back_description">Назад</string>
     <string name="back_dialog_antivirus_primary_btn">Проверить</string>
     <string name="back_dialog_health_check_primary_btn">Оптимизировать</string>
