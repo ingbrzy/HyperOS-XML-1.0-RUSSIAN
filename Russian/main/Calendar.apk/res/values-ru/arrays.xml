@@ -216,6 +216,39 @@
         <item>Воскресенье</item>
         <item>Понедельник</item>
     </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1-й</item>
+        <item>2-й</item>
+        <item>3-й</item>
+        <item>4-й</item>
+        <item>5-й</item>
+        <item>6-й</item>
+        <item>7-й</item>
+        <item>8-й</item>
+        <item>9-й</item>
+        <item>10-й</item>
+        <item>11-й</item>
+        <item>12-й</item>
+        <item>13-й</item>
+        <item>14-й</item>
+        <item>15-й</item>
+        <item>16-й</item>
+        <item>17-й</item>
+        <item>18-й</item>
+        <item>19-й</item>
+        <item>20-й</item>
+        <item>21-й</item>
+        <item>22-й</item>
+        <item>23-й</item>
+        <item>24-й</item>
+        <item>25-й</item>
+        <item>26-й</item>
+        <item>27-й</item>
+        <item>28-й</item>
+        <item>29-й</item>
+        <item>30-й</item>
+        <item>31-й</item>
+    </string-array>
     <string-array name="repeat_choose_end">
         <item>Никогда</item>
         <item>Время</item>
