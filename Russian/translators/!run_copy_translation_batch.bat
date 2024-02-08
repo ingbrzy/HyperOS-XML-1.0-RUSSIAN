@@ -99,7 +99,6 @@ call run_copy_translation.bat %1 PowerChecker
 call run_copy_translation.bat %1 PowerKeeper
 call run_copy_translation.bat %1 PrintSpooler
 call run_copy_translation.bat %1 Provision
-call run_copy_translation.bat %1 QuickSearchBox
 call run_copy_translation.bat %1 SecurityAdd
 call run_copy_translation.bat %1 SecurityCenter
 call run_copy_translation.bat %1 SecurityCoreAdd
