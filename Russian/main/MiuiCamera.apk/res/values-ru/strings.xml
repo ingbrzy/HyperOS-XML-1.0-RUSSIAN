@@ -2448,7 +2448,7 @@
     <string name="spaceIsLow_content_primary_storage_priority">Хранилище заполнено</string>
     <string name="spaceIsLow_content_timerburst_infinity_storage_priority">Закончилось место в хранилище. Съёмка остановлена.</string>
     <string name="spaceIsLow_content_timerburst_infinity_storage_priority_immediately">Скоро остановится из-за нехватки места.…</string>
-    <string name="speech_shutter_open_tip">Произнесите \"Сделай фото\" для съёмки</string>
+    <string name="speech_shutter_open_tip">Произнесите \"Чиз!\" для съёмки</string>
     <string name="speech_shutter_tip">Съёмка голосом</string>
     <string name="start_capture">ОК</string>
     <string name="sticker_tab1">Милый</string>
