@@ -4378,6 +4378,7 @@
     <string name="repeat_count_value_two">2</string>
     <string name="repeat_count_value_two_new">%d</string>
     <string name="reply_subject_label">Re:</string>
+    <string name="required_permissions">;</string>
     <string name="required_permissions_global">android.permission.READ_CALL_LOG;android.permission.WRITE_CALL_LOG;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.READ_SMS;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
     <string name="required_permissions_supportModifiable">android.permission.CAMERA;android.permission.RECORD_AUDIO;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE</string>
     <string name="resAuthority">miuibrowser</string>
@@ -5622,6 +5623,4 @@ feedsContentId:
     <string name="zhifubao_not_found"> </string>
     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
-<!-- ### FROM SOURCE -->
-    <string name="required_permissions">;</string>
 </resources>

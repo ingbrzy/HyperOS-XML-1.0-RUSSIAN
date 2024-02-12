@@ -1006,7 +1006,7 @@
     <string name="beauty_fc_fill_lamp_new">Фронтальный рассеянный свет</string>
     <string name="beauty_fc_light">Яркость рассеянного света</string>
     <string name="beauty_fc_video_call">Улучшение для видеовызовов</string>
-    <string name="beauty_fc_video_call_summary">Показывать опции улучшения во время видеозвонков WeChat</string>
+    <string name="beauty_fc_video_call_summary">Показывать опции улучшения во время видеовызовов WeChat</string>
     <string name="beauty_fun_filter">Улучшение</string>
     <string name="beauty_fun_front_light">Фронтальный рассеянный свет</string>
     <string name="beauty_fun_light">Рассеянный свет</string>
@@ -1022,7 +1022,7 @@
     <string name="beauty_fun_settings_light">Яркость рассеянного света</string>
     <string name="beauty_fun_video_effect">Улучшение для видео</string>
     <string name="beauty_portrait_center">Автоцентрирование лиц</string>
-    <string name="beauty_portrait_center_desc">Автоматическое определение и центрирование лиц во время видеозвонков. Функция поддерживается не для всех приложений.</string>
+    <string name="beauty_portrait_center_desc">Автоматическое определение и центрирование лиц во время видеовызовов. Функция поддерживается не для всех приложений.</string>
     <string name="beauty_settings">Настройки</string>
     <string name="begin_date">Дата начала учёта</string>
     <string name="behavior_widget_get_installed_apps">Доступ к приложениям</string>
@@ -3818,7 +3818,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_wireless_charge_adjust_position_summary">Поместите на беспроводное зарядное устройство</string>
     <string name="pc_wireless_charge_adjust_position_title">Быстрая зарядка</string>
     <string name="pc_wireless_charging_special_stand_summary1">Установите устройство на комплектную подставку беспроводного зарядного устройства</string>
-    <string name="pc_wireless_charging_special_stand_summary2">Установите устройство на комплектную подставку беспроводного зарядного устройства для лучшей производительности зярядки</string>
+    <string name="pc_wireless_charging_special_stand_summary2">Установите устройство на комплектную подставку беспроводного зарядного устройства для лучшей производительности зарядки</string>
     <string name="pc_wireless_charging_special_stand_title">Используйте комплектную зарядную подставку</string>
     <string name="pc_wireless_handle_connected">Устройство подключено</string>
     <string name="pc_wireless_handle_title">Беспроводной держатель камеры</string>
@@ -6366,7 +6366,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="vb_video_effects_dolby_headset">" (только наушники)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos вкл.</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Расширенное стерео</string>
-    <string name="vb_video_effects_dolby_tips">Усиление голоса и Расширенное стерео не работают при включенном иммерсивном звуке</string>
+    <string name="vb_video_effects_dolby_tips">Усиление голоса и Расширенное стерео не работают при включённом иммерсивном звуке</string>
     <string name="vb_video_effects_immersion_sound">Иммерсивный звук</string>
     <string name="vb_video_effects_immersion_sound_summary">Эффект погружения и ощущения пространства при воспроизведении через наушники</string>
     <string name="vb_video_effects_immersion_sound_summary_new">Эффект погружения и ощущения пространства при воспроизведении поддерживаемых форматов аудио</string>

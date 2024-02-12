@@ -189,7 +189,7 @@
     <string name="home_settings_title">Выбор рабочего стола</string>
     <string name="ime_privacy_policy">Политика конфиденциальности выбранной клавиатуры</string>
     <string name="ime_privacy_policy_no_network">Отсутствует сетевое подключение. Просмотрите Политику конфиденциальности для этой клавиатуры на %s.</string>
-    <string name="ims_introduction">Сервис IMS предоставляет базовые возможности связи и используется для аудио и видеозвонков высокого качества.</string>
+    <string name="ims_introduction">Сервис IMS предоставляет базовые возможности связи и используется для аудио- и видеовызовов высокого качества.</string>
     <string name="input_method_category">Выберите клавиатуру по умолчанию, которую вы будете использовать для написания сообщений, заметок и всего остального. Обратите внимание, что позже вы можете установить другие сторонние клавиатуры.</string>
     <string name="input_method_setting">Выберите клавиатуру</string>
     <string name="install_preinstall_app">Загрузка приложений…</string>
@@ -436,7 +436,7 @@
     <string name="permission_contact">Доступ к контактам</string>
     <string name="permission_contact_describe">Доступ к контактам</string>
     <string name="permission_contact_describe_MIUIDaemon_summary">Для подтверждения личности</string>
-    <string name="permission_contact_describe_bluetooth_summary">Для предоставления доступа к контактам другим совместимым устройствам, подключённых к этому устройству. Доступ будет предоставляться только при включенном Bluetooth или редактировании контактов при включенном Bluetooth.</string>
+    <string name="permission_contact_describe_bluetooth_summary">Для предоставления доступа к контактам другим совместимым устройствам, подключённых к этому устройству. Доступ будет предоставляться только при включённом Bluetooth или редактировании контактов при включённом Bluetooth.</string>
     <string name="permission_contact_describe_desktop_summary">Для использования функции экстренного контакта на рабочем столе в Простом режиме и отображения уведомлений чатов;</string>
     <string name="permission_contact_describe_message_summary">Для отображения соответствующей контактной информации SMS и MMS.</string>
     <string name="permission_contact_introduction">Для обеспечения функциональности чёрного списка и вызова экстренных контактов</string>

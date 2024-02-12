@@ -995,7 +995,7 @@
     <string name="recipient_needed">Получатель не выбран</string>
     <string name="recipient_needed_title">Предупредить</string>
     <string name="recommend_protocal">Рекомендации протокола использования</string>
-    <string name="reduce_the_receiving_frequencye_summary">Синхронизировать реже при включенном режиме \"Не беспокоить\"</string>
+    <string name="reduce_the_receiving_frequencye_summary">Синхронизировать реже при включённом режиме \"Не беспокоить\"</string>
     <string name="reduce_the_receiving_frequencye_title">Синхронизировать реже</string>
     <string name="refreshing">Обновление…</string>
     <string name="release_to_refresh">Отпустите для обновления</string>

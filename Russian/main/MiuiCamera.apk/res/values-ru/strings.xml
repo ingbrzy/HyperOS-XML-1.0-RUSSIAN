@@ -2632,7 +2632,7 @@
     <string name="title_item_context_menu_doc4_copy_done">Скопировано</string>
     <string name="title_pref_camera_doc4">Распознавание текста</string>
     <string name="title_snap_double_confirm">Повторное подтверждение</string>
-    <string name="toast_burst_snap_forbidden_when_audio_capture_open">Серийная съёмка недоступна при включенном звуковом управлении</string>
+    <string name="toast_burst_snap_forbidden_when_audio_capture_open">Серийная съёмка недоступна при включённом звуковом управлении</string>
     <string name="toast_camera_connect_success">Подключено. Просмотр потока с камеры.</string>
     <string name="toast_monitor_connect_success">Подключено. Просмотр общего превью.</string>
     <string name="toast_monitor_connect_timeout">Другое устройство выключило общее превью</string>

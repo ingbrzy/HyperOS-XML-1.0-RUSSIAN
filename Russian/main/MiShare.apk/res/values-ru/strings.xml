@@ -118,8 +118,8 @@
     <string name="error_send_file_service_disabled">Исходящая передача отменена</string>
     <string name="error_send_transfer_error">Не удалось отправить. Повторите попытку.</string>
     <string name="error_send_transfer_pc_error">Время передачи истекло. Обновите приложение для обмена файлами на вашем ПК и повторите попытку.</string>
-    <string name="error_slave_wifi_in_use">Mi Share не поддерживает работу при включенном двойном Wi-Fi. Отключите двойной Wi-Fi в настройках и повторите попытку.</string>
-    <string name="error_slave_wifi_in_use_china">Mi Share не поддерживает работу при включенном двойном Wi-Fi. Отключите двойной Wi-Fi в настройках и повторите попытку.</string>
+    <string name="error_slave_wifi_in_use">Mi Share не поддерживает работу при включённом двойном Wi-Fi. Отключите двойной Wi-Fi в настройках и повторите попытку.</string>
+    <string name="error_slave_wifi_in_use_china">Mi Share не поддерживает работу при включённом двойном Wi-Fi. Отключите двойной Wi-Fi в настройках и повторите попытку.</string>
     <string name="error_timeout">Время сеанса истекло. Повторите позже.</string>
     <string name="error_user_refuse">Не удалось отправить. Передача была отклонена.</string>
     <string name="error_wifi_display_in_use">Передача файлов во время трансляции недоступна</string>

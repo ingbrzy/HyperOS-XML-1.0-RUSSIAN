@@ -168,7 +168,7 @@
     <string name="dialpad_two">2</string>
     <string name="dialpad_wxyz">ЬЭЮЯ</string>
     <string name="dialpad_zero">0</string>
-    <string name="do_not_support_video_calls_by_remote">Видеозвонки не поддерживаются на другом устройстве</string>
+    <string name="do_not_support_video_calls_by_remote">Видеовызовы не поддерживаются на другом устройстве</string>
     <string name="dsda_answer_call_prompt">Принятие этого вызова завершит текущий вызов</string>
     <string name="dsda_not_incall_sim_mo_fail_desc">SIM %1$d недоступна для вызовов. Текущее сетевое окружение не поддерживает работу с двумя SIM-картами.</string>
     <string name="dsda_swap_call_prompt">Если продолжите, вы будете переключены на голосовой вызов</string>

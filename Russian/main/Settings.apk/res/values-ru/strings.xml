@@ -1280,7 +1280,7 @@
     <string name="battery_usage_chart">График расхода батареи</string>
     <string name="battery_usage_chart_graph_hint">Уровень заряда батареи за 24 часа</string>
     <string name="battery_usage_chart_graph_hint_last_full_charge">"Уровень заряда батареи с момента последней полной зарядки"</string>
-    <string name="battery_usage_chart_label_now">"Cейчас"</string>
+    <string name="battery_usage_chart_label_now">Сейчас</string>
     <string name="battery_usage_day_and_hour">"%1$s, %2$s"</string>
     <string name="battery_usage_for_background_time">В фоновом режиме: %s</string>
     <string name="battery_usage_for_total_time">Всего: %s</string>
@@ -1603,7 +1603,7 @@
     <string name="bluetooth_hid_profile_summary_connected">Подключено к устройству ввода</string>
     <string name="bluetooth_hid_profile_summary_use_for">Использовать для ввода</string>
     <string name="bluetooth_inband_ringing">Разрешить встроенные рингтоны</string>
-    <string name="bluetooth_inband_ringing_summary">Разрешить воспроизведение рингтонов через наушники Bluetooth. Функция может использоваться когда подключено только одно устройство и может быть несовместима с некоторыми устройствами.</string>
+    <string name="bluetooth_inband_ringing_summary">Разрешить воспроизведение рингтонов через наушники Bluetooth. Функция работает только при подключении одного устройства и может быть несовместима с некоторыми устройствами.</string>
     <string name="bluetooth_inform_messgae">"Не удалось подключиться к %1$s.
 Возможные причины:
 1. Bluetooth отключён или находится вне зоны действия.
@@ -2247,8 +2247,8 @@
     <string name="close_app">Закрытие приложения</string>
     <string name="close_demo_mode">Отмена</string>
     <string name="close_drawer">Закрыть меню навигации</string>
-    <string name="close_fod">Вы не сможете разблокировать устройство с помощью отпечатка, когда экран выключен. Разблокировка отпечатком будет работать только при включенном экране.</string>
-    <string name="close_fod_aod">Вы не сможете разблокировать устройство с помощью отпечатка, когда экран выключен. \"Активный экран\" также будет недоступен. Разблокировка отпечатком будет работать только при включенном экране.</string>
+    <string name="close_fod">Вы не сможете разблокировать устройство с помощью отпечатка, когда экран выключен. Разблокировка отпечатком будет работать только при включённом экране.</string>
+    <string name="close_fod_aod">Вы не сможете разблокировать устройство с помощью отпечатка, когда экран выключен. \"Активный экран\" также будет недоступен. Разблокировка отпечатком будет работать только при включённом экране.</string>
     <string name="close_hotspot_hint">Отключите точку доступа перед трансляцией</string>
     <string name="close_lid_display_settings_title">После складывания</string>
     <string name="close_miui_optimization_title">Отключение оптимизации системы</string>
@@ -2471,10 +2471,10 @@
     <string name="contact_data">Контакты</string>
     <string name="contact_discovery_opt_in_dialog_message">"Номера телефонов ваших контактов будут периодически отправляться %1$s.
 
-Эта информация позволит определить, могут ли ваши контакты использовать определённые функции, такие как видеозвонки или некоторые функции обмена сообщениями."</string>
+Эта информация позволит определить, могут ли ваши контакты использовать определённые функции, такие как видеовызовы или некоторые функции обмена сообщениями."</string>
     <string name="contact_discovery_opt_in_dialog_message_no_carrier_defined">"Номера телефонов ваших контактов будут периодически отправляться вашему оператору связи.
 
-Эта информация позволит определить, могут ли ваши контакты использовать определённые функции, такие как видеозвонки или некоторые функции обмена сообщениями."</string>
+Эта информация позволит определить, могут ли ваши контакты использовать определённые функции, такие как видеовызовы или некоторые функции обмена сообщениями."</string>
     <string name="contact_discovery_opt_in_dialog_title">Отправить контакты %1$s?</string>
     <string name="contact_discovery_opt_in_dialog_title_no_carrier_defined">Отправить контакты оператору связи?</string>
     <string name="contact_discovery_opt_in_summary">Отправка номеров телефонов контактов оператору связи для использования расширенных функций</string>
@@ -5701,7 +5701,7 @@ ID: %s
     <string name="miheadet_up_music">Предыдущий трек</string>
     <string name="miheadset_Box">Кейс</string>
     <string name="miheadset_Intelligentpickfree_summary">Когда включено шумоподавление, при обнаружении голоса наушники на короткое время автоматически переключатся в режим прозрачности.</string>
-    <string name="miheadset_LEAudio_summary">Некоторые функции будут недоступны при включенном LE Audio</string>
+    <string name="miheadset_LEAudio_summary">Некоторые функции будут недоступны при включённом LE Audio</string>
     <string name="miheadset_LEAudio_title">Включить LE Audio?</string>
     <string name="miheadset_LE_on_toast">Перед включением этой функции убедитесь, что оба наушника заряжены, выньте их из кейса</string>
     <string name="miheadset_LeftEar">Левое ухо</string>
@@ -6278,7 +6278,7 @@ ID: %s
     <string name="multiple_users_main_switch_title">Несколько пользователей</string>
     <string name="music_equalizer">Эквалайзер</string>
     <string name="music_playback_control_cross_device_flow">Передача аудиопотоков между устройствами</string>
-    <string name="music_video_flow_across_device">Управление и передача медиапотоков между устройствами</string>
+    <string name="music_video_flow_across_device">Управление медиапотоками и передача их между устройствами</string>
     <string name="mute">Режим \"Без звука\"</string>
     <string name="mute_media_sound_summary">Отключить звуки мультимедиа для всех приложений в режиме \"Без звука\"</string>
     <string name="mute_media_sound_title">Отключить звуки мультимедиа</string>
@@ -9985,7 +9985,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="usage_state_rest_day">Выходные дни</string>
     <string name="usage_state_saturday">Сб</string>
     <string name="usage_state_set_invalid_time_toast">"Нельзя установить лимит меньше 1 минуты"</string>
-    <string name="usage_state_sunday">Вск</string>
+    <string name="usage_state_sunday">Вс</string>
     <string name="usage_state_thursday">Чт</string>
     <string name="usage_state_today">Сегодня</string>
     <string name="usage_state_today_total_text">"Время экрана сегодня"</string>
@@ -10366,7 +10366,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="vpn_disconnected">Отключено от VPN</string>
     <string name="vpn_disconnected_summary">Нет</string>
     <string name="vpn_dns_servers">Серверы DNS</string>
-    <string name="vpn_dns_servers_hint">например 8.8.8.8</string>
+    <string name="vpn_dns_servers_hint">Например, 8.8.8.8</string>
     <string name="vpn_done">Закрыть</string>
     <string name="vpn_edit">Изменение профиля VPN</string>
     <string name="vpn_enable">VPN</string>

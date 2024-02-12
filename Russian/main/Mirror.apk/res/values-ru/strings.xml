@@ -499,7 +499,7 @@
     <string name="settings_trusted_delete_dialog_title">Удаление устройства</string>
     <string name="settings_trusted_device_group">Устройства с автоподключением</string>
     <string name="settings_trusted_device_none">Нет устройств</string>
-    <string name="settings_trusted_tips_china">Автоматически подключаться к выбранным устройствам поблизости при включенном Bluetooth или Wi-Fi</string>
+    <string name="settings_trusted_tips_china">Автоматически подключаться к выбранным устройствам поблизости при включённом Bluetooth или Wi-Fi</string>
     <string name="share_pc_abort_dialog_message_china">Убедитесь, что Bluetooth и Wi-Fi включены на обоих устройствах, затем снова запустите сеанс на ПК.</string>
     <string name="share_pc_abort_dialog_ok">ОК</string>
     <string name="share_pc_abort_dialog_title">Соединение прервано</string>

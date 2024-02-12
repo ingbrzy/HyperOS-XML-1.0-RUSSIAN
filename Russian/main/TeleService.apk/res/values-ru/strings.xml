@@ -341,7 +341,7 @@
     <string name="callFailed_unobtainable_number">Неверный номер</string>
     <string name="callFailed_userBusy">Линия занята</string>
     <string name="callFailed_user_not_member_of_CUG">Пользователь не участник CUG</string>
-    <string name="callFailed_video_call_tty_enabled">Когда телетайп включён, видеозвонки недоступны.</string>
+    <string name="callFailed_video_call_tty_enabled">Когда телетайп включён, видеовызовы недоступны.</string>
     <string name="callFailed_wfc_service_not_available_in_this_location">Wi-Fi вызовы недоступны</string>
     <string name="callFailed_wifi_lost">Подключение к Wi-Fi потеряно. Вызов завершен.</string>
     <string name="callUnanswered_forwarded">Вызов пропущен и переадресован</string>
@@ -2047,7 +2047,7 @@ UT-интерфейс: %5$s"</string>
     <string name="skt_msim_emm_cause_7_8_15">SIM %1$d не удалось зарегистрировать сеть. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (%2$d-%3$d%4$d%5$d).</string>
     <string name="smart_divert_summary">Настройки CFNRc</string>
     <string name="smart_divert_title">Умное перенаправление</string>
-    <string name="smart_dual_sim_available_message">Включить функцию \"Умная двойная SIM-карта\" для улучшения качества видеозвонков?</string>
+    <string name="smart_dual_sim_available_message">Включить функцию \"Умная двойная SIM-карта\" для улучшения качества видеовызовов?</string>
     <string name="smart_dual_sim_available_title">Умная двойная SIM-карта</string>
     <string name="smart_dual_sim_prompt">При плохом мобильном интернете на основной SIM-карте, будет использоваться мобильный интернет дополнительной SIM-карты. Установите лимит трафика, чтобы избежать дополнительных расходов.</string>
     <string name="smart_dual_sim_prompt_ok">Настройки</string>

@@ -917,7 +917,7 @@
     <string name="keyguard_charging_normal_and_level_tip">Зарядка %d%%</string>
     <string name="keyguard_charging_quick_and_level_tip">Быстрая зарядка %d%%</string>
     <string name="keyguard_charging_super_quick_and_level_tip">Ускоренная зарядка %d%%</string>
-    <string name="keyguard_editor_super_save_mode_toast">Изменение экрана блокировки при включенном режиме ультраэкономии заряда недоступно</string>
+    <string name="keyguard_editor_super_save_mode_toast">Изменение экрана блокировки при включённом режиме ультраэкономии заряда недоступно</string>
     <string name="keyguard_enter_password">Введите пароль</string>
     <string name="keyguard_enter_pattern">Введите графический ключ</string>
     <string name="keyguard_enter_pin">Введите PIN-код</string>

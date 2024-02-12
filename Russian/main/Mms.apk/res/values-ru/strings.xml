@@ -82,7 +82,7 @@
     <string name="attach_take_photo">Снять фото</string>
     <string name="attach_transaction">Перевод денег</string>
     <string name="attach_video">Видео</string>
-    <string name="attach_video_call">Видеозвонок</string>
+    <string name="attach_video_call">Видеовызов</string>
     <string name="attachment_panel_show_part">Страница %1$d</string>
     <string name="audio_download_failed">Не удалось загрузить запись</string>
     <string name="audio_message_expired">Это голосовое сообщение уже недоступно.</string>
