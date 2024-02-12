@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="PRD_summary_1">Во время переноса данных приложений со старого устройства на новое, все данные этих приложений (включая историю чатов) на новом устройстве будут перезаписаны</string>
+    <string name="PRD_summary_2" />
+    <string name="PRD_summary_3" />
+    <string name="PRD_summary_4">Выключение Wi-Fi или переключение сетей Wi-Fi во время передачи может привести к сбою процесса</string>
+    <string name="PRD_summary_4_china">Выключение Wi-Fi или переключение сетей Wi-Fi во время передачи может привести к сбою процесса</string>
+    <string name="PRD_summary_5">Передача данных на высокой скорости может привести к повышенному нагреву устройства</string>
+    <string name="PRD_summary_tablet_1">Во время переноса все данные этих приложений (включая историю чатов) будут перезаписаны</string>
+    <string name="PRD_title_1">%1$d. На новом устройстве уже имеются данные следующих приложений:</string>
+    <string name="PRD_title_2">WeChat</string>
+    <string name="PRD_title_3">QQ</string>
+    <string name="PRD_title_4">%1$d. Внимание</string>
+    <string name="PRD_title_5">%1$d. Во время переноса данных устройство может нагреваться</string>
+    <string name="PRD_title_tablet_1">%1$d. На новом устройстве уже имеются данные следующих приложений:</string>
+    <string name="PRD_title_tablet_4">%1$d. Внимание</string>
+    <string name="PRD_title_tablet_5">%1$d. Во время переноса данных устройство может нагреваться</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Ещё</string>

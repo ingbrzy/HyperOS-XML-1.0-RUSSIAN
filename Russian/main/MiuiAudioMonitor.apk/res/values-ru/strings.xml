@@ -47,8 +47,8 @@
     <string name="close">Закрыть</string>
     <string name="copy">Копировать</string>
     <string name="cta_HIPS_Perm_Location_Desc">Для записи вызовов и аудио</string>
-    <string name="cta_main_purpose">"Добро пожаловать в Диктофон! Вы можете использовать это приложение для записи голосовых вызовов в сторонних приложениях. Приложению необходим доступ к именам абонентов для присвоения имён сохраненным записям.
-Обратите внимание, что нарушение прав других людей на частную жизнь является незаконным. Вы не можете использовать полученную информацию для нарушения неприкосновенности частной жизни других людей. В случае незаконного использования вышеуказанной информации, вы берете на себя все вытекающие из этого юридические риски.
+    <string name="cta_main_purpose">"Добро пожаловать в Диктофон! Вы можете использовать это приложение для записи голосовых вызовов в сторонних приложениях. Приложению необходим доступ к именам абонентов для именования сохраненных записей.
+Внимание, нарушение прав других людей на частную жизнь незаконно. Вы не можете использовать полученную информацию для нарушения неприкосновенности частной жизни других людей. В случае незаконного использования вышеуказанной информации, вы берете на себя все вытекающие из этого юридические риски.
 "</string>
     <string name="custom_define_perference_title">Сведения о разрешениях</string>
     <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Для записи вызовов и аудио</string>
@@ -163,6 +163,7 @@
     <string name="record_name">Диктофон</string>
     <string name="record_now">Принимаю</string>
     <string name="record_prompt">Голосовой отпечаток</string>
+    <string name="record_prompt_str">Для шумоподавления во время разговоров, приложению необходимо сформировать ваш голосовой отпечаток. Отпечаток будет храниться локально на устройстве, для его удаления потребуется сброс настроек до заводских. В случае отказа предоставить согласие, функция будет недоступна.</string>
     <string name="record_restart">Повторить запись голосового отпечатка</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
@@ -251,6 +252,23 @@
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="verify">ОК</string>
+    <string name="video_call">Видеовызов</string>
+    <string name="voice_call">Голосовой вызов</string>
+    <string name="voice_noise_reduction_open">Оптимизация голосового отпечатка включена</string>
+    <string name="voice_opti_always_on">Оптимизация голосового отпечатка</string>
+    <string name="voice_opti_summer">Для фильтрации шумов и обеспечения чёткости вашего голоса, необходимо включать эту функцию каждый раз вручную</string>
+    <string name="voice_recoding">Запись вызовов</string>
+    <string name="voice_recoding_progress">"Запись вызова: "</string>
+    <string name="voice_recoding_summer">Запись и сохранение голосовых вызовов в Диктофоне</string>
+    <string name="voip_assistant">VoIP-помощник</string>
+    <string name="voip_assistant_purpose">"Добро пожаловать в VoIP-помощник! С помощью этого приложения можно записывать голосовые вызовы в сторонних приложениях. Приложение позволяет использовать псевдонимы абонентов для именования записей.
+Внимание, нарушение прав других людей на частную жизнь незаконно. Вы не можете использовать полученную информацию для нарушения неприкосновенности частной жизни других людей. В случае незаконного использования вышеуказанной информации, вы берете на себя все вытекающие из этого юридические риски.
+"</string>
+    <string name="voip_call_assistant">VoIP-помощник</string>
+    <string name="voip_notice">Просмотр %s</string>
+    <string name="voipcord_privacy">Политика конфиденциальности</string>
+    <string name="voiprecord_always_on">Автозапись вызовов</string>
+    <string name="voiprecord_open">Диктофон</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>

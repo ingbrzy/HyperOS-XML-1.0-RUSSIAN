@@ -10321,7 +10321,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="voice_search_settings_title">Голосовой поиск</string>
     <string name="voice_service_preference_section_title">Голосовой ввод</string>
     <string name="voicemail_number_not_set">&lt;Не задано&gt;</string>
-    <string name="voip_assistant_settings">VoIP ассистент</string>
+    <string name="voip_assistant_settings">VoIP-помощник</string>
     <string name="voip_assistant_settings_off">Откл.</string>
     <string name="voip_assistant_settings_on">Вкл.</string>
     <string name="voip_assistant_settings_summary">Запись VoIP вызовов и оптимизация голосовых отпечатков</string>
