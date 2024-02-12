@@ -1708,7 +1708,7 @@ mm"</string>
     <string name="save">Сохранить</string>
     <string name="screen_capturing_disabled_by_policy_dialog_title">"Заблокировано вашим администратором"</string>
     <string name="screen_pinning_description_gesture_mode">Это приложение будет оставаться в Недавних до тех пор, пока вы не открепите его. Чтобы открепить, проведите по экрану вверх и задержите палец.</string>
-    <string name="screen_pinning_description_navigation_mode">Это приложение будет оставаться в Недавних до тех пор, пока вы не открепите его. Чтобы открепить,  нажмите и удерживайте кнопки \"Назад\" и \"Обзор\".</string>
+    <string name="screen_pinning_description_navigation_mode">Это приложение будет оставаться в Недавних до тех пор, пока вы не открепите его. Чтобы открепить, нажмите и удерживайте кнопки \"Назад\" и \"Обзор\".</string>
     <string name="screen_pinning_exit">Приложение откреплено</string>
     <string name="screen_pinning_positive">Понятно</string>
     <string name="screen_pinning_title_gesture_mode">Приложение закреплено</string>
