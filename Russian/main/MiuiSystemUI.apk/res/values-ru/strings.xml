@@ -1380,7 +1380,7 @@ mm"</string>
     <string name="notification_status_bar">Уведомления и строка состояния</string>
     <string name="notification_unblockable_call_desc">Уведомления о звонках нельзя изменить.</string>
     <string name="notification_unblockable_desc">Эти уведомления не могут быть изменены</string>
-    <string name="notification_vpn_connected">VPN подключен</string>
+    <string name="notification_vpn_connected">VPN подключён</string>
     <string name="notification_vpn_disconnected">VPN отключён</string>
     <string name="ok">ОК</string>
     <string name="one_handed_tutorial_description">Для выхода используйте свайп вверх от нижней части экрана или коснитесь любого места вне приложения</string>
@@ -1526,7 +1526,7 @@ mm"</string>
     <string name="quick_settings_camera_mic_available">Доступен</string>
     <string name="quick_settings_camera_mic_blocked">Заблокирован</string>
     <string name="quick_settings_cast_device_default_name">Безымянное устройство</string>
-    <string name="quick_settings_cast_no_wifi">Wi-Fi не подключен</string>
+    <string name="quick_settings_cast_no_wifi">Wi-Fi не подключён</string>
     <string name="quick_settings_cast_title">Трансляция</string>
     <string name="quick_settings_casting">Передача</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnoff">После отключения мобильного интернета, вы не сможете использовать интернет, пока не подключитесь к Wi-Fi. Отправка MMS по-прежнему будет доступна. Отключить мобильный интернет?</string>

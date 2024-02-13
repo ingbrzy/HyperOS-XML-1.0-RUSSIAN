@@ -479,7 +479,7 @@
     <string name="stylus_function_and_action">Функции</string>
     <string name="stylus_keyboard_settings_title">Стилус и клавиатура</string>
     <string name="stylus_language_summary">Распознавать цифры и рукописный текст на английском и дополнительно выбранном языке</string>
-    <string name="stylus_not_connect_message">Стилус не подключен</string>
+    <string name="stylus_not_connect_message">Стилус не подключён</string>
     <string name="stylus_not_connect_message_new">Подключите стилус для сопряжения</string>
     <string name="stylus_ota_check_failed_battery">Не удалось проверить. Батарея стилуса разряжена.</string>
     <string name="stylus_ota_check_failed_info">Не удалось проверить версию прошивки. Подключите стилус.</string>

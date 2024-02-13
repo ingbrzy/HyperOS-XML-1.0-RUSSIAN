@@ -1264,7 +1264,7 @@
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="preset_music_playlist">Mi плейлист</string>
     <string name="priority_storage">Использовать накопитель</string>
-    <string name="priority_storage_summary">Автоматически сохранять файлы на накопитель, если он подключен</string>
+    <string name="priority_storage_summary">Автоматически сохранять файлы на накопитель, если он подключён</string>
     <string name="privacy_authorize_network_error">Для отзыва авторизации требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="privacy_authorize_revoke_failed">Не удалось отозвать авторизацию</string>
     <string name="privacy_authorize_revoke_success">Авторизация отозвана</string>

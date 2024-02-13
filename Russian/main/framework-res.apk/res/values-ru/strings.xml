@@ -2053,7 +2053,7 @@
     <string name="untitled">&lt;Без названия&gt;</string>
     <string name="upload_file">Выбрать файл</string>
     <string name="usb_accessory_notification_title">USB-устройство подключено</string>
-    <string name="usb_cd_installer_notification_title">Подключен как установщик</string>
+    <string name="usb_cd_installer_notification_title">Подключён как установщик</string>
     <string name="usb_charging_notification_title">Зарядка через USB</string>
     <string name="usb_contaminant_detected_message">USB-порт автоматически отключён. Нажмите для подробностей.</string>
     <string name="usb_contaminant_detected_title">В USB-порт попала жидкость или грязь</string>
@@ -2075,14 +2075,14 @@
     <string name="usb_storage_error_message">При использовании USB-устройства в качестве карты памяти возникла неполадка</string>
     <string name="usb_storage_message">Устройство подключено к ПК через USB. Нажмите кнопку ниже, чтобы скопировать файлы.</string>
     <string name="usb_storage_notification_message">Нажмите, чтобы скопировать файлы на ПК или с ПК</string>
-    <string name="usb_storage_notification_title">USB подключен</string>
+    <string name="usb_storage_notification_title">USB подключён</string>
     <string name="usb_storage_stop_button_mount">Отключить USB-накопитель</string>
     <string name="usb_storage_stop_error_message">Возникла проблема при отключении USB-накопителя. Убедитесь, что USB-хост размонтирован, и повторите попытку.</string>
     <string name="usb_storage_stop_message">Перед отключением USB-накопителя выполните размонтирование (\"извлечение\") USB-накопителя на ПК.</string>
     <string name="usb_storage_stop_notification_message">Нажмите, чтобы отключить USB-накопитель</string>
     <string name="usb_storage_stop_notification_title">Отключить USB-накопитель</string>
     <string name="usb_storage_stop_title">USB-накопитель используется</string>
-    <string name="usb_storage_title">USB подключен</string>
+    <string name="usb_storage_title">USB подключён</string>
     <string name="usb_supplying_notification_title">Подача питания на подключённое устройство через USB</string>
     <string name="usb_tether_notification_title">USB-модем</string>
     <string name="usb_unsupported_audio_accessory_message">Подсоединенное устройство несовместимо с этим устройством. Нажмите, чтобы узнать подробности.</string>

@@ -315,7 +315,7 @@
     <string name="folder_name_empty">Имя папки не может быть пустым</string>
     <string name="folder_name_illegal">Недопустимое имя папки</string>
     <string name="found_router">Обнаружен совместимый роутер</string>
-    <string name="found_usb">USB накопитель подключен</string>
+    <string name="found_usb">USB накопитель подключён</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>

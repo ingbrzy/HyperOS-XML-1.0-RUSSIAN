@@ -936,11 +936,11 @@
     <string name="auto_caps">Заглавные автоматически</string>
     <string name="auto_caps_summary">Использовать автоматическую подстановку заглавных букв в начале предложений.</string>
     <string name="auto_clean_description">"О функции
-%3$d. Если динамик слегка загрязнен, запустите эту функцию 1-2 раза.
-%4$d. Если динамик сильно загрязнен, запустите эту функцию %1$d-%2$d раз, встряхивая устройство так, чтобы динамик был направлен вниз."</string>
+%3$d. Если динамик слегка загрязнён, запустите эту функцию 1-2 раза.
+%4$d. Если динамик сильно загрязнён, запустите эту функцию %1$d-%2$d раз, встряхивая устройство так, чтобы динамик был направлен вниз."</string>
     <string name="auto_clean_description_pad">"О функции
-- Если динамик слегка загрязнен, запустите эту функцию 1-2 раза.
-- Если динамик сильно загрязнен, запустите эту функцию %1$d-%2$d раз, встряхивая устройство так, чтобы динамик был направлен вниз."</string>
+- Если динамик слегка загрязнён, запустите эту функцию 1-2 раза.
+- Если динамик сильно загрязнён, запустите эту функцию %1$d-%2$d раз, встряхивая устройство так, чтобы динамик был направлен вниз."</string>
     <string name="auto_clean_summary">Воспроизведение 30-секундного аудиофайла для очистки динамика</string>
     <string name="auto_clean_summary_new">Воспроизведение %d-секундного аудиофайла для очистки динамика. В случае сильного загрязнения динамика, используйте эту функцию несколько раз подряд.</string>
     <string name="auto_clean_title">Очистка динамика</string>
@@ -1593,7 +1593,7 @@
     <string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства</string>
     <string name="bluetooth_hearing_aid_left_active">Активно. Только левый.</string>
     <string name="bluetooth_hearing_aid_left_and_right_active">Активно. Левый и правый.</string>
-    <string name="bluetooth_hearing_aid_profile_summary_connected">Подключен к слуховому аппарату</string>
+    <string name="bluetooth_hearing_aid_profile_summary_connected">Подключён к слуховому аппарату</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">Используйте для слухового аппарата</string>
     <string name="bluetooth_hearing_aid_right_active">Активно. Только правый.</string>
     <string name="bluetooth_hearingaid_left_battery_level">Левый | Батарея %1$s</string>
@@ -1647,9 +1647,9 @@
     <string name="bluetooth_opp_profile_summary_use_for">Использовать для передачи файлов</string>
     <string name="bluetooth_other_settings">Доп. настройки</string>
     <string name="bluetooth_pair_left_ear_button">"Подключить левое ухо"</string>
-    <string name="bluetooth_pair_other_ear_dialog_left_ear_message">Левый слуховой аппарат подключен.\n\nУбедитесь, что правый аппарат работает и готов к подключению.</string>
+    <string name="bluetooth_pair_other_ear_dialog_left_ear_message">Левый слуховой аппарат подключён.\n\nУбедитесь, что правый аппарат работает и готов к подключению.</string>
     <string name="bluetooth_pair_other_ear_dialog_left_ear_positive_button">Подключить левое ухо</string>
-    <string name="bluetooth_pair_other_ear_dialog_right_ear_message">Правый слуховой аппарат подключен.\n\nУбедитесь, что левый аппарат работает и готов к подключению.</string>
+    <string name="bluetooth_pair_other_ear_dialog_right_ear_message">Правый слуховой аппарат подключён.\n\nУбедитесь, что левый аппарат работает и готов к подключению.</string>
     <string name="bluetooth_pair_other_ear_dialog_right_ear_positive_button">Подключить прав. ухо</string>
     <string name="bluetooth_pair_other_ear_dialog_title">Подключить другое ухо</string>
     <string name="bluetooth_pair_right_ear_button">"Подключить прав. ухо"</string>
@@ -1952,7 +1952,7 @@
     <string name="bt_leaudio_summary">Высокое качество звука</string>
     <string name="bt_leaudio_summary_V2">Звук высокого качества с уменьшенной задержкой и низким расходом заряда</string>
     <string name="bt_leaudio_support_multi_dialog_summary">После включения LC3 некоторые функции будут недоступны. Включить LC3?</string>
-    <string name="bt_lhdc_declaration">Если Bluetooth-устройство поддерживает LHDC, он будет подключен по умолчанию. LHDC позволяет воспроизводить звук высокого качества и снижает задержки во время игр, но увеличивает расход заряда. Возможны проблемы во время воспроизведения из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_lhdc_declaration">Если Bluetooth-устройство поддерживает LHDC, он будет подключён по умолчанию. LHDC позволяет воспроизводить звук высокого качества и снижает задержки во время игр, но увеличивает расход заряда. Возможны проблемы во время воспроизведения из-за аппаратных ограничений Bluetooth.</string>
     <string name="bt_lhdc_dialog_summary">"LHDC позволяет воспроизводить звук высокого качества и снижает задержки во время игр, но увеличивает расход заряда.
 Эту функцию можно отключить в Настройках"</string>
     <string name="bt_lhdc_dialog_title">Включена поддержка LHDC</string>
@@ -3245,7 +3245,7 @@ ID: %s
     <string name="dream_more_settings_category">Дополнительные настройки</string>
     <string name="dream_picker_category">Выберите заставку</string>
     <string name="dream_preview_button_title">Посмотреть</string>
-    <string name="dream_setup_description">Выберите, что будет показано на экране, когда планшет подключен к док-станции. Устройство может потреблять больше энергии, если включена заставка.</string>
+    <string name="dream_setup_description">Выберите, что будет показано на экране, когда планшет подключён к док-станции. Устройство может потреблять больше энергии, если включена заставка.</string>
     <string name="dream_setup_title">Выберите заставку</string>
     <string name="dropdown_menu">Выпадающее меню</string>
     <string name="dsda_switch_summary">Разрешить в сети 5G одновременное использование двух SIM-карт для мобильного интернета и вызовов</string>
@@ -9277,7 +9277,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="stylus_handwriting_summary">Если включено, текущий метод ввода в активном редакторе получает от стилуса событие MotionEvent</string>
     <string name="stylus_ignore_button">Игнорировать нажатия кнопок стилуса</string>
     <string name="stylus_keyboard_settings_title">Стилус и клавиатура</string>
-    <string name="stylus_not_connect_message">Стилус не подключен</string>
+    <string name="stylus_not_connect_message">Стилус не подключён</string>
     <string name="stylus_ota_check_failed_battery">Не удалось проверить. Батарея стилуса разряжена.</string>
     <string name="stylus_ota_check_failed_info">Не удалось проверить версию прошивки. Подключите стилус.</string>
     <string name="stylus_ota_check_update">Проверить обновления</string>
@@ -10350,7 +10350,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="vpn_always_on_invalid_reason_no_dns">Для постоянной VPN-сети должен быть задан DNS-сервер</string>
     <string name="vpn_always_on_invalid_reason_other">Введенная информация не поддерживает постоянную VPN</string>
     <string name="vpn_always_on_invalid_reason_server">Постоянная VPN поддерживает только числовые адреса серверов</string>
-    <string name="vpn_always_on_invalid_reason_type">Этот тип VPN не может быть всегда подключен</string>
+    <string name="vpn_always_on_invalid_reason_type">Этот тип VPN не может быть всегда подключён</string>
     <string name="vpn_always_on_summary">Не отключаться от VPN</string>
     <string name="vpn_always_on_summary_active">Всегда активно</string>
     <string name="vpn_always_on_summary_not_supported">Не поддерживается в этом приложении</string>
@@ -10680,7 +10680,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="wifi_display_session_info">Информация о сессии</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Нельзя использовать WiDi при отключённом Wi-Fi</string>
     <string name="wifi_display_settings_title">Трансляция</string>
-    <string name="wifi_display_status_connected">Подключен</string>
+    <string name="wifi_display_status_connected">Подключён</string>
     <string name="wifi_display_status_connecting">Подключение…</string>
     <string name="wifi_display_status_in_use">Используется</string>
     <string name="wifi_display_status_not_available">Недоступен</string>

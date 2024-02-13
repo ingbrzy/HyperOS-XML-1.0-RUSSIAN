@@ -90,7 +90,7 @@ ID вашего аккаунта: %s"</string>
     <string name="bind_sns_description">Войдите в аккаунт Xiaomi с помощью %s</string>
     <string name="bind_weixin">Подключите аккаунт WeChat</string>
     <string name="binded">Подключено</string>
-    <string name="binded_description" formatted="false">"%s подключен к вашему аккаунту Xiaomi.
+    <string name="binded_description" formatted="false">"%s подключён к вашему аккаунту Xiaomi.
 Вы можете войти в аккаунт Xiaomi используя %s."</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="button_agree">Принимаю</string>

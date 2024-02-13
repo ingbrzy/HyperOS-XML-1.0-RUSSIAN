@@ -258,7 +258,7 @@
     <string name="circulate_headset_control_battery_right">П</string>
     <string name="circulate_headset_control_more_settings">Доп. настройки</string>
     <string name="circulate_headset_duplicate_cancel">Отмена</string>
-    <string name="circulate_headset_duplicate_dialog_message">К %1$s подключен другой комплект наушников. Заменить на этот комплект?</string>
+    <string name="circulate_headset_duplicate_dialog_message">К %1$s подключён другой комплект наушников. Заменить на этот комплект?</string>
     <string name="circulate_headset_duplicate_dialog_title">Замена наушников, подключенных к %1$s</string>
     <string name="circulate_headset_duplicate_ok">ОК</string>
     <string name="circulate_headset_error_account_not_match">Убедитесь, что на обоих устройствах используется один и тот же аккаунт Xiaomi</string>

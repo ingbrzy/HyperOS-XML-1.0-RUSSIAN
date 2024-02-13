@@ -592,8 +592,8 @@ Email: service.jp@xiaomi.com"</string>
     <string name="net_diag_header_internet">Интернет</string>
     <string name="net_diag_header_router">Роутер</string>
     <string name="net_diag_header_this_device">Это устройство</string>
-    <string name="net_diag_repair_msg">Во время этого процесса Wi-Fi будет отключён, затем снова подключен. Продолжить?</string>
-    <string name="net_diag_repair_msg_china">Во время этого процесса Wi-Fi будет отключён, затем снова подключен. Продолжить?</string>
+    <string name="net_diag_repair_msg">Во время этого процесса Wi-Fi будет отключён, затем снова подключён. Продолжить?</string>
+    <string name="net_diag_repair_msg_china">Во время этого процесса Wi-Fi будет отключён, затем снова подключён. Продолжить?</string>
     <string name="net_diag_repair_static_ip_msg">Во время этого процесса может произойти сброс сетевых конфигураций. Продолжить?</string>
     <string name="net_diag_repair_title">Восстановление сети</string>
     <string name="net_diag_title">Тестирование сети</string>
@@ -908,7 +908,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="toast_feedback_submitted">Отчёт успешно отправлен</string>
     <string name="toast_feedback_submitting">Отправка…</string>
     <string name="toast_file_format_not_support">Этот формат файла не поддерживается. Попробуйте выбрать другой файл.</string>
-    <string name="toast_log_not_exists">Необходимый журнал был удалён или не существует</string>
+    <string name="toast_log_not_exists">Необходимый журнал удалён или не существует</string>
     <string name="toast_min_description_count">Описание должно быть длиннее</string>
     <string name="toast_module_required">Выберите категорию</string>
     <string name="toast_network_unavailable">Не удалось отправить отчёт. Интернет недоступен.</string>

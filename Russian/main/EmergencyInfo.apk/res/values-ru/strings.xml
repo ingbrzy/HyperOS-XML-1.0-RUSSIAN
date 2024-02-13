@@ -79,7 +79,7 @@
     <string name="adb_qrcode_pairing_device_failed_msg">Ошибка сопряжения. Либо неверный QR-код, либо устройство не подключено к той же сети.</string>
     <string name="adb_warning_message">Отладка по USB – это режим, который позволяет использовать ваше устройство как внешний накопитель: перемещать файлы (с ПК или на ПК), напрямую устанавливать приложения, а также просматривать системные журналы.</string>
     <string name="adb_warning_title">Разрешить отладку по USB?</string>
-    <string name="adb_wireless_connection_failed_message">Убедитесь, что %1$s подключен к правильной сети</string>
+    <string name="adb_wireless_connection_failed_message">Убедитесь, что %1$s подключён к правильной сети</string>
     <string name="adb_wireless_connection_failed_title">Ошибка подключения</string>
     <string name="adb_wireless_device_connected_summary">Текущее подключение</string>
     <string name="adb_wireless_device_details_title">Подробности</string>
@@ -170,7 +170,7 @@
     <string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства телефона</string>
     <string name="bluetooth_hearing_aid_left_active">Активно. Только левый.</string>
     <string name="bluetooth_hearing_aid_left_and_right_active">Активно. Левый и правый.</string>
-    <string name="bluetooth_hearing_aid_profile_summary_connected">Подключен к слуховому аппарату</string>
+    <string name="bluetooth_hearing_aid_profile_summary_connected">Подключён к слуховому аппарату</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">Используется для слухового аппарата</string>
     <string name="bluetooth_hearing_aid_right_active">Активно. Только правый.</string>
     <string name="bluetooth_hid_profile_summary_connected">Подключено к устройству ввода</string>
