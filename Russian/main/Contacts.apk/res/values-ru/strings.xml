@@ -902,6 +902,8 @@
     <string name="notification_missedCall_call_back">Вызов</string>
     <string name="notification_missedCall_message">Отправить SMS</string>
     <string name="notification_missedCallsTitle">Пропущенные вызовы</string>
+    <string name="notification_title_export">Экспорт контактов</string>
+    <string name="notification_title_import">Импорт контактов</string>
     <string name="open_contact">Открыть контакт</string>
     <string name="open_dial_pad_description">Открыть клавиатуру</string>
     <string name="option_delete_contact">Удалить</string>

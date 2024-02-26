@@ -1422,6 +1422,8 @@ mm"</string>
     <string name="phone_locked_string">Устройство заблокировано</string>
     <string name="phone_locked_string_owner_user">Слишком много неудачных попыток ввести пароль первого пространства. Устройство заблокировано.</string>
     <string name="phone_locked_string_second_user">Слишком много неудачных попыток ввести пароль второго пространства. Устройство заблокировано.</string>
+    <string name="pin_toast">Чтобы открепить приложение, проведите по экрану вверх и задержите палец</string>
+    <string name="pin_toast_nav">Чтобы открепить приложение, нажмите и удерживайте кнопки \"Назад\" и \"Обзор\"</string>
     <string name="pip_close">Закрыть режим \"Картинка в картинке\"</string>
     <string name="pip_collapse">Свернуть</string>
     <string name="pip_edu_text">Нажмите дважды <annotation icon="home_icon">HOME</annotation> для управления</string>

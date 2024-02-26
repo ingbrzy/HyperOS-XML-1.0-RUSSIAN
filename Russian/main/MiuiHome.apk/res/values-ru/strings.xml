@@ -640,6 +640,7 @@
     <string name="recent_menu_item_unlock">Открепить</string>
     <string name="recent_menu_item_worldcirculate">Перенос задач</string>
     <string name="recent_menu_item_worldcirculate_disable">Не удалось перенести задачи приложения между подключёнными устройствами</string>
+    <string name="recent_pin_text">Закрепить</string>
     <string name="recents_app_info_button_label">О приложении</string>
     <string name="recents_config_title">Недавние</string>
     <string name="recents_dimiss_task">Очистить</string>
@@ -764,6 +765,7 @@
     <string name="switch_personal_assistant_none">Нет</string>
     <string name="switch_screen_button_order">Поменять кнопки местами</string>
     <string name="switch_screen_button_order_desc">Поменять местами \"Назад\" и \"Меню\"</string>
+    <string name="system_sdk_disabled_toast">Системный SDK отключён. Включите его.</string>
     <string name="system_shortcuts_edit">Изменить</string>
     <string name="system_shortcuts_icon_remove">Удалить</string>
     <string name="system_shortcuts_more_operation">Сведения</string>

@@ -382,7 +382,7 @@
     <string name="accessibility_toggle_primary_mono_title">Монофонический звук</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Сохранять масштаб при переходе между приложениями</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Сохранять масштаб</string>
-    <string name="accessibility_touch_vibration_title">Тактильный отклик</string>
+    <string name="accessibility_touch_vibration_title">Виброотклик</string>
     <string name="accessibility_turn_screen_darker_title">Уменьшение яркости</string>
     <string name="accessibility_tutorial_dialog_button">ОК</string>
     <string name="accessibility_tutorial_dialog_link_button">"Настройки кнопки"</string>
@@ -4255,7 +4255,7 @@ ID: %s
     <string name="haptic_switch_title">Виброотклик</string>
     <string name="haptic_text_edit_popup_13_content_description">Всплывающее меню</string>
     <string name="haptic_upper_right_menu_15_content_description">Выпадающее меню</string>
-    <string name="haptic_video_content_description">Видео с демонстрацией тактильной обратной связи</string>
+    <string name="haptic_video_content_description">Видео с демонстрацией виброотклика</string>
     <string name="haptic_volume_adjustment_14_content_description">Регулировка громкости</string>
     <string name="hardkeyboard_category">Настройки внешней клавиатуры</string>
     <string name="hardware_revision">Версия аппаратного обеспечения</string>
@@ -4833,7 +4833,7 @@ ID: %s
     <string name="keywords_more_default_sms_app">сообщение, обмен сообщениями, текст, SMS</string>
     <string name="keywords_more_mobile_networks">сотовая сеть, мобильный интернет, сотовый оператор, беспроводная сеть, передача данных, 4G, 3G, 2G, LTE</string>
     <string name="keywords_network_reset">сбросить настройки, вернуться к заводским настройкам</string>
-    <string name="keywords_notification_vibration">тактильный отклик, вибрация, чувствительность</string>
+    <string name="keywords_notification_vibration">виброотклик, тактильный отклик, вибрация, чувствительность</string>
     <string name="keywords_nr_advanced_calling">Vo5G, VoNR, расширенные настройки звонков, звонки по сети 5G</string>
     <string name="keywords_one_handed">управление одной рукой</string>
     <string name="keywords_paper_mode">Поток;Читать;Режим чтения;Синий свет;Защита глаз</string>
@@ -4844,7 +4844,7 @@ ID: %s
     <string name="keywords_ramping_ringer_vibration">виброотклик, вибрация, телефон, звонок, вызов, постепенно</string>
     <string name="keywords_reduce_bright_colors">чувствительность к свету, светобоязнь, тёмная тема, мигрень, головная боль, режим для чтения, ночной режим, снижение яркости, белая точка</string>
     <string name="keywords_reset_apps">сбросить, настройки, по умолчанию</string>
-    <string name="keywords_ring_vibration">тактильный отклик, вибрация, телефон, вызов, чувствительность, звонок</string>
+    <string name="keywords_ring_vibration">виброотклик, тактильный отклик, вибрация, телефон, вызов, чувствительность, звонок</string>
     <string name="keywords_rtt">слабый слух, потеря слуха, субтитры, телетайп</string>
     <string name="keywords_screen_resolution">FHD, QHD, разрешение, 1080p, 1440p</string>
     <string name="keywords_screen_timeout">экран, время блокировки, тайм-аут, блокировка экрана</string>
@@ -6299,8 +6299,8 @@ ID: %s
     <string name="my_device_info_legal_category_title">Правовые и нормативные требования</string>
     <string name="my_device_real_camera">Задняя камера</string>
     <string name="n_cacrts">Сертификатов ЦС: %d</string>
-    <string name="natural_haptic">Реалистичный тактильный отклик</string>
-    <string name="natural_haptic_summary">Различные варианты тактильного отклика придают дополнительное измерение всему, что вы видите и к чему прикасаетесь</string>
+    <string name="natural_haptic">Реалистичный виброотклик</string>
+    <string name="natural_haptic_summary">Различные варианты виброотклика придают дополнительное измерение всему, что вы видите и к чему прикасаетесь</string>
     <string name="natural_scroll">Натуральная прокрутка</string>
     <string name="nature_color">Стандарт</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Проведите вверх от нижнего края экрана, затем влево или вправо</string>
@@ -7844,6 +7844,7 @@ OTG отключается автоматически через 10 минут �
 1.	Включите функцию в настройках. 	
 2.	Нажмите \"Обзор\". 	
 3.	Нажмите на значок приложения вверху экрана и выберите \"Закрепить\"."</string>
+    <string name="screen_pinning_summary">Закреплённые приложения останутся в Недавних до тех пор, пока не будут откреплены</string>
     <string name="screen_pinning_switch_off_text">Откл.</string>
     <string name="screen_pinning_switch_on_text">Вкл.</string>
     <string name="screen_pinning_title">Блокировка в приложении</string>
@@ -8946,10 +8947,10 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="sound_category_system_title">Системные уведомления</string>
     <string name="sound_dashboard_summary">Звук, вибрация, режим \"Не беспокоить\"</string>
     <string name="sound_effects_enable_title">Звук нажатия на экран</string>
-    <string name="sound_haptic_settings">Звук и тактильный отклик</string>
+    <string name="sound_haptic_settings">Звук и виброотклик</string>
     <string name="sound_mode">Параметры звука</string>
     <string name="sound_settings">Громкость</string>
-    <string name="sound_settings_tab_haptic">Тактильный отклик</string>
+    <string name="sound_settings_tab_haptic">Виброотклик</string>
     <string name="sound_settings_tab_sound">Звук</string>
     <string name="sound_stereo_mode_summary">При воспроизведении через динамик</string>
     <string name="sound_stereo_mode_title">Стереозвук</string>
@@ -9420,7 +9421,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="system_shortcut_wake">Запуск кнопкой</string>
     <string name="system_sound_effect_settings">Системные звуки</string>
     <string name="system_storage">Системная память</string>
-    <string name="system_touch">Тактильный отклик</string>
+    <string name="system_touch">Виброотклик</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="system_update_settings_list_item_title">Обновления системы</string>
     <string name="tab">Вкладка</string>

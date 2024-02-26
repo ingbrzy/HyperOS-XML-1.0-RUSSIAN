@@ -52,6 +52,7 @@
     <string name="eras_bc">до н. э.</string>
     <string name="evening">После полудня</string>
     <string name="expand_button_title">Дополнительно</string>
+    <string name="expand_top_notification">Развернуть верхнее уведомление</string>
     <string name="feedback">Обратная связь</string>
     <string name="float_notification_snooze_strategy">Временное скрытие</string>
     <string name="float_notification_snooze_summary">Проведите вверх по всплывающему уведомлению, чтобы временно скрыть его</string>

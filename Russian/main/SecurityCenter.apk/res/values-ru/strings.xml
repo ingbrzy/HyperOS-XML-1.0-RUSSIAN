@@ -501,6 +501,9 @@
     <string name="app_manager_copy_pkg_to_clip">Скопировано в буфер обмена</string>
     <string name="app_manager_data_size">Данные</string>
     <string name="app_manager_default_cleared">Действия по умолчанию сброшены</string>
+    <string name="app_manager_default_close_summary">Приложение по умолчанию не установлено</string>
+    <string name="app_manager_default_open_summary">Это приложение выбрано для запуска по умолчанию для некоторых действий</string>
+    <string name="app_manager_default_open_title">Сброс приложения по умолчанию</string>
     <string name="app_manager_defaults_setting">Приложения по умолчанию</string>
     <string name="app_manager_details_electric_title">Батарея</string>
     <string name="app_manager_details_storage_title">Память</string>
@@ -2125,6 +2128,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="fod_finger_notice_title">Приложите палец к экрану</string>
     <string name="fod_finger_windows_tips">Подтвердите отпечаток пальца</string>
     <string name="fod_tips_split_screen_more_than_half">Введите пароль</string>
+    <string name="fold_application_mode_name">Макеты приложения</string>
     <string name="forbid_autobright_summary">Автояркость будет отключена во время игры и снова включена после её окончания</string>
     <string name="forbid_autobright_title">Отключить автояркость</string>
     <string name="foreground_traffic">Активный: %s</string>
@@ -3392,7 +3396,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="new_result_function">Функция</string>
     <string name="new_result_screen_display">Экран</string>
     <string name="new_result_setting_item">Настройка</string>
-    <string name="new_result_sound_and_vibration">Звук и тактильный отклик</string>
+    <string name="new_result_sound_and_vibration">Звук и виброотклик</string>
     <string name="new_result_sound_only">Звук</string>
     <string name="new_task_condition_name">Если</string>
     <string name="new_task_result_name">То</string>
@@ -5848,7 +5852,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="task_summary_close_rotate_lock">Включить автоповорот</string>
     <string name="task_summary_close_save_battery">Отключить экономию заряда</string>
     <string name="task_summary_close_screen_display">Отключить Активный экран</string>
-    <string name="task_summary_close_system_touch">Отключить тактильный отклик</string>
+    <string name="task_summary_close_system_touch">Отключить виброотклик</string>
     <string name="task_summary_close_wlan">Отключить Wi-Fi</string>
     <string name="task_summary_close_zen_mode">Отключить режим \"Не беспокоить\"</string>
     <string name="task_summary_open_airplane">Включить режим полёта</string>
@@ -5869,7 +5873,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="task_summary_open_rotate_lock">Отключить автоповорот</string>
     <string name="task_summary_open_save_battery">Включить экономию заряда</string>
     <string name="task_summary_open_screen_display">Включить Активный экран</string>
-    <string name="task_summary_open_system_touch">Включить тактильный отклик</string>
+    <string name="task_summary_open_system_touch">Включить виброотклик</string>
     <string name="task_summary_open_wlan">Включить Wi-Fi</string>
     <string name="task_summary_open_zen_mode">Включить режим \"Не беспокоить\"</string>
     <string name="task_title_charge">Зарядка</string>
@@ -6122,7 +6126,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_result_screen_display">Активный экран</string>
     <string name="title_result_start_activity">Запустить приложение</string>
     <string name="title_result_switch">Выключить</string>
-    <string name="title_result_touch">Тактильный отклик</string>
+    <string name="title_result_touch">Виброотклик</string>
     <string name="title_result_twinkle">Устранение мерцания</string>
     <string name="title_result_typeface">Размер и толщина шрифта</string>
     <string name="title_result_wlan">Wi-Fi</string>
@@ -6452,6 +6456,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="virus_wait_network_dialog_message">Отсутствует подключение к Wi-Fi. Использовать мобильный интернет?</string>
     <string name="voltage_symbol">В</string>
     <string name="vtb_ai_subtitle">Субтитры</string>
+    <string name="vtb_ai_subtitle_intl">AI субтитры</string>
     <string name="vtb_func_desc">О функции</string>
     <string name="vtb_func_display_style_desc0">ИИ может распознавать на видео и динамически улучшать изображения людей, животных, растения, небо, здания и другие объекты</string>
     <string name="vtb_func_display_style_desc1">Выбранные эффекты не будут применяться к HDR-видео.</string>
