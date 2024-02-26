@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="HIPS_Perm_Access_Gallery">Галерея</string>
-    <string name="HIPS_Perm_Access_Gallery_Desc">Доступ к галерее</string>
+    <string name="HIPS_Perm_Access_Gallery_Desc">Доступ к файлам в галерее</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Включение/выключение Bluetooth</string>
     <string name="HIPS_Perm_CallLog_Desc">Создание и удаление записей в журнале вызовов</string>
     <string name="HIPS_Perm_Call_Desc">Непосредственное осуществление вызовов</string>
@@ -398,10 +398,10 @@
     <string name="app_behavior_recognition_single">Доступ к данным о здоровье и активности</string>
     <string name="app_behavior_record_cancel">Отмена</string>
     <string name="app_behavior_record_close">Отключить</string>
-    <string name="app_behavior_record_close_title">Запись действий</string>
+    <string name="app_behavior_record_close_title">Отключение записи действий</string>
     <string name="app_behavior_record_hide_system">Скрыть системные приложения</string>
     <string name="app_behavior_record_open">Включить</string>
-    <string name="app_behavior_record_open_content_text">Отслеживание действий приложений помогает избежать угроз безопасности</string>
+    <string name="app_behavior_record_open_content_text">Включите запись действий приложений для отслеживания использования вашей личной информации</string>
     <string name="app_behavior_record_setting_button_title">Показать</string>
     <string name="app_behavior_record_setting_show_system">Действия системных служб</string>
     <string name="app_behavior_record_setting_show_system_desc">Показывать действия основных системных служб. Для обеспечения стабильности системы эти службы используют необходимые разрешения, некоторые из которых нельзя ограничить.</string>
@@ -1271,11 +1271,11 @@
     <string name="cetus_invisible_mode">Инкогнито</string>
     <string name="cetus_invisible_mode_description_card">Приостановка разрешений</string>
     <string name="cetus_invisible_mode_description_switch">Приостановить разрешения использовать геолокацию, микрофон и камеру для всех приложений</string>
-    <string name="cetus_invisible_mode_warn_all">Режим инкогнито. Разрешения использовать геолокацию, микрофон и камеру приостановлены.</string>
-    <string name="cetus_invisible_mode_warn_camera">Режим инкогнито. Разрешение использовать камеру приостановлено.</string>
-    <string name="cetus_invisible_mode_warn_location">Режим инкогнито. Разрешение использовать геолокацию приостановлено.</string>
-    <string name="cetus_invisible_mode_warn_open">Режим инкогнито. Разрешения использовать геолокацию, микрофон и камеру будут приостановлены. Включить режим?</string>
-    <string name="cetus_invisible_mode_warn_record_audio">Режим инкогнито. Разрешение использовать микрофон приостановлено.</string>
+    <string name="cetus_invisible_mode_warn_all">Режим инкогнито. Использование геолокации, микрофона и камеры недоступно.</string>
+    <string name="cetus_invisible_mode_warn_camera">Режим инкогнито. Использование камеры недоступно.</string>
+    <string name="cetus_invisible_mode_warn_location">Режим инкогнито. Использование геолокации недоступно.</string>
+    <string name="cetus_invisible_mode_warn_open">Режим инкогнито. Использование геолокации, микрофона и камеры будет недоступно. Включить режим?</string>
+    <string name="cetus_invisible_mode_warn_record_audio">Режим инкогнито. Использование микрофона недоступно.</string>
     <string name="chainstart_desc_for_exemption">Непроверенное приложение \"%1$s\" запускает \"%2$s\". Будьте осторожны при совершении платежей.</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
@@ -3392,7 +3392,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="new_result_function">Функция</string>
     <string name="new_result_screen_display">Экран</string>
     <string name="new_result_setting_item">Настройка</string>
-    <string name="new_result_sound_and_vibration">Звук и виброотклик</string>
+    <string name="new_result_sound_and_vibration">Звук и тактильный отклик</string>
     <string name="new_result_sound_only">Звук</string>
     <string name="new_task_condition_name">Если</string>
     <string name="new_task_result_name">То</string>
@@ -3902,7 +3902,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_instruction_auto_start">Это разрешение позволяет приложениям запускаться автоматически без вашего подтверждения. Предоставление этого разрешения нескольким приложениям может замедлить работу вашего устройства. Вредоносные программы используют это разрешение для сбора вашей личной информации без вашего ведома.</string>
     <string name="permission_instruction_background_start">Это разрешение позволяет приложениям отображать всплывающие окна без вашего подтверждения. Всплывающие окна могут полностью закрывать экран и мешать нормальному использованию.</string>
     <string name="permission_instruction_bluetooth_admin">Это разрешение позволяет приложениям включать и выключать Bluetooth без вашего подтверждения.</string>
-    <string name="permission_instruction_body_sensors">Это разрешение позволяет приложениям получать доступ к информации о состоянии организма, собранной датчиками (например, частоте пульса). Помните, что информация о состоянии организма носит личный характер.</string>
+    <string name="permission_instruction_body_sensors">Это разрешение позволяет приложениям получить доступ к данным нательных датчиков (например, частоте пульса)</string>
     <string name="permission_instruction_call_phone">Это разрешение позволяет приложениям совершать нежелательные вызовы, которые могут приводить к дополнительной оплате. Обратите внимание, что это разрешение не позволяет приложениям звонить по номерам телефонов экстренных служб. Вредоносные приложения могут использовать это разрешение для выполнения платных вызовов без вашего согласия.</string>
     <string name="permission_instruction_camera">Это разрешение позволяет приложениям использовать камеру для фотосъёмки или записи видео.</string>
     <string name="permission_instruction_change_wifi_state">Это разрешение позволяет приложениям включать и выключать Wi-Fi без вашего подтверждения.</string>
@@ -3927,9 +3927,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_instruction_picture_in_picture">Это разрешение позволяет приложениям отображать элементы на главном экране или поверх других приложений через интерфейс \"картинка в картинке\".</string>
     <string name="permission_instruction_popup_window">Это разрешение позволяет приложениям отображать плавающие окна поверх любого другого интерфейса на вашем устройстве, что может повлиять на нормальное использование других приложений. Вредоносные приложения могут использовать это разрешение для чтения или сбора личной информации (например, паролей) через прозрачные плавающие окна.</string>
     <string name="permission_instruction_read_appplication_list">Это разрешение позволяет приложениям получать доступ к информации обо всех приложениях, установленных на вашем устройстве. Вредоносные программы могут использовать это разрешение для анализа ваших личных предпочтений.</string>
-    <string name="permission_instruction_read_calllog">Это разрешение позволяет приложениям получать доступ к журналу вызовов, который может содержать подробную информацию о входящих и исходящих вызовах. Это разрешение также позволяет приложениям сохранять записи журнала вызовов. Вредоносные приложения могут использовать это разрешение, чтобы делиться вашим журналом вызовов с третьими лицами или использовать для мошенничества.</string>
+    <string name="permission_instruction_read_calllog">Это разрешение позволяет приложениям получать доступ к журналу вызовов</string>
     <string name="permission_instruction_read_clipboard">Это разрешение позволяет приложениям читать любой контент, который вы копируете, который может включать личную информацию (например, данные счёта, номера банковских карт и пароли).</string>
-    <string name="permission_instruction_read_contacts">Это разрешение позволяет приложениям получать доступ к информации о контактах, хранящейся на устройстве. Эта информация может содержать частоту вашего общения с определёнными контактами посредством звонков, электронной почты и других методов. Это разрешение также позволяет приложениям сохранять контакты. Вредоносные программы могут использовать это разрешение для обмена контактами без вашего согласия.</string>
+    <string name="permission_instruction_read_contacts">Это разрешение позволяет приложениям получать доступ к контактам. Вредоносные программы могут использовать это разрешение для обмена контактами без вашего согласия.</string>
     <string name="permission_instruction_read_history">Доступ к истории просмотров</string>
     <string name="permission_instruction_read_imei">Доступ к IMEI этого устройства</string>
     <string name="permission_instruction_read_media_pic">Это разрешение позволяет приложениям получать доступ к фото и видео на устройстве. В них может содержаться личная информация.</string>
@@ -3937,7 +3937,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_instruction_read_phone_state">Это разрешение позволяет приложениям получать доступ к вашему номеру телефона, IMEI, IMSI и другим идентификаторам устройства. Приложения обычно используют это разрешение для определения перенаправления вызовов. Если используется виртуальный идентификатор устройства, приложения не смогут получить доступ к фактическим идентификаторам устройства.</string>
     <string name="permission_instruction_read_read_calendar">Это разрешение позволяет приложениям добавлять, удалять или редактировать мероприятия календаря.</string>
     <string name="permission_instruction_read_sms">Это разрешение позволяет приложениям читать все SMS и MMS, хранящиеся на вашем устройстве или SIM-карте. Такие сообщения могут содержать пароли, реквизиты банковского счёта и другую личную информацию.</string>
-    <string name="permission_instruction_read_write_calendar">Это разрешение позволяет приложениям получать доступ к вашему календарю, а также читать, добавлять, удалять, редактировать, отправлять и сохранять мероприятия календаря. Вредоносные программы могут использовать это разрешение для отправки сообщений от вашего имени или редактирования календаря без вашего согласия.</string>
+    <string name="permission_instruction_read_write_calendar">Это разрешение позволяет приложениям получать доступ к мероприятиям календаря</string>
     <string name="permission_instruction_receive_mms">Это разрешение позволяет приложениям читать все мультимедийные сообщения, хранящиеся на вашем устройстве или SIM-карте. Такие сообщения могут содержать пароли, реквизиты банковского счёта и другую личную информацию.</string>
     <string name="permission_instruction_receive_sms">Получение SMS и MMS</string>
     <string name="permission_instruction_receive_sms_mms">Это разрешение позволяет приложениям читать SMS и MMS, которые могут содержать пароли, данные банковских счетов и другую личную информацию.</string>
@@ -3949,18 +3949,18 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_instruction_send_mms">Это разрешение позволяет приложениям отправлять мультимедийные сообщения, за что может взиматься дополнительная плата. Вредоносные программы могут использовать это разрешение для отправки платных сообщений без вашего согласия.</string>
     <string name="permission_instruction_send_payment_sms">Это разрешение позволяет приложениям отправлять платные текстовые сообщения.</string>
     <string name="permission_instruction_send_sms">Это разрешение позволяет приложениям отправлять текстовые сообщения, за что может взиматься дополнительная плата. Вредоносные программы могут использовать это разрешение для отправки платных сообщений без вашего согласия.</string>
-    <string name="permission_instruction_shake">Это разрешение позволяет приложениям отслеживать ориентацию и движения устройства (например, встряхивание, наклон и вращение).</string>
+    <string name="permission_instruction_shake">Это разрешение позволяет приложениям определять положение устройства в пространстве, распознавать тряску и определять ориентацию экрана</string>
     <string name="permission_instruction_show_locked">Это разрешение позволяет приложениям отображать элементы на экране блокировки. Вредоносные программы могут использовать это разрешение для показа вам надоедливой рекламы.</string>
     <string name="permission_instruction_sociality">Для защиты конфиденциальности, помимо настройки доступа приложений к файлам в собственных папках, система позволяет настроить их доступ к файлам приложений соцсетей. Приложения с уровнем Android API 29 и выше уже поддерживают разделы хранилища, для них переключатель не предусмотрен.</string>
-    <string name="permission_instruction_storage">Для защиты конфиденциальности, помимо настройки доступа приложений к файлам в собственных папках, система позволяет настроить их доступ к файлам в Галерее и к файлам приложений соцсетей. Приложения с уровнем Android API 29 и выше уже поддерживают разделы хранилища, для них переключатель не предусмотрен.</string>
+    <string name="permission_instruction_storage">Для защиты конфиденциаальности, помимо настройки доступа приложений к файлам в собственных папках, система позволяет настроить их доступ к файлам в Галерее и к файлам приложений соцсетей. Приложения с уровнем Android API 29 и выше уже поддерживают разделы хранилища, для них переключатель не предусмотрен.</string>
     <string name="permission_instruction_touch_pay">Это разрешение позволяет приложениям выполнять бесконтактные платежи.</string>
     <string name="permission_instruction_transfer_data_to_other_devices">Передача данных на другие устройства</string>
     <string name="permission_instruction_use_sip">Это разрешение позволяет приложениям использовать видеосервисы SIP.</string>
     <string name="permission_instruction_vr_assistant">Это разрешение позволяет приложениям использовать службы помощника VR.</string>
     <string name="permission_instruction_wall_paper">Это разрешение позволяет приложениям изменять службу динамических обоев по умолчанию и работать в фоновом режиме.</string>
-    <string name="permission_instruction_write_calllog">Это разрешение позволяет приложениям редактировать журнал вызовов, который может содержать подробную информацию о входящих и исходящих вызовах. Вредоносные программы могут использовать это разрешение для очистки или редактирования журнала вызовов.</string>
+    <string name="permission_instruction_write_calllog">Это разрешение позволяет приложениям изменять записи в журнале вызовов.</string>
     <string name="permission_instruction_write_clipboard">Это разрешение позволяет приложениям запись в буфер обмена. Спам-сообщения могут повлиять на использование буфера обмена.</string>
-    <string name="permission_instruction_write_contacts">Это разрешение позволяет приложениям редактировать, добавлять и удалять информацию о контактах, хранящуюся на вашем устройстве. Эта информация может содержать частоту вашего общения с определёнными контактами посредством звонков, электронной почты и других методов. Это разрешение также позволяет приложениям удалять ваши контакты.</string>
+    <string name="permission_instruction_write_contacts">Это разрешение позволяет приложениям изменять контакты.</string>
     <string name="permission_instruction_write_settings">Это разрешение позволяет приложениям изменять системные настройки. Вредоносные программы могут использовать это разрешение в настройках вашей системы и повлиять на нормальное использование вашего устройства.</string>
     <string name="permission_legacy_storage">Доступ к фото, видео, аудио и другим файлам</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">Приложения не будут запрашивать разрешение на доступ к камере или микрофону, контактам, журналу вызовов или на изменение настроек системы. Можно включить эту функцию в настройках разрешений.</string>
@@ -4414,8 +4414,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_app_permission_settings_detail">Управление конфиденциальными разрешениями приложения</string>
     <string name="pp_app_reads_clipboard_smart_reminder">Защита буфера обмена</string>
     <string name="pp_app_reads_clipboard_smart_reminder_detail">Система будет управлять доступом к буферу обмена и уведомлять о доступе</string>
-    <string name="pp_app_warning_permission_tips">Уведомления о действиях</string>
-    <string name="pp_app_warning_permission_tips_detail">Уведомлять об использовании геолокации, доступе к микрофону или камере</string>
+    <string name="pp_app_warning_permission_tips">Уведомления о конфиденциальных разрешениях</string>
+    <string name="pp_app_warning_permission_tips_detail">Уведомлять когда приложения используют геолокацию, микрофон или камеру</string>
     <string name="pp_block_mac">Ограничение доступа к MAC-адресу</string>
     <string name="pp_block_mac_summary">По умолчанию доступ к MAC-адресу ограничен для всех приложений</string>
     <string name="pp_call_phone_msg">Журнал вызовов</string>
@@ -5040,7 +5040,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="securityadd_update_tips_message">Обновите плагин службы безопасности, чтобы получить доступ к новейшим игровым функциям. %1$d МБ будет загружено.</string>
     <string name="securityadd_update_tips_now">Обновить</string>
     <string name="securityadd_update_tips_title">Обновление</string>
-    <string name="see_all_app_behavior_record">Все действия</string>
+    <string name="see_all_app_behavior_record">Все записи</string>
     <string name="see_detail">Подробности</string>
     <string name="see_more_content">Обновите Игры для улучшения игрового опыта</string>
     <string name="select_app_title_default">Запуск приложения</string>
@@ -5848,7 +5848,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="task_summary_close_rotate_lock">Включить автоповорот</string>
     <string name="task_summary_close_save_battery">Отключить экономию заряда</string>
     <string name="task_summary_close_screen_display">Отключить Активный экран</string>
-    <string name="task_summary_close_system_touch">Отключить виброотклик</string>
+    <string name="task_summary_close_system_touch">Отключить тактильный отклик</string>
     <string name="task_summary_close_wlan">Отключить Wi-Fi</string>
     <string name="task_summary_close_zen_mode">Отключить режим \"Не беспокоить\"</string>
     <string name="task_summary_open_airplane">Включить режим полёта</string>
@@ -5869,7 +5869,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="task_summary_open_rotate_lock">Отключить автоповорот</string>
     <string name="task_summary_open_save_battery">Включить экономию заряда</string>
     <string name="task_summary_open_screen_display">Включить Активный экран</string>
-    <string name="task_summary_open_system_touch">Включить виброотклик</string>
+    <string name="task_summary_open_system_touch">Включить тактильный отклик</string>
     <string name="task_summary_open_wlan">Включить Wi-Fi</string>
     <string name="task_summary_open_zen_mode">Включить режим \"Не беспокоить\"</string>
     <string name="task_title_charge">Зарядка</string>
@@ -6122,7 +6122,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_result_screen_display">Активный экран</string>
     <string name="title_result_start_activity">Запустить приложение</string>
     <string name="title_result_switch">Выключить</string>
-    <string name="title_result_touch">Виброотклик</string>
+    <string name="title_result_touch">Тактильный отклик</string>
     <string name="title_result_twinkle">Устранение мерцания</string>
     <string name="title_result_typeface">Размер и толщина шрифта</string>
     <string name="title_result_wlan">Wi-Fi</string>

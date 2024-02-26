@@ -89,7 +89,7 @@
     <string name="effect_3dsurround">Иммерсивный звук</string>
     <string name="effect_3dsurround_summary">Усиление глубины звука для наушников и динамиков</string>
     <string name="effect_3dsurround_summary_headphone">Усиление глубины звука для наушников</string>
-    <string name="effect_dolby">Dolby</string>
+    <string name="effect_dolby">Dolby Atmos</string>
     <string name="effect_misound">Xiaomi Sound</string>
     <string name="effect_none">По умолчанию</string>
     <string name="effect_selection">Звуковые эффекты</string>

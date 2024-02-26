@@ -735,7 +735,7 @@
     <string name="share_sdk_invite_suggestion_list_error">Нет рекомендуемых людей для приглашения</string>
     <string name="share_sdk_invite_way_contact_summary">Пригласить сразу несколько человек</string>
     <string name="share_sdk_invite_way_contact_title">Приглашение по SMS</string>
-    <string name="share_sdk_invite_way_qr_code_summary">Используйте сканер WeChat или системный сканер</string>
+    <string name="share_sdk_invite_way_qr_code_summary">Используйте системный сканер или сканер WeChat</string>
     <string name="share_sdk_invite_way_qr_code_title">Пригласить через QR-код</string>
     <string name="share_sdk_invite_way_wechat_summary">Пригласить людей или группы</string>
     <string name="share_sdk_invite_way_wechat_title">Пригласить через WeChat</string>

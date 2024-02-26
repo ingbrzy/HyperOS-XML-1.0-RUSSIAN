@@ -1164,9 +1164,9 @@ dd.MM"</string>
     <string name="miui_snooze_toast_hint_default">"Предстоящие уведомления будут скрыты на %d мин. "</string>
     <string name="miui_snooze_toast_hint_until_unlock_screen">"Предстоящие уведомления будут скрыты до блокировки. "</string>
     <string name="miui_snooze_until_unlock_screen">До блокировки</string>
-    <string name="miui_snooze_user_set_fail">Дополнительные параметры доступны в Настройки &gt; Уведомления и центр управления</string>
-    <string name="miui_snooze_user_set_success">Применено. Дополнительные параметры доступны в Настройки &gt; Уведомления и центр управления</string>
-    <string name="miui_unimportant_notifications">Неважные уведомления</string>
+    <string name="miui_snooze_user_set_fail">Дополнительные параметры доступны в настройках</string>
+    <string name="miui_snooze_user_set_success">Применено. Дополнительные параметры доступны в настройках</string>
+    <string name="miui_unimportant_notifications">Предыдущие уведомления</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH

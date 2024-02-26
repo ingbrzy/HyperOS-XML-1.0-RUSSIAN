@@ -68,7 +68,7 @@
     <string name="app_name">Установщик пакетов</string>
     <string name="app_not_found_dlg_text">Приложение не найдено в списке установленных приложений.</string>
     <string name="app_not_found_dlg_title">Приложение не найдено</string>
-    <string name="app_store_has_safe_version">Загрузите безопасную версию из GetApps</string>
+    <string name="app_store_has_safe_version">Загрузите безопасную версию из надёжного источника</string>
     <string name="app_version_format">Версия: %1$s</string>
     <string name="auth_type_face">Лицо</string>
     <string name="auth_type_finger">Отпечаток</string>
@@ -239,7 +239,7 @@
     <string name="general_mode_setting_subtitle">Защита от небезопасных приложений и сохранение приватности</string>
     <string name="general_mode_subtitle">Защита от небезопасных приложений и сохранение приватности</string>
     <string name="general_mode_title">Общая защита</string>
-    <string name="get_the_app_through_mi_app_store">Загрузите безопасные версии с GetApps</string>
+    <string name="get_the_app_through_mi_app_store">Загрузите безопасные версии из надёжного источника</string>
     <string name="give_up">Отмена</string>
     <string name="gold_mi_prize">Золотая награда Mi</string>
     <string name="google_application_id" />
@@ -248,24 +248,24 @@
     <string name="ignore_virus_install_text_clickable">Установить</string>
     <string name="install_abi_error">Приложение не совместимо с 32-разрядной архитектурой</string>
     <string name="install_abi_error_des">Установите 32-разрядную версию этого приложения</string>
-    <string name="install_abi_error_des_market">Загрузите 32-разрядную версию этого приложения из GetApps</string>
+    <string name="install_abi_error_des_market">Загрузите 32-разрядную версию этого приложения из надёжного источника</string>
     <string name="install_app_loading">Проверка APK…</string>
     <string name="install_apps_user_restriction_dlg_text">Этому пользователю запрещена установка приложений</string>
     <string name="install_completed_pure_open_tip_title">Включите Mi Защиту, чтобы заблокировать небезопасные приложения и сохранить приватность</string>
     <string name="install_package_error">Приложение не совместимо с системой</string>
-    <string name="install_package_error_des">Свяжитесь с разработчиком или установите совместимую версию из GetApps</string>
+    <string name="install_package_error_des">Свяжитесь с разработчиком или установите совместимую версию из надёжного источника</string>
     <string name="install_package_error_four">Это приложение небезопасно</string>
     <string name="install_package_error_four_des">Удалите это приложение или запретите ему установку приложений из неизвестных источников</string>
     <string name="install_source">Источник</string>
     <string name="install_source_dialog_safe_title">Установить %1$s?</string>
     <string name="install_source_dialog_safe_title_des">Ваше устройство и личная информация более уязвимы для атак со стороны неизвестных приложений. Устанавливая это приложение, вы понимаете и берёте на себя ответственность за все связанные с ним риски и последствия.</string>
-    <string name="install_source_dialog_tip">Это приложение отмечено пользователями и GetApps как небезопасное и больше не доступно для загрузки. Другие приложения, предоставленные тем же источником или разработчиком, также могут быть небезопасными.</string>
+    <string name="install_source_dialog_tip">Это приложение отмечено пользователями как небезопасное и больше не доступно для загрузки. Другие приложения, предоставленные тем же источником или разработчиком, также могут быть небезопасными.</string>
     <string name="install_source_no_credible">Ненадёжный источник</string>
     <string name="install_unknow_source">Установка из неизвестного источника</string>
     <string name="install_version">Версия: %1$s</string>
     <string name="install_version_replace">Версия: %1$s > %2$s</string>
     <string name="isntall_failed_verification">Не удалось проверить APK. Приложение может быть несовместимо с текущей версией Android.</string>
-    <string name="isntall_failed_verification_resolve_uggestion">Попробуйте найти замену этому приложению в GetApps</string>
+    <string name="isntall_failed_verification_resolve_uggestion">Найдите замену для этого приложения</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="learn_bundle_app_install">Подробнее</string>
     <string name="learn_more">Подробнее</string>
@@ -286,8 +286,8 @@
     <string name="material_hour_suffix">"%1$s ч."</string>
     <string name="material_minute_selection">Минуты</string>
     <string name="material_minute_suffix">%1$s мин.</string>
-    <string name="material_slider_range_end">Конец диапазона,</string>
-    <string name="material_slider_range_start">Начало диапазона,</string>
+    <string name="material_slider_range_end">Конец диапазона</string>
+    <string name="material_slider_range_start">Начало диапазона</string>
     <string name="material_slider_value">Значение</string>
     <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Ввод времени в режиме часов</string>
@@ -323,10 +323,10 @@
     <string name="miui_failed_solution_4">Освободите место с помощью приложения Безопасность и повторите попытку.</string>
     <string name="miui_failed_solution_5">Загрузите совместимый установочный APK</string>
     <string name="miui_failed_solution_6">Удалите приложение и установите его снова</string>
-    <string name="miui_failed_solution_7">Загрузите последнюю версию приложения из GetApps</string>
+    <string name="miui_failed_solution_7">Загрузите последнюю версию приложения из надёжного источника</string>
     <string name="miui_failed_solution_8">Загрузите приложение из надёжного источника</string>
     <string name="miui_failed_solution_retry_later">Повторите позже</string>
-    <string name="miui_failed_solution_to_market">Установите это приложение из GetApps</string>
+    <string name="miui_failed_solution_to_market">Установите это приложение из надёжного источника</string>
     <string name="miui_failed_system_incompatible">Несовместимый установочный APK</string>
     <string name="miui_failed_update_incompatible">Конфликт подписей приложений</string>
     <string name="miui_failed_version_downgrade">Не удалось понизить версию приложения</string>
@@ -458,7 +458,7 @@
     <string name="net_work_error_msg">Не удалось подключиться к сети для запуска проверки безопасности</string>
     <string name="net_work_error_retry">Повтор</string>
     <string name="night">Вечер</string>
-    <string name="no_install_because_32bit">Установите 64-битную версию этого приложения из надежного источника.</string>
+    <string name="no_install_because_32bit">Установите 64-битную версию этого приложения из надёжного источника.</string>
     <string name="no_install_permission_tip">%1$s не имеет разрешения на установку</string>
     <string name="no_set_lock_screen_tip">Перед выбором этого метода авторизации включите защиту устройства и добавьте отпечаток пальца</string>
     <string name="noon">Полдень</string>
@@ -860,10 +860,10 @@
     <string name="service_mode_advantage_risk_app_remind_tip">"Включите предупреждение
 о подозрительной активности"</string>
     <string name="service_mode_advantage_risk_app_remind_title">Предупреждение о рисках</string>
-    <string name="service_mode_advantage_risk_app_safe_subtitle">Mi Защита будет уведомлять о приложениях, полученных из ненадежных источников</string>
+    <string name="service_mode_advantage_risk_app_safe_subtitle">Mi Защита будет уведомлять о приложениях, полученных из ненадёжных источников</string>
     <string name="service_mode_advantage_risk_app_safe_tip">"Проверьте источник
 приложения"</string>
-    <string name="service_mode_advantage_risk_app_safe_title">Предупреждение о ненадежных источниках</string>
+    <string name="service_mode_advantage_risk_app_safe_title">Предупреждение о ненадёжных источниках</string>
     <string name="service_mode_advantage_start">Включить Mi Защиту</string>
     <string name="service_mode_advantage_subtitle">С Mi Защитой вы можете с уверенностью загружать и использовать приложения. Ваши безопасность и приватность - наш главный приоритет.</string>
     <string name="service_mode_advantage_telecom_fraud_protection_subtitle">Распознавание и перехват мошеннических звонков или сообщений и предотвращение мошеннических переводов</string>

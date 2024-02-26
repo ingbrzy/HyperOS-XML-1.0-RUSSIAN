@@ -129,7 +129,7 @@
     <string name="bh_express_number">Номер заказа</string>
     <string name="bh_fetch_balance">Проверить баланс</string>
     <string name="bh_flow_exceed">Превышен предел</string>
-    <string name="bh_funtion_desc">Добро пожаловать в сервисы Mi Carrier! Это приложение можно использовать для проверки баланса, покупки минут, пакетов интернета и т.д. Для нормальной работы приложению требуется подключение к сети.</string>
+    <string name="bh_funtion_desc">Добро пожаловать в сервисы Mi Carrier! Это приложение можно использовать для проверки баланса, покупки минут, пакетов интернета и т.д.</string>
     <string name="bh_gb">" ГБ"</string>
     <string name="bh_get_balance_success">Проверено успешно. Информация может обновляться с задержкой.</string>
     <string name="bh_get_charge_phone_number">Выбрать из контактов</string>

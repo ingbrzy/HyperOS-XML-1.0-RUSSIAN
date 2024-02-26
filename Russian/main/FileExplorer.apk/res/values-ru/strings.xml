@@ -319,7 +319,7 @@
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
-    <string name="ftp_account_req_notice">Имя пользователя и пароль чувствительны к регистру и должны содержать %1$d-%2$d символов. Можно комбинировать английские буквы, специальные символы и цифры.</string>
+    <string name="ftp_account_req_notice">Имя пользователя и пароль чувствительны к регистру и не должны содержать специальные символы, длина от %1$d до %2$d символов.</string>
     <string name="ftp_anonymous_login">Анонимный вход</string>
     <string name="ftp_anonymous_warning_msg">Функции анонимизации могут представлять угрозу безопасности. Продолжить использование?</string>
     <string name="ftp_anonymous_warning_title">Внимание</string>

@@ -59,13 +59,13 @@
     <string name="app_label">Часы</string>
     <string name="app_name">Часы</string>
     <string name="auto_silence_entries1">Никогда</string>
-    <string name="auto_silence_entries2"><xliff id="MINUTES" refersto="1">%d</xliff> мин.</string>
-    <string name="auto_silence_entries3"><xliff id="MINUTES" refersto="5">%d</xliff> мин.</string>
-    <string name="auto_silence_entries4"><xliff id="MINUTES" refersto="10">%d</xliff> мин.</string>
-    <string name="auto_silence_entries5"><xliff id="MINUTES" refersto="15">%d</xliff> мин.</string>
-    <string name="auto_silence_entries6"><xliff id="MINUTES" refersto="20">%d</xliff> мин.</string>
-    <string name="auto_silence_entries7"><xliff id="MINUTES" refersto="25">%d</xliff> мин.</string>
-    <string name="auto_silence_entries8"><xliff id="MINUTES" refersto="30">%d</xliff> мин.</string>
+    <string name="auto_silence_entries2"><xliff refersto="1" id="MINUTES">%d</xliff> мин.</string>
+    <string name="auto_silence_entries3"><xliff refersto="5" id="MINUTES">%d</xliff> мин.</string>
+    <string name="auto_silence_entries4"><xliff refersto="10" id="MINUTES">%d</xliff> мин.</string>
+    <string name="auto_silence_entries5"><xliff refersto="15" id="MINUTES">%d</xliff> мин.</string>
+    <string name="auto_silence_entries6"><xliff refersto="20" id="MINUTES">%d</xliff> мин.</string>
+    <string name="auto_silence_entries7"><xliff refersto="25" id="MINUTES">%d</xliff> мин.</string>
+    <string name="auto_silence_entries8"><xliff refersto="30" id="MINUTES">%d</xliff> мин.</string>
     <string name="auto_silence_summary">Время до автоматического отключения сигнала будильников и таймеров</string>
     <string name="auto_silence_title">Автоотключение сигнала</string>
     <string name="back">Выход</string>
@@ -376,9 +376,9 @@
     <string name="not_set_temporarily">Нет, спасибо</string>
     <string name="not_update">Не сейчас</string>
     <string name="notification_adv_time_entries1">В заданное время</string>
-    <string name="notification_adv_time_entries2">За <xliff id="MINUTES" refersto="15">%d</xliff> мин.</string>
-    <string name="notification_adv_time_entries3">За <xliff id="MINUTES" refersto="30">%d</xliff> мин.</string>
-    <string name="notification_adv_time_entries4">За <xliff id="HOUR" refersto="1">%d</xliff> ч.</string>
+    <string name="notification_adv_time_entries2">За <xliff refersto="15" id="MINUTES">%d</xliff> мин.</string>
+    <string name="notification_adv_time_entries3">За <xliff refersto="30" id="MINUTES">%d</xliff> мин.</string>
+    <string name="notification_adv_time_entries4">За <xliff refersto="1" id="HOUR">%d</xliff> ч.</string>
     <string name="notification_adv_time_entries5">Не уведомлять</string>
     <string name="notification_permission_desc">Вы не сможете отключать будильники в уведомлениях, если не предоставите необходимое разрешение. Предоставить разрешение?</string>
     <string name="notification_permission_dialog_content">Разрешите этому приложению отправку уведомлений, чтобы получать уведомления будильников. Разрешение можно предоставить в Настройках.</string>

@@ -341,10 +341,10 @@
     <string name="pad_pc_mirror_introduction_summary">Трансляция содержимого экрана ПК на планшет</string>
     <string name="pad_pc_mirror_introduction_title">Трансляция экрана</string>
     <string name="pad_pc_share_introduction_summary">Используйте мышь и клавиатуру ПК с этим планшетом</string>
-    <string name="pad_pc_share_introduction_title">Устройства ввода</string>
+    <string name="pad_pc_share_introduction_title">Управление с разных устройств</string>
     <string name="pad_settings_bluetooth_enable_summary">Для поиска устройств поблизости необходимо включить Bluetooth. Включить?</string>
     <string name="pad_settings_bluetooth_enable_title">Включение Bluetooth</string>
-    <string name="pad_settings_click_toast_msg">Подключитесь с помощью Mi Smart Hub на ПК</string>
+    <string name="pad_settings_click_toast_msg">Подключитесь с помощью Xiaomi PC Manager на ПК</string>
     <string name="pad_settings_connect_pad_group">Работа с планшетом</string>
     <string name="pad_settings_connect_pc_group">Работа с ПК</string>
     <string name="pad_settings_current_device_tip">Используйте автоподключение к другим устройствам, связанным с вашим аккаунтом Xiaomi</string>

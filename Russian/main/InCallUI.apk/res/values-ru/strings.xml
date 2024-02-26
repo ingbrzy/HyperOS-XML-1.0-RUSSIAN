@@ -70,7 +70,7 @@
     <string name="call_progress_info_user_busy">Абонен занят. Перезвоните позже.</string>
     <string name="call_progress_info_user_call_rejected">Ваш номер в настоящее время не обслуживается</string>
     <string name="call_record_wait_label">Ожидание</string>
-    <string name="call_recording_deny_permission_msg">Отсутствует разрешение, запись недоступна</string>
+    <string name="call_recording_deny_permission_msg">Запись недоступна. Предоставьте разрешение в настройках.</string>
     <string name="call_recording_error_low_storage">Недостаточно места на накопителе.</string>
     <string name="call_recording_error_privacy">Нельзя записывать вызовы в режиме \"Гость\"</string>
     <string name="call_recording_error_sd_access">Нет доступа к SD-карте</string>

@@ -183,10 +183,7 @@
     <string name="dialog_request_all_permission_title">Предоставьте разрешения</string>
     <string name="dialog_request_network_btn_negative">Выход</string>
     <string name="dialog_request_network_btn_positive">Принимаю</string>
-    <string name="dialog_request_permission_message">"Добро пожаловать в Mi Mover! 
-Это приложение можно использовать для переноса данных со старого устройства на новое. 
-Данные будут передаваться только между двумя устройствами и не будут загружаться на наши серверы. 
-"</string>
+    <string name="dialog_request_permission_message">"Добро пожаловать в Mi Mover! Это приложение можно использовать для переноса данных со старого устройства на новое. Данные будут передаваться только между двумя устройствами и не будут загружаться на наши серверы."</string>
     <string name="dialog_request_permission_message_buttom_content">Разрешите приложению доступ к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
     <string name="dialog_request_permission_message_extra_summary">Эти разрешения необходимы для доступа к основным функциям и службам приложения.</string>
     <string name="dialog_request_permission_message_extra_title">Обязательные разрешения</string>

@@ -129,7 +129,7 @@
     <string name="picker_error_dialog_title">Не удалось воспроизвести видео</string>
     <string name="picker_error_snackbar">Не удается воспроизвести видео.</string>
     <string name="picker_gif">GIF</string>
-    <string name="picker_header_permissions">Выберите фото и видео, к которым у этого приложения будет доступ</string>
+    <string name="picker_header_permissions">Выберите файлы для доступа</string>
     <string name="picker_item_content_desc">%1$s, дата и время съёмки: %2$s</string>
     <string name="picker_motion_photo">Фото с движением</string>
     <string name="picker_motion_photo_text">Фото с движением</string>

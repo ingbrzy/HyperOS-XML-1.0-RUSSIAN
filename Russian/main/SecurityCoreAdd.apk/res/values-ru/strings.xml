@@ -49,7 +49,7 @@
     <string name="airspace_users_full">Не удалось создать рабочее пространство</string>
     <string name="alwaysUsePrompt">Запомнить выбор</string>
     <string name="appData">Приложения</string>
-    <string name="app_name">Ядро системы безопасности</string>
+    <string name="app_name">Плагин системных функций</string>
     <string name="app_switch_key">Недавние</string>
     <string name="application_label">Настройки ввода</string>
     <string name="au_pay">au PAY</string>
@@ -1063,7 +1063,7 @@
     <string name="tof_learn_gesture_operation_success">Готово!</string>
     <string name="tof_learn_gesture_position_tip">Держите руку на расстоянии от %1$d до %2$d см от камеры, выполните жест когда появится значок руки</string>
     <string name="tof_learn_incall_company">Mi Mobile</string>
-    <string name="tof_learn_incall_date">Чтв</string>
+    <string name="tof_learn_incall_date">Чт</string>
     <string name="tof_learn_incall_from">С вашего Xiaomi 13</string>
     <string name="tof_learn_incall_location">Гуанчжоу, Гуандун China Mobile</string>
     <string name="tof_learn_up_gesture_position_tip">Держите руку на расстоянии от %1$d до %2$d см от камеры ладонью вниз, выполните жест когда появится значок руки</string>

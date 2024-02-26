@@ -194,7 +194,7 @@ ID: %s
     <string name="facebook_login_btn_content_description">Войти с помощью Facebook</string>
     <string name="failed_to_fetch_fql">Не удалось получить информацию FAQ, проверьте подключение к сети</string>
     <string name="feedback_account_inconsistent_login_hint">Сейчас активен другой аккаунт. Войдите в свой предыдущий аккаунт Xiaomi.</string>
-    <string name="feedback_account_login_hint">Войдите в свой аккаунт Xiaomi</string>
+    <string name="feedback_account_login_hint">Войдите в аккаунт Xiaomi</string>
     <string name="feedback_answer_detail_feedback_resolved">Да</string>
     <string name="feedback_answer_detail_feedback_result">Спасибо за обратную связь!</string>
     <string name="feedback_answer_detail_feedback_title">Было ли это полезно?</string>
@@ -350,8 +350,8 @@ ID: %s
     <string name="jump_full_log_dialog_content">Журналы помогут нам быстрее найти и исправить проблему. Создавайте журналы и прикрепляйте их к отзывам.</string>
     <string name="jump_full_log_dialog_title">Создание журнала</string>
     <string name="kr_authorization_agree">Принимаю</string>
-    <string name="kr_authorization_contact">Учётные записи</string>
-    <string name="kr_authorization_contact_desc">Получение информации об аккаунте Xiaomi и проверка учётной записи</string>
+    <string name="kr_authorization_contact">Аккаунт</string>
+    <string name="kr_authorization_contact_desc">Доступ к данным аккаунта Xiaomi и идентификация устройства</string>
     <string name="kr_authorization_exit">Отмена</string>
     <string name="kr_authorization_function">Отправка отзывов и отчётов, просмотр часто задаваемых вопросов</string>
     <string name="kr_authorization_log_protocol">Лог протокола (необязательно)</string>
@@ -764,7 +764,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="reply_option_log_hint">Необязательно</string>
     <string name="reply_select_log_hint">Выберите журнал</string>
     <string name="reply_successful">Ответ успешно отправлен</string>
-    <string name="report_miui">Отправить отчёт</string>
+    <string name="report_miui">Отправить</string>
     <string name="request_agree">Разрешить</string>
     <string name="request_camera_permission_message">"Мы будем защищать вашу личную информацию в соответствии с действующими законами и правилами. Для нормальной работы приложению требуется следующее разрешение:&lt;br>&lt;br>&lt;b>Доступ к камере (для установки фото профиля)&lt;/b>&lt;br>&lt;br>В случае отказа предоставить разрешение, вы не сможете использовать некоторые функции этого приложения, однако основной функционал останется доступен. Ограничить или отозвать разрешение можно в любое время в Настройках."</string>
     <string name="request_cancel">Отмена</string>

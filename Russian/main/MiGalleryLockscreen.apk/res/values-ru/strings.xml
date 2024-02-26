@@ -1041,9 +1041,9 @@ mm"</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
     <string name="understand_band_story">Подробнее</string>
-    <string name="uninstall_introducation_text_desc">Удалив Карусель обоев, вы не сможете получать регулярно обновляемые обои на экран блокировки. Убедитесь, что вы можете обойтись без функций приложения.</string>
+    <string name="uninstall_introducation_text_desc">После удаления Карусели обоев получение обоев высокого качества для экрана блокировки будет недоступно. Убедитесь, что сможете обойтись без функций приложения.</string>
     <string name="uninstall_introduction_text_title">О Карусели обоев</string>
-    <string name="uninstall_warning_text_desc">Удалив Карусель обоев, вы не сможете получать регулярно обновляемые обои на экран блокировки. Но вы можете позже снова загрузить и установить приложение. Удалить приложение?</string>
+    <string name="uninstall_warning_text_desc">После удаления Карусели обоев получение обоев высокого качества для экрана блокировки будет недоступно. Всегда можно позже снова загрузить и установить приложение. Удалить приложение?</string>
     <string name="uninstall_warning_text_title">Удаление</string>
     <string name="user_ac_click_to_login">Нажмите для входа</string>
     <string name="user_ac_not_login">Вход</string>

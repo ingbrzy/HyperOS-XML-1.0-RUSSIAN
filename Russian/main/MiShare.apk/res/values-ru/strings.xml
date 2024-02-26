@@ -117,7 +117,7 @@
     <string name="error_send_file_not_found">Не удалось найти файл. Повторите попытку.</string>
     <string name="error_send_file_service_disabled">Исходящая передача отменена</string>
     <string name="error_send_transfer_error">Не удалось отправить. Повторите попытку.</string>
-    <string name="error_send_transfer_pc_error">Время передачи истекло. Обновите приложение для обмена файлами на вашем ПК и повторите попытку.</string>
+    <string name="error_send_transfer_pc_error">Время передачи истекло. Обновите Xiaomi PC Manager на вашем ПК и повторите попытку.</string>
     <string name="error_slave_wifi_in_use">Mi Share не поддерживает работу при включённом двойном Wi-Fi. Отключите двойной Wi-Fi в настройках и повторите попытку.</string>
     <string name="error_slave_wifi_in_use_china">Mi Share не поддерживает работу при включённом двойном Wi-Fi. Отключите двойной Wi-Fi в настройках и повторите попытку.</string>
     <string name="error_timeout">Время сеанса истекло. Повторите позже.</string>
@@ -438,7 +438,7 @@
     <string name="tips_p2p_support_use5g_china">Для лучших результатов используйте сеть Wi-Fi 5 ГГц</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="to_feedback">Отчёт</string>
-    <string name="toast_auto_close_in_minutes">Mi Share отключится через %d мин.</string>
+    <string name="toast_auto_close_in_minutes">Mi Share автоматически отключится через %d мин.</string>
     <string name="toast_transfering">Передача файлов. Повторите позже.</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>

@@ -535,7 +535,7 @@
     <string name="smartisan_phone">Smartisan</string>
     <string name="softap_notifif_summary">Подключено: %d</string>
     <string name="softap_notifif_title">Точка доступа \"%s\" включена</string>
-    <string name="softap_stat_toast">Точка доступа активна</string>
+    <string name="softap_stat_toast">Точка доступа включена</string>
     <string name="southwestmountain_preview">Горы</string>
     <string name="spaceage">Космическая эра</string>
     <string name="split_screen">Разделение экрана</string>
@@ -675,8 +675,8 @@
     <string name="xiaomi_phone">Xiaomi</string>
     <string name="xspace_head">Клон приложения</string>
     <string name="xspace_resolver_activity_title">Выберите приложение</string>
-    <string name="zone_volume_automatic_change_optimization_text">Рекомендуется пройти послепродажную проверку. Заблокировать кнопки громкости и использовать громкость по умолчанию?</string>
-    <string name="zone_volume_automatic_change_optimization_title">Отклонения в работе кнопок громкости</string>
+    <string name="zone_volume_automatic_change_optimization_text">Обратитесь в службу поддержки для ремонта. Отключить кнопки громкости и установить громкость по умолчанию?</string>
+    <string name="zone_volume_automatic_change_optimization_title">Некорректная работа кнопок громкости</string>
     <string name="zte">ZTE</string>
     <string name="zte_phone">ZTE</string>
 </resources>

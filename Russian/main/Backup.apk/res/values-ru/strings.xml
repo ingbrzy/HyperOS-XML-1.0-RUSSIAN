@@ -554,7 +554,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="new_tab_pc_restore">Восстановление</string>
     <string name="new_task_finished">Готово</string>
     <string name="new_usb_detail_description">"Внимание:
-%1$d. Резервное копирование содержимого на USB-накопитель.
+%1$d. Резервное копирование на USB-накопитель.
 %2$d. Убедитесь, что на USB-накопителе достаточно места."</string>
     <string name="new_usb_disconnect_dialog_message">Подключите USB-накопитель.</string>
     <string name="new_usb_disconnect_dialog_title">Не удалось найти USB-накопитель</string>

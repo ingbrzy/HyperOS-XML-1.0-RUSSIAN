@@ -155,7 +155,7 @@
     <string name="cloud_backup_detail_no_time">Нет резервных копий</string>
     <string name="cloud_backup_detail_state">Использовать расписание</string>
     <string name="cloud_backup_detail_state_summary">Автоматически создавать резервные копии по расписанию при подключении к Wi-Fi</string>
-    <string name="cloud_backup_detail_state_summary_china">Устройство должно быть подключено к Wi-Fi, заряжено и заблокировано</string>
+    <string name="cloud_backup_detail_state_summary_china">Устройство должно быть подключено к Wi-Fi и заряжено до %s, а экран выключен</string>
     <string name="cloud_backup_detail_time">Последняя копия: %1$s</string>
     <string name="cloud_backup_detail_title">Резервное копирование</string>
     <string name="cloud_backup_get_installed_apps_summary">Для резервного копирования и восстановления приложений на устройстве</string>
@@ -436,7 +436,7 @@
     <string name="restore_app_order_retry">Повторите попытку</string>
     <string name="restore_app_order_retry_desc">"Не удалось подключиться к сети.
 Проверьте настройки сети и повторите попытку."</string>
-    <string name="restore_cloud_backup_to_phone">Восстановление данных из облака</string>
+    <string name="restore_cloud_backup_to_phone">Управление облачным бэкапом</string>
     <string name="restore_data_title">Восстановление данных</string>
     <string name="restore_detail_category_app_data">Данные WeChat</string>
     <string name="restore_detail_category_app_data_summary">История чатов, файлы и другие элементы (%s)</string>
@@ -450,18 +450,18 @@
     <string name="restore_failed_reason_app_data_error">Не удалось восстановить данные WeChat</string>
     <string name="restore_failed_reason_disk_space_not_enough">Недостаточно места. Высвободите память.</string>
     <string name="restore_failed_reason_network_error">Ошибка сети. Повторите позже.</string>
-    <string name="restore_file_empty">Нет резервных копий</string>
+    <string name="restore_file_empty">Ничего нет</string>
     <string name="restore_finished_notification_content">Восстановление завершено</string>
     <string name="restore_from_cloud">Восстановление из облачной резервной копии</string>
     <string name="restore_from_mimover">Передача со старого устройства с помощью Mi Mover</string>
-    <string name="restore_from_this_device">Восстановить из этой копии</string>
+    <string name="restore_from_this_device">Восстановить данные</string>
     <string name="restore_header_backup_size">Размер</string>
     <string name="restore_header_msg">Перед восстановлением данных WeChat убедитесь, что приложение не установлено на этом устройстве. Не открывайте и не используйте WeChat во время восстановления.</string>
     <string name="restore_header_title">Общий размер</string>
     <string name="restore_header_title2">Устройства</string>
     <string name="restore_header_title_backup_time">Время</string>
     <string name="restore_home_screen_apps">Восстановление</string>
-    <string name="restore_home_screen_apps_options">Параметры восстановления</string>
+    <string name="restore_home_screen_apps_options">Восстановление данных</string>
     <string name="restore_network_pause">Приостановлено (используется мобильный интернет). Нажмите для возобновления.</string>
     <string name="restore_network_unconnect">%s (ожидание подключения)</string>
     <string name="restore_prepare_item_type_enable">Доступные резервные копии</string>

@@ -42,8 +42,7 @@
     <string name="appcirculate_fragment_circulate_app_content_description">Предпросмотр: %1$s</string>
     <string name="appcirculate_fragment_circulate_device_card_button">Включить</string>
     <string name="appcirculate_fragment_circulate_device_card_subtitle">Помощь</string>
-    <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">"Включите для поиска устройств поблизости
-и воспроизведения на них аудио и видео"</string>
+    <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">Разрешите приложению поиск устройства поблизости, для возможности использования функций управления и Взаимосвязанности</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1">Включение Wi-Fi и Bluetooth</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1_global">Включение Wi-Fi и Bluetooth</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_2">Включение Bluetooth</string>
@@ -271,9 +270,9 @@
     <string name="circulate_headset_error_headset_not_worn_both">Вставьте оба наушника и повторите попытку</string>
     <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Включите Bluetooth на ТВ
 и войдите в аккаунт Xiaomi"</string>
-    <string name="circulate_headset_error_self_upgrade">Не удалось выполнить это действие. Обновите Mi Smart Hub.</string>
+    <string name="circulate_headset_error_self_upgrade">Не удалось выполнить это действие. Обновите приложение.</string>
     <string name="circulate_headset_error_timeout">Таймаут соединения</string>
-    <string name="circulate_headset_error_upgrade">Обновите Mi Smart Hub на целевом устройстве</string>
+    <string name="circulate_headset_error_upgrade">Обновите приложение на целевом устройстве</string>
     <string name="circulate_help_button_content_description">Справка</string>
     <string name="circulate_help_card_subtitle">Просмотр справки</string>
     <string name="circulate_help_card_title">"Не удалось
@@ -688,8 +687,8 @@
     <string name="material_hour_suffix">"%1$s ч."</string>
     <string name="material_minute_selection">Минуты</string>
     <string name="material_minute_suffix">%1$s мин.</string>
-    <string name="material_slider_range_end">Конец диапазона,</string>
-    <string name="material_slider_range_start">Начало диапазона,</string>
+    <string name="material_slider_range_end">Конец диапазона</string>
+    <string name="material_slider_range_start">Начало диапазона</string>
     <string name="material_slider_value">Значение</string>
     <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Ввод времени в режиме часов</string>
@@ -894,13 +893,13 @@
     <string name="paipai_error_dialog_msg">Проверьте настройки сети и повторите попытку</string>
     <string name="paipai_error_dialog_negative">Понятно</string>
     <string name="password_toggle_content_description">Показать пароль</string>
-    <string name="path_setting_cast">Подключения/Трансляция</string>
-    <string name="path_setting_cast_demo">Подключения/Трансляция/Демонстрация</string>
-    <string name="path_setting_cast_demo_document">Подключения/Трансляция/Демонстрация/Документы</string>
-    <string name="path_setting_cast_demo_gallery">Подключения/Трансляция/Демонстрация/Фото и видео</string>
-    <string name="path_setting_cast_demo_game">Подключения/Трансляция/Демонстрация/Игры</string>
-    <string name="path_setting_cast_feature">Подключения/Трансляция/Специальные функции</string>
-    <string name="path_setting_cast_help">Подключения/Трансляция/Помощь</string>
+    <string name="path_setting_cast">Прочие подключения/Трансляция</string>
+    <string name="path_setting_cast_demo">Прочие подключения/Трансляция/Демонстрация</string>
+    <string name="path_setting_cast_demo_document">Прочие подключения/Трансляция/Демонстрация/Документы</string>
+    <string name="path_setting_cast_demo_gallery">Прочие подключения/Трансляция/Демонстрация/Фото и видео</string>
+    <string name="path_setting_cast_demo_game">Прочие подключения/Трансляция/Демонстрация/Игры</string>
+    <string name="path_setting_cast_feature">Прочие подключения/Трансляция/Специальные функции</string>
+    <string name="path_setting_cast_help">Прочие подключения/Трансляция/Помощь</string>
     <string name="permission_allowed">Предоставлено</string>
     <string name="permission_uballowed">Не предоставлено</string>
     <string name="pre_privacy_setting_title">Конфиденциальность</string>
