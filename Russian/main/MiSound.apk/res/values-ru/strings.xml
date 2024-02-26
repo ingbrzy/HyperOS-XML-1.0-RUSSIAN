@@ -90,7 +90,7 @@
     <string name="effect_3dsurround_summary">Усиление глубины звука для наушников и динамиков</string>
     <string name="effect_3dsurround_summary_headphone">Усиление глубины звука для наушников</string>
     <string name="effect_dolby">Dolby</string>
-    <string name="effect_misound">Misound</string>
+    <string name="effect_misound">Xiaomi Sound</string>
     <string name="effect_none">По умолчанию</string>
     <string name="effect_selection">Звуковые эффекты</string>
     <string name="effect_selection_headset">Эффекты наушников</string>
@@ -196,7 +196,7 @@
     <string name="material_timepicker_select_time">Установите время</string>
     <string name="material_timepicker_text_input_mode_description">Ввод времени в текстовом режиме</string>
     <string name="midnight">Ночь</string>
-    <string name="misound_effect_setting">Mi Sound</string>
+    <string name="misound_effect_setting">Xiaomi Sound</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
@@ -389,8 +389,8 @@
     <string name="music_headset_settings">Звуковые эффекты</string>
     <string name="music_hifi_summary">Уменьшение шума и искажений и повышение качества звука</string>
     <string name="music_hifi_title">Hi-Fi аудио</string>
-    <string name="music_mi_effect_summary">Использовать усилитель Mi Sound при прослушивании через наушники</string>
-    <string name="music_mi_effect_title">Усилитель звука Mi Sound</string>
+    <string name="music_mi_effect_summary">Использовать усилитель Xiaomi Sound при прослушивании через наушники</string>
+    <string name="music_mi_effect_title">Усилитель Xiaomi Sound</string>
     <string name="music_open_customized_sound_summary">Настройка громкости в соответствии с вашим слуховым восприятием</string>
     <string name="music_open_customized_sound_title">Регулировка громкости</string>
     <string name="music_please_input_head_set">Подключите наушники</string>

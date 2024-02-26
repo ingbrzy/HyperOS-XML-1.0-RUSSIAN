@@ -8037,7 +8037,7 @@ OTG отключается автоматически через 10 минут �
     <string name="search_music_headset_calibrate">Калибровка кнопок;кнопки</string>
     <string name="search_music_headset_mode_settings">Функция кнопок;кнопки гарнитуры</string>
     <string name="search_music_headset_settings">Наушники и звуковые эффекты;Наушники и звуковые эффекты;Наушники;Наушники;Звуковые эффекты</string>
-    <string name="search_music_mi_effect_title">Улучшение звука Mi;улучшить звук</string>
+    <string name="search_music_mi_effect_title">Усилитель Xiaomi Sound;улучшить звук;улучшение звука</string>
     <string name="search_my_device">Устройство;О телефоне;Мой телефон;Моё устройство;Телефон;Устройство</string>
     <string name="search_networks_title">Мобильные сети;Оператор;Мобильный оператор</string>
     <string name="search_nfc_quick_toggle_title">NFC</string>
