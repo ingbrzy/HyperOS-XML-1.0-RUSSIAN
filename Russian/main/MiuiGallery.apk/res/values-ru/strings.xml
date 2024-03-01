@@ -2031,6 +2031,7 @@ ID: %s
     <string name="permission_custom_cta_network_button_negative">Выход</string>
     <string name="permission_custom_cta_network_button_positive">Принимаю</string>
     <string name="permission_custom_cta_network_title">Внимание</string>
+    <string name="permission_location">Геолокация</string>
     <string name="permission_location_desc">Для отображения фото и видео на карте</string>
     <string name="permission_optional_category">Необязательные разрешения</string>
     <string name="permission_phone_desc">Синхронизация на связанных устройствах недавно удаленных файлов в Xiaomi Cloud</string>
