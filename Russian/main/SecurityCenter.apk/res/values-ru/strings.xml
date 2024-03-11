@@ -1038,7 +1038,7 @@
     <string name="best_warning_dialog_title">Подсказка</string>
     <string name="bg_network_exception_title">Фоновые подключения</string>
     <string name="bh_buy_order_fail_tips_text">Произошла ошибка. Повторите позже.</string>
-    <string name="bh_charge_for_more">Еще</string>
+    <string name="bh_charge_for_more">Ещё</string>
     <string name="bh_charge_record">История покупок</string>
     <string name="bh_charge_traffic">Покупка трафика</string>
     <string name="bh_copy_list_item_tips">Скопировано</string>

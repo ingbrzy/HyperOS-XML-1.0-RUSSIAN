@@ -136,12 +136,12 @@
     <string name="accessibility_focus_face_pos_right_top">Расположено в правом верхнем углу кадра</string>
     <string name="accessibility_focus_face_pos_top">Расположено у верхнего края кадра</string>
     <string name="accessibility_focus_status">Приближение %1$sX</string>
-    <string name="accessibility_foucs_peak">Пиковое значение</string>
+    <string name="accessibility_foucs_peak">Область фокусировки</string>
     <string name="accessibility_front_preview_status">Предпросмотр фронтальной камеры</string>
     <string name="accessibility_hdr">Режим HDR</string>
     <string name="accessibility_hdr_auto">HDR Авто включён</string>
     <string name="accessibility_hdr_live">HDR Live включён</string>
-    <string name="accessibility_hdr_normal">HDR Pro включён</string>
+    <string name="accessibility_hdr_normal">HDR включён</string>
     <string name="accessibility_hdr_off">HDR отключён</string>
     <string name="accessibility_hdr_on">HDR включён</string>
     <string name="accessibility_horizontal_shutter_off">Съёмка в альбомном режиме отключена</string>
@@ -182,7 +182,7 @@
     <string name="accessibility_open">Включено</string>
     <string name="accessibility_pano_moving_left">Переместите устройство влево</string>
     <string name="accessibility_pano_moving_right">Переместите устройство вправо</string>
-    <string name="accessibility_peak">Пик фокуса</string>
+    <string name="accessibility_peak">Область фокусировки</string>
     <string name="accessibility_picturesize_1_1_button">Соотношение сторон один к одному</string>
     <string name="accessibility_picturesize_2_3_button">Соотношение сторон два к трём</string>
     <string name="accessibility_picturesize_3_4_button">Соотношение сторон три к четырем</string>
@@ -397,7 +397,7 @@
     <string name="aperture_auto_title">АВТО</string>
     <string name="aperture_dark_use_small_aperture_tip">Попробуйте диафрагму f/%s в условиях низкой освещенности</string>
     <string name="aperture_invalid_zoomratio_tip">Невозможно настроить диафрагму с текущим коэффициентом масштабирования</string>
-    <string name="aperture_near_range_tip">Невозможно настроить диафрагму при съемке крупным планом</string>
+    <string name="aperture_near_range_tip">Невозможно настроить диафрагму при съёмке крупным планом</string>
     <string name="aperture_no_wide_camera_tip">Диафрагму можно настроить только для основной камеры</string>
     <string name="app_name">Камера</string>
     <string name="audio_focus_exit_button_text">Отключить Аудио фокус</string>
@@ -411,7 +411,7 @@
     <string name="autozoom_landscape_hint">Рекомендуется альбомный режим</string>
     <string name="auxiliary_close_status">Отключить дополнительные эффекты</string>
     <string name="auxiliary_exposure_feedback_status">Проверка экспозиции включена</string>
-    <string name="auxiliary_focus_peak_status">Пик фокуса включён.</string>
+    <string name="auxiliary_focus_peak_status">Выделение области фокусировки включено</string>
     <string name="auxiliary_lens_identifies_weak_light">Вспомогательный объектив распознает слабый свет</string>
     <string name="back_bokeh_use_hint">Держитесь от объекта съёмки в пределах 1.5 метров</string>
     <string name="background">Фон</string>
@@ -558,14 +558,14 @@
     <string name="cine_screen_prompt">Выключить экран через %d мин.</string>
     <string name="cinemaster_cancel">Отмена</string>
     <string name="cinemaster_confirm">Выход</string>
-    <string name="cinemaster_connect_exit_message">Выйти из режима многокамерной съемки?</string>
+    <string name="cinemaster_connect_exit_message">Выйти из режима многокамерной съёмки?</string>
     <string name="cinemaster_connection_prerequisites">Сначала включите Wi-Fi в Центре управления.</string>
     <string name="cinemaster_connection_prerequisites_china">Сначала включите Wi-Fi в Центре управления.</string>
     <string name="cinemaster_description_title">Режим \"Режиссёр\"</string>
-    <string name="cinemaster_guide_content">Подключите телефоны и планшеты к одной сети, чтобы объединить их в единую многокамерную систему. Вы сможете использовать подключенные устройства в качестве камер и мониторов для съемки сцен с разных ракурсов.</string>
-    <string name="cinemaster_guide_content2">Подключите телефоны и планшеты к одной сети, чтобы объединить их в единую многокамерную систему. Вы сможете использовать подключенные устройства в качестве камер и мониторов для съемки сцен с разных ракурсов. Если сетевое окружение не позволяет обеспечить бесперебойную работу каналов монитора, запись всё равно останется стабильной.</string>
+    <string name="cinemaster_guide_content">Подключите телефоны и планшеты к одной сети, чтобы объединить их в единую многокамерную систему. Вы сможете использовать подключенные устройства в качестве камер и мониторов для съёмки сцен с разных ракурсов.</string>
+    <string name="cinemaster_guide_content2">Подключите телефоны и планшеты к одной сети, чтобы объединить их в единую многокамерную систему. Вы сможете использовать подключенные устройства в качестве камер и мониторов для съёмки сцен с разных ракурсов. Если сетевое окружение не позволяет обеспечить бесперебойную работу каналов монитора, запись всё равно останется стабильной.</string>
     <string name="cinemaster_guide_title">Режим \"Режиссёр\"</string>
-    <string name="cinemaster_network_lost">Устройство отключено. Попробуйте подключиться еще раз.</string>
+    <string name="cinemaster_network_lost">Устройство отключено. Попробуйте подключиться ещё раз.</string>
     <string name="cinemaster_no_devices">Камеры не подключены</string>
     <string name="cinemaster_no_devices_monitor">Мониторы не подключены</string>
     <string name="cinemaster_toast_camera_disconnect">Камера %s была отключена от многокамерной системы</string>
@@ -618,7 +618,7 @@
     <string name="color_effect_entry_berry">Ягоды</string>
     <string name="color_effect_entry_bf_70">BF70</string>
     <string name="color_effect_entry_blackgold">Родий</string>
-    <string name="color_effect_entry_blackgold_describe">Этот высококонтрастный фильтр сохраняет только оттенки жёлтого и тёмно-синего. Используйте его для съемки хорошо освещенных улиц ночного города.</string>
+    <string name="color_effect_entry_blackgold_describe">Этот высококонтрастный фильтр сохраняет только оттенки жёлтого и тёмно-синего. Используйте его для съёмки хорошо освещенных улиц ночного города.</string>
     <string name="color_effect_entry_blackice">Чёрный лед</string>
     <string name="color_effect_entry_blackwhite">Ч/Б</string>
     <string name="color_effect_entry_c_50d">C-50D</string>
@@ -742,12 +742,12 @@
     <string name="connect_view_name_camera">Камера</string>
     <string name="connect_view_name_monitor">Монитор</string>
     <string name="connect_view_remote_control">Управление</string>
-    <string name="connect_view_sub_title">Для уменьшения задержки в режиме многокамерной съемки используется большая пропускная способность. Мы рекомендуем подключиться к сети Wi-Fi с частотой %s ГГц с поддержкой стандарта 6 поколения.</string>
+    <string name="connect_view_sub_title">Для уменьшения задержки в режиме многокамерной съёмки используется большая пропускная способность. Мы рекомендуем подключиться к сети Wi-Fi с частотой %s ГГц с поддержкой стандарта 6 поколения.</string>
     <string name="connect_view_sub_title_camera">Подключённые мониторы</string>
     <string name="connect_view_sub_title_monitor">Подключённые камеры</string>
-    <string name="connect_view_sub_title_new">"Для уменьшения задержки в режиме многокамерной съемки используется большая пропускная способность.
+    <string name="connect_view_sub_title_new">"Для уменьшения задержки в режиме многокамерной съёмки используется большая пропускная способность.
 Мы рекомендуем подключиться к сети Wi-Fi с частотой %s ГГц с поддержкой стандарта 6 поколения."</string>
-    <string name="connect_view_sub_title_new2" formatted="false">"Для уменьшения задержки в режиме многокамерной съемки используется большая пропускная способность. 
+    <string name="connect_view_sub_title_new2" formatted="false">"Для уменьшения задержки в режиме многокамерной съёмки используется большая пропускная способность. 
 Мы рекомендуем подключиться к сетям Wi-Fi с частотой %1s ГГц с поддержкой стандарта 6 поколения. 4K %2sFPs не поддерживается."</string>
     <string name="connect_view_title">Многокамерная система</string>
     <string name="connect_view_toast_start_error_camera">Не удалось запустить камеру. Попробуйте ещё раз.</string>
@@ -1075,7 +1075,7 @@
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
-    <string name="friend_exit_dialog_message">Если вы продолжите, устройства будут отключены друг от друга. Завершить сеанс?</string>
+    <string name="friend_exit_dialog_message">Если продолжите, устройства будут отключены друг от друга. Завершить сеанс?</string>
     <string name="friend_exit_dialog_title">Завершить сеанс вспомогательной камеры?</string>
     <string name="friend_mode_cast_inviting">%1$s хочет подключиться к этому устройству</string>
     <string name="friend_mode_description_content">Функция \"Вспомогательная камера\" позволяет двум устройствам, подключенным к одной сети, обмениваться превью в реальном времени, а также делать снимки на одном из них при помощи другого.</string>
@@ -1303,14 +1303,18 @@
     <string name="material_timepicker_select_time">Установите время</string>
     <string name="material_timepicker_text_input_mode_description">Ввод времени в текстовом режиме</string>
     <string name="message_snap_double_confirm">Долгое нажатие кнопки громкости запускает NFC. Заменить эту функцию?</string>
+    <string name="metering_parameter_description_average">Средний замер: учитывает все области изображения и лучше всего подходит для съемки равномерно освещенных сцен.</string>
+    <string name="metering_parameter_description_central">Центровзвешенный замер: в основном учитывается центральная область с учетом усреднения по кадру. Лучше всего подходит для съемки объектов в центре кадра.</string>
+    <string name="metering_parameter_description_central_new">Центровзвешенный замер: фокусируется преимущественно на центральной области кадра. Подходит для снимков с центрированной композицией.</string>
+    <string name="metering_parameter_description_spot">Точечный замер: фокусируется на одной точке и поддерживает разделение точек замера и фокусировки. Подходит для съемки силуэтов и других высококонтрастных сцен.</string>
     <string name="midnight">Ночь</string>
     <string name="mimoji_Glasses_color_accessibility">Цвет очков: %1$s</string>
     <string name="mimoji_Glasses_style_accessibility">Очки: %1$s</string>
     <string name="mimoji_app_name">Весёлая камера</string>
     <string name="mimoji_back">Назад</string>
-    <string name="mimoji_bg_center">Перекрёсток</string>
-    <string name="mimoji_bg_classroom">Класс</string>
-    <string name="mimoji_bg_diagonal">Склон</string>
+    <string name="mimoji_bg_center">Крест-накрест</string>
+    <string name="mimoji_bg_classroom">Аудитория</string>
+    <string name="mimoji_bg_diagonal">Диагональ</string>
     <string name="mimoji_bg_forest">Лес</string>
     <string name="mimoji_bg_garden">Сад</string>
     <string name="mimoji_bg_indoor">Студия</string>
@@ -1322,23 +1326,23 @@
     <string name="mimoji_bg_wall">Дворец</string>
     <string name="mimoji_bg_warm_white">Теплый белый</string>
     <string name="mimoji_bg_water_wave">Волны</string>
-    <string name="mimoji_body_emoticon">Аватар</string>
-    <string name="mimoji_body_horizontal_screen_tips">Аватары в полный рост в альбомной ориентации не поддерживаются</string>
+    <string name="mimoji_body_emoticon">Тело</string>
+    <string name="mimoji_body_horizontal_screen_tips">Аватары в полный рост не поддерживаются в альбомной ориентации</string>
     <string name="mimoji_cancle">Отмена</string>
-    <string name="mimoji_cartoon_angry">Сердитая птица</string>
+    <string name="mimoji_cartoon_angry">Злой</string>
     <string name="mimoji_cartoon_bear">Медведь</string>
     <string name="mimoji_cartoon_cat">Кот</string>
-    <string name="mimoji_cartoon_cat_with_bow">Китти</string>
-    <string name="mimoji_cartoon_expect">Волнение</string>
+    <string name="mimoji_cartoon_cat_with_bow">Котёнок</string>
+    <string name="mimoji_cartoon_expect">Взволнованный</string>
     <string name="mimoji_cartoon_frog">Лягушка</string>
-    <string name="mimoji_cartoon_frog_prince">Принц</string>
+    <string name="mimoji_cartoon_frog_prince">Король-лягушонок</string>
     <string name="mimoji_cartoon_lion">Лев</string>
     <string name="mimoji_cartoon_love">Сердце</string>
     <string name="mimoji_cartoon_love_you">Любовь</string>
-    <string name="mimoji_cartoon_ok">ОК</string>
-    <string name="mimoji_cartoon_pig">Свинья</string>
+    <string name="mimoji_cartoon_ok">Окей</string>
+    <string name="mimoji_cartoon_pig">Поросёнок</string>
     <string name="mimoji_cartoon_rabbit">Кролик</string>
-    <string name="mimoji_cartoon_rabbit_mechanical">Робот-кролик</string>
+    <string name="mimoji_cartoon_rabbit_mechanical">Кролик-робот</string>
     <string name="mimoji_cartoon_sadness">Печаль</string>
     <string name="mimoji_check_beyond_20_degrees">Смотрите прямо в камеру</string>
     <string name="mimoji_check_face_occlusion">Не загораживайте лицо</string>
@@ -1354,9 +1358,9 @@
     <string name="mimoji_cloth_trousers">Низ</string>
     <string name="mimoji_cloth_upper">Верх</string>
     <string name="mimoji_confirm">ОК</string>
-    <string name="mimoji_create_emoticon">Создать стикеры</string>
-    <string name="mimoji_create_emoticon_error">Ошибка создания стикеров</string>
-    <string name="mimoji_create_emoticon_progress">Создание…</string>
+    <string name="mimoji_create_emoticon">Создать набор стикеров</string>
+    <string name="mimoji_create_emoticon_error">Ошибка создания набора стикеров</string>
+    <string name="mimoji_create_emoticon_progress">Создание набора стикеров…</string>
     <string name="mimoji_create_tips">Смотрите прямо в камеру</string>
     <string name="mimoji_custom_image">Пользовательский аватар</string>
     <string name="mimoji_delete">Удалить</string>
@@ -1398,7 +1402,7 @@
     <string name="mimoji_emoticon_ok_head_accessibility">Выражение лица: Согласие</string>
     <string name="mimoji_emoticon_ok_human_accessibility">Язык тела: Согласие</string>
     <string name="mimoji_emoticon_sad_head_accessibility">Выражение лица: Печаль</string>
-    <string name="mimoji_emoticon_save">Сохранить стикеры</string>
+    <string name="mimoji_emoticon_save">Сохранить набор стикеров</string>
     <string name="mimoji_emoticon_with_jpeg_save">Сохранить также изображения</string>
     <string name="mimoji_eye">Глаза</string>
     <string name="mimoji_eye_shape">Форма глаз</string>
@@ -1709,15 +1713,15 @@
     <string name="parameter_manual_picturestyle_description_new">Используйте тональную коррекцию, чтобы повысить или понизить контрастность и сделать изображение более многослойным. Экспериментируйте с различными оттенками, чтобы сделать фото более теплыми или холодными. Выберите, хотите ли вы получить более чёткие детали или снизить резкость для более мягкого восприятия.</string>
     <string name="parameter_metering_description">Средний замер учитывает все области вашего изображения, работая лучше всего для равномерно освещенных сцен. Центровзвешенный замер в основном фокусируется на центральной области кадра и учитывает яркость окружающей области, которая подходит для съёмки объектов в центре кадра. Точечный замер охватывает область только в одном месте, обеспечивая точный контроль над экспозицией.</string>
     <string name="parameter_metering_title">Режимы замера</string>
-    <string name="parameter_peak_focus_description">При ручной фокусировке используйте функцию \"Пик фокуса\" для выделения красным цветом области фокусировки.</string>
-    <string name="parameter_peak_focus_description_v2">При ручной фокусировке используйте функцию \"Пик фокуса\" для выделения зеленым цветом области фокусировки.</string>
-    <string name="parameter_peak_focus_title">Пик фокуса</string>
-    <string name="parameter_peak_raw_description">Съемка в данном формате позволяет сохранить все данные об изображении, полученные фотоматрицей. Это даст вам дополнительные возможности на этапе постобработки.</string>
-    <string name="parameter_peak_raw_description_mm">Съемка в формате RAW позволяет сохранять несжатые данные и предоставляет больше возможностей для редактирования.</string>
+    <string name="parameter_peak_focus_description">При ручной фокусировке область, которая находится в фокусе, будет выделена красным цветом</string>
+    <string name="parameter_peak_focus_description_v2">Используйте выделение области фокусировки, чтобы при ручной фокусировке наиболее резкие участки в кадре выделялись зеленым цветом</string>
+    <string name="parameter_peak_focus_title">Выделение области фокусировки</string>
+    <string name="parameter_peak_raw_description">Съёмка в данном формате позволяет сохранить все данные об изображении, полученные фотоматрицей. Это даст вам дополнительные возможности на этапе постобработки.</string>
+    <string name="parameter_peak_raw_description_mm">Съёмка в формате RAW позволяет сохранять несжатые данные и предоставляет больше возможностей для редактирования.</string>
     <string name="parameter_peak_raw_title">Формат RAW</string>
     <string name="parameter_peak_raw_title_mm">Формат</string>
-    <string name="parameter_peak_ultra_raw_description_mm">"Съемка в формате RAW позволяет сохранять несжатые данные и предоставляет больше возможностей для редактирования снимков.
-При съемке в формате Ultra RAW вы будете получать %d-битное изображение с еще большим количеством информации."</string>
+    <string name="parameter_peak_ultra_raw_description_mm">"Съёмка в формате RAW позволяет сохранять несжатые данные и предоставляет больше возможностей для редактирования снимков.
+При съёмке в формате Ultra RAW вы будете получать %d-битное изображение с ещё большим количеством информации."</string>
     <string name="parameter_videos_title">Киноэффекты</string>
     <string name="parameter_waveform_title">WAVE</string>
     <string name="parameter_wb_description">Помимо предустановок баланса белого (лампа накаливания, дневной свет, флуоресцентный, облачный), можно также установить для баланса белого своё значение в диапазоне %1$d-%2$d Кельвин.</string>
@@ -1821,13 +1825,13 @@
     <string name="pref_camera_auto_hibernation">Съёмка с выключенным экраном</string>
     <string name="pref_camera_auto_hibernation_desc">Выключать экран после %d мин. бездействия для экономии заряда при записи обычного или замедленного видео, при использовании таймлапса или длительной экспозиции</string>
     <string name="pref_camera_auto_hibernation_description">Выключать экран через %d мин. съёмки для экономии заряда</string>
-    <string name="pref_camera_autoexposure_entry_centerweighted">Центровзвешенная</string>
-    <string name="pref_camera_autoexposure_entry_frameaverage">Средний кадр</string>
-    <string name="pref_camera_autoexposure_entry_spotmetering">Точечный замер</string>
-    <string name="pref_camera_autoexposure_title">Автоэкспозиция</string>
+    <string name="pref_camera_autoexposure_entry_centerweighted">Центровзвешенный</string>
+    <string name="pref_camera_autoexposure_entry_frameaverage">Усредненный</string>
+    <string name="pref_camera_autoexposure_entry_spotmetering">Точечный</string>
+    <string name="pref_camera_autoexposure_title">Режим экспозиции</string>
     <string name="pref_camera_auxiliary_close">Откл.</string>
-    <string name="pref_camera_auxiliary_exposure_feedback">Проверка автоэкспозиции</string>
-    <string name="pref_camera_auxiliary_focus_peak">Пик фокуса</string>
+    <string name="pref_camera_auxiliary_exposure_feedback">Проверка экспозиции</string>
+    <string name="pref_camera_auxiliary_focus_peak">Область фокусировки</string>
     <string name="pref_camera_auxiliary_title">Дополнительные настройки</string>
     <string name="pref_camera_beautify_entry_high">Высокий</string>
     <string name="pref_camera_beautify_entry_low">Низкий</string>
@@ -2092,7 +2096,7 @@
     <string name="pref_camera_touchafaec_entry_on">Вкл.</string>
     <string name="pref_camera_track_eye_preferred_description">Следить за взглядом для постоянной фокусировки на глазах, когда в кадре находится один человек.</string>
     <string name="pref_camera_track_eye_preferred_title">Автофокусировка по глазам</string>
-    <string name="pref_camera_track_focus_intro_description">Во время съемки фото или видео с движущимися объектами, эта функция обнаруживает в кадре людей, кошек и собак и автоматически удерживает их в фокусе. Вы также можете дважды коснуться любого объекта, чтобы зафиксировать на нем следящий автофокус.</string>
+    <string name="pref_camera_track_focus_intro_description">Во время съёмки фото или видео с движущимися объектами, эта функция обнаруживает в кадре людей, кошек и собак и автоматически удерживает их в фокусе. Вы также можете дважды коснуться любого объекта, чтобы зафиксировать на нем следящий автофокус.</string>
     <string name="pref_camera_track_focus_intro_goto">Включить</string>
     <string name="pref_camera_track_focus_preferred_description">Следящий автофокус для движущихся людей, кошек и собак, а также ручной выбор объекта для отслеживания при помощи двойного касания.</string>
     <string name="pref_camera_track_focus_preferred_title">Следящий автофокус</string>
@@ -2268,7 +2272,7 @@
     <string name="pref_switch_camera_heic_image_desc">Высокоэффективный формат экономит место в режимах Фото и Ultra HD, но поддерживается не всеми приложениями. Динамические снимки и удаление водяных знаков недоступны.</string>
     <string name="pref_true_colour_video_mode_description">Натуральный цвет</string>
     <string name="pref_true_colour_video_mode_introduction">Потрясающие визуальные эффекты, реалистичные детали и поразительный контраст</string>
-    <string name="pref_true_colour_video_mode_setting_dec">Высочайшая детализация, потрясающая цветопередача и поразительная контрастность при съемке в режимах \"Видео\" и \"Профи\". Функция несовместима со следящим автофокусом и форматом H.264, а также с некоторыми сторонними приложениями.</string>
+    <string name="pref_true_colour_video_mode_setting_dec">Высочайшая детализация, потрясающая цветопередача и поразительная контрастность при съёмке в режимах \"Видео\" и \"Профи\". Функция несовместима со следящим автофокусом и форматом H.264, а также с некоторыми сторонними приложениями.</string>
     <string name="pref_true_colour_video_mode_summary">Запись в формате 1080P и 4K в режимах \"Видео\" и \"Профи\" позволяет запечатлеть реалистичные детали, потрясающие цвета и поразительный контраст (функция может быть несовместима с некоторыми приложениями)</string>
     <string name="pref_true_colour_video_mode_title">Dolby Vision</string>
     <string name="pref_userdefine_watermark_title">Дополнительный текст</string>
@@ -2411,7 +2415,7 @@
     <string name="settings_camera_lens_auto_switch_description">Автоматически переключаться между основным и телеобъективом в зависимости от расстояния и яркости</string>
     <string name="settings_camera_lens_auto_switch_title">Автовыбор объектива</string>
     <string name="settings_camera_near_range_description">Устранение размытия при съёмке плоских объектов на близком расстоянии</string>
-    <string name="settings_camera_near_range_fallback_description">При съемке плоских объектов с близкого расстояния автоматически переключаться на сверхширокоугольный объектив для удаления эффекта боке.</string>
+    <string name="settings_camera_near_range_fallback_description">При съёмке плоских объектов с близкого расстояния автоматически переключаться на сверхширокоугольный объектив для удаления эффекта боке.</string>
     <string name="settings_camera_near_range_fallback_title">Адаптивный макрообъектив</string>
     <string name="settings_camera_near_range_title">Крупный план</string>
     <string name="settings_camera_tele_fallback_description">Автоматически переключаться между основной камерой и телеобъективом в зависимости от расстояния и яркости.</string>
@@ -2502,9 +2506,9 @@
     <string name="street_middle_desc">Фокусное расстояние %1$s м</string>
     <string name="street_near_desc">Фокусное расстояние %1$s м</string>
     <string name="street_preferred_description">Чтобы включить эту функцию, перейдите в раздел \"Настройки\" > \"Запуск камеры\" и выберите \"Сделать фото\"</string>
-    <string name="street_tip_far">Расположите объект съемки в переделах %d м</string>
-    <string name="street_tip_middle">Расположите объект съемки в переделах %d м</string>
-    <string name="street_tip_near">Расположите объект съемки в переделах %1$s м</string>
+    <string name="street_tip_far">Расположите объект съёмки в переделах %d м</string>
+    <string name="street_tip_middle">Расположите объект съёмки в переделах %d м</string>
+    <string name="street_tip_near">Расположите объект съёмки в переделах %1$s м</string>
     <string name="street_top_tip">Глубина резкости: %1$s—%2$s м</string>
     <string name="street_top_tip_infinity">Глубина резкости: %1$s м — %2$s</string>
     <string name="subtitle_network_exception_tips">Не удалось транскрибировать. Сеть недоступна.</string>
@@ -2737,7 +2741,7 @@
     <string name="ultra_wide_open_tip">Сверхширокоугольный режим</string>
     <string name="ultra_wide_open_tip_sat">Сверхширокоугольный 0.6X</string>
     <string name="ultra_wide_recommend_tip_hint">Попробуйте сверхширокоугольный режим</string>
-    <string name="ultra_wide_recommend_tip_hint_sat">Переключиться в режим сверхширокоугольной съемки 0.6X</string>
+    <string name="ultra_wide_recommend_tip_hint_sat">Переключиться в режим сверхширокоугольной съёмки 0.6X</string>
     <string name="unknow_error">Неизвестная ошибка</string>
     <string name="unsupported_microphones_3d_record_tips">Функция \"3D-звук\" не поддерживает внешние микрофоны</string>
     <string name="unsupported_microphones_audio_zoom_tips">Функция \"Аудиозум\" не поддерживает внешние микрофоны</string>
@@ -2817,7 +2821,7 @@
     <string name="video_prompter_adjust_speed">Скорость прокрутки</string>
     <string name="video_prompter_default_txt">"
 Телесуфлёр:
-Используйте для чтения сценария во время видеосъемки.
+Используйте для чтения сценария во время видеосъёмки.
 
 Как работает телесуфлёр:
 Вы можете использовать кнопки ниже для редактирования текста, предпросмотра и других настроек. Чтобы изменить размер плавающего окна, перетащите его за нижние углы. Чтобы переместить окно, перетащите его за верхний край."</string>

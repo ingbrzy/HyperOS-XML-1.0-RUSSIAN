@@ -425,7 +425,7 @@
     <string name="controls_error_failed">Произошла ошибка. Повторите попытку.</string>
     <string name="controls_error_generic">Не удалось получить статус</string>
     <string name="controls_error_removed">Не найдено</string>
-    <string name="controls_error_removed_message">Не удалось получить доступ к %1$s. Проверьте приложение %2$s, чтобы убедиться, что элемент управления все еще доступен и что настройки приложения не изменились.</string>
+    <string name="controls_error_removed_message">Не удалось получить доступ к %1$s. Проверьте приложение %2$s, чтобы убедиться, что элемент управления все ещё доступен и что настройки приложения не изменились.</string>
     <string name="controls_error_removed_title">Управление недоступно</string>
     <string name="controls_error_timeout">Неактивно, проверьте приложение</string>
     <string name="controls_favorite_add_controls">"Добавить виджеты"</string>

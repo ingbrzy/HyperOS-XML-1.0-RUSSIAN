@@ -532,7 +532,7 @@
     <string name="mtrl_timepicker_confirm">ОК</string>
     <string name="mtzgadget_missing_text">Виджет недоступен</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Проведите вверх от нижнего края экрана, затем влево или вправо</string>
-    <string name="navigation_guide_app_quick_switch_summary">Проведите влево или вправо на полосе навигации</string>
+    <string name="navigation_guide_app_quick_switch_summary">Проведите влево или вправо по полосе навигации</string>
     <string name="navigation_guide_app_quick_switch_title">Переход между приложениями</string>
     <string name="navigation_guide_app_summary">Проведите вправо от края экрана в верхней части</string>
     <string name="navigation_guide_app_title">Меню приложения</string>
@@ -763,6 +763,7 @@
     <string name="switch_personal_assistant_app_vault">Лента виджетов</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Нет</string>
+    <string name="switch_personal_assistant_summary">Свайп вправо на рабочем столе для открытия Google Discover</string>
     <string name="switch_screen_button_order">Поменять кнопки местами</string>
     <string name="switch_screen_button_order_desc">Поменять местами \"Назад\" и \"Меню\"</string>
     <string name="system_sdk_disabled_toast">Системный SDK отключён. Включите его.</string>
