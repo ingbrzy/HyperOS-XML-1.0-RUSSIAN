@@ -44,6 +44,7 @@
     <string name="aleady_understand_the_app_is_hight_risk">понимаю, что это приложение может представлять угрозу безопасности.</string>
     <string name="allow_current_install">Разрешить один раз</string>
     <string name="allowed_this_time">Разрешить один раз</string>
+    <string name="already_open_enhance">Расширенная защита включена</string>
     <string name="already_understand_the_risks_market_unknown">Я понимаю, что этот установочный пакет не был проверен на наличие проблем с безопасностью</string>
     <string name="already_understood_bundle_app">Я понимаю риски, связанные с пакетными приложениями</string>
     <string name="anonymous_source_continue">Продолжить</string>
@@ -125,6 +126,7 @@
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="click_tip_toast">Отметьте, чтобы продолжить</string>
     <string name="close">Закрыть</string>
+    <string name="close_enhance_safe_guard">Отключить расширенную защиту</string>
     <string name="close_mi_protect_lockscreen_authorize_cancel">Отмена</string>
     <string name="close_mi_protect_lockscreen_authorize_ok">Продолжить</string>
     <string name="close_mi_protected_second_tip_dialog_cancel">Отмена</string>
@@ -174,7 +176,8 @@
     <string name="dialog_install_source">Источник: %1$s</string>
     <string name="dialog_open_security_mode_on_button_msg">Понятно</string>
     <string name="dialog_security_mode_guide_cancel">Отмена</string>
-    <string name="dialog_security_mode_guide_delete_apps_msg">Вы удалили несколько приложений, которыми никогда не пользовались. Если Вы по ошибке загрузили нежелательные приложения или рекламу, включите Mi Защиту, чтобы запретить приложениям загружать и устанавливать другие приложения без вашего согласия.</string>
+    <string name="dialog_security_mode_guide_child_msg">Включите Mi Защиту для несовершеннолетних, чтобы обеспечить приватность и безопасность</string>
+    <string name="dialog_security_mode_guide_delete_apps_msg">Вы удалили несколько приложений, которыми никогда не пользовались. Если Вы по ошибке загрузили нежелательные приложения или рекламу, включите Mi Защиту, чтобы запретить приложениям загружать и устанавливать другие приложения без вашего ведома.</string>
     <string name="dialog_security_mode_guide_elder_msg">Включите Mi Защиту для пожилых, чтобы обеспечить приватность и безопасность</string>
     <string name="dialog_security_mode_guide_open">Включить</string>
     <string name="dialog_security_mode_guide_title">Включение Mi Защиты</string>
@@ -185,9 +188,23 @@
     <string name="early_morning">Утро</string>
     <string name="elder_mode_setting">Защита пожилых</string>
     <string name="elder_mode_setting_subtitle">Защита от установки опасных приложений и нарушения приватности</string>
-    <string name="elder_mode_subtitle">Защита от установки опасных приложений, нарушения приватности и от мошенничества</string>
+    <string name="elder_mode_subtitle">Защита от установки опасных приложений, мошенничества и нарушения приватности</string>
     <string name="elder_mode_title">Защита пожилых</string>
     <string name="empty_app">Нет приложений</string>
+    <string name="enhance_mode_close_feedback">Спасибо за использование расширенной защиты</string>
+    <string name="enhance_mode_feedback_reason">Почему вы отключаете эту функцию?</string>
+    <string name="enhance_safe_guard_mode_description">Устанавливайте проверенные в GetApps приложения, чтобы защитить устройство от вирусов и вредоносных программ</string>
+    <string name="enhance_safe_guard_title">Включите расширенную защиту, чтобы предотвратить установку опасных приложений</string>
+    <string name="enhance_safe_mode">Расширенная защита</string>
+    <string name="enhance_safe_mode_open_description">Расширенная защита разрешает установку только проверенных в GetApps приложений</string>
+    <string name="enhance_safe_mode_title">Расширенная защита</string>
+    <string name="enhanced_protection_des_1">Расширенная защита - это расширение Mi Защиты, которое обеспечивает дополнительные средства защиты против вирусов и вредоносных программ</string>
+    <string name="enhanced_protection_f_1_demo">1 февраля 2023 года г-н Чэнь установил приложение, с помощью которого несколько раз перевёл деньги мошенникам. В общей сложности г-н Чэнь потерял 78 238 юаней.</string>
+    <string name="enhanced_protection_f_1_des">Без расширенной защиты вредоносные приложения могут обмануть вас</string>
+    <string name="enhanced_protection_f_1_title">Защита от мошенничества</string>
+    <string name="enhanced_protection_f_2_des">При отключённой расширенной защите, вредоносные приложения могут получить доступ к вашей личной информации</string>
+    <string name="enhanced_protection_f_2_title">Защита приватности</string>
+    <string name="enhanced_protection_f_3_title">Стабильность системы</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="error_a11y_label">Ошибка: недопустимо</string>
@@ -232,6 +249,7 @@
     <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
+    <string name="four_automatic_detection">4 автоматизированных теста</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -268,7 +286,9 @@
     <string name="isntall_failed_verification_resolve_uggestion">Найдите замену для этого приложения</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="learn_bundle_app_install">Подробнее</string>
+    <string name="learn_enhance_safe_guard">Подробнее</string>
     <string name="learn_more">Подробнее</string>
+    <string name="let_me_think_again">Продолжить</string>
     <string name="lock_finger">Проверка отпечатка</string>
     <string name="lock_screen_authrioze_subtitle_password">Авторизация с помощью пароля защиты</string>
     <string name="lock_screen_password_authrioze">Проверка пароля защиты</string>
@@ -467,6 +487,8 @@
     <string name="only_get_app_for_mi_store">Загружайте приложения только через GetApps и от проверенных разработчиков</string>
     <string name="only_get_app_for_mi_store_sub">Приложение прошло проверку на безопасность</string>
     <string name="open">Включить</string>
+    <string name="open_and_exit">Включить</string>
+    <string name="open_enhanced_protection">Включить расширенную защиту</string>
     <string name="passed_security_test">Тесты безопасности Xiaomi пройдены</string>
     <string name="passport_access_denied">Доступ запрещён</string>
     <string name="passport_account_crop_user_avatar">Обрезать фото</string>
@@ -702,6 +724,7 @@
     <string name="permission_num">%1$s</string>
     <string name="please_input_install_app_name">Введите название приложения, которое хотите установить</string>
     <string name="please_input_phone_password">Введите пароль защиты устройства</string>
+    <string name="please_input_phone_password_short">Введите пароль защиты</string>
     <string name="pref_ads">Рекомендации</string>
     <string name="pref_key_about_privacy_title">Политика конфиденциальности</string>
     <string name="pref_key_app_appeal">Претензия к приложению</string>
@@ -709,7 +732,9 @@
     <string name="pref_key_shelf_app">Список приложений в GetApps</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="prepare_install">Подготовка к установке…</string>
+    <string name="professional_review">Профессиональные рецензенты</string>
     <string name="prohibit_isntall">Добавить в чёрный список</string>
+    <string name="protect_privacy_and_security">Защита конфиденциальности</string>
     <string name="pure_function_introduction">Функции безопасного режима</string>
     <string name="pure_guarding">Включено</string>
     <string name="pure_introduction_des1">Проверка перед установкой приложений из неизвестных источников на безопасность</string>
@@ -943,6 +968,7 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="sure_close_enhance_safe_guard">Отключить расширенную защиту?</string>
     <string name="sure_install">Установить приложение?</string>
     <string name="sure_ok">Понятно</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
@@ -1031,16 +1057,19 @@
     <string name="unrecorded_app_tips_des_1_clickable_default">О политике размещения приложений</string>
     <string name="unrecorded_app_tips_des_1_default">Приложения без необходимой информации о соответствии, могут представлять угрозу безопасности. Это приложение не было проверено Xiaomi. Загружайте его с осторожностью. Ознакомьтесь с политикой размещения приложений.</string>
     <string name="unrecorded_app_tips_des_2_clickable_default">Апелляция</string>
-    <string name="unrecorded_app_tips_des_2_default">Если вы разработчик и уже предоставили листинг этого приложения регулирующим органам, можете подать апелляцию</string>
-    <string name="unrecorded_app_tips_title_default">Не удалось найти листинг приложения</string>
+    <string name="unrecorded_app_tips_des_2_default">Если вы разработчик и уже предоставили информацию о приложении регулирующим органам, можете подать апелляцию</string>
+    <string name="unrecorded_app_tips_title_default">Информация о приложении не найдена</string>
     <string name="unrecorded_risk_app">Найдены угрозы</string>
     <string name="unrecorded_risk_app_description">Установка этого приложения запрещена в соответствии с нормативными требованиями</string>
     <string name="unrecorded_risk_app_description_2">Как разработчик, вы можете подать апелляцию</string>
+    <string name="unrecorded_risk_app_description_temp">Разработчик не предоставил информацию о приложении регулирующим органам. Вы не сможете связаться с разработчиком, если ваши интересы будут нарушены.</string>
     <string name="untrusted_external_source_title">Разрешить \"%1$s\" установку?</string>
     <string name="untrusted_external_source_warning_summary">Устройство и личные данные могут быть уязвимы для атак приложений, установленных из неизвестных источников. Разрешая установку приложения из этого источника, вы принимаете на себя ответственность за любой ущерб или потерю данных, которые возможны при его использовании.</string>
     <string name="update_start">Обновить</string>
     <string name="uri_no_permission">Не удается прочитать файл, разрешение отсутствует</string>
     <string name="user_is_not_allowed_dlg_text">У текущего пользователя отсутствует разрешение на удаление</string>
+    <string name="using_enhanced_protection">"Включите расширенную защиту 
+на своём устройстве"</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="verification_word">Проверить</string>

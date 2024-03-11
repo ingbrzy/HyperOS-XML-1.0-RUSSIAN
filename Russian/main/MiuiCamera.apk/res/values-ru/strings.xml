@@ -1183,6 +1183,8 @@
     <string name="lighting_pattern_stage">Сцена</string>
     <string name="lighting_phantom">Фантом</string>
     <string name="lighting_rainbow">Радуга</string>
+    <string name="lite_pref_camera_auto_hibernation_desc">При фото- или видеосъёмке экран выключится через %d мин. бездействия</string>
+    <string name="lite_pref_camera_lying_desc">Получать подсказку о направлении, когда устройство находится параллельно земле</string>
     <string name="live_draft_continue">Продолжить</string>
     <string name="live_draft_empty">Ничего нет</string>
     <string name="live_edit_exit_confirm">Остановить</string>
@@ -2538,6 +2540,7 @@
     <string name="super_night_owl_toast">Держите устройство неподвижно</string>
     <string name="super_night_se_tip">Ночной режим</string>
     <string name="super_night_toast">Держите устройство неподвижно во время съёмки</string>
+    <string name="switch_gallery_preview_title_accessibility">Смена превью</string>
     <string name="tap_to_exposure">Нажмите для настройки</string>
     <string name="tap_to_focus">Нажмите для фокусировки</string>
     <string name="text_ai_scene_selector_text_off">КОНТРАЖУР</string>
