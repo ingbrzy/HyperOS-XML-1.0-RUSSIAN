@@ -196,6 +196,8 @@
     <string name="miplay_bluetooth_share_des_text">"Наушники Xiaomi: откройте кейс или нажмите и удерживайте кнопку на кейсе в течение %d сек.
 Другие наушники: перезагрузите наушники в настройках Bluetooth, затем снова подключите их."</string>
     <string name="miplay_bluetooth_share_headphone_pairing">Добавьте наушники для обмена аудио</string>
+    <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Общий доступ прекращён</string>
+    <string name="miplay_bluetooth_share_music_together_btn_content_des">Добавьте наушники для обмена аудио</string>
     <string name="miplay_bluetooth_share_subTitle_text">Обмен аудио с другими</string>
     <string name="miplay_bluetooth_share_title_text">Обмен аудио</string>
     <string name="miplay_detail_divider_title">Телевизоры и колонки</string>

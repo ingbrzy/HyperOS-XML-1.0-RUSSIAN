@@ -345,7 +345,7 @@
     <string name="permgroupdesc_read_media_visual_more">Разрешить %1$s доступ к остальным фото, видео?</string>
     <string name="permgroupdesc_read_media_visual_u">Разрешить %1$s доступ к фото, видео на устройстве?</string>
     <string name="permgroupdesc_recognition">Разрешить %1$s доступ к данным о здоровье и физической активности?</string>
-    <string name="permgroupdesc_sensors">Разрешить %1$s доступ к данным нательных датчиков?</string>
+    <string name="permgroupdesc_sensors">Разрешить %1$s доступ к данным датчиков о состоянии организма?</string>
     <string name="permgroupdesc_sms">Разрешить %1$s просмотр или отправку SMS?</string>
     <string name="permgroupdesc_storage">Разрешить %1$s доступ к файлам на устройстве?</string>
     <string name="permission_group_title_settings_related">Настройки</string>

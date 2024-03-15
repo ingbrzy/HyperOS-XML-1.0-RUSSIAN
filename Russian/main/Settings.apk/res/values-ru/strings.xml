@@ -5018,6 +5018,10 @@ ID: %s
     <string name="load_esim_info">Получение информации eSIM…</string>
     <string name="load_esim_info_error">Не удалось загрузить информацию eSIM. Повторите позже.</string>
     <string name="loading">Подождите…</string>
+    <string name="loading_eid_error_message">Не удалось получить информацию EID. Повторите попытку позже.</string>
+    <string name="loading_eid_error_ok">ОК</string>
+    <string name="loading_eid_error_title">Ошибка</string>
+    <string name="loading_eid_tip">Получение информации EID…</string>
     <string name="loading_injected_setting_summary">Загрузка…</string>
     <string name="local_auto_backup_off">Откл.</string>
     <string name="local_auto_backup_on">Вкл.</string>
@@ -6792,6 +6796,7 @@ ID: %s
     <string name="one_key_migrate_record">Перенести на %1$s</string>
     <string name="one_usercrt">1 сертификат пользователя</string>
     <string name="one_userkey">1 ключ пользователя</string>
+    <string name="onedrive_account">Microsoft OneDrive</string>
     <string name="onehour">30 минут</string>
     <string name="onekey_migrate">Mi Mover</string>
     <string name="open_app_button">%1$s</string>

@@ -128,6 +128,7 @@
     <string name="cannot_send_message_reason">Не указано ни одного получателя.</string>
     <string name="cannot_send_mms">Спутниковая связь не поддерживает MMS</string>
     <string name="carry_current_location">Укажите текущую геопозицию</string>
+    <string name="carry_vital_signs">Добавьте данные о состоянии организма</string>
     <string name="change_duration_activity">Изменить длительность</string>
     <string name="chatbot_list_title">5G Сообщения</string>
     <string name="chatbot_main_title">Мини-приложения</string>
@@ -1270,6 +1271,26 @@
     <string name="video_compressing">Сжатие видео…</string>
     <string name="view">Просмотреть</string>
     <string name="view_message_details">Информация о сообщении</string>
+    <string name="vital_signs_cta_body">"Данные о состоянии организма (ЧСС, уровень SpO₂ и другая информация из медкарты) взяты из Mi Фитнес. Отметка ниже означает ваше согласие на получение и использование нами этих данных.
+Для контроля длины сообщения будут сохранены только первые 50 символов каждой записи медкарты."</string>
+    <string name="vital_signs_cta_title">Состояние организма</string>
+    <string name="vital_signs_data_allergy">Аллергия: %s</string>
+    <string name="vital_signs_data_disease">Хронические заболевания: %s</string>
+    <string name="vital_signs_data_high_bpm">Высокая ЧСС: %1$d–%2$d уд/мин (%3$s–%4$s)</string>
+    <string name="vital_signs_data_high_bpm_multi">Высокая ЧСС неск. раз за прошедший час: %1$d–%2$d уд/мин (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_bpm">Низкая ЧСС: %1$d–%2$d уд/мин (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_bpm_multi">Низкая ЧСС неск. раз за прошедший час: %1$d–%2$d уд/мин (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_spo2">Низкий уровень SpO₂: %1$d%%–%2$d%% (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_spo2_multi">Низкий уровень SpO₂ неск. раз за прошедший час: %1$d%%–%2$d%% (%3$s–%4$s)</string>
+    <string name="vital_signs_data_medical">Лечение: %s</string>
+    <string name="vital_signs_toast_exception">Не удалось получить данные о состоянии организма</string>
+    <string name="vital_signs_toast_health_app_low">Обновите Mi Fitness, чтобы получить данные о состоянии организма</string>
+    <string name="vital_signs_toast_health_app_no_install">Установите Mi Fitness, чтобы получить данные о состоянии организма</string>
+    <string name="vital_signs_toast_no_bpm_spo2">Не удалось получить данные ЧСС и SpO₂</string>
+    <string name="vital_signs_toast_no_data">Не удалось получить данные о состоянии организма</string>
+    <string name="vital_signs_wait_body">Получение данных. Это может занять некоторое время.</string>
+    <string name="vital_signs_wait_skip">Пропустить</string>
+    <string name="vital_signs_wait_title">Данные о состоянии организма</string>
     <string name="voice_report_anytime">Всегда</string>
     <string name="voice_report_off">Откл.</string>
     <string name="voice_report_wiredon">Через наушники</string>
