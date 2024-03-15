@@ -89,4 +89,12 @@
         <item quantity="other">Осталось %s мин. экранного времени</item>
         <item quantity="one">Осталось %s мин. экранного времени</item>
     </plurals>
+    <plurals name="satellite_endurance_hour">
+        <item quantity="other">%s ч.</item>
+        <item quantity="one">%s ч.</item>
+    </plurals>
+    <plurals name="satellite_endurance_minute">
+        <item quantity="other">%s мин.</item>
+        <item quantity="one">%s мин.</item>
+    </plurals>
 </resources>

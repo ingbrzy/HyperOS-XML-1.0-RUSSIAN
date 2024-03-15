@@ -187,8 +187,13 @@
     <string name="friday_shortest">Пт</string>
     <string name="function_not_support">Функция не поддерживается</string>
     <string name="game_booster">Ускорение игр</string>
+    <string name="gamebooster_confirm_dialog_negative_btn">Выход</string>
+    <string name="gamebooster_confirm_dialog_positive_btn">Принимаю</string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>&lt;br>&lt;a href=\"%1$s\">Политика конфиденциальности&lt;/a> Ускорения игр Xunyou</Data></string>
+    <string name="gamebooster_confirm_dialog_title">Примите нашу Политику конфиденциальности</string>
     <string name="gamebooster_dialog_recover">Продлить</string>
     <string name="gamebooster_dialog_start_booster">Начать</string>
+    <string name="gamebooster_dialog_start_booster_new">Начать</string>
     <string name="gamebooster_network_dialog_message">Разрешить приложению Безопасность подключение к сети, чтобы использовать все функции Ускорения игр?</string>
     <string name="gamebooster_network_dialog_message_pad">Разрешить приложению Безопасность подключение к сети, чтобы использовать все функции Ускорения игр?</string>
     <string name="gamebooster_network_dialog_title">Некоторые функции недоступны</string>
@@ -287,6 +292,7 @@
     <string name="gdpr_msg">Чтобы использовать основные функции Безопасности, вы должны согласиться с тем, что Xiaomi будет собирать, обрабатывать и использовать ваши личные данные, включая информацию об используемых функциях (например, статистику использования мобильных данных, информацию о вредоносных программах, а также основную информацию об устройстве) и другие виды информации, указанные в нашей Политике конфиденциальности.</string>
     <string name="gtb_dialog_privacy_speed_message">Вы собираетесь использовать Ускорение игр Xunyou. Служба получит доступ к идентификатору аккаунта Xiaomi для оформления подписки.</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>Я принимаю &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> Ускорения игр Xunyou</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>Я принимаю &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> Ускорения игр Xunyou</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Ускорение игр Xunyou</string>
     <string name="gtb_dialog_privacy_voice_message">Вы собираетесь использовать Xunyou Game Voice Changer. Эта служба получит идентификатор вашей учетной записи Xiaomi для записи продолжительности вашего членства.</string>
     <string name="gtb_dialog_privacy_voice_tips"><Data>Я принимаю &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> Xunyou Game Voice Changer</Data></string>
@@ -430,6 +436,8 @@
     <string name="net_booster_expire_notification">Сессия повышения скорости сети подходит к концу</string>
     <string name="net_booster_overdue_notification">Сессия повышения скорости сети подходит к концу</string>
     <string name="net_booster_overdue_notification_tip">Сессия ускорения сети скоро закончится. Продлить сессию, чтобы избежать сетевых задержек?</string>
+    <string name="net_free_booster_new_user_tip">Получите бесплатный игровой бустер и выиграйте телефон Xiaomi!</string>
+    <string name="net_free_booster_new_user_title">Подарок для нового пользователя</string>
     <string name="net_retry_btn_text">Повтор</string>
     <string name="net_switch_to_owner_space_text">Вернуться в первое пространство</string>
     <string name="net_unavailable_tip">Сеть недоступна, проверьте настройки сети и повторите попытку</string>
@@ -565,6 +573,7 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="super_power_satellite_endurance_time">Можно сделать звонок со спутника за ≈%1$s %2$s</string>
     <string name="superpower_app_add">Добавить</string>
     <string name="superpower_app_contact">Контакты</string>
     <string name="superpower_app_delete">Удалить</string>

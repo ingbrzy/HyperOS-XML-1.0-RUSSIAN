@@ -4659,6 +4659,10 @@ ID: %s
     <string name="interesting_title">Реалистичность</string>
     <string name="internal_auto_rotate_title">Блокировка ориентации внутреннего экрана</string>
     <string name="internal_storage">Внутр. накопитель</string>
+    <string name="international_lyra_account_ap_summary">Разрешить планшетам и ПК поблизости, связанным с вашим аккаунтом, автоматически включать точку доступа на этом устройстве и подключаться к ней</string>
+    <string name="international_lyra_account_ap_title">Сетевая синхронизация</string>
+    <string name="international_lyra_auto_connect_summary">Автоматическое включение точки доступа на этом устройстве и подключение к ней другого устройства без интернета, связанного с вашим аккаунтом</string>
+    <string name="international_lyra_auto_connect_title">Автоподключение к точке доступа</string>
     <string name="internet_connectivity_panel_title">Подключение к интернету</string>
     <string name="invalid_location">Недопустимое место установки.</string>
     <string name="invalid_size_value">Не удалось определить размер пакета.</string>
