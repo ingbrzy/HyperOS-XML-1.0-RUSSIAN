@@ -479,13 +479,14 @@
         <item quantity="one">Загрузка %d оставшегося файла</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">Не удалось загрузить %1$d фото, подключитесь к сети и повторите попытку</item>
-        <item quantity="one">Не удалось загрузить %1$d фото, подключитесь к сети и повторите попытку</item>
+        <item quantity="other">Не удалось загрузить %1$d файлов. Подключитесь к сети и повторите попытку.</item>
+        <item quantity="one">Не удалось загрузить %1$d файл. Подключитесь к сети и повторите попытку.</item>
+        <item quantity="few">Не удалось загрузить %1$d файла. Подключитесь к сети и повторите попытку.</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">Не удалось загрузить %1$d файлов (%2$d МБ), подключитесь к сети и повторите попытку</item>
-        <item quantity="one">Не удалось загрузить %1$d файл (%2$d МБ), подключитесь к сети и повторите попытку</item>
-        <item quantity="few">Не удалось загрузить %1$d файла (%2$d МБ), подключитесь к сети и повторите попытку</item>
+        <item quantity="other">Не удалось загрузить %1$d файлов (%2$d МБ). Подключитесь к сети и повторите попытку.</item>
+        <item quantity="one">Не удалось загрузить %1$d файл (%2$d МБ). Подключитесь к сети и повторите попытку.</item>
+        <item quantity="few">Не удалось загрузить %1$d файла (%2$d МБ). Подключитесь к сети и повторите попытку.</item>
     </plurals>
     <plurals name="picker_origin_need_to_download">
         <item quantity="other">%1$d файлов (%2$d МБ) ещё не загружено. Использовать мобильный интернет?</item>
@@ -493,12 +494,14 @@
         <item quantity="few">%1$d файла (%2$d МБ) ещё не загружено. Использовать мобильный интернет?</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">Не удалось загрузить %1$d фото, повторить?</item>
-        <item quantity="one">Не удалось загрузить %1$d фото, повторить?</item>
+        <item quantity="other">Не удалось загрузить %1$d файлов. Повторить?</item>
+        <item quantity="one">Не удалось загрузить %1$d файл. Повторить?</item>
+        <item quantity="few">Не удалось загрузить %1$d файла. Повторить?</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">Не удалось загрузить %1$d фото (%2$d МБ), повторить?</item>
-        <item quantity="one">Не удалось загрузить %1$d фото (%2$d МБ), повторить?</item>
+        <item quantity="other">Не удалось загрузить %1$d файлов (%2$d МБ). Повторить?</item>
+        <item quantity="one">Не удалось загрузить %1$d файл (%2$d МБ). Повторить?</item>
+        <item quantity="few">Не удалось загрузить %1$d файла (%2$d МБ). Повторить?</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">Пропущено %d фото, которых нет на устройстве.</item>
@@ -739,8 +742,9 @@
         <item quantity="one">%d видео</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">Не выгружено %d фото или видео</item>
-        <item quantity="one">Не выгружено %d фото или видео</item>
+        <item quantity="other">Не синхронизировано %d файлов</item>
+        <item quantity="one">Не синхронизирован %d файл</item>
+        <item quantity="few">Не синхронизировано %d файла</item>
     </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">%d слишком больших файлов</item>
