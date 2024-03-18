@@ -83,7 +83,7 @@
     <string name="device_busy">Устройство занято. Попробуйте позже.</string>
     <string name="device_max_screen_count_toast">Устройство поддерживает открытие только двух окон одновременно</string>
     <string name="display_max_screen_count_toast">В этой версии можно открыть не более двух окон</string>
-    <string name="display_not_support_secondary_toast">Не удается открыть это приложение в новом окне</string>
+    <string name="display_not_support_secondary_toast">Не удаётся открыть это приложение в новом окне</string>
     <string name="download_aborted">Передача не удалась из-за прерванного соединения</string>
     <string name="download_cancel">Отмена</string>
     <string name="download_canceled_title">Отклонено %1$s</string>

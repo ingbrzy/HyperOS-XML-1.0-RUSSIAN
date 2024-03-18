@@ -175,8 +175,8 @@
     <string name="fc_dialog_body">Отправить отчёт об ошибке в Xiaomi? Он может содержать некоторые личные данные. Мы используем отчёты только для анализа и исправления неполадок и не предоставляем их третьим лицам в коммерческих целях.</string>
     <string name="fc_dialog_jump_to_preview">Просмотреть</string>
     <string name="fieldtrip">Экскурсия</string>
-    <string name="file_cannot_print">"Не удается распечатать."</string>
-    <string name="file_cannot_screen_throw">"Не удается транслировать."</string>
+    <string name="file_cannot_print">"Не удаётся распечатать."</string>
+    <string name="file_cannot_screen_throw">"Не удаётся транслировать."</string>
     <string name="file_sending">Передача файлов…</string>
     <string name="fingerprint_double_tap">Двойное касание сканера отпечатков</string>
     <string name="fireflies">Светлячки</string>
@@ -242,7 +242,7 @@
     <string name="harp">Арфа</string>
     <string name="hawaii">Гавайи</string>
     <string name="help">Не можете найти устройство?</string>
-    <string name="help_content">Если не удается найти нужное устройство, попросите включить Mi Share на другом устройстве.</string>
+    <string name="help_content">Если не удаётся найти нужное устройство, попросите включить Mi Share на другом устройстве.</string>
     <string name="high_temperature_brightness_toast">Повышенная яркость экрана может привести к нагреву устройства и быстрому расходу заряда батареи</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>

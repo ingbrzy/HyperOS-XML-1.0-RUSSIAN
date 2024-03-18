@@ -594,7 +594,7 @@
     <string name="exporting_contact_failed_title">Ошибка экспорта</string>
     <string name="exporting_contact_list_message">Экспорт в %s.</string>
     <string name="exporting_contact_list_title">Экспорт данных контакта</string>
-    <string name="exporting_vcard_canceled_title">Экспорт файла %s отменен</string>
+    <string name="exporting_vcard_canceled_title">Экспорт файла %s отменён</string>
     <string name="exporting_vcard_finished_title">Экспорт файла %s завершен</string>
     <string name="external_profile_title">Мой профиль %1$s</string>
     <string name="fail_reason_could_not_initialize_exporter">Ошибка экспорта: %s.</string>
@@ -692,7 +692,7 @@
     <string name="import_vcard_dialog_message">Импортировать vCard?</string>
     <string name="importing_sim_contacts_miui">Импорт контактов с SIM-карты…</string>
     <string name="importing_sim_contacts_miui_prepare">Подготовка контактов…</string>
-    <string name="importing_vcard_canceled_title">Импорт файла %s отменен</string>
+    <string name="importing_vcard_canceled_title">Импорт файла %s отменён</string>
     <string name="importing_vcard_description">Импорт %s</string>
     <string name="importing_vcard_finished_title">Импорт файла %s завершен</string>
     <string name="insertContactDescription">Создать контакт</string>

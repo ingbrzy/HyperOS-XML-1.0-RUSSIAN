@@ -164,7 +164,7 @@
     <string name="guide_title_1">Включите Mi Share на обоих устройствах</string>
     <string name="guide_title_2">Выберите устройство для обмена</string>
     <string name="help">Не удалось найти устройство?</string>
-    <string name="help_content">Если не удается найти нужное устройство, попросите включить Mi Share на этом устройстве.</string>
+    <string name="help_content">Если не удаётся найти нужное устройство, попросите включить Mi Share на этом устройстве.</string>
     <string name="hide">Скрыть</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
@@ -460,7 +460,7 @@
     <string name="unrecognized_manufacture">Неизвестно</string>
     <string name="unrecognized_model">Неизвестное устройство</string>
     <string name="user_instructions">Внимание</string>
-    <string name="uwb_guide_summary_1">Если не удается найти целевое устройство, попросите на этом устройстве нажать кнопку Mi Share в центре управления.</string>
+    <string name="uwb_guide_summary_1">Если не удаётся найти целевое устройство, попросите на этом устройстве нажать кнопку Mi Share в центре управления.</string>
     <string name="uwb_guide_title_1">Попросите включить Mi Share на целевом устройстве</string>
     <string name="uwb_guide_title_2">Целевое устройство можно найти быстрее с помощью Beam</string>
     <string name="uwb_setting_guide">Подробнее</string>

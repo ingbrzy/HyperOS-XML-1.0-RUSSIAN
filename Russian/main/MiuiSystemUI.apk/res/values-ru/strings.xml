@@ -649,7 +649,7 @@
     <string name="fingerprint_re_enroll_dialog_title">"Настройка разблокировки по отпечатку пальца"</string>
     <string name="fingerprint_re_enroll_notification_name">"Разблокировка по отпечатку пальца"</string>
     <string name="fingerprint_re_enroll_notification_title">"Настройте разблокировку по отпечатку пальца заново"</string>
-    <string name="fingerprint_reenroll_failure_dialog_content">"Не удается настроить разблокировку по отпечатку пальца. Перейдите в настройки и повторите попытку."</string>
+    <string name="fingerprint_reenroll_failure_dialog_content">"Не удаётся настроить разблокировку по отпечатку пальца. Перейдите в настройки и повторите попытку."</string>
     <string name="fingerprint_try_again_msg">Отпечаток не распознан, повторите попытку</string>
     <string name="fingerprint_try_again_text">Повторите попытку</string>
     <string name="float_button_text">Плавающее окно</string>
@@ -1084,7 +1084,7 @@
     <string name="media_output_group_title_speakers_and_displays">"Колонки и дисплеи"</string>
     <string name="media_output_group_title_suggested_device">"Рекомендуемые устройства"</string>
     <string name="media_output_status_device_in_low_power_mode">Для воспроизведения выведите устройство из спящего режима</string>
-    <string name="media_output_status_not_support_downloads">Не удается воспроизвести скачанные файлы</string>
+    <string name="media_output_status_not_support_downloads">Не удаётся воспроизвести скачанные файлы</string>
     <string name="media_output_status_require_premium">Для переключения требуется премиум-аккаунт</string>
     <string name="media_output_status_track_unsupported">Невозможно воспроизвести медиафайл</string>
     <string name="media_output_status_try_after_ad">Повторите попытку после просмотра объявления</string>

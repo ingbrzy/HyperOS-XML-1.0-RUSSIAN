@@ -240,7 +240,7 @@
     <string name="headset_device_error_failed">Сбой</string>
     <string name="headset_device_error_multconnect">Обновление недоступно, когда подключено нескольких устройств</string>
     <string name="headset_device_error_no_device">Поместите оба наушника в кейс и держите их заряженными</string>
-    <string name="headset_device_error_single_device">Не удается обновить наушник, выполните повторное сопряжение</string>
+    <string name="headset_device_error_single_device">Не удаётся обновить наушник, выполните повторное сопряжение</string>
     <string name="headset_device_sync">Синхронизация…</string>
     <string name="headset_device_sync_donot_move_device">Не используйте наушники во время синхронизации</string>
     <string name="headset_device_sync_wait_connect">Не используйте наушники во время синхронизации, дождитесь автоподключения по окончанию</string>

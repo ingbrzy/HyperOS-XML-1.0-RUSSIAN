@@ -685,7 +685,7 @@
     <string name="common_google_play_services_install_title">Установите сервисы Google Play</string>
     <string name="common_google_play_services_notification_channel_name">Доступность сервисов Google Play</string>
     <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
-    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удаётся подключиться к сервисам Google Play. Повторите попытку.</string>
     <string name="common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
     <string name="common_google_play_services_update_button">Обновить</string>
     <string name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>

@@ -842,7 +842,7 @@
     <string name="sync_item_sms_title">Синхронизация сообщений</string>
     <string name="sync_item_title">Объекты синхронизации</string>
     <string name="sync_normal_summary">"Некоторые элементы из списка ниже не могут быть синхронизированы"</string>
-    <string name="sync_normal_title">"Не удается завершить синхронизацию"</string>
+    <string name="sync_normal_title">"Не удаётся завершить синхронизацию"</string>
     <string name="sync_off">Откл.</string>
     <string name="sync_off_confirm_content">Вы не сможете синхронизировать новые пароли после отключения Менеджера паролей.</string>
     <string name="sync_off_confirm_title">Внимание</string>

@@ -83,7 +83,7 @@
     <string name="doc_photo_idcard_portrait">Лицевая сторона</string>
     <string name="doc_photo_no_remind">Больше не показывать</string>
     <string name="doc_photo_not_save">Не сохранять</string>
-    <string name="doc_photo_not_support">Не удается отредактировать изображение как документ</string>
+    <string name="doc_photo_not_support">Не удаётся отредактировать изображение как документ</string>
     <string name="doc_photo_remind">Внимание</string>
     <string name="doc_photo_save_effect_toast">Сохранить изменения?</string>
     <string name="doc_photo_toast_undistortion_close">Коррекция отключена</string>

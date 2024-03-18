@@ -118,7 +118,7 @@
     <string name="conference_call_recorder_title">Конференц-вызов</string>
     <string name="conference_call_single_description" formatted="false">%s и др. (всего %s)</string>
     <string name="conference_caller_info_name">Конференц-вызов пользователя %1$s</string>
-    <string name="conference_callers_exceeded">Не удается добавить участников</string>
+    <string name="conference_callers_exceeded">Не удаётся добавить участников</string>
     <string name="contacts_icon_label">Контакты</string>
     <string name="crbt_second_hold_prompt">%s ждет ответа…</string>
     <string name="crbt_second_hold_prompt_conference">Конференц-вызов ждет ответа…</string>

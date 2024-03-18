@@ -186,7 +186,7 @@
     <string name="bluetooth_pairing_accept">Добавить</string>
     <string name="bluetooth_pairing_accept_all_caps">ДОБАВИТЬ</string>
     <string name="bluetooth_pairing_decline">Отмена</string>
-    <string name="bluetooth_pairing_device_down_error_message">Не удается установить соединение с устройством \"%1$s\".</string>
+    <string name="bluetooth_pairing_device_down_error_message">Не удаётся установить соединение с устройством \"%1$s\".</string>
     <string name="bluetooth_pairing_error_message">Не удалось установить сопряжение с устройством \"%1$s\".</string>
     <string name="bluetooth_pairing_pin_error_message">Не удалось установить сопряжение с устройством \"%1$s\", так как введен неверный PIN-код или пароль.</string>
     <string name="bluetooth_pairing_rejected_error_message">%1$s не разрешает сопряжение.</string>
@@ -488,7 +488,7 @@
     <string name="material_timepicker_text_input_mode_description">Ввод времени в текстовом режиме</string>
     <string name="media_category">Мультимедиа</string>
     <string name="media_output_status_device_in_low_power_mode">Для воспроизведения выведите устройство из спящего режима</string>
-    <string name="media_output_status_not_support_downloads">Не удается воспроизвести скачанные файлы</string>
+    <string name="media_output_status_not_support_downloads">Не удаётся воспроизвести скачанные файлы</string>
     <string name="media_output_status_require_premium">Для переключения требуется премиум-аккаунт</string>
     <string name="media_output_status_track_unsupported">Невозможно воспроизвести медиафайл</string>
     <string name="media_output_status_try_after_ad">Повторите попытку после просмотра объявления</string>

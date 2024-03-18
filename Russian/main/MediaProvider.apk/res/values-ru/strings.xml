@@ -127,7 +127,7 @@
     <string name="picker_error_dialog_body">Проверьте подключение к интернету и повторите попытку</string>
     <string name="picker_error_dialog_positive_action">Повтор</string>
     <string name="picker_error_dialog_title">Не удалось воспроизвести видео</string>
-    <string name="picker_error_snackbar">Не удается воспроизвести видео.</string>
+    <string name="picker_error_snackbar">Не удаётся воспроизвести видео.</string>
     <string name="picker_gif">GIF</string>
     <string name="picker_header_permissions">Выберите файлы для доступа</string>
     <string name="picker_item_content_desc">%1$s, дата и время съёмки: %2$s</string>

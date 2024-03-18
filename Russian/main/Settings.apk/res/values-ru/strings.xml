@@ -921,7 +921,7 @@
     <string name="audio_share_cancel">Отмена</string>
     <string name="audio_share_confirm">Передать</string>
     <string name="audio_synced">Аудио синхронизировано</string>
-    <string name="auracast_scan_not_support">Не подключены совместимые наушники. Не удается найти трансляции поблизости.</string>
+    <string name="auracast_scan_not_support">Не подключены совместимые наушники. Не удаётся найти трансляции поблизости.</string>
     <string name="auto_adjst_effect_summary">Автоматическая регулировка цветового тона под окружающее освещение</string>
     <string name="auto_adjust_effect_title">Авторегулировка тона</string>
     <string name="auto_anc_closed">Откл.</string>
@@ -1334,8 +1334,8 @@
     <string name="biometric_settings_hand_back_to_guardian_ok">ОК</string>
     <string name="biometric_settings_intro">Если вы настроили разблокировку по лицу и отпечатком, устройство будет предлагать использовать отпечаток, когда вы в маске или темно</string>
     <string name="biometric_settings_intro_with_activeunlock">"Если вы настроили разблокировку по лицу и отпечатком, устройство будет предлагать использовать отпечаток, когда вы в маске или вокруг вас темно.\n\nВы можете снимать блокировку с помощью часов, когда у системы не получается распознать ваше лицо или отпечаток пальца."</string>
-    <string name="biometric_settings_intro_with_face">"Вы можете снимать блокировку с помощью часов, когда системе не удается распознать ваше лицо."</string>
-    <string name="biometric_settings_intro_with_fingerprint">"Вы можете снимать блокировку с помощью часов, когда системе не удается распознать ваш отпечаток."</string>
+    <string name="biometric_settings_intro_with_face">"Вы можете снимать блокировку с помощью часов, когда системе не удаётся распознать ваше лицо."</string>
+    <string name="biometric_settings_intro_with_fingerprint">"Вы можете снимать блокировку с помощью часов, когда системе не удаётся распознать ваш отпечаток."</string>
     <string name="biometric_settings_use_biometric_for_apps">Аутентификация в приложениях</string>
     <string name="biometric_settings_use_biometric_unlock_phone">Разблокировка</string>
     <string name="biometric_settings_use_face_fingerprint_or_watch_for">"Используйте разблокировку по лицу, отпечаток или часы, чтобы"</string>
@@ -3723,7 +3723,7 @@ ID: %s
     <string name="financed_privacy_system_info">Просматривать системную информацию, такую как дата, время, статус сети и заряд батареи</string>
     <string name="financed_privacy_turn_on_off_device">Включать и выключать устройство</string>
     <string name="financed_privacy_uninstall_creditor_app">Вы сможете удалить приложение кредитной организации</string>
-    <string name="find_broadcast_join_broadcast_error">"Не удается присоединиться к трансляции."</string>
+    <string name="find_broadcast_join_broadcast_error">"Не удаётся присоединиться к трансляции."</string>
     <string name="find_broadcast_password_dialog_connection_error">Не удалось подключиться. Повторите попытку.</string>
     <string name="find_broadcast_password_dialog_password_error">Пароль указан неверно.</string>
     <string name="find_broadcast_password_dialog_title">Введите пароль</string>
@@ -5600,7 +5600,7 @@ ID: %s
     <string name="media_output_label_title">Воспроизвести %s на</string>
     <string name="media_output_panel_title">Сменить аудиовыход</string>
     <string name="media_output_status_device_in_low_power_mode">Для воспроизведения выведите устройство из спящего режима</string>
-    <string name="media_output_status_not_support_downloads">Не удается воспроизвести скачанные файлы</string>
+    <string name="media_output_status_not_support_downloads">Не удаётся воспроизвести скачанные файлы</string>
     <string name="media_output_status_require_premium">Для переключения требуется премиум-аккаунт</string>
     <string name="media_output_status_track_unsupported">Невозможно воспроизвести медиафайл</string>
     <string name="media_output_status_try_after_ad">Повторите попытку после просмотра объявления</string>
@@ -6226,7 +6226,7 @@ ID: %s
     <string name="msd_pc_system_install_summary_xp">1. Запустите setup.exe для установки</string>
     <string name="msg_wlan_signal_found">Подключиться к сети \"%s\"?</string>
     <string name="msim_sim_radio_off">Отключена</string>
-    <string name="mtp_connection_failed">Не удается передать файлы на подключённый ПК. Попробуйте устранить неполадки.</string>
+    <string name="mtp_connection_failed">Не удаётся передать файлы на подключённый ПК. Попробуйте устранить неполадки.</string>
     <string name="mtp_connection_failed_title">USB-подключение</string>
     <string name="mtp_connection_not_remind">Больше не показывать</string>
     <string name="mtp_ptp_mode_summary">MTP или PTP активен</string>
@@ -6479,7 +6479,7 @@ ID: %s
     <string name="nfc_repair_btn_retry">Повторить</string>
     <string name="nfc_repair_btn_yes">Да</string>
     <string name="nfc_repair_confirm_desc">"Есть какая-либо проблема из перечисленных?
-%1$d. Не удается добавить или пополнить карту NFC.
+%1$d. Не удаётся добавить или пополнить карту NFC.
 %2$d. Карта NFC не работает.
 %3$d. Не работают другие функции NFC."</string>
     <string name="nfc_repair_fail_desc">Произошла ошибка, препятствующая восстановлению функций NFC. Попробуйте ещё раз.</string>
@@ -7762,15 +7762,15 @@ OTG отключается автоматически через 10 минут �
     <string name="screen_enhance_status_enable">Вкл.</string>
     <string name="screen_flash_color_azure">"Лазурный"</string>
     <string name="screen_flash_color_blue">"Синий"</string>
-    <string name="screen_flash_color_chartreuse_green">"Светло-зеленый"</string>
+    <string name="screen_flash_color_chartreuse_green">"Светло-зелёный"</string>
     <string name="screen_flash_color_cyan">"Голубой"</string>
-    <string name="screen_flash_color_green">"Зеленый"</string>
+    <string name="screen_flash_color_green">"Зелёный"</string>
     <string name="screen_flash_color_magenta">"Пурпурный"</string>
     <string name="screen_flash_color_none">Откл.</string>
     <string name="screen_flash_color_orange">"Оранжевый"</string>
     <string name="screen_flash_color_red">"Красный"</string>
     <string name="screen_flash_color_rose">"Розовый"</string>
-    <string name="screen_flash_color_spring_green">"Весенне-зеленый"</string>
+    <string name="screen_flash_color_spring_green">"Весенне-зелёный"</string>
     <string name="screen_flash_color_violet">"Фиолетовый"</string>
     <string name="screen_flash_color_yellow">"Желтый"</string>
     <string name="screen_flash_notification_color_title">"Цвет подсветки экрана"</string>
@@ -8199,11 +8199,11 @@ OTG отключается автоматически через 10 минут �
     <string name="security_relative">Разрешения безопасности</string>
     <string name="security_settings_activeunlock_biometric_setup">"Настроить"</string>
     <string name="security_settings_activeunlock_preference_title">"Разблокировка с помощью часов"</string>
-    <string name="security_settings_activeunlock_require_face_fingerprint_setup_message">"Вы можете снимать блокировку с помощью часов, когда системе не удается распознать ваше лицо или отпечаток."</string>
+    <string name="security_settings_activeunlock_require_face_fingerprint_setup_message">"Вы можете снимать блокировку с помощью часов, когда системе не удаётся распознать ваше лицо или отпечаток."</string>
     <string name="security_settings_activeunlock_require_face_fingerprint_setup_title">Настройте распознавание по лицу или отпечатком</string>
-    <string name="security_settings_activeunlock_require_face_setup_message">"Вы можете снимать блокировку с помощью часов, когда системе не удается распознать ваше лицо."</string>
+    <string name="security_settings_activeunlock_require_face_setup_message">"Вы можете снимать блокировку с помощью часов, когда системе не удаётся распознать ваше лицо."</string>
     <string name="security_settings_activeunlock_require_face_setup_title">Настройте распознавание по лицу</string>
-    <string name="security_settings_activeunlock_require_fingerprint_setup_message">"Вы можете снимать блокировку с помощью часов, когда системе не удается распознать ваш отпечаток."</string>
+    <string name="security_settings_activeunlock_require_fingerprint_setup_message">"Вы можете снимать блокировку с помощью часов, когда системе не удаётся распознать ваш отпечаток."</string>
     <string name="security_settings_activeunlock_require_fingerprint_setup_title">Настройте разблокировку отпечатком</string>
     <string name="security_settings_biometric_preference_summary_both_fp_multiple">Добавлены данные лица и отпечатки</string>
     <string name="security_settings_biometric_preference_summary_both_fp_single">Добавлены данные лица и отпечаток</string>
@@ -8735,8 +8735,8 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="sim_notification_title">SIM-карты изменены</string>
     <string name="sim_nrca_title">SIM %1$s (%2$s)</string>
     <string name="sim_pin_change">Изменение PIN-кода SIM-карты</string>
-    <string name="sim_pin_disable_failed">Не удается отключить PIN-код</string>
-    <string name="sim_pin_enable_failed">Не удается включить PIN-код</string>
+    <string name="sim_pin_disable_failed">Не удаётся отключить PIN-код</string>
+    <string name="sim_pin_enable_failed">Не удаётся включить PIN-код</string>
     <string name="sim_pin_toggle">Блокировать SIM-карту</string>
     <string name="sim_pins_dont_match">PIN-коды не совпадают</string>
     <string name="sim_preferred_message">%1$s – единственная SIM-карта в устройстве. Использовать её для вызовов, отправки SMS-сообщений и мобильных данных?</string>
@@ -9140,7 +9140,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
 Будут удалены все данные на устройстве ^1. Во избежание потери данных сделайте их резервную копию."</string>
     <string name="storage_wizard_format_confirm_third_body">^1 форматируется</string>
     <string name="storage_wizard_format_confirm_v2_action">Форматировать</string>
-    <string name="storage_wizard_format_confirm_v2_body">"Чтобы хранить приложения и файлы, в том числе мультимедиа, на устройстве \"^1\", его необходимо отформатировать.\n\nПри этом весь контент с устройства \"^2\" будет удален. Скопируйте данные на ещё одно устройство \"^3\" или на другой накопитель, чтобы не потерять их."</string>
+    <string name="storage_wizard_format_confirm_v2_body">"Чтобы хранить приложения и файлы, в том числе мультимедиа, на устройстве \"^1\", его необходимо отформатировать.\n\nПри этом весь контент с устройства \"^2\" будет удалён. Скопируйте данные на ещё одно устройство \"^3\" или на другой накопитель, чтобы не потерять их."</string>
     <string name="storage_wizard_format_confirm_v2_body_external">"Чтобы хранить фото, видео, музыку и файлы на устройстве \"^1\", его необходимо отформатировать. \n\nПри этом все данные с устройства \"^2\" будут удалены. Скопируйте их на другое устройство. Это может быть как ^3, так и что-то ещё."</string>
     <string name="storage_wizard_format_confirm_v2_title">Форматирование</string>
     <string name="storage_wizard_format_progress_body">Не извлекайте устройство \"^1\" во время форматирования.</string>
@@ -9665,7 +9665,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="toast_allows_restricted_settings_successfully">Приложению \"%s\" разрешён доступ к настройкам.</string>
     <string name="toast_ap_works_wifi_display_disable">Отключите точку доступа перед трансляцией</string>
     <string name="toast_apply_font_fail">Не удалось установить шрифт</string>
-    <string name="toast_bluetooth_disable">Не удается включить Bluetooth. Модуль Bluetooth переустановлен или доступ к Bluetooth ограничен.</string>
+    <string name="toast_bluetooth_disable">Не удаётся включить Bluetooth. Модуль Bluetooth переустановлен или доступ к Bluetooth ограничен.</string>
     <string name="toast_disconnect_earphone">Отсоедините наушники и повторите попытку</string>
     <string name="toast_lockscreen_glogin_empty_password">Введите пароль</string>
     <string name="toast_need_login">Войдите в аккаунт Xiaomi</string>
@@ -10056,7 +10056,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="usb_format">Форматирование USB-накопителя</string>
     <string name="usb_format_summary">Удаление всех данных на USB-накопителе</string>
     <string name="usb_headset_not_support_cancel">Понятно</string>
-    <string name="usb_headset_not_support_message">"Не удается воспроизвести аудио через адаптер. Используйте цифровые наушники
+    <string name="usb_headset_not_support_message">"Не удаётся воспроизвести аудио через адаптер. Используйте цифровые наушники
 или наушники с разъемом 3,5 мм"</string>
     <string name="usb_headset_not_support_tile">Ошибка воспроизведения</string>
     <string name="usb_host_mode_subtext">Использование игровых контроллеров и других периферийных устройств с USB портом может увеличить расход батареи</string>
@@ -10907,7 +10907,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="wifi_repair_btn_no">Нет</string>
     <string name="wifi_repair_btn_yes">Да</string>
     <string name="wifi_repair_confirm_desc">"Сталкивались ли вы с какой-либо из этих проблем?
-%1$d. Не удается включить Wi-Fi
+%1$d. Не удаётся включить Wi-Fi
 %2$d. Сеть Wi-Fi работает медленно
 %3$d. Не работают другие функции Wi-Fi."</string>
     <string name="wifi_repair_fail_desc">Произошла ошибка, из-за которой функциональность Wi-Fi не была восстановлена</string>

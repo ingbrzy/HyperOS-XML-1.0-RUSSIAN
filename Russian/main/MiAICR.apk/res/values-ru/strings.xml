@@ -216,8 +216,8 @@
     <string name="copywriting_scheduleToOpenLight_description">Включать %1$s каждый день в установленное время</string>
     <string name="copywriting_turnDownVolume_description_hmind">Громкость устройства уменьшена</string>
     <string name="copywriting_turnDownVolume_description_island">Громкость устройства уменьшена</string>
-    <string name="copywriting_vacuumGocharging_description_hmind">Пылесос возвращен на док-станцию</string>
-    <string name="copywriting_vacuumGocharging_description_island">Пылесос возвращен на док-станцию</string>
+    <string name="copywriting_vacuumGocharging_description_hmind">Пылесос возвращён на док-станцию</string>
+    <string name="copywriting_vacuumGocharging_description_island">Пылесос возвращён на док-станцию</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Для получения текущей геопозиции</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Для получения прошлой геопозиции, сохранённой на устройстве.</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
@@ -390,7 +390,7 @@
     <string name="notification_operationFailedWhenNoEnabledFunction">Не удалось запомнить шаблон. Включите HyperMind.</string>
     <string name="notification_operationFailedWhenNoPermission">Не удалось запомнить шаблон. Согласитесь с условиями нашей Политики конфиденциальности и предоставьте необходимые разрешения.</string>
     <string name="notification_operation_failed">Не удалось запомнить шаблон</string>
-    <string name="passport_access_denied">Доступ запрещен</string>
+    <string name="passport_access_denied">Доступ запрещён</string>
     <string name="passport_account_crop_user_avatar">Обрезать фото</string>
     <string name="passport_account_empty_user_name">Введите имя</string>
     <string name="passport_account_error_all_space_user_name">Имя не может содержать только пробелы</string>

@@ -251,7 +251,7 @@
     <string name="month_september_shortest">Сен</string>
     <string name="more">Ещё</string>
     <string name="morning">Утро</string>
-    <string name="network_error">Не удается подключиться к сети</string>
+    <string name="network_error">Не удаётся подключиться к сети</string>
     <string name="new_add">Новая загрузка</string>
     <string name="new_add_bt2">Добавить торрент</string>
     <string name="night">Вечер</string>

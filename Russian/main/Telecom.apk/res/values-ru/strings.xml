@@ -107,7 +107,7 @@
     <string name="dial_conference_fail_prompt">Невозможно набрать номер конференции напрямую, так как текущая сеть не поддерживает VoLTE.</string>
     <string name="dial_vt_fail_prompt">Текущая сеть не поддерживает VoLTE. Переключиться на обычный голосовой вызов?</string>
     <string name="do_not_show_again">Больше не показывать</string>
-    <string name="duplicate_video_call_not_allowed">Не удается совершить ещё один вызов</string>
+    <string name="duplicate_video_call_not_allowed">Не удаётся совершить ещё один вызов</string>
     <string name="early_morning">Утро</string>
     <string name="enable_account_preference_title">Аккаунты для вызовов</string>
     <string name="eras_ad">н. э.</string>

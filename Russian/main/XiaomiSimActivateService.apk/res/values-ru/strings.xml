@@ -31,7 +31,7 @@
     <string name="activate">Активировать</string>
     <string name="activate_feature_call_log_sync">Синхронизация вызовов</string>
     <string name="activate_feature_default_title">Xiaomi</string>
-    <string name="activate_feature_find_device">Не удается подключиться к сети</string>
+    <string name="activate_feature_find_device">Не удаётся подключиться к сети</string>
     <string name="activate_feature_live_talk">Пакет пополнения баланса</string>
     <string name="activate_feature_mi_roaming">Mi роуминг</string>
     <string name="activate_feature_mms_sync">Синхронизация сообщений</string>

@@ -314,7 +314,7 @@ dd.MM"</string>
     <string name="kg_template_title_magazine">Журнал</string>
     <string name="kg_template_title_mine">Экран блокировки</string>
     <string name="kg_template_title_rhombus">Ромб</string>
-    <string name="kg_tip_cant_get_third_party_wallpaper">Не удается получить доступ к сторонним обоям</string>
+    <string name="kg_tip_cant_get_third_party_wallpaper">Не удаётся получить доступ к сторонним обоям</string>
     <string name="kg_wallpaper_scale_hint_text">Сведите изображение пальцами для обрезки</string>
     <string name="large_time">Большие часы</string>
     <string name="letter_space">Межбуквенный интервал</string>

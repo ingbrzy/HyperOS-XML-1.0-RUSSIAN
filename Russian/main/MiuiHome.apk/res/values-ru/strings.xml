@@ -110,7 +110,7 @@
     <string name="announce_for_open_folder">Открыта папка %1$s</string>
     <string name="announce_for_search_bar">Панель поиска</string>
     <string name="announce_for_show_uninstall_dialog">Появился диалог удаления. Отмените или подтвердите.</string>
-    <string name="announce_for_unchecked">%1$s, выбор отменен</string>
+    <string name="announce_for_unchecked">%1$s, выбор отменён</string>
     <string name="announce_for_widget_span">Ширина %1$d, высота %2$d</string>
     <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">Приложение уже существует</string>
@@ -213,7 +213,7 @@
     <string name="cloud_app_restore_title">Ожидание</string>
     <string name="color_group">Группировать по цвету</string>
     <string name="color_group_anim">Анимация в цветовых категориях</string>
-    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удаётся подключиться к сервисам Google Play. Повторите попытку.</string>
     <string name="common_home_search_delete">Удаление панели поиска</string>
     <string name="common_home_search_delete_cancle">Отмена</string>
     <string name="common_home_search_delete_confirm">Удалить</string>
@@ -221,7 +221,7 @@
     <string name="confirm_btn_label">ОК</string>
     <string name="content_center">Контент-центр</string>
     <string name="content_description_for_shortcut_icon_checked">%1$s, выбрано</string>
-    <string name="content_description_shortcut_icon_unchecked">%1$s, выбор отменен</string>
+    <string name="content_description_shortcut_icon_unchecked">%1$s, выбор отменён</string>
     <string name="content_description_workspace_thumbnail_item">Миниатюра экрана, страница %1$s</string>
     <string name="copy">Копировать</string>
     <string name="current_preview">Просмотр</string>

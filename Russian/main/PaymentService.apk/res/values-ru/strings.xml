@@ -299,7 +299,7 @@
     <string name="mibi_paytool_error_msp">Ошибка %1$s</string>
     <string name="mibi_paytool_msp_not_installed">Вы не установили плагин для мобильной безопасности %1$s, установить его сейчас?</string>
     <string name="mibi_paytool_unionpay">UnionPay</string>
-    <string name="mibi_paytool_wechat_return_cancel">WeChat возврат отменен</string>
+    <string name="mibi_paytool_wechat_return_cancel">WeChat возврат отменён</string>
     <string name="mibi_permanently_denied_perm_camera">Разрешите доступ к камере в Настройках для использования этих функций.</string>
     <string name="mibi_permanently_denied_perm_send_sms">Разрешите отправку SMS-сообщений в Настройках для использования этих функций.</string>
     <string name="mibi_permission_des_camera">Для распознавания номеров карт пополнения счёта мобильного телефона и т.д.</string>
@@ -591,7 +591,7 @@
     <string name="passport_error_empty_user_id">Введите имя пользователя</string>
     <string name="passport_error_invalid_bind_address">Неверный адрес электронной почты</string>
     <string name="passport_error_length_limit">Текст слишком длинный</string>
-    <string name="passport_error_network">Не удается подключиться к сети</string>
+    <string name="passport_error_network">Не удаётся подключиться к сети</string>
     <string name="passport_error_no_password_user">Вы ещё не установили пароль. Войдите с помощью SMS.</string>
     <string name="passport_error_phone">Неверный номер телефона</string>
     <string name="passport_error_server">Ошибка сервера</string>

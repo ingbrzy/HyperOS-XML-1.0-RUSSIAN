@@ -989,8 +989,8 @@ ID: %s
     <string name="feedback_my_reports">Обратная связь</string>
     <string name="feedback_problem">Сообщить о проблеме</string>
     <string name="feedback_suggest">Отправить предложение</string>
-    <string name="file_cannot_print">Не удается распечатать этот файл</string>
-    <string name="file_cannot_screen_throw">Не удается транслировать этот файл</string>
+    <string name="file_cannot_print">Не удаётся распечатать этот файл</string>
+    <string name="file_cannot_screen_throw">Не удаётся транслировать этот файл</string>
     <string name="file_sending">Передача файлов…</string>
     <string name="filter_category_black_white">Ч/Б</string>
     <string name="filter_category_classic">Классика</string>
@@ -2571,10 +2571,10 @@ ID: %s
     <string name="screen_editor_btn_save">Сохранить</string>
     <string name="screen_editor_btn_shell_off">Удалить рамку</string>
     <string name="screen_editor_btn_shell_on">Добавить рамку</string>
-    <string name="screen_editor_crop_disallowed_with_shell">Не удается обрезать скриншот с рамкой устройства</string>
+    <string name="screen_editor_crop_disallowed_with_shell">Не удаётся обрезать скриншот с рамкой устройства</string>
     <string name="screen_editor_delete_dialog_msg">Удалить скриншот?</string>
     <string name="screen_editor_finish">Выход</string>
-    <string name="screen_editor_shell_disallowed_with_crop">Не удается добавить рамку устройства на обрезанный скриншот</string>
+    <string name="screen_editor_shell_disallowed_with_crop">Не удаётся добавить рамку устройства на обрезанный скриншот</string>
     <string name="screen_editor_shell_net_error">Требуется подключение к сети для загрузки</string>
     <string name="screen_editor_shell_res_downloading">Загрузка…</string>
     <string name="screen_editor_shell_storage_insufficient">Недостаточно места на устройстве для загрузки</string>
@@ -3360,7 +3360,7 @@ ID: %s
     <string name="transfer_dialog_title">Изменение синхронизации</string>
     <string name="transfer_service_msg">Службы синхронизации Xiaomi Cloud заменены резервным копированием в Google Фото. Загрузка несинхронизированных файлов больше недоступна.</string>
     <string name="transfer_status_banner_msg_complete">Файлы перенесены</string>
-    <string name="transfer_status_banner_msg_need_retry">Перенос прерван. Попробуйте еще раз или посетите i.mi.com для загрузки файлов вручную.</string>
+    <string name="transfer_status_banner_msg_need_retry">Перенос прерван. Попробуйте ещё раз или посетите i.mi.com для загрузки файлов вручную.</string>
     <string name="transfer_status_banner_msg_no_space">Перенос приостановлен. Недостаточно места в аккаунте Google. Обновите план хранения, чтобы продолжить.</string>
     <string name="transfer_status_banner_msg_no_space_inline">Обновить</string>
     <string name="transfer_status_banner_msg_not_started">Синхронизация с облаком больше недоступна. Начните перенос или загрузите файлы вручную.</string>
@@ -3403,8 +3403,8 @@ ID: %s
     <string name="turn_off_and_move">Отключить и переместить</string>
     <string name="turn_on_and_remove">Включить и переместить</string>
     <string name="turn_on_sync">Синхронизировать</string>
-    <string name="unchecked">Выбор отменен</string>
-    <string name="unchecked_something">Выбор %s отменен</string>
+    <string name="unchecked">Выбор отменён</string>
+    <string name="unchecked_something">Выбор %s отменён</string>
     <string name="unknown_error_info">Неизвестная ошибка</string>
     <string name="unpublish_failed">Ошибка закрытия доступа</string>
     <string name="unpublish_succeeded">Общий доступ к альбому закрыт</string>

@@ -119,7 +119,7 @@
     <string name="account_setup_failed_dlg_edit_details_action">Изменить параметры</string>
     <string name="account_setup_failed_dlg_error_code">Ошибка: %s</string>
     <string name="account_setup_failed_dlg_server_message">Не удалось подключиться к серверу.</string>
-    <string name="account_setup_failed_dlg_server_message_fmt">"Не удается подключиться к серверу.
+    <string name="account_setup_failed_dlg_server_message_fmt">"Не удаётся подключиться к серверу.
 (%s)"</string>
     <string name="account_setup_failed_dlg_title">Не удалось настроить аккаунт</string>
     <string name="account_setup_failed_dlg_todo2">Настройте аккаунт, как показано ниже</string>
@@ -190,7 +190,7 @@
     <string name="appraise_negative">Нет</string>
     <string name="att_download_failed_content">Не удалось загрузить вложение</string>
     <string name="att_download_failed_permission_denied">Доступ к внешнему накопителю запрещён</string>
-    <string name="att_download_failed_title">Не удается загрузить вложение</string>
+    <string name="att_download_failed_title">Не удаётся загрузить вложение</string>
     <string name="att_file_not_exists">Не удалось найти %s</string>
     <string name="att_mgr_no_attachment">Нет вложений.</string>
     <string name="att_mgr_title_order_mime">Формат</string>
@@ -215,7 +215,7 @@
     <string name="attachment_mgr_name">Вложения</string>
     <string name="attachment_not_exists">Вложение недоступно</string>
     <string name="attachment_open_SecurityException_hint">Отсутствует разрешение на открытие файла или файл повреждён.</string>
-    <string name="attachment_open_SecurityException_title">Не удается открыть файл</string>
+    <string name="attachment_open_SecurityException_title">Не удаётся открыть файл</string>
     <string name="attachment_open_on_other_app">Открыть в другом приложении</string>
     <string name="attachment_opening_mode">Приложения для вложений</string>
     <string name="attachment_stop_all">Остановить</string>
@@ -878,7 +878,7 @@
     <string name="outbox_alert_description_cannot_authenticate">Не удалось подтвердить %s.</string>
     <string name="outbox_alert_description_email_size_error">Достигнут максимальный размер письма.</string>
     <string name="outbox_alert_description_fail_authentication">Неверное имя пользователя или пароль.</string>
-    <string name="outbox_alert_description_fail_network">Не удается подключиться к сети.</string>
+    <string name="outbox_alert_description_fail_network">Не удаётся подключиться к сети.</string>
     <string name="outbox_alert_description_http_error">Ошибка HTTP во время синхронизации папки \"Исходящие\"</string>
     <string name="outbox_alert_description_insufficient_storage_error">Недостаточно места на почтовом сервере</string>
     <string name="outbox_alert_description_provision_error">Ошибка сервера во время синхронизации папки \"Исходящие\"</string>
@@ -1005,7 +1005,7 @@
 Дождитесь полной синхронизации или просмотрите его на ПК."</string>
     <string name="remove_account">Удалить аккаунт</string>
     <string name="remove_star">Снять отметку</string>
-    <string name="replay_max_length_limit_hint">Письмо слишком длинное. Не удается отредактировать исходное письмо.</string>
+    <string name="replay_max_length_limit_hint">Письмо слишком длинное. Не удаётся отредактировать исходное письмо.</string>
     <string name="reply">Ответить</string>
     <string name="reply_all">Ответить всем</string>
     <string name="reply_attribution">%2$s | ответ на %1$s:</string>
@@ -1043,7 +1043,7 @@
     <string name="send_encrypt_dialog_fail_title">Ошибка отправки</string>
     <string name="senders_split_token">, </string>
     <string name="sending_message">Отправка сообщения…</string>
-    <string name="ser_resp_err_map_certificate_validator_err">"Не удается проверить сертификат сервера
+    <string name="ser_resp_err_map_certificate_validator_err">"Не удаётся проверить сертификат сервера
 \u0009 (проверьте, включена ли автосинхронизация)"</string>
     <string name="ser_resp_err_map_landing_more_failure">Не удалось войти несколько раз подряд. Повторите позже.</string>
     <string name="ser_resp_err_map_landing_too_frequently">Слишком много попыток входа. Повторите позже.</string>
@@ -1091,7 +1091,7 @@
     <string name="sign_in_dialog_outlook_enterprise">Office 365 Корпоративный</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (без календаря)</string>
     <string name="sign_in_dialog_title">Выберите способ входа</string>
-    <string name="sign_in_no_useful_provider_error">Не удается получить конфигурацию протокола от Microsoft. Обновите протокол или используйте другой.</string>
+    <string name="sign_in_no_useful_provider_error">Не удаётся получить конфигурацию протокола от Microsoft. Обновите протокол или используйте другой.</string>
     <string name="signature">"
 
 
@@ -1195,8 +1195,8 @@
     <string name="title_activity_about">О приложении</string>
     <string name="to">Кому</string>
     <string name="to_heading">"Кому: "</string>
-    <string name="toast_bar_fail_synchronization">Не удается подключиться к серверу. Повторите позже.</string>
-    <string name="toast_bar_insufficient_memory_space">Не удается получить почту. Недостаточно места.</string>
+    <string name="toast_bar_fail_synchronization">Не удаётся подключиться к серверу. Повторите позже.</string>
+    <string name="toast_bar_insufficient_memory_space">Не удаётся получить почту. Недостаточно места.</string>
     <string name="toast_bar_invalid_account">Срок информации об учётной записи истёк. Нажмите, чтобы войти снова.</string>
     <string name="toast_bar_no_connection_network">Отсутствует подключение к интернету</string>
     <string name="toast_bar_open_gmail_synchronization">Не удалось подключиться к Gmail. Проверьте настройки сети и повторите попытку.</string>

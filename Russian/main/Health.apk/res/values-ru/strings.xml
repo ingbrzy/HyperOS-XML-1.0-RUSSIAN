@@ -65,7 +65,7 @@
     <string name="add_body_weight_record_button">Ввести вес</string>
     <string name="add_data_source">Добавить источники данных</string>
     <string name="add_data_source_description">"Добавьте данные о здоровье из других устройств в приложение Здоровье, чтобы повысить точность статистики и получить более актуальные рекомендации.
-Приложение Здоровье поддерживает устройства, ранее добавленные в приложение Mi Home. Если не удается найти устройство, которое хотите добавить, сначала проверьте, добавлено ли оно в Mi Home."</string>
+Приложение Здоровье поддерживает устройства, ранее добавленные в приложение Mi Home. Если не удаётся найти устройство, которое хотите добавить, сначала проверьте, добавлено ли оно в Mi Home."</string>
     <string name="add_data_source_login_and_open_sync">Войдите в аккаунт Xiaomi и включите синхронизацию с облаком для возможности добавлять источники данных.</string>
     <string name="add_data_source_open_sync">Включите синхронизацию с облаком для возможности добавлять источники данных.</string>
     <string name="add_data_source_process">Как добавить источник данных</string>
@@ -348,8 +348,8 @@
     <string name="detection_wait_generate_report_detail">Отчёт будет готов позже</string>
     <string name="device_data_manage">Управление устройствами</string>
     <string name="device_data_sync">Синхронизация данных</string>
-    <string name="device_description">Эти устройства связаны с аккаунтом Xiaomi %1$s. Если не удается найти нужное устройство, добавьте сначала его в Mi Fit или Xiaomi Wear.</string>
-    <string name="device_list_origin_description">Эти устройства связаны с аккаунтом Xiaomi %1$s. Если не удается найти нужное устройство, убедитесь, что оно уже добавлено в соответствующее приложение.</string>
+    <string name="device_description">Эти устройства связаны с аккаунтом Xiaomi %1$s. Если не удаётся найти нужное устройство, добавьте сначала его в Mi Fit или Xiaomi Wear.</string>
+    <string name="device_list_origin_description">Эти устройства связаны с аккаунтом Xiaomi %1$s. Если не удаётся найти нужное устройство, убедитесь, что оно уже добавлено в соответствующее приложение.</string>
     <string name="device_off_sync_description">Данные с этого устройства, не будут синхронизированы</string>
     <string name="device_unbound_from_account">Это устройство больше не связано с вашим аккаунтом</string>
     <string name="diagnosis_log_send_failed">Ошибка отправки журнала диагностики.</string>
@@ -1120,9 +1120,9 @@ ID:%s
     <string name="protein_rate">Белок</string>
     <string name="protein_rate_descripe_content">Процент белка - доля белка в общей массе тела. Он важен для выявления дисбаланса в питании и поддержания здорового питания.</string>
     <string name="pull_or_lay_oars">Вождение и отдых</string>
-    <string name="question_data_source_unable_add">Не удается добавить источники данных</string>
+    <string name="question_data_source_unable_add">Не удаётся добавить источники данных</string>
     <string name="question_data_synchronization_not_timely">Данные не синхронизируются или не синхронизируются вовремя</string>
-    <string name="question_device_not_found">Не удается найти устройства</string>
+    <string name="question_device_not_found">Не удаётся найти устройства</string>
     <string name="question_multiple_same_name_data_sources">Почему источники данных имеют одно и то же имя?</string>
     <string name="rate_bit_high">Избыток</string>
     <string name="rate_bit_low">Недостаток</string>
@@ -1476,7 +1476,7 @@ ID:%s
     <string name="sport_invalid_dialog_time_content">Эта тренировка длилась менее 5 секунд. Завершить без записи?</string>
     <string name="sport_invalid_dialog_title">Слишком быстро!</string>
     <string name="sport_menu_share">Отправить</string>
-    <string name="sport_no_internet_toast">Плохой сигнал. Не удается получить точную геопозицию.</string>
+    <string name="sport_no_internet_toast">Плохой сигнал. Не удаётся получить точную геопозицию.</string>
     <string name="sport_outdoor_running">Бег</string>
     <string name="sport_pace_chart_last_km">Менее 1 км</string>
     <string name="sport_pace_step_unit">Об/мин</string>

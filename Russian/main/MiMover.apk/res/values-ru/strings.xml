@@ -517,7 +517,7 @@
     <string name="not_support_data_title">Данные, которые не могут быть перенесены</string>
     <string name="note">Заметки</string>
     <string name="nothing_chosen">Сначала выберите данные</string>
-    <string name="notif_icloud_canceled_summary">Отменен</string>
+    <string name="notif_icloud_canceled_summary">Отменён</string>
     <string name="notif_icloud_canceling_summary">Отмена…</string>
     <string name="notif_icloud_import_title">Импортировать данные из iCloud</string>
     <string name="notif_icloud_loaded_summary">Ожидание…</string>

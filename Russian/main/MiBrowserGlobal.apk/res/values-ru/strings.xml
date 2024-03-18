@@ -450,7 +450,7 @@
     <string name="common_google_play_services_install_title">Установите сервисы Google Play</string>
     <string name="common_google_play_services_notification_channel_name">Доступность сервисов Google Play</string>
     <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
-    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удаётся подключиться к сервисам Google Play. Повторите попытку.</string>
     <string name="common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
     <string name="common_google_play_services_update_button">Обновить</string>
     <string name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
@@ -1157,7 +1157,7 @@ ID:%s
     <string name="mint_news_feed">Новости</string>
     <string name="mint_news_feed_a">Mi Новости</string>
     <string name="mint_news_feed_b">Местные новости</string>
-    <string name="miui_autologin_bar_error">Не удается войти</string>
+    <string name="miui_autologin_bar_error">Не удаётся войти</string>
     <string name="miui_autologin_bar_title">Войти в аккаунт Xiaomi</string>
     <string name="miui_bookmark_action_bar_add_group_title">Новая группа</string>
     <string name="miui_bookmark_action_bar_new_group_title">Новая папка</string>
@@ -1400,7 +1400,7 @@ ID:%s
     <string name="mw_miuichromium_error_page_mobile">Мобильный интернет</string>
     <string name="mw_miuichromium_error_page_network_hijack">Текущая сеть небезопасна</string>
     <string name="mw_miuichromium_error_page_network_off">Включите Wi-Fi или мобильный интернет</string>
-    <string name="mw_miuichromium_error_page_no_network">Не удается подключиться к сети</string>
+    <string name="mw_miuichromium_error_page_no_network">Не удаётся подключиться к сети</string>
     <string name="mw_miuichromium_error_page_problem_access_denied">Доступ к %s0 запрещён.</string>
     <string name="mw_miuichromium_error_page_problem_cache_miss">Кэшированная версия этой страницы не может быть загружена.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page">Страница не может быть открыта.</string>
@@ -1460,7 +1460,7 @@ ID:%s
     <string name="mw_permission_unknown">Неизвестный вариант</string>
     <string name="mw_private_browsing_warning">Данная функциональность не поддерживается в этой версии Android.</string>
     <string name="mw_profiler_error_toast">Не удалось запустить профайлер</string>
-    <string name="mw_profiler_no_storage_toast">Не удается запустить профайлер. Внешний накопитель не готов.</string>
+    <string name="mw_profiler_no_storage_toast">Не удаётся запустить профайлер. Внешний накопитель не готов.</string>
     <string name="mw_profiler_started_toast">Профайлер запущен</string>
     <string name="mw_profiler_stopped_toast">Профайлер закончил работу. Результаты в %1$s.</string>
     <string name="mw_save_password_message">Запомнить этот пароль?</string>
@@ -2009,7 +2009,7 @@ ID:%s
     <string name="quicklinks_group_default_subtitle">Пусто</string>
     <string name="quicklinks_management">Популярные</string>
     <string name="quicklinks_most_visited">Добавить на главную</string>
-    <string name="quicklinks_most_visited_subtitle">Показывать недавно посещенные сайты в новой вкладке</string>
+    <string name="quicklinks_most_visited_subtitle">Показывать недавно посещённые сайты в новой вкладке</string>
     <string name="quicklinks_most_visited_title">Добавить на главную</string>
     <string name="reading__business_recommend_at_end_more">Показать ещё</string>
     <string name="reading__business_recommend_at_end_other_docs">Дальнейшее чтение</string>
@@ -2131,7 +2131,7 @@ ID:%s
     <string name="save_page_capture_tip">Откройте шторку уведомлений для просмотра скриншота</string>
     <string name="save_page_capture_to_camera">Скриншот сохранён</string>
     <string name="save_to_camera">Сохранить в Галерее</string>
-    <string name="save_to_camera_failed">Не удается сохранить изображение</string>
+    <string name="save_to_camera_failed">Не удаётся сохранить изображение</string>
     <string name="save_to_camera_success">Сохранено в Галерее</string>
     <string name="save_to_private_folder">Добавить в скрытые файлы</string>
     <string name="scan_type_empty_folder">Пустая папка</string>
@@ -2300,7 +2300,7 @@ ID:%s
     <string name="sports_card_match_status_2">В процессе</string>
     <string name="sports_card_match_status_3">Матч завершен</string>
     <string name="ssl_bad_clock_date_settings">Установить дату</string>
-    <string name="ssl_bad_clock_warning" formatted="false">"Не удается установить безопасное соединение с %s1, так как дата или время на устройстве (%s2) некорректные."</string>
+    <string name="ssl_bad_clock_warning" formatted="false">"Не удаётся установить безопасное соединение с %s1, так как дата или время на устройстве (%s2) некорректные."</string>
     <string name="ssl_bad_expired_warning">Этот канал предоставлен %1$s. Однако дата и время на вашем устройстве (%2$s) не позволяют установить безопасное соединение с %1$s. Вы можете установить правильную дату и время или нажать \"Продолжить\", если хотите продолжить использовать этот канал.</string>
     <string name="ssl_bad_warning">Этот канал предоставлен %1$s. Однако Браузер не может проверить принадлежность этого сервера к %1$s, так как его сертификат не может быть проверен или был отозван. Это может быть вызвано неправильными настройками или заблокированным соединением. Нажмите \"Продолжить\", если вы всё равно хотите использовать этот канал.</string>
     <string name="ssl_certificate">Сертификат безопасности</string>

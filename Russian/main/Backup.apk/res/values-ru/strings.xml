@@ -106,7 +106,7 @@
     <string name="broken_screen_rescue_service_tips_3">"%1$d. Если блокировка экрана не используется, напишите \"nopassword\" вместо символов в сообщении."</string>
     <string name="broken_screen_rescue_service_tips_4">"%1$d. У вас будет ограниченное число попыток (%2$d) активировать эту функцию. Убедитесь, что SMS-сообщение, которое отправляет другой человек, правильное, и этот человек есть в ваших контактах."</string>
     <string name="broken_screen_rescue_service_tips_5">%1$d. Рекомендуем использовать эту функцию в присутствии сотрудников нашей техподдержки.</string>
-    <string name="broken_screen_rescue_service_tips_6">"%1$d. Если не удается выполнить резервное копирование на ПК, обратитесь для решения проблемы к справочной документации."</string>
+    <string name="broken_screen_rescue_service_tips_6">"%1$d. Если не удаётся выполнить резервное копирование на ПК, обратитесь для решения проблемы к справочной документации."</string>
     <string name="broken_screen_rescue_service_tips_title">Советы</string>
     <string name="broken_screen_rescue_service_turn_off">Отключить</string>
     <string name="broken_screen_rescue_service_turn_off_confirm">Отключить бэкап при повреждённом экране?</string>

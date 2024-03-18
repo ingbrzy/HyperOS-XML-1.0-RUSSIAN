@@ -238,8 +238,8 @@
     <string name="comment_model_send_success">Успешно отправлен</string>
     <string name="commit_str">Отправить</string>
     <string name="common_cancel">Отмена</string>
-    <string name="common_copyright_unsupported_audio">Не удается воспроизвести звуковую дорожку из-за ограничений авторских прав</string>
-    <string name="common_copyright_unsupported_video">Не удается воспроизвести видео из-за ограничений авторских прав</string>
+    <string name="common_copyright_unsupported_audio">Не удаётся воспроизвести звуковую дорожку из-за ограничений авторских прав</string>
+    <string name="common_copyright_unsupported_video">Не удаётся воспроизвести видео из-за ограничений авторских прав</string>
     <string name="common_google_play_services_enable_button">Включить</string>
     <string name="common_google_play_services_enable_text">Для работы %1$s необходимо включить сервисы Google Play.</string>
     <string name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
@@ -785,7 +785,7 @@ ID: %s
     <string name="local_reset_error_wrong_info">Коды не совпадают</string>
     <string name="local_reset_new_password">Введите новый код</string>
     <string name="local_reset_old_password">Введите текущий код</string>
-    <string name="local_reset_password_done">Цифровой код был изменен</string>
+    <string name="local_reset_password_done">Цифровой код был изменён</string>
     <string name="local_reset_password_title">Изменить код</string>
     <string name="local_reset_tips">Введите %d-значный код</string>
     <string name="local_stretch_zoom_mode">Изображение растянуто</string>
@@ -794,8 +794,8 @@ ID: %s
     <string name="local_subtitle_input_keyword_text">Ключевые слова</string>
     <string name="local_tip_act_for_android_u">Изменить</string>
     <string name="local_tip_info_for_android_u">Вы разрешили Mi Видео отображать только некоторые видео.</string>
-    <string name="local_tip_info_for_no_audio">Не удается получить доступ к аудио, сохраненному на устройстве. Сначала предоставьте необходимые разрешения.</string>
-    <string name="local_tip_info_for_no_video">Не удается получить доступ к видео, сохраненному на устройстве. Сначала предоставьте необходимые разрешения.</string>
+    <string name="local_tip_info_for_no_audio">Не удаётся получить доступ к аудио, сохраненному на устройстве. Сначала предоставьте необходимые разрешения.</string>
+    <string name="local_tip_info_for_no_video">Не удаётся получить доступ к видео, сохраненному на устройстве. Сначала предоставьте необходимые разрешения.</string>
     <string name="local_video_create_a_new_playlist">Создать плейлист</string>
     <string name="local_video_date">Дата</string>
     <string name="local_video_dialog_default">По умолчанию</string>
@@ -1194,7 +1194,7 @@ ID: %s
     <string name="passport_area_code_title">Код региона</string>
     <string name="passport_bad_authentication">Неверное имя пользователя или пароль</string>
     <string name="passport_barcode_add_account_prompt">Чтобы добавить аккаунт, отсканируйте QR-код снова после входа в систему.</string>
-    <string name="passport_can_not_receive_verification_code">Не удается получить проверочный код?</string>
+    <string name="passport_can_not_receive_verification_code">Не удаётся получить проверочный код?</string>
     <string name="passport_captcha_title">Защитный код</string>
     <string name="passport_checking_account">Проверка пароля…</string>
     <string name="passport_close">Закрыть</string>
@@ -1855,7 +1855,7 @@ ID: %s
     <string name="video_download_start">Загрузка…</string>
     <string name="video_download_storage_error">Недостаточно места</string>
     <string name="video_download_title">Загрузка видео</string>
-    <string name="video_download_youtube_copyright_forbidden">Не удается загрузить видео с YouTube из-за ограничений авторских прав</string>
+    <string name="video_download_youtube_copyright_forbidden">Не удаётся загрузить видео с YouTube из-за ограничений авторских прав</string>
     <string name="video_downloading">Загрузка…</string>
     <string name="video_live_over">Сессия окончена</string>
     <string name="video_noyet_download_tip">Это видео в процессе загрузки</string>

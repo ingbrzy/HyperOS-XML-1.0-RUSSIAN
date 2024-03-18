@@ -159,7 +159,7 @@
     <string name="cloud_transfer_wait_download">Ожидание загрузки</string>
     <string name="cloud_transfer_wait_network">Ожидание подключения</string>
     <string name="cloud_transfer_wait_upload">Ожидание загрузки</string>
-    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удаётся подключиться к сервисам Google Play. Повторите попытку.</string>
     <string name="compress_fail">Ошибка сжатия. Файл с таким именем уже существует.</string>
     <string name="compress_fail_unknown">Ошибка сжатия. Недостаточно места или неизвестная ошибка.</string>
     <string name="compress_message">Архивация в…</string>
@@ -189,7 +189,7 @@
     <string name="decompress_cancel">Отмена</string>
     <string name="decompress_confirm">Извлечь</string>
     <string name="decompress_corrupt">Не удалось извлечь файлы. Архив повреждён.</string>
-    <string name="decompress_destination_error">Не удается извлечь файлы в указанную папку.</string>
+    <string name="decompress_destination_error">Не удаётся извлечь файлы в указанную папку.</string>
     <string name="decompress_encrypted_rar_not_supported">Зашифрованные файлы RAR не поддерживаются</string>
     <string name="decompress_fail">Ошибка извлечения.</string>
     <string name="decompress_fail_contains_special_characters">Ошибка сжатия. Имена файлов не должны содержать спецсимволы.</string>
@@ -592,7 +592,7 @@
     <string name="notification_title_sync_result">Синхронизация завершена</string>
     <string name="notification_title_syncing">Синхронизация…</string>
     <string name="notification_title_syncing_with_count">Синхронизация файлов. Осталось: %1$s</string>
-    <string name="online_not_support">Не удается просмотреть файл онлайн</string>
+    <string name="online_not_support">Не удаётся просмотреть файл онлайн</string>
     <string name="open_cloud_drive">Включить Mi Drive</string>
     <string name="open_or_close_wlan">Включение и выключение Wi-Fi</string>
     <string name="open_private_folder">Отпустите для просмотра приватной папки</string>

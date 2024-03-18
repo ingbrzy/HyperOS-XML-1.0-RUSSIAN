@@ -119,8 +119,8 @@
     <string name="global_pad">Планшет</string>
     <string name="global_pc">ПК</string>
     <string name="global_phone">Устройство</string>
-    <string name="help">Не удается найти устройство?</string>
-    <string name="help_content">Если не удается найти нужное устройство, попросите включить Mi Share на этом устройстве.</string>
+    <string name="help">Не удаётся найти устройство?</string>
+    <string name="help_content">Если не удаётся найти нужное устройство, попросите включить Mi Share на этом устройстве.</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
     <string name="image_decode_failed">Не удалось декодировать изображение</string>

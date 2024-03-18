@@ -771,7 +771,7 @@
     <string name="rcs_chat_bot_subject">Владелец: %1$s</string>
     <string name="rcs_chatbot_a2p_message">Получено A2P сообщение. Нажмите для просмотра.</string>
     <string name="rcs_chatbot_audio_message">Получено аудио сообщение. Нажмите для просмотра.</string>
-    <string name="rcs_chatbot_blocked_tip">Мини-приложение заблокировано. Не удается открыть диалог.</string>
+    <string name="rcs_chatbot_blocked_tip">Мини-приложение заблокировано. Не удаётся открыть диалог.</string>
     <string name="rcs_chatbot_card_message">Получена карточка. Нажмите для просмотра.</string>
     <string name="rcs_chatbot_file_message">Получен файл. Нажмите для просмотра.</string>
     <string name="rcs_chatbot_geo_message">Получено сообщение с геопозицией. Нажмите для просмотра.</string>

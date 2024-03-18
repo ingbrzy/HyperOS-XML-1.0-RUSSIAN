@@ -430,7 +430,7 @@
     <string name="meal_name">Название</string>
     <string name="mealtype_breakfast">Завтрак</string>
     <string name="mealtype_dinner">Ужин</string>
-    <string name="mealtype_label">Прием пищи</string>
+    <string name="mealtype_label">Приём пищи</string>
     <string name="mealtype_lunch">Обед</string>
     <string name="mealtype_snack">Перекус</string>
     <string name="mealtype_unknown">Неизвестно</string>

@@ -212,7 +212,7 @@
     <string name="common_google_play_services_install_title">Установите сервисы Google Play</string>
     <string name="common_google_play_services_notification_channel_name">Доступность сервисов Google Play</string>
     <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
-    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удаётся подключиться к сервисам Google Play. Повторите попытку.</string>
     <string name="common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
     <string name="common_google_play_services_update_button">Обновить</string>
     <string name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
@@ -568,7 +568,7 @@
     <string name="headset_and_audio_effect_summary">Наушники и настройки звука</string>
     <string name="headset_and_audio_effect_title">Звуковые эффекты</string>
     <string name="hgm_failed_to_connect_hint">Проверьте настройки сети и повторите попытку. Если проблема заключается в ошибке сервера hungama, мы исправим её как можно скорее.</string>
-    <string name="hgm_has_offline">Не удается воспроизвести музыку, предоставленную hungama.</string>
+    <string name="hgm_has_offline">Не удаётся воспроизвести музыку, предоставленную hungama.</string>
     <string name="hgm_network_request_error_toast">Не удалось подключиться к серверам hungama. Повторите попытку.</string>
     <string name="hgm_vip_btn_desc">Начните пробный период</string>
     <string name="hgm_vip_high_quality">Загрузки в высоком качестве</string>
@@ -1236,7 +1236,7 @@
     <string name="pick_local_song">Локальные</string>
     <string name="pick_recent_song">Недавние</string>
     <string name="play_all_song">Воспроизвести все</string>
-    <string name="play_empty_playlist">Не удается воспроизвести треки. Плейлист пуст.</string>
+    <string name="play_empty_playlist">Не удаётся воспроизвести треки. Плейлист пуст.</string>
     <string name="play_history">История воспроизведения</string>
     <string name="play_mode_all_loop">Повторить все</string>
     <string name="play_mode_one_loop">Повторять</string>
