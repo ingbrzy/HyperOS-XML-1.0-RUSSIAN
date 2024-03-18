@@ -1280,6 +1280,7 @@ ID: %s
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="pay_d">Кеширование видео с таким разрешением доступно только VIP</string>
     <string name="permission_continue">Продолжить</string>
+    <string name="permission_storage">Хранилище</string>
     <string name="permission_storage_desc">Для доступа к файлам, отображения и воспроизведения видео</string>
     <string name="permission_title">Предоставьте разрешения</string>
     <string name="pgc_push_title">Подписки</string>

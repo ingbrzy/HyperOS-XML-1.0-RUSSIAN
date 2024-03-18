@@ -2300,6 +2300,8 @@ mm"</string>
     <string name="new_app_description">"Приложение \"%1$s\" будет закрыто без сохранения."</string>
     <string name="new_sms_notification_content">"Чтобы просмотреть, откройте приложение для обмена SMS"</string>
     <string name="new_sms_notification_title">"Новые сообщения"</string>
+    <string name="news_survey_fill">Введите до %d символов</string>
+    <string name="news_survey_fill_title">Другое:</string>
     <string name="next_button_label">"Далее"</string>
     <string name="night">Вечер</string>
     <string name="no">"Отмена"</string>

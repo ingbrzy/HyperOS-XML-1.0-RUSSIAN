@@ -139,6 +139,64 @@
     <string name="artist_home_search_hint">Поиск исполнителей</string>
     <string name="artist_is_empty">Введите имя исполнителя</string>
     <string name="artist_name">Исполн.</string>
+    <string name="asm_batch_download_failed">Не удалось загрузить</string>
+    <string name="asm_buy_member_success">VIP-подписка успешно оформлена</string>
+    <string name="asm_dialog_title_tips">VIP-подписка</string>
+    <string name="asm_dialog_vip_confirm_text">Оформить</string>
+    <string name="asm_dialog_vip_message">Оформите VIP-подписку, чтобы слушать музыку в высоком качестве и загружать еще больше контента.</string>
+    <string name="asm_disable_song_click_tip">Этот трек недоступен из-за проблем с авторским правом</string>
+    <string name="asm_download_failed">Не удалось загрузить \"%1$s\"</string>
+    <string name="asm_download_is_downloaded">Загрузка завершена</string>
+    <string name="asm_download_is_downloaded_hq">Загружено в HQ</string>
+    <string name="asm_download_is_downloading">Загрузка…</string>
+    <string name="asm_download_list_not_supported">Не удается загрузить некоторые треки в этом списке</string>
+    <string name="asm_download_pending_status_msg">Подготовка к загрузке…</string>
+    <string name="asm_download_success">Загружено \"%1$s\"</string>
+    <string name="asm_during_the_payment">Проверка состояния платежа…</string>
+    <string name="asm_fail_play_song">Не удалось загрузить трек</string>
+    <string name="asm_google_connect_failed">Не удалось завершить платеж. Убедитесь, что вы выполнили вход в Play Маркет.</string>
+    <string name="asm_google_no_goods">Не удалось получить информацию о товаре</string>
+    <string name="asm_google_not_login">Выполните вход в Play Маркет и повторите попытку</string>
+    <string name="asm_google_pay_success">Создан заказ Google Pay</string>
+    <string name="asm_google_query_failed">Не удалось получить информацию о товаре</string>
+    <string name="asm_google_service_failed">Не удалось запустить службы Google. Повторите попытку.</string>
+    <string name="asm_gooleplay_notice">Службы Google Play не установлены</string>
+    <string name="asm_loadstate_error_retry">Подключитесь к интернету и нажмите, чтобы повторить попытку</string>
+    <string name="asm_loadstate_not_more">На данный момент это все</string>
+    <string name="asm_network_error">Проверьте интернет-соединение</string>
+    <string name="asm_new_song_title">Новый трек</string>
+    <string name="asm_no_need_download_songs">Трек в очереди на загрузку</string>
+    <string name="asm_no_network">Не удалось подключиться к сети</string>
+    <string name="asm_not_action_is_local_music">Не удается выполнить это действие с локальными файлами</string>
+    <string name="asm_notify_use_mobile_download">Загрузка через мобильный интернет</string>
+    <string name="asm_page_empty_search">Нет результатов поиска</string>
+    <string name="asm_page_error_airplane">Выключите режим полета, чтобы подключиться</string>
+    <string name="asm_page_error_data">Произошла ошибка</string>
+    <string name="asm_page_error_no_network">Не удалось подключиться к сети</string>
+    <string name="asm_page_local_empty_action">Поиск музыки</string>
+    <string name="asm_pay_info_deduction_failed">Не удалось завершить автоматический платеж. Проверьте выбранный способ оплаты, чтобы не потерять преимущества VIP-подписки.</string>
+    <string name="asm_pay_info_upload_failed">Не удалось загрузить информацию о заказе</string>
+    <string name="asm_pay_order_generate">Создание заказа…</string>
+    <string name="asm_pay_order_generate_failed">Не удалось создать заказ</string>
+    <string name="asm_pay_query_overtime">Истекло время ожидания запроса состояния платежа</string>
+    <string name="asm_privacy_desc">Политика конфиденциальности Wansheng</string>
+    <string name="asm_privacy_tips_content">Чтобы воспользоваться музыкальными сервисами, согласитесь с <a href="/link/click">Политикой конфиденциальности Wansheng</a>.</string>
+    <string name="asm_privacy_tips_title">Политика конфиденциальности Wansheng</string>
+    <string name="asm_pro_center">Подписка</string>
+    <string name="asm_search_result_contain_music">Содержит: \"%1$s\"</string>
+    <string name="asm_song_err_connect">Не удалось подключиться к серверу</string>
+    <string name="asm_song_err_not_exist">Запрошенный источник не найден</string>
+    <string name="asm_song_err_not_exist_clear">Трек не найден. Удалено из очереди.</string>
+    <string name="asm_song_err_play">Не удалось воспроизвести. Повторите попытку.</string>
+    <string name="asm_songlist_all_genre_close">Свернуть все</string>
+    <string name="asm_songlist_all_genre_title">Все категории</string>
+    <string name="asm_songs_is_downloading">Загрузка трека…</string>
+    <string name="asm_stop_action_when_no_network">Подключитесь к сети и повторите попытку</string>
+    <string name="asm_tips_cannot_download_disable_songs">Не удается загрузить этот трек</string>
+    <string name="asm_toast_pay_canceled">Платеж отменен</string>
+    <string name="asm_toast_pay_failed">Не удалось завершить платеж</string>
+    <string name="asm_unknow_album">Неизвестный альбом</string>
+    <string name="asm_unknow_artist">Неизвестный исполнитель</string>
     <string name="audio_ad_countdown">Пропустить рекламу (%s сек.)</string>
     <string name="audio_ad_pass">Пропустить рекламу</string>
     <string name="audio_picker_title">Выберите трек</string>
@@ -238,6 +296,7 @@
     <string name="current_album">Текущая обложка</string>
     <string name="current_lyric">Текущий текст</string>
     <string name="current_version">Текущая версия</string>
+    <string name="daily_recommend_desc">Ежедневные рекомендации, выбранные специально для вас</string>
     <string name="daily_recommendation">Ежедневный микс</string>
     <string name="dark_mode">Тёмный режим</string>
     <string name="data_usage_warning">Предупреждение о трафике</string>
@@ -1287,6 +1346,7 @@
     <string name="pulluprefreshrecyclerview_loading_running">Загрузка…</string>
     <string name="qq_application_id" />
     <string name="queue_is_empty">Очередь пуста</string>
+    <string name="read_and_agree_asm_protocol">&lt;Data>Чтобы воспользоваться музыкальными сервисами, прочтите и примите &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Политику конфиденциальности Wansheng&lt;/a>&lt;/font>.&lt;/Data></string>
     <string name="read_and_agree_hungama_protocol"><Data>Я принимаю &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Политику конфиденциальности Hungama&lt;/a>&lt;/font></Data></string>
     <string name="read_and_agree_joox_protocol"><Data>Я принимаю &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Политику конфиденциальности JOOX&lt;/a>&lt;/font></Data></string>
     <string name="read_and_agree_mi_protocol"><Data>Я принимаю  &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a>&lt;/font> и &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi&lt;/font></Data></string>
@@ -1382,6 +1442,7 @@
     <string name="set_ringtones_failed">Не удалось установить на звонок</string>
     <string name="set_ringtones_successful">Трек \"%s\" установлен на звонок</string>
     <string name="setting_feature_setting">Настройки функций</string>
+    <string name="settings">Настройки</string>
     <string name="settings_search_key_notification">Уведомления Музыки;Музыка;Уведомления;треки</string>
     <string name="settings_search_path_advance">Системные приложения/Музыка/Аккаунт и настройки/Расширенные настройки</string>
     <string name="settings_search_path_main">Системные приложения/Музыка</string>
@@ -1788,5 +1849,6 @@
     <string name="youtube_tab_popular">Популярные</string>
     <string name="youtube_tab_radar">Радар</string>
     <string name="youtube_tab_shorts">Shorts</string>
+    <string name="youtube_tab_tiktok">TikTok</string>
     <string name="youtube_tab_trend">Набирающие популярность</string>
 </resources>
