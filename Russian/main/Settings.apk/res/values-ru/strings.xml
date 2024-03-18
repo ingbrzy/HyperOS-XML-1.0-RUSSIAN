@@ -5687,7 +5687,7 @@ ID: %s
     <string name="mi_service">Mi сервис</string>
     <string name="mi_service_app_detail">Информация о трафике</string>
     <string name="mi_shopping_mall">Mi Store</string>
-    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+    <string name="mi_smart_hub_entry_title">Xiaomi Smart Hub</string>
     <string name="mi_smart_play_entry_title">Mi Smart Play</string>
     <string name="mi_transfer">Mi Mover</string>
     <string name="mi_upi_settings">Аккаунт Mi Pay</string>
