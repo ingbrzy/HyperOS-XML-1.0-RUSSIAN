@@ -50,6 +50,7 @@
     <string name="app_update_needed_banner_description_multiple">Некоторые приложения нужно обновить, чтобы они могли работать с сервисом \"Здоровье и спорт\".</string>
     <string name="app_update_needed_banner_description_single">Приложение \"%1$s\" нужно обновить, чтобы оно могло работать с сервисом \"Здоровье и спорт\".</string>
     <string name="app_update_needed_banner_title">Требуется обновление</string>
+    <string name="app_update_needed_seen">Обновление приложения</string>
     <string name="arm_curl">Сгибание рук</string>
     <string name="auto_delete_button">Автоматическое удаление</string>
     <string name="auto_delete_header">Укажите период, по истечении которого данные будут автоматически удаляться из приложения \"Здоровье и спорт\".</string>
@@ -193,6 +194,7 @@
     <string name="crunch">Скручивания</string>
     <string name="cycle_tracking_category_lowercase">отслеживание цикла</string>
     <string name="cycle_tracking_category_uppercase">Отслеживание цикла</string>
+    <string name="cycling_cadence_series_range">%1$s - %2$s</string>
     <string name="cycling_cadence_series_range_long">%1$s – %2$s</string>
     <string name="cycling_rpm">{count,plural, =1{1 об/мин}one{# об/мин}few{# об/мин}many{# об/мин}other{# об/мин}}</string>
     <string name="cycling_rpm_long">{count,plural, =1{1 оборот в минуту}one{# оборот в минуту}few{# оборота в минуту}many{# оборотов в минуту}other{# оборота в минуту}}</string>
@@ -200,11 +202,14 @@
     <string name="data_access_empty_message">Приложения больше не могут считывать или записывать данные \"%1$s\". В приложении \"Здоровье и спорт\" нет данных \"%2$s\".</string>
     <string name="data_access_exercise_description">Сведения о времени и типе тренировок, количестве кругов, повторений, подходов, гребков и т. д.</string>
     <string name="data_access_sleep_description">Сведения о сне, например о его фазах.</string>
+    <string name="data_entry_header">%1$s • %2$s</string>
     <string name="data_point_action_content_description">Параметры записи</string>
     <string name="data_title">Данные и доступ</string>
     <string name="data_type_separator">", "</string>
     <string name="date_owner_format">%1$s • %2$s</string>
+    <string name="date_range">%1$s - %2$s</string>
     <string name="date_range_long">С %1$s по %2$s</string>
+    <string name="day_duration">%1$s</string>
     <string name="day_duration_accessibility">{count,plural, =1{1 день}one{# день}few{# дня}many{# дней}other{# дня}}</string>
     <string name="day_hour_duration">%1$s и %2$s</string>
     <string name="deadlift">Становая тяга</string>
@@ -318,11 +323,14 @@
     <string name="guided_breathing">Тренировка дыхания</string>
     <string name="gymnastics">Гимнастика</string>
     <string name="handball">Гандбол</string>
+    <string name="hc_get_started_link">https://support.google.com/android?p=get_started_hc</string>
     <string name="health_connect_summary">Доступ к данным о здоровье</string>
     <string name="health_permission_header_description">Приложения с этим разрешением могут читать и записывать данные о вашем здоровье и физической форме</string>
     <string name="heart_rate_long_value">{count,plural, =1{1 удар в минуту}one{# удар в минуту}few{# удара в минуту}many{# ударов в минуту}other{# удара в минуту}}</string>
     <string name="heart_rate_lowercase_label">пульс</string>
     <string name="heart_rate_read_content_description">Чтение данных о пульсе</string>
+    <string name="heart_rate_series_range">%1$s - %2$s</string>
+    <string name="heart_rate_series_range_long">от %1$s до %2$s</string>
     <string name="heart_rate_uppercase_label">Пульс</string>
     <string name="heart_rate_value">{count,plural, =1{1 уд/мин}one{# уд/мин}few{# уд/мин}many{# уд/мин}other{# уд/мин}}</string>
     <string name="heart_rate_variability_lowercase_label">изменение пульса</string>
@@ -468,6 +476,7 @@
     <string name="migration_more_space_needed_screen_title">Недостаточно места</string>
     <string name="migration_not_complete_dialog_button">ОК</string>
     <string name="migration_not_complete_dialog_content">Когда она снова станет доступна, вы получите уведомление.</string>
+    <string name="migration_not_complete_dialog_seen">Миграция не завершена</string>
     <string name="migration_not_complete_dialog_title">Интеграция приложения \"Здоровье и спорт\" не завершена</string>
     <string name="migration_not_complete_notification_action">Подробнее</string>
     <string name="migration_not_complete_notification_title">Интеграция приложения \"Здоровье и спорт\" не завершена</string>
@@ -496,6 +505,7 @@
     <string name="milliseconds_long">{count,plural, =1{1 миллисекунда}one{# миллисекунда}few{# миллисекунды}many{# миллисекунд}other{# миллисекунды}}</string>
     <string name="minute_duration">%1$s мин.</string>
     <string name="minute_duration_accessibility">{count,plural, =1{1 минута}one{# минута}few{# минуты}many{# минут}other{# минуты}}</string>
+    <string name="module_update_needed_seen">Обновление модуля</string>
     <string name="molybdenum">Молибден</string>
     <string name="monounsaturated_fat">Мононенасыщенные жиры</string>
     <string name="mountain_climber">Упражнение \"Альпинист\"</string>
@@ -607,6 +617,8 @@
     <string name="pilates">Пилатес</string>
     <string name="plank">Планка</string>
     <string name="playstore_app_title">Google Play</string>
+    <string name="playstore_collection_url">https://play.google.com/store/apps/collection/promotion_all__health_connect</string>
+    <string name="playstore_manage_apps_url">https://play.google.com/apps</string>
     <string name="polyunsaturated_fat">Полиненасыщенные жиры</string>
     <string name="potassium">Калий</string>
     <string name="pounds_long_label">{count,plural, =1{1 фунт}one{# фунт}few{# фунта}many{# фунтов}other{# фунта}}</string>
@@ -616,6 +628,7 @@
     <string name="power_uppercase_label">Мощность</string>
     <string name="power_write_content_description">Запись данных о мощности</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
+    <string name="previously_opened">Ранее открытые</string>
     <string name="priority_dialog_message">Если данные \"%s\" поступят от нескольких приложений, сервис \"Здоровье и спорт\" отдаст приоритет тому, которое выше других в списке. Чтобы изменить порядок, перетащите приложения на нужные места.</string>
     <string name="priority_dialog_positive_button">Сохранить</string>
     <string name="priority_dialog_title">Задайте приоритет приложений</string>
@@ -631,6 +644,7 @@
     <string name="recent_access_header">Доступ за последнее время</string>
     <string name="recent_access_screen_description">Посмотрите, какие приложения получали доступ к вашим данным за последние 24 ч.</string>
     <string name="repetitions">{count,plural, =1{1 повт.}one{# повт.}few{# повт.}many{# повт.}other{# повт.}}</string>
+    <string name="repetitions_format">%1$s: %2$s</string>
     <string name="repetitions_long">{count,plural, =1{1 повтор}one{# повтор}few{# повтора}many{# повторов}other{# повтора}}</string>
     <string name="request_permissions_allow">Открыть доступ</string>
     <string name="request_permissions_allow_all">Разрешить все</string>
@@ -691,6 +705,7 @@
     <string name="selenium">Селен</string>
     <string name="send_feedback">Отправить отзыв</string>
     <string name="send_feedback_description">Расскажите, какие приложения для здоровья и фитнеса вы хотели бы использовать с сервисом \"Здоровье и спорт\"</string>
+    <string name="session_title">%1$s, %2$s</string>
     <string name="set_auto_delete_button">Настроить автоматическое удаление</string>
     <string name="set_units_label">Выбрать единицы измерения</string>
     <string name="settings_and_help_header">Настройки и справка</string>
@@ -714,6 +729,9 @@
     <string name="sleep_lowercase_label">сон</string>
     <string name="sleep_read_content_description">Чтение данных о сне</string>
     <string name="sleep_session_default">Сон: %1$s</string>
+    <string name="sleep_session_with_notes">"%1$s 
+%2$s"</string>
+    <string name="sleep_session_with_one_field">%1$s</string>
     <string name="sleep_stage_awake">бодрствование</string>
     <string name="sleep_stage_awake_in_bed">пробуждение</string>
     <string name="sleep_stage_deep">крепкий сон</string>
@@ -796,6 +814,7 @@
     <string name="tennis">Теннис</string>
     <string name="thiamin">Тиамин</string>
     <string name="things_to_try">Что можно попробовать</string>
+    <string name="time_range">%1$s - %2$s</string>
     <string name="time_range_all">Все</string>
     <string name="time_range_long">С %1$s до %2$s</string>
     <string name="time_range_message_all">Все данные, добавленные в Health Connect за выбранный период времени, будут навсегда удалены.</string>
@@ -866,6 +885,7 @@
     <string name="weight_uppercase_label">Вес</string>
     <string name="weight_write_content_description">Запись данных о весе</string>
     <string name="weightlifting">Тяжелая атлетика</string>
+    <string name="whats_new_dialog_seen">Что нового</string>
     <string name="wheelchair">Езда в инвалидной коляске</string>
     <string name="wheelchair_pushes">{count,plural, =1{1 толчок}one{# толчок}few{# толчка}many{# толчков}other{# толчка}}</string>
     <string name="wheelchair_pushes_lowercase_label">толчки коляски</string>

@@ -143,33 +143,42 @@
     <string name="ai_album_setting_sub_title">Разрешить алгоритмам ИИ определять людей, места и объекты на фото, чтобы можно было быстрее их находить</string>
     <string name="ai_album_setting_title">Определять объекты на фото</string>
     <string name="ai_cancel">Отмена</string>
-    <string name="ai_cancel_image_message">Загруженные фото сохранены не будут, если остановите сейчас генерацию изображения с помощью алгоритмов ИИ</string>
+    <string name="ai_cancel_image_message">Загруженные фото не будут сохранены, если остановите сейчас генерацию ИИ-изображения</string>
     <string name="ai_cancel_image_title">Остановить генерацию?</string>
     <string name="ai_confirm">ОК</string>
     <string name="ai_confirm_cancel_image_btn">Остановить</string>
-    <string name="ai_confirm_create_image">Генерация изображения</string>
+    <string name="ai_confirm_create_image">Генерация ИИ-изображения</string>
     <string name="ai_confirm_delete_image_message">Вы не сможете использовать это изображение для генерации новых фото с помощью алгоритмов ИИ</string>
-    <string name="ai_confirm_delete_image_title">Удалить изображение?</string>
+    <string name="ai_confirm_delete_image_title">Удалить ИИ-изображение?</string>
     <string name="ai_continue_create_btn">Продолжить</string>
     <string name="ai_continue_update_image_btn">Продолжить</string>
-    <string name="ai_create_ai_image">Генерация изображения</string>
-    <string name="ai_create_image_fail">Не удалось сгенерировать изображение из-за ошибки сервера. Попробуйте еще раз.</string>
+    <string name="ai_continue_upload_photo">Продолжить</string>
+    <string name="ai_create_ai_image">Генерация ИИ-изображения</string>
+    <string name="ai_create_image_fail">Не удалось сгенерировать ИИ-изображение из-за ошибки сервера. Попробуйте еще раз.</string>
+    <string name="ai_create_image_fail_by_illegal_photo">"Выбранные фото нарушают стандарты нашего сообщества.
+Выберите другие."</string>
+    <string name="ai_create_image_fail_by_net">Не удалось сгенерировать ИИ-изображение AI. Серверы заняты. Попробуйте позже.</string>
     <string name="ai_create_image_photo_tip">Фото будут удалены с наших серверов после генерации изображения</string>
     <string name="ai_create_image_queue_time">%1$s | %2$s</string>
-    <string name="ai_create_image_tip">Фото будут удалены с наших серверов после генерации изображения</string>
+    <string name="ai_create_image_tip">Фото будут удалены с наших серверов после генерации ИИ-изображения</string>
     <string name="ai_create_remain_time" formatted="false">Время ожидания: %1s %2s</string>
     <string name="ai_creating_image_tip">Вы получите уведомление, когда изображение будет готово</string>
-    <string name="ai_creating_image_title">Генерация изображения…</string>
+    <string name="ai_creating_image_title">Генерация ИИ-изображения…</string>
     <string name="ai_creation_button">Генерация</string>
     <string name="ai_creation_button_msg">Генерация новых портретов</string>
     <string name="ai_creation_container_title">История</string>
     <string name="ai_creation_count_limit_msg">Исчерпан лимит генерации портретов на сегодня. Приходите завтра.</string>
     <string name="ai_creation_delete_msg">Удалить эту запись из истории?</string>
     <string name="ai_creation_delete_title">Внимание</string>
+    <string name="ai_creation_record_footer_tips">Вы можете только просматривать изображения, созданные на этом устройстве. После выхода из аккаунта Xiaomi они будут удалены.</string>
     <string name="ai_creation_recreate_button">Начать заново</string>
     <string name="ai_creation_save_failed_msg">Не удалось сохранить. Повторите попытку.</string>
     <string name="ai_creation_save_success_msg">Успешно сохранено</string>
     <string name="ai_creation_wait_message">Генерация… | %1$s | %2$s</string>
+    <string name="ai_cta_agree_btn">Разрешить</string>
+    <string name="ai_cta_dialog_message">Разрешите Галерее подключение к интернету для создания ИИ-портретов</string>
+    <string name="ai_cta_dialog_title">Предоставьте разрешения</string>
+    <string name="ai_cta_refuse_btn">Отмена</string>
     <string name="ai_deal_file_tip">Не покидайте эту страницу</string>
     <string name="ai_deal_file_title">Обработка фото…</string>
     <string name="ai_deal_tile_text">Расчёт времени…</string>
@@ -177,17 +186,22 @@
     <string name="ai_delete_image_progress_message">Удаление…</string>
     <string name="ai_delete_image_success">Изображение удалено</string>
     <string name="ai_download_filter_photo_so_confirm_btn">Загрузить</string>
+    <string name="ai_download_filter_photo_so_downloading">Загрузка плагина…</string>
+    <string name="ai_download_filter_photo_so_message">Загрузите плагин для генерации ИИ-портретов</string>
+    <string name="ai_download_filter_photo_so_title">Загрузка плагина</string>
+    <string name="ai_download_filter_so_fail_toast">Не удалось загрузить плагин. Повторите попытку.</string>
     <string name="ai_enhance_bar_default">HD-изображение</string>
     <string name="ai_enhance_bar_failed">Не удалось сгенерировать HD-изображение</string>
     <string name="ai_ensure_exit_select_message">Если выйдете сейчас, в следующий раз вам придется заново выбирать фото. Выйти?</string>
     <string name="ai_ensure_exit_select_title">Подтверждение выхода</string>
-    <string name="ai_entrance_description">Генерация портрета на основе фото с помощью алгоритмов ИИ</string>
-    <string name="ai_entrance_title">Генерация портрета</string>
+    <string name="ai_entrance_description">Генерация портрета на основе выбранных фото с помощью алгоритмов ИИ</string>
+    <string name="ai_entrance_title">ИИ-портрет</string>
     <string name="ai_exit">Выход</string>
     <string name="ai_filter_album_tag">Отфильтрованы люди, для которых недостаточное количество фото</string>
     <string name="ai_free_creation_button">Генерация</string>
     <string name="ai_free_creation_container_msg">Например: прогулка по пляжу</string>
     <string name="ai_free_creation_container_title">Введите описание</string>
+    <string name="ai_free_creation_illegal_text_toast">Этот текст нарушает стандарты нашего сообщества. Измените сообщение.</string>
     <string name="ai_free_creation_random_button">Случайное</string>
     <string name="ai_free_creation_text_container_tips">Наши алгоритмы ИИ для генерации изображений постоянно совершенствуются. Если вам не понравился результат, всегда можете повторить попытку чуть позже.</string>
     <string name="ai_free_creation_text_count_exceed_limit">Слишком длинный текст</string>
@@ -196,33 +210,38 @@
     <string name="ai_free_theme_title">На основе текста</string>
     <string name="ai_get_it_btn">Понятно</string>
     <string name="ai_go_to_select_photo">Выберите фотографии</string>
-    <string name="ai_has_image_tip">Изображение готово</string>
+    <string name="ai_has_image_tip">ИИ-изображение готово</string>
     <string name="ai_have_a_think_btn">Отмена</string>
     <string name="ai_illegal_photo_tip">"Выбранные фото нарушают стандарты нашего сообщества.
-Выберите другие и повторите попытку."</string>
-    <string name="ai_image_count_limit_msg">Исчерпан лимит генерации изображений на сегодня. Приходите завтра.</string>
+Выберите другие."</string>
+    <string name="ai_image_count_limit_msg">Исчерпан лимит генераций ИИ-изображений на сегодня. Приходите завтра.</string>
     <string name="ai_image_creating_failed_msg">Не удалось сгенерировать изображение для %s</string>
     <string name="ai_image_creating_msg">Генерация изображения для %s</string>
-    <string name="ai_image_manager_empty_msg">Просмотр исходных фото, использованных для генерации изображения в старых версиях этой службы или на другом устройстве, недоступен</string>
+    <string name="ai_image_creation_over_limit_title">Не удалось создать портреты</string>
+    <string name="ai_image_invalid">ИИ-изображение %s удалено</string>
+    <string name="ai_image_invalid_in_update">Идёт обновление ИИ-изображения %s. Дождитесь окончания и повторите попытку.</string>
+    <string name="ai_image_manager_empty_msg">Просмотр исходных фото, использованных для генерации ИИ-изображения в старых версиях этой службы или на другом устройстве, недоступен</string>
     <string name="ai_image_manager_empty_msg_net">Ничего нет</string>
-    <string name="ai_image_manager_re_create_tip">Чтобы обновить сгенерированное изображение, добавьте или удалите фото</string>
+    <string name="ai_image_manager_re_create_tip">Чтобы обновить сгенерированное ИИ-изображение, добавьте или удалите фото</string>
     <string name="ai_image_manager_title">Изменение изображения</string>
-    <string name="ai_image_not_creatable">Идёт обновление изображения. Попробуйте позже.</string>
+    <string name="ai_image_not_creatable">Идёт обновление ИИ-изображения. Попробуйте позже.</string>
     <string name="ai_image_over_limit_button_cancel">Понятно</string>
     <string name="ai_image_over_limit_button_create">Продолжить</string>
     <string name="ai_image_over_limit_title">Не удалось сгенерировать изображение</string>
-    <string name="ai_image_privacy_message"><Data>"Добро пожаловать в ИИ-портреты!&lt;br/>Для работы сервиса, необходим сбор некоторой вашей личной информации:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Для создания ИИ-портретов, на наши серверы будут загружаться &lt;b>фото людей&lt;/b> для генерации ИИ-моделей.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. При загрузке &lt;b>фото людей&lt;/b>, мы будем синхронизировать &lt;b>их имена и фото профиля&lt;/b> из соответствующих альбомов и сопоставлять их с ИИ-изображениями.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Для создания ИИ-изображений на основе текста, мы будем собирать введённые вами &lt;b>текстовые описания&lt;/b>.&lt;br/> Мы собираем только ту личную информацию, которая необходима для конкретных функций наших продуктов и сервисов, которые вы используете. О том, как мы собираем и обрабатываем личную информацию, вы можете узнать в &lt;a href=\"%4$s\">Политике конфиденциальности&lt;/a>.&lt;br/>Прежде чем продолжить, прочтите и примите &lt;a href=\"%5$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%6$s\">Политику конфиденциальности&lt;/a>."</Data></string>
+    <string name="ai_image_over_limit_title_update">Не удалось обновить изображения</string>
+    <string name="ai_image_privacy_message"><Data>"Добро пожаловать в ИИ-портреты!&lt;br/>Для работы сервиса, необходим сбор некоторой вашей личной информации:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Для генерации ИИ-портретов на наши серверы будут загружаться выбранные вами &lt;b>фото людей&lt;/b>.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. При загрузке выбранных &lt;b>фото людей&lt;/b>, мы будем синхронизировать &lt;b>их имена и фото профиля&lt;/b> из соответствующих альбомов и сопоставлять их с ИИ-изображениями.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Для генерации ИИ-изображений на основе текста, мы будем собирать введённые вами &lt;b>текстовые описания&lt;/b>.&lt;br/> Мы собираем только ту личную информацию, которая необходима для конкретных функций наших продуктов и сервисов, которые вы используете. О том, как мы собираем и обрабатываем личную информацию, вы можете узнать в &lt;a href=\"%4$s\">Политике конфиденциальности&lt;/a>.&lt;br/>Прежде чем продолжить, прочтите и примите &lt;a href=\"%5$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%6$s\">Политику конфиденциальности&lt;/a>."</Data></string>
     <string name="ai_input_name_hint">Введите имя</string>
     <string name="ai_loading">Подождите…</string>
     <string name="ai_multi_window_tip">Разделение экрана недоступно для этой страницы</string>
     <string name="ai_network_failed">Не удалось подключиться к сети. Повторите попытку позже.</string>
     <string name="ai_new_name_title">Введите название</string>
-    <string name="ai_no_access_message">Вы не являетесь бета-тестером. Подайте заявку на сайте Xiaomi Community для возможности создания портретов с помощью ИИ.</string>
+    <string name="ai_no_access_message">Вы не являетесь бета-тестером. Подайте заявку на сайте Xiaomi Community для возможности генерации ИИ-портретов.</string>
     <string name="ai_no_access_title">Необходимы разрешения бета-тестера</string>
     <string name="ai_no_net_toast">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="ai_normal_theme_button">Генерация</string>
     <string name="ai_photo_upload_fail">Не удалось загрузить. Повторите попытку.</string>
-    <string name="ai_plugin_install_msg">Загрузите плагин для возможности создания портретов с помощью ИИ</string>
+    <string name="ai_photos_upload_fail_tip">Фото %s еще не загружены. Вы можете продолжить загрузку сейчас.</string>
+    <string name="ai_plugin_install_msg">Загрузите плагин для генерации ИИ-портретов</string>
     <string name="ai_plugin_install_title">Загрузка плагина</string>
     <string name="ai_plugin_installing_tip">Загрузка плагина…</string>
     <string name="ai_preview_failed_retry_button">Повтор</string>
@@ -232,9 +251,13 @@
     <string name="ai_privacy_title">Заявление о конфиденциальности</string>
     <string name="ai_re_create_image">Повтор</string>
     <string name="ai_ready_to_have_try">Начать</string>
-    <string name="ai_refuse_update_toast">Выберите новые фото для обновления сгенерированного изображения</string>
+    <string name="ai_recreate_image_cancel_text_btn">Продолжить</string>
+    <string name="ai_recreate_image_confirm_text_btn">Выбрать</string>
+    <string name="ai_recreate_image_dialog_msg">Вы можете продолжить загрузку или выбрать новые</string>
+    <string name="ai_recreate_image_dialog_title">Фото %s еще не загружены</string>
+    <string name="ai_refuse_update_toast">Выберите новые фото для обновления ИИ-изображения</string>
     <string name="ai_select_people_sub_title" formatted="false">%1d–%2d лучших фото будут выбраны автоматически</string>
-    <string name="ai_select_people_title">Выберите человека для генерации его изображения</string>
+    <string name="ai_select_people_title">Выберите человека для генерации его ИИ-изображения</string>
     <string name="ai_select_photo_complete_description" formatted="false">"Выберите фото лица или портреты (%1d–%2d).
 Лучшие фото выбраны автоматически. Остальные фото добавьте вручную."</string>
     <string name="ai_select_photo_complete_toast">Лучшие фото выбраны автоматически</string>
@@ -249,6 +272,7 @@
     <string name="ai_select_photo_manual">Выбрать вручную</string>
     <string name="ai_select_photo_need_select_manual">Добавьте фото</string>
     <string name="ai_select_photo_next_step">Далее</string>
+    <string name="ai_select_photo_no_result_toast">Не удалось сгенерировать ИИ-изображение на основе этих фото. Выберите другие.</string>
     <string name="ai_select_photo_over_time_toast">Лучшие фото выбраны автоматически. Добавьте остальные вручную.</string>
     <string name="ai_select_photo_right_guide_face">Лицо обращено вперёд</string>
     <string name="ai_select_photo_right_guide_multi_bg">Разнообразный фон</string>
@@ -261,8 +285,8 @@
     <string name="ai_tip_title">Внимание</string>
     <string name="ai_update_full_description">Лимит для текущего месяца исчерпан</string>
     <string name="ai_update_image">ОК</string>
-    <string name="ai_update_image_confirm_message">Обновленное изображение будет сгенерировано на основе выбранной фотографии. Продолжить?</string>
-    <string name="ai_update_image_confirm_title">Обновление изображения</string>
+    <string name="ai_update_image_confirm_message">Обновленное ИИ-изображение будет сгенерировано на основе выбранного фото. Продолжить?</string>
+    <string name="ai_update_image_confirm_title">Обновление ИИ-изображения</string>
     <string name="ai_update_warn_message">Внимание! Обновление сгенерированного изображения доступно только раз в месяц. Продолжить?</string>
     <string name="ai_use_photo_tip">Использованные фото</string>
     <string name="album_ai_creative">ИИ-портреты</string>
