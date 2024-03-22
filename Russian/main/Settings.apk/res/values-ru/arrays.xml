@@ -1507,7 +1507,7 @@
         <item>8 часов</item>
     </string-array>
     <string-array name="smart_device_control_entries">
-        <item>@string/mi_smart_hub_entry_title</item>
+        <item>Xiaomi Smart Hub</item>
         <item>Умный дом</item>
         <item>Нет</item>
     </string-array>

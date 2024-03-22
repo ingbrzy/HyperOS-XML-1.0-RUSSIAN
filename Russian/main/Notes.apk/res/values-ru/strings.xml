@@ -290,7 +290,7 @@
     <string name="menu_folders">Папки</string>
     <string name="menu_group">Создать папку</string>
     <string name="menu_hide">Скрыть</string>
-    <string name="menu_more_description">Eще</string>
+    <string name="menu_more_description">Ещё</string>
     <string name="menu_move_parent_folder">Назад</string>
     <string name="menu_move_to">Переместить</string>
     <string name="menu_new_display_open">Открыть в новом окне</string>
@@ -569,7 +569,8 @@
     <string name="permission_storage_desc_new_v12">Для добавления изображений в заметки и сохранения заметок в виде изображений</string>
     <string name="permission_storage_desc_pad_new_v12">Для добавления изображений в заметки и сохранения заметок в виде изображений</string>
     <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI сохранит ваши голосовые записи и ID устройства для транскрибирования и создания голосовых заметок. Узнайте больше о Mi AI в &lt;a href=\"%1$s\"&gt;Политике конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
-    <string name="permission_xiaoai_desc_m"><Data>Для преобразования речи в текст, Mi AI необходимо разрешение на сбор аудиоданных и получение IMEI. Перед использованием прочтите &lt;a href=\"%1$s\">аявление о совместном использовании данных третьими сторонами&lt;/a>. Подробности в &lt;a href=\"%2$s\">Политике конфиденциальности&lt;/a> Mi AI.</Data></string>
+    <string name="permission_xiaoai_desc_m"><Data>Для преобразования речи в текст, Mi AI необходимо разрешение на сбор аудиоданных и получение IMEI. Перед использованием прочтите &lt;a href=\"%1$s\">Заявление о совместном использовании данных третьими сторонами&lt;/a>. Узнать больше о связанных функциях можно в &lt;a href=\"%2$s\">Политике конфиденциальности&lt;/a> Mi AI.</Data></string>
+    <string name="permission_xiaoai_desc_n"><Data>Для работы служб преобразования речи в текст, приложению Заметки необходимы разрешения на сбор аудиоконтента и получение IMEI устройства. Перед использованием этой функции прочтите и примите &lt;a href=\"%1$s\">Заявление о совместном использовании данных третьими сторонами&lt;/a>. Узнать больше о связанных функциях можно в &lt;a href=\"%2$s\">Политике конфиденциальности&lt;/a> Mi AI.</Data></string>
     <string name="permission_xiaoai_desc_new"><Data>Для преобразования речи в текст, Mi AI необходимо разрешение на сбор аудиоданных и получение идентификатора устройства, который генерируется случайным образом. Перед использованием прочтите &lt;a href=\"%1$s\">Заявление о совместном использовании данных третьими сторонами&lt;/a>. Подробности в &lt;a href=\"%2$s\">Политике конфиденциальности&lt;/a> Mi AI.</Data></string>
     <string name="permission_xiaoai_title">Преобразование речи в текст</string>
     <string name="permlab_accessNote">Доступ к заметкам</string>

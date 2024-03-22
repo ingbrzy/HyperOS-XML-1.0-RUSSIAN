@@ -667,7 +667,7 @@
     <string name="hyper_mind">HyperMind</string>
     <string name="hyper_mind_close_warning">Внимание</string>
     <string name="hyper_mind_close_warning_checkbox">Больше не показывать</string>
-    <string name="hyper_mind_close_warning_content">Если вы отключите эту функцию, HyperMind больше не сможет изучать или использовать ваши шаблоны. Если хотите отозвать согласие на сбор ваших данных, нажмите &lt;a href=%1$s>здесь&lt;/a>.</string>
+    <string name="hyper_mind_close_warning_content">Если вы отключите эту функцию, HyperMind больше не сможет изучать или использовать ваши шаблоны. Если хотите отозвать согласие на сбор ваших данных, нажмите &lt;a href=\"%1$s\">здесь&lt;/a>.</string>
     <string name="hyper_mind_close_warning_ok">Понятно</string>
     <string name="hyper_mind_xiaomi">Xiaomi</string>
     <string name="icon_content_description">Иконка диалога</string>

@@ -9640,6 +9640,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="tip_remove_data">Сброс к заводским настройкам удалит эти элементы с вашего устройства</string>
     <string name="title_change_system_locale">"Сменить язык системы на %s?"</string>
     <string name="title_color_calibration">Коррекция цвета</string>
+    <string name="title_device_control">Управление устройством</string>
     <string name="title_font">Шрифт</string>
     <string name="title_font2">Шрифт</string>
     <string name="title_font_current">Системный шрифт</string>
@@ -9660,6 +9661,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="title_special_features_health_global">Частота пульса</string>
     <string name="title_unavailable_locale">"%s недоступен"</string>
     <string name="title_wordless_mode">Скрыть подписи значков</string>
+    <string name="title_xiaomi_smart_hub">Xiaomi Smart Hub</string>
     <string name="to_close">Отключить</string>
     <string name="to_switch_networks_disconnect_ethernet">Чтобы переключиться между сетями, отключите кабель Ethernet</string>
     <string name="toast_allows_restricted_settings_successfully">Приложению \"%s\" разрешён доступ к настройкам.</string>

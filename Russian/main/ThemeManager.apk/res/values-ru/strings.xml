@@ -465,6 +465,8 @@
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="gallery_wallpaper">Карусель обоев</string>
+    <string name="gallery_wallpaper_history">Нажмите для просмотра истории изображений карусели обоев</string>
+    <string name="gallery_wallpaper_history_go">Просмотр</string>
     <string name="gallery_wallpaper_theme">Рекомендуемые</string>
     <string name="gift_share">Отправить</string>
     <string name="goto_purchased_list">История покупок</string>
@@ -1690,6 +1692,7 @@ mm"</string>
     <string name="wallpaper_download_incall_show">Загрузить</string>
     <string name="wallpaper_dynamic">Живые</string>
     <string name="wallpaper_group_set_loop">Слайд-шоу с похожими изображениями</string>
+    <string name="wallpaper_history">История обоев</string>
     <string name="wallpaper_light_mode_image_preview_tip">Предпросмотр светлого режима</string>
     <string name="wallpaper_loop_add_success">Обои успешно добавлены</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Добавить в слайд-шоу рабочего стола</string>
