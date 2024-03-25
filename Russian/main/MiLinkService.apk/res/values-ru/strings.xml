@@ -325,7 +325,7 @@
     <string name="circulate_sport_device_find_stop_failed">Не удалось остановить поиск. Повторите попытку.</string>
     <string name="circulate_sport_device_find_watch">Найти эти часы</string>
     <string name="circulate_taking_photo">Использование камеры устройства…</string>
-    <string name="circulate_title">Mi Smart Hub</string>
+    <string name="circulate_title">Xiaomi Smart Hub</string>
     <string name="circulate_to_mijia">Устройства \"умного\" дома</string>
     <string name="circulate_tv_app_opening">Открытие на ТВ…</string>
     <string name="circulate_tv_capturing">Создание скриншота…</string>
@@ -884,7 +884,7 @@
     <string name="onehop_mirror_guide_message_button">Понятно</string>
     <string name="onehop_mirror_guide_message_text_1">Трансляция экрана устройства на ПК одним касанием</string>
     <string name="onehop_mirror_guide_message_text_2">Выберите фото, видео и другие файлы из Галереи или Проводника для передачи на ПК</string>
-    <string name="onehop_mirror_guide_message_title">Mi Smart Hub</string>
+    <string name="onehop_mirror_guide_message_title">Xiaomi Smart Hub</string>
     <string name="open_game_accelerate">Включить Ускорение игр</string>
     <string name="p2p_location_des">Для подключения устройства к внешним мониторам</string>
     <string name="paipai_connect_btn_text">Готово</string>

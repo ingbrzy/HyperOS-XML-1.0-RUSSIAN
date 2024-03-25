@@ -93,7 +93,7 @@
     <string-array name="settings_search_connection_home">
         <item>Взаимосвязанность</item>
         <item>Взаимосвязанность/Взаимосвязанность</item>
-        <item>Взаимосвязанность устройств, Службы взаимосвязанности устройств, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, умное подключение, Mi Smart Hub, Взаимосвязанность, Duo, телефон Xiaomi, ноутбук Xiaomi, Несколько экранов, Дуэт, трансляция, Комбинирование приложений, handoff, handoff для приложений, Повтор экрана, Экосистема Xiaomi, подключение устройства</item>
+        <item>Взаимосвязанность устройств, Службы взаимосвязанности устройств, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, умное подключение, Xiaomi Smart Hub, Взаимосвязанность, Duo, телефон Xiaomi, ноутбук Xiaomi, Несколько экранов, Дуэт, трансляция, Комбинирование приложений, handoff, handoff для приложений, Повтор экрана, Экосистема Xiaomi, подключение устройства</item>
     </string-array>
     <string-array name="settings_search_connection_privacy">
         <item>Конфиденциальность</item>
@@ -123,7 +123,7 @@
     <string-array name="settings_search_share_Launcher">
         <item>Рабочий стол+</item>
         <item>Службы взаимосвязанности/Рабочий стол+</item>
-        <item>Рабочий стол+, Mi Smart Hub, дублирование экрана</item>
+        <item>Рабочий стол+, Xiaomi Smart Hub, дублирование экрана</item>
     </string-array>
     <string-array name="settings_search_share_clipboard">
         <item>Буфер обмена</item>
