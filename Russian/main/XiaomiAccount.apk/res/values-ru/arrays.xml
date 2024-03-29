@@ -135,7 +135,7 @@
     <string-array name="settings_search_change_password">
         <item>Изменение пароля</item>
         <item>Изменение пароля аккаунта Xiaomi</item>
-        <item>Изменение пароля;Обновление пароля;Mi аккаунт;Аккаунт;Аккаунт Xiaomi</item>
+        <item>Изменение пароля;Смена пароля;Обновление пароля;Mi аккаунт;Аккаунт;Аккаунт Xiaomi</item>
     </string-array>
     <string-array name="settings_search_cloud_space_share">
         <item>Семейное хранилище</item>

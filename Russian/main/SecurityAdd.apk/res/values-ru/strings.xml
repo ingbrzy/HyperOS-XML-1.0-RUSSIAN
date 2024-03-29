@@ -490,7 +490,7 @@
     <string name="parent_unlock_tip_tv_text">Время использования после разблокировки: %s мин.</string>
     <string name="parent_unlock_tv_text">Родительская разблокировка</string>
     <string name="password_change_value_preference_desc">Исходный пароль блокировки экрана будет использоваться для проверки при выходе из детского пространства</string>
-    <string name="password_change_value_preference_title">Изменение пароля</string>
+    <string name="password_change_value_preference_title">Смена пароля</string>
     <string name="password_control_desc">Установка пароля для выхода из детского пространства</string>
     <string name="password_control_title">Защита паролем</string>
     <string name="password_protect">Защита паролем</string>

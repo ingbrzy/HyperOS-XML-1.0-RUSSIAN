@@ -109,7 +109,7 @@
     <string name="cancel">Отмена</string>
     <string name="cancelClosePassword">Не отключать</string>
     <string name="cancel_button">Отмена</string>
-    <string name="changePassword">Изменение пароля</string>
+    <string name="changePassword">Смена пароля</string>
     <string name="change_brightness">Настройка яркости</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>

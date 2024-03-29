@@ -729,12 +729,12 @@
 %s
 Прочтите и примите обновлённую Политики конфиденциальности, прежде чем продолжить."</string>
     <string name="privacy_dialog_title_update">Обновленная Политика конфиденциальности</string>
-    <string name="privacy_password_message1">Пароль конфиденциальности защищает приватные сообщения, фото, заметки и папки</string>
-    <string name="privacy_password_message2">Для защиты приватных сообщений, фото, заметок и папок используйте пароль конфиденциальности</string>
-    <string name="privacy_password_message3">Пароль приватных сообщений будет заменён на пароль конфиденциальности, который защищает приватные сообщения, фото, заметки и папки</string>
+    <string name="privacy_password_message1">Пароль защиты приватности используется для доступа к приватным сообщениям, фото, заметкам и папкам</string>
+    <string name="privacy_password_message2">Используйте пароль защиты приватности для доступа к приватным сообщениям, фото, заметкам и папкам</string>
+    <string name="privacy_password_message3">Пароль приватных сообщений будет заменён на пароль защиты приватности, который также используется для доступа к приватным фото, заметкам и папкам</string>
     <string name="privacy_password_set_password">Задать</string>
     <string name="privacy_password_title1">Задайте пароль</string>
-    <string name="privacy_password_title2">Пароль конфиденциальности</string>
+    <string name="privacy_password_title2">Пароль защиты приватности</string>
     <string name="privacy_password_title3">Обновите ваш пароль</string>
     <string name="privacy_password_title4">Пароль обновлён</string>
     <string name="privacy_policy">Политика конфиденциальности</string>

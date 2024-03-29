@@ -128,6 +128,7 @@
     <string name="confignet_cancel">Отмена</string>
     <string name="confignet_download_title">Установите Mi Фитнес, чтобы продолжить</string>
     <string name="confirm">ОК</string>
+    <string name="cooler_reset">Нажмите %d раз для сопряжения</string>
     <string name="copy">Копировать</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>

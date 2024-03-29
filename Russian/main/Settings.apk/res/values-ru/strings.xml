@@ -1102,7 +1102,7 @@
     <string name="backup_set_enter_old_pw">Введите старый пароль резервного копирования</string>
     <string name="backup_set_enter_pw_title">Ввод пароля</string>
     <string name="backup_set_error_pw">Неверный пароль</string>
-    <string name="backup_set_modify_title">Изменение пароля</string>
+    <string name="backup_set_modify_title">Смена пароля</string>
     <string name="backup_set_new_continue">Продолжить</string>
     <string name="backup_set_new_exit">Выход</string>
     <string name="backup_set_new_pw_confirm_hint">Внимание</string>
@@ -2427,9 +2427,9 @@
     <string name="confirm_new_backup_pw_prompt">Подтвердите пароль</string>
     <string name="confirm_password_with_fingerprint">Используйте отпечаток</string>
     <string name="confirm_password_with_password">Введите пароль</string>
-    <string name="confirm_privacy_password">Введите пароль конфиденциальности</string>
+    <string name="confirm_privacy_password">Введите пароль защиты приватности</string>
     <string name="confirm_privacy_password_fingerprint">"Отсканируйте отпечаток или 
-введите пароль конфиденциальности"</string>
+введите пароль защиты приватности"</string>
     <string name="confirm_reset_aaid">ОК</string>
     <string name="confirm_sim_deletion_description">Подтверждение вашей личности перед очисткой eSIM</string>
     <string name="confirm_sim_deletion_title">Подтверждение очистки</string>
@@ -4895,7 +4895,7 @@ ID: %s
     <string name="keywords_wifi_notify_open_networks">уведомление Wi-Fi, уведомление wifi</string>
     <string name="keywords_write_settings">запись изменение системных настроек</string>
     <string name="keywords_zen_mode_settings">не беспокоить, расписание, уведомления, заблокировать, беззвучный режим, вибрировать, сон, работа, концентрация, звук, отключить звук, день, рабочий день, выходной день, вечер рабочего дня, мероприятие</string>
-    <string name="kid_space_forbidden_set_unlock_password_msg">Установка или изменение пароля для детского пространства недоступно</string>
+    <string name="kid_space_forbidden_set_unlock_password_msg">Установка или смена пароля для детского пространства недоступно</string>
     <string name="kid_space_settings">Детский режим</string>
     <string name="kilobyteShort">" КБ"</string>
     <string name="kilobyte_per_second">" КБ/с"</string>
@@ -6114,7 +6114,7 @@ ID: %s
     <string name="modifier_keys_settings_summary">"Изменить действие клавиш"</string>
     <string name="modify_default_browser_message">Сторонний браузер, установленный по умолчанию, может собирать историю просмотров и другие данные. Установить в любом случае?</string>
     <string name="modify_instruction_password_settings">Настройки защиты</string>
-    <string name="modify_privacy_password">Изменение пароля</string>
+    <string name="modify_privacy_password">Смена пароля</string>
     <string name="module_license_title">Лицензии обновления Google Play</string>
     <string name="module_version">Обновление Google Play</string>
     <string name="monday">Понедельник</string>
@@ -7290,7 +7290,7 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_failed_need_to_unlock_nofingerprint">Введите пароль перед использованием нового отпечатка</string>
     <string name="privacy_file">Приватная папка</string>
     <string name="privacy_gallery">Приватный альбом</string>
-    <string name="privacy_header">"Конфиденциальность"</string>
+    <string name="privacy_header">Приватность</string>
     <string name="privacy_header_text_less_than_half">Слишком мало. Перетащите дальше.</string>
     <string name="privacy_input_mode">Безопасный ввод</string>
     <string name="privacy_input_mode_img_detail">Работает с клавиатурами, авторизованными Xiaomi</string>
@@ -7301,15 +7301,15 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_mode_enable_sum">Скрыть сообщения, заметки, настройки и входящие вызовы</string>
     <string name="privacy_mode_enable_title">Режим \"Гость\"</string>
     <string name="privacy_notes">Приватные заметки</string>
-    <string name="privacy_password">Пароль конфиденциальности</string>
+    <string name="privacy_password">Пароль защиты приватности</string>
     <string name="privacy_password_add_account">Привязать</string>
     <string name="privacy_password_add_account_info">Привяжите аккаунт Xiaomi, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
-    <string name="privacy_password_add_account_setting">Аккаунт и конфиденциальность</string>
+    <string name="privacy_password_add_account_setting">Аккаунт и защиты приватности</string>
     <string name="privacy_password_bind_account">Привязать аккаунт Xiaomi</string>
     <string name="privacy_password_bind_account_immediate">Привязать</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Подтвердите пароль второго пространства</string>
     <string name="privacy_password_confirm_use_finger">Отпечаток</string>
-    <string name="privacy_password_enter_privacy">Введите пароль конфиденциальности</string>
+    <string name="privacy_password_enter_privacy">Введите пароль защиты приватности</string>
     <string name="privacy_password_exit_account_info">После выхода аккаунт будет автоматически отвязан</string>
     <string name="privacy_password_fingerprint_confirm_failed">Не удалось проверить отпечаток</string>
     <string name="privacy_password_fingerprint_confirm_succes">Отпечаток проверен</string>
@@ -7322,16 +7322,16 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_password_not_login_account">Вход не выполнен</string>
     <string name="privacy_password_remind_bind_notlogin_account">Привяжите аккаунт Xiaomi, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
     <string name="privacy_password_remind_bindaccount_title">Привяжите аккаунт Xiaomi</string>
-    <string name="privacy_password_settings">Использовать пароль конфиденциальности</string>
+    <string name="privacy_password_settings">Использовать пароль защиты приватности</string>
     <string name="privacy_password_settings_next">Далее</string>
-    <string name="privacy_password_settings_summary">Пароль конфиденциальности защищает приватные сообщения, фото, файлы и заметки</string>
-    <string name="privacy_password_settings_titles">Пароль конфиденциальности защищает приватные сообщения, фото, файлы и заметки</string>
-    <string name="privacy_password_settings_titles_elder_mode">Пароль конфиденциальности защищает приватные сообщения, фото, файлы и заметки</string>
-    <string name="privacy_password_settings_titles_second_space">Пароль конфиденциальности защищает приватные сообщения, фото, файлы и заметки</string>
-    <string name="privacy_password_title">Пароль конфиденциальности</string>
+    <string name="privacy_password_settings_summary">Пароль защиты приватности используется для приложений, которые могут содержать приватные данные</string>
+    <string name="privacy_password_settings_titles">Пароль защиты приватности используется для доступа к приватным сообщениям, фото, файлам и заметкам</string>
+    <string name="privacy_password_settings_titles_elder_mode">Пароль защиты приватности используется для доступа к приватным фото, файлам и заметкам</string>
+    <string name="privacy_password_settings_titles_second_space">Пароль защиты приватности используется для доступа к приватным сообщениям, фото и заметкам</string>
+    <string name="privacy_password_title">Пароль защиты приватности</string>
     <string name="privacy_password_toggle_summary">Запрашивать пароль при каждом доступе к приватным данным</string>
     <string name="privacy_password_transparent_tiltle" />
-    <string name="privacy_password_use_finger_dialog_mess">Вы можете использовать отпечаток с паролем конфиденциальности</string>
+    <string name="privacy_password_use_finger_dialog_mess">Вы можете использовать отпечаток с паролем защиты приватности</string>
     <string name="privacy_password_use_finger_dialog_open">Использовать</string>
     <string name="privacy_password_use_finger_dialog_title">Разблокировка отпечатком</string>
     <string name="privacy_password_use_finger_success">Включено</string>
@@ -8505,7 +8505,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="set_shoulder_key_shortcut_negative_button">Нет</string>
     <string name="set_shoulder_key_shortcut_positive_button">Да</string>
     <string name="set_shoulder_key_shortcut_title">Настройка навесных триггеров</string>
-    <string name="setting_privacy_password">Установите пароль конфиденциальности</string>
+    <string name="setting_privacy_password">Установите пароль защиты приватности</string>
     <string name="settings_ad_loading">Загрузка…</string>
     <string name="settings_ad_loading_unavailable">Не удалось загрузить данные.</string>
     <string name="settings_backup">Создать резервную копию настроек</string>

@@ -820,7 +820,7 @@
     <string name="server_control_settings">Настройки</string>
     <string name="set_pattern">Обновите пароль</string>
     <string name="set_pattern_btn">Задать</string>
-    <string name="set_pattern_msg">Задайте пароль ещё раз. Пароль конфиденциальности также защищает фотографии, сообщения и заметки.</string>
+    <string name="set_pattern_msg">Задайте пароль ещё раз. Пароль защиты приватности также используется для доступа к приватным сообщениям, фото, заметкам и папкам.</string>
     <string name="size_lv1">Меньше %d КБ</string>
     <string name="size_lv2" formatted="false">%1d КБ - %2d МБ</string>
     <string name="size_lv3" formatted="false">%1d МБ - %2d МБ</string>
@@ -965,7 +965,7 @@
     <string name="ui_main_toast_favorite_removed">Удалено из избранных</string>
     <string name="ui_main_toast_operation_failed">Ошибка удаления %1$s из избранных</string>
     <string name="unknown_error">Произошла неизвестная ошибка. Подождите немного и повторите попытку.</string>
-    <string name="unlock_pattern_msg">Пароль конфиденциальности также защищает фотографии, сообщения и заметки.</string>
+    <string name="unlock_pattern_msg">Пароль защиты приватности также используется для доступа к приватным сообщениям, фото, заметкам и папкам</string>
     <string name="unlock_pattern_title">Новый пароль</string>
     <string name="update_no_network">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="upload_user_photo">Отправить</string>
