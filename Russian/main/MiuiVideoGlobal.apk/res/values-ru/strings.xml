@@ -294,7 +294,7 @@ ID: %s
     <string name="dialog_cancel">Отмена</string>
     <string name="dialog_clearn_content">Очистить историю просмотра?</string>
     <string name="dialog_clearn_title">Очистка истории</string>
-    <string name="dialog_confirm">ОК</string>
+    <string name="dialog_confirm">Добавить</string>
     <string name="dialog_delete_bookmarks_content">Удалить закладку?</string>
     <string name="dialog_disagree_continue">Продолжить</string>
     <string name="dialog_disagree_info">В случае несогласия с Политикой конфиденциальности Mi Видео, онлайн-сервисы будут недоступны, вы сможете использовать Mi Видео только как локальный видеоплеер. Продолжить?</string>

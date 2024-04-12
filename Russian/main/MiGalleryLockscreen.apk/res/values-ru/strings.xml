@@ -283,6 +283,12 @@
     <string name="later">Не выключать</string>
     <string name="launch_bg_permission_exception">Разрешите приложению всплывающие окна в фоновом режиме</string>
     <string name="left_lks_detail_entrance">Ещё</string>
+    <string name="left_lks_download_now">Загрузить</string>
+    <string name="left_lks_reverse">Предзаказ</string>
+    <string name="left_lks_view">Просмотр</string>
+    <string name="left_xout_frequently">Слишком часто показывается</string>
+    <string name="left_xout_low_quality">Низкое качество рекламы</string>
+    <string name="left_xout_title">Почему не хотите видеть эту рекламу?</string>
     <string name="like">Добавить в избранные</string>
     <string name="liked">Добавлено в избранные</string>
     <string name="lks_cta_dont_mention">Больше не показывать</string>

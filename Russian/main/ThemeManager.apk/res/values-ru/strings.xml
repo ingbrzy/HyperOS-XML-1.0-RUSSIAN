@@ -595,6 +595,7 @@
     <string name="local_photos">Фото на устройстве</string>
     <string name="local_resouce_creator_name">Автор: %1$s</string>
     <string name="lock_screen_apply">Установить на экран блокировки</string>
+    <string name="lock_screen_card_title">Художественный экран блокировки</string>
     <string name="lock_screen_keyguard_guide_popup">Попробуйте новые функции и дизайн экрана блокировки</string>
     <string name="lock_screen_keyguard_tip_title">Новый вид экрана блокировки</string>
     <string name="lockscreen_apply_failured">Не удалось установить обои на экран блокировки</string>

@@ -797,8 +797,10 @@
     <string name="toast_excerpt_saved">Сохранение выдержки в Заметках…</string>
     <string name="toast_message_add_image_fail">Не удалось добавить изображение</string>
     <string name="toast_notes_delete_success">Удаление завершено</string>
-    <string name="toast_notes_hidden_edit">Заметка успешно скрыта. Потяните вниз для просмотра скрытых заметок.</string>
-    <string name="toast_notes_hidden_home">Заметка успешно скрыта. Потяните вниз для просмотра скрытых заметок.</string>
+    <string name="toast_notes_hidden_edit">Заметка скрыта. Потяните вниз для просмотра скрытых заметок.</string>
+    <string name="toast_notes_hidden_edit_new">Заметка скрыта. Потяните вниз для просмотра скрытых заметок.</string>
+    <string name="toast_notes_hidden_home">Заметка скрыта. Потяните вниз для просмотра скрытых заметок.</string>
+    <string name="toast_notes_hidden_home_new">Заметка скрыта. Потяните вниз для просмотра скрытых заметок.</string>
     <string name="toast_notes_hidden_pad">Заметка успешно скрыта. Потяните вниз боковую панель для просмотра скрытых заметок.</string>
     <string name="toast_notes_unhidden">Скрытие заметки отменено</string>
     <string name="toast_pic_is_not_really">Сохранение изображения…</string>

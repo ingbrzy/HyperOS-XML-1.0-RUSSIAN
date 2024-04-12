@@ -4196,10 +4196,10 @@ ID: %s
     <string name="gxzw_anim_title">Анимация отпечатка</string>
     <string name="gxzw_aod_show_summary">Поднимите устройство или коснитесь экрана, чтобы появился значок отпечатка. Эта функция увеличивает расход батареи, но позволяет разблокировать устройство быстрее.</string>
     <string name="gxzw_aod_show_tittle">Показывать значок отпечатка при выключенном экране</string>
-    <string name="gxzw_dialog_message">Защитные пленки для экрана могут мешать распознаванию отпечатков пальцев. Рекомендуется использовать официальную пленку Xiaomi, если требуется защита экрана.</string>
+    <string name="gxzw_dialog_message">Защитные плёнки для экрана могут мешать распознаванию отпечатков пальцев. Рекомендуется использовать официальную плёнку Xiaomi, если требуется защита экрана.</string>
     <string name="gxzw_dialog_not_show_again">Больше не показывать</string>
     <string name="gxzw_dialog_ok">Понятно</string>
-    <string name="gxzw_dialog_title">Совет по защите экрана</string>
+    <string name="gxzw_dialog_title">Использование защитных плёнок</string>
     <string name="gxzw_enroll_again">Поднимите палец и приложите снова к сканеру отпечатков</string>
     <string name="gxzw_lowlight_open_summary">Уменьшить яркость значка отпечатка при низкой освещенности. Когда эта функция включена, разблокировка устройства может работать медленнее.</string>
     <string name="gxzw_lowlight_open_title">Разблокировка при низкой освещенности</string>
@@ -5448,9 +5448,13 @@ ID: %s
     <string name="low_label">Низкая</string>
     <string name="low_storage_summary">Заканчивается свободное место. Занято: %1$s, свободно: %2$s</string>
     <string name="lyra_account_ap_summary">Разрешить планшетам и ПК поблизости, связанным с этим аккаунтом Xiaomi, включать точку доступа на этом устройстве и подключаться к ней</string>
+    <string name="lyra_account_ap_summary_v2">Разрешить планшетам и ПК поблизости, связанным с этим аккаунтом Xiaomi, использовать мобильный интернет этого устройства, а также включать на нём точку доступа и подключаться к ней</string>
     <string name="lyra_account_ap_title">Помощь по сети</string>
+    <string name="lyra_account_ap_title_v2">Общее подключение</string>
     <string name="lyra_auto_connect_summary">Автоматически включать точку доступа и подключать к ней близлежащие устройства, связанные с этим аккаунтом Xiaomi, если они не подключены к сети</string>
+    <string name="lyra_auto_connect_summary_v2">Автоматически включать точку доступа и подключать к ней близлежащие устройства, связанные с этим аккаунтом Xiaomi, если они не подключены к сети, а также использовать мобильный интернет этих устройств</string>
     <string name="lyra_auto_connect_title">Автовключение точки доступа</string>
+    <string name="lyra_auto_connect_title_v2">Общее подключение</string>
     <string name="macaddr_label">MAC-адрес:</string>
     <string name="magic_list_empty_text_pad">Нет приложений, поддерживающих разделение экрана</string>
     <string name="magic_window_name_pad">Разделение экрана</string>

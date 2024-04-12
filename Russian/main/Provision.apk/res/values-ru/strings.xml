@@ -197,68 +197,68 @@
     <string name="interconnection_communication_introduction">Службы интернет-коммуникации Xiaomi позволяют обнаруживать, подключаться и общаться с другими устройствами Xiaomi.</string>
     <string name="interconnection_service_global_item_title">Взаимосвязанность Xiaomi</string>
     <string name="interconnection_service_global_label">"&lt;Data>Взаимосвязанность Xiaomi позволяет вашим устройствам взаимодействовать друг с другом по беспроводной сети. Включая этот переключатель, вы принимаете &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a >.&lt;/Data> Взаимосвязанность Xiaomi.</string>
-    <string name="interconnection_service_summary_china">"Службы взаимосвязанности Xiaomi позволяет устройствам взаимодействовать друг с другом по беспроводной связи и включают в себя Mi Smart Play, трансляцию, Handoff для приложений, Рабочий стол+, общий буфер обмена, захват изображений с разных устройств, сетевой помощник, общие клавиатуры и мыши, общую камеру и Xiaomi Smart Hub. Для нормальной работы служб взаимосвязанности разрешите доступ к интернету и предоставьте следующие разрешения:
-\u0009\u0009Mi Smart Play и трансляция:
-\u0009\u0009Включение и выключение Bluetooth
-\u0009\u0009Для поиска устройств поблизости и подключения по Bluetooth
-\u0009\u0009Включение и выключение Wi-Fi
-\u0009\u0009Для поиска устройств поблизости и передачи файлов по Wi-Fi
-\u0009\u0009Передача файлов на другие устройства
-\u0009\u0009Для установления Bluetooth-соединения между устройствами и передачи файлов
-\u0009\u0009Использование геолокации
-\u0009\u0009Для получения информации об устройствах поблизости
-\u0009\u0009Запись звука с внутреннего устройства
-\u0009\u0009Для передачи и воспроизведения звука между устройствами во время трансляции или зеркалирования
-\u0009\u0009Доступ к фото, видео и аудио на устройстве
-\u0009\u0009Для отправки и получения контента
-\u0009\u0009Доступ к MAC-адресу устройства
-\u0009\u0009Для распознавания подключенных устройств
-\u0009\u0009Доступ к содержимому экрана
-\u0009\u0009Для доступа к содержимому экрана во время записи или трансляции, включая приватную информацию, такую как аудио, пароли, фото, сообщения и т. д.
-\u0009\u0009Handoff для приложений и Рабочий стол+:
-\u0009\u0009Включение и выключение Bluetooth
-\u0009\u0009Для поиска устройств поблизости через Bluetooth
-\u0009\u0009Включение и выключение Wi-Fi
-\u0009\u0009Для поиска устройств поблизости и передачи файлов по Wi-Fi
-\u0009\u0009Доступ к MAC-адресу устройства
-\u0009\u0009Для распознавания подключенных устройств
-\u0009\u0009Доступ к фото, видео и аудио на устройстве
-\u0009\u0009Для отправки и получения контента
-\u0009\u0009Передача файлов на другие устройства
-\u0009\u0009Для установления Bluetooth-соединения между устройствами и передачи файлов
-\u0009\u0009Запись звука с внутреннего устройства
-\u0009\u0009Для передачи и воспроизведения звука между устройствами во время трансляции или зеркалирования
-\u0009\u0009Доступ к содержимому экрана
-\u0009\u0009Для доступа к содержимому экрана во время записи или трансляции, включая приватную информацию, такую как аудио, пароли, фото, сообщения и т. д.
-\u0009\u0009Общий буфер обмена и захват изображений с разных устройств:
-\u0009\u0009Включение и выключение Bluetooth
-\u0009\u0009Для поиска устройств поблизости через Bluetooth
-\u0009\u0009Включение и выключение Wi-Fi
-\u0009\u0009Для поиска устройств поблизости и передачи файлов по Wi-Fi
-\u0009\u0009Доступ к фото, видео и аудио на устройстве
-\u0009\u0009Для отправки и получения контента
-\u0009\u0009Доступ к буферу обмена
-\u0009\u0009Для доступа приложениям к скопированному контенту
-\u0009\u0009Сетевой помощник, общие клавиатуры и мыши, общая камера:
-\u0009\u0009Включение и выключение Bluetooth
-\u0009\u0009Для поиска устройств поблизости через Bluetooth
-\u0009\u0009Включение и выключение Wi-Fi
-\u0009\u0009Для поиска устройств поблизости и передачи файлов по Wi-Fi
-\u0009\u0009Доступ к фото, видео и аудио на устройстве
-\u0009\u0009Для отправки и получения контента
-\u0009\u0009Доступ к камере
-\u0009\u0009Для съёмки фото и видео
-\u0009\u0009Xiaomi Smart Hub:
-\u0009\u0009Включение и выключение Bluetooth
-\u0009\u0009Для поиска устройств поблизости через Bluetooth
-\u0009\u0009Включение и выключение Wi-Fi
-\u0009\u0009Для поиска устройств поблизости и передачи файлов по Wi-Fi
-\u0009\u0009Запись звука с внутреннего устройства
-\u0009\u0009Для передачи и воспроизведения звука между устройствами во время трансляции или зеркалирования
-\u0009\u0009Доступ к фото, видео и аудио на устройстве
-\u0009\u0009Для отправки и получения контента
-В случае отказа предоставить необходимые разрешения, вы не сможете использовать эти службы.
-Доступные службы взаимосвязанности могут различаться в зависимости от версии системы и модели устройства. Подробнее на %s."</string>
+    <string name="interconnection_service_summary_china">Службы взаимосвязанности Xiaomi позволяет устройствам взаимодействовать друг с другом по беспроводной связи. %1$s Доступные службы взаимосвязанности могут различаться, в зависимости от версии системы и модели устройства. Подробнее на %2$s.</string>
+    <string name="interconnection_service_summary_china_fragment1">Эти службы включают в себя включают в себя Mi Smart Play, трансляцию, Handoff для приложений, Рабочий стол+, общий буфер обмена, беспроводной модем (с сетевой синхронизацией), общее управление, общую камеру и Mi Smart Hub. Для нормальной работы служб взаимосвязанности разрешите доступ к интернету и предоставьте следующие разрешения:</string>
+    <string name="interconnection_service_summary_china_fragment10">Для получения информации об устройствах поблизости</string>
+    <string name="interconnection_service_summary_china_fragment11">Запись звука с внутреннего устройства</string>
+    <string name="interconnection_service_summary_china_fragment12">Для передачи и воспроизведения звука между устройствами во время трансляции или зеркалирования</string>
+    <string name="interconnection_service_summary_china_fragment13">Доступ к фото, видео и аудио на устройстве</string>
+    <string name="interconnection_service_summary_china_fragment14">Для отправки и получения контента</string>
+    <string name="interconnection_service_summary_china_fragment15">Доступ к MAC-адресу устройства</string>
+    <string name="interconnection_service_summary_china_fragment16">Для распознавания подключенных устройств</string>
+    <string name="interconnection_service_summary_china_fragment17">Доступ к содержимому экрана</string>
+    <string name="interconnection_service_summary_china_fragment18">Для доступа к содержимому экрана во время записи или трансляции, включая приватную информацию, такую как аудио, пароли, фото, сообщения и т. д.</string>
+    <string name="interconnection_service_summary_china_fragment19">Handoff для приложений и Рабочий стол+:</string>
+    <string name="interconnection_service_summary_china_fragment2">Mi Smart Play и трансляция:</string>
+    <string name="interconnection_service_summary_china_fragment20">Включение и выключение Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment21">Для поиска устройств поблизости и подключения по Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment22">Включение и выключение Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment23">Для поиска устройств поблизости и передачи файлов по Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment24">Доступ к MAC-адресу устройства</string>
+    <string name="interconnection_service_summary_china_fragment25">Для распознавания подключенных устройств</string>
+    <string name="interconnection_service_summary_china_fragment26">Доступ к фото, видео и аудио на устройстве</string>
+    <string name="interconnection_service_summary_china_fragment27">Для отправки и получения контента</string>
+    <string name="interconnection_service_summary_china_fragment28">Передача файлов на другие устройства</string>
+    <string name="interconnection_service_summary_china_fragment29">Для установления Bluetooth-соединения между устройствами и передачи файлов</string>
+    <string name="interconnection_service_summary_china_fragment3">Включение и выключение Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment30">Запись звука с внутреннего устройства</string>
+    <string name="interconnection_service_summary_china_fragment31">Для передачи и воспроизведения звука между устройствами во время трансляции или зеркалирования</string>
+    <string name="interconnection_service_summary_china_fragment32">Доступ к содержимому экрана</string>
+    <string name="interconnection_service_summary_china_fragment33">Для доступа к содержимому экрана во время записи или трансляции, включая приватную информацию, такую как аудио, пароли, фото, сообщения и т. д.</string>
+    <string name="interconnection_service_summary_china_fragment34">Общий буфер обмена:</string>
+    <string name="interconnection_service_summary_china_fragment35">Включение и выключение Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment36">Для поиска устройств поблизости и подключения по Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment37">Включение и выключение Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment38">Для поиска устройств поблизости и передачи файлов по Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment39">Доступ к фото, видео и аудио на устройстве</string>
+    <string name="interconnection_service_summary_china_fragment4">Для поиска устройств поблизости и подключения по Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment40">Для отправки и получения контента</string>
+    <string name="interconnection_service_summary_china_fragment41">Доступ к буферу обмена</string>
+    <string name="interconnection_service_summary_china_fragment42">Для доступа приложений к скопированному контенту</string>
+    <string name="interconnection_service_summary_china_fragment43">Беспроводной модем (с сетевой синхронизацией), общее управление, общая камера:</string>
+    <string name="interconnection_service_summary_china_fragment44">Включение и выключение Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment45">Для поиска устройств поблизости и подключения по Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment46">Включение и выключение Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment47">Для поиска устройств поблизости и передачи файлов по Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment48">Доступ к фото, видео и аудио на устройстве</string>
+    <string name="interconnection_service_summary_china_fragment49">Для отправки и получения контента</string>
+    <string name="interconnection_service_summary_china_fragment5">Включение и выключение Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment50">Доступ к камере</string>
+    <string name="interconnection_service_summary_china_fragment51">Для съёмки фото и видео</string>
+    <string name="interconnection_service_summary_china_fragment52">Mi Smart Hub:</string>
+    <string name="interconnection_service_summary_china_fragment53">Включение и выключение Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment54">Для поиска устройств поблизости и подключения по Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment55">Включение и выключение Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment56">Для поиска устройств поблизости и передачи файлов по Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment57">Запись звука с внутреннего устройства</string>
+    <string name="interconnection_service_summary_china_fragment58">Для передачи и воспроизведения звука между устройствами во время трансляции или зеркалирования</string>
+    <string name="interconnection_service_summary_china_fragment59">Доступ к фото, видео и аудио на устройстве</string>
+    <string name="interconnection_service_summary_china_fragment6">Для поиска устройств поблизости и передачи файлов по Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment60">Для отправки и получения контента</string>
+    <string name="interconnection_service_summary_china_fragment61">В случае отказа предоставить необходимые разрешения, вы не сможете использовать эти службы.</string>
+    <string name="interconnection_service_summary_china_fragment7">Передача файлов на другие устройства</string>
+    <string name="interconnection_service_summary_china_fragment8">Для установления Bluetooth-соединения между устройствами и передачи файлов</string>
+    <string name="interconnection_service_summary_china_fragment9">Использование геолокации</string>
     <string name="interconnection_service_summary_global">Функции взаимосвязанности Xiaomi могут различаться в зависимости от модели устройства и версии системы. Посетите официальный сайт для подробностей.</string>
     <string name="interconnection_service_title">Службы взаимосвязанности Xiaomi</string>
     <string name="item_contents_wwarning">В случае потери устройства и отсутствия блокировки, устройство и ваши личные данные будут доступны другим людям. Всё равно пропустить?</string>

@@ -786,6 +786,7 @@
     <string name="pa_sure">ОК</string>
     <string name="pa_toast_home_layout_locked">Рабочий стол защищён от изменений</string>
     <string name="pa_toast_message_not_support_size">Лента виджетов не поддерживает виджеты этого размера</string>
+    <string name="pa_travel_bind_state_none">--</string>
     <string name="pa_vertical_center">Вертикальное расположение. Выравнивание по центру.</string>
     <string name="pa_vertical_left">Вертикальное расположение. Выравнивание по левому краю.</string>
     <string name="pa_vertical_right">Вертикальное расположение. Выравнивание по правому краю.</string>
@@ -816,6 +817,8 @@
     <string name="pa_world_cup_widget_request_retry">Повтор</string>
     <string name="pa_world_cup_widget_reserve_success_toast">Вы получите напоминание перед началом матча</string>
     <string name="pa_world_cup_widget_title">Чемпионат мира по футболу</string>
+    <string name="passport_oauth_actionbar_title">Xiaomi аккаунт</string>
+    <string name="passport_oauth_sucess_tip">Вход выполнен</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="saturday">Суббота</string>

@@ -464,6 +464,8 @@
         <item>Тегусигальпа</item>
         <item>Парамарибо</item>
         <item>Кито</item>
+        <item>Ташкент</item>
+        <item>Бишкек</item>
     </string-array>
     <string-array name="clock_bg_setting_entries">
         <item>Светлый</item>
@@ -757,6 +759,8 @@
         <item>Гондурас</item>
         <item>Суринам</item>
         <item>Эквадор</item>
+        <item>Узбекистан</item>
+        <item>Кыргызстан</item>
     </string-array>
     <string-array name="days_of_week">
         <item>Вс</item>

@@ -140,10 +140,19 @@
         <item quantity="other">Каждые %1$s мин.</item>
         <item quantity="one">Каждую %1$s мин.</item>
     </plurals>
+    <plurals name="snooze_duration_minute">
+        <item quantity="other">Каждые %1$s мин.</item>
+        <item quantity="one">Каждые %1$s мин.</item>
+    </plurals>
     <plurals name="snooze_duration_summary">
         <item quantity="other">Будильник сработает %2$s раз (каждые %1$s мин.)</item>
         <item quantity="one">Будильник сработает %2$s раз (%1$s мин.)</item>
         <item quantity="few">>Будильник сработает %2$s раза (каждые %1$s мин.)</item>
+    </plurals>
+    <plurals name="snooze_duration_time">
+        <item quantity="other">Сработает %1$d раз</item>
+        <item quantity="one">Сработает %1$d раз</item>
+        <item quantity="few">Сработает %1$d раза</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">"Отложить
