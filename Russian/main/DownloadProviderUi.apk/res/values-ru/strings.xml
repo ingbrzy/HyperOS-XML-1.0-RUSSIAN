@@ -262,7 +262,7 @@
     <string name="no_share_file_content">Выбранный файл уже удалён</string>
     <string name="no_share_files">Нельзя отправить файлы, которые были удалены</string>
     <string name="no_share_files_content">Некоторые файлы, которыми вы хотели поделиться, уже удалены. Остальные были отправлены.</string>
-    <string name="no_support_modify_path">В связи с последней политикой безопасности модификация каталога для сохранения загрузок не поддерживается</string>
+    <string name="no_support_modify_path">В связи с последней политикой безопасности модификация каталога для сохранения загрузок недоступна</string>
     <string name="noon">Полдень</string>
     <string name="not_set">Не задано</string>
     <string name="notify_install_guide_forward_text">Открыть</string>
