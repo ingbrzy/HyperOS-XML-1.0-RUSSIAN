@@ -103,6 +103,7 @@
     <string name="controls_error_failed">Произошла ошибка. Повторите попытку.</string>
     <string name="controls_error_generic">Не удалось получить статус</string>
     <string name="controls_error_removed">Устройство удалено</string>
+    <string name="controls_error_removed_title">Управление недоступно</string>
     <string name="controls_favorite_default_title">Элементы управления</string>
     <string name="controls_favorite_load_error">Не удалось загрузить список всех элементов управления</string>
     <string name="controls_favorite_other_zone_header">Другое</string>
@@ -122,6 +123,7 @@
     <string name="controls_not_found_device_toast">Элемент уже удалён в приложении</string>
     <string name="controls_not_found_device_toast_mihome">Элемент уже удалён в приложении</string>
     <string name="controls_offline_device_toast">Устройство не в сети. Нажмите и удерживайте, чтобы открыть приложение.</string>
+    <string name="controls_open_app">Открыть приложение</string>
     <string name="controls_pin_instructions">Введите PIN-код</string>
     <string name="controls_pin_instructions_retry">Попробуйте другой PIN-код</string>
     <string name="controls_pin_use_alphanumeric">PIN-код может содержать буквы или символы</string>
@@ -164,6 +166,7 @@
     <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
+    <string name="focus_title">Индикация уведомлений</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>

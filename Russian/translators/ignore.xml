@@ -2570,10 +2570,6 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="focus_content">focusContent</string>
-    <string name="focus_desc">focusDesc</string>
-    <string name="focus_sub_title">focusSubtitle</string>
-    <string name="focus_title">focusTitle</string>
     <string name="folder_drafts_name_cn0">草稿</string>
     <string name="folder_drafts_name_cn1">草稿箱</string>
     <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>

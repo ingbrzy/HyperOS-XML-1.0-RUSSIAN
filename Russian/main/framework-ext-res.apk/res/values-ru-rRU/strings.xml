@@ -369,7 +369,7 @@
     <string name="no_avaliable_application">Нет доступных приложений</string>
     <string name="notice_audition">Звуки природы</string>
     <string name="notification_channel_hotspot">Уведомление точки доступа</string>
-    <string name="notificationxylophone">Уведомление (ксилофон)</string>
+    <string name="notificationxylophone">Ксилофон</string>
     <string name="nps_ContentText">Нажмите для подробностей</string>
     <string name="nps_ContentTitle">Поиск GPS</string>
     <string name="nps_app_name">GpsNps</string>
