@@ -614,7 +614,7 @@
     <string name="unlock_password_dialog_msg">Для доступа к фото, заметкам и файлам будет использоваться пароль защиты приватности</string>
     <string name="unlock_password_dialog_title">Пароль защиты приватности</string>
     <string name="update_dialog_button_cancel">Отмена</string>
-    <string name="update_dialog_button_ok">Обновить</string>
+    <string name="update_dialog_button_ok">Установить</string>
     <string name="update_dialog_content">"Новая версия: %1$s
 %2$s"</string>
     <string name="update_dialog_title">Доступно обновление</string>

@@ -179,9 +179,9 @@
     <string name="asm_pay_order_generate">Создание заказа…</string>
     <string name="asm_pay_order_generate_failed">Не удалось создать заказ</string>
     <string name="asm_pay_query_overtime">Истекло время ожидания запроса состояния платежа</string>
-    <string name="asm_privacy_desc">Политика конфиденциальности Wansheng</string>
-    <string name="asm_privacy_tips_content">Чтобы воспользоваться музыкальными сервисами, согласитесь с <a href="/link/click">Политикой конфиденциальности Wansheng</a>.</string>
-    <string name="asm_privacy_tips_title">Политика конфиденциальности Wansheng</string>
+    <string name="asm_privacy_desc">Политика конфиденциальности ASM</string>
+    <string name="asm_privacy_tips_content">Чтобы воспользоваться музыкальными сервисами, согласитесь с <a href="/link/click">Политикой конфиденциальности ASM</a>.</string>
+    <string name="asm_privacy_tips_title">Политика конфиденциальности ASM</string>
     <string name="asm_pro_center">Подписка</string>
     <string name="asm_search_result_contain_music">Содержит: \"%1$s\"</string>
     <string name="asm_song_err_connect">Не удалось подключиться к серверу</string>
@@ -1346,11 +1346,11 @@
     <string name="pulluprefreshrecyclerview_loading_running">Загрузка…</string>
     <string name="qq_application_id" />
     <string name="queue_is_empty">Очередь пуста</string>
-    <string name="read_and_agree_asm_protocol">&lt;Data>Чтобы воспользоваться музыкальными сервисами, прочтите и примите &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Политику конфиденциальности Wansheng&lt;/a>&lt;/font>.&lt;/Data></string>
+    <string name="read_and_agree_asm_protocol">&lt;Data>Чтобы воспользоваться музыкальными сервисами, прочтите и примите &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Политику конфиденциальности ASM&lt;/a>&lt;/font>.&lt;/Data></string>
     <string name="read_and_agree_hungama_protocol"><Data>Я принимаю &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Политику конфиденциальности Hungama&lt;/a>&lt;/font></Data></string>
     <string name="read_and_agree_joox_protocol"><Data>Я принимаю &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Политику конфиденциальности JOOX&lt;/a>&lt;/font></Data></string>
     <string name="read_and_agree_mi_protocol"><Data>Я принимаю  &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a>&lt;/font> и &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi&lt;/font></Data></string>
-    <string name="read_and_agree_protocol">Read and agree to our User Agreement and Privacy Policy before you continue.</string>
+    <string name="read_and_agree_protocol">Прежде чем продолжить прочтите и примите Пользовательское соглашение и Политику конфиденциальности.</string>
     <string name="ready_to_play">Следующий</string>
     <string name="recently_played">Недавние</string>
     <string name="recently_played_songs">Недавние</string>
