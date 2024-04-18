@@ -287,6 +287,8 @@
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="function_not_support">Не поддерживается на этом устройстве</string>
+    <string name="gesture_disabled">Откл.</string>
+    <string name="gesture_enable">Вкл.</string>
     <string name="gesture_function_dialog_message">%1$s используется для \"%2$s\". Заменить \"%3$s\"?</string>
     <string name="gesture_hint_call">Ответ на вызов…</string>
     <string name="gesture_hint_endcall">Завершение вызова…</string>

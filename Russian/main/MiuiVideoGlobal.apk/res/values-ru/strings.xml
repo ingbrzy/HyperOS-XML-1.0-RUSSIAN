@@ -76,6 +76,7 @@
     <string name="ad_click_to_play">Играть</string>
     <string name="ad_flag_text">Реклама</string>
     <string name="ad_left_time">сек. рекламы</string>
+    <string name="ad_topview_repeat_play">Нажмите для повтора</string>
     <string name="add_local_shortcut_add">Добавить</string>
     <string name="add_local_shortcut_des">Добавьте ярлык \"Моё видео\" на рабочий стол для просмотра видео одним касанием</string>
     <string name="add_search_channel_link">URL-адрес</string>
@@ -654,6 +655,7 @@ ID: %s
     <string name="hidden_channels">Следующие каналы не будут отображаться на главной странице.</string>
     <string name="hide">Скрыть</string>
     <string name="hide_video_toast">Этот объект был скрыт. Вы можете найти и управлять скрытыми объектами в разделе \"На устройстве\" > \"Папки\" > \"Скрытые объекты\".</string>
+    <string name="hiding_dialog_ok">Сохранить</string>
     <string name="hint_icon_ad_title">Рекомендация</string>
     <string name="hint_in_mivideo">Посмотрите дополнительные функции в боковой панели</string>
     <string name="history">История</string>
@@ -960,6 +962,7 @@ ID: %s
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_dialog_ok">ОК</string>
     <string name="miuix_indexer_collect">Подборки</string>
     <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
@@ -1291,6 +1294,7 @@ ID: %s
     <string name="photoPickerNotFoundText">Нет доступных фото.</string>
     <string name="pip">Картинка в картинке</string>
     <string name="pip_not_supported_toast">Обновите систему, чтобы использовать функцию \"Картинка в картинке\"</string>
+    <string name="play_at_normal_speed">Воспроизведение на скорости 1X</string>
     <string name="play_list_save_dialog_create">Создать плейлист</string>
     <string name="play_list_save_dialog_title">Добавить в плейлист</string>
     <string name="play_list_sign_in_dialog_message">Войдите в свою учётную запись Google, чтобы просмотреть все ваши плейлисты</string>
@@ -1462,6 +1466,7 @@ ID: %s
     <string name="remaining_space_not_enough">Недостаточно места для загрузки</string>
     <string name="reminder">Внимание</string>
     <string name="rename">Переименовать</string>
+    <string name="rename_dialog_ok">ОК</string>
     <string name="rename_word_out">Имя файла слишком длинное</string>
     <string name="repeat_play">Повтор</string>
     <string name="report">Отчёт</string>
@@ -1517,6 +1522,7 @@ ID: %s
     <string name="sending">Отправка…</string>
     <string name="service_error">Ошибка сервера</string>
     <string name="set_success">Изменения сохранены</string>
+    <string name="setting_privacy_title">Условия использования</string>
     <string name="settings_inline_auto_play">Автовоспроизведение всегда вкл.</string>
     <string name="settings_inline_auto_play_close">Автовоспроизведение откл.</string>
     <string name="settings_inline_auto_play_tip_close_forever">Отключить навсегда</string>
@@ -1794,7 +1800,7 @@ ID: %s
     <string name="tt_reward_full_skip">Пропустить через %1$s сек.</string>
     <string name="tt_reward_msg">Посмотрите видео целиком, чтобы получить награду</string>
     <string name="tt_reward_video_show_error">Ошибка отображения видео с наградой</string>
-    <string name="tt_skip_ad_time_text">Можно пропустить через s %d сек.</string>
+    <string name="tt_skip_ad_time_text">Пропустить через %d сек.</string>
     <string name="tt_splash_skip_tv">3 сек. | Пропустить</string>
     <string name="tt_sys_error">Системная ошибка</string>
     <string name="tt_try_now">Попробуй</string>

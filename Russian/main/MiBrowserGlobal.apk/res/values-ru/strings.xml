@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с </string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с %s\"</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="accelerate_play">Скорость: %sX</string>
     <string name="accept_cookies_confirm_message">Отключение этой функции может привести к неправильной работе некоторых веб-сайтов.</string>
     <string name="accessibility_button_clear">Очистить ввод</string>
     <string name="account_bind_secure_email_title">Добавьте электронную почту для восстановления</string>
@@ -308,6 +309,9 @@
     <string name="browser_wallpaper_toast">Выключите переключатель \"Акции\", чтобы сменить обои</string>
     <string name="btn_agree">Согласиться</string>
     <string name="btn_cancel">Отмена</string>
+    <string name="btn_copied">Скопировано</string>
+    <string name="btn_copy">Копировать</string>
+    <string name="btn_open">Открыть</string>
     <string name="camera_permission_name">Использование камеры</string>
     <string name="can_not_send_with_too_many">Слишком много объектов для отправки</string>
     <string name="cancel">Отмена</string>
@@ -1075,6 +1079,8 @@ ID:%s
     <string name="just_a_second">Подождите…</string>
     <string name="just_now">Только что</string>
     <string name="keep_intrercept">Оставить</string>
+    <string name="kindred_coupons_terms">Показать условия использования</string>
+    <string name="kindred_coupons_title">Купоны</string>
     <string name="le_download_failed_server_error">Не удалось загрузить из-за ошибки сервера.</string>
     <string name="le_network_chagne_to_none">Нет подключения к сети. Все загрузки были приостановлены.</string>
     <string name="list_item_click">Нажмите на элемент списка</string>
@@ -1508,6 +1514,8 @@ ID:%s
     <string name="news_load_failed">Повторить</string>
     <string name="news_loading">Загрузка…</string>
     <string name="news_native_see_all">Полная статья</string>
+    <string name="news_survey_fill">Введите до %d символов</string>
+    <string name="news_survey_fill_title">Другое:</string>
     <string name="news_video_history">История</string>
     <string name="news_video_history_empty">Здесь ничего нет</string>
     <string name="news_video_invisible_item">Невозможно просмотреть это видео</string>
@@ -2054,6 +2062,8 @@ ID:%s
     <string name="record_permission_name">Запись звука</string>
     <string name="recovery_page_popup">Продолжить последний сеанс</string>
     <string name="refresh">Обновить</string>
+    <string name="refresh_button_update_item">Доступно %d обновлений</string>
+    <string name="refresh_button_update_latest">Вы просматриваете последние объекты</string>
     <string name="refresh_fail">Не удалось загрузить данные</string>
     <string name="refresh_guide">К началу</string>
     <string name="refreshing">Обновление…</string>
@@ -2361,6 +2371,7 @@ ID:%s
     <string name="tab_forward_description">Следующая страница истории</string>
     <string name="tab_game">Игры</string>
     <string name="tab_home">Главная</string>
+    <string name="tab_mall">Магазин</string>
     <string name="tab_mine">Профиль</string>
     <string name="tab_novel">Книги</string>
     <string name="tab_quicklinks">Стартовая страница</string>
@@ -2471,6 +2482,7 @@ ID:%s
     <string name="tt_choose_language">ru</string>
     <string name="tt_click_to_replay">Нажмите, чтобы повторить</string>
     <string name="tt_count_down_view">Пропустить</string>
+    <string name="tt_display_error">Ошибка отображения</string>
     <string name="tt_feedback_experience_text">Мы будем и дальше улучшать наши услуги.</string>
     <string name="tt_feedback_submit_text">Вы уже оставили отзыв! Пожалуйста, не отправляйте его повторно.</string>
     <string name="tt_feedback_thank_text">Спасибо за отзыв!</string>
@@ -2490,6 +2502,8 @@ ID:%s
     <string name="tt_reward_video_show_error">Ошибка отображения видео с наградой</string>
     <string name="tt_skip_ad_time_text">Пропустить через %d сек.</string>
     <string name="tt_splash_skip_tv">3 сек. | Пропустить</string>
+    <string name="tt_suggestion_commit">Отправить</string>
+    <string name="tt_suggestion_description">Введите описание ошибки отображения и нажмите кнопку \"Отправить\". Рекламный креатив также будет отправлен в Pangle в целях диагностики проблемы.</string>
     <string name="tt_try_now">Попробуй</string>
     <string name="tt_txt_skip">Пропустить</string>
     <string name="tt_video_retry_des">Ошибка загрузки. Нажмите, чтобы попробовать снова</string>

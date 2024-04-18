@@ -1323,7 +1323,7 @@
     <string name="bind_xiaomi_account_confirm">Привязать</string>
     <string name="bind_xiaomi_account_dialog_summery">Вы собираетесь привязать аккаунт Xiaomi %s. Если вы забудете свой пароль, можно будет использовать этот аккаунт для его сброса.</string>
     <string name="bind_xiaomi_account_success">Аккаунт Xiaomi привязан</string>
-    <string name="biometric_settings_add_biometrics_in_split_mode_ok">"OK"</string>
+    <string name="biometric_settings_add_biometrics_in_split_mode_ok">"ОК"</string>
     <string name="biometric_settings_add_face_in_split_mode_message">"Выйдите из режима разделения экрана, чтобы настроить распознавание по лицу."</string>
     <string name="biometric_settings_add_face_in_split_mode_title">"Не удалось настроить распознавание по лицу"</string>
     <string name="biometric_settings_add_fingerprint_in_split_mode_message">"Выйдите из режима разделения экрана."</string>
