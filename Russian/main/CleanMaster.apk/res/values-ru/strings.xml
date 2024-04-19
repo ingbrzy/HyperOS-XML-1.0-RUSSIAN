@@ -210,7 +210,12 @@
     <string name="columbus_player_speed_title">Пропустить видео?</string>
     <string name="columbus_player_speed_video">ПРОПУСТИТЬ</string>
     <string name="columbus_player_unit_sec">сек.</string>
+    <string name="columbus_reward_style_access">Подробнее</string>
+    <string name="columbus_reward_style_close_cancel">Выход</string>
+    <string name="columbus_reward_style_close_desc">Чтобы получить награду, просмотрите видео полностью. Продолжить просмотр?</string>
+    <string name="columbus_reward_style_speed_confirm">Продолжить</string>
     <string name="columbus_skip_ad">Пропустить</string>
+    <string name="columbus_skip_ad_time">Пропустить (%d)</string>
     <string name="common_google_play_services_enable_button">Включить</string>
     <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
     <string name="common_google_play_services_enable_title">Включите сервисы Google Play</string>

@@ -214,6 +214,11 @@
         <item quantity="few">Защищено %d раза</item>
         <item quantity="many">Защищено %d раз</item>
     </plurals>
+    <plurals name="kindred_coupons_hint">
+        <item quantity="other">У вас %d купонов</item>
+        <item quantity="one">У вас %d купон</item>
+        <item quantity="few">У вас %d купона</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
         <item quantity="other">Загружено %1$s элементов</item>
         <item quantity="one">Загружен %1$s элемент</item>
@@ -221,6 +226,10 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Только что</item>
+    </plurals>
+    <plurals name="mggc_ins_back_seconds_remaining">
+        <item quantity="other">Осталось &lt;font color=#0D84FF>%1$d&lt;/font> сек.</item>
+        <item quantity="one">Осталось &lt;font color=#0D84FF>%1$d&lt;/font> сек.</item>
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">%1$d минут назад</item>
@@ -505,6 +514,11 @@
         <item quantity="one">%s раз</item>
         <item quantity="few">%s раза</item>
         <item quantity="many">%s раз</item>
+    </plurals>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">За прошедшую неделю скорость загрузки веб-страниц в Mi Браузере увеличилась в %d раз!</item>
+        <item quantity="one">За прошедшую неделю скорость загрузки веб-страниц в Mi Браузере увеличилась в %d раз!</item>
+        <item quantity="few">За прошедшую неделю скорость загрузки веб-страниц в Mi Браузере увеличилась в %d раза!</item>
     </plurals>
     <plurals name="welcome_skip_count_down">
         <item quantity="other">%d сек.</item>

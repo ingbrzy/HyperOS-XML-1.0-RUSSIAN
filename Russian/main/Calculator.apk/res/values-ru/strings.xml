@@ -73,7 +73,7 @@
     <string name="cosDesc">косинус</string>
     <string name="cta_desc">Добро пожаловать в Калькулятор! Это приложение сочетает в себе функции обычного калькулятора с разными конвертерами и прочими функциями. Для правильной работы приложению требуется доступ к интернету.</string>
     <string name="currency_update_connect_to_get_data">Курсы валют предоставлены Webull. Подключитесь к сети для получения актуальных данных.</string>
-    <string name="currency_update_support">Курсы валют предоставлены Webull.</string>
+    <string name="currency_update_support">"Курсы валют предоставлены Webull. "</string>
     <string name="currency_update_time_format">Курсы валют предоставлены Webull (%s)</string>
     <string name="currency_update_updating">Обновление курсов…</string>
     <string name="data_analysis">Аналитика</string>
@@ -649,6 +649,7 @@
     <string name="unit_data_display_currency_lrd">Либерийский доллар</string>
     <string name="unit_data_display_currency_lyd">Ливийский динар</string>
     <string name="unit_data_display_currency_mad">Марокканский дирхам</string>
+    <string name="unit_data_display_currency_mdl">Молдавский лей</string>
     <string name="unit_data_display_currency_mmk">Бирманский кьят</string>
     <string name="unit_data_display_currency_mnt">Монгольский тугрик</string>
     <string name="unit_data_display_currency_mop">Патака Макао</string>

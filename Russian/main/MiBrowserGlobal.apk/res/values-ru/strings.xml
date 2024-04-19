@@ -414,7 +414,12 @@
     <string name="columbus_player_speed_title">Пропустить видео?</string>
     <string name="columbus_player_speed_video">Пропустить видео</string>
     <string name="columbus_player_unit_sec">сек.</string>
+    <string name="columbus_reward_style_access">Подробнее</string>
+    <string name="columbus_reward_style_close_cancel">Выход</string>
+    <string name="columbus_reward_style_close_desc">Чтобы получить награду, просмотрите видео полностью. Продолжить просмотр?</string>
+    <string name="columbus_reward_style_speed_confirm">Продолжить</string>
     <string name="columbus_skip_ad">Пропустить</string>
+    <string name="columbus_skip_ad_time">Пропустить (%d)</string>
     <string name="com_facebook_device_auth_instructions">Откройте &lt;b>facebook.com/device&lt;/b> и введите код, показанный выше.</string>
     <string name="com_facebook_image_download_unknown_error">Неожиданная ошибка при скачивании изображения.</string>
     <string name="com_facebook_internet_permission_error_message">Для входа через WebView необходимо разрешение INTERNET</string>

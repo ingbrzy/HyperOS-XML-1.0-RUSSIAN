@@ -247,7 +247,7 @@
     <string name="encrypt_prefix">PRIVATE</string>
     <string name="encrypt_setting">Шифрование</string>
     <string name="encrypt_success">Файлы помещены в приватную папку</string>
-    <string name="encrypt_success_first_five">Файлы помещены в приватную папку. Для просмотра приватной папки потяните вниз на начальной странице Проводника.</string>
+    <string name="encrypt_success_first_five">Файлы помещены в приватную папку. Потяните вниз начальную страницу Проводника для их просмотра.</string>
     <string name="encrypting">Шифрование…</string>
     <string name="enter">Открыть Проводник</string>
     <string name="entry_phone_storage_internal">Хранилище</string>
@@ -687,6 +687,14 @@
     <string name="partial_encrypt_success">Не удалось переместить некоторые файлы в приватную папку. Повторите попытку.</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="path_name_email">Email</string>
+    <string name="pattern_hour_minute_12">hh:mm a</string>
+    <string name="pattern_hour_minute_24">HH:mm</string>
+    <string name="pattern_month_day">dd.MM</string>
+    <string name="pattern_month_day_hh_mm_12">dd.MM hh:mm a</string>
+    <string name="pattern_month_day_hh_mm_24">dd.MM HH:mm</string>
+    <string name="pattern_year_month_day">dd.MM.yyyy</string>
+    <string name="pattern_year_month_day_hh_mm_12">dd.MM.yyyy hh:mm a</string>
+    <string name="pattern_year_month_day_hh_mm_24">dd.MM.yyyy HH:mm</string>
     <string name="perm_manage_external_storage">Доступ к файлам</string>
     <string name="permission_account_desc">Доступ к данным аккаунтов на устройстве</string>
     <string name="permission_account_desc_pad">Доступ к данным аккаунтов на устройстве</string>
