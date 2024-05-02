@@ -3772,7 +3772,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_main_sub_battery_text_hour_minute">Осталось: %1$s ч. %2$s мин.</string>
     <string name="pc_more_battery_feature">Дополнительные функции</string>
     <string name="pc_more_power_rank_apps">Другие приложения</string>
-    <string name="pc_night_charge_protect_summary">Авторегулировка продолжительности зарядки для продления срока службы батареи</string>
+    <string name="pc_night_charge_protect_summary">Автонастройка продолжительности зарядки для продления срока службы батареи</string>
     <string name="pc_night_charge_protect_title">Защита от перезаряда в ночное время</string>
     <string name="pc_night_sleep_mode_summary">Автоотключение некоторых функций для экономии заряда батареи при обнаружении режима сна</string>
     <string name="pc_night_sleep_mode_title">Ночной режим</string>
@@ -3802,7 +3802,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_search_keywords_capacity">Емкость</string>
     <string name="pc_search_keywords_property">Производительность</string>
     <string name="pc_settings_title">Батарея</string>
-    <string name="pc_smart_discharge_checkbox_summary">При использовании функций навигации, зарядка будет автоматически прекращена при достижении заданного уровня заряда. Экономия заряда будет отключена.</string>
+    <string name="pc_smart_discharge_checkbox_summary">При использовании функций навигации, зарядка будет автоматически прекращена при достижении заданного уровня заряда. Автоотключение зарядки не будет работать, если включена экономия или ультраэкономия заряда.</string>
     <string name="pc_smart_discharge_checkbox_title">Автоотключение зарядки</string>
     <string name="pc_smart_discharge_drop_down_title">Настройки автоотключения</string>
     <string name="pc_smart_discharge_protect_notifi_summary">Для защиты аккумулятора при использовании приложений навигации, зарядка автоматически прекращается по достижению заданного уровня заряда</string>
@@ -4228,11 +4228,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_super_wireless_charge_noti_title">Быстрая беспроводная зарядка включена</string>
     <string name="power_center_super_wireless_charge_summary">Увеличение скорости вращения вентилятора кулера беспроводного зарядного устройства</string>
     <string name="power_center_super_wireless_charge_toast_close">Быстрая беспроводная зарядка отключена</string>
-    <string name="power_center_surface_temp_high">Повыш.</string>
-    <string name="power_center_surface_temp_higher">Высок.</string>
-    <string name="power_center_surface_temp_low">Пониж.</string>
-    <string name="power_center_surface_temp_lower">Низк.</string>
-    <string name="power_center_surface_temp_normal">Норм.</string>
+    <string name="power_center_surface_temp_high">Повышенная</string>
+    <string name="power_center_surface_temp_higher">Высокая</string>
+    <string name="power_center_surface_temp_low">Пониженная</string>
+    <string name="power_center_surface_temp_lower">Низкая</string>
+    <string name="power_center_surface_temp_normal">Нормальная</string>
     <string name="power_center_time_to_boot">Время включения</string>
     <string name="power_center_time_to_shutdown">Время выключения</string>
     <string name="power_center_title">Батарея</string>
