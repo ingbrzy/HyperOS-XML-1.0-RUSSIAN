@@ -6,12 +6,14 @@
     <string name="PRD_summary_4">Выключение Wi-Fi или переключение сетей Wi-Fi во время передачи может привести к сбою процесса</string>
     <string name="PRD_summary_4_china">Выключение Wi-Fi или переключение сетей Wi-Fi во время передачи может привести к сбою процесса</string>
     <string name="PRD_summary_5">Передача данных на высокой скорости может привести к повышенному нагреву устройства</string>
+    <string name="PRD_summary_6">Приватные альбомы, заметки и файлы нельзя перенести со старого устройства. Переместите их из приватных папок перед началом передачи.</string>
     <string name="PRD_summary_tablet_1">Во время переноса все данные этих приложений (включая историю чатов) будут перезаписаны</string>
     <string name="PRD_title_1">%1$d. На новом устройстве уже имеются данные следующих приложений:</string>
     <string name="PRD_title_2">WeChat</string>
     <string name="PRD_title_3">QQ</string>
     <string name="PRD_title_4">%1$d. Внимание</string>
     <string name="PRD_title_5">%1$d. Во время переноса данных устройство может нагреваться</string>
+    <string name="PRD_title_6">Приватные данные не могут быть переданы</string>
     <string name="PRD_title_tablet_1">%1$d. На новом устройстве уже имеются данные следующих приложений:</string>
     <string name="PRD_title_tablet_4">%1$d. Внимание</string>
     <string name="PRD_title_tablet_5">%1$d. Во время переноса данных устройство может нагреваться</string>

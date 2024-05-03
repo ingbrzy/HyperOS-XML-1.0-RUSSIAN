@@ -54,6 +54,7 @@
     <string name="ai_button_single_press_desc">Запуск Mi AI</string>
     <string name="ai_button_title">О кнопке AI</string>
     <string name="album_introduction">Галерея позволяет управлять фото и видео на устройстве, редактировать их, а также синхронизировать с Xiaomi Cloud.</string>
+    <string name="app_battery_usage">Для проверки использования батареи отдельными приложениями</string>
     <string name="app_name">Начальная настройка</string>
     <string name="application_extension_service">Службы расширения приложений</string>
     <string name="application_extension_service_introduction">Службы расширения приложений предоставляют функции входа и проверки. Для работы необходимы следующие разрешения:</string>
@@ -540,12 +541,16 @@
     <string name="permission_write_device_store">Для сохранения файлов в хранилище устройства</string>
     <string name="permission_write_device_store_summary">Для кеширования загруженных файлов конфигурации</string>
     <string name="permission_xunlei_introduction">Для входа в учётные записи и управления ими для предоставления сервисов Xunlei</string>
+    <string name="phone_introduction">Это приложение можно использовать для поиска и нейтрализации вирусов, блокировки нежелательных вызовов и сообщений, оптимизации производительности игр, экономии заряда батареи, а также для управления приложениями, разрешениями, доступа к данным и т. д.</string>
+    <string name="phone_name_security">Безопасность</string>
     <string name="phone_service_introduction">Телефония - это базовая служба, позволяющая делать вызовы, отправлять и получать сообщения, подключаться к сети.</string>
     <string name="poco_agree_terms_other">(Включая Политику конфиденциальности и Условия использования POCO Launcher)</string>
     <string name="poco_launcher_privacy_policy">Политика конфиденциальности POCO Launcher</string>
     <string name="poco_launcher_user_agreement">Пользовательское соглашение POCO Launcher</string>
     <string name="position_header">Передача геопозиции</string>
     <string name="position_subheading">Информация о местоположении</string>
+    <string name="power_and_performance">Батарея и производительность</string>
+    <string name="power_and_performance_introduction">Эта служба предоставляет управление батареей, статистику использования, функции экономии заряда и прочие функции</string>
     <string name="pref_title_data_slot">SIM-карта для интернета</string>
     <string name="pref_title_voice_slot">SIM-карта для вызовов</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
@@ -739,6 +744,7 @@
     <string name="terms_of_use_label_use_location_and_network_global">Перед использованием системы Вы должны согласиться с нашими Пользовательским соглашением и Политикой конфиденциальности. Мы будем защищать вашу личную информацию в соответствии с действующими законами, правилами и политикой конфиденциальности. При активации устройства, следующие службы подключатся к сети и будут использовать геолокацию:</string>
     <string name="terms_of_use_label_use_network_china">Перед использованием системы Вы должны согласиться с нашим Пользовательским соглашением и Политикой конфиденциальности. Мы будем защищать вашу личную информацию в соответствии с действующими законами, правилами и политикой конфиденциальности. При активации устройства, следующие службы подключатся к сети:</string>
     <string name="terms_of_use_label_wallpaper">Обои</string>
+    <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Перед использованием этой функции вы должны принять Политику конфиденциальности Facemoji."</string>

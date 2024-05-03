@@ -70,6 +70,7 @@
     <string name="add_wallpaper">Добавить обои</string>
     <string name="addcw_apply_btn_txt">Добавить обои</string>
     <string name="afternoon">После полудня</string>
+    <string name="ai_wallpaper_declare_double_link"><Data>Прежде чем продолжить, прочтите и примите &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>.</Data></string>
     <string name="allowed">Предоставлено</string>
     <string name="app_name">Карусель обоев</string>
     <string name="app_self_upgrade_dlg_checkbox_ignore_version">Игнорировать эту версию</string>
@@ -969,6 +970,7 @@ mm"</string>
     <string name="sure_close_gallery_des">Вы не сможете получать обновляемые обои на рабочий стол и экран блокировки, если отключите Карусель обоев. Выключить?</string>
     <string name="surprise_wallpaper_empty_dlg_content">Обои-сюрпризы будут сгенерированы на основе выбранных обоев (если включено), либо на основе случайных обоев</string>
     <string name="surprise_wallpaper_empty_dlg_title">Обои-сюрпризы</string>
+    <string name="surprise_wallpaper_generate_failed_toast">Ошибка генерации обоев</string>
     <string name="system_default">По умолчанию</string>
     <string name="tab_user_title_bar_text">Настройки</string>
     <string name="tb_collapse_desc">Скрыть меню \"Поделиться\"</string>

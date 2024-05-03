@@ -191,6 +191,7 @@
     <string name="ppt_volume_is_too_low_tip">Наденьте наушники или сделайте громче звук</string>
     <string name="projection_fail">Ошибка трансляции. Проверьте внешний монитор и повторите попытку.</string>
     <string name="public_2pic">Экспорт в изображение</string>
+    <string name="public_about_us">О нас</string>
     <string name="public_amazon_autosave_finished">Этот документ был автоматически сохранён.</string>
     <string name="public_bad_doc_to_process">Документ содержит ошибки и не может быть обработан.</string>
     <string name="public_bookmark">Закладка</string>
@@ -255,6 +256,7 @@
     <string name="public_mi_other_app_open_title">Открыть с помощью</string>
     <string name="public_mi_privacy_desc">Для просмотра и управления документами на устройстве</string>
     <string name="public_mi_privacy_purpose">Добро пожаловать в Просмотр Документов. Это приложение позволяет просматривать документы разных форматов.</string>
+    <string name="public_more_wps">Больше функций доступно в WPS</string>
     <string name="public_no_format">Без формата</string>
     <string name="public_not_support_in_multiwindow">Данная функция не поддерживается в многооконном режиме</string>
     <string name="public_ok">ОК</string>

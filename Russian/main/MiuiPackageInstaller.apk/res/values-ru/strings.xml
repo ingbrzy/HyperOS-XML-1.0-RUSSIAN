@@ -811,6 +811,7 @@
     <string name="safe_space_tip_dialog_description">"%1$s не проверялся Xiaomi на наличие проблем с безопасностью. Для защиты от возможных рисков, были приняты следующие меры:"</string>
     <string name="safe_space_tip_dialog_title">Принятые меры защиты</string>
     <string name="safe_version_install">Безопасная версия</string>
+    <string name="safety_hint_bundled_download_content">\"%1$s\" является частью пакета загрузки, при этом указывается фактическое приложение для установки. Если вы все еще хотите установить %1$s, нажмите здесь.</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
