@@ -34,7 +34,7 @@
     <string name="answering_tel1">Ответ на планшете…</string>
     <string name="answering_tel2">Передано с телефона…</string>
     <string name="app_name">Трансляция</string>
-    <string name="app_name_vtcamera">MiShareDevice</string>
+    <string name="app_name_vtcamera">Cross-device камера</string>
     <string name="appcirculate_alert_busy_negative">Отмена</string>
     <string name="appcirculate_alert_busy_positive">Прервать</string>
     <string name="appcirculate_alert_busy_text">Идёт передача файлов с другого устройства. Прервать передачу?</string>
@@ -1053,7 +1053,7 @@
     <string name="settings_cross_notify_app">Уведомления приложений</string>
     <string name="settings_cross_notify_hidden">Скрывать содержимое уведомлений</string>
     <string name="settings_cross_notify_hidden_tips">Показывать уведомления, скрывая их содержимое, на других устройствах и отображать содержимое при нажатии</string>
-    <string name="settings_cross_notify_manager">Уведомления на подключенных устройствах</string>
+    <string name="settings_cross_notify_manager">Уведомления на подключённых устройствах</string>
     <string name="settings_cross_notify_power">Батарея разряжена</string>
     <string name="settings_cross_notify_system">Системные уведомления</string>
     <string name="settings_cross_notify_tips">Показывать уведомления на используемых планшетах и компьютерах поблизости, когда это устройство заблокировано.</string>

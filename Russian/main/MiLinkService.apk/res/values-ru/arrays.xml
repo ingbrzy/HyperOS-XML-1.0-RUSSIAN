@@ -107,13 +107,13 @@
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>Handoff для приложений</item>
-        <item>Взаимосвязанность/Handoff для приложений</item>
+        <item>Взаимосвязанность/Приложения</item>
         <item>Перенос приложений, Handoff, перенос</item>
     </string-array>
     <string-array name="settings_search_relay_call">
-        <item>Вызовы</item>
-        <item>Взаимосвязанность/Вызовы</item>
-        <item>Вызовы</item>
+        <item>Синхронизация вызовов</item>
+        <item>Взаимосвязанность/Синхронизация вызовов</item>
+        <item>Синхронизация вызовов, вызовы с разных устройств, Handoff для вызовов, вызовы</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>Взаимодействие в сети</item>

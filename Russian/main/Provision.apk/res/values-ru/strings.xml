@@ -594,7 +594,7 @@
     <string name="saturday_shortest">Сб</string>
     <string name="screen_recording_introduction">Это приложение позволяет записывать происходящее на экране.</string>
     <string name="search_menu_title">Поиск</string>
-    <string name="security_introduction">Это приложение можно использовать для очистки мусора на устройстве, поиска и удаления вирусов, оптимизации производительности для игр, экономии заряда, управления приложениями и разрешениями, и многого другого.</string>
+    <string name="security_introduction">Это приложение можно использовать для поиска и удаления вирусов, блокировки нежелательных вызовов и сообщений, оптимизации производительности игр, экономии заряда, управления приложениями и разрешениями, и многого другого.</string>
     <string name="security_mobile_account_introduction">Для входа в учётные записи и управления ими</string>
     <string name="select_font_modele_tips">Новые шрифты можно выбрать в приложении Темы</string>
     <string name="send">Отправить</string>
