@@ -531,6 +531,7 @@
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
     <string name="mtrl_timepicker_confirm">ОК</string>
     <string name="mtzgadget_missing_text">Виджет недоступен</string>
+    <string name="name_aireco_name">Рекомендации Mi AI</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Проведите вверх от нижнего края экрана, затем влево или вправо</string>
     <string name="navigation_guide_app_quick_switch_summary">Проведите влево или вправо по полосе навигации</string>
     <string name="navigation_guide_app_quick_switch_title">Переход между приложениями</string>
@@ -767,6 +768,7 @@
     <string name="switch_screen_button_order">Поменять кнопки местами</string>
     <string name="switch_screen_button_order_desc">Поменять местами \"Назад\" и \"Меню\"</string>
     <string name="system_sdk_disabled_toast">Системный SDK отключён. Включите его.</string>
+    <string name="system_shortcuts_dislike">Не нравится</string>
     <string name="system_shortcuts_edit">Изменить</string>
     <string name="system_shortcuts_icon_remove">Удалить</string>
     <string name="system_shortcuts_more_operation">Сведения</string>

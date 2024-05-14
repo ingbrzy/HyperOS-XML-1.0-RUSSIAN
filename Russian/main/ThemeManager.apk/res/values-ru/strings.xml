@@ -613,6 +613,7 @@
     <string name="lockstyle_personal_settings">Настройки</string>
     <string name="login_theme">Войти в Темы</string>
     <string name="long_click_can_hide_resource">Удерживайте элементы для скрытия</string>
+    <string name="loop_video_wallpaper">Зациклить видеообои</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Выберите AM или PM</string>
     <string name="material_hour_selection">Часы</string>
