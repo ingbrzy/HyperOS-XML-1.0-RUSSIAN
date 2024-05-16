@@ -310,6 +310,7 @@
     <string name="nfc_wifi_and_bluetooth_china">Включите Wi-Fi и Bluetooth</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
+    <string name="not_find_car_to_mirror">Не удалось найти автомобиль, на который можно перенести приложения.</string>
     <string name="not_set">Не задано</string>
     <string name="notification_channel_description_download">Показать прогресс загрузки в шторке уведомлений</string>
     <string name="notification_channel_name_download">Показать прогресс загрузки</string>

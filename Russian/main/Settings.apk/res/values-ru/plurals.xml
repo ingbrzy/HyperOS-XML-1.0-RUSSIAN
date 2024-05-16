@@ -226,6 +226,10 @@
         <item quantity="one">Ограничено подключение для %s приложения</item>
         <item quantity="few">Ограничено подключение для %s приложений</item>
     </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">Изменения будут применены через %d сек.</item>
+        <item quantity="one">Изменения будут применены через %d сек.</item>
+    </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d подключений</item>
         <item quantity="one">%1$d подключение</item>

@@ -80,11 +80,16 @@
     <string name="bottomsheet_drag_handle_clicked">Перетащите указатель, дважды коснувшись его</string>
     <string name="bottomsheet_drag_handle_content_description">Перетащите указатель</string>
     <string name="camera_associate_connecting">Подключение к камере</string>
+    <string name="camera_associate_disconnecting">Отключение от камеры</string>
     <string name="camera_associate_failed">Не удалось подключиться к камере</string>
     <string name="camera_associate_success">Камера подключена</string>
+    <string name="camera_choose_device">Выберите устройство</string>
     <string name="camera_connecting">%s хочет использовать камеру этого устройства</string>
+    <string name="camera_connecting_device">Подключение к %s</string>
     <string name="camera_disassociate">Нет подключения к камере</string>
+    <string name="camera_disconnecting_device">Отключение от %s</string>
     <string name="camera_notify_string">CameraNotification</string>
+    <string name="camera_title">Поиск доступных устройств…</string>
     <string name="cancel_button">Отмена</string>
     <string name="car_air_con_back_switch_close">Отключить кондиционер для заднего ряда</string>
     <string name="car_air_con_back_switch_open">Включить кондиционер для заднего ряда</string>
@@ -204,6 +209,7 @@
     <string name="circulate_cta_app_name">Взаимосвязанность Xiaomi</string>
     <string name="circulate_cta_desc_lite_phone">Службы взаимосвязанности Xiaomi позволяют вашим устройствам взаимодействовать друг с другом по беспроводной сети. Для нормальной работы служб требуются доступ к интернету и следующие разрешения:</string>
     <string name="circulate_cta_desc_phone">Службы взаимосвязанности Xiaomi позволяют вашим устройствам взаимодействовать друг с другом по беспроводной сети. Для нормальной работы служб требуются доступ к интернету и следующие разрешения:</string>
+    <string name="circulate_cta_desc_phone_global">Службы взаимосвязанности Xiaomi позволяют вашим устройствам взаимодействовать друг с другом по беспроводной сети.</string>
     <string name="circulate_cta_exit">Выход</string>
     <string name="circulate_cta_premission_bluetooth_subtitle">Для подключения устройств и передачи данных между ними по Bluetooth</string>
     <string name="circulate_cta_premission_get_installed_apps_subtitle">Для доступа к списку приложений на мобильном устройстве и зеркалирования экрана на ПК</string>
@@ -218,6 +224,7 @@
     <string name="circulate_cta_premission_transferring_data_subtitle">Для передачи данных между подключёнными устройствами</string>
     <string name="circulate_cta_premission_wlan_subtitle_china">Для подключения устройств через Wi-Fi и передачи данных</string>
     <string name="circulate_cta_premission_wlan_title">Включение и выключение Wi-Fi</string>
+    <string name="circulate_cta_title_global">Заявление о конфиденциальности</string>
     <string name="circulate_cta_user_agreement">Прежде чем продолжить, прочтите и примите наши &lt;txt href=\"%1$s\">Пользовательское соглашение&lt;/txt> и &lt;txt href=\"%2$s\">Политику конфиденциальности&lt;/txt>.</string>
     <string name="circulate_device_type_name_mijia">Устройства \"умного\" дома</string>
     <string name="circulate_device_type_name_pad">Планшет</string>
@@ -393,6 +400,7 @@
     <string name="connect_settings_summary">&lt;Data>Автоматически обнаруживать устройства, находящиеся поблизости и подключенные к вашему аккаунту Xiaomi, а также соединять их друг с другом для выполнения различных задач на нескольких устройствах. &lt;a href=\"%1$s\">Подробнее.&lt;/a>&lt;/Data></string>
     <string name="connect_settings_summary_connection_service">Разрешите устройствам взаимодействовать друг с другом по беспроводной связи</string>
     <string name="connect_settings_summary_corp_phone">Принимать голосовые вызовы на планшетах и компьютерах, находящихся поблизости и подключенных к вашему аккаунту Xiaomi.</string>
+    <string name="connect_settings_summary_global"><Data>Поиск устройств поблизости, связанных с вашим аккаунтом Xiaomi, и добавление их в Mi Smart Hub</Data></string>
     <string name="connect_settings_summary_hyper_mind">Эта функция изучает ваши шаблоны поведения и использует их для управления устройствами умного дома. Функция работает при поддержке Mi AI.</string>
     <string name="connect_settings_summary_relay_app">Продолжать выполнение задач в одном приложении на другом устройстве.</string>
     <string name="connect_settings_summary_share_clipboard">Вставка текста и изображений на других устройствах в течение %d минут после копирования их на этом устройстве.</string>
@@ -440,7 +448,9 @@
     <string name="dialog_miplay_permission_positive">Настройки</string>
     <string name="dialog_miplay_permission_title">Предоставьте разрешения</string>
     <string name="dialog_nearbydevice_permission_message">Разрешите этому устройству доступ к устройствам поблизости, чтобы использовать функции трансляции</string>
+    <string name="dialog_nearbydevice_permission_message_connectivity">Функции взаимосвязанности Xiaomi необходимо разрешение на подключение к устройствам поблизости. Разрешение можно предоставить  в настройках.</string>
     <string name="dialog_nearbydevice_permission_title">Предоставьте разрешения</string>
+    <string name="dialog_nearbydevice_permission_title_connectivity">Предоставьте разрешения</string>
     <string name="dialog_nfc_cast_wifi_off"> Для трансляции с использованием NFC, необходимо включить Wi-Fi. Включить?</string>
     <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Подключите устройство и ТВ к одной Wi-Fi сети.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. На некоторых моделях ТВ эта функция доступна только при включенной функции проецирования. Для дополнительной информации обратитесь к &lt;a href=milink://com.milink.service/specification>\"Справке\"&lt;/a>.</Data></string>
     <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Подключите устройство и ТВ к одной Wi-Fi сети.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. На некоторых моделях ТВ эта функция доступна только при включенной функции проецирования. Для дополнительной информации обратитесь к &lt;a href=milink://com.milink.service/specification>\"Справке\"&lt;/a>.</Data></string>
@@ -521,6 +531,10 @@
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
+    <string name="global_dialog_cancle">Отмена</string>
+    <string name="global_dialog_miplay_permission_positive">Настройки</string>
+    <string name="global_dialog_nearbydevice_permission_message">Службам взаимосвязанности Xiaomi необходимо разрешение на подключение к близлежащим устройствам. Разрешение можно предоставить в настройках.</string>
+    <string name="global_dialog_nearbydevice_permission_title">Предоставьте разрешения</string>
     <string name="global_privacy">Условия и положения</string>
     <string name="global_privacy_detail"><Data>"Перед использованием приложения прочтите и примите &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>.&lt;br>В случае несогласия с условиями использования, вы не сможете использовать некоторые функции этого приложения, однако его основные функции по-прежнему будут вам доступны."</Data></string>
     <string name="global_privacy_explain">Добро пожаловать в Трансляцию! Приложение предоставляет дополнительные возможности при трансляции:</string>
@@ -539,6 +553,10 @@
     <string name="head_toast_fail">Не удалось подключить</string>
     <string name="head_toast_success">Подключено</string>
     <string name="headset_content_description">Наушники, подключенные к данному устройству. Нажмите дважды, чтобы активировать. Нажмите двумя пальцами и перетащите, чтобы перенести воспроизведение.</string>
+    <string name="help_page_question_1st_01_international">"%1$d. Если трансляция выполняется на ТВ марки Xiaomi, включите на нем Miracast.
+%2$d. Если ТВ другой марки, убедитесь, что  есть поддержка Miracast и что эта функция включена. На некоторых марках ТВ эта функция может иметь другое название, например \"Беспроводной дисплей\", \"Дублирование экрана\" или \"Несколько экранов\"."</string>
+    <string name="help_page_setp_1st_02_international">%1$d. Некоторые марки ТВ могут включать Miracast автоматически.</string>
+    <string name="help_page_step_1st_01_international">%1$d. Включите Miracast на ТВ Xiaomi.</string>
     <string name="help_page_text_01">Справка</string>
     <string name="help_page_text_02">Что такое трансляция?</string>
     <string name="help_page_text_03">Трансляция - вывод содержимого экрана на внешний монитор. Можно делиться фото и видео, играть в игры. Расход батареи при этом повышается незначительно.</string>
@@ -680,6 +698,7 @@
     <string name="keyguard_security_setting_privacy_policy">Политика конфиденциальности</string>
     <string name="km_synergy_error">Таймаут подключения. Убедитесь, что Bluetooth и Wi-Fi включены на обоих устройствах и они находятся в пределах досягаемости подключения.</string>
     <string name="km_synergy_error_china">Таймаут подключения. Убедитесь, что Bluetooth и Wi-Fi включены на обоих устройствах и они находятся в пределах досягаемости подключения.</string>
+    <string name="local_camera_device">Это устройство</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Выберите AM или PM</string>
     <string name="material_hour_24h_suffix">%1$s ч.</string>
@@ -1220,5 +1239,6 @@
     <string name="wifi_scan_btn_text">Поиск</string>
     <string name="wifi_username_et_hint">Введите ID аккаунта</string>
     <string name="window_card_ml_find_null">Этого устройства может не быть поблизости</string>
+    <string name="window_card_ml_find_null_camera">Не удалось найти поблизости камеру или подходящее устройство</string>
     <string name="yesterday">Вчера</string>
 </resources>
