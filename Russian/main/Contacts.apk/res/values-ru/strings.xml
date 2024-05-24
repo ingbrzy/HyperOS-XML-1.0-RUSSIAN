@@ -654,9 +654,9 @@
     <string name="groups_list_empty">Нет групп</string>
     <string name="hide_app_description_content">Приложение \"Контакты\" является системным, удалить его нельзя. Будет удалён ярлык приложения с рабочего стола. Запуск по-прежнему будет доступен через приложение \"Телефон\".</string>
     <string name="hide_app_description_title">Удалить \"Контакты\" с рабочего стола?</string>
-    <string name="hint_distance" />
+    <string name="hint_distance">Во время импорта держите оба устройства поблизости</string>
     <string name="hint_findContacts">Найти контакты</string>
-    <string name="hint_more_contact">Объедините дубликаты контактов</string>
+    <string name="hint_more_contact">Если при импорте возникли дубликаты контактов, воспользуйтесь функцией \"Объединение дубликатов\"</string>
     <string name="hybrid_check_network">Настройки сети</string>
     <string name="hybrid_data_error">Произошла ошибка</string>
     <string name="hybrid_locating_fail">Не удалось определить геопозицию</string>
@@ -1232,7 +1232,7 @@
     <string name="solar_term_summer_begins">Начало лета</string>
     <string name="solar_term_summer_solstice">Летнее солнцестояние</string>
     <string name="solar_term_the_rains">Дождь</string>
-    <string name="solar_term_vernal_equinox">День весеннего равноденствия</string>
+    <string name="solar_term_vernal_equinox">Весеннее равноденствие</string>
     <string name="solar_term_white_dews">Белые росы</string>
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
@@ -1274,7 +1274,7 @@
     <string name="the_double_ninth_festival">Праздник двух девяток</string>
     <string name="the_dragon_boat_festival">Праздник лодок-драконов</string>
     <string name="the_easter_day">Пасха</string>
-    <string name="the_eve_of_the_spring_festival">Канун китайского нового года</string>
+    <string name="the_eve_of_the_spring_festival">Китайский Новый год</string>
     <string name="the_fifth_day">Пятый день китайского нового года</string>
     <string name="the_fools_day">День дурака</string>
     <string name="the_forth_day">Четвертый день китайского нового года</string>
