@@ -89,6 +89,8 @@
     <string name="caller_info_name_delimiter">" или "</string>
     <string name="cancel_action">Отмена</string>
     <string name="candy">Конфета</string>
+    <string name="car_share_return_status">Не удалось отправить</string>
+    <string name="car_share_view_content">Отправить на %s</string>
     <string name="carousel">Карусель</string>
     <string name="celesta">Челеста</string>
     <string name="change_brightness">Настройка яркости</string>

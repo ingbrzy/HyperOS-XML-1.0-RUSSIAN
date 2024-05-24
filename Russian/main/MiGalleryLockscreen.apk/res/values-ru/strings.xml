@@ -70,6 +70,15 @@
     <string name="add_wallpaper">Добавить обои</string>
     <string name="addcw_apply_btn_txt">Добавить обои</string>
     <string name="afternoon">После полудня</string>
+    <string name="ai_back">Назад</string>
+    <string name="ai_begin">Начать</string>
+    <string name="ai_disable_limit_message">Все попытки на сегодня исчерпаны</string>
+    <string name="ai_edit_hint">Опишите ожидаемый результат. Хорошее описание с использованием понятных слов, поможет ИИ сгенерировать лучший результат.</string>
+    <string name="ai_network_error_message">Нет подключения к сети. Использование ИИ недоступно.</string>
+    <string name="ai_next">Сохранить в Галерее</string>
+    <string name="ai_participation">Использовать ИИ</string>
+    <string name="ai_recommend_keyword">Стили</string>
+    <string name="ai_text_limit">Достигнут лимит длины текста</string>
     <string name="ai_wallpaper_declare_double_link"><Data>Прежде чем продолжить, прочтите и примите &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>.</Data></string>
     <string name="allowed">Предоставлено</string>
     <string name="app_name">Карусель обоев</string>
@@ -133,6 +142,13 @@
     <string name="create_shortcut">Создать ярлык на рабочем столе</string>
     <string name="create_shortcut_btn">Создать</string>
     <string name="create_shortcut_title">Ярлык на рабочем столе</string>
+    <string name="creation_ai_disable_limit_message">Лимит попыток на сегодня исчерпан</string>
+    <string name="creation_ai_disable_message">Функция доступна только бета-тестерам. Подайте заявку в Xiaomi Community.</string>
+    <string name="creation_ai_disable_title">Необходимы разрешения бета-тестера</string>
+    <string name="creation_ai_err">Ошибка аутентификатора</string>
+    <string name="creation_ai_load">Подождите…</string>
+    <string name="creation_ai_ok">Понятно</string>
+    <string name="creation_ai_recreate">Начать заново</string>
     <string name="current_connection_invalid">Подождите, пока устройство подключится к сети</string>
     <string name="current_data_invalid">Произошла ошибка</string>
     <string name="current_network_invalid">Сначала подключитесь к сети</string>
@@ -428,6 +444,9 @@ mm"</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
+    <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Синхронизация с облаком</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
     <string name="miuix_appcompat_deselect_all">Отменить</string>
@@ -448,6 +467,11 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
+    <string name="miuix_search_action_mode_cancel">Отмена</string>
+    <string name="miuix_search_history_clear">Очистить историю поиска</string>
+    <string name="miuix_search_history_default_title">История поиска</string>
+    <string name="miuix_search_recommendation_default_title">Вас может заинтересовать</string>
+    <string name="miuix_search_recommendation_item_del_des">Удалить</string>
     <string name="mode_auto_desc">Включите Карусель обоев для автозагрузки новых изображений</string>
     <string name="mode_auto_desc_open">Автозагрузка новых изображений</string>
     <string name="mode_auto_desc_selected">Автозагрузка новых изображений</string>
@@ -755,6 +779,8 @@ mm"</string>
     <string name="privacy_update_summary3">Вы не сможете использовать Карусель обоев, если не примите обновлённую &lt;font color ='#37A5FF'>&lt;a href=\"%1$s\">Политику конфиденциальности&lt;/font>&lt;/a>. Принимаете?</string>
     <string name="privacy_update_title1">Обновленная политика конфиденциальности</string>
     <string name="privacy_update_title2">Внимание</string>
+    <string name="prompt_add_origin_pic">Добавьте изображение</string>
+    <string name="prompt_add_tip">Добавьте описание</string>
     <string name="prv_end">Больше ничего нет</string>
     <string name="prv_loading">Подождите…</string>
     <string name="prv_nodata">Нет данных</string>
@@ -813,6 +839,8 @@ mm"</string>
     <string name="select_picture">Выбор изображений</string>
     <string name="select_picture_des">Добавьте свои фотографии и онлайн-изображения для отображения в слайд-шоу.</string>
     <string name="send">Отправить</string>
+    <string name="sensitive_preview">Конфиденциальный или неприемлемый контент при использовании обработки с помощью ИИ не разрешён</string>
+    <string name="sensitive_prompt">Конфиденциальный или неприемлемый контент при использовании обработки с помощью ИИ не разрешён</string>
     <string name="setting_about_item_des">Версия</string>
     <string name="setting_about_item_title">О Карусели обоев</string>
     <string name="setting_des">Слайд-шоу можно настроить в Настройки &gt; Блокировка и защита &gt; Карусель обоев</string>
@@ -826,7 +854,7 @@ mm"</string>
     <string name="share">Поделиться</string>
     <string name="share_dlg_more">Ещё</string>
     <string name="share_dlg_qq">Отправить в QQ</string>
-    <string name="share_dlg_save">Сохранить в Галерею</string>
+    <string name="share_dlg_save">Сохранить в Галерее</string>
     <string name="share_dlg_title">Отправить обои</string>
     <string name="share_dlg_wechat">Отправить другу</string>
     <string name="share_dlg_wechat_moment">Моменты WeChat</string>
@@ -872,6 +900,9 @@ mm"</string>
     <string name="solar_term_white_dews">Белые росы</string>
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
+    <string name="sst_ai_wallpaper_Activity_title">Создание обоев с помощью ИИ</string>
+    <string name="sst_ai_wallpaper_desc">Нарисованные от руки изображения можно использовать для создания с помощью ИИ обоев высокой четкости в различных стилях</string>
+    <string name="sst_ai_wallpaper_title">Создание обоев с помощью ИИ</string>
     <string name="sst_auto_recommand_desc">Выберите категории ежедневно обновляемых обоев и историй</string>
     <string name="sst_auto_recommand_title">Истории</string>
     <string name="sst_change_wallpaper_desc">Выбор экранов</string>
@@ -1064,6 +1095,7 @@ mm"</string>
     <string name="view_privacy_policy">Политика конфиденциальности</string>
     <string name="wallpaper">Обои</string>
     <string name="wallpaper_added_success_toast">Обои добавлены</string>
+    <string name="wallpaper_creator_empty_dlg_content">Простые шаги и мгновенное формирование. Импортируйте нарисованную от руки картинку или фото, введите несколько подсказок и получите сгенерированные с помощью ИИ четыре стилизованные картинки. Сохраните наиболее подходящую картинку в альбоме.</string>
     <string name="wallpaper_feed_title">Вам также может понравиться</string>
     <string name="wallpaper_relations_title">Рекомендуемые</string>
     <string name="wednesday">Среда</string>

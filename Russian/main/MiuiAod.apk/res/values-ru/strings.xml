@@ -51,6 +51,7 @@
     <string name="always_style_symmary">Повышенный расход батареи</string>
     <string name="ambient_display_screen_title">Активный экран</string>
     <string name="ambient_display_screen_title_sp">Активный экран</string>
+    <string name="ambient_display_screen_title_summary">Установите стиль внутреннего экрана. Стиль внешнего экрана блокировки останется неизменным.</string>
     <string name="animation_clock_panel">Волны</string>
     <string name="aod_app_name">Редактор Активного экрана и Экрана блокировки</string>
     <string name="aod_close_color_inversion">Эта функция не совместима с инверсией цвета. Сначала отключите инверсию цвета.</string>
@@ -87,6 +88,8 @@ dd.MM"</string>
     <string name="aqi_format_desc">Индекс качества воздуха: %s</string>
     <string name="atmosphere_pressure_unit">гПа</string>
     <string name="background_icon">Фон</string>
+    <string name="battery_level">%d%%</string>
+    <string name="battery_level_rtl">%%%d</string>
     <string name="below_image">Внизу</string>
     <string name="bold_font">Жирный шрифт</string>
     <string name="bottomsheet_action_collapse">Свернуть нижний лист</string>
@@ -310,6 +313,7 @@ dd.MM"</string>
     <string name="kg_template_description_classic">Классика не выходит из моды</string>
     <string name="kg_template_description_magazine">Превратите экран блокировки в обложку журнала</string>
     <string name="kg_template_description_rhombus">Цените время</string>
+    <string name="kg_template_preview_content_description">Предпросмотр экрана блокировки</string>
     <string name="kg_template_title_classic">Классика</string>
     <string name="kg_template_title_magazine">Журнал</string>
     <string name="kg_template_title_mine">Экран блокировки</string>
@@ -542,7 +546,9 @@ mm"</string>
     <string name="signature_default_content">"Всегда верьте, что произойдет
 что-то чудесное"</string>
     <string name="smart_style">Умное отображение</string>
-    <string name="smart_style_summary">Держать экран включённым, за исключением случаев, когда устройство в кармане, когда слабое окружающее освещение в течение длительного времени или когда вы не смотрите на устройство</string>
+    <string name="smart_style_summary">Не включать экран, когда устройство в кармане или вы не смотрите на экран, а также при слабом освещении длительное время</string>
+    <string name="smart_style_summary_inner">Не включать экран, когда устройство в кармане или вы не смотрите на внутренний экран, а также при слабом освещении длительное время</string>
+    <string name="smart_style_summary_outer">Не включать экран, когда устройство в кармане или вы не смотрите на внешний экран, а также при слабом освещении длительное время</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>
@@ -648,6 +654,17 @@ N e"</string>
     <string name="time_picker_label_minute">М</string>
     <string name="time_style">Стиль</string>
     <string name="time_style_layout">Макет</string>
+    <string name="tiny_camera_content_description">Камера</string>
+    <string name="tiny_classic_date_format">d.M EEE</string>
+    <string name="tiny_clock_time_format_12">hh:mm</string>
+    <string name="tiny_clock_time_format_24">HH:mm</string>
+    <string name="tiny_doodle_clock_date">dd MMMM</string>
+    <string name="tiny_doodle_clock_week_full">EEEE</string>
+    <string name="tiny_pets_date_format">d.M</string>
+    <string name="tiny_pets_week_format">EE</string>
+    <string name="tiny_splicing_date_content_description">d.M</string>
+    <string name="tiny_splicing_date_format">d.M</string>
+    <string name="tiny_splicing_week_format">EE</string>
     <string name="tip_to_open_aod_mode">Активный экран отключён. Включить?</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>

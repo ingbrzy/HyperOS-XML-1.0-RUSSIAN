@@ -701,6 +701,7 @@
     <string name="clear_dup_medias">Удаление дубликатов фото</string>
     <string name="clear_dup_success">Успешно очищено</string>
     <string name="clear_dup_tip">Удаление дубликатов фото</string>
+    <string name="clear_gallery_disk_cache_img">Очистка кэша изображений Галереи</string>
     <string name="clear_thumbnails_ending_dialog_cancer">Отмена</string>
     <string name="clear_thumbnails_ending_dialog_content">Синхронизация с облаком в этой версии Галереи больше не доступна. Просмотр не загруженных на устройство файлов недоступен, но вы можете просмотреть их и скачать на i.mi.com</string>
     <string name="clear_thumbnails_ending_dialog_title">Синхронизация с облаком больше не доступна</string>
@@ -1131,6 +1132,7 @@ ID: %s
     <string name="fancy_color_desc">Цвета</string>
     <string name="fast_share_auto_render">Улучшение</string>
     <string name="fast_share_auto_render_finish">Улучшено</string>
+    <string name="father_day">День матери</string>
     <string name="feature_guidance_photo_effects">"Доступны новые
 фотоэффекты"</string>
     <string name="feature_guidance_video_editor_smart_effects">Доступны новые эффекты</string>
@@ -1413,6 +1415,7 @@ ID: %s
     <string name="group_header_title_media_group">Типы медиа</string>
     <string name="group_header_title_third_album">Ещё</string>
     <string name="group_header_title_user_create_album">Мои альбомы</string>
+    <string name="halloween">Хэллоуин</string>
     <string name="has_invalid_recipient">Недопустимые получатели: %1$s</string>
     <string name="have_known">Понятно</string>
     <string name="hdr_show_hint">Настройте дисплей для улучшения детализации бликов и теней у объектов с высоким динамическим диапазоном</string>
@@ -1718,6 +1721,7 @@ ID: %s
     <string name="mark_operation_processing">Обработка…</string>
     <string name="mark_operation_succeeded">Успешно добавлено</string>
     <string name="mark_people_ignore_info_message">Нажмите и удерживайте фото людей для добавления их в группы</string>
+    <string name="mather_day">День отца</string>
     <string name="media_type_burst_photo">Серийные снимки</string>
     <string name="media_type_cinematic">Фильм</string>
     <string name="media_type_clone_photo">Клоны</string>
@@ -1966,6 +1970,7 @@ ID: %s
     <string name="new_relation_invalid_char">Имя группы не может содержать \"%s\". Используйте буквы, цифры или символы.</string>
     <string name="new_relation_invalid_name">Группа \"%s\" уже существует, введите другое имя.</string>
     <string name="new_relation_invalid_prefix">Имя группы не может начинаться с \".\" или \"_\"</string>
+    <string name="new_year_eve">Новый год</string>
     <string name="next">Далее</string>
     <string name="night">Вечер</string>
     <string name="no">Нет</string>
@@ -3373,6 +3378,7 @@ ID: %s
     <string name="text_tab_scene">Сцена</string>
     <string name="text_tab_spot">Декорации</string>
     <string name="text_tab_watermark">Водяной знак</string>
+    <string name="thanksgiving_day">День благодарения</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>
@@ -3381,6 +3387,7 @@ ID: %s
     <string name="the_childrens_day">День защиты детей</string>
     <string name="the_chinese_youth_day">День молодежи</string>
     <string name="the_christmas_day">Рождество</string>
+    <string name="the_christmas_eve">Канун Рождества</string>
     <string name="the_double_ninth_festival">Праздник двух девяток</string>
     <string name="the_dragon_boat_festival">Праздник лодок-драконов</string>
     <string name="the_easter_day">Пасха</string>

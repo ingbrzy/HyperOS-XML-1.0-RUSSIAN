@@ -1263,6 +1263,7 @@
     <string-array name="paper_color_index"></string-array>
     <string-array name="pc_battery_history_spinner_choice"></string-array>
     <string-array name="pc_battery_history_spinner_choice_new"></string-array>
+    <integer-array name="pc_charge_protection_wireless_reverse_limits"></integer-array>
     <integer-array name="pc_choice_dialog_battery_style_values"></integer-array>
     <integer-array name="pc_disconnect_data_time_choice_items"></integer-array>
     <string-array name="pc_fast_charge_entry"></string-array>

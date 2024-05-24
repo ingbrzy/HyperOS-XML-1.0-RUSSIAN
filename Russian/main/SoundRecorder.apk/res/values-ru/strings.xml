@@ -420,6 +420,7 @@ ID: %s
     <string name="passport_password_not_show">Не показывать пароль</string>
     <string name="passport_password_req_notice">Пароль должен содержать 8~16 символов, цифры и буквы с учётом регистра.</string>
     <string name="passport_password_show">Показать пароль</string>
+    <string name="passport_phone_auto_login_register_with_local_number">Создать аккаунт</string>
     <string name="passport_querying_phone_info">Запрос данных аккаунта…</string>
     <string name="passport_quick_login_title">Введите пароль</string>
     <string name="passport_reging">Создание аккаунта…</string>
@@ -470,7 +471,7 @@ ID: %s
     <string name="permission_storage_description">Для управления записями и загрузки их из облака</string>
     <string name="permission_storage_description_for_download">Для загрузки записей из облака</string>
     <string name="permission_storage_description_for_manage_files">Для управления записями</string>
-    <string name="passport_phone_auto_login_register_with_local_number">Создать аккаунт</string>
+    <string name="phone_auto_login_register_with_local_number">Создать аккаунт</string>
     <string name="photoPickerNotFoundText">Фото отсутствуют</string>
     <string name="play_speed">Скорость: %1$.1fX</string>
     <string name="playback_delete_records">Удалить запись</string>

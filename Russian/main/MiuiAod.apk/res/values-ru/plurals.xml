@@ -151,6 +151,14 @@
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
     </plurals>
+    <plurals name="tiny_accessibility_battery_level">
+        <item quantity="other">Уровень заряда: %s%%</item>
+        <item quantity="one">Уровень заряда: %s%%</item>
+    </plurals>
+    <plurals name="tiny_accessibility_battery_level_charging">
+        <item quantity="other">Зарядка. Уровень: %s%%.</item>
+        <item quantity="one">Зарядка. Уровень: %s%%.</item>
+    </plurals>
     <plurals name="weather_temperature_desc">
         <item quantity="other">Температура: %1$s градусов, %2$s</item>
         <item quantity="one">Температура: %1$s градус, %2$s</item>

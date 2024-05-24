@@ -48,6 +48,7 @@
     <string name="calibrate_failed_timeout">Калибровка не удалась. Ошибка сервера.</string>
     <string name="calibrate_new_tip">Резко наклоните устройство, чтобы прокатить шар по кругу</string>
     <string name="calibrate_rotate_again">Повтор</string>
+    <string name="calibrate_rotate_more_again">Магнитные помехи. Повторите калибровку на открытом месте.</string>
     <string name="calibrate_success">Калибровка завершена</string>
     <string name="calibrate_tip">Резко наклоняйте устройство, чтобы шарик катился по кругу</string>
     <string name="calibrate_title">Калибровка компаса</string>

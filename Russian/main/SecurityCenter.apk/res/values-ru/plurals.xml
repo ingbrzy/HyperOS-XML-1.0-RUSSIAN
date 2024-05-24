@@ -1191,6 +1191,11 @@
         <item quantity="one">" раз"</item>
         <item quantity="few">" раза"</item>
     </plurals>
+    <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d раз</item>
+        <item quantity="one">%d раз</item>
+        <item quantity="few">%d раза</item>
+    </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d причин быстрого разряда</item>
         <item quantity="one">%d причина быстрого разряда</item>

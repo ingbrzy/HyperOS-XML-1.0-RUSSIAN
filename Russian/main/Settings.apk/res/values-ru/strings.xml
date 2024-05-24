@@ -5892,6 +5892,7 @@ ID: %s
     <string name="miui_allow_vibrate">Вибрация</string>
     <string name="miui_bubbles_notification">Всплывающий чат для диалогов</string>
     <string name="miui_bubbles_notification_status_opened">Вкл.</string>
+    <string name="miui_car_diagnosis">Включите диагностику автомобиля</string>
     <string name="miui_data_usage_menu_metered">Мобильная точка доступа</string>
     <string name="miui_desktop_mode_settings">Рабочая станция</string>
     <string name="miui_device_control_description">Показать приложения, поддерживающие управление устройствами \"умного\" дома</string>
