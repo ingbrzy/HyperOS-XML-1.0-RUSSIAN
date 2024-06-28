@@ -64,4 +64,8 @@
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
     </plurals>
+    <plurals name="showStatusBar_executeHabit_count">
+        <item quantity="other">Выполнено шаблонов:  %d</item>
+        <item quantity="one">Выполнено шаблонов:  %d</item>
+    </plurals>
 </resources>

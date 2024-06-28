@@ -779,6 +779,7 @@ mm"</string>
     <string name="privacy_update_summary3">Вы не сможете использовать Карусель обоев, если не примите обновлённую &lt;font color ='#37A5FF'>&lt;a href=\"%1$s\">Политику конфиденциальности&lt;/font>&lt;/a>. Принимаете?</string>
     <string name="privacy_update_title1">Обновленная политика конфиденциальности</string>
     <string name="privacy_update_title2">Внимание</string>
+    <string name="prompt_Theme_tip">Не удается получить стиль темы. Убедитесь, что сеть и время указаны правильно.</string>
     <string name="prompt_add_origin_pic">Добавьте изображение</string>
     <string name="prompt_add_tip">Добавьте описание</string>
     <string name="prv_end">Больше ничего нет</string>
@@ -999,9 +1000,16 @@ mm"</string>
     <string name="sunday_shortest">Вс</string>
     <string name="sure_close_gallery">Отключить Карусель обоев?</string>
     <string name="sure_close_gallery_des">Вы не сможете получать обновляемые обои на рабочий стол и экран блокировки, если отключите Карусель обоев. Выключить?</string>
+    <string name="surprise_wallpaper_auth_failed_tip">Не удалось проверить информацию о пользователе. Проверьте статус входа и системное время.</string>
+    <string name="surprise_wallpaper_can_not_open_tip">Поверните изображение</string>
     <string name="surprise_wallpaper_empty_dlg_content">Обои-сюрпризы будут сгенерированы на основе выбранных обоев (если включено), либо на основе случайных обоев</string>
     <string name="surprise_wallpaper_empty_dlg_title">Обои-сюрпризы</string>
     <string name="surprise_wallpaper_generate_failed_toast">Ошибка генерации обоев</string>
+    <string name="surprise_wallpaper_goto_prompts_error">Ошибка сети. Повторите попытку позже.</string>
+    <string name="surprise_wallpaper_prompts_null">Исходное изображение не будет добавлено в избранное</string>
+    <string name="surprise_wallpaper_prompts_send_failed">Ошибка сохранения. Повторите попытку.</string>
+    <string name="surprise_wallpaper_prompts_send_succeed">Сохранено</string>
+    <string name="surprise_wallpaper_prompts_sending">Передача настроек…</string>
     <string name="system_default">По умолчанию</string>
     <string name="tab_user_title_bar_text">Настройки</string>
     <string name="tb_collapse_desc">Скрыть меню \"Поделиться\"</string>

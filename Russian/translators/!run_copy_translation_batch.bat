@@ -55,6 +55,7 @@ call run_copy_translation.bat %1 MiShare
 call run_copy_translation.bat %1 MiSound
 call run_copy_translation.bat %1 MiuiAod
 call run_copy_translation.bat %1 MiuiAudioMonitor
+call run_copy_translation.bat %1 MiuiBarrage
 call run_copy_translation.bat %1 MiuiBiometric
 call run_copy_translation.bat %1 MiuiBluetooth
 call run_copy_translation.bat %1 MiuiBugReport

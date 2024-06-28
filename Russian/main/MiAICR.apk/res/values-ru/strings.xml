@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="AI_Customer_service_hotline">Горячая линия поддержки: 400–100–5678</string>
     <string name="AI_diwbkiad_dekete_model">Удалить модель</string>
     <string name="AI_download_delete_message">Если вы удалите модель Mi AI Image Creator, то больше не сможете использовать её функции. Удалить?</string>
     <string name="AI_download_delete_neg">Отмена</string>
@@ -8,6 +9,7 @@
     <string name="AI_download_file_message">Поддержка Mi AI Image Creator, прибл. %.1f ГБ</string>
     <string name="AI_download_function_message">Установите модель Mi AI Image Creator, чтобы Mi AI мог генерировать изображения на основе ваших описаний.</string>
     <string name="AI_download_title">Модель Mi AI Image Creator</string>
+    <string name="AI_version_number">Версия: %d</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Ещё</string>
@@ -35,6 +37,7 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="about_MiAI_engine">О движке Mi AI</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
     <string name="app_name">Система Mi AI</string>
@@ -234,6 +237,10 @@
     <string name="copywriting_scheduleToOpenCurtain_description">Раздвигать %1$s каждый день в установленное время</string>
     <string name="copywriting_scheduleToOpenLightOther_description">Включать освещение %1$s каждый день в установленное время</string>
     <string name="copywriting_scheduleToOpenLight_description">Включать %1$s каждый день в установленное время</string>
+    <string name="copywriting_scheduleToRegularCloseLightOther_description">Выключать освещение %2$s каждый день в %1$s</string>
+    <string name="copywriting_scheduleToRegularClose_description">Выключать %2$s каждый день в %1$s</string>
+    <string name="copywriting_scheduleToRegularOpenLightOther_description">Включать освещение %2$s каждый день в %1$s</string>
+    <string name="copywriting_scheduleToRegularOpen_description">Включать %2$s каждый день в %1$s</string>
     <string name="copywriting_turnDownVolume_description_hmind">Громкость устройства уменьшена</string>
     <string name="copywriting_turnDownVolume_description_island">Громкость устройства уменьшена</string>
     <string name="copywriting_vacuumGocharging_description_hmind">Пылесос возвращён на док-станцию</string>
@@ -242,8 +249,13 @@
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Для получения прошлой геопозиции, сохранённой на устройстве.</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
+    <string name="download_cancel">Отмена</string>
     <string name="download_complete">Загружено</string>
+    <string name="download_done">Готово</string>
+    <string name="download_notification_title">Улучшение стабильности и оптимизация работы</string>
+    <string name="download_notification_update">Нажмите для обновления</string>
     <string name="download_paused">Продолжить</string>
+    <string name="download_process_content_wenshengtu_title">Загрузка модели Mi AI Image Creator…</string>
     <string name="download_resume">%d%%</string>
     <string name="download_start">Скачать</string>
     <string name="download_updata">Обновить</string>

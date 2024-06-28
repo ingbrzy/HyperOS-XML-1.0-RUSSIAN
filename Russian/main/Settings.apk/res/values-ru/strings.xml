@@ -4521,6 +4521,8 @@ ID: %s
     <string name="ignore_optimizations_off_desc">Рекомендуется для увеличения времени работы устройства от батареи.</string>
     <string name="ignore_optimizations_on">Не экономить</string>
     <string name="ignore_optimizations_on_desc">Батарея может разрядиться быстрее.</string>
+    <string name="illegal_device_name_modification_notification">Переименуйте устройство</string>
+    <string name="illegal_hotspot_name_modification_notification">Переименуйте точку доступа</string>
     <string name="ime_security_warning">%1$s может записывать все, что вы вводите, включая пароли, номера кредитных карт и прочие личные данные.</string>
     <string name="ime_security_warning_global">Методы ввода могут собирать весь вводимый вами текст, включая такие личные данные, как пароли и номера кредитных карт. Использовать %1$s?</string>
     <string name="ime_security_warning_title_global">Включение клавиатуры</string>
@@ -6317,6 +6319,7 @@ ID: %s
     <string name="my_device_info_legal_category_title">Правовые и нормативные требования</string>
     <string name="my_device_real_camera">Задняя камера</string>
     <string name="n_cacrts">Сертификатов ЦС: %d</string>
+    <string name="name_modification_no_network_notification">Подключитесь к сети и повторите попытку</string>
     <string name="natural_haptic">Реалистичный виброотклик</string>
     <string name="natural_haptic_summary">Различные варианты виброотклика придают дополнительное измерение всему, что вы видите и к чему прикасаетесь</string>
     <string name="natural_scroll">Натуральная прокрутка</string>
@@ -7715,6 +7718,7 @@ OTG отключается автоматически через 10 минут �
     <string name="save">Сохранить</string>
     <string name="save_battery_mode">Экономия заряда с QHD+</string>
     <string name="save_battery_mode_summary">Автопереключение разрешения для экономии заряда</string>
+    <string name="save_device_name_progress_message">Сохранение…</string>
     <string name="saved_network">Сохранено %1$s</string>
     <string name="saved_wifi">Сохранённые сети</string>
     <string name="saved_wifi_delete">Удалить</string>

@@ -34,7 +34,7 @@
     <string name="add_blocked_number_hint">Номер телефона</string>
     <string name="add_vm_number_str">Добавить номер</string>
     <string name="afternoon">После полудня</string>
-    <string name="alert_outgoing_call">Если вы начнете этот звонок, вызов в %1$s будет завершен.</string>
+    <string name="alert_outgoing_call">Если вы начнёте этот звонок, вызов в %1$s будет завершен.</string>
     <string name="alert_place_outgoing_call_with_redirection">Перенаправить вызов с использованием %1$s</string>
     <string name="alert_place_unredirect_outgoing_call">Вызов по моему номеру телефона</string>
     <string name="alert_redirect_outgoing_call_or_not">Выберите, как сделать этот вызов</string>

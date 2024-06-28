@@ -738,6 +738,10 @@
         <item quantity="other">" мин."</item>
         <item quantity="one">" мин."</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d-дневной</item>
+        <item quantity="one">%d-дневной</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d пунктов</item>
         <item quantity="one">%d пункт</item>

@@ -44,6 +44,7 @@
     <string name="button_clear_storage">Освободить</string>
     <string name="button_confirm">ОК</string>
     <string name="button_goon_recorder">Продолжить</string>
+    <string name="camera_high_spec_recording">Нельзя запустить запись экрана во время записи видео в %1$s</string>
     <string name="cancel_edit">Отмена</string>
     <string name="cannot_change_frames">Частоту кадров можно настроить только для записей с фиксированной частотой кадров.</string>
     <string name="cannot_change_parames">Нельзя менять параметры во время записи</string>
@@ -267,6 +268,7 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="tap_to_view">Нажмите для просмотра</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>

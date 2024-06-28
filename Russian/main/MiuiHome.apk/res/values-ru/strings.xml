@@ -323,6 +323,7 @@
     <string name="gadget_search_label">Поиск</string>
     <string name="gadget_weather_title">Погода</string>
     <string name="global_search">Поиск</string>
+    <string name="global_shelf">Поиск приложений</string>
     <string name="got_it_botton">Понятно</string>
     <string name="guide_install_app_msg">Это приложение не установлено на вашем устройстве. Найти и установить его?</string>
     <string name="guide_install_app_title">Установка приложения</string>
@@ -331,6 +332,7 @@
     <string name="hide_apps_title">Скрытие приложений</string>
     <string name="home_gesture_content_center">Контент-центр</string>
     <string name="home_gesture_global_search">Включён</string>
+    <string name="home_gesture_global_shelf">Поиск приложений</string>
     <string name="home_gesture_no_action">Отключён</string>
     <string name="home_gesture_notification_and_control_center">Шторка уведомлений и центр управления</string>
     <string name="home_gesture_notification_bar">Уведомления</string>

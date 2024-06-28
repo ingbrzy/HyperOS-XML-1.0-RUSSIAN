@@ -148,6 +148,7 @@
     <string-array name="baidu"></string-array>
     <string-array name="baidu_in_list"></string-array>
     <string-array name="ball_world_cup_groups"></string-array>
+    <array name="barrage_bubble_style_color_selector"></array>
     <array name="battery_indicator_style_icons"></array>
     <string-array name="battery_indicator_style_values"></string-array>
     <string-array name="battery_labels"></string-array>
@@ -226,6 +227,7 @@
     <array name="bt_icon_bg_colors"></array>
     <array name="bt_icon_fg_colors"></array>
     <string-array name="bubble_body_line_spacing_multiplier"></string-array>
+    <string-array name="bubble_stye_custom_packages"></string-array>
     <string-array name="buffer_size_names"></string-array>
     <string-array name="buffer_size_values"></string-array>
     <string-array name="bundesliga"></string-array>
@@ -1101,6 +1103,7 @@
     <string-array name="mi1_led_color_values"></string-array>
     <string-array name="mi2_wifi_security"></string-array>
     <array name="mi_default_blend_colors"></array>
+    <array name="mi_go_to_new_habit_blend_colors"></array>
     <string-array name="mi_stat_cancel_survey_key"></string-array>
     <string-array name="mi_stat_success_survey_key"></string-array>
     <string-array name="mibi_nopassword_pay_threshold"></string-array>
@@ -1171,6 +1174,7 @@
     <string-array name="msd_pc_system_retry_vista"></string-array>
     <string-array name="multi_floating_package_allow_list"></string-array>
     <integer-array name="muscle_rate_line_chart_default_y"></integer-array>
+    <string-array name="music_app_packageName"></string-array>
     <string-array name="music_app_pkg"></string-array>
     <string-array name="mvno_type_values"></string-array>
     <array name="mw_config_keySystemUuidMapping" />
@@ -1292,6 +1296,7 @@
     <string-array name="phone_type_values"></string-array>
     <string-array name="poco_branch_region"></string-array>
     <string-array name="poco_device_list"></string-array>
+    <string-array name="podcast_app_packageName"></string-array>
     <array name="policy_exempt_apps" />
     <string-array name="pop_up_activation_box_imsi_entries"></string-array>
     <string-array name="popular_language_locales"></string-array>
@@ -1629,6 +1634,7 @@
     <array name="super_wallpaper_res_scale_100_devices" />
     <string-array name="super_wallpaper_res_scale_10_devices"></string-array>
     <string-array name="support_accessibility_haptic_device_list"></string-array>
+    <string-array name="support_barrage_notification_packages"></string-array>
     <string-array name="support_eight_word_calibrate_devices"></string-array>
     <string-array name="support_lite_Optimization_device"></string-array>
     <string-array name="support_magic_window_device_list"></string-array>
@@ -1795,10 +1801,12 @@
     <integer-array name="vibration_torch_off"></integer-array>
     <integer-array name="vibration_torch_on"></integer-array>
     <array name="vibration_virtual_key_up" />
+    <string-array name="video_scene_packages"></string-array>
     <string-array name="video_type"></string-array>
     <string-array name="vip_mode_value"></string-array>
     <integer-array name="visceral_rate_line_chart_default_y"></integer-array>
     <string-array name="voice_report_phone_number_array"></string-array>
+    <string-array name="voice_video_call_packages"></string-array>
     <string-array name="volume_button_setting_values"></string-array>
     <string-array name="vowifi_tiles"></string-array>
     <string-array name="wallpaper_provider_blacklist"></string-array>
