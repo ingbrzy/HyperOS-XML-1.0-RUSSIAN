@@ -546,7 +546,7 @@ mm"</string>
     <string name="signature_default_content">"Всегда верьте, что произойдет
 что-то чудесное"</string>
     <string name="smart_style">Умное отображение</string>
-    <string name="smart_style_summary">Не включать экран, когда устройство в кармане или вы не смотрите на экран, а также при слабом освещении длительное время</string>
+    <string name="smart_style_summary">Экран будет гаснуть, когда вы не смотрите на него или устройство в кармане, а также при слабом освещении длительное время</string>
     <string name="smart_style_summary_inner">Не включать экран, когда устройство в кармане или вы не смотрите на внутренний экран, а также при слабом освещении длительное время</string>
     <string name="smart_style_summary_outer">Не включать экран, когда устройство в кармане или вы не смотрите на внешний экран, а также при слабом освещении длительное время</string>
     <string name="solar_term_autumn_begins">Начало осени</string>

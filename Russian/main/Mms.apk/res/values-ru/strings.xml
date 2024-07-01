@@ -465,7 +465,7 @@
     <string name="mms_block_hint">"Этот отправитель отсутствует в ваших контактах.
 Это сообщение может быть нежелательным."</string>
     <string name="mms_block_hint_highlight">Блокировка MMS</string>
-    <string name="mms_main_purpose_new">Для работы основных сервисов, разрешите приложению доступ к интернету</string>
+    <string name="mms_main_purpose_new">Для работы основных сервисов, разрешите приложению доступ к интернету. Дополнительно рекомендуем включить службы Mi Сообщения и Умные сообщения.</string>
     <string name="mms_mi_message_main_purpose">Добро пожаловать в Mi Сообщения! Для активации этого сервиса необходима отправка SMS. Ваш оператор связи может взимать плату за это сообщение.</string>
     <string name="mms_mi_message_request_notice">Используйте \"Mi Сообщения\" с максимальной отдачей</string>
     <string name="mms_mx_privacy_policy">Политика конфиденциальности Mi Сообщений</string>
@@ -781,7 +781,7 @@
     <string name="rcs_chatbot_main_menu_blacklist">Чёрный список</string>
     <string name="rcs_chatbot_main_menu_scan">Поиск</string>
     <string name="rcs_chatbot_main_search_hint">Поиск мини-приложений</string>
-    <string name="rcs_chatbot_main_tab_my">Избранные</string>
+    <string name="rcs_chatbot_main_tab_my">Мои приложения</string>
     <string name="rcs_chatbot_main_tab_near">Рядом</string>
     <string name="rcs_chatbot_main_tab_recent_used">Недавние</string>
     <string name="rcs_chatbot_main_tab_recommend">Рекомендуемые</string>
@@ -824,7 +824,7 @@
     <string name="rcs_chatdetail_more_id">ID владельца</string>
     <string name="rcs_chatdetail_more_number">Номер телефона (сообщения)</string>
     <string name="rcs_chatdetail_more_provider">Провайдер</string>
-    <string name="rcs_chatdetail_more_tcpage">Сервисное соглашение</string>
+    <string name="rcs_chatdetail_more_tcpage">Условия и положения</string>
     <string name="rcs_chatdetail_more_type">Категория</string>
     <string name="rcs_chatdetail_name_unknow">Неизвестный поставщик</string>
     <string name="rcs_chatdetail_save_chatbot">Добавить в мои приложения</string>
@@ -835,8 +835,8 @@
     <string name="rcs_chatlist_scan_error">Не удалось прочитать QR-код</string>
     <string name="rcs_conversation_rcs_tip">Мини-приложение: %s</string>
     <string name="rcs_create_new_group">Создать групповой чат</string>
-    <string name="rcs_dspt">Отправка и получение сообщений через Wi-Fi или мобильный интернет</string>
-    <string name="rcs_dspt_unavailable">Функции обмена 5G сообщениями не поддерживаются из-за ограничений оператора связи</string>
+    <string name="rcs_dspt">Отправка и получение сообщений через Wi-Fi или сеть China Mobile</string>
+    <string name="rcs_dspt_unavailable">Функция недоступна. SIM-карта China Mobile не установлена по умолчанию для мобильного интернета.</string>
     <string name="rcs_file_link_as_sms">Посетите %s для просмотра отправленного вам RCS-файла.</string>
     <string name="rcs_file_not_exist_preview">Файл не существует</string>
     <string name="rcs_forward_faild">Ошибка пересылки</string>
@@ -848,7 +848,7 @@
     <string name="rcs_list_bottom_search">Поиск…</string>
     <string name="rcs_locaiton_failed">Не удалось получить геопозицию</string>
     <string name="rcs_locaiton_hint_text">Получение геопозиции…</string>
-    <string name="rcs_main_purpose">С помощью этого сервиса можно отправлять и получать фото, голосовые сообщения, видео и многое другое</string>
+    <string name="rcs_main_purpose">Эта функция позволяет отправлять и получать RCS-сообщения. Сервис обмена сообщениями RCS предоставляется компанией China Mobile.</string>
     <string name="rcs_message">5G Сообщения</string>
     <string name="rcs_message_disable">Нельзя просмотреть это сообщение во втором пространстве</string>
     <string name="rcs_message_title">5G Сообщения</string>
@@ -883,7 +883,7 @@
     <string name="rcs_summary_auto_resend_sms">Отправлять текстовые 5G сообщения в виде SMS через мобильную сеть, когда нет подключения Wi-Fi. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="rcs_summary_silence_message">Уведомления о сообщениях при запущенном клиенте будут поступать без звука</string>
     <string name="rcs_unable_send_file">Не удалось отправить файл</string>
-    <string name="rcs_unavailable">Функции обмена 5G сообщениями не поддерживаются из-за ограничений оператора связи</string>
+    <string name="rcs_unavailable">Использование 5G Сообщений недоступно. SIM-карта China Mobile не установлена по умолчанию для мобильного интернета.</string>
     <string name="rcs_up_not_online">5G Сообщения недоступны. Проверьте настройки сети и повторите попытку.</string>
     <string name="rcs_wait_for_retry_text">Ожидание…</string>
     <string name="received_label">"Получено: "</string>

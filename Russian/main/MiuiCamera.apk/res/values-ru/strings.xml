@@ -2644,7 +2644,7 @@
     <string name="tip_flash_screen_light_on">Мягкая вспышка: Вкл.</string>
     <string name="tip_flash_soft_light_off">Мягкая вспышка: Откл.</string>
     <string name="tip_flash_soft_light_torch">Мягкая вспышка: Режим фонарика</string>
-    <string name="tip_flash_torch">Вспышка: Всегда вкл.</string>
+    <string name="tip_flash_torch">Вспышка: Режим фонарика</string>
     <string name="tip_friend_mode_connect_when_24GHz">Для улучшения качества превью используйте подключение с частотой %s ГГц</string>
     <string name="tip_friend_mode_display_device_name_connect">Общее превью</string>
     <string name="tip_friend_mode_display_device_name_disconnect">Другое устройство покинуло эту сессию</string>

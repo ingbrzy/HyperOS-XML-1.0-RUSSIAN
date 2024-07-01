@@ -285,8 +285,8 @@
     <string name="installer_installing">Установка…</string>
     <string name="installer_pending">Ожидание…</string>
     <string name="instructions">Нажмите кнопку для выполнения</string>
-    <string name="lea_disable_successfully">Для подключения наушников и передачи звука используется обычный Bluetooth</string>
-    <string name="lea_enable_successfully">Для подключения наушников и передачи звука используется LE Audio</string>
+    <string name="lea_disable_successfully">Используется обычный Bluetooth</string>
+    <string name="lea_enable_successfully">Используется LE Audio</string>
     <string name="load_all_features_deferred">Загрузка всех функций отложена</string>
     <string name="load_assets">Показать активы</string>
     <string name="load_feature_hello">Запустить функцию Hello</string>

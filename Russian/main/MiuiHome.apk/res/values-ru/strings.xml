@@ -355,7 +355,7 @@
     <string name="international_home_pull_down_sub_content">Переключить жест на открытие Центра управления можно в меню Настройки > Главный экран > Свайп вниз на рабочем столе</string>
     <string name="international_home_pull_down_up_btn_get">ОК</string>
     <string name="international_home_pull_up_content">Свайп вверх на рабочем столе для открытия Контент-центра</string>
-    <string name="international_home_pull_up_sub_content">Чтобы открыть поиск, используйте свайп вниз от середины рабочего стола</string>
+    <string name="international_home_pull_up_sub_content">Для поиска приложений используйте свайп вниз от середины рабочего стола</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="jeejen_description">"Увеличенные элементы.
 Упрощённые вызовы.
