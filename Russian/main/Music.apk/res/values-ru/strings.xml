@@ -98,6 +98,7 @@
     <string name="already_download_btn">Загрузка…</string>
     <string name="already_favorited">Уже в избранном</string>
     <string name="always_use_metered">Всегда использовать мобильный интернет</string>
+    <string name="app_closed_toast">Динамические обложки выключены</string>
     <string name="app_description_content">Приложение \"Музыка\" является системным, удалить его нельзя. Будет удалён ярлык приложения с рабочего стола. Воспроизведение музыки в приложении по-прежнему будет доступно.</string>
     <string name="app_description_title">Удалить \"Музыка\" с рабочего стола?</string>
     <string name="app_disable_description_content">Приложение \"Музыка\" является системным. Его отключение может повлиять на использование других приложений. Отключить?</string>
@@ -111,6 +112,7 @@
     <string name="app_notify_dialog_path_8">\"Настройки\" > \"Уведомления и строка состояния\" > \"Уведомления приложений\" > \"Музыка\"</string>
     <string name="app_notify_dialog_subtitle">Чтобы управлять воспроизведением через Шторку уведомлений, включите уведомления Mi Музыки.</string>
     <string name="app_notify_dialog_title">Требуются разрешения</string>
+    <string name="app_opened_toast">Динамические обложки включены</string>
     <string name="app_permission_confirm">Подтвердить</string>
     <string name="app_permission_optional">Необязательные разрешения</string>
     <string name="app_permission_require">Обязательные разрешения</string>
@@ -141,19 +143,48 @@
     <string name="artist_home_search_hint">Поиск исполнителей</string>
     <string name="artist_is_empty">Введите имя исполнителя</string>
     <string name="artist_name">Исполн.</string>
+    <string name="asm_account_exception">Произошла ошибка аккаунта</string>
     <string name="asm_batch_download_failed">Не удалось загрузить</string>
     <string name="asm_buy_member_success">VIP-подписка успешно оформлена</string>
+    <string name="asm_check_video_playing">Воспроизведение видео. Невозможно добавить объект в плейлист.</string>
+    <string name="asm_delete_all">Очистить</string>
+    <string name="asm_delete_all_data">Очистить все данные</string>
+    <string name="asm_delete_all_data_failed">Не удалось очистить данные. Повторите попытку.</string>
+    <string name="asm_delete_all_data_loading">Подождите…</string>
+    <string name="asm_delete_all_data_no_net">Для подтверждения вашей личности и очистки данных требуется подключение к сети. Подключитесь к сети и повторите попытку.</string>
+    <string name="asm_delete_all_data_success">Данные успешно очищены</string>
+    <string name="asm_delete_all_data_tips">"Если вы продолжите, вы удалите все данные приложения, включая песни, плейлисты и историю просмотров.
+Все преимущества членства и платные песни будут удалены. Деньги за существующее членство вам не будут возвращены, но с вас больше не будет взиматься плата.
+Как только вы решите очистить удалить все данные, вы выйдете из приложения. Очистить все данные сейчас?"</string>
+    <string name="asm_delete_data">Очистить данные</string>
+    <string name="asm_delete_data_local_and_online">Очистить офлайн-данные и данные потокового сервиса</string>
     <string name="asm_dialog_title_tips">VIP-подписка</string>
     <string name="asm_dialog_vip_confirm_text">Оформить</string>
     <string name="asm_dialog_vip_message">Оформите VIP-подписку, чтобы слушать музыку в высоком качестве и загружать еще больше контента.</string>
     <string name="asm_disable_song_click_tip">Этот трек недоступен из-за проблем с авторским правом</string>
+    <string name="asm_download_all_start_label">Возобновить все</string>
+    <string name="asm_download_all_stop_label">Приостановить все</string>
+    <string name="asm_download_allow_abort">Отмена</string>
+    <string name="asm_download_allow_always">Всегда разрешать</string>
+    <string name="asm_download_allow_oneshot">Разрешить один раз</string>
+    <string name="asm_download_delete">Удалить эту загрузку?</string>
+    <string name="asm_download_delete_all">Удалить все загрузки?</string>
+    <string name="asm_download_error">Ошибка загрузки. Нажмите для повтора.</string>
     <string name="asm_download_failed">Не удалось загрузить \"%1$s\"</string>
     <string name="asm_download_is_downloaded">Загрузка завершена</string>
     <string name="asm_download_is_downloaded_hq">Загружено в HQ</string>
     <string name="asm_download_is_downloading">Загрузка…</string>
     <string name="asm_download_list_not_supported">Не удается загрузить некоторые треки в этом списке</string>
+    <string name="asm_download_mobile_net_dialog_content">Вы не подключены к сети Wi-Fi. Скачать через мобильный Интернет?</string>
+    <string name="asm_download_mobile_net_dialog_title">Напоминание об использовании данных</string>
+    <string name="asm_download_paused">Приостановлено. Нажмите, чтобы продолжить.</string>
     <string name="asm_download_pending_status_msg">Подготовка к загрузке…</string>
+    <string name="asm_download_queue_waiting">Ожидание</string>
+    <string name="asm_download_setting_mobile">Разрешить скачивание через мобильный Интернет</string>
+    <string name="asm_download_setting_mobile_open_tips">Разрешите своему устройству загружать объекты через мобильный Интернет, когда оно не подключено к сети Wi-Fi</string>
+    <string name="asm_download_storage_not_enough">Недостаточно памяти на устройстве</string>
     <string name="asm_download_success">Загружено \"%1$s\"</string>
+    <string name="asm_download_title">Управление загрузками</string>
     <string name="asm_during_the_payment">Проверка состояния платежа…</string>
     <string name="asm_fail_play_song">Не удалось загрузить трек</string>
     <string name="asm_google_connect_failed">Не удалось завершить платеж. Убедитесь, что вы выполнили вход в Play Маркет.</string>
@@ -165,6 +196,7 @@
     <string name="asm_gooleplay_notice">Службы Google Play не установлены</string>
     <string name="asm_loadstate_error_retry">Подключитесь к интернету и нажмите, чтобы повторить попытку</string>
     <string name="asm_loadstate_not_more">На данный момент это все</string>
+    <string name="asm_message">Уведомления</string>
     <string name="asm_network_error">Проверьте интернет-соединение</string>
     <string name="asm_new_song_title">Новый трек</string>
     <string name="asm_no_need_download_songs">Трек в очереди на загрузку</string>
@@ -817,6 +849,10 @@
     <string name="local_page_artist_more">Больше песен %s</string>
     <string name="local_page_playlist">Плейлисты</string>
     <string name="local_page_song_download_history">Загрузки</string>
+    <string name="lock_screen_music_settings">Настройки музыки на экране блокировки</string>
+    <string name="lock_screen_settings">Настройки экрана блокировки</string>
+    <string name="lock_screen_slide_up">Проведите вверх для разблокировки</string>
+    <string name="lock_screen_switch">Музыка на экране блокировки</string>
     <string name="login_instantly">Вход</string>
     <string name="login_mi_account_and_gain_more_rights">Войдите в аккаунт Xiaomi чтобы получить доступ к дополнительным функциям.</string>
     <string name="login_out_tip">Не удалось выполнить выход. Вместо этого вы можете очистить все данные приложения.</string>
@@ -827,6 +863,31 @@
     <string name="lrc_search_failed">Текст песни не найден</string>
     <string name="lrc_searching">Поиск текста песни…</string>
     <string name="ludo_tab_guide">Загляните в наши новые музыкальные комнаты</string>
+    <string name="lyric_ai_apply_fail">Не удалось использовать. Повторите попытку.</string>
+    <string name="lyric_ai_button_text">AI-текст</string>
+    <string name="lyric_ai_dialog_one">• Вы можете нажать на кнопку, чтобы распознать текст песни, и мы заполним его за вас с помощью технологии распознавания голоса с AI.</string>
+    <string name="lyric_ai_dialog_three">• Просмотр прогресса доступен на панели инструментов.</string>
+    <string name="lyric_ai_dialog_two">• Распознавание займет несколько минут. По завершении распознавания тексты песен будут заполнены автоматически.</string>
+    <string name="lyric_ai_fail_toast">Файл слишком велик для распознавания</string>
+    <string name="lyric_ai_identify_success">Текст песни был успешно распознан</string>
+    <string name="lyric_ai_song">Текущий трек</string>
+    <string name="lyric_ai_song_list">Треки</string>
+    <string name="lyric_ai_state_apply">Использование текста</string>
+    <string name="lyric_ai_state_default">Трек не был распознан</string>
+    <string name="lyric_ai_state_fail">Не удалось распознать текст</string>
+    <string name="lyric_ai_state_identify">Распознать</string>
+    <string name="lyric_ai_state_identifying">Подождите…</string>
+    <string name="lyric_ai_state_use">Использовать</string>
+    <string name="lyric_ai_title">Распознавание текста песен с AI</string>
+    <string name="lyric_feedback_inaccurate_timing">Текст песни не синхронизирован</string>
+    <string name="lyric_feedback_lyrics_error">Текст песни содержит ошибки</string>
+    <string name="lyric_feedback_misspelling">Ошибки и опечатки</string>
+    <string name="lyric_feedback_other">Другое</string>
+    <string name="lyric_feedback_pure_music">Инструментальная композиция</string>
+    <string name="lyric_feedback_report_optimization">Отправьте отчет, чтобы помочь нам оптимизировать наши службы</string>
+    <string name="lyric_feedback_submit">Отправить</string>
+    <string name="lyric_feedback_submit_success">Отправлено</string>
+    <string name="lyric_feedback_title">Расскажите нам о проблеме</string>
     <string name="lyric_is_empty">Текст песни недоступен</string>
     <string name="lyric_label">Текст песни</string>
     <string name="lyric_open_other_connect">Загрузка текстов через мобильный интернет</string>
@@ -1069,6 +1130,8 @@
     <string name="nowplaying_circle_style_wave">Волна</string>
     <string name="nowplaying_dialog_title_delete_tracks">Удалить трек из очереди?</string>
     <string name="nowplaying_menu_item_delete">Удалить из очереди</string>
+    <string name="nowplaying_menu_item_gif_close">Включить динамические обложки</string>
+    <string name="nowplaying_menu_item_gif_open">Выключить динамические обложки</string>
     <string name="offline_notification_text">Нажмите для просмотра рекламы, сохранённой в автономном режиме</string>
     <string name="offline_notification_title">Просмотр рекламы</string>
     <string name="offline_opt_in_confirm">ОК</string>
@@ -1114,6 +1177,7 @@
     <string name="online_switch_message">Отключение онлайн-сервисов повлияет на сервисы VIP и рекомендации. Отключить?</string>
     <string name="online_switch_setting">Настройки онлайн-контента</string>
     <string name="only_pro_can_choose_hd_sound_quality">HD качество доступно только для Gold подписчиков</string>
+    <string name="open_alarm_clock_recommend_switch">Рекомендуемые мелодии будильника</string>
     <string name="open_online_service">Для использования этой функции необходимо включить онлайн-сервисы. Включить их сейчас?</string>
     <string name="open_service">Включить</string>
     <string name="operation_done_close">Закрыть</string>
@@ -1260,6 +1324,7 @@
     <string name="passport_talkback_switch_image_captcha">Переключиться на защитный код с картинки</string>
     <string name="passport_talkback_switch_voice_captcha">Переключиться на голосовой защитный код</string>
     <string name="passport_talkback_voice_captcha">Голосовой защитный код</string>
+    <string name="passport_third_sns_service_unavailable">Служба недоступна. Убедитесь, что приложение установлено и не заблокировано.</string>
     <string name="passport_ticket_send_by_second">Отправить через %d</string>
     <string name="passport_to_forget_password">Забыли пароль?</string>
     <string name="passport_to_password_login">Войти с помощью пароля</string>
@@ -1361,6 +1426,7 @@
     <string name="privacy_authorize_revoking">Отмена авторизации…</string>
     <string name="privacy_desc">Политика конфиденциальности (обязательно)</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="privacy_policy_title_asm">Мир музыки на кончиках ваших пальцев</string>
     <string name="privacy_request_desc"><Data>Приложению Музыка требуется согласие на сбор некоторой личной информации для предоставления онлайн-сервисов потокового вещания. Как мы обрабатываем собранную информацию можно узнать в &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>. Вы можете в любой момент отозвать своё согласие в настройках.
 Перед использованием приложения вы должны принять &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>.
 В случае отказа вы не сможете использовать некоторые функции этого приложения, однако его базовая функциональность по-прежнему будет вам доступна.</Data></string>
@@ -1590,6 +1656,7 @@
     <string name="sunday_shortest">Вс</string>
     <string name="supplementary_songs">Дополнительные песни</string>
     <string name="swipe_for_more">Проведите вверх, чтобы увидеть больше клипов</string>
+    <string name="swipe_to_exit">Проведите еще раз, чтобы выйти</string>
     <string name="switch_success">Успешно переключено</string>
     <string name="tab_album">Альбомы</string>
     <string name="tab_album_list">Альбомы</string>
@@ -1720,6 +1787,7 @@
     <string name="today">Сегодня</string>
     <string name="today_hot_playlist">Плейлист дня</string>
     <string name="tomorrow">Завтра</string>
+    <string name="tools_settings">Настройки инструментов</string>
     <string name="top_chart_title">Чарты</string>
     <string name="track_play_history_after_login">Войдите для просмотра истории воспроизведения</string>
     <string name="tt_ad_clicked_text">Нажатий на рекламу</string>
@@ -1751,7 +1819,6 @@
     <string name="tt_try_now">Попробуй</string>
     <string name="tt_txt_skip">Пропустить</string>
     <string name="tt_video_retry_des">Ошибка загрузки. Нажмите, чтобы попробовать снова</string>
-    <string name="tt_wap_empty">No request wap</string>
     <string name="tt_yes_i_agree">Принимаю</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
@@ -1883,4 +1950,5 @@
     <string name="youtube_tab_shorts">Shorts</string>
     <string name="youtube_tab_tiktok">TikTok</string>
     <string name="youtube_tab_trend">Набирающие популярность</string>
+    <string name="ytb_turn_on_sound">Нажмите, чтобы включить звук</string>
 </resources>

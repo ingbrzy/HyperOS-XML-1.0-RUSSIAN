@@ -117,6 +117,42 @@
         <item quantity="other">Перемотка назад на %d сек.</item>
         <item quantity="one">Перемотка назад на %d сек.</item>
     </plurals>
+    <plurals name="festival_game_task_gifts">
+        <item quantity="other">заработайте %2$d подарочных коробок</item>
+        <item quantity="one">заработайте %2$d подарочную коробку</item>
+        <item quantity="few">заработайте %2$d подарочных коробки</item>
+        <item quantity="many">заработайте %2$d подарочных коробок</item>
+    </plurals>
+    <plurals name="festival_game_task_tips">
+        <item quantity="other">Сыграйте %1$d раз, %2$s</item>
+        <item quantity="one">Сыграйте %1$d раз, %2$s</item>
+        <item quantity="few">Сыграйте %1$d раза, %2$s</item>
+        <item quantity="many">Сыграйте %1$d раз, %2$s</item>
+    </plurals>
+    <plurals name="festival_news_second_task_tips">
+        <item quantity="other">Просматривайте в течение %1$d сек., %2$s</item>
+        <item quantity="one">Просматривайте в течение %1$d сек., %2$s</item>
+        <item quantity="few">Просматривайте в течение %1$d сек., %2$s</item>
+        <item quantity="many">Просматривайте в течение %1$d сек., %2$s</item>
+    </plurals>
+    <plurals name="festival_news_task_gifts">
+        <item quantity="other">заработайте %2$d подарочных коробок</item>
+        <item quantity="one">заработайте %2$d подарочную коробку</item>
+        <item quantity="few">заработайте %2$d подарочных коробки</item>
+        <item quantity="many">заработайте %2$d подарочных коробок</item>
+    </plurals>
+    <plurals name="festival_news_task_tips">
+        <item quantity="other">Просматривайте в течение %1$d мин., %2$s</item>
+        <item quantity="one">Просматривайте в течение %1$d мин., %2$s</item>
+        <item quantity="few">Просматривайте в течение %1$d мин., %2$s</item>
+        <item quantity="many">Просматривайте в течение %1$d мин., %2$s</item>
+    </plurals>
+    <plurals name="festival_task_finish">
+        <item quantity="other">Поздравляем! Вы заработали %d подарочных коробок</item>
+        <item quantity="one">Поздравляем! Вы заработали %d подарочную коробку</item>
+        <item quantity="few">Поздравляем! Вы заработали %d подарочных коробки</item>
+        <item quantity="many">Поздравляем! Вы заработали %d подарочных коробок</item>
+    </plurals>
     <plurals name="file_count">
         <item quantity="other">%1$d файлов</item>
         <item quantity="one">%1$d файл</item>

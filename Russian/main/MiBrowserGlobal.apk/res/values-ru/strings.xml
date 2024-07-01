@@ -141,6 +141,7 @@
     <string name="agree_label">Принимаю</string>
     <string name="agree_open">Включить</string>
     <string name="agree_permissions_request">Разрешить</string>
+    <string name="ai_summery_too_long">Исходный текст слишком длинный. Качество смарт-конспекта может варьироваться.</string>
     <string name="alert_tips">Этот сайт может представлять угрозу безопасности</string>
     <string name="all">Все</string>
     <string name="allow">Разрешить</string>
@@ -312,6 +313,13 @@
     <string name="btn_copied">Скопировано</string>
     <string name="btn_copy">Копировать</string>
     <string name="btn_open">Открыть</string>
+    <string name="call_notification_answer_action">Ответить</string>
+    <string name="call_notification_answer_video_action">Видео</string>
+    <string name="call_notification_decline_action">Отклонить</string>
+    <string name="call_notification_hang_up_action">Завершить</string>
+    <string name="call_notification_incoming_text">Входящий вызов</string>
+    <string name="call_notification_ongoing_text">Текущий вызов</string>
+    <string name="call_notification_screening_text">Фильтрация входящего вызова</string>
     <string name="camera_permission_name">Использование камеры</string>
     <string name="can_not_send_with_too_many">Слишком много объектов для отправки</string>
     <string name="cancel">Отмена</string>
@@ -381,6 +389,7 @@
     <string name="click_always">Нажмите \"Всегда\"</string>
     <string name="click_clean">Очистить</string>
     <string name="click_to_refresh">Нажмите для обновления</string>
+    <string name="click_to_replay_btn">Нажмите, чтобы повторить</string>
     <string name="clip_dialog_title">Открыть скопированную ссылку?</string>
     <string name="clipboard_title_text">Скопированный текст</string>
     <string name="clipboard_title_url">Скопированный URL</string>
@@ -538,6 +547,7 @@
     <string name="custom_head_card_text_incognito">"Режим инкогнито!
 Просмотренные страницы не появятся в истории браузера."</string>
     <string name="custom_page_guide_content">Закладки, настройки и инструменты находятся здесь!</string>
+    <string name="customize">Настроить</string>
     <string name="dark_mode">Тёмный режим</string>
     <string name="data_error">Ошибка данных</string>
     <string name="data_format_ymd">dd.MM.yyyy</string>
@@ -613,12 +623,14 @@ ID:%s
     <string name="download_business_app_update_install">Обновление готово к установке.</string>
     <string name="download_business_v5_edit_mode_title_empty">Выберите объекты</string>
     <string name="download_change_dir">Изменить папку</string>
+    <string name="download_close">Закрыть</string>
     <string name="download_complete">Успешно загружено</string>
     <string name="download_completed">Загружено</string>
     <string name="download_completed_private_tips">Загружено и добавлено в скрытые файлы. &lt;font color=\"#2dd9ce\">Нажмите для просмотра.&lt;/font></string>
     <string name="download_completed_tips">Загрузка завершена. &lt;font color=\"#0081ff\">Нажмите для просмотра.&lt;/font></string>
     <string name="download_default_path_txt">Запомнить выбор</string>
     <string name="download_delete_download">Удалить</string>
+    <string name="download_delete_selected_task">Удалить</string>
     <string name="download_dialog_cannot_resume">Загрузка прервана</string>
     <string name="download_dialog_confirm_delete_checkbox_message">Удалить файл из памяти устройства</string>
     <string name="download_dialog_confirm_delete_the_download_item_message">Удалить эту загрузку?</string>
@@ -811,6 +823,10 @@ ID:%s
     <string name="experience_improve">Программа улучшения качества</string>
     <string name="exported">Экспортировать</string>
     <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
+    <string name="external_app_leave_incognito_leave">Выключить</string>
+    <string name="external_app_leave_incognito_stay">Не выключать</string>
+    <string name="external_app_leave_incognito_warning">Этот веб-сайт пытается передать информацию приложению вне Режима инкогнито. Выключить сейчас?</string>
+    <string name="external_app_leave_incognito_warning_title">Выключить режим инкогнито?</string>
     <string name="external_app_restricted_access_error">Браузер не может получить доступ к этому объекту.</string>
     <string name="failed_dup_secure_phone_number">Этот номер телефона используется другим аккаунтом Xiaomi</string>
     <string name="fallback_menu_item_copy_link">Копировать ссылку</string>
@@ -867,6 +883,7 @@ ID:%s
     <string name="feedback_website_general">Нормальная, но могла бы быть выше</string>
     <string name="feedback_website_good">Хорошая</string>
     <string name="feedback_website_speed_title">Какова скорость загрузки веб-страниц?</string>
+    <string name="festival_task_start">Играть</string>
     <string name="fetch_video">Подготовка видео…</string>
     <string name="fetch_video_fail">Не удалось получить данные</string>
     <string name="fetch_video_ssl_bad_clock">На устройстве установлена неверная дата и время (%s). Измените настройки и повторите попытку.</string>
@@ -1084,6 +1101,7 @@ ID:%s
     <string name="just_a_second">Подождите…</string>
     <string name="just_now">Только что</string>
     <string name="keep_intrercept">Оставить</string>
+    <string name="kindred_coupons_get_code">Получить код</string>
     <string name="kindred_coupons_terms">Показать условия использования</string>
     <string name="kindred_coupons_title">Купоны</string>
     <string name="le_download_failed_server_error">Не удалось загрузить из-за ошибки сервера.</string>
@@ -1162,6 +1180,11 @@ ID:%s
     <string name="menu_title_resume_all">Запустить все</string>
     <string name="mi_browser_clean_up_garbage">Mi Браузер очищает мусор…</string>
     <string name="mi_browser_is_scanning">Mi Браузер выполняет проверку</string>
+    <string name="mict_copylink">Копировать URL</string>
+    <string name="mict_refresh">Обновить</string>
+    <string name="mict_share">Поделиться</string>
+    <string name="mict_url_copy_done">URL-адрес скопирован</string>
+    <string name="mict_web_page_error_tip">Произошла ошибка. Обновите страницу или повторите попытку позже.</string>
     <string name="midi_permission_name">Контроль MIDI-устройств</string>
     <string name="midnight">Ночь</string>
     <string name="mint_games">Популярные игры</string>
@@ -1607,6 +1630,7 @@ ID:%s
     <string name="offline_opt_in_title">Просмотр рекламы</string>
     <string name="ok">ОК</string>
     <string name="one_prefect_author">Автор</string>
+    <string name="open">Настройки</string>
     <string name="open_app_confirm_message">Разрешить этой странице открывать %s?</string>
     <string name="open_by_other_app">Открыть в другом приложении</string>
     <string name="open_desktop">Активирована настольная версия</string>
@@ -1723,8 +1747,11 @@ ID:%s
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="pdf_confirm">ОК</string>
     <string name="pdf_failed_message">Не удалось создать смарт-конспект</string>
+    <string name="pdf_password_error">Неверный пароль. Повторите попытку.</string>
+    <string name="pdf_password_input">Введите пароль</string>
     <string name="pdf_retry">Повторите попытку</string>
     <string name="pdf_summary">Конспект</string>
+    <string name="pdf_unlocking">Доступ к файлам</string>
     <string name="per_month">В месяц</string>
     <string name="permission_agree_service">Я принимаю все нижеприведенные положения и условия.</string>
     <string name="permission_alert_window">Чтобы использовать эту функцию, разрешите всплывающие окна.</string>
@@ -1750,6 +1777,7 @@ ID:%s
     <string name="permission_open_camera">Сначала разрешите Браузеру доступ к камере в Настройках.</string>
     <string name="permission_open_location">Сначала разрешите Браузеру использовать геолокацию в Настройках.</string>
     <string name="permission_open_mic">Сначала разрешите Браузеру доступ к микрофону в Настройках.</string>
+    <string name="permission_open_shortcut">Включите ярлык на рабочем столе в Настройках.</string>
     <string name="permission_open_storage">Сначала разрешите Браузеру доступ к памяти устройства в Настройках.</string>
     <string name="permission_request_contacts">Для правильной работы этой функции требуется доступ к списку контактов.</string>
     <string name="permission_service">Условия использования</string>
@@ -2057,6 +2085,13 @@ ID:%s
     <string name="readmode_refresh">Обновить</string>
     <string name="readmode_tips">Вкл. режим \"Только текст\"</string>
     <string name="readmodelist_bookmarks_to_show">Список чтения</string>
+    <string name="realtime_cancel_notification_btn">Отмена</string>
+    <string name="realtime_news_subscribe_tips">Подписывайтесь на интересующие вас материалы</string>
+    <string name="realtime_news_tips">Ищите подписки здесь</string>
+    <string name="realtime_news_updated">Показ рекомендаций на основе ваших подписок</string>
+    <string name="realtime_open_notification">Включите уведомления</string>
+    <string name="realtime_open_notification_btn">Включить</string>
+    <string name="realtime_open_notification_tips">Включите уведомления, чтобы получать новости и другие материалы.</string>
     <string name="reboot">Перезагрузка</string>
     <string name="recent_apk_status_install">УСТАНОВЛЕНО</string>
     <string name="recent_search_hint_text">%s</string>
@@ -2235,6 +2270,7 @@ ID:%s
     <string name="setting_swipe_up">Свайп вверх на рабочем столе</string>
     <string name="settings_search_online_apps">Магазины приложений</string>
     <string name="settings_search_online_apps_desc">Контент из магазинов приложений</string>
+    <string name="shake_get_more">Встряхните для просмотра</string>
     <string name="share_image_text">Посмотрите, чем я поделился! @Mi Браузер</string>
     <string name="share_page_text">Посмотрите, чем я поделился: %1$s @Mi Браузер| %2$s</string>
     <string name="share_slide_video_text">%1$s</string>
@@ -2381,6 +2417,8 @@ ID:%s
     <string name="tab_novel">Книги</string>
     <string name="tab_quicklinks">Стартовая страница</string>
     <string name="tab_reader_description">Чтение</string>
+    <string name="tab_realtime">Новое</string>
+    <string name="tab_realtime2">Последние</string>
     <string name="tab_refresh_description">Обновить страницу</string>
     <string name="tab_search_description">Поиск</string>
     <string name="tab_share_description">Поделиться этой страницей</string>
@@ -2534,6 +2572,7 @@ ID:%s
     <string name="update_email_address_dialog_title">Обновить адрес электронной почты для восстановления</string>
     <string name="update_no_network_toast">Ошибка подключения к сети</string>
     <string name="update_phone_notice">Измените настройки безопасности</string>
+    <string name="update_realtime_news">Просматривайте все последние новости в одном месте</string>
     <string name="upgrade">Обновить</string>
     <string name="upload_error_log">Загрузить журнал</string>
     <string name="upload_usage_statistics">Включите, чтобы делиться с нами статистикой использования в режиме инкогнито.</string>

@@ -372,6 +372,8 @@ ID: %s
     <string name="download_unable_tip">Не удалось загрузить</string>
     <string name="download_video">Загрузка видео</string>
     <string name="downloading">Загрузка…</string>
+    <string name="draw_ad_button_click_text">Встряхните или коснитесь, чтобы открыть</string>
+    <string name="draw_ad_button_slide_text">Проведите для просмотра подробностей</string>
     <string name="early_morning">Утро</string>
     <string name="empty_channels">Управление каналами</string>
     <string name="eras_ad">н. э.</string>
@@ -911,6 +913,7 @@ ID: %s
     <string name="manager_request_continue">Разрешить</string>
     <string name="manager_request_tip">Больше не показывать</string>
     <string name="manager_request_title">Нет доступа к этому файлу</string>
+    <string name="mangotv_episode">Эпизод %d</string>
     <string name="mangotv_feature_list_title3">Добавлена серия %s</string>
     <string name="mangotv_feature_more">Ещё</string>
     <string name="mangotv_feature_title1">Серии</string>
@@ -1100,6 +1103,7 @@ ID: %s
     <string name="network_failed">Ошибка подключения к сети</string>
     <string name="newyearfestival_go_to_draw_prizes">Розыгрыш призов</string>
     <string name="newyearfestival_watch_the_video_to_draw_prizes">Посмотрите видео для участия в розыгрыше призов</string>
+    <string name="next_button">Далее</string>
     <string name="nick_name">Псевдоним</string>
     <string name="night">Вечер</string>
     <string name="no_account">Вход не выполнен</string>
@@ -1295,6 +1299,7 @@ ID: %s
     <string name="pip">Картинка в картинке</string>
     <string name="pip_not_supported_toast">Обновите систему, чтобы использовать функцию \"Картинка в картинке\"</string>
     <string name="play_at_normal_speed">Воспроизведение на скорости 1X</string>
+    <string name="play_at_speed">Воспроизведение на скорости %.1fX</string>
     <string name="play_list_save_dialog_create">Создать плейлист</string>
     <string name="play_list_save_dialog_title">Добавить в плейлист</string>
     <string name="play_list_sign_in_dialog_message">Войдите в свою учётную запись Google, чтобы просмотреть все ваши плейлисты</string>
@@ -1537,6 +1542,7 @@ ID: %s
     <string name="shake_to_open_ad">Встряхните для просмотра</string>
     <string name="share">Поделиться</string>
     <string name="share_text_before_link">Смотрите и загружайте видео бесплатно в Mi Видео</string>
+    <string name="share_title">Поделиться</string>
     <string name="share_ugc_content">Обратите внимание на %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Присоединиться</string>
     <string name="share_ugc_waitting">Создание ссылки…</string>
@@ -1553,6 +1559,7 @@ ID: %s
     <string name="slide_or_click_to_open_ad">Проведите или нажмите для просмотра</string>
     <string name="slide_save_message">Создание видео…</string>
     <string name="slide_to_open_ad">Проведите для просмотра</string>
+    <string name="small_mango_play_next_episode">След. серия</string>
     <string name="small_video_load_more_hint">Проведите вверх, чтобы увидеть больше видео</string>
     <string name="small_video_report">Пожаловаться</string>
     <string name="small_video_report_dialog_title">Выберите причину</string>
@@ -1642,6 +1649,7 @@ ID: %s
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
     <string name="sure_to_logout">Выйти из системы?</string>
+    <string name="swipe_to_exit">Проведите еще раз, чтобы выйти</string>
     <string name="switch_ratio_pause">Скорость воспроизведения нестабильна. Возврат к скорости по умолчанию.</string>
     <string name="sync_favorites_limit_new">В избранном более %d видео. Чтобы продолжить синхронизацию, нам придётся удалить несколько старых видео.</string>
     <string name="sync_favorites_message">Синхронизировать избранное на этом устройстве с вашим аккаунтом? Более не доступные объекты будут удалены.</string>
@@ -1783,6 +1791,7 @@ ID: %s
     <string name="tt_choose_language">ru</string>
     <string name="tt_click_to_replay">Нажмите, чтобы повторить</string>
     <string name="tt_count_down_view">Пропустить</string>
+    <string name="tt_display_error">Ошибка отображения</string>
     <string name="tt_feedback_experience_text">Мы будем и дальше улучшать наши услуги.</string>
     <string name="tt_feedback_submit_text">Вы уже оставили отзыв! Пожалуйста, не отправляйте его повторно.</string>
     <string name="tt_feedback_thank_text">Спасибо за отзыв!</string>
@@ -1802,6 +1811,8 @@ ID: %s
     <string name="tt_reward_video_show_error">Ошибка отображения видео с наградой</string>
     <string name="tt_skip_ad_time_text">Пропустить через %d сек.</string>
     <string name="tt_splash_skip_tv">3 сек. | Пропустить</string>
+    <string name="tt_suggestion_commit">Отправить</string>
+    <string name="tt_suggestion_description">Введите описание ошибки отображения и нажмите кнопку «Отправить». Рекламный креатив также будет отправлен в Pangle в целях диагностики проблемы.</string>
     <string name="tt_sys_error">Системная ошибка</string>
     <string name="tt_try_now">Попробуй</string>
     <string name="tt_txt_skip">Пропустить</string>
@@ -1849,6 +1860,7 @@ ID: %s
     <string name="video_download_fail">Не удалось загрузить видео</string>
     <string name="video_download_fail_hint">Не удалось загрузить</string>
     <string name="video_download_floating_guide">Загрузить видео бесплатно</string>
+    <string name="video_download_folder">Загруженные видео</string>
     <string name="video_download_folder_title">Загрузки Mi Видео</string>
     <string name="video_download_forbidden">Не удалось загрузить с этого сайта</string>
     <string name="video_download_login_guide">Войдите в %s для возможности загрузки видео</string>
