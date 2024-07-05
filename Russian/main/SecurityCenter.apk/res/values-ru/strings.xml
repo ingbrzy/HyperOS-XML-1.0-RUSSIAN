@@ -2374,6 +2374,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_audition_play_instruction">Используйте наушники для лучшего эффекта</string>
     <string name="gb_award_noti_message">Включите фоновые обновления в Ускорении игр, чтобы получать вознаграждения</string>
     <string name="gb_award_noti_title">Получайте вознаграждения</string>
+    <string name="gb_bar_high">Высокая</string>
+    <string name="gb_bar_low">Низкая</string>
+    <string name="gb_bar_mid">Средняя</string>
     <string name="gb_barrage_app_manger">Управление приложениями</string>
     <string name="gb_barrage_chat_desc">Всегда верьте, что скоро произойдет что-то замечательное</string>
     <string name="gb_barrage_chat_pre_desc">Предпросмотр</string>
@@ -3023,9 +3026,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="lockpattern_continue_button_text">Далее</string>
     <string name="lockpattern_need_to_confirm">Подтвердите графический ключ</string>
     <string name="lockpattern_need_to_unlock_wrong">Пароли не совпадают, повторите попытку</string>
-    <string name="lockpattern_pattern_confirmed_header">Ваш новый графический ключ:</string>
+    <string name="lockpattern_pattern_confirmed_header">Новый графический ключ:</string>
     <string name="lockpattern_pattern_entered_header">Графический ключ записан</string>
-    <string name="lockpattern_recording_inprogress">Уберите палец, когда закончите</string>
+    <string name="lockpattern_recording_inprogress">Уберите палец, когда завершите ввод</string>
     <string name="lockpattern_retry_button_text">Начать заново</string>
     <string name="lockpattern_settings_help_how_to_record">Как задать графический ключ</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Слишком много неудачных попыток</string>
@@ -3713,9 +3716,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="password_promotion_title">Привяжите аккаунт Xiaomi</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="password_type">Способ защиты</string>
-    <string name="password_type_underline">
-  <u>Способ защиты</u>
-  </string>
+    <string name="password_type_underline"><u>Способ защиты</u></string>
     <string name="password_xspace_forget_pattern_message">Для изменения пароля второго пространства вам необходимо удалить текущее пространство и создать новое.</string>
     <string name="pc_abnormal_scan_button_text">Закрыть приложения</string>
     <string name="pc_abnormal_scan_reason_prevent_standby">Не дает системе перейти в спящий режим</string>
@@ -5047,6 +5048,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="result_sms_title_auth">Угроза утечки финансовых данных</string>
     <string name="result_wifi_header">Угроза для Wi-Fi</string>
     <string name="resume">Восстановить</string>
+    <string name="revoke_not_allow_net_summary">Разрешите приложению Безопасность доступ к интернету, чтобы отозвать согласие с политикой конфиденциальности</string>
     <string name="revoke_not_allow_net_title">Внимание</string>
     <string name="right_precent">100%</string>
     <string name="risk_app_install_agree_button">Доверять этому приложению</string>

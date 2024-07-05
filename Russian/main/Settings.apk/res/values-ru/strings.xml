@@ -4440,8 +4440,8 @@ ID: %s
     <string name="high_brightness_hint_summary">При ярком окружающем освещении в верхней части экрана появляется маленький значок солнца</string>
     <string name="high_label">Высокая</string>
     <string name="high_performance_notif_summary">Устройство может перегреваться.</string>
-    <string name="high_performance_notif_title">Высокая производительность</string>
-    <string name="high_performance_title">Используйте режим производительности для более комфортного игрового процесса</string>
+    <string name="high_performance_notif_title">Включён приоизводительный режим</string>
+    <string name="high_performance_title">Похоже, выполняется тест на производительность. Для лучшего результата выберите в управлении питанием \"Производительность\"</string>
     <string name="high_power_apps">Экономия заряда батареи</string>
     <string name="high_power_filter_on">Не экономят заряд</string>
     <string name="high_power_off">Экономия заряда включена</string>
@@ -5374,7 +5374,7 @@ ID: %s
     <string name="lockpattern_pattern_same_with_owner">Пароли пространств должны отличаться</string>
     <string name="lockpattern_pattern_same_with_security_space">Пароли пространств должны отличаться</string>
     <string name="lockpattern_recording_incorrect_too_short">Соедините не менее %d точек</string>
-    <string name="lockpattern_recording_inprogress">Уберите палец, когда закончите</string>
+    <string name="lockpattern_recording_inprogress">Уберите палец, когда завершите ввод</string>
     <string name="lockpattern_recording_intro_footer">Нажмите Меню для получения справки</string>
     <string name="lockpattern_recording_intro_header">Задайте графический ключ</string>
     <string name="lockpattern_recording_intro_header_second_space">"Задайте графический ключ для второго пространства.

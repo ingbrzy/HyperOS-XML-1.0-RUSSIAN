@@ -85,4 +85,9 @@
         <item>Ю</item>
         <item>Я</item>
     </string-array>
+    <string-array name="plc_password_types">
+        <item>Графический ключ</item>
+        <item>ПИН-код</item>
+        <item>Пароль</item>
+    </string-array>
 </resources>

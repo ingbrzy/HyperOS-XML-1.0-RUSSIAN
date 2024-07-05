@@ -120,6 +120,16 @@
         <item>Взаимосвязанность/Взаимодействие в сети</item>
         <item>Взаимодействие в сети, режим модема, общая точка доступа</item>
     </string-array>
+    <string-array name="settings_search_relay_network_2">
+        <item>Беспроводной модем</item>
+        <item>Взаимосвязанность/Беспроводной модем</item>
+        <item>Взаимодействие в сети, режим модема, общая точка доступа, беспроводной модем</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_global">
+        <item>Сетевая синхронизация</item>
+        <item>Взаимосвязанность/Сетевая синхронизация</item>
+        <item>Взаимодействие в сети, режим модема, общая точка доступа, cетевая синхронизация</item>
+    </string-array>
     <string-array name="settings_search_share_Launcher">
         <item>Рабочий стол+</item>
         <item>Службы взаимосвязанности/Рабочий стол+</item>

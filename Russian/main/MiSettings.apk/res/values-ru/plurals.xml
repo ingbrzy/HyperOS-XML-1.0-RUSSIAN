@@ -68,6 +68,68 @@
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
     </plurals>
+    <plurals name="pcl_add_account_ignore_with_seconds">
+        <item quantity="other">Не сейчас (%d сек.)</item>
+        <item quantity="one">Не сейчас (%d сек.)</item>
+    </plurals>
+    <plurals name="pcl_install_check_count_down">
+        <item quantity="other">Обратный отсчёт: %d сек.</item>
+        <item quantity="one">Обратный отсчёт: %d сек.</item>
+    </plurals>
+    <plurals name="pcl_mixed_recording_incorrect_too_short">
+        <item quantity="other">Введите не менее %d символов</item>
+        <item quantity="one">Введите не менее %d символа</item>
+        <item quantity="few">Введите не менее %d символов</item>
+    </plurals>
+    <plurals name="pcl_number_locked">
+        <item quantity="other">Защищено: %d</item>
+        <item quantity="one">Защищено: %d</item>
+    </plurals>
+    <plurals name="pcl_number_to_lock">
+        <item quantity="other">Можно защитить: %d</item>
+        <item quantity="one">Можно защитить: %d</item>
+    </plurals>
+    <plurals name="pcl_numeric_recording_incorrect_too_short">
+        <item quantity="other">Введите не менее %d цифр</item>
+        <item quantity="one">Введите не менее %d цифры</item>
+        <item quantity="few">Введите не менее %d цифр</item>
+    </plurals>
+    <plurals name="pcl_passport_re_get_verify_code_with_seconds">
+        <item quantity="other">Повтор (%d сек.)</item>
+        <item quantity="one">Повтор (%d сек.)</item>
+    </plurals>
+    <plurals name="pcl_privacy_policy_revoke_button_with_seconds">
+        <item quantity="other">Отозвать (%d сек.)</item>
+        <item quantity="one">Отозвать (%d сек.)</item>
+    </plurals>
+    <plurals name="pcl_recording_incorrect_too_short">
+        <item quantity="other">Соедините не менее %s точек</item>
+        <item quantity="one">Соедините не менее %s точки</item>
+        <item quantity="few">Соедините не менее %s точек</item>
+    </plurals>
+    <plurals name="pcl_recording_intro_header_new">
+        <item quantity="other">Соедините не менее %s точек</item>
+        <item quantity="one">Соедините не менее %s точки</item>
+        <item quantity="few">Соедините не менее %s точек</item>
+    </plurals>
+    <plurals name="pcl_set_unlock_pin_summary_new">
+        <item quantity="other">Введите %d цифр</item>
+        <item quantity="one">Введите %d цифры</item>
+        <item quantity="few">Введите %d цифр</item>
+    </plurals>
+    <plurals name="pcl_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Подождите %d сек. и повторите попытку</item>
+        <item quantity="one">Подождите %d сек. и повторите попытку</item>
+    </plurals>
+    <plurals name="pcl_unbind_email_confirm_with_seconds">
+        <item quantity="other">Удалить (%d сек.)</item>
+        <item quantity="one">Удалить (%d сек.)</item>
+    </plurals>
+    <plurals name="pcl_unlock_pattern_summary_new">
+        <item quantity="other">Соедините не менее %s точек</item>
+        <item quantity="one">Соедините не менее %s точки</item>
+        <item quantity="few">Соедините не менее %s точек</item>
+    </plurals>
     <plurals name="steady_on_screen_notification_summary">
         <item quantity="other">Вы пользовались устройством без перерыва %d минут</item>
         <item quantity="one">Вы пользовались устройством без перерыва %d минуту</item>
