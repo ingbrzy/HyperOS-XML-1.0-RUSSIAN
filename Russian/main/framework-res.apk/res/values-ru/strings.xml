@@ -477,7 +477,6 @@
     <string name="default_audio_route_name_external_device">"Внешнее устройство"</string>
     <string name="default_audio_route_name_headphones">Наушники</string>
     <string name="default_audio_route_name_usb">USB</string>
-    <string name="default_browser" />
     <string name="default_card_name">"КАРТА %d"</string>
     <string name="default_notification_channel_label">Без категории</string>
     <string name="delete">Удалить</string>

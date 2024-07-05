@@ -83,7 +83,7 @@
     <string name="camera_associate_disconnecting">Отключение от камеры</string>
     <string name="camera_associate_failed">Не удалось подключиться к камере</string>
     <string name="camera_associate_success">Камера подключена</string>
-    <string name="camera_choose_device">Выберите устройство</string>
+    <string name="camera_choose_device">Переключение камер</string>
     <string name="camera_connecting">%s хочет использовать камеру этого устройства</string>
     <string name="camera_connecting_device">Подключение к %s</string>
     <string name="camera_disassociate">Нет подключения к камере</string>

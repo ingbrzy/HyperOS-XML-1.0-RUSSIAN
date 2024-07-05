@@ -2267,6 +2267,7 @@
     <string name="def_wearable_systemCapabilities">3</string>
     <string name="def_wireless_charging_started_sound">/system/media/audio/ui/charge_wireless.ogg</string>
     <string name="default_audio_route_id">default_audio_route</string>
+    <string name="default_browser" />
     <string name="default_buffer_size">16384</string>
     <string name="default_folder_name_path">com.miui.home:string/folder_name</string>
     <string name="default_folder_title_hot_path">com.miui.home:string/default_folder_title_hot</string>
@@ -3282,6 +3283,7 @@
     <string name="menu_text_power_percent_title">%s</string>
     <string name="message">%1$s</string>
     <string name="messages_count_overflow_indicator">%d+</string>
+    <string name="metadata_sync_pacakge" />
     <string name="mi_10i">Mi 10I</string>
     <string name="mi_10t">Mi 10T</string>
     <string name="mi_10t_lite">Mi 10T Lite</string>
