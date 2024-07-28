@@ -794,6 +794,7 @@
     <string name="apps_list_header_title_sms_access">Доступ к кодам подтверждения</string>
     <string name="ask_create_shortcut">Создать ярлык на рабочем столе?</string>
     <string name="audio_optimization_summary">Улучшение звука и уменьшение окружающего шума при разговоре</string>
+    <string name="audio_optimization_summary_new">Улучшение звука в наушниках во время игр и уменьшение шума во время вызовов</string>
     <string name="audio_optimization_title">Улучшение звука</string>
     <string name="auto_atsk_condition_battery_level_text_down">Когда батарея разрядится до %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Когда батарея зарядится до %s</string>
@@ -2602,6 +2603,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_turbo_wonder_subtitle">Запись ключевых моментов</string>
     <string name="gb_vision_enhance">Улучшенные визуальные эффекты</string>
     <string name="gb_vision_enhance_desc">Улучшение качества изображения и производительности</string>
+    <string name="gb_vision_enhance_frme_insertion_new_tips">"Повышенная частота кадров
+%d кадр/сек"</string>
     <string name="gb_vision_enhance_frme_insertion_tips">"Умная частота кадров
 %d кадр/сек"</string>
     <string name="gb_vision_enhance_smart_frame_enhance">Повышение частоты кадров</string>
@@ -2672,9 +2675,14 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gd_dock_shortcut_splitescreen">Разделение экрана</string>
     <string name="gd_setting_conversation">Инструменты конференц-связи</string>
     <string name="gd_setting_conversation_desc">Набор функций для использования в полноэкранных аудио- и видеовызовах</string>
+    <string name="gd_setting_dock_activity_title">Боковая панель</string>
+    <string name="gd_setting_dock_call_summary">Функции для аудио- и видеовызовов</string>
+    <string name="gd_setting_dock_title">Боковая панель</string>
     <string name="gd_setting_group_custom_gtb_apps">Игры</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Игры</string>
     <string name="gd_setting_group_custom_settings">Персонализация</string>
     <string name="gd_setting_group_custom_vtb_apps">Видеоприложения</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Видеоприложения</string>
     <string name="gd_setting_group_title_switch">Сценарии отображения</string>
     <string name="gd_setting_gtb">Во время игр</string>
     <string name="gd_setting_gtb_desc">Специальные функции для игр</string>
@@ -3941,6 +3949,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="per_month_pkg_traffic_settings">Тарифный план</string>
     <string name="perfermance_optimization_summary">Избегать перегрева и аппаратных проблем</string>
     <string name="perfermance_optimization_title">Контроль производительности</string>
+    <string name="performance_frame_enhance_super_display_tips">Повышенная частота кадров и суперразрешение не могут работать одновременно. Включение одного из них отключит другое.</string>
     <string name="performance_frame_insert_super_display_tips">Умная частота кадров и суперразрешение не могут работать одновременно. Включение одного из них отключит другое.</string>
     <string name="perm_intercept_content">Разрешить приложению использовать %1s?</string>
     <string name="perm_intercept_notification_title">Предоставление приложению %1s доступа к уведомлениям, позволит ему</string>
@@ -4080,6 +4089,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_precise_location">Точная геолокация</string>
     <string name="permission_precise_location_sumary">Если эта функция отключена, приложениям будет доступна геолокация пониженной точности.</string>
     <string name="permission_privacy_link">&lt;Data&gt;&lt;a href=\"%1$s\"&gt;%2$s&lt;/a&gt;&lt;/Data&gt;</string>
+    <string name="permission_risk_app_for_desc">Это приложение может представлять угрозу безопасности. Всё равно предоставить разрешения?</string>
+    <string name="permission_risk_app_for_title">Найдены угрозы</string>
     <string name="permission_share_uid">Точная геолокация</string>
     <string name="permission_upgrade_more">Дополнительные функции защиты приватности</string>
     <string name="permission_upgrade_privacy_title">Запрос разрешения доступа к микрофону или контактам теперь имеет опцию, которая позволяет предоставлять приложениям доступ только в активном режиме. Для защиты личной информации приложения не смогут получать доступ в фоновом режиме.</string>
@@ -4163,6 +4174,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_usage_virtual_contacts_once">%1$s | Возвращён пустой контакт</string>
     <string name="permission_usage_virtual_phone_state_once">%1$s | Возвращено пустое состояние вызова</string>
     <string name="permission_usage_virtual_sms_once">%1$s | Возвращено пустое SMS</string>
+    <string name="permission_warning_for_cancel">Отмена</string>
+    <string name="permission_warning_for_ensure">Предоставить</string>
     <string name="permission_with_SMS_and_MMS">Доступ к SMS и MMS</string>
     <string name="permission_with_call_and_contact">Доступ к контактам и вызовам</string>
     <string name="permission_with_read_write_clipboard">Доступ к буферу обмена и изменение содержимого</string>
@@ -4754,6 +4767,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_empty_location">Нет записей</string>
     <string name="privacy_empty_record">Нет записей</string>
     <string name="privacy_empty_storage">Нет записей</string>
+    <string name="privacy_extra_provision_positive_btn">Принимаю</string>
     <string name="privacy_flares_behavior_recent">Действия</string>
     <string name="privacy_flares_capsule_current">%1s | Сейчас</string>
     <string name="privacy_flares_capsule_recent">%1s | Недавно</string>
