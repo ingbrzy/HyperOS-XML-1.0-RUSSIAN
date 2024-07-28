@@ -220,6 +220,9 @@
     <string name="common_home_search_delete_content">Быстрый поиск с помощью панели поиска на рабочем столе будет недоступен. Удалить?</string>
     <string name="confirm_btn_label">ОК</string>
     <string name="content_center">Контент-центр</string>
+    <string name="content_description_button_add">Нажмите, чтобы добавить в текущие приложения</string>
+    <string name="content_description_button_disable">Достигнут лимит текущих приложений</string>
+    <string name="content_description_button_remove">Нажмите, чтобы удалить из текущих приложений</string>
     <string name="content_description_for_shortcut_icon_checked">%1$s, выбрано</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s, выбор отменён</string>
     <string name="content_description_workspace_thumbnail_item">Миниатюра экрана, страница %1$s</string>
@@ -663,6 +666,7 @@
     <string name="recents_title_garbage_deepclean">Глубокая очистка</string>
     <string name="recents_title_market">Магазин приложений</string>
     <string name="recents_title_security_scan">Антивирус</string>
+    <string name="recents_tv_small_window_text">Плавающие окна</string>
     <string name="recents_worldcirculate_text">Отпустите, чтобы выбрать</string>
     <string name="recnets_relay_device_info">Из %s</string>
     <string name="recnets_worldcirculate_display_computer_info">Приложение работает на %s.</string>
@@ -724,6 +728,13 @@
     <string name="show_recents_recommend_title">Отображать виджеты</string>
     <string name="slide_to_open_newhome">Свайп вверх для Контент-центра</string>
     <string name="small_window">Плавающее окно</string>
+    <string name="small_window_button_complete">Готово</string>
+    <string name="small_window_edit_content">Можно добавить до %d приложений</string>
+    <string name="small_window_edit_title">Текущие приложения</string>
+    <string name="small_window_empty">Выберите из доступных приложений</string>
+    <string name="small_window_select_title">Доступные приложения</string>
+    <string name="small_window_title_text">Нажмите, чтобы открыть плавающее окно</string>
+    <string name="small_window_toast">Можно добавить до %d приложений</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>

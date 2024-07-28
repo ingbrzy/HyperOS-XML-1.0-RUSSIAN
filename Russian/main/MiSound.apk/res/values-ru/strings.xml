@@ -148,6 +148,7 @@
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
+    <string name="harman_kardon_setting">Harman Kardon</string>
     <string name="headset_use_long_time">Вы носите наушники дольше рекомендованного. Снимите их и сделайте паузу.</string>
     <string name="headset_use_loud_volume">Громкость наушников высокая длительное время. Для защиты слуха, она снижена до рекомендуемого уровня.</string>
     <string name="headset_use_not_support_noise_reduction">Текущее окружение очень шумное. Если вы наденете наушники, это может повлиять на ваш слух.</string>

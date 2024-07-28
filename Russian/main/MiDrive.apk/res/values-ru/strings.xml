@@ -90,6 +90,7 @@
     <string name="cloud_storage_default_title">Облачное хранилище</string>
     <string name="cloud_storage_full">Облачное хранилище заполнено. Обновите план, чтобы получить больше места.</string>
     <string name="cloud_storage_info_type_backup">Резервные копии</string>
+    <string name="cloud_storage_info_type_creation">Mi Canvas</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Семья</string>
@@ -106,6 +107,9 @@
     <string name="create_folder_success">Папка создана</string>
     <string name="create_other_pdf">Новый PDF</string>
     <string name="create_pdf_manual">Новый PDF</string>
+    <string name="creation_dialog_message">Просмотрите полотна на планшете</string>
+    <string name="creation_dialog_positive_btn">ОК</string>
+    <string name="creation_dialog_title">Внимание</string>
     <string name="current_speed_content">Скорость: %1$s</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>

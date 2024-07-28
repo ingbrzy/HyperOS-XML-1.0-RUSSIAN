@@ -112,6 +112,10 @@
         <item quantity="other">%1$s ч.</item>
         <item quantity="one">%1$s ч.</item>
     </plurals>
+    <plurals name="sleep_duration_hour_new">
+        <item quantity="other">%1$d ч.</item>
+        <item quantity="one">%1$d ч.</item>
+    </plurals>
     <plurals name="sleep_duration_min">
         <item quantity="other">%1$s минут</item>
         <item quantity="one">%1$s минута</item>
@@ -120,6 +124,10 @@
     <plurals name="sleep_duration_min_avg">
         <item quantity="other">%1$s мин.</item>
         <item quantity="one">%1$s мин.</item>
+    </plurals>
+    <plurals name="sleep_duration_min_new">
+        <item quantity="other">%1$d мин.</item>
+        <item quantity="one">%1$d мин.</item>
     </plurals>
     <plurals name="snooze_duration_changed_info">
         <item quantity="other">Интервал повтора изменён на %d минут</item>
@@ -187,12 +195,26 @@
         <item quantity="one">%1$d секунда</item>
         <item quantity="few">%1$d секунды</item>
     </plurals>
+    <plurals name="timezone_search_hour">
+        <item quantity="other">%1$d</item>
+    </plurals>
+    <plurals name="timezone_search_min">
+        <item quantity="other">%1$d</item>
+    </plurals>
     <plurals name="worldcolock_timezone_gap_fast">
         <item quantity="other">+%s ч.</item>
         <item quantity="one">+%s ч.</item>
     </plurals>
+    <plurals name="worldcolock_timezone_gap_fast_new">
+        <item quantity="other">+%1$d ч.</item>
+        <item quantity="one">+%1$d ч.</item>
+    </plurals>
     <plurals name="worldcolock_timezone_gap_slow">
         <item quantity="other">-%s ч.</item>
         <item quantity="one">-%s ч.</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_slow_new">
+        <item quantity="other">-%1$d ч.</item>
+        <item quantity="one">-%1$d ч.</item>
     </plurals>
 </resources>

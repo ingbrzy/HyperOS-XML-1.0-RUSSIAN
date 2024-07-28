@@ -983,11 +983,13 @@
     <string-array name="ingress_rate_limit_entries"></string-array>
     <string-array name="ingress_rate_limit_values"></string-array>
     <string-array name="input_method_function_des"></string-array>
+    <string-array name="input_method_function_des_without_xiaoai"></string-array>
     <array name="input_method_function_icons"></array>
     <array name="input_method_function_icons_black"></array>
     <array name="input_method_function_icons_black_without_xiaoai"></array>
     <array name="input_method_function_icons_blue"></array>
     <array name="input_method_function_icons_blue_without_xiaoai"></array>
+    <array name="input_method_function_icons_without_xiaoai"></array>
     <string-array name="input_method_function_title"></string-array>
     <string-array name="input_method_function_title_without_xiaoai"></string-array>
     <string-array name="input_method_middle_function_des"></string-array>

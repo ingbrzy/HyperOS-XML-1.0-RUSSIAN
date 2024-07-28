@@ -12,6 +12,7 @@
     <string name="heavy_metal">Хэви-метал</string>
     <string name="hip_hop">Хип-хоп</string>
     <string name="jazz">Джаз</string>
+    <string name="new_app_name">Аудиоэффекты</string>
     <string name="no_effects">Эффекты недоступны.</string>
     <string name="normal">По умолчанию</string>
     <string name="picker_title">Управление звуковыми эффектами</string>

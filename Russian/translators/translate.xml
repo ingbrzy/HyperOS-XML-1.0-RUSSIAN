@@ -2122,6 +2122,8 @@ mm"</string>
     <string name="miuix_indexer_collect">Подборки</string>
     <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_item_view_role_description">Вкладка</string>
+    <string name="miuix_navigator_category_group_collapse">Свернуть</string>
+    <string name="miuix_navigator_category_group_expand">Развернуть</string>
     <string name="miuix_navigator_content_switch_description">Показать боковую панель</string>
     <string name="miuix_navigator_multiple_choice">Выбрать</string>
     <string name="miuix_navigator_navigator_switch_description">Скрыть боковую панель</string>
@@ -3102,6 +3104,7 @@ mm"</string>
     <string name="phoneTypeWork">"Рабочий"</string>
     <string name="phoneTypeWorkMobile">"Рабочий моб."</string>
     <string name="phoneTypeWorkPager">"Раб. пейджер"</string>
+    <string name="physical_keyboard_title">Физическая клавиатура</string>
     <string name="picture_color_mode">Цветовой режим</string>
     <string name="picture_color_mode_desc">Использовать sRGB</string>
     <string name="pin_specific_target">"Закрепить приложение \"%1$s\""</string>

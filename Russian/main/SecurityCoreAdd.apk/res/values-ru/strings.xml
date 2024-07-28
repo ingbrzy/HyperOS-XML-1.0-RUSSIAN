@@ -1067,7 +1067,11 @@
     <string name="tof_learn_incall_company">Mi Mobile</string>
     <string name="tof_learn_incall_date">Чт</string>
     <string name="tof_learn_incall_from">С вашего Xiaomi 13</string>
+    <string name="tof_learn_incall_from_miui14">С вашего Xiaomi MIX Fold 2</string>
+    <string name="tof_learn_incall_hands_free">Динамик</string>
+    <string name="tof_learn_incall_keyboard">Клавиатура</string>
     <string name="tof_learn_incall_location">Гуанчжоу, Гуандун China Mobile</string>
+    <string name="tof_learn_incall_location_miui14">Гуанчжоу, Гуандун</string>
     <string name="tof_learn_up_gesture_position_tip">Держите руку на расстоянии от %1$d до %2$d см от камеры ладонью вниз, выполните жест когда появится значок руки</string>
     <string name="tof_learn_wave_down">Жест \"Смахивание вниз\"</string>
     <string name="tof_learn_wave_down_tip">Махните рукой вниз, чтобы вернуться на предыдущую страницу</string>
@@ -1110,10 +1114,12 @@
     <string name="tuesday_shortest">Вт</string>
     <string name="turn_on_torch">Фонарик</string>
     <string name="tutorial_incall_duration">5:36</string>
+    <string name="tutorial_incall_duration_talking">00:03</string>
     <string name="tutorial_incall_phone_num">1953638****</string>
+    <string name="tutorial_incall_phone_num_talking">195 3638 ****</string>
     <string name="tutorial_lock_date">5/06</string>
     <string name="tutorial_lock_time">5:36</string>
-    <string name="tutorial_music_singer">Sarah Proctor</string>
+    <string name="tutorial_music_singer">Сара Проктор</string>
     <string name="tutorial_music_song_title_next">The Breaks(ремикс Joey Pecoraro)</string>
     <string name="tutorial_music_song_title_pre">Isolating Dream</string>
     <string name="under_keyguard">Экран блокировки</string>
