@@ -49,6 +49,11 @@
         <item quantity="one">1 приложение имеет полный доступ к устройству</item>
         <item quantity="few">%1$d приложения имеют полный доступ к устройству</item>
     </plurals>
+    <plurals name="accessibilty_autoclick_delay_unit_second">
+        <item quantity="other">%1$s секунд</item>
+        <item quantity="one">%1$s секунда</item>
+        <item quantity="few">%1$s секунды</item>
+    </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">Сверхкраткая задержка (%1$d мсек.)</item>
         <item quantity="one">Сверхкраткая задержка (%1$d мсек.)</item>

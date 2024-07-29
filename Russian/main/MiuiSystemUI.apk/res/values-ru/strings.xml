@@ -1004,6 +1004,7 @@
     <string name="format_lunar_calendar_month_day_desc">Дата по китайскому традиционному календарю: %s</string>
     <string name="format_lunar_calendar_solar_terms">%1$s %2$s</string>
     <string name="format_minute_desc">%s</string>
+    <string name="format_month_and_day">%1$s/%2$s</string>
     <string name="format_month_day_desc">%1$s %2$s</string>
     <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, дата по китайскому традиционному календарю: %3$s, праздники: %4$s</string>
     <string name="format_month_day_style1">d.MMM</string>
@@ -1599,6 +1600,7 @@ d MMMM"</string>
     <string name="miui_clock_time_format_24">HH:mm</string>
     <string name="miui_keyboard_shortcut_click">Нажатие</string>
     <string name="miui_keyboard_shortcut_double_click">Двойное нажатие</string>
+    <string name="miui_keyboard_shortcut_show_all_apps">Показать все приложения</string>
     <string name="miui_keyboard_shortcut_system_dock">Показать панель приложения</string>
     <string name="miui_keyboard_shortcut_system_quickly_recent">Переключение между недавними приложениями</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Разблокировано Bluetooth устройством</string>

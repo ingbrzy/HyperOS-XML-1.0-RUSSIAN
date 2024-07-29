@@ -231,6 +231,7 @@
         <item>Естественный</item>
         <item>Стандартный</item>
     </string-array>
+    <array name="config_blockColorizedPackages" />
     <string-array name="debug_hw_overdraw_entries">
         <item>Отключено</item>
         <item>Показывать области наложения</item>

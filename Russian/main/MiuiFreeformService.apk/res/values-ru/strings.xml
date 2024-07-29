@@ -125,6 +125,8 @@
     <string name="freeform_guide_multiple_window_settings_summary">Нажмите на панель действий, чтобы открыть новое окно для приложений, которые поддерживают эту возможность</string>
     <string name="freeform_guide_multiple_window_summary">"Нажмите и удерживайте значок приложения в панели, чтобы открыть новое окно.
 *Функция работает в приложениях Заметки, Почта, Браузер и WPS."</string>
+    <string name="freeform_guide_multiple_window_summary_no_wps">"Нажмите и удерживайте значок приложения в панели, чтобы открыть новое окно.
+*Функция работает в приложениях Заметки, Почта и Браузер."</string>
     <string name="freeform_guide_multiple_window_title">Открытие нескольких окон</string>
     <string name="freeform_guide_notification_drop_down_summary">Зажмите панель действий уведомления и потяните вниз</string>
     <string name="freeform_guide_notification_drop_down_title">Открытие плавающего окна</string>
