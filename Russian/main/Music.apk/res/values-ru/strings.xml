@@ -1063,6 +1063,7 @@
     <string name="music_recommendation">Рекомендации</string>
     <string name="music_service">Сервисы музыки</string>
     <string name="music_settings">Музыка</string>
+    <string name="mute">Режим \"Без звука\"</string>
     <string name="mv_metered_play_summary">Не показывать предупреждение о трафике</string>
     <string name="mv_metered_play_title">Воспроизводить видео через мобильный интернет</string>
     <string name="my_account">Аккаунт Xiaomi</string>

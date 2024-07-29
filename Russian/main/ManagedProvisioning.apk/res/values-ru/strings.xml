@@ -105,6 +105,7 @@
     <string name="icon_content_description">Иконка диалога</string>
     <string name="if_questions_contact_admin">Если у вас есть вопросы, обратитесь к своему ИТ-администратору</string>
     <string name="item_view_role_description">Вкладка</string>
+    <string name="join_two_items">%1$s и %2$s</string>
     <string name="just_a_sec">Подождите…</string>
     <string name="launcher_app_cant_be_used_by_work_profile">Эта панель запуска не поддерживает рабочие профили</string>
     <string name="managed_device_info">Информация об управляемом устройстве</string>
