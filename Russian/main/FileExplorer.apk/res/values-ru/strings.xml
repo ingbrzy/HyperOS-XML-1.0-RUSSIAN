@@ -194,7 +194,7 @@
     <string name="decompress_fail">Ошибка извлечения.</string>
     <string name="decompress_fail_contains_special_characters">Ошибка сжатия. Имена файлов не должны содержать спецсимволы.</string>
     <string name="decompress_input_password">Введите пароль</string>
-    <string name="decompress_password_error">Введен неверный пароль.</string>
+    <string name="decompress_password_error">Введён неверный пароль.</string>
     <string name="decompress_success">Извлечено</string>
     <string name="decompress_title">Извлечь</string>
     <string name="decompress_to">Извлечь в…</string>

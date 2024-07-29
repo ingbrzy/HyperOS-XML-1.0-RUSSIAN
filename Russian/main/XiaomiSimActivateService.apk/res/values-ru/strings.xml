@@ -67,7 +67,7 @@
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Не удалось отправить SMS для активации. Убедитесь, что SIM-карта активирована.
 Введите номер телефона новой SIM-карты для повторной активации %s."</string>
     <string name="activate_popup_desc_error_device">Неверный IMEI. Нажмите, чтобы повторить попытку.</string>
-    <string name="activate_popup_desc_failed_phone_error">Введен неверный номер телефона.</string>
+    <string name="activate_popup_desc_failed_phone_error">Введён неверный номер телефона.</string>
     <string name="activate_popup_desc_failed_query_info">Не удалось найти номер телефона. Убедитесь, что SIM-карта активирована.</string>
     <string name="activate_popup_desc_failed_query_info_msg">Не удалось проверить номер телефона. Убедитесь, что SIM %d работает правильно и повторите попытку.</string>
     <string name="activate_popup_desc_failed_query_info_msg_one_sim">Не удалось проверить номер телефона. Убедитесь, что SIM-карта работает правильно и повторите попытку.</string>

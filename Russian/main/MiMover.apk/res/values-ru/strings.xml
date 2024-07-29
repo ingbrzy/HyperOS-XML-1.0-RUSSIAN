@@ -96,7 +96,7 @@
     <string name="ble_starting_ap">Создание точки доступа…</string>
     <string name="ble_wait_verify_code">Генерация кода на новом устройстве…</string>
     <string name="ble_waiting_verify_code">Проверка кода…</string>
-    <string name="ble_waiting_verify_code_error">Введен некорректный код</string>
+    <string name="ble_waiting_verify_code_error">Введён некорректный код</string>
     <string name="btn_got_it">Понятно</string>
     <string name="btn_install_complete">Установлено</string>
     <string name="btn_mi_cloud_install_complete">Приложение уже установлено</string>

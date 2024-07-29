@@ -1349,10 +1349,10 @@
     <string name="passport_wechat_not_install">Сначала установите WeChat</string>
     <string name="passport_weibo_login_btn_content_description">Вход через Weibo</string>
     <string name="passport_weixin_login_btn_content_description">Вход через WeChat</string>
-    <string name="passport_wrong_captcha">Код введен неверно</string>
+    <string name="passport_wrong_captcha">Код введён неверно</string>
     <string name="passport_wrong_phone_number_format">Неверный формат номера телефона</string>
-    <string name="passport_wrong_vcode">Код введен неверно</string>
-    <string name="passport_wrong_voice">Код введен неверно</string>
+    <string name="passport_wrong_vcode">Код введён неверно</string>
+    <string name="passport_wrong_voice">Код введён неверно</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="paused_by_app">Пауза</string>
     <string name="paused_in_power_save_mode">Останавливать при включении экономии заряда</string>

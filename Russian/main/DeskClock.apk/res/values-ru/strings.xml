@@ -167,6 +167,7 @@
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="go_back">Назад</string>
+    <string name="greenwichmean_time">GMT</string>
     <string name="holiday_update_fail">Ошибка обновления</string>
     <string name="holiday_update_loading">Обновление…</string>
     <string name="holiday_update_success">Обновление не требуется</string>
@@ -249,6 +250,8 @@
     <string name="miuix_indexer_collect">Подборки</string>
     <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_item_view_role_description">Вкладка</string>
+    <string name="miuix_navigator_category_group_collapse">Свернуть</string>
+    <string name="miuix_navigator_category_group_expand">Развернуть</string>
     <string name="miuix_navigator_content_switch_description">Показать боковую панель</string>
     <string name="miuix_navigator_multiple_choice">Выбрать</string>
     <string name="miuix_navigator_navigator_switch_description">Скрыть боковую панель</string>

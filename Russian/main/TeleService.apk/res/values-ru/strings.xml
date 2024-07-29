@@ -976,7 +976,7 @@
     <string name="incall_error_ecm_emergency_only">Чтобы осуществить обычный вызов, выйдите из режима экстренных обратных вызовов.</string>
     <string name="incall_error_emergency_only">Нет регистрации в сети</string>
     <string name="incall_error_missing_voicemail_number">Неизвестный номер голосовой почты.</string>
-    <string name="incall_error_no_phone_number_supplied">Введен неверный номер телефона.</string>
+    <string name="incall_error_no_phone_number_supplied">Введён неверный номер телефона.</string>
     <string name="incall_error_out_of_service">Мобильная сеть недоступна.</string>
     <string name="incall_error_out_of_service_kr">Доступны только экстренные вызовы.</string>
     <string name="incall_error_out_of_service_wfc">Мобильная сеть недоступна. Для совершения вызова подключитесь к сети Wi-Fi.</string>
@@ -1589,14 +1589,14 @@
 Осталось попыток: %d"</string>
     <string name="pin2_changed">PIN%d успешно изменён</string>
     <string name="pin2_error_exception">Ошибка сети или SIM-карты</string>
-    <string name="pin2_invalid">Разрешённый номер не обновлён. Введен неверный PIN2.</string>
+    <string name="pin2_invalid">Разрешённый номер не обновлён. Введён неверный PIN2.</string>
     <string name="pin2_invalid_or_name_is_too_long">Вы ввели неверный PIN2 или слишком длинное имя</string>
     <string name="pin2_lock_warning">"
 Функционал PIN%d будет заблокирован при неудачной попытке ввода."</string>
-    <string name="pin2_or_fdn_invalid">Разрешённый номер не обновлён. Введен неверный PIN2 или номер телефона.</string>
+    <string name="pin2_or_fdn_invalid">Разрешённый номер не обновлён. Введён неверный PIN2 или номер телефона.</string>
     <string name="pin2_unblocked">PIN2 разблокирован</string>
     <string name="pin_changed">PIN SIM-карты успешно изменён</string>
-    <string name="pin_failed">Введен неверный PIN</string>
+    <string name="pin_failed">Введён неверный PIN</string>
     <string name="pin_lock_warning">"
 Телефон будет заблокирован при неудачной попытке ввода"</string>
     <string name="pin_progress_change_pin">Изменение PIN…</string>
@@ -2443,7 +2443,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wificall_switch_summary">Устройство будет переключаться между Wi-Fi и VoLTE при плохом качестве соединения</string>
     <string name="wificall_switch_title">Вызовы через Wi-Fi</string>
     <string name="wild_prompt_str">Заменить универсальный символ на</string>
-    <string name="wrong_password">Введен неверный пароль</string>
+    <string name="wrong_password">Введён неверный пароль</string>
     <string name="xcap_setting_summary">Запрет вызовов, голосовая почта, переадресация и ожидание вызовов</string>
     <string name="xcap_setting_title">Настройки службы вызовов</string>
     <string name="xiaoai_assistant_setting_title">Mi AI Помощник вызовов</string>

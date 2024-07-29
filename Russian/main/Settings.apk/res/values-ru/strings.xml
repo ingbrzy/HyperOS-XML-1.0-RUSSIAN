@@ -11622,7 +11622,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Введите имя сертификата</string>
     <string name="wifi_wapi_cert_uninstall">Удаление сертификата WAPI</string>
     <string name="wifi_wapi_cert_uninstall_button">Удалить</string>
-    <string name="wifi_wapi_certification_dont_exist">Введен неверный пароль</string>
+    <string name="wifi_wapi_certification_dont_exist">Введён неверный пароль</string>
     <string name="wifi_wapi_user_cert">Пользовательский сертификат</string>
     <string name="wifi_wps_available_first_item">"Поддерживает WPS"</string>
     <string name="wifi_wps_available_second_item">" (доступно WPS)"</string>

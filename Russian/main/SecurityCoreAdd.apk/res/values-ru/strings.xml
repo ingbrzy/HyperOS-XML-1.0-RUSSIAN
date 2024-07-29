@@ -213,7 +213,7 @@
 Убедитесь, что имя предприятия указано верно. Перед активацией прочтите и примите соответствующие Политики конфиденциальности."</string>
     <string name="ent_agency_code">Код предприятия</string>
     <string name="ent_agency_code_hint">Введите код предприятия</string>
-    <string name="ent_agency_code_invalid">Введен неверный код предприятия.</string>
+    <string name="ent_agency_code_invalid">Введён неверный код предприятия.</string>
     <string name="ent_agree_privacy_policy">Я принимаю Политику конфиденциальности</string>
     <string name="ent_app_verified">На вашем устройстве обнаружены корпоративные приложения. Активировать режим предприятия?</string>
     <string name="ent_confirm_dialog_content">После активации режима предприятия вы не сможете вернуться к текущему состоянию вашей системы. Однако все ваши данные будут по-прежнему храниться на устройстве. Вам придётся перезагрузить устройство для активации режима предприятия. Активировать его?</string>
@@ -229,7 +229,7 @@
     <string name="ent_invalid_qr">Неверный QR-код</string>
     <string name="ent_licence_code">Код лицензии</string>
     <string name="ent_licence_code_hint">Введите код лицензии</string>
-    <string name="ent_licence_code_invalid">Введен неверный код лицензии.</string>
+    <string name="ent_licence_code_invalid">Введён неверный код лицензии.</string>
     <string name="ent_mode_activated">Режим предприятия активирован</string>
     <string name="ent_network_error">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
     <string name="ent_next_step">Далее</string>

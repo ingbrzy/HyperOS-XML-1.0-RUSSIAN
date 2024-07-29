@@ -303,7 +303,7 @@
     <string name="micloud_confusion_ok">ОК</string>
     <string name="micloud_confusion_setting_notify_text">Отключите синхронизацию для других устройств, связанных с вашим аккаунтом.</string>
     <string name="micloud_confusion_setting_notify_title">Защитите ваш аккаунт</string>
-    <string name="micloud_confusion_setting_password_error">Введен неверный пароль</string>
+    <string name="micloud_confusion_setting_password_error">Введён неверный пароль</string>
     <string name="micloud_confusion_setting_question">Отключите синхронизацию для других устройств, связанных с вашим аккаунтом.</string>
     <string name="micloud_confusion_setting_title">Слишком много устройств</string>
     <string name="micloud_confusion_toast_confirm">Устройство подтверждено</string>

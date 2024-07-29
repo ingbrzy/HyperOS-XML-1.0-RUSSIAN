@@ -182,7 +182,7 @@
     <string name="lockscreen_access_pattern_cell_added">"Ячейка добавлена"</string>
     <string name="lockscreen_access_pattern_cell_added_verbose">"Ячейка %1$s добавлена"</string>
     <string name="lockscreen_access_pattern_cleared">"Графический ключ сброшен"</string>
-    <string name="lockscreen_access_pattern_detected">"Графический ключ введен"</string>
+    <string name="lockscreen_access_pattern_detected">"Графический ключ введён"</string>
     <string name="lockscreen_access_pattern_start">"Ввод графического ключа"</string>
     <string name="log_warning">Включение журнала может повлиять на безопасность и производительность. Используйте только при необходимости.</string>
     <string name="login_xiaomi_account_cancel">Отмена</string>

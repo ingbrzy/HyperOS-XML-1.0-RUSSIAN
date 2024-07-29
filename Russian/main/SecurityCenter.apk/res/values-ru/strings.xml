@@ -5252,7 +5252,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sim_car_absent_intercept_title">Введите пароль разблокировки</string>
     <string name="sim_car_absent_summary">Введите пароль разблокировки, чтобы использовать это устройство.</string>
     <string name="sim_car_absent_title">Это устройство потеряно</string>
-    <string name="sim_card_absent_intercept_tip">Если не будет введен пароль разблокировки, активируется \"Режим пропажи\".</string>
+    <string name="sim_card_absent_intercept_tip">Если не будет введён пароль разблокировки, активируется \"Режим пропажи\".</string>
     <string name="sim_card_absent_warning_voice">SIM-карта извлечена. Введите пароль разблокировки.</string>
     <string name="sim_location_error_dialog_message">Ваша SIM-карта из региона %1$s. Это не совпадает с регионом, введенным вручную (%2$s). Изменить регион SIM-карты на %3$s?</string>
     <string name="sim_location_error_notify_message">Нажмите для изменения местоположения SIM-карты.</string>
@@ -5290,7 +5290,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sim_lock_other_setting_title">Настройки PIN-кода</string>
     <string name="sim_lock_pin_confirm">ОК</string>
     <string name="sim_lock_pin_dialog_confirm">Продолжить</string>
-    <string name="sim_lock_pin_dialog_message">"Несколько раз введен неправильный PIN-код. Осталось попыток: %d. 
+    <string name="sim_lock_pin_dialog_message">"Несколько раз введён неправильный PIN-код. Осталось попыток: %d. 
 При неправильном вводе SIM-карта будет заблокирована. Продолжить?"</string>
     <string name="sim_lock_pin_dialog_title">Последняя попытка</string>
     <string name="sim_lock_pin_hint">Введите PIN-код SIM</string>

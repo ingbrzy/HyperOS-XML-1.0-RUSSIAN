@@ -179,7 +179,7 @@
     <string name="bluetooth_pairing_decline">Отмена</string>
     <string name="bluetooth_pairing_device_down_error_message">Не удается установить соединение с устройством \"%1$s\".</string>
     <string name="bluetooth_pairing_error_message">Не удалось установить сопряжение с устройством \"%1$s\".</string>
-    <string name="bluetooth_pairing_pin_error_message">Не удалось установить сопряжение с устройством \"%1$s\", так как введен неверный PIN-код или пароль.</string>
+    <string name="bluetooth_pairing_pin_error_message">Не удалось установить сопряжение с устройством \"%1$s\", так как введён неверный PIN-код или пароль.</string>
     <string name="bluetooth_pairing_rejected_error_message">%1$s не разрешает сопряжение.</string>
     <string name="bluetooth_pairing_will_share_phonebook">Сопряжение обеспечивает доступ к вашим контактам и журналу звонков при подключении.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Устройство работает в режиме модема</string>

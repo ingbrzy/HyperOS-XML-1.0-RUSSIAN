@@ -35,7 +35,7 @@
     <string name="only_primary_user_allowed">Сертификаты может устанавливать только владелец устройства.</string>
     <string name="p12_description">Сертификат находится в хранилище ключей PKCS12.</string>
     <string name="password_empty_error">Введите пароль.</string>
-    <string name="password_error">Введен неверный пароль.</string>
+    <string name="password_error">Введён неверный пароль.</string>
     <string name="pick_file_title">Выбор сертификата</string>
     <string name="pkcs12_file_password_dialog_title">Извлечение из %s</string>
     <string name="pkcs12_password_dialog_title">Извлечение сертификата</string>

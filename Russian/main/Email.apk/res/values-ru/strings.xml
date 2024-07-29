@@ -125,7 +125,7 @@
     <string name="account_setup_failed_dlg_todo2">Настройте аккаунт, как показано ниже</string>
     <string name="account_setup_failed_dlg_unknown_auth_message">Неизвестная ошибка.</string>
     <string name="account_setup_failed_ioerror">Не удалось подключиться к серверу.</string>
-    <string name="account_setup_failed_protocol_unsupported">"Введен неправильный адрес сервера или сервер запрашивает версию протокола,
+    <string name="account_setup_failed_protocol_unsupported">"Введён неправильный адрес сервера или сервер запрашивает версию протокола,
  которая не поддерживается."</string>
     <string name="account_setup_failed_security">Не удалось установить подключение к серверу из-за ошибки безопасности.</string>
     <string name="account_setup_failed_security_policies_unsupported">"Ваше устройство не поддерживает обязательные для сервера функции

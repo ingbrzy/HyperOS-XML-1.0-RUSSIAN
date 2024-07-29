@@ -242,7 +242,7 @@
     <string name="notification_missedCallsMsg">Пропущенных вызовов: %s</string>
     <string name="notification_missedCallsTitle">Пропущенные вызовы</string>
     <string name="notification_missedWorkCallTitle">Пропущенный вызов (работа)</string>
-    <string name="outgoing_call_error_no_phone_number_supplied">Введен неверный номер телефона.</string>
+    <string name="outgoing_call_error_no_phone_number_supplied">Введён неверный номер телефона.</string>
     <string name="outgoing_call_not_allowed_no_permission">Приложение не может совершать вызовы без необходимых разрешений.</string>
     <string name="outgoing_call_not_allowed_user_restriction">Разрешены только экстренные вызовы.</string>
     <string name="phone_settings_call_blocking_txt">Блокировка вызовов</string>

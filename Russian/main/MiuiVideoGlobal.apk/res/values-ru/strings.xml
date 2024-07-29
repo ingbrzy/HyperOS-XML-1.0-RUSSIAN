@@ -1728,7 +1728,7 @@ ID: %s
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
     <string name="ticket_hint">Код подтверждения</string>
-    <string name="ticket_invalid">Введен неверный код</string>
+    <string name="ticket_invalid">Введён неверный код</string>
     <string name="ticket_sign_in">Войти через SMS</string>
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>

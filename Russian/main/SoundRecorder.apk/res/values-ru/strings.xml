@@ -447,10 +447,10 @@ ID: %s
     <string name="passport_user_password_hint">Пароль</string>
     <string name="passport_vcode_what_app_send_prompt">Код подтверждения WhatsApp будет отправлен на номер для восстановления (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_wechat_not_install">Сначала установите WeChat</string>
-    <string name="passport_wrong_captcha">Код введен неверно</string>
+    <string name="passport_wrong_captcha">Код введён неверно</string>
     <string name="passport_wrong_phone_number_format">Неверный формат номера телефона</string>
-    <string name="passport_wrong_vcode">Код введен неверно</string>
-    <string name="passport_wrong_voice">Код введен неверно</string>
+    <string name="passport_wrong_vcode">Код введён неверно</string>
+    <string name="passport_wrong_voice">Код введён неверно</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="path_soundrecorder_setting">Системные приложения/Диктофон</string>
     <string name="pause_status_focus_notification">Запись приостановлена</string>
