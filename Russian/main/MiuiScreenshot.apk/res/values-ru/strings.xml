@@ -120,7 +120,7 @@
     <string name="global_pc">ПК</string>
     <string name="global_phone">Устройство</string>
     <string name="help">Не удаётся найти устройство?</string>
-    <string name="help_content">Если не удаётся найти нужное устройство, попросите включить Mi Share на этом устройстве.</string>
+    <string name="help_content">Если не удаётся найти нужное устройство, попросите включить Xiaomi Share на этом устройстве.</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
     <string name="image_decode_failed">Не удалось декодировать изображение</string>
@@ -441,7 +441,7 @@
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
-    <string name="tips_prompt_enable_midrop">Mi Share</string>
+    <string name="tips_prompt_enable_midrop">Xiaomi Share</string>
     <string name="toast_download_with_metered_network_btn_continue">Загрузить</string>
     <string name="toast_download_with_metered_network_msg">Устройство не подключено к Wi-Fi. Загрузить с использованием мобильного интернета?</string>
     <string name="toast_download_with_metered_network_title">Мобильный интернет</string>

@@ -612,8 +612,7 @@
     <string name="settingslib_learn_more_text">Подробнее</string>
     <string name="share">Отправить</string>
     <string name="share_file">Отправить файл?</string>
-<!-- ### FROM SOURCE -->
-    <string name="share_trace">Share trace?</string>
+    <string name="share_trace">Отправить запись?</string>
     <string name="shared_data_delete_failure_text">Произошла ошибка при удалении общих данных</string>
     <string name="shared_data_no_accessors_dialog_text">Для этих общих данных нет договоров аренды. Удалить их?</string>
     <string name="shared_data_no_blobs_text">Для этого пользователя нет общих данных</string>
@@ -634,8 +633,6 @@
     <string name="show_screen_updates_summary">Полностью подсвечивать окна при их обновлении</string>
     <string name="show_touches">Отображать касания</string>
     <string name="show_touches_summary">Визуализировать касания и жесты</string>
-<!-- ### FROM SOURCE -->
-    <string name="simulate_color_space">Simulate color space</string>
     <string name="speed_label_fast">Быстрая</string>
     <string name="speed_label_medium">Средняя</string>
     <string name="speed_label_okay">ОК</string>
@@ -660,8 +657,7 @@
     <string name="system_traces_storage_title">Трассировки системы</string>
     <string name="system_tracing">Трассировка системы</string>
     <string name="tap_to_share">Нажмите, чтобы поделиться</string>
-<!-- ### FROM SOURCE -->
-    <string name="tap_to_sign_up">Tap to sign up</string>
+    <string name="tap_to_sign_up">Нажмите, чтобы войти</string>
     <string name="tap_to_stop_stack_sampling">Нажмите, чтобы остановить создание образцов стека</string>
     <string name="tap_to_stop_tracing">Нажмите, чтобы остановить трассировку</string>
     <string name="ten_gb">10 ГБ</string>
@@ -725,8 +721,6 @@
     <string name="unknown">Неизвестно</string>
     <string name="usb_audio_disable_routing">Отключить передачу звука по USB</string>
     <string name="usb_audio_disable_routing_summary">Отключить автоматическую передачу звука на внешние USB-устройства</string>
-<!-- ### FROM SOURCE -->
-    <string name="use_perfetto_beta">Use Perfetto (beta)</string>
     <string name="use_system_language_to_select_input_method_subtypes">Языки системы</string>
     <string name="user_add_profile_item_summary">Профиль с ограниченным доступом к приложениям и контенту</string>
     <string name="user_add_profile_item_title">Ограниченный профиль</string>
@@ -820,7 +814,6 @@
     <string name="wifi_security_eap_wpa">WPA-Enterprise</string>
     <string name="wifi_security_eap_wpa2_wpa3">WPA2/WPA3-Enterprise</string>
     <string name="wifi_security_eap_wpa3">WPA3-Enterprise</string>
-<!-- ### FROM SOURCE -->
     <string name="wifi_security_eap_wpa_wpa2">WPA/WPA2-Enterprise</string>
     <string name="wifi_security_none">Без защиты</string>
     <string name="wifi_security_none_owe">Без защиты/Улучшенное открытие</string>
@@ -897,7 +890,6 @@
     <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Без доступа в интернет и переподключения</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Срок действия истек</string>
     <string name="wifitrackerlib_wifi_poor_channel_conditions">Временное плохое состояние сети</string>
-<!-- ### FROM SOURCE -->
     <string name="wifitrackerlib_wifi_pre_validated" />
     <string name="wifitrackerlib_wifi_remembered">Сохранено</string>
     <string name="wifitrackerlib_wifi_security_eap_suiteb">"WPA3-Enterprise 192 бита"</string>

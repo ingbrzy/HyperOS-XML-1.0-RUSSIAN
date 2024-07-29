@@ -118,7 +118,7 @@
     <string-array name="settings_search_relay_network">
         <item>Взаимодействие в сети</item>
         <item>Взаимосвязанность/Взаимодействие в сети</item>
-        <item>Взаимодействие в сети, режим модема, общая точка доступа</item>
+        <item>Взаимодействие в сети, режим модема, общая точка доступа, беспроводной модем</item>
     </string-array>
     <string-array name="settings_search_relay_network_2">
         <item>Беспроводной модем</item>

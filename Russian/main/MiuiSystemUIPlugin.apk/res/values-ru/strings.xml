@@ -70,7 +70,7 @@
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="close_invisible_mode_dialog_cancel">Отмена</string>
-    <string name="close_invisible_mode_dialog_message">Использование Mi Smart Play недоступно. Отключите режим инкогнито в настройках.</string>
+    <string name="close_invisible_mode_dialog_message">Использование Xiaomi Smart Play недоступно. Отключите режим инкогнито в настройках.</string>
     <string name="close_invisible_mode_dialog_ok">Настройки</string>
     <string name="close_invisible_mode_dialog_title">Режим инкогнито</string>
     <string name="control_center_notification_switch_guide">Используйте горизонтальный свайп для переключения между центром управления и шторкой уведомлений</string>

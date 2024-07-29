@@ -199,7 +199,7 @@
     <string name="interconnection_service_global_item_title">Взаимосвязанность Xiaomi</string>
     <string name="interconnection_service_global_label">"&lt;Data>Взаимосвязанность Xiaomi позволяет вашим устройствам взаимодействовать друг с другом по беспроводной сети. Включая этот переключатель, вы принимаете &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a >.&lt;/Data> Взаимосвязанность Xiaomi.</string>
     <string name="interconnection_service_summary_china">Службы взаимосвязанности Xiaomi позволяет устройствам взаимодействовать друг с другом по беспроводной связи. %1$s Доступные службы взаимосвязанности могут различаться, в зависимости от версии системы и модели устройства. Подробнее на %2$s.</string>
-    <string name="interconnection_service_summary_china_fragment1">Эти службы включают в себя включают в себя Mi Smart Play, трансляцию, Handoff для приложений, Рабочий стол+, общий буфер обмена, беспроводной модем (с сетевой синхронизацией), общее управление, общую камеру и Mi Smart Hub. Для нормальной работы служб взаимосвязанности разрешите доступ к интернету и предоставьте следующие разрешения:</string>
+    <string name="interconnection_service_summary_china_fragment1">Эти службы включают в себя включают в себя Xiaomi Smart Play, трансляцию, Handoff для приложений, Рабочий стол+, общий буфер обмена, беспроводной модем (с сетевой синхронизацией), общее управление, общую камеру и Xiaomi Smart Hub. Для нормальной работы служб взаимосвязанности разрешите доступ к интернету и предоставьте следующие разрешения:</string>
     <string name="interconnection_service_summary_china_fragment10">Для получения информации об устройствах поблизости</string>
     <string name="interconnection_service_summary_china_fragment11">Запись звука с внутреннего устройства</string>
     <string name="interconnection_service_summary_china_fragment12">Для передачи и воспроизведения звука между устройствами во время трансляции или зеркалирования</string>
@@ -210,7 +210,7 @@
     <string name="interconnection_service_summary_china_fragment17">Доступ к содержимому экрана</string>
     <string name="interconnection_service_summary_china_fragment18">Для доступа к содержимому экрана во время записи или трансляции, включая приватную информацию, такую как аудио, пароли, фото, сообщения и т. д.</string>
     <string name="interconnection_service_summary_china_fragment19">Handoff для приложений и Рабочий стол+:</string>
-    <string name="interconnection_service_summary_china_fragment2">Mi Smart Play и трансляция:</string>
+    <string name="interconnection_service_summary_china_fragment2">Xiaomi Smart Play и трансляция:</string>
     <string name="interconnection_service_summary_china_fragment20">Включение и выключение Bluetooth</string>
     <string name="interconnection_service_summary_china_fragment21">Для поиска устройств поблизости и подключения по Bluetooth</string>
     <string name="interconnection_service_summary_china_fragment22">Включение и выключение Wi-Fi</string>
@@ -246,7 +246,7 @@
     <string name="interconnection_service_summary_china_fragment5">Включение и выключение Wi-Fi</string>
     <string name="interconnection_service_summary_china_fragment50">Доступ к камере</string>
     <string name="interconnection_service_summary_china_fragment51">Для съёмки фото и видео</string>
-    <string name="interconnection_service_summary_china_fragment52">Mi Smart Hub:</string>
+    <string name="interconnection_service_summary_china_fragment52">Xiaomi Smart Hub:</string>
     <string name="interconnection_service_summary_china_fragment53">Включение и выключение Bluetooth</string>
     <string name="interconnection_service_summary_china_fragment54">Для поиска устройств поблизости и подключения по Bluetooth</string>
     <string name="interconnection_service_summary_china_fragment55">Включение и выключение Wi-Fi</string>

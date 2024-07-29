@@ -354,7 +354,7 @@
     <string name="close_hotspot_hint">Отключите точку доступа перед трансляцией</string>
     <string name="close_hotspot_hint_DFS">Отключите точку доступа перед трансляцией</string>
     <string name="close_invisible_mode_dialog_cancel">Отмена</string>
-    <string name="close_invisible_mode_dialog_message">Mi Smart Play недоступен. Отключите режим инкогнито в Настройках, чтобы воспользоваться функцией.</string>
+    <string name="close_invisible_mode_dialog_message">Xiaomi Smart Play недоступен. Отключите режим инкогнито в Настройках, чтобы воспользоваться функцией.</string>
     <string name="close_invisible_mode_dialog_ok">Настройки</string>
     <string name="close_invisible_mode_dialog_title">Режим инкогнито</string>
     <string name="common_google_play_services_enable_button">Включить</string>
@@ -400,7 +400,7 @@
     <string name="connect_settings_summary">&lt;Data>Автоматически обнаруживать устройства, находящиеся поблизости и подключенные к вашему аккаунту Xiaomi, а также соединять их друг с другом для выполнения различных задач на нескольких устройствах. &lt;a href=\"%1$s\">Подробнее.&lt;/a>&lt;/Data></string>
     <string name="connect_settings_summary_connection_service">Разрешите устройствам взаимодействовать друг с другом по беспроводной связи</string>
     <string name="connect_settings_summary_corp_phone">Принимать голосовые вызовы на планшетах и компьютерах, находящихся поблизости и подключенных к вашему аккаунту Xiaomi.</string>
-    <string name="connect_settings_summary_global"><Data>Поиск устройств поблизости, связанных с вашим аккаунтом Xiaomi, и добавление их в Mi Smart Hub</Data></string>
+    <string name="connect_settings_summary_global"><Data>Поиск устройств поблизости, связанных с вашим аккаунтом Xiaomi, и добавление их в Xiaomi Smart Hub</Data></string>
     <string name="connect_settings_summary_hyper_mind">Эта функция изучает ваши шаблоны поведения и использует их для управления устройствами умного дома. Функция работает при поддержке Mi AI.</string>
     <string name="connect_settings_summary_relay_app">Продолжать выполнение задач в одном приложении на другом устройстве.</string>
     <string name="connect_settings_summary_share_clipboard">Вставка текста и изображений на других устройствах в течение %d минут после копирования их на этом устройстве.</string>

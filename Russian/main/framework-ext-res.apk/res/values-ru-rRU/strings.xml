@@ -244,7 +244,7 @@
     <string name="harp">Арфа</string>
     <string name="hawaii">Гавайи</string>
     <string name="help">Не можете найти устройство?</string>
-    <string name="help_content">Если не удаётся найти нужное устройство, попросите включить Mi Share на другом устройстве.</string>
+    <string name="help_content">Если не удаётся найти нужное устройство, попросите включить Xiaomi Share на другом устройстве.</string>
     <string name="high_temperature_brightness_toast">Повышенная яркость экрана может привести к нагреву устройства и быстрому расходу заряда батареи</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
@@ -598,7 +598,7 @@
     <string name="tip_close_screen_phone">Переключитесь на громкую связь или сложите устройство, чтобы использовать встроенный динамик</string>
     <string name="tip_use_front_camera">"Сложите устройство, чтобы 
 использовать фронтальную камеру"</string>
-    <string name="tips_prompt_enable_midrop">Mi Share</string>
+    <string name="tips_prompt_enable_midrop">Xiaomi Share</string>
     <string name="toast_mic_muted">Микрофон отключён</string>
     <string name="toast_mic_unmuted">Микрофон включён</string>
     <string name="tof_music_support_scene_des">Поддержка управления музыкальным плеером</string>

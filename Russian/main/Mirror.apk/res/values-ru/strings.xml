@@ -52,7 +52,7 @@
     <string name="circulate_cta_agree">Принимаю</string>
     <string name="circulate_cta_all_purpose">Рабочий стол+ является частью служб взаимосвязанности Xiaomi. Он позволяет вам просматривать рабочие столы других подключенных устройств и взаимодействовать с ними. Для нормальной работы требуются доступ к интернету и следующие разрешения:</string>
     <string name="circulate_cta_app_name">Взаимосвязанность Xiaomi</string>
-    <string name="circulate_cta_desc_phone_miui15_14">Добро пожаловать во Взаимосвязанность Xiaomi! Это приложение можно использовать для трансляции экрана, воспроизведения мультимедиа на разных устройствах, использования Mi Smart Play, подключения устройств и использования handoff для приложений. Для правильной работы приложению требуются доступ к интернету и следующие разрешения:</string>
+    <string name="circulate_cta_desc_phone_miui15_14">Добро пожаловать во Взаимосвязанность Xiaomi! Это приложение можно использовать для трансляции экрана, воспроизведения мультимедиа на разных устройствах, использования Xiaomi Smart Play, подключения устройств и использования handoff для приложений. Для правильной работы приложению требуются доступ к интернету и следующие разрешения:</string>
     <string name="circulate_cta_exit">Выход</string>
     <string name="circulate_cta_new_app_name">Рабочий стол+</string>
     <string name="circulate_cta_premission_bluetooth">Для подключения устройств и передачи данных между ними по Bluetooth</string>
@@ -195,6 +195,7 @@
     <string name="low_battery_notification_content_default">Уровень заряда менее %1$s</string>
     <string name="low_battery_notification_title">Низкий заряд батареи</string>
     <string name="message_log">Журналы сообщений</string>
+    <string name="mi_drop">Xiaomi Share</string>
     <string name="midnight">Ночь</string>
     <string name="mirror_call_closed">Вызов принят другим устройством</string>
     <string name="mirror_have_been_opened">Рабочий стол+ включён</string>
@@ -208,7 +209,7 @@
     <string name="mirror_to_settings_remote_pc_content">Рабочий стол+ можно включить в Настройки > Взаимосвязанность.</string>
     <string name="mirror_to_settings_remote_pc_title">Включите Рабочий стол+ на ПК</string>
     <string name="mirror_to_settings_title">Включение Рабочий стол+</string>
-    <string name="mishare_interrupting_message">Завершить сеанс Mi Share и прервать все текущие передачи?</string>
+    <string name="mishare_interrupting_message">Завершить сеанс Xiaomi Share и прервать все текущие передачи?</string>
     <string name="mishare_interrupting_title">Завершение сеанса</string>
     <string name="miui15_app_name">Службы взаимосвязанности устройств</string>
     <string name="miui15_cta_app_name">Взаимосвязанность Xiaomi</string>
@@ -450,7 +451,7 @@
     <string name="send">Отправить</string>
     <string name="settings_bluetooth_enable_summary">Включите Bluetooth для поиска устройств поблизости</string>
     <string name="settings_connect_more_help">Помощь</string>
-    <string name="settings_connect_summary1">Загрузите и установите Mi Smart Share на ПК с сайта www.miui.com</string>
+    <string name="settings_connect_summary1">Загрузите и установите Xiaomi Smart Share на ПК с сайта www.miui.com</string>
     <string name="settings_connect_summary2">Отсканируйте QR-код на экране ПК. Для сканирования используйте Сканер, Камеру или Mi Браузер.</string>
     <string name="settings_connect_title1">Шаг 1</string>
     <string name="settings_connect_title2">Шаг 2</string>

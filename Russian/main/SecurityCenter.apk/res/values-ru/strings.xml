@@ -5271,9 +5271,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sim_lock_done_disable">SIM не защищена</string>
     <string name="sim_lock_done_enable">SIM защищена</string>
     <string name="sim_lock_done_title">Защита SIM</string>
-    <string name="sim_lock_enable_done_message">SIM-карта теперь связана с этим устройством. PIN-код будет проверен автоматически. При использовании SIM-карты на других устройствах PIN-код нужно будет вводить вручную.</string>
+    <string name="sim_lock_enable_done_message">SIM-карта привязана к этому устройству. При использовании SIM-карты на других устройствах вам понадобится ввести PIN-код.</string>
     <string name="sim_lock_guide_button">Настройки</string>
-    <string name="sim_lock_guide_message">Свяжите SIM-карту с этим устройством, чтобы сделать её менее уязвимой для угроз безопасности</string>
+    <string name="sim_lock_guide_message">Привяжите свою SIM-карту к этому устройству, чтобы сделать его менее уязвимым для угроз безопасности</string>
     <string name="sim_lock_guide_title">Включите защиту SIM</string>
     <string name="sim_lock_locked_dialog_message">Достигнут лимит попыток ввода PUK-кода, установленный оператором связи. SIM-карта аннулирована.</string>
     <string name="sim_lock_locked_dialog_title">SIM аннулирована</string>

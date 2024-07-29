@@ -1425,7 +1425,7 @@ ID: %s
     <string name="header_help">Помощь</string>
     <string name="hello_blank_fragment">Пустой фрагмент</string>
     <string name="help">Не можете найти устройство?</string>
-    <string name="help_content">Если вы не можете найти нужное устройство, попросите другого человека включить Mi Share.</string>
+    <string name="help_content">Если вы не можете найти нужное устройство, попросите другого человека включить Xiaomi Share.</string>
     <string name="hidden_album_display_name">Скрытый альбом</string>
     <string name="hide_nearby_photos">Скрыть фото и видео поблизости</string>
     <string name="hisense">Hisense</string>
@@ -3450,7 +3450,7 @@ ID: %s
     <string name="tip_not_download">Нет на устройстве. Будет загружено из Xiaomi Cloud при воспроизведении.</string>
     <string name="tip_screenshot_package_info">Имя приложения:</string>
     <string name="tips_for_photo_page_selection">Нажмите на файл для просмотра</string>
-    <string name="tips_prompt_enable_midrop">Mi Share</string>
+    <string name="tips_prompt_enable_midrop">Xiaomi Share</string>
     <string name="title_set_name">Введите имя</string>
     <string name="title_tip">Внимание</string>
     <string name="title_warn">Предупреждение</string>

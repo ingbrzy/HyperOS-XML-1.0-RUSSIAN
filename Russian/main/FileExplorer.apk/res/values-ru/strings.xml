@@ -416,7 +416,7 @@
     <string name="menu_set_wallpaper">Установить как обои</string>
     <string name="message_request_manage_external_storage_perm">Для управления файлами на устройстве, Проводнику необходимо разрешение на доступ к файлам. Разрешение можно предоставить в Настройках.</string>
     <string name="mi_router_label">Роутер</string>
-    <string name="mi_share">Mi Share</string>
+    <string name="mi_share">Xiaomi Share</string>
     <string name="midnight">Ночь</string>
     <string name="midrive_display_related">Показать</string>
     <string name="midrive_get_cloudvideo_file">Подождите…</string>
@@ -426,7 +426,7 @@
     <string name="midrive_reset_privacy_and_check_availability_retry">Не удалось включить Mi Drive. Повторите попытку.</string>
     <string name="midriver_install_button_text">Установить</string>
     <string name="midriver_not_install_title">Mi Drive не установлен</string>
-    <string name="mirror_can_not_drag_mask">Перетащите для использования Mi Share</string>
+    <string name="mirror_can_not_drag_mask">Перетащите для использования Xiaomi Share</string>
     <string name="mirror_can_not_drag_mask_new">Перетащите файлы в %s</string>
     <string name="mirror_new_name">Создать папку (%s)</string>
     <string name="mirror_new_name_first">Создать папку</string>
@@ -436,7 +436,7 @@
     <string name="mirror_paste_no_file">Файл не существует</string>
     <string name="mirror_progress_copy">Копирование…</string>
     <string name="mirror_side_bar_tab_app_name">Приложения</string>
-    <string name="mirror_side_bar_tab_mine_name">Mi Share</string>
+    <string name="mirror_side_bar_tab_mine_name">Xiaomi Share</string>
     <string name="mirror_side_bar_tab_phone_name">Память устройства</string>
     <string name="mirror_side_bar_tab_recent_name">Недавние</string>
     <string name="mirror_side_bar_tab_tranfer_name">Переданные</string>
@@ -792,7 +792,7 @@
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
-    <string name="save_file_to_mishare">Сохранено в папке Mi Share</string>
+    <string name="save_file_to_mishare">Сохранено в папке Xiaomi Share</string>
     <string name="search_app">Приложения и папки</string>
     <string name="search_app_more">Ещё</string>
     <string name="search_category">Категории поиска</string>
@@ -964,7 +964,7 @@
     <string name="transfer">Загрузки</string>
     <string name="transfer_done">Файлы перемещены</string>
     <string name="transfer_private_data">Перемещение приватных файлов с SD-карты…</string>
-    <string name="transfer_summary">Переданные и загруженные через Mi Share файлы</string>
+    <string name="transfer_summary">Переданные и загруженные через Xiaomi Share файлы</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
