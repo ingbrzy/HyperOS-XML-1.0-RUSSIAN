@@ -3,6 +3,15 @@
     <string name="action_settings">Настройки</string>
     <string name="app_name">Joyose</string>
     <string name="end_title">Конец игры</string>
+    <string name="gamebox_filter_name_black_gold">Чёрное золото</string>
+    <string name="gamebox_filter_name_cyberpunk">Киберпанк</string>
+    <string name="gamebox_filter_name_golden_autumn">Осень</string>
+    <string name="gamebox_filter_name_klein_blue">Ярко-синий</string>
+    <string name="gamebox_filter_name_midnight_green">Тёмно-зелёный</string>
+    <string name="gamebox_filter_name_original">Исходный</string>
+    <string name="gamebox_filter_name_vintage_brown">Каштановый</string>
+    <string name="gamebox_filter_name_warn_orange">Тёплый оранжевый</string>
+    <string name="gamebox_filter_name_wild_wind">Дикий ветер</string>
     <string name="hello_world">Хеллоу, мир!</string>
     <string name="joyose_name">Joyose</string>
     <string name="not_resurge_title">Возобновление</string>
