@@ -251,6 +251,7 @@
     <string name="android_system_label">Система Android</string>
     <string name="android_upgrading_apk">"Оптимизация приложения %1$d из %2$d."</string>
     <string name="android_upgrading_complete">Окончание загрузки…</string>
+    <string name="android_upgrading_fstrim">"Оптимизация хранилища…"</string>
     <string name="android_upgrading_notification_title">Завершается обновление Android</string>
     <string name="android_upgrading_starting_apps">Запуск приложений.</string>
     <string name="android_upgrading_title">Обновление Android…</string>
@@ -276,6 +277,7 @@
     <string name="app_running_notification_title">Приложение \"%1$s\" выполняется</string>
     <string name="app_streaming_blocked_message">Эта функция недоступна на устройстве %1$s. Используйте телефон.</string>
     <string name="app_streaming_blocked_message_for_fingerprint_dialog">Это приложение запрашивает дополнительные меры защиты. Используйте телефон.</string>
+    <string name="app_streaming_blocked_message_for_permission_dialog">"Эта функция пока недоступна на устройстве %1$s. Используйте Android TV."</string>
     <string name="app_streaming_blocked_message_for_settings_dialog">"На устройстве %1$s эта функция недоступна. Используйте телефон."</string>
     <string name="app_streaming_blocked_title">Недоступно: %1$s</string>
     <string name="app_streaming_blocked_title_for_camera_dialog">Камера недоступна</string>
@@ -749,6 +751,8 @@
     <string name="fp_power_button_bp_title">Продолжить сканирование отпечатка?</string>
     <string name="fp_power_button_enrollment_button_text">"Отключить"</string>
     <string name="fp_power_button_enrollment_message">Вы нажали кнопку питания. Обычно это приводит к отключению экрана.\n\nПри добавлении отпечатка пальца слегка прикоснитесь к кнопке.</string>
+    <string name="fp_power_button_enrollment_negative_button">"Продолжить настройку"</string>
+    <string name="fp_power_button_enrollment_positive_button">"Отключить экран"</string>
     <string name="fp_power_button_enrollment_title">Продолжить настройку?</string>
     <string name="gadget_host_error_inflating">Не удалось добавить виджет.</string>
     <string name="geofencing_service">Служба геозон</string>
@@ -1050,6 +1054,11 @@
     <string name="lockscreen_transport_rew_description">Перемотать назад</string>
     <string name="lockscreen_transport_stop_description">Остановить</string>
     <string name="lockscreen_unlock_label">Разблокировать</string>
+    <string name="log_access_confirmation_allow">"Разрешить разовый доступ"</string>
+    <string name="log_access_confirmation_body">"В журналы записывается информация о том, что происходит на устройстве. Приложения могут использовать их, чтобы находить и устранять неполадки.\n\nТак как некоторые журналы могут содержать конфиденциальную информацию, доступ ко всем журналам следует предоставлять только тем приложениям, которым вы доверяете. \n\nЕсли вы не предоставите такой доступ этому приложению, оно по-прежнему сможет просматривать свои журналы. Не исключено, что некоторые журналы или сведения на вашем устройстве будут по-прежнему доступны его производителю. Подробнее"</string>
+    <string name="log_access_confirmation_deny">"Запретить"</string>
+    <string name="log_access_confirmation_title">"Разрешить приложению \"%s\" доступ ко всем журналам устройства?"</string>
+    <string name="log_access_do_not_show_again">"Больше не показывать"</string>
     <string name="low_internal_storage_view_text">Некоторые функции могут не работать</string>
     <string name="low_internal_storage_view_text_no_boot">Недостаточно свободного места для системы. Освободите не менее 250 МБ дискового пространства и перезапустите устройство.</string>
     <string name="low_internal_storage_view_title">Недостаточно памяти</string>
@@ -1307,6 +1316,7 @@
     <string name="notification_channel_system_changes">Изменение системы</string>
     <string name="notification_channel_updates">Обновления</string>
     <string name="notification_channel_usb">USB-подключение</string>
+    <string name="notification_channel_virtual_keyboard">"Виртуальная клавиатура"</string>
     <string name="notification_channel_voice_mail">Голосовые сообщения</string>
     <string name="notification_channel_vpn">Статус VPN</string>
     <string name="notification_channel_wfc">Вызовы по Wi-Fi</string>
@@ -1358,7 +1368,11 @@
     <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="paste">Вставить</string>
     <string name="paste_as_plain_text">Вставить как обычный текст</string>
+    <string name="pasted_content">"%1$s: скопированный контент вставлен"</string>
+    <string name="pasted_from_app">"Данные из приложения \"%2$s\" вставлены в приложение \"%1$s\"."</string>
     <string name="pasted_from_clipboard">Приложение %1$s вставило контент из буфера обмена</string>
+    <string name="pasted_image">"%1$s: скопированное изображение вставлено"</string>
+    <string name="pasted_text">"%1$s: скопированный текст вставлен"</string>
     <string name="peerTtyModeFull">На устройстве абонента выбран режим телетайпа \"ВСЕ\"</string>
     <string name="peerTtyModeHco">На устройстве абонента выбран режим телетайпа HCO</string>
     <string name="peerTtyModeOff">На устройстве абонента выбран режим телетайпа \"ВЫКЛ.\"</string>
@@ -2223,6 +2237,7 @@
     <string name="window_magnification_prompt_title">Новые настройки увеличения</string>
     <string name="wireless_display_route_description">Беспроводной монитор</string>
     <string name="work_mode_emergency_call_button">"Экстренный вызов"</string>
+    <string name="work_mode_off_message">"Вы получите доступ к рабочим приложениям и уведомлениям"</string>
     <string name="work_mode_off_title">Включить рабочий режим?</string>
     <string name="work_mode_turn_on">Включить</string>
     <string name="work_profile_deleted">Рабочий профиль удалён</string>
