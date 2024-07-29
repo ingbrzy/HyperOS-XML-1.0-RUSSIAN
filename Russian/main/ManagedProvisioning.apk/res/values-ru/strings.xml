@@ -36,6 +36,7 @@
   Чтобы получить подробную информацию и ознакомиться с Политикой конфиденциальности компании, обратитесь к своему ИТ-администратору."</string>
     <string name="admin_has_ability_to_monitor_profile">"ИТ-администратор может контролировать настройки, приложения и параметры доступа к корпоративным ресурсам в этом профиле, а также связанные с ним данные, например геоданные или действиях в интернете."</string>
     <string name="app_label">Настройка рабочего профиля</string>
+    <string name="back">Назад</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="brand_screen_header">Это устройство принадлежит организации</string>
     <string name="cancel_provisioning">Отмена</string>

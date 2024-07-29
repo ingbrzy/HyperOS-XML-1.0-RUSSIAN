@@ -103,6 +103,7 @@
     <string name="controls_error_failed">Произошла ошибка. Повторите попытку.</string>
     <string name="controls_error_generic">Не удалось получить статус</string>
     <string name="controls_error_removed">Устройство удалено</string>
+    <string name="controls_error_removed_message">Не удалось получить доступ к %1$s. Проверьте настройки приложения %2$s, и что элемент управления все ещё доступен.</string>
     <string name="controls_error_removed_title">Управление недоступно</string>
     <string name="controls_favorite_default_title">Элементы управления</string>
     <string name="controls_favorite_load_error">Не удалось загрузить список всех элементов управления</string>

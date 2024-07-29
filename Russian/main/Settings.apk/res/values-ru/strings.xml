@@ -642,6 +642,7 @@
     <string name="alarms_and_reminders_switch_title">Разрешить установку будильников и напоминаний</string>
     <string name="alarms_and_reminders_title">Будильники и напоминания</string>
     <string name="all_apps">Все приложения</string>
+    <string name="all_network_unavailable">Нет доступных сетей</string>
     <string name="all_supported_app_locales_title">Все языки</string>
     <string name="all_volume_title">Громкость</string>
     <string name="allow">Разрешить</string>
@@ -6841,6 +6842,7 @@ ID: %s
     <string name="noise_suppression">Подавление внешних шумов</string>
     <string name="non_carrier_data_usage">Передача данных не по мобильной сети</string>
     <string name="non_carrier_data_usage_warning">Без учёта трафика, переданного через сети оператора связи</string>
+    <string name="non_carrier_network_unavailable">Нет других доступных сетей</string>
     <string name="none">Нет</string>
     <string name="noon">Полдень</string>
     <string name="normal">Отключён</string>
@@ -9873,6 +9875,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="talkback_summary">Инструмент для озвучивания данных с экрана для людей с нарушениями зрения</string>
     <string name="talkback_title">Talkback</string>
     <string name="talkback_watermark_enable">Водяной знак TalkBack</string>
+    <string name="tap_a_network_to_connect">Выберите сеть, чтобы подключиться</string>
     <string name="tap_to_sign_up">Нажмите для регистрации</string>
     <string name="tap_to_wake">Включение нажатием</string>
     <string name="tap_to_wake_summary">Дважды коснитесь экрана, чтобы включить устройство</string>
@@ -10250,6 +10253,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="turn_on_keyguard_password_alert_forget_title">Внимание</string>
     <string name="turn_on_security_lock">Способ защиты</string>
     <string name="turn_on_torch">Фонарик</string>
+    <string name="turn_on_wifi">Включить Wi-Fi</string>
     <string name="turn_screen_on_title">Включение экрана</string>
     <string name="turn_update_keyguard_password_wait_dialog">Изменение пароля…</string>
     <string name="twilight_mode_launch_location">Использование геолокации</string>
