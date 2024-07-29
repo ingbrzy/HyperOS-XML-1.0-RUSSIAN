@@ -90,6 +90,7 @@
     <string name="camera_disconnecting_device">Отключение от %s</string>
     <string name="camera_notify_string">CameraNotification</string>
     <string name="camera_title">Поиск доступных устройств…</string>
+    <string name="cancel">Отмена</string>
     <string name="cancel_button">Отмена</string>
     <string name="car_air_con_back_switch_close">Отключить кондиционер для заднего ряда</string>
     <string name="car_air_con_back_switch_open">Включить кондиционер для заднего ряда</string>

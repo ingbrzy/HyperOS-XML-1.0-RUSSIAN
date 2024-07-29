@@ -818,6 +818,7 @@
     <string name="just_hit_next">Нажмите \"Далее\"</string>
     <string name="keep_queued_download">Оставить</string>
     <string name="ktv_playlist">Плейлист KTV</string>
+    <string name="label">Ярлык</string>
     <string name="language_page_confirm">Подтвердить</string>
     <string name="language_preference">Языковые предпочтения</string>
     <string name="language_preference_desc">Выберите предпочитаемые языки для получения более подходящих рекомендаций</string>

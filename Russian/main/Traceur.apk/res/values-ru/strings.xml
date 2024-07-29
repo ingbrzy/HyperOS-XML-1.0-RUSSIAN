@@ -383,6 +383,14 @@
     <string name="failed_attempts_now_wiping_user">Слишком много неверных попыток. Пользователь будет удален.</string>
     <string name="failed_to_open_app_settings_toast">Не удалось открыть настройки для %1$s</string>
     <string name="five_gb">5 ГБ</string>
+    <string name="force_allow_on_external">Сохранение на внешних накопителях</string>
+    <string name="force_allow_on_external_summary">Разрешать приложениям сохранение на внешних накопителях независимо от значений в манифесте</string>
+    <string name="force_msaa">Включить 4x MSAA</string>
+    <string name="force_msaa_summary">Включить 4x MSAA в приложениях OpenGL ES 2.0</string>
+    <string name="force_resizable_activities">Изменение размера окон</string>
+    <string name="force_resizable_activities_summary">Разрешать изменение размера окон в режиме разделения экрана независимо от значений в манифесте</string>
+    <string name="force_rtl_layout_all_locales">Отразить интерфейс</string>
+    <string name="force_rtl_layout_all_locales_summary">Включить написание справа налево для всех языков</string>
     <string name="four_thousand_kb">4096 КБ</string>
     <string name="guest_exit_guest">Удалить гостевой аккаунт</string>
     <string name="guest_new_guest">Войти в гостевой аккаунт</string>

@@ -1421,7 +1421,15 @@ ID: %s
     <string name="fmt_time_second_millis">"s.S'с'"</string>
     <string name="font_scale_percentage">%1$d%%</string>
     <string name="for_diagnosis_usage_only">Использовать только для диагностики.</string>
+    <string name="force_allow_on_external">Сохранение на внешних накопителях</string>
+    <string name="force_allow_on_external_summary">Разрешать приложениям сохранение на внешних накопителях независимо от значений в манифесте</string>
     <string name="force_close">"ОК"</string>
+    <string name="force_msaa">Включить 4x MSAA</string>
+    <string name="force_msaa_summary">Включить 4x MSAA в приложениях OpenGL ES 2.0</string>
+    <string name="force_resizable_activities">Изменение размера окон</string>
+    <string name="force_resizable_activities_summary">Разрешать изменение размера окон в режиме разделения экрана независимо от значений в манифесте</string>
+    <string name="force_rtl_layout_all_locales">Отразить интерфейс</string>
+    <string name="force_rtl_layout_all_locales_summary">Включить написание справа налево для всех языков</string>
     <string name="foreground_service_app_in_background">"Приложение \"%1$s\" расходует заряд"</string>
     <string name="foreground_service_apps_in_background">"Несколько приложений (%1$d) расходуют заряд"</string>
     <string name="foreground_service_multiple_separator">"%1$s, %2$s"</string>
