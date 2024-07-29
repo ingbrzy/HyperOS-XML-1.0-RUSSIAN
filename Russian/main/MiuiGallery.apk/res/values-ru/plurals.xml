@@ -342,8 +342,8 @@
         <item quantity="one">Не выполнено резервное копирование %d файла</item>
     </plurals>
     <plurals name="global_syncing_gprs_title_link">
-        <item quantity="other">Резервное копирование %d файлов. Используется мобильный интернет...</item>
-        <item quantity="one">Резервное копирование %d файла. Используется мобильный интернет...</item>
+        <item quantity="other">Резервное копирование %d файлов. Используется мобильный интернет…</item>
+        <item quantity="one">Резервное копирование %d файла. Используется мобильный интернет…</item>
     </plurals>
     <plurals name="global_syncing_title_link">
         <item quantity="other">Резервное копирование %d файлов…</item>

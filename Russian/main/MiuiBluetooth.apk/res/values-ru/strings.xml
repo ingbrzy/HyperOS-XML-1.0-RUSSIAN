@@ -226,7 +226,7 @@
     <string name="headset_autoswitch_connecting">Подключение…</string>
     <string name="headset_autoswitch_disconnected">Подключено: %1$s</string>
     <string name="headset_autoswitch_fialed">Ошибка подключения</string>
-    <string name="headset_autoswitch_test_connecting">Подключение...</string>
+    <string name="headset_autoswitch_test_connecting">Подключение…</string>
     <string name="headset_autoswitch_test_no_alert_permission">Отсутствует разрешение на просмотр оповещений</string>
     <string name="headset_autoswitch_test_no_device">Нет доступных устройств, подождите 3 сек.</string>
     <string name="headset_battery_fw_failed">Низкий заряд</string>

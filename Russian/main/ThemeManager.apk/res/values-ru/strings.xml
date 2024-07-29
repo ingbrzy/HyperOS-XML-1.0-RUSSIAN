@@ -1145,7 +1145,7 @@ mm"</string>
     <string name="resource_exchange_universal_finish">Используйте этот код для загрузки компонентов</string>
     <string name="resource_exchange_universal_goon">Этот код может использоваться для загрузки любой темы</string>
     <string name="resource_exchange_wrong_format_by_local">Неверный формат кода</string>
-    <string name="resource_exchange_wrong_format_by_server">Ошибка проверки кода. Убедитесь, что введен правильный код.</string>
+    <string name="resource_exchange_wrong_format_by_server">Ошибка проверки кода. Убедитесь, что введён правильный код.</string>
     <string name="resource_expand_full_text">Развернуть</string>
     <string name="resource_failed_to_load_list">Не удалось загрузить темы</string>
     <string name="resource_free_download">Скачать бесплатно</string>

@@ -71,7 +71,7 @@
     <string name="activate_popup_desc_failed_query_info">Не удалось найти номер телефона. Убедитесь, что SIM-карта активирована.</string>
     <string name="activate_popup_desc_failed_query_info_msg">Не удалось проверить номер телефона. Убедитесь, что SIM %d работает правильно и повторите попытку.</string>
     <string name="activate_popup_desc_failed_query_info_msg_one_sim">Не удалось проверить номер телефона. Убедитесь, что SIM-карта работает правильно и повторите попытку.</string>
-    <string name="activate_popup_desc_failed_receive_sms">Убедитесь, что введен верный номер телефона и SIM-карта активирована.</string>
+    <string name="activate_popup_desc_failed_receive_sms">Убедитесь, что введён верный номер телефона и SIM-карта активирована.</string>
     <string name="activate_popup_desc_failed_server">Проверьте подключение и повторите попытку.</string>
     <string name="activate_popup_desc_failed_server_msg">Ошибка сервера. Проверьте настройки сети и повторите попытку.</string>
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Для активации %3$s введите номер телефона SIM-карты %2$d. Если вы замените эту SIM-карту, будет отправлено ещё одно SMS для активации.</string>

@@ -707,10 +707,10 @@ Email: service.jp@xiaomi.com"</string>
     <string name="passport_user_password_hint">Пароль</string>
     <string name="passport_vcode_what_app_send_prompt">Код подтверждения WhatsApp будет отправлен на резервное устройство &lt;font color=#1F93FF>%s&lt;/font>.</string>
     <string name="passport_wechat_not_install">Сначала установите WeChat</string>
-    <string name="passport_wrong_captcha">Код введен неверно</string>
+    <string name="passport_wrong_captcha">Код введён неверно</string>
     <string name="passport_wrong_phone_number_format">Неверный формат номера телефона</string>
-    <string name="passport_wrong_vcode">Код введен неверно</string>
-    <string name="passport_wrong_voice">Код введен неверно</string>
+    <string name="passport_wrong_vcode">Код введён неверно</string>
+    <string name="passport_wrong_voice">Код введён неверно</string>
     <string name="permission_agree">Принимаю</string>
     <string name="permission_china_version_msg">&lt;Data&gt;Нажав \"Принимаю\", вы соглашаетесь с &lt;a href=\"%1$s\"&gt;Условиями использования&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политикой конфиденциальности&lt;/a&gt;. Для правильной работы приложению требуется доступ к интернету.&lt;/Data&gt;</string>
     <string name="permission_complete">Готово</string>

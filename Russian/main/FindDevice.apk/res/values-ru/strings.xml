@@ -317,7 +317,7 @@
     <string name="unlock_error_server">Ошибка сервера</string>
     <string name="unlock_error_unknown">Ошибка авторизации</string>
     <string name="unlock_error_user_name">Неверное имя пользователя</string>
-    <string name="unlock_error_wrong_vcode">Код введен неверно</string>
+    <string name="unlock_error_wrong_vcode">Код введён неверно</string>
     <string name="unlock_help">"Подключитесь к сети.
 Вставьте рабочую SIM-карту, не подключайтесь к недействительным сетям Wi-Fi.
 
@@ -336,7 +336,7 @@
 Перейдите на i.mi.com/ss и отправьте заявку на разблокировку устройства."</string>
     <string name="unlock_help_title">Помощь по разблокировке:</string>
     <string name="unlock_number">Код разблокировки: %s</string>
-    <string name="unlock_wrong_captcha">Код введен неверно</string>
+    <string name="unlock_wrong_captcha">Код введён неверно</string>
     <string name="unlocking">Активация…</string>
     <string name="verifing_account">Проверка пароля…</string>
     <string name="verify_password_failed">Не удалось проверить ID аккаунта Xiaomi. %s.</string>
