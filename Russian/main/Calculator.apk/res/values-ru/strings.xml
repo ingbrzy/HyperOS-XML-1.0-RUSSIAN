@@ -341,7 +341,7 @@
     <string name="mulDesc">умножить</string>
     <string name="n_a">Н/Д</string>
     <string name="name_cgst">CGST/SGST: 2.5</string>
-    <string name="name_discount">Скидка (%)</string>
+    <string name="name_discount">Скидка (%s)</string>
     <string name="name_original">Исходная цена</string>
     <string name="name_price">Конечная цена</string>
     <string name="name_save">"Вы экономите "</string>
