@@ -10147,7 +10147,6 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="system_alert_window_access_title">"Показывать поверх других окон"</string>
     <string name="system_alert_window_apps_title">"Приложения"</string>
     <string name="system_alert_window_settings">Поверх других приложений</string>
-    <string name="system_alert_window_summary">"Приложений, показываемых поверх других окон: %d из %d"</string>
     <string name="system_and_device_section_title">Настройки системы</string>
     <string name="system_app">(системное)</string>
     <string name="system_app_settings">Системные приложения</string>
@@ -12140,7 +12139,6 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="write_settings_description">Приложение сможет изменять системные настройки.</string>
     <string name="write_settings_off">"Нет"</string>
     <string name="write_settings_on">"Да"</string>
-    <string name="write_settings_summary">"Приложения, которые могут изменять системные настройки: %d из %d"</string>
     <string name="write_settings_title">Могут изменять системные настройки</string>
     <string name="write_system_settings">Изменить системные настройки</string>
     <string name="wrong_pin_code">"{count,plural, =1{Если указать PIN-код неверно ещё # раз, SIM-карта будет заблокирована. Понадобится помощь оператора.}one{Неверный PIN-код. Осталась # попытка.}few{Неверный PIN-код. Осталось # попытки.}many{Неверный PIN-код. Осталось # попыток.}other{Неверный PIN-код. Осталось # попытки.}}"</string>
