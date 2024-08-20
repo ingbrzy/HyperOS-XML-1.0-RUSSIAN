@@ -19,7 +19,6 @@ call run_copy_translation.bat %1 CertInstaller
 call run_copy_translation.bat %1 CleanMaster
 call run_copy_translation.bat %1 CloudBackup
 call run_copy_translation.bat %1 CloudService
-call run_copy_translation.bat %1 com.xiaomi.macro
 call run_copy_translation.bat %1 Contacts
 call run_copy_translation.bat %1 ContactsProvider
 call run_copy_translation.bat %1 DeskClock
@@ -31,7 +30,6 @@ call run_copy_translation.bat %1 ExternalStorageProvider
 call run_copy_translation.bat %1 FileExplorer
 call run_copy_translation.bat %1 FindDevice
 call run_copy_translation.bat %1 framework-res
-call run_copy_translation.bat %1 GuardProvider
 call run_copy_translation.bat %1 Health
 call run_copy_translation.bat %1 HealthConnectController
 call run_copy_translation.bat %1 HTMLViewer
@@ -41,7 +39,7 @@ call run_copy_translation.bat %1 Joyose
 call run_copy_translation.bat %1 ManagedProvisioning
 call run_copy_translation.bat %1 MediaProvider
 call run_copy_translation.bat %1 MiAICR
-call run_copy_translation.bat %1 MiBrowserGlobal
+call run_copy_translation.bat %1 MiBrowser
 call run_copy_translation.bat %1 MiCloudSync
 call run_copy_translation.bat %1 MiConnectService
 call run_copy_translation.bat %1 MiDrive
@@ -68,13 +66,14 @@ call run_copy_translation.bat %1 MiuiFrequentPhrase
 call run_copy_translation.bat %1 MiuiGallery
 call run_copy_translation.bat %1 MiuiHome
 call run_copy_translation.bat %1 MiuiInputSettings
+call run_copy_translation.bat %1 MiuiMacro
 call run_copy_translation.bat %1 MiuiPackageInstaller
 call run_copy_translation.bat %1 MiuiScanner
 call run_copy_translation.bat %1 MiuiScreenRecorder
 call run_copy_translation.bat %1 MiuiScreenshot
 call run_copy_translation.bat %1 MiuiSystemUI
 call run_copy_translation.bat %1 MiuiSystemUIPlugin
-call run_copy_translation.bat %1 MiuiVideoGlobal
+call run_copy_translation.bat %1 MiuiVideoPlayer
 call run_copy_translation.bat %1 MiuiWallpaper
 call run_copy_translation.bat %1 MiuiWifiDialog
 call run_copy_translation.bat %1 miuix
