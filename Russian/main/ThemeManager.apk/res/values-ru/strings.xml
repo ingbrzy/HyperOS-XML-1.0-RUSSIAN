@@ -120,6 +120,9 @@
     <string name="apply_success_not_support_aod">Не удалось совместить Активный экран с темой на устройстве. Остальные компоненты успешно применены.</string>
     <string name="apply_theme_with_ringtones">Применять с рингтонами</string>
     <string name="apply_wallpaper_after_three_theme">Сейчас используется сторонняя тема. При смене обоев экрана блокировки, стиль часов экрана блокировки будет установлен по умолчанию. Применить?</string>
+    <string name="apply_wallpaper_dialog_title">Применить обои?</string>
+    <string name="apply_wallpaper_only_home">Только начальный экран</string>
+    <string name="apply_wallpaper_to_lockscreen">Применить эти обои и к экрану блокировки?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Сейчас используются суперобои. Новые обои будут применены к рабочему столу и экрану блокировки, для Активного экрана будут восстановлены предыдущие настройки. Применить?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Сейчас используются суперобои. Новые обои будут применены к рабочему столу и экрану блокировки. Применить?</string>
     <string name="apply_warning_get_device_dialog_message">Чтобы использовать загруженный контент, разрешите этой функции доступ к ID вашего устройства. Вы можете предоставить это разрешение в Настройки > Конфиденциальность</string>
@@ -169,6 +172,7 @@
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="check_has_new_version">Доступно обновление</string>
     <string name="chip_text">Текст</string>
+    <string name="choose_from_photo">Выбрать из галереи</string>
     <string name="classic_calendar_day_of_week_format">EE</string>
     <string name="classic_calendar_month_of_year_format">MMM</string>
     <string name="classification_more_understand_you">Выберите любимую категорию</string>
@@ -864,6 +868,7 @@ mm"</string>
     <string name="paying">Покупка…</string>
     <string name="personalize">Персонализация</string>
     <string name="personalize_alarm_ringtone_title">Будильники</string>
+    <string name="personalize_aod_notify_style_title">АОД уведомления</string>
     <string name="personalize_aod_title">Активный экран</string>
     <string name="personalize_call_ringtone_title">Рингтоны</string>
     <string name="personalize_charge_style_title">Зарядка</string>
@@ -878,6 +883,7 @@ mm"</string>
     <string name="personalize_second_space_not_support_buy_widget">Покупка виджетов недоступна во втором пространстве</string>
     <string name="personalize_second_space_not_support_set_font">Смена шрифта недоступна во втором пространстве</string>
     <string name="personalize_theme_entrance">Темы</string>
+    <string name="personalize_theme_title">Темы</string>
     <string name="personalize_third_font">Шрифты</string>
     <string name="personalize_title">Персонализация</string>
     <string name="personalize_wallpaper_sub_title">Суперобои и популярные изображения</string>
