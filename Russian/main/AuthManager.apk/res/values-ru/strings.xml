@@ -29,6 +29,8 @@
     <string name="HIPS_Perm_Intl_group_name_call_log">Журнал вызовов</string>
     <string name="HIPS_Perm_Intl_group_name_camera">Камера</string>
     <string name="HIPS_Perm_Intl_group_name_contact">Контакты</string>
+    <string name="HIPS_Perm_Intl_group_name_read_note">Заметки</string>
+    <string name="HIPS_Perm_Intl_group_name_read_record">Диктофон</string>
     <string name="HIPS_Perm_Location">Геолокация</string>
     <string name="HIPS_Perm_Location_Desc">Получение точной геопозиции (GPS и сети)</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Устройства поблизости</string>
