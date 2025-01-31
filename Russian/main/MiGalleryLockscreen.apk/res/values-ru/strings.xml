@@ -936,7 +936,10 @@ mm"</string>
     <string name="sst_morning_greeting_title">Утренние приветствия</string>
     <string name="sst_morning_history_desc">Предыдущие утренние приветствия</string>
     <string name="sst_morning_history_title">История утренних приветствий</string>
+    <string name="sst_my_wallpaper_desc">Просмотр обоев из карусели обоев</string>
+    <string name="sst_my_wallpaper_title">Мои обои</string>
     <string name="sst_new_feature">Слайд-шоу</string>
+    <string name="sst_no_wallpaper">Здесь пока ничего нет</string>
     <string name="sst_no_favor_wallpaper_hint">Нет избранных обоев</string>
     <string name="sst_privacy_policy_title">Политика конфиденциальности</string>
     <string name="sst_prov_enable_desc">Регулярно получать новые обои на экран блокировки</string>
