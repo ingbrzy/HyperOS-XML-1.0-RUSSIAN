@@ -35,8 +35,11 @@
     <string name="ai_mode_auto">Авто</string>
     <string name="ai_mode_manual">Вручную</string>
     <string name="ai_mode_subtitles">Субтитры</string>
+    <string name="align_satellite_model_call">Вызов</string>
     <string name="align_satellite_model_exit">Выход</string>
+    <string name="align_satellite_model_mms">Сообщение</string>
     <string name="align_satellite_model_use">Начать</string>
+    <string name="align_satellite_model_use_exp">Завершить</string>
     <string name="antifraud_center">Платформа предупреждения о мошенничестве</string>
     <string name="antifraud_center_incoming_prompt">Не пропустите ни одного вызова при использовании официальной платформы предупреждения о мошенничестве</string>
     <string name="antispam_local_marked">Отмечено локально</string>
@@ -70,7 +73,10 @@
     <string name="call_progress_info_user_busy">Абонен занят. Перезвоните позже.</string>
     <string name="call_progress_info_user_call_rejected">Ваш номер в настоящее время не обслуживается</string>
     <string name="call_record_wait_label">Ожидание</string>
+    <string name="call_recording">Ведется запись разговора</string>
     <string name="call_recording_deny_permission_msg">Запись недоступна. Предоставьте разрешение в настройках.</string>
+    <string name="call_recording_disclaimer_msg">"Согласно законодательству, ваш собеседник может требовать согласие на запись разговора. Вы обязаны соблюдать закон, Xiaomi не несет ответственности за любое незаконное использование этой функции. Записи звонков хранятся только на вашем устройстве, и Xiaomi не может получить к ним доступ."</string>
+    <string name="call_recording_disclaimer_title">Отказ от ответственности</string>
     <string name="call_recording_error_low_storage">Недостаточно места на накопителе.</string>
     <string name="call_recording_error_privacy">Нельзя записывать вызовы в режиме \"Гость\"</string>
     <string name="call_recording_error_sd_access">Нет доступа к SD-карте</string>
@@ -179,6 +185,10 @@
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="evening">После полудня</string>
+    <string name="flip_expand_conference_call_text">Разверните для управления конференц-связью</string>
+    <string name="flip_expand_suport_videocall_text">Разверните параметры видеозвонка</string>
+    <string name="flip_expand_switch_call_text">Разверните, чтобы переключиться на многоканальный вызов</string>
+    <string name="flip_video_incoming_call_label">Видеозвонок</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
@@ -311,7 +321,12 @@
     <string name="notification_on_hold">Ждет ответа</string>
     <string name="notification_ongoing_call">Текущий вызов</string>
     <string name="notification_requesting_video_call">Входящий запрос видео</string>
+    <string name="offline_call_chat_text">Междевайсная коммуникация</string>
+    <string name="offline_call_rssi_great_text">Сильный сигнал</string>
+    <string name="offline_call_rssi_poor_text">Слабый сигнал</string>
+    <string name="offline_call_rssi_poor_toast">Слабый сигнал Bluetooth. Это может повлиять на качество связи.</string>
     <string name="ok">ОК</string>
+    <string name="on_call_recording">Запись</string>
     <string name="onscreenEndCallText">Завершить</string>
     <string name="onscreen_add_call_text">Добавить</string>
     <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
@@ -350,6 +365,7 @@
     <string name="remind_unlock_message">Устройство заблокировано. \"%s\" будет доступно после разблокировки. Разблокировать?</string>
     <string name="respond_via_sms_custom_message">Свое сообщение</string>
     <string name="satellite_call_failed">Сигнал прерван. Повторите попытку.</string>
+    <string name="satellite_cancel">Отмена</string>
     <string name="satellite_debug_antenna">Антенна</string>
     <string name="satellite_debug_azimuth">Азимут</string>
     <string name="satellite_debug_compass">Компас</string>
@@ -381,7 +397,11 @@
     <string name="satellite_state_connected">Подключено к спутнику. Не перемещайте устройство</string>
     <string name="satellite_state_connected_floating">Не перемещайте устройство</string>
     <string name="satellite_state_connecting">Подключение… (%d сек.)</string>
+    <string name="satellite_state_gps_noti_content">Использование информации о вашем местоположении…</string>
+    <string name="satellite_state_gps_noti_title">Спутниковая связь</string>
+    <string name="satellite_state_occlusion_prompt">Избегайте зданий и деревьев, которые могут блокировать сигнал.</string>
     <string name="satellite_state_retry">Повтор</string>
+    <string name="satellite_state_voice_reg_fail_exit">Выход</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -431,6 +451,7 @@
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="speakerphone_tip">Сложите устройство, чтобы использовать наушник или динамик</string>
+    <string name="start_call_record">Начать</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
