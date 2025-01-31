@@ -793,6 +793,15 @@
         <item>ПТ</item>
         <item>СБ</item>
     </string-array>
+    <string-array name="week_header_name_phone_landscape">
+        <item>ВС</item>
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+   </string-array>
     <string-array name="widget_style_list">
         <item>Прозрачный</item>
         <item>Белый фон</item>
