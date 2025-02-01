@@ -80,7 +80,10 @@
     <string name="carousel_setting">Настройте экран блокировки</string>
     <string name="carousel_setting_sub">Карусель обоев будет показывать свежие изображения и истории при разблокировке устройства</string>
     <string name="carrier_introduction_china">Для предоставления качественных сервисов, запущенные процессы на устройстве (включая SystemHelper, RegService и Carrier Services) могут периодически отправлять информацию, связанную с устройством и SIM-картой (включая IMEI, IMSI, MSISDN, MEID, ICCID, MAC-адрес, версию системы, версию Android, модель устройства и основные аппаратные характеристики), а также приблизительную геопозицию (включая регион, координаты, идентификатор области и ID базовой станции) оператору связи через Wi-Fi, мобильную сеть или бесплатные SMS. Оператор обязуется анализировать соответствующую информацию только для улучшения качества сервисов или предоставления индивидуальных услуг или технологий, и не раскрывать соответствующую информацию третьим лицам в любой форме, которая идентифицирует вас лично. Конкретное заявление оператора имеет преимущественную силу. Проконсультируйтесь с оператором относительно стоимости использования этой услуги.</string>
+    <string name="carrier_introduction_china_rothko">Для предоставления качественных сервисов, запущенные процессы на устройстве (включая SystemHelper, RegService и Carrier Services) могут периодически отправлять информацию, связанную с устройством и SIM-картой (включая IMEI, IMSI, MSISDN, MEID, ICCID, MAC-адрес, версию системы, версию Android, модель устройства и основные аппаратные характеристики), а также приблизительную геопозицию (включая регион, координаты, идентификатор области и ID базовой станции) оператору связи через Wi-Fi, мобильную сеть или бесплатные SMS. Оператор обязуется анализировать соответствующую информацию только для улучшения качества сервисов или предоставления индивидуальных услуг или технологий, и не раскрывать соответствующую информацию третьим лицам в любой форме, которая идентифицирует вас лично. Конкретное заявление оператора имеет преимущественную силу. Проконсультируйтесь с оператором относительно стоимости использования этой услуги.</string>
     <string name="check_box_label"><Data>"Включая эту функцию, Вы принимаете &lt;a href=\"%1$s\">Политику конфиденциальности служб межсетевого взаимодействия Xiaomi&lt;/a>."</Data></string>
+    <string name="check_box_label_new"><Data>"Вы можете использовать Xiaomi Interconnectivity для управления и передачи данных между устройствами. Примите условия Xiaomi Interconnectivity &lt;a href=%1$s>Пользовательское соглашение&lt;/a > прежде чем использовать его функции. Это приложение должно быть подключено к Интернету и иметь следующие разрешения:"</Data></string>
+    <string name="check_network_status">"Не удалось подтвердить учетную запись из-за сетевой ошибки"</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="clock_introduction">Это приложение можно использовать для просмотра текущего и мирового времени, для установки будильников, а также для таймера, секундомера и многого другого.</string>
     <string name="close">Закрыть</string>
@@ -107,7 +110,6 @@
     <string name="copy">Копировать</string>
     <string name="create_shortcut">Ярлык на рабочем столе</string>
     <string name="data_traffic_enable_dialog_title">При отсутствии подключения к Wi-Fi, устройство будет использовать мобильный интернет. Это может привести к дополнительным тратам.</string>
-    <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="default_font">По умолчанию</string>
     <string name="desc_extra_fingerprint" />
@@ -171,6 +173,7 @@
     <string name="font_hint_normal">Увеличить</string>
     <string name="font_settings_sub_title">Выбор системного шрифта</string>
     <string name="font_settings_title">Настройки шрифта</string>
+    <string name="font_size_title">Размер текста</string>
     <string name="font_use_case_number_example">%1$d %2$d %3$d %4$d %5$d %6$d %7$d %8$d %9$d %10$d</string>
     <string name="font_use_case_symbol_example">\@ # % &amp; * () _ + - =</string>
     <string name="font_use_case_text_example">Текст</string>
@@ -188,6 +191,7 @@
     <string name="home_settings_miui_home">Классический</string>
     <string name="home_settings_poco_launcher">Меню приложений</string>
     <string name="home_settings_title">Выбор рабочего стола</string>
+    <string name="image_brain_configuration_service">Служба настройки Xiaomi Imaging Engine</string>
     <string name="ime_privacy_policy">Политика конфиденциальности выбранной клавиатуры</string>
     <string name="ime_privacy_policy_no_network">Отсутствует сетевое подключение. Просмотрите Политику конфиденциальности для этой клавиатуры на %s.</string>
     <string name="ims_introduction">Сервис IMS предоставляет базовые возможности связи и используется для аудио- и видеовызовов высокого качества.</string>
@@ -198,6 +202,24 @@
     <string name="interconnection_communication_introduction">Службы интернет-коммуникации Xiaomi позволяют обнаруживать, подключаться и общаться с другими устройствами Xiaomi.</string>
     <string name="interconnection_service_global_item_title">Взаимосвязанность Xiaomi</string>
     <string name="interconnection_service_global_label">"&lt;Data>Взаимосвязанность Xiaomi позволяет вашим устройствам взаимодействовать друг с другом по беспроводной сети. Включая этот переключатель, вы принимаете &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a >.&lt;/Data> Взаимосвязанность Xiaomi.</string>
+    <string name="interconnection_service_permission1">Включение и выключение Bluetooth</string>
+    <string name="interconnection_service_permission10">Для обнаружения ближайших устройств</string>
+    <string name="interconnection_service_permission11">Передача данных между устройствами</string>
+    <string name="interconnection_service_permission12">Для передачи данных между подключенными устройствами</string>
+    <string name="interconnection_service_permission13">Доступ к содержимому экрана</string>
+    <string name="interconnection_service_permission14">Для доступа к содержимому экрана во время записи или трансляции, включая конфиденциальную информацию, такую ​​как аудио, пароли, платежные пароли, фотографии, сообщения и т. д.</string>
+    <string name="interconnection_service_permission15">Доступ к истории звонков</string>
+    <string name="interconnection_service_permission16">Для переадресации вызовов между устройствами во время дублирования экрана</string>
+    <string name="interconnection_service_permission17">Доступ к списку установленных приложений</string>
+    <string name="interconnection_service_permission18">Для доступа к списку приложений, установленных на мобильном устройстве, и дублирования экрана на компьютерах.</string>
+    <string name="interconnection_service_permission2">Для подключения и передачи данных между двумя устройствами</string>
+    <string name="interconnection_service_permission3">Включение и выключение Wi-Fi</string>
+    <string name="interconnection_service_permission4">Для передачи данных между двумя устройствами через Wi-Fi</string>
+    <string name="interconnection_service_permission5">Запись звука</string>
+    <string name="interconnection_service_permission6">Для записи звука устройства при трансляции и </string>
+    <string name="interconnection_service_permission7">Доступ и редактирование фотографий и файлов на вашем устройстве</string>
+    <string name="interconnection_service_permission8">Трансляция и передача контента с этого устройства</string>
+    <string name="interconnection_service_permission9">Идентификатор устройства доступа</string>
     <string name="interconnection_service_summary_china">Службы взаимосвязанности Xiaomi позволяет устройствам взаимодействовать друг с другом по беспроводной связи. %1$s Доступные службы взаимосвязанности могут различаться, в зависимости от версии системы и модели устройства. Подробнее на %2$s.</string>
     <string name="interconnection_service_summary_china_fragment1">Эти службы включают в себя включают в себя Xiaomi Smart Play, трансляцию, Handoff для приложений, Рабочий стол+, общий буфер обмена, беспроводной модем (с сетевой синхронизацией), общее управление, общую камеру и Xiaomi Smart Hub. Для нормальной работы служб взаимосвязанности разрешите доступ к интернету и предоставьте следующие разрешения:</string>
     <string name="interconnection_service_summary_china_fragment10">Для получения информации об устройствах поблизости</string>
@@ -260,6 +282,7 @@
     <string name="interconnection_service_summary_china_fragment7">Передача файлов на другие устройства</string>
     <string name="interconnection_service_summary_china_fragment8">Для установления Bluetooth-соединения между устройствами и передачи файлов</string>
     <string name="interconnection_service_summary_china_fragment9">Использование геолокации</string>
+    <string name="interconnection_service_summary_china_new">%1$s Функции взаимодействия Xiaomi, доступные на вашем устройстве, могут различаться из-за различий в версиях системы и моделях устройств. Посетите наш официальный сайт (%2$s) для получения дополнительной информации.</string>
     <string name="interconnection_service_summary_global">Функции взаимосвязанности Xiaomi могут различаться в зависимости от модели устройства и версии системы. Посетите официальный сайт для подробностей.</string>
     <string name="interconnection_service_title">Службы взаимосвязанности Xiaomi</string>
     <string name="item_contents_wwarning">В случае потери устройства и отсутствия блокировки, устройство и ваши личные данные будут доступны другим людям. Всё равно пропустить?</string>
@@ -269,10 +292,30 @@
     <string name="item_lock_screen_password_only">Блокировка экрана</string>
     <string name="item_return">Установить</string>
     <string name="item_skip">Пропустить</string>
+    <string name="kind_note01">Складывая устройство, не кладите на экран твердые предметы, такие как карты, монеты или ключи, чтобы не поцарапать внутренний экран.</string>
+    <string name="kind_note02">Четыре угла экрана содержат магнитные компоненты. Прежде чем складывать экран, проверьте, нет ли вокруг него металлических предметов.</string>
+    <string name="kind_note03">Фронтальная камера и складной шарнир внутреннего экрана хрупкие. Избегайте повреждения этих участков острыми предметами, это может повлиять на гарантию.</string>
+    <string name="kind_note04">Сложите устройство, прежде чем положить его в сумку или карман. Это может сэкономить место и лучше защитить экран.</string>
+    <string name="kind_note05">Не кладите устройство внутренним экраном вниз. Давление на гибкий экран может повредить его и повлиять на гарантию.</string>
+    <string name="kind_note06_cn">"Внутренний экран этого устройства покрыт специальной защитной пленкой. Не снимайте и не заменяйте внутреннюю защитную пленку самостоятельно, так как повреждение внутреннего экрана повлияет на гарантию. Если вам необходимо заменить защитную пленку, обратитесь в сервисную службу Xiaomi."</string>
+    <string name="kind_note06_global">"Внутренний экран этого устройства покрыт специальной защитной пленкой. Не снимайте и не заменяйте внутреннюю защитную пленку самостоятельно, так как это может повредить экран."</string>
+    <string name="kind_subtitle">В этом устройстве используется складной дизайн экрана. Чтобы защитить свое устройство, обратите внимание на следующее:</string>
+    <string name="kind_tip_details_inner_details">"Не нажимайте на экран острыми предметами (кончиками ручек, ногтями и т. д.) во время использования или переноски устройства. Прежде чем складывать устройство, убедитесь, что на внутреннем экране нет твердых предметов, таких как карты, монеты или ключи."</string>
+    <string name="kind_tip_details_inner_title">"Не нажимайте на внутренний экран острыми или твердыми предметами."</string>
+    <string name="kind_tip_details_pocket_details">"Складывайте устройство, когда вы им не пользуетесь. Избегайте контакта внутреннего экрана с острыми и твердыми предметами в сумке или кармане."</string>
+    <string name="kind_tip_details_pocket_title">"Не кладите устройство в развернутом виде в сумку или карман."</string>
+    <string name="kind_tip_details_protective_details_cn">"Внутренний экран этого устройства покрыт специальной защитной пленкой, для замены которой требуется профессиональное оборудование. Не снимайте и не заменяйте внутреннюю защитную пленку самостоятельно, так как повреждение внутреннего экрана повлияет на гарантию. Если вам необходимо заменить защитную пленку, обратитесь в сервисную службу Xiaomi."</string>
+    <string name="kind_tip_details_protective_details_global">Внутренний экран этого устройства покрыт специальной защитной пленкой. Удаление или замена пленки может привести к повреждению внутреннего экрана.</string>
+    <string name="kind_tip_details_protective_title">"Не снимайте внутреннюю защитную пленку самостоятельно."</string>
+    <string name="kind_tip_subtitle">Данное устройство оснащено складным экраном. Чтобы избежать повреждений и обеспечить нормальную работу экрана, во время использования соблюдайте следующие меры предосторожности.</string>
+    <string name="kind_tip_title">Внимание</string>
     <string name="ktlocation_U">(Агент обслуживания KT)</string>
     <string name="ktposition_header">Передача геопозиции аварийно-спасательным службам</string>
     <string name="language_picker_other_languages_title">Другие языки</string>
     <string name="language_settings">Выберите язык</string>
+    <string name="layout_size_huge">XL</string>
+    <string name="layout_size_large">Большой</string>
+    <string name="layout_size_normal">Обычный</string>
     <string name="locale_picker_other_locale_title">Другие регионы</string>
     <string name="locale_picker_title">Выберите ваш регион</string>
     <string name="location_content">В соответствии с законом, операторы мобильной связи могут получать геопозицию мобильных устройств для выполнения требований аварийно-спасательных органов (пожарных частей и полиции), которые преследуют цели обеспечения безопасности и аварийно-спасательных работ.</string>
@@ -562,9 +605,11 @@
     <string name="privacy_provision_title">Конфиденциальность</string>
     <string name="privacy_refuse">Не согласен</string>
     <string name="privacy_title">Условия и Политика конфиденциальности</string>
+    <string name="prompt_fingerprint">Для вашей учетной записи включена расширенная защита данных. Установите блокировку экрана для этого устройства.</string>
     <string name="protect_persoanl_info_statement">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности.</string>
     <string name="provide_date_management_service">Эта служба позволяет проверять дату и управлять мероприятиями</string>
     <string name="provision_back">Назад</string>
+    <string name="provision_complete_text">Далее</string>
     <string name="provision_inputmethod_policy_description"><Data>Просмотрите &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a > выбранной клавиатуры.</Data></string>
     <string name="provision_inputmethod_policy_description1">Политика конфиденциальности</string>
     <string name="provision_next">Далее</string>
@@ -587,8 +632,15 @@
     <string name="require_network_authority_statement">Для работы основных служб необходимы подключение к интернету и следующие разрешения для сбора вашей личной информации:</string>
     <string name="require_network_authority_statement_dual">Для нормальной работы этой службы необходимы подключение к интернету и следующие разрешения:</string>
     <string name="require_statement">Для работы основных служб необходимо предоставить следующие разрешения:</string>
+    <string name="require_telephone_imei">Считывание IMEI и IMSI</string>
+    <string name="require_telephone_imei_summary">Для доступа к IMEI</string>
+    <string name="require_telephone_location">Доступ к местоположению</string>
+    <string name="require_telephone_location_summary">Для получения доступа к приблизительному местоположению и предоставления услуг оптимизации сети на основе определения местоположения</string>
+    <string name="require_telephone_statement">Для предоставления базовых услуг требуются следующие разрешения:</string>
     <string name="safe_open_service">Защищённые открытые сервисы</string>
     <string name="safe_open_service_introduction">Защищённые открытые сервисы помогают разработчикам и предоставляют возможности обеспечения безопасности на системном уровне для защиты пользователей и их конфиденциальности</string>
+    <string name="sample_text_summary">Xiaomi неустанно создает потрясающие продукты по честным ценам, чтобы каждый человек в мире мог наслаждаться лучшей жизнью благодаря инновационным технологиям.</string>
+    <string name="sample_text_title">Пример текста:</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -665,6 +717,10 @@
     <string name="skip_gesture_guide_dialog_positive_btn">ОК</string>
     <string name="skip_gesture_guide_dialog_title">Экранная навигация</string>
     <string name="skip_underline">Пропустить</string>
+    <string name="software_account_mismatch">Верификация учетной записи</string>
+    <string name="software_account_mismatch_summary">Подтверждение учетной записи…</string>
+    <string name="software_version_mismatch">Неподдерживаемое программное обеспечение</string>
+    <string name="software_version_mismatch_summary">"Данная версия программного обеспечения не поддерживается вашим устройством. Ее использование может представлять угрозу безопасности. За подробностями обратитесь к своему торговому агенту."</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>
@@ -690,6 +746,8 @@
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="start_up_slogan">Жизнь становится проще</string>
+    <string name="startup_page_text_hint">Разверните, чтобы активировать устройство</string>
+    <string name="study_full_screen_gesture_text">Изучите навигационные жесты</string>
     <string name="summary_not_set">Не настроено</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
@@ -700,6 +758,9 @@
     <string name="system_update_title">Обновления системы</string>
     <string name="systemdesktop_introduction">Плагин службы Рабочего стола предоставляет такие функции, как Рабочий стол, системный пользовательский интерфейс и скриншоты.</string>
     <string name="term_condition_detail">Получайте ежедневно потрясающие изображения и захватывающие истории на экран блокировки. Эта функция не будет использовать ваши данные для персонализации без вашего согласия. Перед использованием этой функции, прочтите и примите &lt;a href =\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href =\"%2$s\">Пользовательское соглашение&lt;/a> стороннего поставщика контента.</string>
+    <string name="terms_and_statement_title">Условия и положения</string>
+    <string name="terms_of_label_period">". "</string>
+    <string name="terms_of_label_separator">", "</string>
     <string name="terms_of_label_space">" "</string>
     <string name="terms_of_use">Условия использования</string>
     <string name="terms_of_use_label_MSA">MSA</string>
@@ -743,6 +804,8 @@
     <string name="terms_of_use_label_updater">Служба обновления системы (проверяет наличие обновлений онлайн и уведомляет о новых версиях)</string>
     <string name="terms_of_use_label_use_location_and_network_global">Перед использованием системы прочтите и примите Пользовательское соглашение и Политику конфиденциальности, которые распространяются на приложения Xiaomi, предустановленные на устройстве (например, Галерея, Mi Музыка, Mi Браузер, Mi Видео, Темы). Мы обязуемся защищать вашу личную информацию в соответствии с действующими законами, правилами и политикой конфиденциальности. При активации устройства, следующие службы подключатся к сети и будут использовать геолокацию:</string>
     <string name="terms_of_use_label_use_network_china">Перед использованием системы Вы должны согласиться с нашим Пользовательским соглашением и Политикой конфиденциальности. Мы будем защищать вашу личную информацию в соответствии с действующими законами, правилами и политикой конфиденциальности. При активации устройства, следующие службы подключатся к сети:</string>
+    <string name="terms_of_use_label_use_network_china">Перед использованием системы Вы должны согласиться с нашим Пользовательским соглашением и Политикой конфиденциальности. Мы будем защищать вашу личную информацию в соответствии с действующими законами, правилами и политикой конфиденциальности. При активации устройства, следующие службы подключатся к сети:</string>
+    <string name="terms_of_use_label_use_network_china_append">Когда ваше устройство активировано, к сети подключатся следующие службы::</string>
     <string name="terms_of_use_label_wallpaper">Обои</string>
     <string name="terms_of_use_label_webview">Android System WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
@@ -806,6 +869,8 @@
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
     <string name="title_fingerprint">Включите защиту</string>
+    <string name="title_fingers_and_faces">Установите данные отпечатка пальца и лица</string>
+    <string name="title_only_fingerprint">Установить отпечаток пальца</string>
     <string name="title_set_fingerprint">Блокировка экрана</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
