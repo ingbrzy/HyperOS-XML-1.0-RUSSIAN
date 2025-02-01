@@ -173,7 +173,9 @@
     <string name="context_menu_add_to_browser_favorite">Добавить в закладки браузера</string>
     <string name="context_menu_browse_web">Перейти</string>
     <string name="context_menu_call">Вызвать</string>
+    <string name="context_menu_call_phone">Вызвать</string>
     <string name="context_menu_copy">Копировать</string>
+    <string name="context_menu_copy_link">Копировать URL</string>
     <string name="context_menu_copy_notice">Скопировано в буфер обмена</string>
     <string name="context_menu_new_contact">Новый контакт</string>
     <string name="context_menu_send_mail">Отправить Email</string>
