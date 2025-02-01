@@ -76,6 +76,8 @@
     <string name="add_home_icon_success">Успешно добавлено</string>
     <string name="add_resource_detail_fail">Не удалось добавить ресурс</string>
     <string name="afternoon">После полудня</string>
+    <string name="ai_read_the_privacy_policy">&lt;Data>Прочтите и согласитесь с &lt;a href=\"%1$s\">Пользовательским соглашением&lt;/a> и &lt;a href=\"%2$s\">Политикой конфиденциальности&lt;/a> для продолжения.&lt;/Data></string>
+    <string name="ai_read_the_privacy_policy_pad">&lt;Data>Прочтите и согласитесь с &lt;a href=\"%1$s\">Пользовательским соглашением&lt;/a> и &lt;a href=\"%2$s\">Политикой конфиденциальности обоев и персонализации&lt;/a> для продолжения..&lt;/Data></string>
     <string name="air_quality_index_abbreviation">ИКВ</string>
     <string name="all_resources">Все</string>
     <string name="allow">Предоставлено</string>
