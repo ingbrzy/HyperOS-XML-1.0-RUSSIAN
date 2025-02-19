@@ -37,7 +37,7 @@
     <string name="account_add_title">Выберите почтовый сервис</string>
     <string name="account_change">Переключить аккаунт</string>
     <string name="account_child_dialog_neg_text">Выход</string>
-    <string name="account_child_dialog_pos_text">Согласие Guardian</string>
+    <string name="account_child_dialog_pos_text">Согласие</string>
     <string name="account_child_dialog_text">"Если Вам не исполнилось 14 лет, сообщите своему опекуну, что он должен прочесть и согласиться с \"Положением Kingsoft о защите личных данных несовершеннолетних\". Вы также должны получить его согласие, прежде чем использовать наши услуги или отправлять нам какую-либо личную информацию.
 Чтобы полностью понимать свои права как пользователя, а также способы обработки Ваших данных, прочтите \"Заявление Kingsoft о защите личных данных несовершеннолетних\"."</string>
     <string name="account_child_dialog_title">Заявление о защите личных данных несовершеннолетних</string>
