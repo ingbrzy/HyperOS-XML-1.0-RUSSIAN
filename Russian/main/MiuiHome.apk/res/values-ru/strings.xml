@@ -549,6 +549,8 @@
     <string name="navigation_guide_appswitch_title">Предыдущее приложение</string>
     <string name="navigation_guide_back_summary">Проведите влево или вправо от края экрана</string>
     <string name="navigation_guide_back_title">Возврат</string>
+    <string name="navigation_guide_circle_search_summary">Нажмите и удерживайте полосу навигации, чтобы использовать круг для поиска</string>
+    <string name="navigation_guide_circle_search_title">Круг для поиска</string>
     <string name="navigation_guide_dialog_dont_show_again">Больше не показывать</string>
     <string name="navigation_guide_dialog_ok">Ознакомиться</string>
     <string name="navigation_guide_dialog_skip">Отмена</string>
