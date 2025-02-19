@@ -68,6 +68,7 @@
     <string name="business_copy">Копировать</string>
     <string name="business_new_contacts">Создать контакт</string>
     <string name="business_no_result">Не удалось распознать визитку. Повторите попытку.</string>
+    <string name="button_revoke_privacy_consent">Отзыв согласия</string>
     <string name="calender">Календарь</string>
     <string name="call_anyone">Вызов</string>
     <string name="call_phone_permissions_text">Для использования этой функции, разрешите Сканеру совершать вызовы</string>
@@ -167,6 +168,7 @@
     <string name="crop_title_translation">Выберите текст для перевода</string>
     <string name="cropping">Обрезка…</string>
     <string name="current_word_is_locked">Слово заблокировано</string>
+    <string name="customer_service_call">Горячая линия по обслуживанию клиентов</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="delete">Удалить</string>
@@ -316,6 +318,8 @@
     <string name="identify_the_results">Получение результатов</string>
     <string name="if_open_result">Показывать результат сканирования в приложении</string>
     <string name="if_to_open_milogo_scanning">Распознавание логотипа Xiaomi</string>
+    <string name="image_recognition_optimization">Оптимизация распознавания изображений</string>
+    <string name="image_recognition_optimization_summary">Разрешать загружать изображения и использовать их для улучшения алгоритмов</string>
     <string name="immediately_try">Сканирование</string>
     <string name="immediately_try_video">Сканирование</string>
     <string name="importFailed">Не удалось импортировать</string>
@@ -480,6 +484,8 @@
     <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
+    <string name="multi_qr_hint_message">Нажмите на стрелку, чтобы перейти на страницу</string>
+    <string name="multipage_mode">Многостраничное сканирование</string>
     <string name="my_document">Мои документы</string>
     <string name="name">Имя: </string>
     <string name="network_name">"SSID: "</string>
