@@ -2964,7 +2964,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="intl_app_manager_card_permission_title">Конфиденциальность и разрешения</string>
     <string name="intl_perm_intro_message">Нажмите для настройки разрешений, чтобы избежать утечки данных</string>
     <string name="intl_perm_notification_content">Настройка разрешений</string>
-    <string name="intl_perm_notification_title">Защита приватности</string>
+    <string name="intl_perm_notification_title">Приватность</string>
     <string name="intl_perm_privacy_control_calendar">Приложение сможет получать доступ или редактировать календарь только когда вы используете его</string>
     <string name="intl_perm_privacy_control_calllog">Приложение сможет получать доступ или редактировать журнал вызовов только когда вы используете его</string>
     <string name="intl_perm_privacy_control_camera">Приложение сможет получать доступ к камере только когда вы используете его</string>
@@ -2973,7 +2973,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="intl_perm_privacy_control_message">Контроль использования личных данных в приложениях</string>
     <string name="intl_perm_privacy_control_microphone">Приложение сможет получать доступ к микрофону только когда вы используете его</string>
     <string name="intl_perm_privacy_control_notification_message">Контроль использования личных данных в приложениях</string>
-    <string name="intl_perm_privacy_control_notification_title">Защита приватности</string>
+    <string name="intl_perm_privacy_control_notification_title">Приватность</string>
     <string name="intl_perm_privacy_control_storage">Приложение сможет получать доступ или редактировать файлы во внутренней памяти только когда вы используете его</string>
     <string name="intl_perm_privacy_control_title">Контроль конфиденциальности</string>
     <string name="invalid_charger">Не удаётся зарядить через USB. Используйте зарядное устройство, которое поставляется с вашим устройством.</string>
@@ -3633,7 +3633,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="once_settings_camera_ttile">Отправить без метаданных</string>
     <string name="once_settings_location_title">Отправить без геопозиции</string>
     <string name="once_settings_subtitle">Как вы хотите поделиться выбранными файлами?</string>
-    <string name="once_settings_title">Защита приватности</string>
+    <string name="once_settings_title">Приватность</string>
     <string name="one_address_choose_hint">%s1</string>
     <string name="open_activity_err">Приложение не найдено</string>
     <string name="open_alarm_right_now">Открыть</string>
@@ -4188,7 +4188,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="phone_manage_clean_title">Очистка</string>
     <string name="phone_manage_electric_summary">Экономия заряда и настройки</string>
     <string name="phone_manage_electric_title">Батарея</string>
-    <string name="phone_manage_privacy_title">Защита приватности</string>
+    <string name="phone_manage_privacy_title">Приватность</string>
     <string name="phone_manage_recent_use">Недавние</string>
     <string name="phone_manage_special_summary">Ознакомьтесь с новыми функциями</string>
     <string name="phone_manage_special_title">Специальные функции</string>
@@ -4840,7 +4840,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_prompt_tc_sms_report_message">Ваш номер телефона и данные оператора будут зашифрованы и загружены на серверы Mi для обновления статистики трафика.</string>
     <string name="privacy_prompt_upload">Отправить</string>
     <string name="privacy_protect_summary">Защита ваших личных данных</string>
-    <string name="privacy_protect_title">Защита приватности</string>
+    <string name="privacy_protect_title">Приватность</string>
     <string name="privacy_provision_back">Назад</string>
     <string name="privacy_provision_more">Узнайте больше о защите приватности</string>
     <string name="privacy_provision_next">Далее</string>
@@ -4901,7 +4901,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_risk_result_photo_delete">Уведомлять об удалении фотографиях</string>
     <string name="privacy_risk_result_photo_delete_msg">Уведомлять об удалении файлов из галереи без подтверждения</string>
     <string name="privacy_risk_result_photo_sensitive">Ваши фотографии содержат личную информацию</string>
-    <string name="privacy_risk_result_protection">Защита приватности</string>
+    <string name="privacy_risk_result_protection">Приватность</string>
     <string name="privacy_risk_result_screen_fuzzy">Размытие миниатюр</string>
     <string name="privacy_risk_result_screen_fuzzy_msg">Размытие миниатюр конфиденциальных приложений в Недавних</string>
     <string name="privacy_risk_result_screen_shield_msg">Приложения с конфиденциальной личной информацией будут отображаться в Недавних в виде размытых миниатюр</string>
@@ -5444,7 +5444,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sp_power_off_password_summary">Запрос пароля перед выключением устройства</string>
     <string name="sp_power_off_password_title">Подтверждение выключения</string>
     <string name="sp_privacy_protect_summary">Защита личной информации</string>
-    <string name="sp_privacy_protect_title">Защита приватности</string>
+    <string name="sp_privacy_protect_title">Приватность</string>
     <string name="sp_property_security_title">Финансовая безопасность</string>
     <string name="sp_safe_install_mode_title">Mi Защита</string>
     <string name="sp_scan_item_monitor">Мониторинг платежей</string>
