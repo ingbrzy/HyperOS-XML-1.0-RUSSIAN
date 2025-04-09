@@ -3560,6 +3560,9 @@ ID: %s
     <string name="turn_on_sync">Синхронизировать</string>
     <string name="unchecked">Выбор отменён</string>
     <string name="unchecked_something">Выбор %s отменён</string>
+    <string name="universal_pick_bottom_bar_privacy_info_hide">Нет информации о местоположении</string>
+    <string name="universal_pick_bottom_bar_privacy_info_no_hide">Содержит информацию о местоположении</string>
+    <string name="universal_pick_bottom_bar_selected_content">Показать выбранные элементы</string>
     <string name="unknown_error_info">Неизвестная ошибка</string>
     <string name="unpublish_failed">Ошибка закрытия доступа</string>
     <string name="unpublish_succeeded">Общий доступ к альбому закрыт</string>
