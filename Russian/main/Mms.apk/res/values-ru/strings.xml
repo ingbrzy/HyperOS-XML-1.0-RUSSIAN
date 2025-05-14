@@ -544,7 +544,9 @@
     <string name="mx_current_status">Настройки</string>
     <string name="mx_dspt">Бесплатно отправляйте SMS и MMS другим пользователям Xiaomi при подключении к Wi-Fi</string>
     <string name="mx_dspt_listview">Бесплатно отправляйте сообщения другим пользователям Xiaomi</string>
+    <string name="mx_dspt_listview_translation_for_pad">"Отправляйте сообщения на другие устройства Xiaomi без взимания платы при подключении к интернету"</string>
     <string name="mx_dspt_provision_ex2">Политика конфиденциальности</string>
+    <string name="mx_dspt_translation_for_pad">"Отправляйте сообщения на другие устройства Xiaomi без взимания платы при подключении к интернету"</string>
     <string name="mx_enable">Mi Сообщения</string>
     <string name="mx_filter_message_from_stranger">Блокировать Mi сообщения с неизвестных номеров</string>
     <string name="mx_filter_message_from_stranger_dialog_desc">Вы по-прежнему сможете получать SMS с неизвестных номеров. Включить или отключить эту функцию можно в разделе Сообщения &gt; Настройки.</string>
