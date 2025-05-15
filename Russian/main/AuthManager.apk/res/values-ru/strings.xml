@@ -82,6 +82,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Запрос номера телефона у оператора связи для входа в систему</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Если не удалось войти в систему одним нажатием, вернитесь на страницу входа и повторите попытку</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Приложение пытается запросить ваш номер телефона у оператора связи для входа в систему. Разрешить?</string>
+    <string name="HIPS_Perm_operator_read_note">Доступ к заметкам</string>
+    <string name="HIPS_Perm_operator_read_record">Доступ к диктофону</string>
     <string name="HIPS_Perm_operator_shake">Данные акселерометра</string>
     <string name="HIPS_Perm_operator_shake_Desc">Доступ к данным акселерометра для отслеживания ориентации и движения (например, тряски, наклона и вращения)</string>
     <string name="HIPS_Perm_operator_wall_paper">Службы динамических обоев</string>
@@ -300,11 +302,13 @@
     <string name="not_set">Не задано</string>
     <string name="notification_click_tip">Подробности</string>
     <string name="ok">OК</string>
+    <string name="overlay_read_clip_toast">\"%1$s\" получили доступ к буферу обмена</string>
     <string name="perm_action_allow">Разрешить</string>
     <string name="perm_action_deny">Запретить</string>
     <string name="perm_educate_post_notification">Уведомления могут сопровождаться звуком и вибрацией при появлении в шторке уведомлений и на значках приложений на рабочем столе. Параметры уведомлений можно изменить в Настройках.</string>
     <string name="perm_modem_location">Использование геолокации</string>
     <string name="perm_modem_location_desc">Разрешить оператору связи получать вашу геопозицию</string>
+    <string name="permdesc_accept_handover">Разрешить %1$s продолжить вызовы, начатые другими приложениями?</string>
     <string name="permdesc_add_voicemail">Разрешить %1$s добавлять голосовые сообщения?</string>
     <string name="permdesc_call_phone">Разрешить %1$s вызовы?</string>
     <string name="permdesc_camera">Разрешить %1$s съёмку фото и видео?</string>
@@ -315,6 +319,7 @@
     <string name="permdesc_location_background">Разрешить %1$s использовать геолокацию в фоновом режиме?</string>
     <string name="permdesc_microphone">Разрешить %1$s использовать микрофон для записи аудио?</string>
     <string name="permdesc_nearby_devices">Разрешить %1$s поиск устройств поблизости и подключение к ним?</string>
+    <string name="permdesc_nearby_wifi_devices">Разрешить %1$s доступ к блилежайшим устройствам?</string>
     <string name="permdesc_post_notification">Разрешить %1$s отправку уведомлений?</string>
     <string name="permdesc_process_outgoing_call">Разрешить %1$s принимать и завершать вызовы?</string>
     <string name="permdesc_read_calendar">Разрешить %1$s доступ к мероприятиям календаря?</string>
