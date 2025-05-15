@@ -80,6 +80,11 @@
     <string name="bt_enable_pair_connect_ok">Подключить</string>
     <string name="bt_enable_pair_connect_succceed">Успешно подключено</string>
     <string name="bt_enable_pair_connecting">Подключение…</string>
+    <string name="bubble_app_empty_page">Не удалось найти приложения, поддерживающие диалоговые пузыри на этом устройстве.</string>
+    <string name="bubble_app_manage">Управление диалоговыми пузырями</string>
+    <string name="bubble_notification">Диалоговые пузыри</string>
+    <string name="bubble_notification_switch">Показывать диалоговые пузыри</string>
+    <string name="bubble_notification_switch_desc">Когда приложение для обмена сообщениями в плавающем окне скрыто на краю экрана, отображать входящие сообщения в виде пузырей</string>
     <string name="builtin_keyboard_settings_title">Физическая клавиатура</string>
     <string name="button_input_password">Введите пароль</string>
     <string name="button_text_next_step">Далее</string>
