@@ -173,10 +173,13 @@
     <string name="accessibility_enable">Включить</string>
     <string name="accessibility_ethernet_connected">Ethernet.</string>
     <string name="accessibility_ethernet_disconnected">Ethernet отключён.</string>
+    <string name="accessibility_feature_shortcut_setting_summary_quick_settings">Быстрые настройки</string>	
     <string name="accessibility_feature_state_off">Отключено</string>
     <string name="accessibility_feature_state_on">Включено</string>
     <string name="accessibility_fingerprint_label">Сканер отпечатков</string>
     <string name="accessibility_font_scaling_auto_added_qs_tooltip_content">"Выбор размера шрифта добавлен в Быстрые настройки. Чтобы изменить размер шрифта, проведите по экрану вниз."</string>
+    <string name="accessibility_force_invert_summary">Применяется к приложениям без собственной темной темы оформления. В некоторых приложениях могут быть проблемы с отображением</string>
+    <string name="accessibility_force_invert_title">Сделать приложения темными</string>
     <string name="accessibility_found_all_devices">"Не нашли свой слуховой аппарат?"</string>
     <string name="accessibility_found_hearing_devices">"Доступные слуховые аппараты"</string>
     <string name="accessibility_global_gesture_preference_title">Быстрое включение</string>
@@ -187,6 +190,7 @@
     <string name="accessibility_hearing_device_connected_title">"Слуховые аппараты"</string>
     <string name="accessibility_hearing_device_control">"Управление слуховым аппаратом"</string>
     <string name="accessibility_hearing_device_footer_summary">"Убедитесь, что ваш слуховой аппарат работает и готов к подключению."</string>
+    <string name="accessibility_hearing_device_pairing_intro">На этой странице вы можете выполнить сопряжение слуховых аппаратов ASHA и LE Audio. Убедитесь, что ваш слуховой аппарат включен и готов к сопряжению.</string>
     <string name="accessibility_hearing_device_pairing_page_title">"Подключение аппарата"</string>
     <string name="accessibility_hearing_device_pairing_title">"Добавить устройство"</string>
     <string name="accessibility_hearing_device_saved_title">"Сохраненные аппараты"</string>
@@ -205,8 +209,8 @@
     <string name="accessibility_hearingaid_title">Слуховые аппараты</string>
     <string name="accessibility_interactive_haptics_category_title">Виброотклик</string>
     <string name="accessibility_introduction_title">Описание \"%1$s\"</string>
+    <string name="accessibility_keyboard_vibration_title">Вибрация клавиатуры</string>
     <string name="accessibility_list_all_devices_title">"Другие устройства"</string>
-    <string name="accessibility_lock_screen_progress">"Использовано %1$d из %2$d символов"</string>
     <string name="accessibility_long_press_timeout_preference_title">Задержка при нажатии и удержании</string>
     <string name="accessibility_magnification_area_settings_all_summary">Переключаться между полноэкранным режимом и частью экрана</string>
     <string name="accessibility_magnification_area_settings_full_screen_summary">Весь экран</string>
@@ -218,6 +222,10 @@
     <string name="accessibility_magnification_mode_dialog_option_window">Увеличение части экрана</string>
     <string name="accessibility_magnification_mode_dialog_title">Выбор режима увеличения экрана</string>
     <string name="accessibility_magnification_mode_title">Режим увеличения</string>
+    <string name="accessibility_magnification_one_finger_panning_summary_off">Переместите область увеличения, перемещая ее двумя пальцами.</string>
+    <string name="accessibility_magnification_one_finger_panning_summary_on">Переместите область увеличения, проведя по ней одним пальцем.</string>
+    <string name="accessibility_magnification_one_finger_panning_summary_unavailable">Недоступно при увеличении только части экрана</string>
+    <string name="accessibility_magnification_one_finger_panning_title">Панорамирование одним пальцем</string>	
     <string name="accessibility_magnification_service_settings_title">Настройки увеличения</string>
     <string name="accessibility_magnification_switch_shortcut_message">"Увеличение части экрана тройным нажатием приведет к задержкам при вводе текста и выполнении других действий.
 
@@ -253,8 +261,8 @@
     <string name="accessibility_notification_vibration_title">Вибрация при оповещении</string>
     <string name="accessibility_one_handed_mode_auto_added_qs_tooltip_content">Режим управления одной рукой добавлен в Быстрые настройки. Чтобы включить или отключить его, проведите вниз по экрану.</string>
     <string name="accessibility_one_handed_mode_qs_tooltip_content">Вы также можете добавить режим управления одной рукой в Быстрые настройки в верхней части экрана</string>
-    <string name="accessibility_pair_hearing_device_about_title">"О подключении нового аппарата"</string>
     <string name="accessibility_personal_account_title">Личный аккаунт – %s</string>
+    <string name="accessibility_phone_four_bars">Телефон в 4 бара</string>
     <string name="accessibility_phone_one_bar">Сигнал сети: одно деление.</string>
     <string name="accessibility_phone_signal_full">Сигнал сети полный.</string>
     <string name="accessibility_phone_three_bars">Сигнал сети: три деления.</string>
@@ -268,12 +276,12 @@
     <string name="accessibility_screen_magnification_about_title">Об увеличении изображения на экране</string>
     <string name="accessibility_screen_magnification_always_on_summary">"Лупа остается включенной. Масштаб уменьшается при переключении приложений."</string>
     <string name="accessibility_screen_magnification_always_on_title">"Не отключать при смене приложений"</string>
+    <string name="accessibility_screen_magnification_always_on_unavailable_summary">Недоступно при увеличении только части экрана</string>
     <string name="accessibility_screen_magnification_enable">Жесты увеличения</string>
     <string name="accessibility_screen_magnification_follow_typing_summary">Перемещать лупу по мере ввода текста</string>
     <string name="accessibility_screen_magnification_follow_typing_title">Лупа при вводе текста</string>
     <string name="accessibility_screen_magnification_footer_learn_more_content_description">Подробнее об увеличении изображения на экране…</string>
     <string name="accessibility_screen_magnification_gesture_navigation_warning">Жест спец. возможностей настроен на %1$s. Чтобы использовать увеличение, проведите двумя пальцами вверх от нижней части экрана и удерживайте. Затем выберите увеличение.</string>
-    <string name="accessibility_screen_magnification_gestures_title">Увеличение по тройному касанию</string>
     <string name="accessibility_screen_magnification_intro_text">Быстрое увеличение масштаба.</string>
     <string name="accessibility_screen_magnification_joystick_summary">"Активируйте и перемещайте лупу с помощью экранного джойстика. Чтобы управлять лупой, нажмите на джойстик, удерживайте его, а затем перетащите. Чтобы переместить сам джойстик, нажмите на него и перетащите."</string>
     <string name="accessibility_screen_magnification_joystick_title">"Джойстик"</string>
@@ -4725,6 +4733,7 @@ ID: %s
     <string name="help_url_app_usage_settings" />
     <string name="help_url_apps_and_notifications" />
     <string name="help_url_audio_accessory_not_supported" />
+    <string name="help_url_audio_sharing" />
     <string name="help_url_auto_brightness" />
     <string name="help_url_auto_rotate_settings" />
     <string name="help_url_autoclick" />
@@ -4739,11 +4748,11 @@ ID: %s
     <string name="help_url_color_correction" />
     <string name="help_url_color_inversion" />
     <string name="help_url_connected_devices" />
+    <string name="help_url_connected_devices_fast_pair_devices" />
     <string name="help_url_dark_theme" />
     <string name="help_url_data_saver" />
     <string name="help_url_data_usage" />
     <string name="help_url_development_memtag" />
-    <string name="help_url_display_size" />
     <string name="help_url_dock_defender" />
     <string name="help_url_double_tap_screen" />
     <string name="help_url_dreams" />
@@ -4751,7 +4760,6 @@ ID: %s
     <string name="help_url_face" />
     <string name="help_url_fingerprint" />
     <string name="help_url_flash_notifications" />
-    <string name="help_url_font_size" />
     <string name="help_url_gestures" />
     <string name="help_url_icc_lock" />
     <string name="help_url_incompatible_charging" />
@@ -4789,6 +4797,7 @@ ID: %s
     <string name="help_url_vpn" />
     <string name="help_url_wifi" />
     <string name="help_url_wifi_p2p" />
+    <string name="help_url_wireless_charging" />
     <string name="hidden_ssid_label">Скрытый SSID:</string>
     <string name="hide_extra_apps">Использование приложений</string>
     <string name="hide_silent_icons_summary">Не показывать значки беззвучных уведомлений в строке состояния</string>
@@ -10568,6 +10577,7 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="turn_on_wifi">Включить Wi-Fi</string>
     <string name="turn_screen_on_title">Включение экрана</string>
     <string name="turn_update_keyguard_password_wait_dialog">Изменение пароля…</string>
+    <string name="twenty_four_select_time_format">24-часовой формат</string>	
     <string name="twilight_mode_launch_location">Использование геолокации</string>
     <string name="twilight_mode_location_off_dialog_message">Чтобы определять время заката и рассвета, разрешите использовать геолокацию</string>
     <string name="twohours">1 час</string>
