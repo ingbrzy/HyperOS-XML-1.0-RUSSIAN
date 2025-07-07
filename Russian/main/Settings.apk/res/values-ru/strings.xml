@@ -4683,6 +4683,8 @@ ID: %s
     <string name="headset_spatial_audio">Объемный звук</string>
     <string name="headset_toast_tip_disconnect_others">Возможно, наушники подключены к другому устройству</string>
     <string name="headset_unsaved_devices">Используется на других устройствах</string>
+    <string name="health_use_of_pad">Использование устройства</string>
+    <string name="health_use_of_phone">Использование устройства</string>
     <string name="hearing_aids_category">Вспомогательные инструменты</string>
     <string name="heavy_weight_stop_description">Если закрыть это приложение, несохранённые данные могут быть потеряны.</string>
     <string name="height_light_list_text">Список важных пунктов</string>
@@ -7912,8 +7914,8 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_password_use_finger_success">Включено</string>
     <string name="privacy_password_visible_pattern">Показывать ключ</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
-    <string name="privacy_protect_title">Защита приватности</string>
-    <string name="privacy_protection">Защита приватности</string>
+    <string name="privacy_protect_title">Приватность</string>
+    <string name="privacy_protection">Приватность</string>
     <string name="privacy_protection_title">Конфиденциальность</string>
     <string name="privacy_relative">Разрешения приватности</string>
     <string name="privacy_settings">Резервное копирование</string>
