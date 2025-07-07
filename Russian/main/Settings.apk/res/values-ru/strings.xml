@@ -4549,6 +4549,7 @@ ID: %s
     <string name="gxzw_add_fingerprint_put_finger_title">Нажмите и отпустите после вибрации</string>
     <string name="gxzw_add_fingerprint_title">Добавление отпечатка</string>
     <string name="gxzw_anim_aurora">Аврора</string>
+    <string name="gxzw_anim_category_mini">Минимализм</string>
     <string name="gxzw_anim_dialog_cancel_enroll">Отмена</string>
     <string name="gxzw_anim_dialog_enroll">ОК</string>
     <string name="gxzw_anim_dialog_message">Добавьте отпечаток, для отображения его анимации. Добавить?</string>
@@ -4557,6 +4558,7 @@ ID: %s
     <string name="gxzw_anim_pulse">Пульс</string>
     <string name="gxzw_anim_rhythm">Ритм</string>
     <string name="gxzw_anim_star">Звезды</string>
+    <string name="gxzw_anim_switch">Анимация отпечатка</string>
     <string name="gxzw_anim_title">Анимация отпечатка</string>
     <string name="gxzw_aod_show_summary">Поднимите устройство или коснитесь экрана, чтобы появился значок отпечатка. Эта функция увеличивает расход батареи, но позволяет разблокировать устройство быстрее.</string>
     <string name="gxzw_aod_show_tittle">Показывать значок отпечатка при выключенном экране</string>
