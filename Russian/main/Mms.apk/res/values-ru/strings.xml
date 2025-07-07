@@ -168,6 +168,8 @@
     <string name="confirm_send_mms">Один из контактов получателей содержит адрес Email. Это сообщение будет отправлено как MMS, за которое может взиматься дополнительная плата оператором.</string>
     <string name="contact_card_unknown_contact">Неизвестный контакт</string>
     <string name="contact_not_exists">"Этого человека нет в списке ваших контактов."</string>
+    <string name="contain_invalid_recipient">Похоже, вы ввели неверное имя получателя.</string>
+    <string name="context_menu_access_link">Перейти по ссылке</string>
     <string name="context_menu_add_calendar">Добавить в календарь</string>
     <string name="context_menu_add_contact">Добавить к контакту</string>
     <string name="context_menu_add_to_browser_favorite">Добавить в закладки браузера</string>
