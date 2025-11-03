@@ -1086,6 +1086,7 @@
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_conversation_title">Уведомления</string>
     <string name="sp_mark_as_read_menu_title">Прочитано</string>
+    <string name="sp_mark_as_unread_menu_title">Не прочитано</string>
     <string name="sqlite_low_memory">Недостаточно места</string>
     <string name="status_failed">Сбой</string>
     <string name="status_label">"Статус: "</string>
