@@ -2914,4 +2914,5 @@
     <string name="xiaomi_update_sdk_dialog_title">%1$s обновление!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Накопитель недоступен, проверьте SD-карту.</string>
     <string name="yesterday">Вчера</string>
+    <string name="hev">Полный</string>
 </resources>
