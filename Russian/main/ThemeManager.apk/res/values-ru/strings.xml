@@ -255,6 +255,10 @@
     <string name="card_loading">Подождите…</string>
     <string name="card_no_network">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
     <string name="card_retry">Повторить</string>
+    <string name="carousel_no_set_wallpaper_effects">Невозможно установить эффекты, когда включена функция «Карусель обоев»</string>
+    <string name="carousel_wallpaper">Перемешать обои</string>
+    <string name="carousel_wallpaper_dlg_apply_home_btn">Только главный экран</string>
+    <string name="carousel_wallpaper_dlg_apply_lock_btn">Применить этот набор обоев также и к экрану блокировки</string>
     <string name="change_host_hint">Сменить хост</string>
     <string name="change_wallpaper">Обои</string>
     <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
