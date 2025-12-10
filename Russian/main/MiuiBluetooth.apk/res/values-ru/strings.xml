@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_Action_Accept">Разрешить</string>
+    <string name="HIPS_Action_Reject">Отклонить</string>
+    <string name="Location_map_of_nearby_title">Расположения ближайших объектов</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Ещё</string>
@@ -416,9 +419,26 @@
     <string name="not_set">Не задано</string>
     <string name="notify_device_lose_connection_text">Нажмите для отключения %1$s</string>
     <string name="notify_device_lose_connection_title">Потеряно соединение с %1$s</string>
+    <string name="offline_app_name">Офлайн-связь Xiaomi</string>
+    <string name="offline_call_nearby_device_refresh">Обновить</string>
+    <string name="offline_call_nearby_device_refreshing">Сканирование устройств</string>
+    <string name="offline_call_nearby_device_title">Люди рядом</string>
+    <string name="offline_call_nearby_dialog_message">"Вы можете перейти по  %1$s's местоположение или позвоните %1$s."</string>
+    <string name="offline_call_nearby_dialog_negative">Навигация</string>
+    <string name="offline_call_nearby_dialog_positive">Звонок</string>
+    <string name="offline_call_settings_summary">Общайтесь с находящимися рядом телефонами Xiaomi в автономном режиме, если Bluetooth включен на обоих устройствах</string>
+    <string name="offline_call_callable_all">Все</string>
+    <string name="offline_call_callable_close">Отключено</string>
+    <string name="offline_call_callable_only_contact">Только контакты</string>
+    <string name="offline_call_callable_title">Кто может мне позвонить</string>
+    <string name="offline_call_show_location_title">Поделиться своим местоположением</string>
+    <string name="offline_call_notification_broadcast_close">Выключить</string>
+    <string name="offline_call_notification_broadcast_location">Функция «Офлайн-коммуникация Xiaomi» передает информацию о вашем местоположении.</string>
+    <string name="offline_call_notification_broadcast_start">Офлайн-коммуникация Xiaomi трансляцию.</string>
     <string name="ok_button">ОК</string>
     <string name="perm_ble_des">Доступ к настройкам BLE</string>
     <string name="perm_ble_lab">Доступ к настройкам BLE</string>
+    <string name="permgroupdesc_location">Разрешить %1$s получать доступ к информации о местоположении?</string>
     <string name="play_decode_audio">Воспроизведение аудио</string>
     <string name="plugin_alert_cancel">Позже</string>
     <string name="plugin_alert_kill">Перезапуск</string>
@@ -563,6 +583,11 @@
     <string name="unbind_device_alert_ok">Отключить</string>
     <string name="unbind_device_alert_title">Отключите устройство</string>
     <string name="uninstall_all_deferred">Удалить все отложенные модули</string>
+    <string name="user_agreement_cancel">Отмена</string>
+    <string name="user_agreement_confirm">Согласиться</string>
+    <string name="user_agreement_content">"Офлайн-связь Xiaomi представляет собой услугу голосовых вызовов на основе Bluetooth (далее именуемую \"Сервис\") предоставлено Xiaomi Inc. (именуемый в дальнейшем \"Xiaomi\", \"мы\", \"наш\", или \"нас\"). Мы серьезно относимся к защите вашей конфиденциальности и персональных данных. Мы предоставим соответствующие меры защиты ваших персональных данных в соответствии с требованиями законодательства и отраслевыми стандартами..&lt;br> &lt;b>При включении этой функции мы получим доступ к вашим контактам, номеру телефона, статусу входа в учетную запись Xiaomi, MAC-адресу Bluetooth, статусу вызовов и состоянию SIM-карты, что позволит вам общаться с выбранными контактами даже без подключения к интернету.. &lt;/b> &lt;br> &lt;b>Когда вы включаете \"Местоположение\" и \"Автоматическое включение при землетрясении\", Мы получим информацию о вашем точном местоположении, чтобы показать её выбранным вами контактам..&lt;/b> &lt;br> &lt;b>Эта информация будет обрабатываться только на вашем устройстве и не будет загружена в облако..&lt;/b> &lt;br> Для использования функции автономной связи Xiaomi требуются следующие разрешения: &lt;br> &amp;bull; Разрешения Bluetooth: для совершения голосовых вызовов на находящиеся поблизости устройства&lt;br> &amp;bull; Доступ к контактам: для поиска и звонка контактам поблизости&lt;br> &amp;bull; Разрешение на подключение к интернету: для подключения к сети и доступа к содержимому карты&lt;br> &amp;bull; Местоположение доступа: для отображения точного местоположения выбранным контактам&lt;br> &amp;bull; Права доступа к телефону: для доступа к статусу вызова (функция автономной связи Xiaomi недоступна во время активного вызова)&lt;br> Если вы не согласны с вышеуказанными условиями, вы не сможете пользоваться этим сервисом..&lt;br> Некоторые функции предоставляются сторонними поставщиками услуг. По этой причине нам необходимо передавать часть вашей личной информации этим третьим сторонам. &lt;a href=https://privacy.mi.com/Bluetoothcall-Share/>Нажмите, чтобы посмотреть&lt;/a> обстоятельства, при которых мы передаем вашу личную информацию нашим аффилированным компаниям, партнерам и третьим сторонам..&lt;br> Мы будем обрабатывать ваши персональные данные только в течение периода сбора, как описано в данном заявлении о конфиденциальности или в соответствии с требованиями применимого законодательства.&lt;br> Мы создали специальный отдел по защите персональных данных. Если у вас есть какие-либо вопросы или комментарии по поводу данного заявления о конфиденциальности, а также по поводу сбора, использования или раскрытия нами ваших персональных данных, вы можете связаться с нами по указанным контактным данным &lt;a href=https://privacy.mi.com/support  >https://privacy.mi.com/support&lt;/a>. Как правило, мы отвечаем в течение пятнадцати рабочих дней.&lt;br>
+    Нажмите \"Согласиться\" чтобы подтвердить, что вы прочитали и согласны с данным заявлением о конфиденциальности."</string>
+    <string name="user_agreement_title">Конфиденциальность Xiaomi в отношении офлайн-коммуникаций</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="warm_prompt">Совет</string>
