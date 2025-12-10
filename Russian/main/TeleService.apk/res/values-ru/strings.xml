@@ -1739,6 +1739,8 @@
     <string name="prompt_to_turnoff_volte_when_supp_service">Услуга недоступна. Отключите VoLTE в Настройках.</string>
     <string name="prompt_when_turnon_volte_on_3g_prefered">Перед включением VoLTE выберите LTE в качестве предпочтительного типа сети.</string>
     <string name="prompt_when_turnon_volte_without_lte">Сети VoLTE недоступны. Включение VoLTE может помешать вам выполнять обычные вызовы.</string>
+    <string name="offline_call">Офлайн-связь Xiaomi</string>
+    <string name="offline_call_summary">Звоните на находящиеся рядом телефоны Xiaomi через Bluetooth без подключения к сети</string>
     <string name="pstn_connection_service_label">Встроенные SIM-карты</string>
     <string name="pstn_phone">Вызов по сотовой сети</string>
     <string name="puk2_blocked">PUK2 заблокирован навсегда</string>
