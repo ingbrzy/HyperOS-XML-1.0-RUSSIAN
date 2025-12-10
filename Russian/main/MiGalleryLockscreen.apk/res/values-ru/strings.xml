@@ -901,6 +901,10 @@ mm"</string>
     <string name="solar_term_white_dews">Белые росы</string>
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
+    <string name="sst_auto_recommand_desc">Подпишитесь на ваши любимые категории, чтобы ежедневно получать свежие изображения и истории на экран блокировки.</string>
+    <string name="sst_auto_recommand_title">Рекомендуемые обои</string>
+    <string name="sst_carousel_setting">Настройки</string>
+    <string name="sst_carousel_wallpaper">Перемешать обои</string>
     <string name="sst_ai_wallpaper_Activity_title">Создание обоев с помощью ИИ</string>
     <string name="sst_ai_wallpaper_desc">Нарисованные от руки изображения можно использовать для создания с помощью ИИ обоев высокой четкости в различных стилях</string>
     <string name="sst_ai_wallpaper_title">Создание обоев с помощью ИИ</string>
