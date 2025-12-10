@@ -2879,7 +2879,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="handle_title_details">Информация о батарее</string>
     <string name="handle_title_network">Безопасность Wi-Fi</string>
     <string name="handle_title_pay_env">Безопасность платежей</string>
-    <string name="handle_title_privacy">Приватность и безопасность</string>
+    <string name="handle_title_privacy">Приватность</string>
     <string name="handle_title_system">Потребление системой</string>
     <string name="hide_mode_app_background_setting_text">Контроль активности</string>
     <string name="hide_mode_result_summary_text">Настройка экономии заряда для отдельных приложений</string>
@@ -4707,7 +4707,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="priority_storage_summary">Выберите место для сохранения данных</string>
     <string name="priority_storage_title">Данные приложений</string>
     <string name="privacy">Конфиденциальность</string>
-    <string name="privacy_and_safety">Приватность и безопасность</string>
+    <string name="privacy_and_safety">Приватность</string>
     <string name="privacy_app_behavior_summary">Автозапуск, разрешения и другое</string>
     <string name="privacy_app_behavior_title">История действий</string>
     <string name="privacy_app_permission_manage_summary">Управление разрешениями установленных приложений</string>
