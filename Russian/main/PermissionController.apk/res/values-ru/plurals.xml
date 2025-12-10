@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d новое уведомление</item>
+	<item quantity="other">%d нового уведомления</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="one">1 минута</item>
+        <item quantity="other">%d минут</item>
+    </plurals>
+    <plurals name="wear_m3c_time_picker_hours_content_description">
+        <item quantity="one">%d час</item>
+        <item quantity="other">%d часа</item>
+    </plurals>
+    <plurals name="wear_m3c_time_picker_minutes_content_description">
+        <item quantity="one">%d минута</item>
+        <item quantity="other">%d минуты</item>
+    </plurals>
+    <plurals name="wear_m3c_time_picker_seconds_content_description">
+        <item quantity="one">%d секунда</item>
+        <item quantity="other">%d секунды</item>
+    </plurals>
+</resources>
