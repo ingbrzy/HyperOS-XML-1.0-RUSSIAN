@@ -633,7 +633,7 @@
     <string name="other_permissions_label">Другие разрешения</string>
     <string name="other_use">Использование другими сервисами:</string>
     <string name="password_toggle_content_description">Показать пароль</string>
-    <string name="perm_educate_post_notification">"Уведомления могут сопровождаться звуком и вибрацией, отображаясь в панели уведомлений и на значках главного экрана. Изменить настройки уведомлений можно в разделе «Настройки»".</string>
+    <string name="perm_educate_post_notification">"Уведомления могут сопровождаться звуком и вибрацией, отображаясь в панели уведомлений и на значках главного экрана. Изменить параметры уведомлений можно в разделе «Настройки»".</string>
     <string name="perm_toggle_description">Для приложений и сервисов</string>
     <string name="perm_usage_adv_info_summary_2_items">%1$s, %2$s</string>
     <string name="perm_usage_adv_info_summary_more_items">%1$s, %2$s и ещё %3$s</string>
