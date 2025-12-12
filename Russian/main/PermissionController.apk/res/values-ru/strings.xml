@@ -219,7 +219,7 @@
     <string name="car_ui_toolbar_menu_item_search_title">Поиск</string>
     <string name="car_ui_toolbar_menu_item_settings_title">Настройки</string>
     <string name="car_ui_toolbar_nav_icon_content_description">Назад</string>
-    <string name="carwith_grant_permission_tips_when_lock">Unlock your phone first</string>
+    <string name="carwith_grant_permission_tips_when_lock">Разблокируйте телефон</string>
     <string name="cdm_profile_revoke_warning">Без этого разрешения некоторые функции устройства, связанные с этим приложением, могут работать неправильно.</string>
     <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышено ограничение на количество символов (%1$d из %2$d)</string>
@@ -685,21 +685,21 @@
     <string name="permgroupbackgroundrequestdetail_location">Этому приложению может потребоваться доступ к вашему местоположению, даже когда вы им не пользуетесь. Предоставьте разрешение в <annotation id="link">настройках</annotation>.</string>
     <string name="permgroupbackgroundrequestdetail_microphone">Это приложение может записывать аудио в любое время, даже когда вы им не пользуетесь. <annotation id="link">Предоставьте разрешение в настройках.</annotation></string>
     <string name="permgroupbackgroundrequestdetail_sensors">Чтобы предоставить приложению доступ к данным нательных датчиков, даже когда вы им не пользуетесь, <annotation id="link">измените настройки</annotation>.</string>
-    <string name="permgroupdesc_calendar">Allow %1$s to access calendar events?</string>
-    <string name="permgroupdesc_calllog">Allow %1$s to access and save items to call history?</string>
-    <string name="permgroupdesc_camera">Allow %1$s to take photos and record videos?</string>
-    <string name="permgroupdesc_contacts">Allow %1$s to access and edit contacts?</string>
-    <string name="permgroupdesc_location">Allow %1$s to access location info?</string>
-    <string name="permgroupdesc_microphone">Allow %1$s to record audio?</string>
-    <string name="permgroupdesc_phone">Allow %1$s to make calls and access device info?</string>
-    <string name="permgroupdesc_read_media_aural">Allow %1$s to access audio files stored on your device?</string>
-    <string name="permgroupdesc_read_media_visual">Allow %1$s to access photos and videos stored on your device?</string>
-    <string name="permgroupdesc_read_media_visual_more">Allow %1$s to access more photos and videos?</string>
-    <string name="permgroupdesc_read_media_visual_u">Allow %1$s to access photos and videos?</string>
-    <string name="permgroupdesc_recognition">Allow %1$s to access health and activity data?</string>
-    <string name="permgroupdesc_sensors">Allow %1$s to access body sensor data?</string>
-    <string name="permgroupdesc_sms">Allow %1$s to read or send SMS?</string>
-    <string name="permgroupdesc_storage">Allow %1$s to access photos and files on this device?</string>
+    <string name="permgroupdesc_calendar">Разрешить %1$s доступ к событиям календаря?</string>
+    <string name="permgroupdesc_calllog">Разрешить %1$s доступ и сохранение журнала звонков?</string>
+    <string name="permgroupdesc_camera">Разрешить %1$s делать фото и записывать видео?</string>
+    <string name="permgroupdesc_contacts">Разрешить %1$s доступ к контактам и их редактирования?</string>
+    <string name="permgroupdesc_location">Разрешить %1$s доступ к информации о местоположении?</string>
+    <string name="permgroupdesc_microphone">Разрешить %1$s запись звука?</string>
+    <string name="permgroupdesc_phone">Разрешить %1$s совершать звонки и доступ к информации об устройстве?</string>
+    <string name="permgroupdesc_read_media_aural">Разрешить %1$s доступ к аудиофайлам, хранящимся на вашем устройстве?</string>
+    <string name="permgroupdesc_read_media_visual">Разрешить %1$s доступ к фотографиям и видео, хранящимся на вашем устройстве?</string>
+    <string name="permgroupdesc_read_media_visual_more">Разрешить %1$s доступ к большему количеству фотографий и видео?</string>
+    <string name="permgroupdesc_read_media_visual_u">Разрешить %1$s доступ к фотографиям и видео?</string>
+    <string name="permgroupdesc_recognition">Разрешить %1$s доступ к данным о здоровье и активности?</string>
+    <string name="permgroupdesc_sensors">Разрешить %1$s доступ к данным телесных датчиков?</string>
+    <string name="permgroupdesc_sms">Разрешить %1$s читать или отправлять SMS?</string>
+    <string name="permgroupdesc_storage">Разрешить %1$s доступ к фотографиям и файлам на этом устройстве?</string>
     <string name="permgrouprequest_activityRecognition">Разрешить приложению &lt;b>%1$s&lt;/b> доступ к данным о физической активности?</string>
     <string name="permgrouprequest_calendar">Разрешить приложению &lt;b>%1$s&lt;/b> доступ к календарю?</string>
     <string name="permgrouprequest_calllog">Разрешить приложению &lt;b>%1$s&lt;/b> доступ к списку вызовов?</string>
