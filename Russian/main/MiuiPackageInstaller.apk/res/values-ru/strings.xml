@@ -186,6 +186,9 @@
     <string name="do_not_show_again">Больше не показывать</string>
     <string name="download_pause">Пауза</string>
     <string name="early_morning">Утро</string>
+    <string name="ecm_hint_content">Система заблокировала доступ приложению к конфиденциальным разрешениям. Некоторые функции могут быть недоступны.</string>
+    <string name="ecm_hint_jump_text">Разрешитm приложению использовать разрешения</string>
+    <string name="ecm_hint_title">Доступ запрещен</string>
     <string name="elder_mode_setting">Защита пожилых</string>
     <string name="elder_mode_setting_subtitle">Защита от установки опасных приложений и нарушения приватности</string>
     <string name="elder_mode_subtitle">Защита от установки опасных приложений, мошенничества и нарушения приватности</string>
@@ -253,7 +256,32 @@
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
-    <string name="general_mode_setting">Общие настройки защиты</string>
+    <string name="full_safe_about_protect_mode">Узнать больше</string>
+    <string name="full_safe_advanced_beta_version_update_tips_msg">"Период бета-тестирования: %2$d/%1$d–%4$d/%3$d
+1. Mi Protect теперь называется Mi Protect - базовый режим..
+2. Расширенная защита теперь доступна в режиме Mi Protect.
+3. Оцените комплексную, улучшенную безопасность, приняв участие в бета-тестировании совершенно нового режима Mi Protect"</string>
+    <string name="full_safe_advanced_beta_version_update_tips_title">Бета-тестирование Mi Protect</string>
+    <string name="full_safe_advanced_version_update_tips_msg">"Мы обновляем Mi Protect! Что нового:
+1. Mi Protect теперь называется Mi Protect - базовый режим.
+2. Расширенная защита теперь доступна в режиме Mi Protect.
+3. Оцените комплексную, улучшенную безопасность, приняв участие в бета-тестировании совершенно нового режима Mi Protect"</string>
+    <string name="full_safe_advanced_version_update_tips_title">Обновления для Mi Protect</string>
+    <string name="full_safe_auth_dialog_title">Подтвердите свою личность</string>
+    <string name="full_safe_bundle_app_confirm_install">Установить</string>
+    <string name="full_safe_enhance_mode_summary">Устанавливайте приложения только через GetApps</string>
+    <string name="full_safe_install_risk_source_dialog_safe_title_des">Установка приложений из этого источника может навредить системе или вашему устройству. Установите это приложение из других надежных источников</string>
+    <string name="full_safe_install_source_dialog_safe_title_des">Установка приложений из этого источника может представлять угрозу безопасности вашего устройства и личной информации</string>
+    <string name="full_safe_protect_guide_message">"При установке приложений, не входящих в GetApps, вы получите предупреждение системы безопасности. Для повышения уровня безопасности переключитесь на более высокий уровень защиты Mi Protect."</string>
+    <string name="full_safe_protect_title">Защищенная установка</string>
+    <string name="full_safe_version_update_known_button_text">Принять</string>
+    <string name="full_safe_version_update_tip_sub_title_not_renamed">"Приложение Mi Protect было обновлено! Вот что нового:"</string>
+    <string name="full_safe_version_update_tip_sub_title_rename">"Mi Protect теперь заменен на «Защищенная установка». Вот что нового:"</string>
+    <string name="full_safe_version_update_tip_text1">Более быстрая установка</string>
+    <string name="full_safe_version_update_tip_text2">Точное выявление рисков</string>
+    <string name="full_safe_version_update_tip_text3">Более интуитивно понятный интерфейс</string>
+    <string name="full_safe_version_update_tip_text4">Простая проверка личности</string>
+    <string name="full_safe_version_update_tip_title">Обновление сервисов</string>
     <string name="general_mode_setting_subtitle">Защита от небезопасных приложений и сохранение приватности</string>
     <string name="general_mode_subtitle">Защита от небезопасных приложений и сохранение приватности</string>
     <string name="general_mode_title">Общая защита</string>
