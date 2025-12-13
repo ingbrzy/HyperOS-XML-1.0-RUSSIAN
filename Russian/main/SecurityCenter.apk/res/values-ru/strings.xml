@@ -5155,6 +5155,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="section_title_clear_acc">Память</string>
     <string name="section_title_security_defend">Безопасность</string>
     <string name="section_title_system">Система</string>
+    <string name="security_access">Частный доступ</string>
+    <string name="security_access_contact_tip">Это приложение поддерживает приватный доступ. Доступ к данным имеют только выбранные вами контакты, что обеспечивает защиту вашей конфиденциальности.</string>
+    <string name="security_access_file_tip">Это приложение поддерживает приватный доступ. Доступ разрешен только к выбранным вами файлам для защиты вашей конфиденциальности.</string>
+    <string name="security_access_media_tip">Это приложение поддерживает приватный доступ. Доступ к фотографиям и видео будет предоставлен только выбранным вами, чтобы защитить вашу конфиденциальность.</string>
     <string name="security_bottom_guide_to_pm_text">Отпустите, чтобы открыть инструменты</string>
     <string name="security_center_auto_task">Центр задач</string>
     <string name="security_center_slogan">Безопасность</string>
