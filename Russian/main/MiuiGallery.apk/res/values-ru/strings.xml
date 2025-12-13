@@ -2568,6 +2568,11 @@ ID: %s
     <string name="privacy_permission_shotcut_detail">Для создания ярлыков на рабочем столе</string>
     <string name="privacy_permission_storage">Хранилище</string>
     <string name="privacy_permission_storage_detail">Для хранения фото и видео</string>
+    <string name="privacy_protect_settings_item_camera_subtitle">Включает модель устройства и параметры съемки</string>
+    <string name="privacy_protect_settings_item_camera_title">Удалить метаданные изображения</string>
+    <string name="privacy_protect_settings_item_location_subtitle">Информация о месте, где была сделана фотография</string>
+    <string name="privacy_protect_settings_item_location_title">Удалить местоположение фотографии</string>
+    <string name="privacy_protect_settings_title">Защита конфиденциальности</string>
     <string name="privacy_reject_map_detail_new"><Data>Отзыв согласия с&lt;a href=\"%1$s\">Заявлением Карты галереи о совместном использовании данных третьей стороной&lt;/a> будет рассматриваться как отказ от использования сервиса. Другие функции галереи по-прежнему будут доступны. Отозвать согласие?</Data></string>
     <string name="privacy_rejected">Отзыв согласия</string>
     <string name="privacy_rejected_map">Отзыв согласия с Политикой конфиденциальности Карты галереи</string>
