@@ -163,6 +163,11 @@
     <string name="ai_wallpaper_tips_service_exception">Произошла ошибка сервера. Подождите минуту или две и попробуйте снова.</string>
     <string name="ai_wallpaper_tips_title_content_violation">Неприемлемый контент</string>
     <string name="ai_wallpaper_tips_view">Пейзажи</string>
+    <string name="ai_wallpaper_local_title">Мои обои</string>
+    <string name="ai_wallpaper_dynamic_new">Динамические</string>
+    <string name="ai_wallpaper_featured_title">Рекомендуемые</string>
+    <string name="ai_pet">Животные с искусственным интеллектом</string>
+    <string name="ai_pet_select_desc">Для достижения наилучших результатов выбирайте фотографии, на которых ваш питомец хорошо виден, ничем не загорожен и занимает более половины кадра.</string>
     <string name="air_quality_index_abbreviation">ИКВ</string>
     <string name="all_resources">Все</string>
     <string name="all_selected_talkback">Выбрано все</string>
@@ -646,6 +651,7 @@
     <string name="item_resource_audio_optional_notification_ring">Уведомление</string>
     <string name="item_resource_audio_optional_phone_ring">Мелодии</string>
     <string name="item_view_role_description">Вкладка</string>
+    <string name="kg_wallpaper_filter_type_raw">Оригинал</string>
     <string name="kuyin_user_agreement_content">Подписки на пользовательские рингтоны предоставлены iFlytek. Прежде чем использовать пользовательские рингтоны, Вы должны принять %s. Согласны?</string>
     <string name="kuyin_user_agreement_content_href">Политика конфиденциальности iFlytek</string>
     <string name="lab">Лаборатория тем</string>
@@ -945,6 +951,7 @@ mm"</string>
     <string name="online_precust_scenery">Пейзажи</string>
     <string name="online_search_hint">Поиск онлайн-ресурсов</string>
     <string name="order_list">История покупок</string>
+    <string name="original_image">Оригинал</string>
     <string name="ota_recovery_theme_dialog_message">Некоторые компоненты используемой темы могут быть несовместимы с последней версией системы. Несовместимые компоненты будут заменены компонентами по умолчанию.</string>
     <string name="ota_recovery_theme_dialog_title">Восстановление исходной темы</string>
     <string name="ota_recovery_theme_notity_btn">Восстановить</string>
