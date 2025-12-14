@@ -1531,6 +1531,8 @@ ID: %s
     <string name="is">Да</string>
     <string name="is_higher_definition">HD просмотр</string>
     <string name="is_in_ocr">Распознавание…</string>
+    <string name="journey">Путешествия</string>
+    <string name="journey_time_all">Все</string>
     <string name="keyboard_shortcut_copy">Копировать</string>
     <string name="keyboard_shortcut_cut">Вырезать</string>
     <string name="keyboard_shortcut_day">День</string>
@@ -2501,6 +2503,8 @@ ID: %s
     <string name="pick_people_cover_processing">Подождите…</string>
     <string name="pick_people_cover_success">Обложка установлена</string>
     <string name="pick_too_many_recipients">Слишком много получателей</string>
+    <string name="picker_album_tab">Альбомы</string>
+    <string name="picker_all_tab">Все</string>
     <string name="picker_cancel_download">Отменить загрузку</string>
     <string name="picker_continue_download">Продолжить загрузку</string>
     <string name="picker_continue_with_exists">Продолжить с фото на устройстве</string>
