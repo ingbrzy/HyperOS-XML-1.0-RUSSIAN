@@ -46,6 +46,7 @@
     <string name="autofill_save_message">Разрешить Xiaomi сохранять учётные записи и пароли?</string>
     <string name="autofill_save_ok">Разрешить</string>
     <string name="autofill_save_sub_message">Просматривать пароли и управлять ими можно в Настройки &gt; Пароли и защита &gt; %s</string>
+    <string name="autofill_save_sub_message_new">Просматривать пароли и управлять ими можно в Настройки > %1$s > %2$s.</string>
     <string name="autofill_save_title">Автосохранение данных</string>
     <string name="autofill_service_name">Управление паролями</string>
     <string name="back_double_tap">Двойное постукивание</string>
@@ -170,6 +171,7 @@
     <string name="enable_nfc_haptic_reverse">Обратная зарядка прекращена. NFC и вибрация снова включены.</string>
     <string name="enable_nfc_reverse">Обратная зарядка прекращена. NFC снова включён.</string>
     <string name="expect">Ожидание</string>
+    <string name="face_password_unlock_new">Данные лица &amp; экран блокировки</string>
     <string name="fadein">Нарастание</string>
     <string name="fadeout">Затухание</string>
     <string name="fairyland">Сказка</string>
@@ -181,6 +183,8 @@
     <string name="file_cannot_screen_throw">"Не удаётся транслировать."</string>
     <string name="file_sending">Передача файлов…</string>
     <string name="fingerprint_double_tap">Двойное касание сканера отпечатков</string>
+    <string name="fingerprint_face_password_unlock_new">Отпечатки пальцев, данные лица и блокировка экрана.</string>
+    <string name="fingerprint_password_unlock">Отпечатки пальцев &amp; блокировка экрана</string>
     <string name="fireflies">Светлячки</string>
     <string name="first_back_long_press_message">Чтобы задать свои действия при долгом нажатии кнопок навигации, перейдите в Настройки &gt; Дополнительно &gt; Кнопки и жесты</string>
     <string name="flip_screen_camera_tip">Поверните устройство, чтобы использовать камеру</string>
