@@ -212,6 +212,7 @@
     <string name="miplay_service_timeout_toast">Таймаут соединения. Попробуйте ещё раз.</string>
     <string name="miplay_song_title_empty">Ничего нет</string>
     <string name="miplay_switch_local_device_when_in_audio_share_hint">Завершите обмен аудио и повторите попытку</string>
+    <string name="miplay_device_type_name_watch">Часы</string>
     <string name="miplay_tv_cast_retry_toast">Перезапустите трансляцию</string>
     <string name="miui_dnd_count_down">Таймер</string>
     <string name="miui_dnd_count_down_time">"Таймер
