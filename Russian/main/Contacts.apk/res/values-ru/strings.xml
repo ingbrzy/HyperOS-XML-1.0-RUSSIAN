@@ -949,7 +949,7 @@
     <string name="phone_primary">Основной</string>
     <string name="photoPickerNotFoundText">На устройстве нет изображений</string>
     <string name="pick_new_photo">Выбрать новое фото из %s</string>
-    <string name="pick_photo">Выбрать фото из %s</string>
+    <string name="pick_photo">Выбрать из галереи</string>
     <string name="pickerNewContactHeader">Создать новый контакт</string>
     <string name="picker_all_list_empty">Нет контактов</string>
     <string name="picker_contact_title">Выберите контакт</string>
