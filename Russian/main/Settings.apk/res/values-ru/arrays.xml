@@ -322,6 +322,13 @@
         <item>Не более 3 процессов</item>
         <item>Не более 4 процессов</item>
     </string-array>
+    <string-array name="audio_dump_mode_entries">
+        <item>Отключено</item>
+        <item>Уровень 7</item>
+        <item>Уровень 9</item>
+        <item>Уровень 11</item>
+        <item>Уровень 15</item>
+    </string-array>
     <string-array name="autofill_logging_level_entries">
         <item>Отключено</item>
         <item>Отладка</item>
