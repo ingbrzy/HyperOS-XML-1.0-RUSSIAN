@@ -967,6 +967,7 @@
     <string name="attempt_other_network">Попробовать другую сеть</string>
     <string name="au_pay">au PAY</string>
     <string name="audio_category_title">Аудио</string>
+	<string name="audio_dump_mode_title">Режим сброса звука</string>
     <string name="audio_not_synced">Аудио не синхронизировано</string>
     <string name="audio_profile_settings_title">Профили аудио</string>
     <string name="audio_record_proc_title">"Подавление шума"</string>
@@ -12483,3 +12484,4 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="zone_time_type_dst">Летнее время</string>
     <string name="zone_time_type_standard">Стандартное время</string>
 </resources>
+
