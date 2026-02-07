@@ -2178,6 +2178,7 @@ UT-интерфейс: %5$s"</string>
     <string name="telephony_setting">Приложения/Другие настройки/Настройки системных приложений/Телефон</string>
     <string name="telocation_auto_country_code">Добавлять код страны</string>
     <string name="telocation_auto_country_code_summary">Автоматически добавлять код страны перед набором номера</string>
+    <string name="telocation_auto_country_code_summary_while_roaming">Автоматически добавлять код страны к номеру при наборе в роуминге. Номера содержащие код страны, будут набираться как есть.</string>
     <string name="telocation_call_assistant">Помощь в наборе номера</string>
     <string name="telocation_confim_delete_title">Удалить эту запись?</string>
     <string name="telocation_contacts_countrycode">Код страны по умолчанию</string>
