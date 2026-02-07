@@ -594,6 +594,7 @@
     <string name="pa_recommend_card_text_des">%s. Откройте магазин виджетов для подробностей.</string>
     <string name="pa_recommend_card_title">Рекомендуемые</string>
     <string name="pa_recommend_no_network">Загрузите приложение</string>
+    <string name="pa_record_number">Регистрационный номер ICP: 10046444-66A</string>
     <string name="pa_rtk_card_title">Панель</string>
     <string name="pa_rtk_more_content_description">Параметры</string>
     <string name="pa_rtk_place_holder_text">Виджет перемещён на панель</string>
