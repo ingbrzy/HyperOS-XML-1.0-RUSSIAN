@@ -77,7 +77,7 @@
     <string name="app_permission_button_allow">Разрешить</string>
     <string name="app_permission_button_allow_all_files">Разрешить управление всеми файлами</string>
     <string name="app_permission_button_allow_always">Разрешить в любом режиме</string>
-    <string name="app_permission_button_allow_foreground">Разрешить только во время использования приложения</string>
+    <string name="app_permission_button_allow_foreground">Разрешить только во время использования</string>
     <string name="app_permission_button_allow_limited_access">Разрешить ограниченный доступ</string>
     <string name="app_permission_button_allow_media_only">Разрешить доступ только к медиафайлам</string>
     <string name="app_permission_button_always_allow_all">Постоянный полный доступ</string>
@@ -188,6 +188,7 @@
     <string name="blocked_microphone_title">Микрофон устройства заблокирован</string>
     <string name="blocked_sensor_button_label">Изменить</string>
     <string name="blocked_sensor_summary">Для приложений и сервисов</string>
+    <string name="blur_location_title">Пониженная точность</string>
     <string name="bottomsheet_action_collapse">Свернуть нижний экран</string>
     <string name="bottomsheet_action_expand">Развернуть нижний экран</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
@@ -256,7 +257,8 @@
     <string name="default_popup_window_title">Всплывающее окно</string>
     <string name="denied_header">Запрещено</string>
     <string name="denied_permission_decision">Вы запретили приложению \"%1$s\" доступ к разрешению \"%2$s\"</string>
-<string name="deny_permission_deny_and_dont_ask_again">Запретить и больше не спрашивать</string>
+    <string name="deny_fine_keep_blur_location">Пониженная точность</string>
+    <string name="deny_permission_deny_and_dont_ask_again">Запретить и больше не спрашивать</string>
     <string name="deny_read_media_aural_warning">Это приложение было разработано для более ранней версии Android. Если вы запретите ему доступ к музыке и другим аудиофайлам, у приложения также не будет доступа к фото и видео.</string>
     <string name="deny_read_media_visual_warning">Это приложение было разработано для более ранней версии Android. Если вы запретите ему доступ к фото и видео, у приложения также не будет доступа к музыке и другим аудиофайлам.</string>
     <string name="dialog_close">Закрыть</string>
@@ -864,6 +866,7 @@
     <string name="post_drive_permission_decision_reminder_title">Проверьте недавние разрешения</string>
     <string name="pp_privacy_lab_operator_introduction">Внимание</string>
     <string name="precise_image_description">Точное местоположение</string>
+    <string name="precise_location_title">Точное местоположение</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_controls_qs">Ваши настройки конфиденциальности</string>
     <string name="privacy_controls_title">Настройки конфиденциальности</string>
