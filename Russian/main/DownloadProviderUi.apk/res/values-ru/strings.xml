@@ -95,6 +95,7 @@
     <string name="download_error_insufficient_space">Недостаточно места</string>
     <string name="download_filesize_unknown">Неизвестно</string>
     <string name="download_from">Источник:</string>
+    <string name="download_icp">Регистрационный номер ICP: B2-20050219-23</string>
     <string name="download_in_process">Активные</string>
     <string name="download_info_start_deleted_tasks">Удалить загрузки</string>
     <string name="download_list_intoAuthAlert">Подождите…</string>
