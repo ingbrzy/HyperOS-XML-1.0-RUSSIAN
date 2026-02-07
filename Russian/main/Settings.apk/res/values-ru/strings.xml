@@ -3233,6 +3233,14 @@
     <string name="device_battery">Батарея</string>
     <string name="device_build_id">Номер сборки</string>
     <string name="device_camera">Камера</string>
+	<string name="device_class_car_kit">Автомобильная система</string>
+    <string name="device_class_headset">Наушники</string>
+	<string name="device_class_hearing_aid">Слуховой аппарат</string>
+	<string name="device_class_other">Другое</string>
+	<string name="device_class_setting_summary">Укажите тип устройства, чтобы еще больше оптимизировать работу</string>
+	<string name="device_class_setting_title">Тип устройства</string>
+	<string name="device_class_speaker">Динамик</string>
+	<string name="device_class_watch">Часы</string>
     <string name="device_complete_parameters">Все параметры</string>
     <string name="device_cpu">Процессор</string>
     <string name="device_cpu10_info">"Десять ядер "</string>
@@ -12484,4 +12492,5 @@ Add another fingerprint so it’s easier to unlock when you hold your phone in d
     <string name="zone_time_type_dst">Летнее время</string>
     <string name="zone_time_type_standard">Стандартное время</string>
 </resources>
+
 
