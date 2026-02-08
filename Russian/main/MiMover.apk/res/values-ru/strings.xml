@@ -599,6 +599,7 @@
     <string name="permission_wifi_summary">Для переноса файлов на новое устройство</string>
     <string name="permission_wifi_title">Включение и выключение Wi-Fi</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
+    <string name="privacy_icp_identity">Регистрационный номер ICP: 10046444-32A</string>
     <string name="privacy_policy">Политика Конфиденциальности</string>
     <string name="prompt_before_transmission_message1_summary">Если вы выберете перенос со старого устройства, данные приложения (включая историю чата) будут перезаписаны.</string>
     <string name="prompt_before_transmission_message1_title">Эти приложения уже создали данные на новом устройстве</string>
