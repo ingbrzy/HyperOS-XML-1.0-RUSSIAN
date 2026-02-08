@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_Action_Accept_Once">Разрешить один раз</string>
+    <string name="HIPS_Action_Accept_This">Разрешить один раз</string>
+    <string name="HIPS_Action_Reject_Once">Отказаться один раз</string>
+    <string name="HIPS_Perm_Access_Gallery">Получите доступ к фотографиям и видео, снятым камерой</string>
+    <string name="HIPS_Perm_Access_Gallery_Desc">Разрешить этому приложению доступ к фотографиям и видео, снятым системным приложением «Камера»</string>
+    <string name="HIPS_Perm_CallLog_Desc">редактирование истории звонков</string>
+    <string name="HIPS_Perm_Read_Call_Log_Desc">чтение истории звонков</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Ещё</string>
@@ -788,6 +795,8 @@
     <string name="permission_history_category_today">Сегодня</string>
     <string name="permission_history_category_yesterday">Вчера</string>
     <string name="permission_history_title">История разрешений</string>
+    <string name="permission_list_include">"Включая следующие:
+"</string>
     <string name="permission_rationale_data_sharing_device_manufacturer_message">Разработчик предоставил производителю устройства информацию о том, как приложение передает данные. Со временем он может ее обновить.</string>
     <string name="permission_rationale_data_sharing_source_message">Разработчик предоставил <annotation id="link"><annotation example="App Store" id="install_source">%1$s</annotation></annotation> информацию о том, как приложение передает данные. Со временем она может обновляться.</string>
     <string name="permission_rationale_data_sharing_source_title">Источник сведений о передаче данных</string>
@@ -1005,13 +1014,13 @@
     <string name="show_password_summary">Ненадолго показывать символы при вводе</string>
     <string name="show_password_title">Показывать пароли</string>
     <string name="side_sheet_accessibility_pane_title">Боковая панель</string>
-    <string name="size_byte">B</string>
-    <string name="size_giga_byte">GB</string>
-    <string name="size_kilo_byte">KB</string>
-    <string name="size_mega_byte">MB</string>
-    <string name="size_peta_byte">PB</string>
+    <string name="size_byte">Б</string>
+    <string name="size_giga_byte">ГБ</string>
+    <string name="size_kilo_byte">КБ</string>
+    <string name="size_mega_byte">МБ</string>
+    <string name="size_peta_byte">ПТ</string>
     <string name="size_suffix">%1$s%2$s</string>
-    <string name="size_tera_byte">TB</string>
+    <string name="size_tera_byte">ТБ</string>
     <string name="snackbar_accessibility_pane_title">Alert</string>
     <string name="snackbar_pane_title">Alert</string>
     <string name="solar_term_autumn_begins">Autumn begins</string>
@@ -1178,6 +1187,6 @@
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>
-    <string name="yesterday">Yesterday</string>
+    <string name="yesterday">Вчера</string>
     <string name="zero_unused_apps">Нет неиспользуемых приложений</string>  
 </resources>
