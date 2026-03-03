@@ -187,7 +187,7 @@
     <string name="download_pause">Пауза</string>
     <string name="early_morning">Утро</string>
     <string name="ecm_hint_content">Система заблокировала доступ приложению к конфиденциальным разрешениям. Некоторые функции могут быть недоступны.</string>
-    <string name="ecm_hint_jump_text">Разрешитm приложению использовать разрешения</string>
+    <string name="ecm_hint_jump_text">Разрешить приложению использовать разрешения</string>
     <string name="ecm_hint_title">Доступ запрещен</string>
     <string name="elder_mode_setting">Защита пожилых</string>
     <string name="elder_mode_setting_subtitle">Защита от установки опасных приложений и нарушения приватности</string>
