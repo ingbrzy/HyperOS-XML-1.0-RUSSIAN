@@ -4898,6 +4898,7 @@ ID: %s
     <string name="hwui_force_dark_summary">Принудительное включение тёмного режима</string>
     <string name="hwui_force_dark_title">Переопределение тёмного режима</string>
     <string name="icon_content_description">Иконка диалога</string>
+	<string name="icon_display_customization_action">Отображение значков</string>
     <string name="ignore_optimizations_off">Экономить</string>
     <string name="ignore_optimizations_off_desc">Рекомендуется для увеличения времени работы устройства от батареи.</string>
     <string name="ignore_optimizations_on">Не экономить</string>
