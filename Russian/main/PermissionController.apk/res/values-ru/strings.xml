@@ -769,7 +769,7 @@
     <string name="permgroupupgraderequestdetail_sensors">Это приложение запрашивает постоянный доступ к данным нательных датчиков, даже в то время, когда вы им не пользуетесь. Изменить его разрешения можно в <annotation id="link">настройках</annotation>.</string>
     <string name="permission_access_always">Разрешить в любом режиме</string>
     <string name="permission_access_never">Запретить</string>
-    <string name="permission_access_only_foreground">Разрешить только во время использования приложения</string>
+    <string name="permission_access_only_foreground">Разрешить только во время использования</string>
     <string name="permission_add_background_warning_template">Всегда разрешать приложению &lt;b>%1$s&lt;/b> %2$s?</string>
     <string name="permission_description_summary_activity_recognition">Приложения с этим разрешением могут получать доступ к данным о вашей физической активности, включая количество пройденных шагов и продолжительность прогулок и поездок на велосипеде.</string>
     <string name="permission_description_summary_calendar">Приложения с этим разрешением могут получать доступ к календарю.</string>
