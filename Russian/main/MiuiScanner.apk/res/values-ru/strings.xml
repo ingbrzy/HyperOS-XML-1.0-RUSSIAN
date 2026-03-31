@@ -142,6 +142,7 @@
     <string name="confirm">ОК</string>
     <string name="connect_to_wifi">Подключиться к этой сети</string>
     <string name="connect_wifi">Подключиться к Wi-Fi</string>
+    <string name="connect_wifi_no_local_premissions">Подключитесь к этой сети (требуются права доступа к местоположению)</string>
     <string name="contact_details">Информация о контакте:</string>
     <string name="content_desktop_uninstall">Приложение \"Сканер\" является системным. После его удаления соответствующие функции будут недоступны в приложениях Mi Браузер, Камера, Mi AI, Контакты и некоторых системных сервисах.</string>
     <string name="continue_access_web_url">Перейти на сайт</string>
