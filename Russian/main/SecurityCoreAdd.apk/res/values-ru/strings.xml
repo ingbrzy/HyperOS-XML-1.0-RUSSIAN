@@ -1174,7 +1174,7 @@
     <string name="xspace_head">Клон приложения</string>
     <string name="xspace_header">Клонированные</string>
     <string name="xspace_instagram_title">Instagram</string>
-    <string name="xspace_install_complete">&lt;font>Клон приложения успешно создан. &lt;/font>&lt;font color=#0D84FF>Открыть&lt;/font>.</string>
+    <string name="xspace_install_complete">Клон приложения успешно создан. Откройте его на главном экране</string>
     <string name="xspace_install_completed">Ярлык добавлен на рабочий стол</string>
     <string name="xspace_install_completed_global">Приложение добавлено</string>
     <string name="xspace_install_failed">Ошибка установки</string>
