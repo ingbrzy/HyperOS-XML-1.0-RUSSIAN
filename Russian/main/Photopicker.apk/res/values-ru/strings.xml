@@ -436,7 +436,7 @@ Only items that are backed up will appear in your search results."</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="search_menu_title">Поиск</string>
-    <string name="security_access">Частный доступ</string>
+    <string name="security_access">Приватный доступ</string>
     <string name="security_access_tip_content">Другие приложения могут получать доступ только к выбранным вами фото и видео, чтобы защитить вашу конфиденциальность</string>
     <string name="select_photo">Выберите фото</string>
     <string name="select_photo_and_video">Выберите фото и видео</string>
