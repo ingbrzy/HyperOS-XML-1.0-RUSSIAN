@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 час назад</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d часов назад</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Полчаса назад</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">%d часов</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Через полчаса</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Сейчас</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="one"> %d минута</item>
+        <item quantity="other"> %d минут</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Сейчас</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="one">%d минут назад</item>
+        <item quantity="other">%d минут назад</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="one">Выбран %1$d элемент</item>
+        <item quantity="other">Выбрано %1$d элементов</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Перемотка вперед %d секунд</item>
+        <item quantity="other">Перемотка вперед %d секунды</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">Перемотка %d секунд</item>
+        <item quantity="other">Перемотка %d секунды</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Полчаса назад</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Через 1 час</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Через полчаса</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Сейчас</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="one">Через 1 минуту</item>
+        <item quantity="other">Через %d минут</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Сейчас</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="one">%d элемент выбран</item>
+        <item quantity="other">%d элементов выбрано</item>
+    </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="one">Выбран %1$d элемент</item>
+        <item quantity="other">Выбрано %1$d элементов</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="one">1 минуту назад</item>
+        <item quantity="other">%d минут назад</item>
+    </plurals>
+    <plurals name="picker_full_format">
+        <item quantity="one">Выбрано до %d фото</item>
+        <item quantity="other">Выбрано до %d фото</item>
+    </plurals>
+</resources>
