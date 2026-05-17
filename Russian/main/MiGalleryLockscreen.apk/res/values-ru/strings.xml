@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about_download_fail">Ошибка загрузки</string>
     <string name="about_downloading">Загрузка %s</string>
+    <string name="about_gallery_icp">Регистрационный номер: ICP № 10046444-42A</string>
     <string name="about_item_function">Новые возможности</string>
     <string name="about_net_error">Проверьте настройки сети и повторите попытку.</string>
     <string name="about_newest">Карусель обоев устарела.</string>
@@ -424,7 +425,7 @@
     <string name="lws_loop_wallpaper_close_dlg_desc">После отключения этой функции обои будут восстановлены до настроек по умолчанию.</string>
     <string name="lws_loop_wallpaper_close_dlg_title">Выключить сейчас?</string>
     <string name="lws_loop_wallpaper_open_btn_text">Включить</string>
-    <string name="lws_loop_wallpaper_open_btn_text2">Добавить в случайное отображение обоев</string>
+    <string name="lws_loop_wallpaper_open_btn_text2">Включить случайные обои</string>
     <string name="lws_minutes_15_per">Каждые %d минут</string>
     <string name="lws_minutes_5_per">Каждые %d минут</string>
     <string name="lws_wallpaper_apply_both">На оба</string>
@@ -948,6 +949,10 @@ mm"</string>
     <string name="sst_custom_wallpaper_desc">Выберите изображения из Галереи и Историй</string>
     <string name="sst_custom_wallpaper_title">Пользовательское слайд-шоу</string>
     <string name="sst_custom_wallpaper_title2">Слайд-шоу</string>
+    <string name="sst_disable_dlg_cancel">Отмена</string>
+    <string name="sst_disable_dlg_close">Выключить</string>
+    <string name="sst_disable_dlg_content">Если вы отключите слайд-шоу, то больше не увидите избранные изображения на экране блокировки. Отключить?</string>
+    <string name="sst_disable_dlg_title">Отключить слайд-шоу?</string>
     <string name="sst_disable_unopen">Бета-функции</string>
     <string name="sst_effect_next_wallpaper">Установите новые обои чтобы увидеть изменения</string>
     <string name="sst_favor_desc">Просмотр избранных историй</string>
@@ -955,11 +960,22 @@ mm"</string>
     <string name="sst_feedback_title">Обратная связь</string>
     <string name="sst_grid_view_select_all">Выбрать все</string>
     <string name="sst_grid_view_unselect_all">Снять выделение</string>
+    <string name="sst_image_quality_title">Качество изображения</string>
+    <string name="sst_lock_screen_carousel">Слайд-шоу</string>
     <string name="sst_lockscreen_show_headline_desc">Показывать название обоев под часами на экране блокировки</string>
     <string name="sst_lockscreen_show_headline_title">Название на экране блокировки</string>
+    <string name="sst_lockscreen_swipe_right">Провеcти пальцем вправо от экрана блокировки</string>
+    <string name="sst_lockscreen_swipe_right_desc">Проведите пальцем вправо на экране блокировки, чтобы просмотреть больше содержимого</string>
     <string name="sst_logo_desc">Ежедневно обновляемые обои</string>
+    <string name="sst_mobile_data_only">Загрузка через мобильные данные</string>
+    <string name="sst_mobile_data_only_new">Загружайте изображения с помощью мобильных данных</string>
     <string name="sst_mode_selection">Выбор режима</string>
     <string name="sst_more_subscription">Выбор категорий</string>
+    <string name="sst_morning_greeting">Утренние поздравления</string>
+    <string name="sst_morning_greeting_desc2">Получать приветствия между %1$s и %2$s каждое утро</string>
+    <string name="sst_morning_greeting_desc_new">Получайте вдохновляющие цитаты и изображения по утрам</string>
+    <string name="sst_morning_greeting_history_picture">История утренних поздравлений</string>
+    <string name="sst_morning_greeting_history_title">История утренних поздравлений</string>
     <string name="sst_morning_greeting_desc">Загружать ежедневно утренние приветствия</string>
     <string name="sst_morning_greeting_desc2">Загружать приветствия каждое утро между %1$s и %2$s часами</string>
     <string name="sst_morning_greeting_disable_toast">Эта функция будет доступна позже</string>
@@ -1000,6 +1016,7 @@ mm"</string>
     <string name="sst_wallpaper_define_title2">Добавление изображений</string>
     <string name="sst_wallpaper_history_des">Просмотр и выбор историй</string>
     <string name="sst_wallpaper_history_title">Истории</string>
+    <string name="sst_wallpaper_history_title2">История посещенных страниц</string>
     <string name="sst_wifi_only_desc">Не использовать мобильный интернет, 
 обновлять только по Wi-Fi</string>
     <string name="sst_wifi_only_title">Обновление по Wi-Fi</string>
