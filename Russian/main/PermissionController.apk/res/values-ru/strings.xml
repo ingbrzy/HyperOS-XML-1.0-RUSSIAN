@@ -477,9 +477,9 @@
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
-    <string name="miuix_appcompat_cancel_description">Cancel</string>
+    <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
-    <string name="miuix_appcompat_delete_description">Delete</string>
+    <string name="miuix_appcompat_delete_description">Удалить</string>
     <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
     <string name="miuix_appcompat_edit">Edit</string>
@@ -1059,7 +1059,6 @@
     <string name="state_empty">Пусто</string>
     <string name="state_off">Отключено</string>
     <string name="state_on">Включено</string>
-    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="storage_footer_hyperlink_text">Ещё приложения с доступом ко всем файлам</string>
     <string name="storage_supergroup_warning_allow">Это приложение было разработано для более ранней версии Android. Если вы предоставите это разрешение, у приложения будет доступ ко всем файлам в хранилище устройства (в том числе к фото, видео и аудио).</string>
     <string name="storage_supergroup_warning_deny">Это приложение было разработано для более ранней версии Android. Если вы не предоставите это разрешение, у приложения не будет доступа к файлам в хранилище устройства (в том числе к фото, видео и аудио).</string>
@@ -1115,13 +1114,13 @@
     <string name="thursday">Thursday</string>
     <string name="thursday_short">Thu</string>
     <string name="thursday_shortest">Thu</string>
-    <string name="tilte_request_coarse_location">Allow %1$s to access your approximate location?</string>
-    <string name="tilte_request_fine_location">Allow %1$s to access your precise location?</string>
+    <string name="tilte_request_coarse_location">Разрешить %1$s получить доступ к приблизительному местоположению?</string>
+    <string name="tilte_request_fine_location">Разрешить %1$s получить доступ к точному местоположению?</string>
     <string name="time_picker_dialog_title">Set time</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="today">Today</string>
-    <string name="tomorrow">Tomorrow</string>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
     <string name="tooltip_description">Подсказка</string>
     <string name="tooltip_label">Показать подсказку</string>
     <string name="uninstall_or_disable">Удалить или отключить</string>
