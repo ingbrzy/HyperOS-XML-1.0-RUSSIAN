@@ -115,7 +115,7 @@
     <string name="ai_in_line_match">Сервер занят</string>
     <string name="ai_inquire_apply_wallpaper">Применить эти обои?</string>
     <string name="ai_moving_your_wallpaper">Посмотрите, как искусственный интеллект может оживить ваши обои</string>
-    <string name="ai_moving_your_wallpaper_new">Попробуйте новые стили и добавьте динамические эффекты к вашим любимым обоям</string
+    <string name="ai_moving_your_wallpaper_new">Попробуйте новые стили и добавьте динамические эффекты к вашим любимым обоям</string>
     <string name="ai_read_the_privacy_policy">&lt;Data>Прочтите и согласитесь с &lt;a href=\"%1$s\">Пользовательским соглашением&lt;/a> и &lt;a href=\"%2$s\">Политикой конфиденциальности&lt;/a> для продолжения.&lt;/Data></string>
     <string name="ai_read_the_privacy_policy_pad">&lt;Data>Прочтите и согласитесь с &lt;a href=\"%1$s\">Пользовательским соглашением&lt;/a> и &lt;a href=\"%2$s\">Политикой конфиденциальности обоев и персонализации&lt;/a> для продолжения..&lt;/Data></string>
     <string name="ai_recorded_information">Регистрационная информация</string>
