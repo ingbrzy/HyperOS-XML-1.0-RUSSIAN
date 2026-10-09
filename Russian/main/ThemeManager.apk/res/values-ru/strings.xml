@@ -88,7 +88,7 @@
     <string name="ai_dialog_support_type_confirm">Попробовать</string>
     <string name="ai_dialog_support_type_content">Теперь вы можете создавать динамические обои с фотографиями людей или животных, а также изображениями аниме.</string>
     <string name="ai_dialog_support_type_title">Новые типы изображений</string>
-    <string formatted="false" name="ai_estimated_two_three_minutes">Это займет %d–%d минут</string>
+    <string formatted="false" name="ai_estimated_two_three_minutes">Ожидайте %d–%d минуты</string>
     <string name="ai_generate">AI-генерация</string>
     <string name="ai_generate_action">Сгенерировать</string>
     <string name="ai_generate_add_latter">Добавьте новые фотографии, когда процесс будет завершен.</string>
@@ -159,6 +159,9 @@
     <string name="ai_wallpaper_selection_prompt_message">Для достижения наилучших результатов выбирайте фотографии, соответствующие следующим категориям, и убедитесь, что основной объект изображения виден четко и ничем не загорожен.</string>
     <string name="ai_wallpaper_service_exception">Произошла ошибка</string>
     <string name="ai_wallpaper_start_use">Начать</string>
+    <string name="ai_wallpaper_static">Статические</string>
+    <string name="ai_wallpaper_stop_generation">Остановить</string>
+    <string name="ai_wallpaper_style">Статические</string>
     <string name="ai_wallpaper_tips_animal">Животное</string>
     <string name="ai_wallpaper_tips_anime">Аниме</string>
     <string name="ai_wallpaper_tips_car">Автомобили</string>
@@ -1393,6 +1396,7 @@ mm"</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
+    <string name="save_to_photo_successfully_toast">Сохраненно в галерее</string>
     <string name="scrollable_wallpaper_close">Прокрутка отключена</string>
     <string name="scrollable_wallpaper_open">Прокрутка включена</string>
     <string name="sdcard_not_mounted_dialog_message">"Вставьте SD-карту.
